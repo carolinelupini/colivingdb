@@ -18,6 +18,7 @@
     --ink:#1a2333; --muted:#5b6779; --line:#e5e9f0; --bg:#f7f9fc; --card:#ffffff;
     --accent:#0e7c66; --accent-soft:#e2f3ef; --warn:#8a6d1a; --warn-bg:#fdf6e0;
     --pop:#b4531a; --pop-bg:#fbeadd; --prog:#3b4fd8; --prog-bg:#eef2ff;
+    --rowhover:#f2f7f5;
   }
   *{box-sizing:border-box; margin:0; padding:0;}
   body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif; color:var(--ink); background:var(--bg);}
@@ -29,8 +30,6 @@
   .tagline{color:var(--muted); font-size:.85rem;}
   #search{margin-left:auto; padding:8px 14px; border:1px solid var(--line); border-radius:8px; font-size:.9rem; width:260px; max-width:100%;}
   #search:focus{outline:2px solid var(--accent-soft); border-color:var(--accent);}
-
-  .proto-note{background:var(--warn-bg); color:var(--warn); font-size:.8rem; padding:7px 22px; border-bottom:1px solid #f0e6c0;}
 
   .filters{padding:12px 22px; display:flex; gap:10px 12px; align-items:center; flex-wrap:wrap; background:var(--card); border-bottom:1px solid var(--line);}
   .frow{display:flex; gap:6px; align-items:center; flex-wrap:wrap;}
@@ -45,34 +44,58 @@
   #count{font-size:.83rem; color:var(--muted); margin-left:auto; white-space:nowrap;}
   #count b{color:var(--ink);}
 
-  #map{height:44vh; min-height:290px; z-index:1;}
+  #map{height:40vh; min-height:260px; z-index:1;}
 
-  .grid{display:grid; grid-template-columns:repeat(auto-fill,minmax(260px,1fr)); gap:14px; padding:18px 22px 40px;}
-  .card{background:var(--card); border:1px solid var(--line); border-radius:12px; padding:14px 16px; display:flex; flex-direction:column; gap:6px; transition:box-shadow .15s, border-color .15s;}
-  .card:hover{box-shadow:0 4px 14px rgba(20,40,80,.08);}
-  .card.hl{border-color:var(--accent); box-shadow:0 0 0 2px var(--accent-soft);}
-  .card h3{font-size:1rem; line-height:1.25;}
-  .card .loc{color:var(--muted); font-size:.83rem;}
-  .card .price{font-weight:700; font-size:.92rem;}
-  .card .price small{font-weight:400; color:var(--muted);}
-  .card .rooms{font-size:.78rem; color:var(--ink);}
-  .card .rooms b{font-weight:600;}
-  .card .meta{font-size:.76rem; color:var(--muted);}
-  .card .dates{font-size:.78rem; color:var(--pop); background:var(--pop-bg); border-radius:6px; padding:5px 8px; line-height:1.35;}
-  .card .notes{font-size:.76rem; color:var(--muted); font-style:italic; line-height:1.4;}
-  .tags{display:flex; flex-wrap:wrap; gap:5px; margin-top:2px;}
-  .t{background:var(--bg); border:1px solid var(--line); color:var(--muted); border-radius:6px; font-size:.7rem; padding:2px 7px;}
-  .t.dorm{background:var(--accent-soft); color:var(--accent); border-color:var(--accent);}
-  .badges{display:flex; gap:5px; flex-wrap:wrap;}
-  .b-approx{background:var(--warn-bg); color:var(--warn); border-radius:6px; font-size:.68rem; padding:2px 7px;}
-  .b-unclear{background:#fbeaea; color:#9a3838; border-radius:6px; font-size:.68rem; padding:2px 7px; font-weight:600;}
-  .b-pop{background:var(--pop-bg); color:var(--pop); border-radius:6px; font-size:.68rem; padding:2px 7px; font-weight:600;}
-  .b-prog{background:var(--prog-bg); color:var(--prog); border-radius:6px; font-size:.68rem; padding:2px 7px; font-weight:600;}
-  .card .out{margin-top:auto; padding-top:8px; font-size:.83rem; font-weight:600; text-decoration:none; display:flex; gap:12px; flex-wrap:wrap;}
-  .card .out .none{color:var(--muted); font-weight:400;}
+  /* columnar list — same fields aligned in every row */
+  .list{background:var(--card);}
+  .cols{display:grid; grid-template-columns:minmax(0,2.5fr) 0.9fr 1.25fr 1.15fr auto; gap:16px; align-items:center;}
+  .list-head{padding:11px 22px; border-bottom:1px solid var(--line); font-size:.7rem; text-transform:uppercase; letter-spacing:.05em; color:var(--muted); background:var(--bg);}
+  .list-head .r-price, .row .r-price{text-align:right;}
+  .list-head .r-link{min-width:74px;}
+  .row{padding:13px 22px; border-bottom:1px solid var(--line); cursor:default;}
+  .row:hover{background:var(--rowhover);}
+  .row.hl{background:var(--accent-soft);}
+
+  .r-name .nm{font-size:.98rem; font-weight:650; line-height:1.2;}
+  .r-name .loc{color:var(--muted); font-size:.8rem; margin-top:2px;}
+  .r-name .tags{display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;}
+  .r-name .dates{font-size:.76rem; color:var(--pop); background:var(--pop-bg); border-radius:6px; padding:3px 7px; margin-top:6px; line-height:1.35; display:inline-block;}
+  .t{background:var(--bg); border:1px solid var(--line); color:var(--muted); border-radius:6px; font-size:.68rem; padding:1px 6px;}
+
+  .b{border-radius:6px; font-size:.68rem; padding:2px 7px; font-weight:600; white-space:nowrap; display:inline-block;}
+  .b-perm{background:var(--accent-soft); color:var(--accent);}
+  .b-pop{background:var(--pop-bg); color:var(--pop);}
+  .b-prog{background:var(--prog-bg); color:var(--prog);}
+  .b-unclear{background:#fbeaea; color:#9a3838; margin-top:4px;}
+
+  .r-rooms{display:flex; flex-wrap:wrap; gap:4px; font-size:.72rem;}
+  .rm{border:1px solid var(--line); border-radius:6px; padding:1px 7px; color:var(--muted);}
+  .rm.dorm{background:var(--accent-soft); color:var(--accent); border-color:var(--accent);}
+
+  .r-price .from{font-weight:750; font-size:.98rem;}
+  .r-price .from small{font-weight:400; color:var(--muted); font-size:.72rem;}
+  .r-price .brk{font-size:.72rem; color:var(--muted); margin-top:2px; line-height:1.3;}
+  .r-price .brk b{font-weight:600; color:var(--ink);}
+  .r-price .onreq{font-size:.78rem; color:var(--muted);}
+
+  .r-link a{font-size:.83rem; font-weight:600; text-decoration:none; white-space:nowrap; display:block;}
+  .r-link .sched{font-size:.76rem; font-weight:500; margin-top:3px;}
+  .r-link .none{color:var(--muted); font-size:.78rem; font-weight:400;}
+
   .empty{padding:40px 22px; text-align:center; color:var(--muted);}
-  footer{padding:16px 22px 34px; color:var(--muted); font-size:.78rem; border-top:1px solid var(--line); line-height:1.6;}
-  @media (max-width:640px){ #search{width:100%; margin-left:0;} #count{margin-left:0;} }
+  footer{padding:18px 22px 40px; color:var(--muted); font-size:.78rem; line-height:1.6; background:var(--card); border-top:1px solid var(--line);}
+
+  @media (max-width:760px){
+    #search{width:100%; margin-left:0;} #count{margin-left:0;}
+    .list-head{display:none;}
+    .cols{grid-template-columns:1fr auto; gap:6px 14px;}
+    .row .r-type{grid-column:2; grid-row:1; justify-self:end;}
+    .row .r-name{grid-column:1; grid-row:1;}
+    .row .r-rooms{grid-column:1; grid-row:2;}
+    .row .r-price{grid-column:2; grid-row:2; text-align:right;}
+    .row .r-link{grid-column:1 / -1; grid-row:3; margin-top:4px;}
+    .r-link a{display:inline;}
+  }
 </style>
 </head>
 <body>
@@ -82,8 +105,6 @@
   <div class="tagline">every coliving, one map, no questions asked</div>
   <input id="search" type="search" placeholder="Search name, city, country…" autocomplete="off">
 </header>
-
-<div class="proto-note">⚠️ Prototype — <span id="protocount">…</span> colivings, seed data is <b>unverified</b>: prices are rough estimates, some pins are approximate, dates change. Built to test the UX, not to book from.</div>
 
 <div class="filters">
   <div class="frow" id="regions"></div>
@@ -117,7 +138,17 @@
 </div>
 
 <div id="map"></div>
-<div class="grid" id="grid"></div>
+
+<div class="list">
+  <div class="list-head cols">
+    <div class="r-name">Coliving</div>
+    <div class="r-type">Type</div>
+    <div class="r-rooms">Rooms</div>
+    <div class="r-price">Price / month</div>
+    <div class="r-link"></div>
+  </div>
+  <div id="rows"></div>
+</div>
 <div class="empty" id="empty" style="display:none">Nothing matches — loosen a filter.</div>
 
 <footer id="footer"></footer>
@@ -133,9 +164,8 @@ const TAGS = Object.keys(tagFreq).sort((a,b)=>tagFreq[b]-tagFreq[a]);
 
 const state = {region:"All", country:"", room:"", format:"", tags:new Set(), price:"", q:"", hideUnclear:false};
 
-document.getElementById("protocount").textContent = C.length;
 document.getElementById("footer").innerHTML =
-  `Seed data from an automated discovery + extraction + enrichment pass across public directories, chain sites, and per-region searches (${C.length} colivings). Prices normalized to approximate EUR/month; pop-up dates change and refresh periodically. Not yet wired: affiliate links, operator "claim your listing", human verification pass. Prototype ` + new Date().getFullYear() + '.';
+  `<b>colivingDB</b> indexes ${C.length} coliving spaces worldwide — permanent homes, seasonal pop-ups, and moving programs. Prices are approximate, in EUR per month, and change often; pop-up dates shift season to season. Always confirm details on the operator's own site before booking. Map data © OpenStreetMap contributors.`;
 
 // region chips
 const regionsEl = document.getElementById("regions");
@@ -170,19 +200,18 @@ function resetFilters(){
   render();
 }
 document.getElementById("reset").onclick=resetFilters;
-// Clean, in-sync state on every load incl. bfcache back/forward nav.
 window.addEventListener("pageshow", resetFilters);
 
 // map
 const map = L.map("map",{scrollWheelZoom:true}).setView([25,10],2);
 L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",{attribution:"© OpenStreetMap", maxZoom:18}).addTo(map);
+window.addEventListener("resize", () => map.invalidateSize());
 let markers=[];
 
 function hasRoom(x, room){
   if(room==="dorm") return x.dormAvailable || (x.roomTypes||[]).includes("dorm");
   return (x.roomTypes||[]).includes(room);
 }
-
 function filtered(){
   return C.filter(x=>
     (state.region==="All"||x.region===state.region) &&
@@ -196,19 +225,30 @@ function filtered(){
   );
 }
 
-// headline price: if a room type is selected and priced, show THAT; else 'from' cheapest
-function priceHtml(x){
+function priceCell(x){
   const p = x.prices||{};
-  if(state.room && p[state.room]) return `~€${p[state.room]}/mo <small>(${state.room})</small>`;
-  if(x.priceEurMonthly) return `~€${x.priceEurMonthly}/mo <small>from</small>`;
-  if(x.priceNote) return `<small>${x.priceNote}</small>`;
-  return `<small>price on request</small>`;
-}
-// per-room breakdown line (the comparison Caroline wanted)
-function roomsHtml(x){
-  const p = x.prices||{}; const order=["dorm","shared","private"];
+  let main;
+  if(state.room && p[state.room]) main = `<div class="from">€${p[state.room]}<small>/mo (${state.room})</small></div>`;
+  else if(x.priceEurMonthly) main = `<div class="from">€${x.priceEurMonthly}<small>/mo from</small></div>`;
+  else return `<div class="onreq">${x.priceNote ? x.priceNote : "on request"}</div>`;
+  const order=["dorm","shared","private"];
   const parts = order.filter(k=>p[k]).map(k=>`<b>${k}</b> €${p[k]}`);
-  return parts.length>1 ? `<div class="rooms">${parts.join(" · ")}/mo</div>` : "";
+  const brk = parts.length>1 ? `<div class="brk">${parts.join(" · ")}</div>` : "";
+  return main + brk;
+}
+function typeCell(x){
+  const cls = x.format==="pop-up"?"b-pop":(x.format==="program"?"b-prog":"b-perm");
+  const label = x.format==="pop-up"?"◷ pop-up":(x.format==="program"?"↔ program":"permanent");
+  return `<span class="b ${cls}">${label}</span>`
+    + (x.status!=="active"?`<br><span class="b b-unclear">⚠ unconfirmed</span>`:"");
+}
+function roomsCell(x){
+  const rts = x.roomTypes||[];
+  if(!rts.length && !x.dormAvailable) return `<span style="color:var(--muted);font-size:.72rem">—</span>`;
+  const set = new Set(rts); if(x.dormAvailable) set.add("dorm");
+  const order=["dorm","private","shared","studio","apartment"];
+  const sorted=[...set].sort((a,b)=>(order.indexOf(a)+99)%100-(order.indexOf(b)+99)%100);
+  return sorted.map(r=>`<span class="rm ${r==="dorm"?"dorm":""}">${r}</span>`).join("");
 }
 
 function render(){
@@ -218,12 +258,11 @@ function render(){
   document.getElementById("count").innerHTML=`Showing <b>${list.length}</b> of ${C.length} colivings`;
 
   markers.forEach(m=>map.removeLayer(m)); markers=[];
-  const grid=document.getElementById("grid"); grid.innerHTML="";
+  const rowsEl=document.getElementById("rows"); rowsEl.innerHTML="";
   document.getElementById("empty").style.display=list.length?"none":"block";
 
   const withCoords=[];
   list.forEach((x,i)=>{
-    // map pin: programs have no fixed location -> no pin. pop-up=orange, permanent=green/amber(unclear)
     if(x.lat!=null && x.lng!=null && x.format!=="program"){
       const col = x.format==="pop-up" ? "#b4531a" : (x.status!=="active" ? "#b07d1a" : "#0e7c66");
       const fill = x.format==="pop-up" ? "#e0894a" : (x.status!=="active" ? "#e0b04a" : "#0e7c66");
@@ -231,43 +270,36 @@ function render(){
         .addTo(map)
         .bindPopup(`<b>${x.name}</b><br>${x.city?x.city+", ":""}${x.country}${x.priceEurMonthly?`<br>from ~€${x.priceEurMonthly}/mo`:""}`);
       m.on("click",()=>{
-        document.querySelectorAll(".card").forEach(c=>c.classList.remove("hl"));
-        const card=document.getElementById("card-"+i);
-        if(card){card.classList.add("hl"); card.scrollIntoView({behavior:"smooth",block:"center"});}
+        document.querySelectorAll(".row").forEach(c=>c.classList.remove("hl"));
+        const row=document.getElementById("row-"+i);
+        if(row){row.classList.add("hl"); row.scrollIntoView({behavior:"smooth",block:"center"});}
       });
       markers.push(m); withCoords.push(m); x.__m=m;
     } else { x.__m=null; }
 
-    const badges = (x.format==="pop-up"?`<span class="b-pop">◷ pop-up</span>`:"")
-                 + (x.format==="program"?`<span class="b-prog">↔ moving program</span>`:"")
-                 + (x.status!=="active"?`<span class="b-unclear">⚠ unconfirmed</span>`:"")
-                 + (x.coordsApprox&&x.format!=="program"?`<span class="b-approx">~approx pin</span>`:"");
-    const meta = [
-      x.minStayNights?`min ${x.minStayNights} nights`:null,
-      (x.roomTypes&&x.roomTypes.length)?x.roomTypes.join(" · "):null
-    ].filter(Boolean).join(" · ");
-    const locLabel = x.format==="program" ? (x.city||"Rotating") : `${x.city?x.city+", ":""}${x.country}`;
+    const loc = x.format==="program" ? (x.city||"Rotating") : `${x.city?x.city+", ":""}${x.country}`;
+    const tagsHtml = (x.tags||[]).slice(0,5).map(t=>`<span class="t">${t}</span>`).join("");
+    const datesHtml = (x.format==="pop-up"&&x.popupDates) ? `<div class="dates">◷ ${x.popupDates}</div>` : "";
+    const linkHtml = (x.url?`<a href="${x.url}" target="_blank" rel="noopener">Visit →</a>`:`<span class="none">no site</span>`)
+      + (x.format==="program"&&x.scheduleUrl?`<a class="sched" href="${x.scheduleUrl}" target="_blank" rel="noopener">Schedule →</a>`:"");
 
-    const d=document.createElement("div"); d.className="card"; d.id="card-"+i;
-    d.innerHTML=`
-      ${badges?`<div class="badges">${badges}</div>`:""}
-      <h3>${x.name}</h3>
-      <div class="loc">${locLabel} · ${x.region}</div>
-      <div class="price">${priceHtml(x)}</div>
-      ${roomsHtml(x)}
-      ${x.format==="pop-up"&&x.popupDates?`<div class="dates">◷ ${x.popupDates}</div>`:""}
-      ${meta?`<div class="meta">${meta}</div>`:""}
-      <div class="tags">${(x.tags||[]).map(t=>`<span class="t">${t}</span>`).join("")}${x.dormAvailable?`<span class="t dorm">dorm</span>`:""}</div>
-      ${x.notes?`<div class="notes">${x.notes}</div>`:""}
-      <div class="out">
-        ${x.url?`<a href="${x.url}" target="_blank" rel="noopener">Visit site →</a>`:`<span class="none">no site on file</span>`}
-        ${x.format==="program"&&x.scheduleUrl?`<a href="${x.scheduleUrl}" target="_blank" rel="noopener">Schedule →</a>`:""}
-      </div>`;
+    const row=document.createElement("div"); row.className="row cols"; row.id="row-"+i;
+    row.innerHTML=`
+      <div class="r-name">
+        <div class="nm">${x.name}</div>
+        <div class="loc">${loc} · ${x.region}</div>
+        ${tagsHtml?`<div class="tags">${tagsHtml}</div>`:""}
+        ${datesHtml}
+      </div>
+      <div class="r-type">${typeCell(x)}</div>
+      <div class="r-rooms">${roomsCell(x)}</div>
+      <div class="r-price">${priceCell(x)}</div>
+      <div class="r-link">${linkHtml}</div>`;
     if(x.__m){
-      d.onmouseenter=()=>x.__m.setStyle({radius:10,fillOpacity:.9});
-      d.onmouseleave=()=>x.__m.setStyle({radius:7,fillOpacity:.55});
+      row.onmouseenter=()=>x.__m.setStyle({radius:10,fillOpacity:.9});
+      row.onmouseleave=()=>x.__m.setStyle({radius:7,fillOpacity:.55});
     }
-    grid.appendChild(d);
+    rowsEl.appendChild(row);
   });
 
   if(withCoords.length){
