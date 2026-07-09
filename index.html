@@ -19,20 +19,26 @@
     --ink:#1a2333; --muted:#5b6779; --line:#e5e9f0; --bg:#f7f9fc; --card:#ffffff;
     --accent:#0e7c66; --accent-soft:#e2f3ef; --warn:#8a6d1a; --warn-bg:#fdf6e0;
     --pop:#b4531a; --pop-bg:#fbeadd; --prog:#3b4fd8; --prog-bg:#eef2ff;
-    --rowhover:#f2f7f5;
+    --wrap:1120px;
   }
   *{box-sizing:border-box; margin:0; padding:0;}
   body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif; color:var(--ink); background:var(--bg);}
   a{color:var(--accent);}
 
-  header{background:var(--card); border-bottom:1px solid var(--line); padding:14px 22px; display:flex; align-items:center; gap:18px; flex-wrap:wrap; position:sticky; top:0; z-index:1001;}
+  header{background:var(--card); border-bottom:1px solid var(--line); padding:14px 22px; display:flex; align-items:baseline; gap:14px; flex-wrap:wrap; position:sticky; top:0; z-index:1001;}
   .logo{font-size:1.25rem; font-weight:800; letter-spacing:-.02em; cursor:pointer;}
   .logo span{color:var(--accent);}
   .tagline{color:var(--muted); font-size:.85rem;}
-  #search{margin-left:auto; padding:8px 14px; border:1px solid var(--line); border-radius:8px; font-size:.9rem; width:260px; max-width:100%;}
-  #search:focus{outline:2px solid var(--accent-soft); border-color:var(--accent);}
 
-  .filters{padding:12px 22px; display:flex; gap:10px 12px; align-items:center; flex-wrap:wrap; background:var(--card); border-bottom:1px solid var(--line); max-width:1120px; margin:0 auto;}
+  /* prominent hero search — always visible, centered */
+  .hero-search{padding:20px 22px 2px; display:flex; justify-content:center;}
+  .hero-search .box{position:relative; width:100%; max-width:660px;}
+  .hero-search input{width:100%; padding:14px 18px 14px 46px; border:1px solid var(--line); border-radius:12px; font-size:1rem; background:var(--card); box-shadow:0 1px 3px rgba(20,40,80,.04);}
+  .hero-search input:focus{outline:2px solid var(--accent-soft); border-color:var(--accent);}
+  .hero-search .ico{position:absolute; left:16px; top:50%; transform:translateY(-50%); color:var(--muted); font-size:1.05rem;}
+
+  /* filter bar — list view only, below the map */
+  .filters{padding:12px 22px; display:flex; gap:10px 12px; align-items:center; flex-wrap:wrap; max-width:var(--wrap); margin:14px auto 0; background:var(--card); border:1px solid var(--line); border-radius:12px;}
   .frow{display:flex; gap:6px; align-items:center; flex-wrap:wrap;}
   .chip{border:1px solid var(--line); background:var(--card); border-radius:999px; padding:6px 13px; font-size:.83rem; cursor:pointer; color:var(--ink); transition:all .12s;}
   .chip:hover{border-color:var(--accent);}
@@ -42,31 +48,35 @@
   select{padding:6px 10px; border:1px solid var(--line); border-radius:8px; font-size:.83rem; background:var(--card); color:var(--ink);}
   label.toggle{font-size:.82rem; color:var(--muted); display:flex; align-items:center; gap:6px; cursor:pointer;}
   #reset{background:none; border:none; color:var(--muted); font-size:.8rem; cursor:pointer; text-decoration:underline;}
+  .back{background:none; border:1px solid var(--line); border-radius:999px; color:var(--accent); font-size:.82rem; font-weight:600; cursor:pointer; padding:5px 13px;}
+  .back:hover{border-color:var(--accent);}
   #count{font-size:.83rem; color:var(--muted); margin-left:auto; white-space:nowrap;}
   #count b{color:var(--ink);}
 
-  #map{height:38vh; min-height:250px; z-index:1; max-width:1120px; margin:16px auto 0; border-radius:12px; overflow:hidden; border:1px solid var(--line);}
+  #map{height:38vh; min-height:250px; z-index:1; max-width:var(--wrap); margin:16px auto 0; border-radius:12px; overflow:hidden; border:1px solid var(--line);}
 
-  /* browse landing (esimdb-style) — regions + countries, list appears on drill-in */
-  #landing{max-width:1120px; margin:0 auto; padding:20px 22px 8px;}
-  .browse-h{font-size:1.05rem; font-weight:700;}
-  .browse-sub{color:var(--muted); font-size:.85rem; margin:2px 0 16px;}
-  .region-cards{display:grid; grid-template-columns:repeat(auto-fill,minmax(210px,1fr)); gap:12px;}
-  .rc{background:var(--card); border:1px solid var(--line); border-radius:12px; padding:15px 18px; cursor:pointer; transition:border-color .12s, box-shadow .12s; display:flex; align-items:center; justify-content:space-between; gap:10px;}
-  .rc:hover{border-color:var(--accent); box-shadow:0 3px 12px rgba(20,40,80,.07);}
-  .rc-name{font-weight:650; font-size:1rem;}
-  .rc-count{color:var(--accent); font-weight:700; font-size:.85rem; background:var(--accent-soft); border-radius:999px; padding:3px 11px;}
-  .browse-countries{margin-top:22px; display:flex; flex-wrap:wrap; align-items:center; gap:7px;}
-  .bc-label{font-size:.72rem; color:var(--muted); text-transform:uppercase; letter-spacing:.05em; margin-right:4px;}
+  /* browse landing */
+  #landing{max-width:var(--wrap); margin:0 auto; padding:6px 22px 8px;}
+  .browse-h{font-size:1.1rem; font-weight:700; text-align:center; margin:28px 0 4px;}
+  .browse-sub{color:var(--muted); font-size:.85rem; text-align:center; margin-bottom:16px;}
+  .cards-grid{display:grid; grid-template-columns:repeat(auto-fill,minmax(212px,1fr)); gap:12px;}
+  .cards-grid.types{grid-template-columns:repeat(auto-fill,minmax(150px,1fr));}
+  .card-b{border:1px solid var(--line); border-radius:12px; padding:15px 16px; cursor:pointer; transition:transform .1s, box-shadow .12s; display:flex; align-items:center; justify-content:space-between; gap:10px;}
+  .card-b:hover{transform:translateY(-1px); box-shadow:0 4px 14px rgba(20,40,80,.09);}
+  .cb-name{font-weight:650; font-size:.98rem; display:flex; align-items:center; gap:8px;}
+  .cb-dot{width:10px; height:10px; border-radius:3px; flex:none;}
+  .cb-count{font-weight:700; font-size:.8rem; border-radius:999px; padding:3px 10px; color:#fff;}
+  .browse-countries{margin-top:26px; display:flex; flex-wrap:wrap; align-items:center; justify-content:center; gap:7px;}
+  .bc-label{font-size:.72rem; color:var(--muted); text-transform:uppercase; letter-spacing:.05em; margin-right:4px; width:100%; text-align:center; margin-bottom:2px;}
   .cc{border:1px solid var(--line); background:var(--card); border-radius:999px; padding:5px 12px; font-size:.83rem; cursor:pointer; color:var(--ink); transition:border-color .12s;}
   .cc:hover{border-color:var(--accent);}
   .cc small{color:var(--muted); margin-left:2px;}
-  .show-all{margin-top:22px; background:var(--accent); color:#fff; border:none; border-radius:9px; padding:11px 20px; font-size:.9rem; font-weight:600; cursor:pointer;}
+  .show-all-wrap{text-align:center; margin-top:28px;}
+  .show-all{background:var(--accent); color:#fff; border:none; border-radius:10px; padding:12px 24px; font-size:.92rem; font-weight:600; cursor:pointer;}
   .show-all:hover{filter:brightness(1.06);}
 
-  /* columnar list — same fields aligned in every row, spaced as cards */
-  .list{max-width:1120px; margin:0 auto; padding:16px 22px 0;}
-  .back{background:none; border:none; color:var(--accent); font-size:.85rem; font-weight:600; cursor:pointer; padding:0 0 10px; }
+  /* columnar list */
+  .list{max-width:var(--wrap); margin:0 auto; padding:16px 22px 0;}
   .cols{display:grid; grid-template-columns:minmax(0,2.5fr) 0.9fr 1.2fr 1.1fr auto; gap:16px; align-items:center;}
   .list-head{padding:2px 18px 10px; font-size:.7rem; text-transform:uppercase; letter-spacing:.05em; color:var(--muted); border:1px solid transparent;}
   .list-head .r-price, .row .r-price{text-align:right;}
@@ -80,7 +90,7 @@
   .r-name .loc{color:var(--muted); font-size:.8rem; margin-top:2px;}
   .r-name .tags{display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;}
   .r-name .dates{font-size:.76rem; color:var(--pop); background:var(--pop-bg); border-radius:6px; padding:3px 7px; margin-top:6px; line-height:1.35; display:inline-block;}
-  .t{background:var(--bg); border:1px solid var(--line); color:var(--muted); border-radius:6px; font-size:.68rem; padding:1px 6px;}
+  .t{border-radius:6px; font-size:.68rem; padding:1px 7px; border:1px solid transparent;}
 
   .b{border-radius:6px; font-size:.68rem; padding:2px 7px; font-weight:600; white-space:nowrap; display:inline-block;}
   .b-perm{background:var(--accent-soft); color:var(--accent);}
@@ -102,10 +112,10 @@
   .r-link .none{color:var(--muted); font-size:.78rem; font-weight:400;}
 
   .empty{padding:40px 22px; text-align:center; color:var(--muted);}
-  footer{max-width:1120px; margin:20px auto 0; padding:18px 22px 40px; color:var(--muted); font-size:.78rem; line-height:1.6; border-top:1px solid var(--line);}
+  footer{max-width:var(--wrap); margin:24px auto 0; padding:18px 22px 40px; color:var(--muted); font-size:.78rem; line-height:1.6; border-top:1px solid var(--line);}
 
   @media (max-width:760px){
-    #search{width:100%; margin-left:0;} #count{margin-left:0;}
+    #count{margin-left:0;}
     .list-head{display:none;}
     .cols{grid-template-columns:1fr auto; gap:6px 14px;}
     .row .r-type{grid-column:2; grid-row:1; justify-self:end;}
@@ -122,10 +132,18 @@
 <header>
   <div class="logo" id="home">coliving<span>DB</span></div>
   <div class="tagline">every coliving, one map, no questions asked</div>
-  <input id="search" type="search" placeholder="Search name, city, country…" autocomplete="off">
 </header>
 
-<div class="filters">
+<div class="hero-search">
+  <div class="box"><span class="ico">⌕</span><input id="search" type="search" placeholder="Search colivings by name, city, or country…" autocomplete="off"></div>
+</div>
+
+<div id="map"></div>
+
+<!-- filter bar: appears below the map only after you drill in -->
+<div class="filters" id="filters" style="display:none">
+  <button class="back" id="back">← Browse</button>
+  <span class="sep"></span>
   <div class="frow" id="regions"></div>
   <span class="sep"></span>
   <select id="country" autocomplete="off"><option value="">All countries</option></select>
@@ -156,18 +174,16 @@
   <div id="count"></div>
 </div>
 
-<div id="map"></div>
-
 <div id="landing">
-  <div class="browse-h">Browse coliving spaces</div>
-  <div class="browse-sub">Pick a region or a country, explore the map, or see them all.</div>
-  <div class="region-cards" id="regionCards"></div>
-  <div class="browse-countries"><span class="bc-label">Popular</span><span id="countryChips"></span></div>
-  <button class="show-all" id="showAll">Show all colivings →</button>
+  <div class="browse-h">Browse by region</div>
+  <div class="cards-grid" id="regionCards"></div>
+  <div class="browse-h">Browse by type</div>
+  <div class="cards-grid types" id="typeCards"></div>
+  <div class="browse-countries"><span class="bc-label">Popular countries</span><span id="countryChips" style="display:flex;flex-wrap:wrap;gap:7px;justify-content:center"></span></div>
+  <div class="show-all-wrap"><button class="show-all" id="showAll">Show all colivings →</button></div>
 </div>
 
 <div class="list" style="display:none">
-  <button class="back" id="back">← Back to browse</button>
   <div class="list-head cols">
     <div class="r-name">Coliving</div>
     <div class="r-type">Type</div>
@@ -185,11 +201,26 @@
 <script src="data.js"></script>
 <script>
 const C = (window.COLIVINGS || []);
-C.forEach((x,i)=>x._i=i);                 // stable id, survives re-render
+C.forEach((x,i)=>x._i=i);
 const REGIONS = ["All","Europe","Asia","Latin America","Africa","North America","Oceania","Middle East"];
+
+// colour system — region hues + type/vibe category colours (green stays the base)
+const REGION_HUE = {
+  "Europe":"#3f6fb0","Asia":"#c0533a","Latin America":"#d19a2e",
+  "Africa":"#c67a34","North America":"#8a6ea8","Oceania":"#2fa39a","Middle East":"#b06a4e"
+};
+const TYPE_HUE = {
+  beach:"#2f8fc0", surf:"#1f9aa8", island:"#2fa39a", mountain:"#6b7f9e", ski:"#5a86b0",
+  rural:"#7a9a3f", eco:"#4e9e5a", city:"#9a7b52", coworking:"#7a6ea8", startup:"#8a6ea8",
+  community:"#c0533a", family:"#c07a9a"
+};
+const typeHue = t => TYPE_HUE[t] || "#0e7c66";
+const tint = (hue,pct) => `color-mix(in srgb, ${hue} ${pct}%, white)`;
+
 const tagFreq = {};
 C.forEach(x => (x.tags||[]).forEach(t => tagFreq[t] = (tagFreq[t]||0)+1));
 const TAGS = Object.keys(tagFreq).sort((a,b)=>tagFreq[b]-tagFreq[a]);
+const TYPE_ORDER = ["community","coworking","beach","city","rural","surf","island","mountain","eco","ski","startup","family"];
 
 const state = {region:"All", country:"", room:"", format:"", tags:new Set(), price:"", q:"", hideUnclear:false, showAll:false};
 
@@ -204,27 +235,26 @@ function affiliateUrl(url){
   return url;
 }
 
+document.getElementById("search").placeholder = `Search ${C.length} colivings by name, city, or country…`;
 document.getElementById("footer").innerHTML =
   `<b>colivingDB</b> indexes ${C.length} coliving spaces worldwide — permanent homes, seasonal pop-ups, and moving programs. Prices are approximate, in EUR per month, and change often; pop-up dates shift season to season. Always confirm details on the operator's own site before booking. Some links are affiliate links — colivingDB may earn a commission if you book through them, at no extra cost to you. Map data © OpenStreetMap contributors.`;
 
-// region quick-switch chips (filter bar)
+// region quick-switch chips (filter bar, list view)
 const regionsEl = document.getElementById("regions");
 REGIONS.filter(r => r==="All" || C.some(x=>x.region===r)).forEach(r=>{
   const b=document.createElement("button"); b.className="chip"+(r==="All"?" on":""); b.textContent=r;
   b.onclick=()=>{state.region=r; if(r==="All") state.showAll=false; state.country=""; document.getElementById("country").value=""; render();};
   regionsEl.appendChild(b);
 });
-// tag chips
+// tag chips (filter bar)
 const tagsEl = document.getElementById("tags");
 TAGS.forEach(t=>{
   const b=document.createElement("button"); b.className="chip tag"; b.textContent=t;
   b.onclick=()=>{state.tags.has(t)?state.tags.delete(t):state.tags.add(t); render();};
   tagsEl.appendChild(b);
 });
-// country dropdown
+// country dropdown ("Multiple" excluded — not a real country)
 const countrySel=document.getElementById("country");
-// "Multiple" isn't a real country (multi-location brands / moving programs) — keep it
-// out of the country picker; those records stay findable by region, type, and search.
 [...new Set(C.map(x=>x.country))].filter(k=>k!=="Multiple").sort().forEach(k=>{
   const o=document.createElement("option"); o.value=k; o.textContent=k; countrySel.appendChild(o);
 });
@@ -235,14 +265,25 @@ document.getElementById("price").onchange=e=>{state.price=e.target.value; render
 document.getElementById("hideUnclear").onchange=e=>{state.hideUnclear=e.target.checked; render();};
 document.getElementById("search").oninput=e=>{state.q=e.target.value.toLowerCase(); render();};
 
-// landing: region cards + country chips + show-all
+// landing: region cards (colour-coded) + type cards + popular countries + show all
 const regionCounts={}; C.forEach(x=>regionCounts[x.region]=(regionCounts[x.region]||0)+1);
 const rcEl=document.getElementById("regionCards");
 REGIONS.filter(r=>r!=="All" && regionCounts[r]).sort((a,b)=>regionCounts[b]-regionCounts[a]).forEach(r=>{
-  const d=document.createElement("div"); d.className="rc";
-  d.innerHTML=`<span class="rc-name">${r}</span><span class="rc-count">${regionCounts[r]}</span>`;
+  const hue=REGION_HUE[r]||"#0e7c66";
+  const d=document.createElement("div"); d.className="card-b";
+  d.style.background=tint(hue,7); d.style.borderColor=tint(hue,24);
+  d.innerHTML=`<span class="cb-name"><span class="cb-dot" style="background:${hue}"></span>${r}</span><span class="cb-count" style="background:${hue}">${regionCounts[r]}</span>`;
   d.onclick=()=>{state.region=r; state.showAll=false; state.country=""; countrySel.value=""; render();};
   rcEl.appendChild(d);
+});
+const tcEl=document.getElementById("typeCards");
+TYPE_ORDER.filter(t=>tagFreq[t]).forEach(t=>{
+  const hue=typeHue(t);
+  const d=document.createElement("div"); d.className="card-b";
+  d.style.background=tint(hue,7); d.style.borderColor=tint(hue,24);
+  d.innerHTML=`<span class="cb-name"><span class="cb-dot" style="background:${hue}"></span>${t}</span><span class="cb-count" style="background:${hue}">${tagFreq[t]}</span>`;
+  d.onclick=()=>{state.tags=new Set([t]); state.region="All"; state.showAll=false; render();};
+  tcEl.appendChild(d);
 });
 const countryCounts={}; C.forEach(x=>countryCounts[x.country]=(countryCounts[x.country]||0)+1);
 const ccEl=document.getElementById("countryChips");
@@ -291,7 +332,6 @@ function filtered(){
   );
 }
 
-// bring a clicked map pin's record to the TOP of the list (not scroll down to it)
 function focusRecord(idx){
   if(isBrowse()){ state.showAll=true; render(); }
   const rowsEl=document.getElementById("rows");
@@ -334,16 +374,19 @@ function roomsCell(x){
   const sorted=[...set].sort((a,b)=>(order.indexOf(a)+99)%100-(order.indexOf(b)+99)%100);
   return sorted.map(r=>`<span class="rm">${r}</span>`).join("");
 }
+function tagChip(t){
+  const hue=typeHue(t);
+  return `<span class="t" style="background:${tint(hue,10)};color:${hue};border-color:${tint(hue,28)}">${t}</span>`;
+}
 
 function render(){
   document.querySelectorAll("#regions .chip").forEach(b=>b.classList.toggle("on",b.textContent===state.region));
   document.querySelectorAll("#tags .chip").forEach(b=>b.classList.toggle("on",state.tags.has(b.textContent)));
   const browse = isBrowse();
   const list=filtered();
-  document.getElementById("count").innerHTML = browse
-    ? `${C.length} colivings`
-    : `Showing <b>${list.length}</b> of ${C.length} colivings`;
+  document.getElementById("count").innerHTML=`Showing <b>${list.length}</b> of ${C.length} colivings`;
   document.getElementById("landing").style.display = browse ? "" : "none";
+  document.getElementById("filters").style.display = browse ? "none" : "";
   document.querySelector(".list").style.display = browse ? "none" : "";
 
   markers.forEach(m=>map.removeLayer(m)); markers=[];
@@ -363,12 +406,12 @@ function render(){
       markers.push(m); withCoords.push(m); x.__m=m;
     } else { x.__m=null; }
 
-    if(browse) return;   // browse mode: map only, no list rows
+    if(browse) return;
 
     const loc = (x.country==="Multiple" || x.format==="program")
       ? ((x.city && !/multiple|rotating|itinerant|various/i.test(x.city)) ? x.city + " · multiple locations" : "Multiple locations")
       : `${x.city?x.city+", ":""}${x.country}`;
-    const tagsHtml = (x.tags||[]).slice(0,5).map(t=>`<span class="t">${t}</span>`).join("");
+    const tagsHtml = (x.tags||[]).slice(0,5).map(tagChip).join("");
     const datesHtml = (x.format==="pop-up"&&x.popupDates) ? `<div class="dates">◷ ${x.popupDates}</div>` : "";
     const linkHtml = (x.url?`<a href="${affiliateUrl(x.url)}" target="_blank" rel="noopener sponsored">Visit →</a>`:`<span class="none">no site</span>`)
       + (x.format==="program"&&x.scheduleUrl?`<a class="sched" href="${x.scheduleUrl}" target="_blank" rel="noopener">Schedule →</a>`:"");
