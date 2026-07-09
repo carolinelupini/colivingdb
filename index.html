@@ -29,6 +29,7 @@
   .logo{font-size:1.25rem; font-weight:800; letter-spacing:-.02em; cursor:pointer;}
   .logo span{color:var(--accent);}
   .tagline{color:var(--muted); font-size:.85rem;}
+  .cur-select{margin-left:auto; padding:7px 10px; border:1px solid var(--line); border-radius:8px; font-size:.82rem; background:var(--card); color:var(--ink); cursor:pointer;}
 
   /* prominent hero search — always visible, centered */
   .hero-search{padding:20px 22px 2px; display:flex; justify-content:center;}
@@ -137,6 +138,7 @@
 <header>
   <div class="logo" id="home">coliving<span>DB</span></div>
   <div class="tagline">every coliving, one map, no questions asked</div>
+  <select id="currency" class="cur-select" autocomplete="off" title="Show prices in"></select>
 </header>
 
 <div class="hero-search">
@@ -228,9 +230,37 @@ C.forEach(x => (x.tags||[]).forEach(t => tagFreq[t] = (tagFreq[t]||0)+1));
 const TAGS = Object.keys(tagFreq).sort((a,b)=>tagFreq[b]-tagFreq[a]);
 const TYPE_ORDER = ["community","coworking","beach","city","rural","surf","island","mountain","eco","ski","startup","family"];
 
-const state = {region:"All", country:"", room:"", format:"", tags:new Set(), price:"", q:"", hideUnclear:false, showAll:false};
+const state = {region:"All", country:"", room:"", format:"", tags:new Set(), price:"", q:"", hideUnclear:false, showAll:false, currency:""};
 
-const AFFILIATES = { "outsite.co": ["rfsn", "9218925.def533"] };
+// ---- currency: live FX (base EUR) + convert/format. Default "" = each listing in its own local currency ----
+let RATES = {EUR:1};   // X per 1 EUR
+const CURRENCIES = ["EUR","USD","GBP","CHF","THB","IDR","VND","PHP","MYR","INR","MXN","COP","BRL","ZAR","MAD","TRY","GEL","AUD","CAD","NZD","SGD","JPY"];
+const curSel=document.getElementById("currency");
+curSel.innerHTML = `<option value="">Local currency</option>` + CURRENCIES.map(c=>`<option value="${c}">${c}</option>`).join("");
+curSel.onchange=e=>{state.currency=e.target.value; render();};
+fetch("https://open.er-api.com/v6/latest/EUR").then(r=>r.json()).then(d=>{ if(d&&d.rates){ RATES=d.rates; RATES.EUR=1; render(); } }).catch(()=>{});
+const toEur   = (a,cur)=> a==null?null:((cur==="EUR"||!cur)?a:(RATES[cur]?a/RATES[cur]:null));
+const fromEur = (e,cur)=> e==null?null:((cur==="EUR"||!cur)?e:(RATES[cur]?e*RATES[cur]:null));
+function fmtMoney(a,cur){ try{ return new Intl.NumberFormat('en',{style:'currency',currency:cur,maximumFractionDigits:0,currencyDisplay:'narrowSymbol'}).format(a);}catch(e){ return cur+" "+Math.round(a).toLocaleString(); } }
+const nativeCurOf = x => x.nativeCurrency || "EUR";
+// source amount + currency for a room tier (true native if scraped, else EUR estimate)
+function tierSource(x, tier){
+  const pn=x.pricesNative; if(pn && pn[tier]!=null) return {amt:pn[tier], cur:nativeCurOf(x)};
+  const pe=x.prices;       if(pe && pe[tier]!=null) return {amt:pe[tier], cur:"EUR"};
+  return null;
+}
+// convert a tier into the currently-selected display currency (or the listing's local one)
+function tierDisplay(x, tier){
+  const s=tierSource(x,tier); if(!s) return null;
+  const target = state.currency || nativeCurOf(x);
+  const out = fromEur(toEur(s.amt, s.cur), target);
+  return out==null ? null : {amt:Math.round(out), cur:target};
+}
+
+const AFFILIATES = {
+  "outsite.co": ["rfsn", "9218925.def533"],
+  "coliving.com": ["i", "caroline-l-3"]   // ?i= deeplink param, confirmed from affiliate dashboard 2026-07-09
+};
 function affiliateUrl(url){
   if(!url) return url;
   try {
@@ -356,20 +386,32 @@ function focusRecord(idx){
 }
 
 function priceCell(x){
-  const p = x.prices||{};
-  const byPrice = {};
-  ["dorm","shared","private"].forEach(k=>{ if(p[k]) (byPrice[p[k]] = byPrice[p[k]] || []).push(k); });
-  const tiers = Object.keys(byPrice).map(Number).sort((a,b)=>a-b);
-  if(state.room && p[state.room])
-    return `<div class="from">€${p[state.room]}<small>/mo · ${state.room}</small></div>`;
-  let main;
-  if(tiers.length) main = `<div class="from">€${tiers[0]}<small>/mo${tiers.length>1?" from":""}</small></div>`;
-  else if(x.priceEurMonthly) main = `<div class="from">€${x.priceEurMonthly}<small>/mo from</small></div>`;
-  else return `<div class="onreq">${x.priceNote ? x.priceNote : "on request"}</div>`;
-  const brk = tiers.length>1
-    ? `<div class="brk">${tiers.map(t=>`<b>${byPrice[t].join("/")}</b> €${t}`).join(" · ")}</div>`
-    : "";
-  return main + brk;
+  // convert each available room tier into the display currency, then group by price
+  const byPrice = {};   // amount -> {tiers:[], cur}
+  ["dorm","shared","private"].forEach(k=>{
+    const d=tierDisplay(x,k);
+    if(d){ (byPrice[d.amt] = byPrice[d.amt] || {tiers:[], cur:d.cur}).tiers.push(k); }
+  });
+  const amts = Object.keys(byPrice).map(Number).sort((a,b)=>a-b);
+
+  if(state.room){
+    const d=tierDisplay(x,state.room);
+    if(d) return `<div class="from">${fmtMoney(d.amt,d.cur)}<small>/mo · ${state.room}</small></div>`;
+  }
+  if(amts.length){
+    const cur=byPrice[amts[0]].cur;
+    const main=`<div class="from">${fmtMoney(amts[0],cur)}<small>/mo${amts.length>1?" from":""}</small></div>`;
+    const brk = amts.length>1
+      ? `<div class="brk">${amts.map(a=>`<b>${byPrice[a].tiers.join("/")}</b> ${fmtMoney(a,byPrice[a].cur)}`).join(" · ")}</div>`
+      : "";
+    return main + brk;
+  }
+  // single "from" fallback when no per-room breakdown exists
+  const target = state.currency || nativeCurOf(x);
+  const src = (x.priceNativeFrom!=null) ? {amt:x.priceNativeFrom, cur:nativeCurOf(x)}
+            : (x.priceEurMonthly!=null) ? {amt:x.priceEurMonthly, cur:"EUR"} : null;
+  if(src){ const v=Math.round(fromEur(toEur(src.amt,src.cur),target)); if(v) return `<div class="from">${fmtMoney(v,target)}<small>/mo from</small></div>`; }
+  return `<div class="onreq">${x.priceNote ? x.priceNote : "on request"}</div>`;
 }
 function typeCell(x){
   const cls = x.format==="pop-up"?"b-pop":(x.format==="program"?"b-prog":"b-perm");
