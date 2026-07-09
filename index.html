@@ -164,8 +164,24 @@ const TAGS = Object.keys(tagFreq).sort((a,b)=>tagFreq[b]-tagFreq[a]);
 
 const state = {region:"All", country:"", room:"", format:"", tags:new Set(), price:"", q:"", hideUnclear:false};
 
+// Affiliate wrapping — applied to outbound "Visit" links at render time so the
+// raw operator URLs in data.js stay clean. Params append to deep links so users
+// still land on the specific location page, with referral tracking attached.
+const AFFILIATES = {
+  "outsite.co": ["rfsn", "9218925.def533"]
+};
+function affiliateUrl(url){
+  if(!url) return url;
+  try {
+    const host = new URL(url).hostname.replace(/^www\./, "");
+    const aff = AFFILIATES[host];
+    if(aff) return url + (url.includes("?") ? "&" : "?") + aff[0] + "=" + encodeURIComponent(aff[1]);
+  } catch(e){}
+  return url;
+}
+
 document.getElementById("footer").innerHTML =
-  `<b>colivingDB</b> indexes ${C.length} coliving spaces worldwide — permanent homes, seasonal pop-ups, and moving programs. Prices are approximate, in EUR per month, and change often; pop-up dates shift season to season. Always confirm details on the operator's own site before booking. Map data © OpenStreetMap contributors.`;
+  `<b>colivingDB</b> indexes ${C.length} coliving spaces worldwide — permanent homes, seasonal pop-ups, and moving programs. Prices are approximate, in EUR per month, and change often; pop-up dates shift season to season. Always confirm details on the operator's own site before booking. Some links are affiliate links — colivingDB may earn a commission if you book through them, at no extra cost to you. Map data © OpenStreetMap contributors.`;
 
 // region chips
 const regionsEl = document.getElementById("regions");
@@ -280,7 +296,7 @@ function render(){
     const loc = x.format==="program" ? (x.city||"Rotating") : `${x.city?x.city+", ":""}${x.country}`;
     const tagsHtml = (x.tags||[]).slice(0,5).map(t=>`<span class="t">${t}</span>`).join("");
     const datesHtml = (x.format==="pop-up"&&x.popupDates) ? `<div class="dates">◷ ${x.popupDates}</div>` : "";
-    const linkHtml = (x.url?`<a href="${x.url}" target="_blank" rel="noopener">Visit →</a>`:`<span class="none">no site</span>`)
+    const linkHtml = (x.url?`<a href="${affiliateUrl(x.url)}" target="_blank" rel="noopener sponsored">Visit →</a>`:`<span class="none">no site</span>`)
       + (x.format==="program"&&x.scheduleUrl?`<a class="sched" href="${x.scheduleUrl}" target="_blank" rel="noopener">Schedule →</a>`:"");
 
     const row=document.createElement("div"); row.className="row cols"; row.id="row-"+i;
