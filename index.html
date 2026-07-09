@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>colivingDB — find colivings anywhere</title>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GBDMVK7LWL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-GBDMVK7LWL');
+</script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<style>
+  :root{
+    --ink:#1a2333; --muted:#5b6779; --line:#e5e9f0; --bg:#f7f9fc; --card:#ffffff;
+    --accent:#0e7c66; --accent-soft:#e2f3ef; --warn:#8a6d1a; --warn-bg:#fdf6e0;
+    --pop:#b4531a; --pop-bg:#fbeadd; --prog:#3b4fd8; --prog-bg:#eef2ff;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif; color:var(--ink); background:var(--bg);}
+  a{color:var(--accent);}
+
+  header{background:var(--card); border-bottom:1px solid var(--line); padding:14px 22px; display:flex; align-items:center; gap:18px; flex-wrap:wrap; position:sticky; top:0; z-index:1001;}
+  .logo{font-size:1.25rem; font-weight:800; letter-spacing:-.02em;}
+  .logo span{color:var(--accent);}
+  .tagline{color:var(--muted); font-size:.85rem;}
+  #search{margin-left:auto; padding:8px 14px; border:1px solid var(--line); border-radius:8px; font-size:.9rem; width:260px; max-width:100%;}
+  #search:focus{outline:2px solid var(--accent-soft); border-color:var(--accent);}
+
+  .proto-note{background:var(--warn-bg); color:var(--warn); font-size:.8rem; padding:7px 22px; border-bottom:1px solid #f0e6c0;}
+
+  .filters{padding:12px 22px; display:flex; gap:10px 12px; align-items:center; flex-wrap:wrap; background:var(--card); border-bottom:1px solid var(--line);}
+  .frow{display:flex; gap:6px; align-items:center; flex-wrap:wrap;}
+  .chip{border:1px solid var(--line); background:var(--card); border-radius:999px; padding:6px 13px; font-size:.83rem; cursor:pointer; color:var(--ink); transition:all .12s;}
+  .chip:hover{border-color:var(--accent);}
+  .chip.on{background:var(--accent); border-color:var(--accent); color:#fff;}
+  .chip.tag.on{background:var(--accent-soft); color:var(--accent); border-color:var(--accent);}
+  .sep{width:1px; height:22px; background:var(--line);}
+  select{padding:6px 10px; border:1px solid var(--line); border-radius:8px; font-size:.83rem; background:var(--card); color:var(--ink);}
+  label.toggle{font-size:.82rem; color:var(--muted); display:flex; align-items:center; gap:6px; cursor:pointer;}
+  #reset{background:none; border:none; color:var(--muted); font-size:.8rem; cursor:pointer; text-decoration:underline;}
+  #count{font-size:.83rem; color:var(--muted); margin-left:auto; white-space:nowrap;}
+  #count b{color:var(--ink);}
+
+  #map{height:44vh; min-height:290px; z-index:1;}
+
+  .grid{display:grid; grid-template-columns:repeat(auto-fill,minmax(260px,1fr)); gap:14px; padding:18px 22px 40px;}
+  .card{background:var(--card); border:1px solid var(--line); border-radius:12px; padding:14px 16px; display:flex; flex-direction:column; gap:6px; transition:box-shadow .15s, border-color .15s;}
+  .card:hover{box-shadow:0 4px 14px rgba(20,40,80,.08);}
+  .card.hl{border-color:var(--accent); box-shadow:0 0 0 2px var(--accent-soft);}
+  .card h3{font-size:1rem; line-height:1.25;}
+  .card .loc{color:var(--muted); font-size:.83rem;}
+  .card .price{font-weight:700; font-size:.92rem;}
+  .card .price small{font-weight:400; color:var(--muted);}
+  .card .rooms{font-size:.78rem; color:var(--ink);}
+  .card .rooms b{font-weight:600;}
+  .card .meta{font-size:.76rem; color:var(--muted);}
+  .card .dates{font-size:.78rem; color:var(--pop); background:var(--pop-bg); border-radius:6px; padding:5px 8px; line-height:1.35;}
+  .card .notes{font-size:.76rem; color:var(--muted); font-style:italic; line-height:1.4;}
+  .tags{display:flex; flex-wrap:wrap; gap:5px; margin-top:2px;}
+  .t{background:var(--bg); border:1px solid var(--line); color:var(--muted); border-radius:6px; font-size:.7rem; padding:2px 7px;}
+  .t.dorm{background:var(--accent-soft); color:var(--accent); border-color:var(--accent);}
+  .badges{display:flex; gap:5px; flex-wrap:wrap;}
+  .b-approx{background:var(--warn-bg); color:var(--warn); border-radius:6px; font-size:.68rem; padding:2px 7px;}
+  .b-unclear{background:#fbeaea; color:#9a3838; border-radius:6px; font-size:.68rem; padding:2px 7px; font-weight:600;}
+  .b-pop{background:var(--pop-bg); color:var(--pop); border-radius:6px; font-size:.68rem; padding:2px 7px; font-weight:600;}
+  .b-prog{background:var(--prog-bg); color:var(--prog); border-radius:6px; font-size:.68rem; padding:2px 7px; font-weight:600;}
+  .card .out{margin-top:auto; padding-top:8px; font-size:.83rem; font-weight:600; text-decoration:none; display:flex; gap:12px; flex-wrap:wrap;}
+  .card .out .none{color:var(--muted); font-weight:400;}
+  .empty{padding:40px 22px; text-align:center; color:var(--muted);}
+  footer{padding:16px 22px 34px; color:var(--muted); font-size:.78rem; border-top:1px solid var(--line); line-height:1.6;}
+  @media (max-width:640px){ #search{width:100%; margin-left:0;} #count{margin-left:0;} }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo">coliving<span>DB</span></div>
+  <div class="tagline">every coliving, one map, no questions asked</div>
+  <input id="search" type="search" placeholder="Search name, city, country…" autocomplete="off">
+</header>
+
+<div class="proto-note">⚠️ Prototype — <span id="protocount">…</span> colivings, seed data is <b>unverified</b>: prices are rough estimates, some pins are approximate, dates change. Built to test the UX, not to book from.</div>
+
+<div class="filters">
+  <div class="frow" id="regions"></div>
+  <span class="sep"></span>
+  <select id="country" autocomplete="off"><option value="">All countries</option></select>
+  <select id="room" autocomplete="off">
+    <option value="">Any room</option>
+    <option value="private">Private room</option>
+    <option value="shared">Shared room</option>
+    <option value="dorm">Dorm available</option>
+  </select>
+  <select id="format" autocomplete="off">
+    <option value="">All types</option>
+    <option value="permanent">Permanent</option>
+    <option value="pop-up">Pop-ups</option>
+    <option value="program">Moving programs</option>
+  </select>
+  <span class="sep"></span>
+  <div class="frow" id="tags"></div>
+  <span class="sep"></span>
+  <select id="price" autocomplete="off">
+    <option value="">Any price</option>
+    <option value="600">≤ €600/mo</option>
+    <option value="900">≤ €900/mo</option>
+    <option value="1200">≤ €1200/mo</option>
+    <option value="2000">≤ €2000/mo</option>
+  </select>
+  <label class="toggle"><input type="checkbox" id="hideUnclear" autocomplete="off"> Hide unconfirmed</label>
+  <button id="reset">reset</button>
+  <div id="count"></div>
+</div>
+
+<div id="map"></div>
+<div class="grid" id="grid"></div>
+<div class="empty" id="empty" style="display:none">Nothing matches — loosen a filter.</div>
+
+<footer id="footer"></footer>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="data.js"></script>
+<script>
+const C = (window.COLIVINGS || []);
+const REGIONS = ["All","Europe","Asia","Latin America","Africa","North America","Oceania","Middle East"];
+const tagFreq = {};
+C.forEach(x => (x.tags||[]).forEach(t => tagFreq[t] = (tagFreq[t]||0)+1));
+const TAGS = Object.keys(tagFreq).sort((a,b)=>tagFreq[b]-tagFreq[a]);
+
+const state = {region:"All", country:"", room:"", format:"", tags:new Set(), price:"", q:"", hideUnclear:false};
+
+document.getElementById("protocount").textContent = C.length;
+document.getElementById("footer").innerHTML =
+  `Seed data from an automated discovery + extraction + enrichment pass across public directories, chain sites, and per-region searches (${C.length} colivings). Prices normalized to approximate EUR/month; pop-up dates change and refresh periodically. Not yet wired: affiliate links, operator "claim your listing", human verification pass. Prototype ` + new Date().getFullYear() + '.';
+
+// region chips
+const regionsEl = document.getElementById("regions");
+REGIONS.filter(r => r==="All" || C.some(x=>x.region===r)).forEach(r=>{
+  const b=document.createElement("button"); b.className="chip"+(r==="All"?" on":""); b.textContent=r;
+  b.onclick=()=>{state.region=r; state.country=""; document.getElementById("country").value=""; render();};
+  regionsEl.appendChild(b);
+});
+// tag chips
+const tagsEl = document.getElementById("tags");
+TAGS.forEach(t=>{
+  const b=document.createElement("button"); b.className="chip tag"; b.textContent=t;
+  b.onclick=()=>{state.tags.has(t)?state.tags.delete(t):state.tags.add(t); render();};
+  tagsEl.appendChild(b);
+});
+// country dropdown
+const countrySel=document.getElementById("country");
+[...new Set(C.map(x=>x.country))].sort().forEach(k=>{
+  const o=document.createElement("option"); o.value=k; o.textContent=k; countrySel.appendChild(o);
+});
+countrySel.onchange=e=>{state.country=e.target.value; render();};
+document.getElementById("room").onchange=e=>{state.room=e.target.value; render();};
+document.getElementById("format").onchange=e=>{state.format=e.target.value; render();};
+document.getElementById("price").onchange=e=>{state.price=e.target.value; render();};
+document.getElementById("hideUnclear").onchange=e=>{state.hideUnclear=e.target.checked; render();};
+document.getElementById("search").oninput=e=>{state.q=e.target.value.toLowerCase(); render();};
+
+function resetFilters(){
+  Object.assign(state,{region:"All",country:"",room:"",format:"",price:"",q:"",hideUnclear:false}); state.tags.clear();
+  ["country","room","format","price"].forEach(id=>document.getElementById(id).value="");
+  document.getElementById("search").value=""; document.getElementById("hideUnclear").checked=false;
+  render();
+}
+document.getElementById("reset").onclick=resetFilters;
+// Clean, in-sync state on every load incl. bfcache back/forward nav.
+window.addEventListener("pageshow", resetFilters);
+
+// map
+const map = L.map("map",{scrollWheelZoom:true}).setView([25,10],2);
+L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",{attribution:"© OpenStreetMap", maxZoom:18}).addTo(map);
+let markers=[];
+
+function hasRoom(x, room){
+  if(room==="dorm") return x.dormAvailable || (x.roomTypes||[]).includes("dorm");
+  return (x.roomTypes||[]).includes(room);
+}
+
+function filtered(){
+  return C.filter(x=>
+    (state.region==="All"||x.region===state.region) &&
+    (!state.country||x.country===state.country) &&
+    (!state.room||hasRoom(x,state.room)) &&
+    (!state.format||x.format===state.format) &&
+    (!state.price||(x.priceEurMonthly&&x.priceEurMonthly<=+state.price)) &&
+    (!state.hideUnclear||x.status==="active") &&
+    ([...state.tags].every(t=>(x.tags||[]).includes(t))) &&
+    (!state.q||((x.name+" "+(x.city||"")+" "+x.country).toLowerCase().includes(state.q)))
+  );
+}
+
+// headline price: if a room type is selected and priced, show THAT; else 'from' cheapest
+function priceHtml(x){
+  const p = x.prices||{};
+  if(state.room && p[state.room]) return `~€${p[state.room]}/mo <small>(${state.room})</small>`;
+  if(x.priceEurMonthly) return `~€${x.priceEurMonthly}/mo <small>from</small>`;
+  if(x.priceNote) return `<small>${x.priceNote}</small>`;
+  return `<small>price on request</small>`;
+}
+// per-room breakdown line (the comparison Caroline wanted)
+function roomsHtml(x){
+  const p = x.prices||{}; const order=["dorm","shared","private"];
+  const parts = order.filter(k=>p[k]).map(k=>`<b>${k}</b> €${p[k]}`);
+  return parts.length>1 ? `<div class="rooms">${parts.join(" · ")}/mo</div>` : "";
+}
+
+function render(){
+  document.querySelectorAll("#regions .chip").forEach(b=>b.classList.toggle("on",b.textContent===state.region));
+  document.querySelectorAll("#tags .chip").forEach(b=>b.classList.toggle("on",state.tags.has(b.textContent)));
+  const list=filtered();
+  document.getElementById("count").innerHTML=`Showing <b>${list.length}</b> of ${C.length} colivings`;
+
+  markers.forEach(m=>map.removeLayer(m)); markers=[];
+  const grid=document.getElementById("grid"); grid.innerHTML="";
+  document.getElementById("empty").style.display=list.length?"none":"block";
+
+  const withCoords=[];
+  list.forEach((x,i)=>{
+    // map pin: programs have no fixed location -> no pin. pop-up=orange, permanent=green/amber(unclear)
+    if(x.lat!=null && x.lng!=null && x.format!=="program"){
+      const col = x.format==="pop-up" ? "#b4531a" : (x.status!=="active" ? "#b07d1a" : "#0e7c66");
+      const fill = x.format==="pop-up" ? "#e0894a" : (x.status!=="active" ? "#e0b04a" : "#0e7c66");
+      const m=L.circleMarker([x.lat,x.lng],{radius:7,color:col,weight:2,fillColor:fill,fillOpacity:.55})
+        .addTo(map)
+        .bindPopup(`<b>${x.name}</b><br>${x.city?x.city+", ":""}${x.country}${x.priceEurMonthly?`<br>from ~€${x.priceEurMonthly}/mo`:""}`);
+      m.on("click",()=>{
+        document.querySelectorAll(".card").forEach(c=>c.classList.remove("hl"));
+        const card=document.getElementById("card-"+i);
+        if(card){card.classList.add("hl"); card.scrollIntoView({behavior:"smooth",block:"center"});}
+      });
+      markers.push(m); withCoords.push(m); x.__m=m;
+    } else { x.__m=null; }
+
+    const badges = (x.format==="pop-up"?`<span class="b-pop">◷ pop-up</span>`:"")
+                 + (x.format==="program"?`<span class="b-prog">↔ moving program</span>`:"")
+                 + (x.status!=="active"?`<span class="b-unclear">⚠ unconfirmed</span>`:"")
+                 + (x.coordsApprox&&x.format!=="program"?`<span class="b-approx">~approx pin</span>`:"");
+    const meta = [
+      x.minStayNights?`min ${x.minStayNights} nights`:null,
+      (x.roomTypes&&x.roomTypes.length)?x.roomTypes.join(" · "):null
+    ].filter(Boolean).join(" · ");
+    const locLabel = x.format==="program" ? (x.city||"Rotating") : `${x.city?x.city+", ":""}${x.country}`;
+
+    const d=document.createElement("div"); d.className="card"; d.id="card-"+i;
+    d.innerHTML=`
+      ${badges?`<div class="badges">${badges}</div>`:""}
+      <h3>${x.name}</h3>
+      <div class="loc">${locLabel} · ${x.region}</div>
+      <div class="price">${priceHtml(x)}</div>
+      ${roomsHtml(x)}
+      ${x.format==="pop-up"&&x.popupDates?`<div class="dates">◷ ${x.popupDates}</div>`:""}
+      ${meta?`<div class="meta">${meta}</div>`:""}
+      <div class="tags">${(x.tags||[]).map(t=>`<span class="t">${t}</span>`).join("")}${x.dormAvailable?`<span class="t dorm">dorm</span>`:""}</div>
+      ${x.notes?`<div class="notes">${x.notes}</div>`:""}
+      <div class="out">
+        ${x.url?`<a href="${x.url}" target="_blank" rel="noopener">Visit site →</a>`:`<span class="none">no site on file</span>`}
+        ${x.format==="program"&&x.scheduleUrl?`<a href="${x.scheduleUrl}" target="_blank" rel="noopener">Schedule →</a>`:""}
+      </div>`;
+    if(x.__m){
+      d.onmouseenter=()=>x.__m.setStyle({radius:10,fillOpacity:.9});
+      d.onmouseleave=()=>x.__m.setStyle({radius:7,fillOpacity:.55});
+    }
+    grid.appendChild(d);
+  });
+
+  if(withCoords.length){
+    const filtering = state.region!=="All"||state.country||state.room||state.format||state.q||state.tags.size||state.price||state.hideUnclear;
+    map.fitBounds(L.featureGroup(withCoords).getBounds().pad(filtering?0.25:0.02),{maxZoom:filtering?9:5});
+  }
+}
+render();
+</script>
+</body>
+</html>
