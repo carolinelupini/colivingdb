@@ -4,6 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>colivingDB — find colivings anywhere</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%230e7c66'/%3E%3Ctext x='16' y='23' font-family='Arial,sans-serif' font-size='20' font-weight='bold' fill='white' text-anchor='middle'%3Ec%3C/text%3E%3C/svg%3E">
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-GBDMVK7LWL"></script>
 <script>
@@ -25,13 +26,13 @@
   a{color:var(--accent);}
 
   header{background:var(--card); border-bottom:1px solid var(--line); padding:14px 22px; display:flex; align-items:center; gap:18px; flex-wrap:wrap; position:sticky; top:0; z-index:1001;}
-  .logo{font-size:1.25rem; font-weight:800; letter-spacing:-.02em;}
+  .logo{font-size:1.25rem; font-weight:800; letter-spacing:-.02em; cursor:pointer;}
   .logo span{color:var(--accent);}
   .tagline{color:var(--muted); font-size:.85rem;}
   #search{margin-left:auto; padding:8px 14px; border:1px solid var(--line); border-radius:8px; font-size:.9rem; width:260px; max-width:100%;}
   #search:focus{outline:2px solid var(--accent-soft); border-color:var(--accent);}
 
-  .filters{padding:12px 22px; display:flex; gap:10px 12px; align-items:center; flex-wrap:wrap; background:var(--card); border-bottom:1px solid var(--line);}
+  .filters{padding:12px 22px; display:flex; gap:10px 12px; align-items:center; flex-wrap:wrap; background:var(--card); border-bottom:1px solid var(--line); max-width:1120px; margin:0 auto;}
   .frow{display:flex; gap:6px; align-items:center; flex-wrap:wrap;}
   .chip{border:1px solid var(--line); background:var(--card); border-radius:999px; padding:6px 13px; font-size:.83rem; cursor:pointer; color:var(--ink); transition:all .12s;}
   .chip:hover{border-color:var(--accent);}
@@ -44,18 +45,33 @@
   #count{font-size:.83rem; color:var(--muted); margin-left:auto; white-space:nowrap;}
   #count b{color:var(--ink);}
 
-  /* contained content column (esimdb-style) — keeps rows from stretching edge-to-edge */
-  .wrap{max-width:1120px; margin-left:auto; margin-right:auto;}
-  .filters{max-width:1120px; margin:0 auto;}
   #map{height:38vh; min-height:250px; z-index:1; max-width:1120px; margin:16px auto 0; border-radius:12px; overflow:hidden; border:1px solid var(--line);}
+
+  /* browse landing (esimdb-style) — regions + countries, list appears on drill-in */
+  #landing{max-width:1120px; margin:0 auto; padding:20px 22px 8px;}
+  .browse-h{font-size:1.05rem; font-weight:700;}
+  .browse-sub{color:var(--muted); font-size:.85rem; margin:2px 0 16px;}
+  .region-cards{display:grid; grid-template-columns:repeat(auto-fill,minmax(210px,1fr)); gap:12px;}
+  .rc{background:var(--card); border:1px solid var(--line); border-radius:12px; padding:15px 18px; cursor:pointer; transition:border-color .12s, box-shadow .12s; display:flex; align-items:center; justify-content:space-between; gap:10px;}
+  .rc:hover{border-color:var(--accent); box-shadow:0 3px 12px rgba(20,40,80,.07);}
+  .rc-name{font-weight:650; font-size:1rem;}
+  .rc-count{color:var(--accent); font-weight:700; font-size:.85rem; background:var(--accent-soft); border-radius:999px; padding:3px 11px;}
+  .browse-countries{margin-top:22px; display:flex; flex-wrap:wrap; align-items:center; gap:7px;}
+  .bc-label{font-size:.72rem; color:var(--muted); text-transform:uppercase; letter-spacing:.05em; margin-right:4px;}
+  .cc{border:1px solid var(--line); background:var(--card); border-radius:999px; padding:5px 12px; font-size:.83rem; cursor:pointer; color:var(--ink); transition:border-color .12s;}
+  .cc:hover{border-color:var(--accent);}
+  .cc small{color:var(--muted); margin-left:2px;}
+  .show-all{margin-top:22px; background:var(--accent); color:#fff; border:none; border-radius:9px; padding:11px 20px; font-size:.9rem; font-weight:600; cursor:pointer;}
+  .show-all:hover{filter:brightness(1.06);}
 
   /* columnar list — same fields aligned in every row, spaced as cards */
   .list{max-width:1120px; margin:0 auto; padding:16px 22px 0;}
+  .back{background:none; border:none; color:var(--accent); font-size:.85rem; font-weight:600; cursor:pointer; padding:0 0 10px; }
   .cols{display:grid; grid-template-columns:minmax(0,2.5fr) 0.9fr 1.2fr 1.1fr auto; gap:16px; align-items:center;}
   .list-head{padding:2px 18px 10px; font-size:.7rem; text-transform:uppercase; letter-spacing:.05em; color:var(--muted); border:1px solid transparent;}
   .list-head .r-price, .row .r-price{text-align:right;}
   .list-head .r-link{min-width:64px;}
-  #rows{display:flex; flex-direction:column; gap:8px;}
+  #rows{display:flex; flex-direction:column; gap:8px; scroll-margin-top:72px;}
   .row{padding:13px 18px; cursor:default; background:var(--card); border:1px solid var(--line); border-radius:10px; transition:border-color .12s, box-shadow .12s;}
   .row:hover{border-color:var(--accent); box-shadow:0 2px 10px rgba(20,40,80,.06);}
   .row.hl{border-color:var(--accent); box-shadow:0 0 0 2px var(--accent-soft);}
@@ -74,7 +90,6 @@
 
   .r-rooms{display:flex; flex-wrap:wrap; gap:4px; font-size:.72rem;}
   .rm{border:1px solid var(--line); border-radius:6px; padding:1px 7px; color:var(--muted);}
-  .rm.dorm{background:var(--accent-soft); color:var(--accent); border-color:var(--accent);}
 
   .r-price .from{font-weight:750; font-size:.98rem;}
   .r-price .from small{font-weight:400; color:var(--muted); font-size:.72rem;}
@@ -105,7 +120,7 @@
 <body>
 
 <header>
-  <div class="logo">coliving<span>DB</span></div>
+  <div class="logo" id="home">coliving<span>DB</span></div>
   <div class="tagline">every coliving, one map, no questions asked</div>
   <input id="search" type="search" placeholder="Search name, city, country…" autocomplete="off">
 </header>
@@ -143,7 +158,16 @@
 
 <div id="map"></div>
 
-<div class="list">
+<div id="landing">
+  <div class="browse-h">Browse coliving spaces</div>
+  <div class="browse-sub">Pick a region or a country, explore the map, or see them all.</div>
+  <div class="region-cards" id="regionCards"></div>
+  <div class="browse-countries"><span class="bc-label">Popular</span><span id="countryChips"></span></div>
+  <button class="show-all" id="showAll">Show all colivings →</button>
+</div>
+
+<div class="list" style="display:none">
+  <button class="back" id="back">← Back to browse</button>
   <div class="list-head cols">
     <div class="r-name">Coliving</div>
     <div class="r-type">Type</div>
@@ -161,19 +185,15 @@
 <script src="data.js"></script>
 <script>
 const C = (window.COLIVINGS || []);
+C.forEach((x,i)=>x._i=i);                 // stable id, survives re-render
 const REGIONS = ["All","Europe","Asia","Latin America","Africa","North America","Oceania","Middle East"];
 const tagFreq = {};
 C.forEach(x => (x.tags||[]).forEach(t => tagFreq[t] = (tagFreq[t]||0)+1));
 const TAGS = Object.keys(tagFreq).sort((a,b)=>tagFreq[b]-tagFreq[a]);
 
-const state = {region:"All", country:"", room:"", format:"", tags:new Set(), price:"", q:"", hideUnclear:false};
+const state = {region:"All", country:"", room:"", format:"", tags:new Set(), price:"", q:"", hideUnclear:false, showAll:false};
 
-// Affiliate wrapping — applied to outbound "Visit" links at render time so the
-// raw operator URLs in data.js stay clean. Params append to deep links so users
-// still land on the specific location page, with referral tracking attached.
-const AFFILIATES = {
-  "outsite.co": ["rfsn", "9218925.def533"]
-};
+const AFFILIATES = { "outsite.co": ["rfsn", "9218925.def533"] };
 function affiliateUrl(url){
   if(!url) return url;
   try {
@@ -187,11 +207,11 @@ function affiliateUrl(url){
 document.getElementById("footer").innerHTML =
   `<b>colivingDB</b> indexes ${C.length} coliving spaces worldwide — permanent homes, seasonal pop-ups, and moving programs. Prices are approximate, in EUR per month, and change often; pop-up dates shift season to season. Always confirm details on the operator's own site before booking. Some links are affiliate links — colivingDB may earn a commission if you book through them, at no extra cost to you. Map data © OpenStreetMap contributors.`;
 
-// region chips
+// region quick-switch chips (filter bar)
 const regionsEl = document.getElementById("regions");
 REGIONS.filter(r => r==="All" || C.some(x=>x.region===r)).forEach(r=>{
   const b=document.createElement("button"); b.className="chip"+(r==="All"?" on":""); b.textContent=r;
-  b.onclick=()=>{state.region=r; state.country=""; document.getElementById("country").value=""; render();};
+  b.onclick=()=>{state.region=r; if(r==="All") state.showAll=false; state.country=""; document.getElementById("country").value=""; render();};
   regionsEl.appendChild(b);
 });
 // tag chips
@@ -213,13 +233,33 @@ document.getElementById("price").onchange=e=>{state.price=e.target.value; render
 document.getElementById("hideUnclear").onchange=e=>{state.hideUnclear=e.target.checked; render();};
 document.getElementById("search").oninput=e=>{state.q=e.target.value.toLowerCase(); render();};
 
+// landing: region cards + country chips + show-all
+const regionCounts={}; C.forEach(x=>regionCounts[x.region]=(regionCounts[x.region]||0)+1);
+const rcEl=document.getElementById("regionCards");
+REGIONS.filter(r=>r!=="All" && regionCounts[r]).sort((a,b)=>regionCounts[b]-regionCounts[a]).forEach(r=>{
+  const d=document.createElement("div"); d.className="rc";
+  d.innerHTML=`<span class="rc-name">${r}</span><span class="rc-count">${regionCounts[r]}</span>`;
+  d.onclick=()=>{state.region=r; state.showAll=false; state.country=""; countrySel.value=""; render();};
+  rcEl.appendChild(d);
+});
+const countryCounts={}; C.forEach(x=>countryCounts[x.country]=(countryCounts[x.country]||0)+1);
+const ccEl=document.getElementById("countryChips");
+Object.keys(countryCounts).sort((a,b)=>countryCounts[b]-countryCounts[a]).slice(0,12).forEach(c=>{
+  const b=document.createElement("button"); b.className="cc"; b.innerHTML=`${c} <small>${countryCounts[c]}</small>`;
+  b.onclick=()=>{state.country=c; state.region="All"; state.showAll=false; countrySel.value=c; render();};
+  ccEl.appendChild(b);
+});
+document.getElementById("showAll").onclick=()=>{state.showAll=true; render();};
+
 function resetFilters(){
-  Object.assign(state,{region:"All",country:"",room:"",format:"",price:"",q:"",hideUnclear:false}); state.tags.clear();
+  Object.assign(state,{region:"All",country:"",room:"",format:"",price:"",q:"",hideUnclear:false,showAll:false}); state.tags.clear();
   ["country","room","format","price"].forEach(id=>document.getElementById(id).value="");
   document.getElementById("search").value=""; document.getElementById("hideUnclear").checked=false;
   render();
 }
 document.getElementById("reset").onclick=resetFilters;
+document.getElementById("back").onclick=resetFilters;
+document.getElementById("home").onclick=resetFilters;
 window.addEventListener("pageshow", resetFilters);
 
 // map
@@ -228,6 +268,10 @@ L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",{attribution:"�
 window.addEventListener("resize", () => map.invalidateSize());
 let markers=[];
 
+function isBrowse(){
+  return state.region==="All" && !state.country && !state.room && !state.format
+    && !state.tags.size && !state.price && !state.q && !state.hideUnclear && !state.showAll;
+}
 function hasRoom(x, room){
   if(room==="dorm") return x.dormAvailable || (x.roomTypes||[]).includes("dorm");
   return (x.roomTypes||[]).includes(room);
@@ -245,22 +289,30 @@ function filtered(){
   );
 }
 
+// bring a clicked map pin's record to the TOP of the list (not scroll down to it)
+function focusRecord(idx){
+  if(isBrowse()){ state.showAll=true; render(); }
+  const rowsEl=document.getElementById("rows");
+  const row=document.getElementById("row-"+idx);
+  if(row){
+    document.querySelectorAll(".row.hl").forEach(c=>c.classList.remove("hl"));
+    rowsEl.prepend(row);
+    row.classList.add("hl");
+    rowsEl.scrollIntoView({behavior:"smooth", block:"start"});
+  }
+}
+
 function priceCell(x){
   const p = x.prices||{};
-  // group room types by price so identical prices don't repeat
-  // (e.g. dorm €167 + shared €167 -> "dorm/shared €167"; drop breakdown when all one price)
   const byPrice = {};
   ["dorm","shared","private"].forEach(k=>{ if(p[k]) (byPrice[p[k]] = byPrice[p[k]] || []).push(k); });
   const tiers = Object.keys(byPrice).map(Number).sort((a,b)=>a-b);
-
   if(state.room && p[state.room])
     return `<div class="from">€${p[state.room]}<small>/mo · ${state.room}</small></div>`;
-
   let main;
   if(tiers.length) main = `<div class="from">€${tiers[0]}<small>/mo${tiers.length>1?" from":""}</small></div>`;
   else if(x.priceEurMonthly) main = `<div class="from">€${x.priceEurMonthly}<small>/mo from</small></div>`;
   else return `<div class="onreq">${x.priceNote ? x.priceNote : "on request"}</div>`;
-
   const brk = tiers.length>1
     ? `<div class="brk">${tiers.map(t=>`<b>${byPrice[t].join("/")}</b> €${t}`).join(" · ")}</div>`
     : "";
@@ -278,34 +330,38 @@ function roomsCell(x){
   const set = new Set(rts); if(x.dormAvailable) set.add("dorm");
   const order=["dorm","private","shared","studio","apartment"];
   const sorted=[...set].sort((a,b)=>(order.indexOf(a)+99)%100-(order.indexOf(b)+99)%100);
-  return sorted.map(r=>`<span class="rm ${r==="dorm"?"dorm":""}">${r}</span>`).join("");
+  return sorted.map(r=>`<span class="rm">${r}</span>`).join("");
 }
 
 function render(){
   document.querySelectorAll("#regions .chip").forEach(b=>b.classList.toggle("on",b.textContent===state.region));
   document.querySelectorAll("#tags .chip").forEach(b=>b.classList.toggle("on",state.tags.has(b.textContent)));
+  const browse = isBrowse();
   const list=filtered();
-  document.getElementById("count").innerHTML=`Showing <b>${list.length}</b> of ${C.length} colivings`;
+  document.getElementById("count").innerHTML = browse
+    ? `${C.length} colivings`
+    : `Showing <b>${list.length}</b> of ${C.length} colivings`;
+  document.getElementById("landing").style.display = browse ? "" : "none";
+  document.querySelector(".list").style.display = browse ? "none" : "";
 
   markers.forEach(m=>map.removeLayer(m)); markers=[];
   const rowsEl=document.getElementById("rows"); rowsEl.innerHTML="";
-  document.getElementById("empty").style.display=list.length?"none":"block";
+  document.getElementById("empty").style.display=(!browse && !list.length)?"block":"none";
 
   const withCoords=[];
-  list.forEach((x,i)=>{
+  list.forEach((x)=>{
+    const idx=x._i;
     if(x.lat!=null && x.lng!=null && x.format!=="program"){
       const col = x.format==="pop-up" ? "#b4531a" : (x.status!=="active" ? "#b07d1a" : "#0e7c66");
       const fill = x.format==="pop-up" ? "#e0894a" : (x.status!=="active" ? "#e0b04a" : "#0e7c66");
       const m=L.circleMarker([x.lat,x.lng],{radius:7,color:col,weight:2,fillColor:fill,fillOpacity:.55})
         .addTo(map)
         .bindPopup(`<b>${x.name}</b><br>${x.city?x.city+", ":""}${x.country}${x.priceEurMonthly?`<br>from ~€${x.priceEurMonthly}/mo`:""}`);
-      m.on("click",()=>{
-        document.querySelectorAll(".row").forEach(c=>c.classList.remove("hl"));
-        const row=document.getElementById("row-"+i);
-        if(row){row.classList.add("hl"); row.scrollIntoView({behavior:"smooth",block:"center"});}
-      });
+      m.on("click",()=>focusRecord(idx));
       markers.push(m); withCoords.push(m); x.__m=m;
     } else { x.__m=null; }
+
+    if(browse) return;   // browse mode: map only, no list rows
 
     const loc = x.format==="program" ? (x.city||"Rotating") : `${x.city?x.city+", ":""}${x.country}`;
     const tagsHtml = (x.tags||[]).slice(0,5).map(t=>`<span class="t">${t}</span>`).join("");
@@ -313,7 +369,7 @@ function render(){
     const linkHtml = (x.url?`<a href="${affiliateUrl(x.url)}" target="_blank" rel="noopener sponsored">Visit →</a>`:`<span class="none">no site</span>`)
       + (x.format==="program"&&x.scheduleUrl?`<a class="sched" href="${x.scheduleUrl}" target="_blank" rel="noopener">Schedule →</a>`:"");
 
-    const row=document.createElement("div"); row.className="row cols"; row.id="row-"+i;
+    const row=document.createElement("div"); row.className="row cols"; row.id="row-"+idx;
     row.innerHTML=`
       <div class="r-name">
         <div class="nm">${x.name}</div>
@@ -333,8 +389,8 @@ function render(){
   });
 
   if(withCoords.length){
-    const filtering = state.region!=="All"||state.country||state.room||state.format||state.q||state.tags.size||state.price||state.hideUnclear;
-    map.fitBounds(L.featureGroup(withCoords).getBounds().pad(filtering?0.25:0.02),{maxZoom:filtering?9:5});
+    const tight = !browse && (state.region!=="All"||state.country||state.room||state.format||state.q||state.tags.size||state.price||state.hideUnclear);
+    map.fitBounds(L.featureGroup(withCoords).getBounds().pad(tight?0.25:0.02),{maxZoom:tight?9:5});
   }
 }
 render();
