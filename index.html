@@ -179,6 +179,7 @@
     <option value="permanent">Permanent</option>
     <option value="pop-up">Pop-ups</option>
   </select>
+  <select id="month" autocomplete="off" title="Pop-ups running in a given month (permanents always shown)"><option value="">Any month</option></select>
   <span class="sep"></span>
   <div class="frow" id="tags"></div>
   <span class="sep"></span>
@@ -273,7 +274,29 @@ const TAGS = Object.keys(tagFreq).sort((a,b)=>tagFreq[b]-tagFreq[a]);
 // order interleaves warm/cool so the look-alike pairs never sit next to each other
 const TYPE_ORDER = ["community","beach","family","island","coworking","eco","rural","startup","surf","mountain","ski","city"];
 
-const state = {region:"All", country:"", room:"", format:"", tags:new Set(), price:"", q:"", hideUnclear:false, showAll:false, currency:""};
+const state = {region:"All", country:"", room:"", format:"", month:"", tags:new Set(), price:"", q:"", hideUnclear:false, showAll:false, currency:""};
+
+// ---- pop-up month coverage: turn a popupDates string into the set of YYYY-MM it spans ----
+const MONTH_IDX={jan:1,feb:2,mar:3,apr:4,may:5,jun:6,jul:7,aug:8,sep:9,sept:9,oct:10,nov:11,dec:12,
+  january:1,february:2,march:3,april:4,june:6,july:7,august:8,september:9,october:10,november:11,december:12};
+function popupMonths(dates){
+  // returns a Set of "YYYY-MM" the window covers; empty if undatable.
+  // Multi-cohort strings ("Apr-Jun 2026 / Sept-Nov 2026 / ...") are split on cohort
+  // separators so gap months between cohorts aren't wrongly included.
+  const out=new Set(); const s=(dates||"").toLowerCase();
+  if(!s) return out;
+  for(const seg of s.split(/[/;&]|(?:\s+plus\s+)/)){
+    const years=(seg.match(/20\d\d/g)||[]).map(Number);
+    const mons=[]; for(const m of seg.match(/[a-z]+/g)||[]) if(m in MONTH_IDX) mons.push(MONTH_IDX[m]);
+    if(!years.length||!mons.length) continue;   // a segment needs both a month and a year of its own
+    let y0=years[0], y1=years[years.length-1]; const m0=mons[0], m1=mons[mons.length-1];
+    if(years.length===1 && m1<m0) y0=y1-1;   // "Dec - Jan 2027" range crosses into the stated end year
+    let y=y0, m=m0, guard=0;
+    while(guard++<24){ out.add(y+"-"+String(m).padStart(2,"0")); if(y===y1&&m===m1) break; m++; if(m>12){m=1;y++;} if(y>y1) break; }
+  }
+  return out;
+}
+function monthKeyLabel(k){ const [y,m]=k.split("-"); return new Date(y,m-1,1).toLocaleString("en",{month:"short"})+" "+y; }
 
 // ---- currency: live FX (base EUR) + convert/format. Default "" = each listing in its own local currency ----
 let RATES = {EUR:1};   // X per 1 EUR
@@ -340,6 +363,13 @@ const countrySel=document.getElementById("country");
 countrySel.onchange=e=>{state.country=e.target.value; render();};
 document.getElementById("room").onchange=e=>{state.room=e.target.value; render();};
 document.getElementById("format").onchange=e=>{state.format=e.target.value; render();};
+// month dropdown: every month any live pop-up covers, from this month forward
+const monthSel=document.getElementById("month");
+{ const nowKey=(()=>{const d=new Date();return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0");})();
+  const all=new Set(); C.forEach(x=>{ if(x.format==="pop-up") popupMonths(x.popupDates).forEach(k=>{ if(k>=nowKey) all.add(k); }); });
+  [...all].sort().forEach(k=>{ const o=document.createElement("option"); o.value=k; o.textContent=monthKeyLabel(k); monthSel.appendChild(o); });
+}
+monthSel.onchange=e=>{state.month=e.target.value; render();};
 document.getElementById("price").onchange=e=>{state.price=e.target.value; render();};
 document.getElementById("hideUnclear").onchange=e=>{state.hideUnclear=e.target.checked; render();};
 document.getElementById("search").oninput=e=>{state.q=e.target.value.toLowerCase(); render();};
@@ -385,8 +415,8 @@ formModal.querySelector(".modal-backdrop").onclick=closeForm;
 document.addEventListener("keydown",e=>{ if(e.key==="Escape" && formModal.style.display==="flex") closeForm(); });
 
 function resetFilters(){
-  Object.assign(state,{region:"All",country:"",room:"",format:"",price:"",q:"",hideUnclear:false,showAll:false}); state.tags.clear();
-  ["country","room","format","price"].forEach(id=>document.getElementById(id).value="");
+  Object.assign(state,{region:"All",country:"",room:"",format:"",month:"",price:"",q:"",hideUnclear:false,showAll:false}); state.tags.clear();
+  ["country","room","format","month","price"].forEach(id=>document.getElementById(id).value="");
   document.getElementById("search").value=""; document.getElementById("hideUnclear").checked=false;
   render();
 }
@@ -409,7 +439,7 @@ window.addEventListener("resize", () => map.invalidateSize());
 let markers=[];
 
 function isBrowse(){
-  return state.region==="All" && !state.country && !state.room && !state.format
+  return state.region==="All" && !state.country && !state.room && !state.format && !state.month
     && !state.tags.size && !state.price && !state.q && !state.hideUnclear && !state.showAll;
 }
 function hasRoom(x, room){
@@ -422,6 +452,7 @@ function filtered(){
     (!state.country||x.country===state.country) &&
     (!state.room||hasRoom(x,state.room)) &&
     (!state.format||x.format===state.format) &&
+    (!state.month||x.format!=="pop-up"||popupMonths(x.popupDates).has(state.month)) &&
     (!state.price||(x.priceEurMonthly&&x.priceEurMonthly<=+state.price)) &&
     (!state.hideUnclear||x.status==="active") &&
     ([...state.tags].every(t=>(x.tags||[]).includes(t))) &&
@@ -545,7 +576,7 @@ function render(){
   });
 
   if(withCoords.length){
-    const tight = !browse && (state.region!=="All"||state.country||state.room||state.format||state.q||state.tags.size||state.price||state.hideUnclear);
+    const tight = !browse && (state.region!=="All"||state.country||state.room||state.format||state.month||state.q||state.tags.size||state.price||state.hideUnclear);
     map.fitBounds(L.featureGroup(withCoords).getBounds().pad(tight?0.25:0.02),{maxZoom:tight?9:5});
   }
 }
