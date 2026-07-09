@@ -55,6 +55,9 @@
   #count b{color:var(--ink);}
 
   #map{height:38vh; min-height:250px; z-index:1; max-width:var(--wrap); margin:16px auto 0; border-radius:12px; overflow:hidden; border:1px solid var(--line);}
+  .map-legend{background:rgba(255,255,255,.93); border:1px solid var(--line); border-radius:8px; padding:6px 10px; font-size:.74rem; color:var(--ink); display:flex; gap:13px; box-shadow:0 1px 4px rgba(20,40,80,.12);}
+  .map-legend span{display:flex; align-items:center; gap:5px;}
+  .map-legend i{width:10px; height:10px; border-radius:50%; display:inline-block; border:1.5px solid rgba(0,0,0,.15);}
 
   /* browse landing */
   #landing{max-width:var(--wrap); margin:0 auto; padding:6px 22px 8px;}
@@ -233,10 +236,21 @@ const REGION_HUE = {
   "Europe":"#3f6fb0","Asia":"#c0533a","Latin America":"#d19a2e",
   "Africa":"#c67a34","North America":"#8a6ea8","Oceania":"#2fa39a","Middle East":"#b06a4e"
 };
+// colours chosen to be topically sensible (eco/rural green, water blue/teal, ski sky-blue,
+// city grey) AND kept visually distinct — clashing pairs also separated in TYPE_ORDER below
 const TYPE_HUE = {
-  beach:"#2f8fc0", surf:"#1f9aa8", island:"#2fa39a", mountain:"#6b7f9e", ski:"#5a86b0",
-  rural:"#7a9a3f", eco:"#4e9e5a", city:"#9a7b52", coworking:"#7a6ea8", startup:"#8a6ea8",
-  community:"#c0533a", family:"#c07a9a"
+  community:"#c0523a",   // warm red
+  beach:"#2478c0",       // deep ocean blue
+  island:"#17976a",      // emerald / tropical green
+  family:"#bd6f90",      // rose
+  coworking:"#5b5fc7",   // indigo (professional)
+  eco:"#3f9e57",         // green
+  rural:"#7e8d39",       // olive
+  startup:"#b5791e",     // amber / gold (energy)
+  surf:"#109cae",        // turquoise / cyan
+  mountain:"#5f7387",    // slate
+  city:"#6f7681",        // concrete grey
+  ski:"#5a92d0"          // sky blue (lighter than beach)
 };
 const typeHue = t => TYPE_HUE[t] || "#0e7c66";
 const tint = (hue,pct) => `color-mix(in srgb, ${hue} ${pct}%, white)`;
@@ -244,7 +258,8 @@ const tint = (hue,pct) => `color-mix(in srgb, ${hue} ${pct}%, white)`;
 const tagFreq = {};
 C.forEach(x => (x.tags||[]).forEach(t => tagFreq[t] = (tagFreq[t]||0)+1));
 const TAGS = Object.keys(tagFreq).sort((a,b)=>tagFreq[b]-tagFreq[a]);
-const TYPE_ORDER = ["community","coworking","beach","city","rural","surf","island","mountain","eco","ski","startup","family"];
+// order interleaves warm/cool so the look-alike pairs never sit next to each other
+const TYPE_ORDER = ["community","beach","island","family","coworking","eco","rural","startup","surf","mountain","city","ski"];
 
 const state = {region:"All", country:"", room:"", format:"", tags:new Set(), price:"", q:"", hideUnclear:false, showAll:false, currency:""};
 
@@ -365,6 +380,13 @@ window.addEventListener("pageshow", resetFilters);
 // map
 const map = L.map("map",{scrollWheelZoom:true}).setView([25,10],2);
 L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",{attribution:"© OpenStreetMap", maxZoom:18}).addTo(map);
+const legend = L.control({position:"bottomleft"});
+legend.onAdd = () => {
+  const d = L.DomUtil.create("div","map-legend");
+  d.innerHTML = `<span><i style="background:#0e7c66"></i>Permanent</span><span><i style="background:#e0894a"></i>Pop-up</span>`;
+  return d;
+};
+legend.addTo(map);
 window.addEventListener("resize", () => map.invalidateSize());
 let markers=[];
 
