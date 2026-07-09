@@ -117,6 +117,12 @@
   .r-link .sched{font-size:.76rem; font-weight:500; margin-top:3px;}
   .r-link .none{color:var(--muted); font-size:.78rem; font-weight:400;}
 
+  .signup{max-width:1120px; margin:26px auto 0; padding:0 22px;}
+  .signup-inner{background:var(--accent-soft); border:1px solid color-mix(in srgb, var(--accent) 22%, white); border-radius:14px; padding:20px 24px; display:flex; align-items:center; justify-content:space-between; gap:20px; flex-wrap:wrap;}
+  .signup-h{font-size:1.05rem; font-weight:700;}
+  .signup-sub{color:var(--muted); font-size:.85rem; margin-top:3px;}
+  .signup-form{flex:1; min-width:280px; max-width:440px; height:96px; border:none;}
+  @media(max-width:640px){ .signup-form{max-width:none; width:100%;} }
   .empty{padding:40px 22px; text-align:center; color:var(--muted);}
   footer{max-width:var(--wrap); margin:24px auto 0; padding:18px 22px 40px; color:var(--muted); font-size:.78rem; line-height:1.6; border-top:1px solid var(--line);}
 
@@ -202,6 +208,16 @@
   <div id="rows"></div>
 </div>
 <div class="empty" id="empty" style="display:none">Nothing matches — loosen a filter.</div>
+
+<div class="signup">
+  <div class="signup-inner">
+    <div>
+      <div class="signup-h">New colivings in your inbox</div>
+      <div class="signup-sub">A monthly roundup of new spaces + upcoming pop-ups. No spam, unsubscribe anytime.</div>
+    </div>
+    <iframe class="signup-form" src="https://subscribe-forms.beehiiv.com/e2050a21-3afe-41f0-a9de-132528b8cda6" frameborder="0" scrolling="no" title="Subscribe to colivingDB"></iframe>
+  </div>
+</div>
 
 <footer id="footer"></footer>
 
