@@ -223,7 +223,9 @@ TAGS.forEach(t=>{
 });
 // country dropdown
 const countrySel=document.getElementById("country");
-[...new Set(C.map(x=>x.country))].sort().forEach(k=>{
+// "Multiple" isn't a real country (multi-location brands / moving programs) — keep it
+// out of the country picker; those records stay findable by region, type, and search.
+[...new Set(C.map(x=>x.country))].filter(k=>k!=="Multiple").sort().forEach(k=>{
   const o=document.createElement("option"); o.value=k; o.textContent=k; countrySel.appendChild(o);
 });
 countrySel.onchange=e=>{state.country=e.target.value; render();};
@@ -244,7 +246,7 @@ REGIONS.filter(r=>r!=="All" && regionCounts[r]).sort((a,b)=>regionCounts[b]-regi
 });
 const countryCounts={}; C.forEach(x=>countryCounts[x.country]=(countryCounts[x.country]||0)+1);
 const ccEl=document.getElementById("countryChips");
-Object.keys(countryCounts).sort((a,b)=>countryCounts[b]-countryCounts[a]).slice(0,12).forEach(c=>{
+Object.keys(countryCounts).filter(c=>c!=="Multiple").sort((a,b)=>countryCounts[b]-countryCounts[a]).slice(0,12).forEach(c=>{
   const b=document.createElement("button"); b.className="cc"; b.innerHTML=`${c} <small>${countryCounts[c]}</small>`;
   b.onclick=()=>{state.country=c; state.region="All"; state.showAll=false; countrySel.value=c; render();};
   ccEl.appendChild(b);
@@ -363,7 +365,9 @@ function render(){
 
     if(browse) return;   // browse mode: map only, no list rows
 
-    const loc = x.format==="program" ? (x.city||"Rotating") : `${x.city?x.city+", ":""}${x.country}`;
+    const loc = (x.country==="Multiple" || x.format==="program")
+      ? ((x.city && !/multiple|rotating|itinerant|various/i.test(x.city)) ? x.city + " · multiple locations" : "Multiple locations")
+      : `${x.city?x.city+", ":""}${x.country}`;
     const tagsHtml = (x.tags||[]).slice(0,5).map(t=>`<span class="t">${t}</span>`).join("");
     const datesHtml = (x.format==="pop-up"&&x.popupDates) ? `<div class="dates">◷ ${x.popupDates}</div>` : "";
     const linkHtml = (x.url?`<a href="${affiliateUrl(x.url)}" target="_blank" rel="noopener sponsored">Visit →</a>`:`<span class="none">no site</span>`)
