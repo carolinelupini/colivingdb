@@ -124,7 +124,11 @@
   .signup-inner{background:var(--accent-soft); border:1px solid color-mix(in srgb, var(--accent) 22%, white); border-radius:14px; padding:20px 24px; display:flex; align-items:center; justify-content:space-between; gap:20px; flex-wrap:wrap;}
   .signup-h{font-size:1.05rem; font-weight:700;}
   .signup-sub{color:var(--muted); font-size:.85rem; margin-top:3px;}
-  .signup-form{flex:1; min-width:280px; max-width:440px; height:96px; border:none;}
+  .signup-form{flex:1; min-width:280px; max-width:440px; display:flex; gap:8px;}
+  .signup-form input{flex:1; min-width:0; padding:11px 14px; border:1px solid var(--line); border-radius:9px; font-size:.9rem; background:#fff; color:var(--ink);}
+  .signup-form input:focus{outline:2px solid var(--accent-soft); border-color:var(--accent);}
+  .signup-form button{padding:11px 18px; background:var(--accent); color:#fff; border:none; border-radius:9px; font-weight:600; font-size:.88rem; cursor:pointer; white-space:nowrap;}
+  .signup-form button:hover{filter:brightness(1.06);}
   @media(max-width:640px){ .signup-form{max-width:none; width:100%;} }
   .empty{padding:40px 22px; text-align:center; color:var(--muted);}
   footer{max-width:var(--wrap); margin:24px auto 0; padding:18px 22px 40px; color:var(--muted); font-size:.78rem; line-height:1.6; border-top:1px solid var(--line);}
@@ -218,7 +222,10 @@
       <div class="signup-h">New colivings in your inbox</div>
       <div class="signup-sub">A monthly roundup of new spaces + upcoming pop-ups. No spam, unsubscribe anytime.</div>
     </div>
-    <iframe class="signup-form" src="https://subscribe-forms.beehiiv.com/e2050a21-3afe-41f0-a9de-132528b8cda6" frameborder="0" scrolling="no" title="Subscribe to colivingDB"></iframe>
+    <form class="signup-form" id="signupForm">
+      <input id="subEmail" type="email" placeholder="you@example.com" autocomplete="email" required>
+      <button type="submit">Subscribe</button>
+    </form>
   </div>
 </div>
 
@@ -360,6 +367,13 @@ Object.keys(countryCounts).filter(c=>c!=="Multiple").sort((a,b)=>countryCounts[b
   ccEl.appendChild(b);
 });
 document.getElementById("showAll").onclick=()=>{state.showAll=true; render();};
+// email signup — native on-brand form, hands off to the colivingDB Beehiiv subscribe page
+document.getElementById("signupForm").addEventListener("submit", (e)=>{
+  e.preventDefault();
+  const email = document.getElementById("subEmail").value.trim();
+  if(!email) return;
+  window.location.href = "https://colivingdb.beehiiv.com/subscribe?email=" + encodeURIComponent(email);
+});
 // "add your coliving" — mailto built in JS (keeps the address out of static HTML for scrapers)
 document.getElementById("submitLink").href =
   "mailto:caroline.lupini@gmail.com?subject=" + encodeURIComponent("colivingDB — Add our coliving") +
