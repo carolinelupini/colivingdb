@@ -44,17 +44,21 @@
   #count{font-size:.83rem; color:var(--muted); margin-left:auto; white-space:nowrap;}
   #count b{color:var(--ink);}
 
-  #map{height:40vh; min-height:260px; z-index:1;}
+  /* contained content column (esimdb-style) — keeps rows from stretching edge-to-edge */
+  .wrap{max-width:1120px; margin-left:auto; margin-right:auto;}
+  .filters{max-width:1120px; margin:0 auto;}
+  #map{height:38vh; min-height:250px; z-index:1; max-width:1120px; margin:16px auto 0; border-radius:12px; overflow:hidden; border:1px solid var(--line);}
 
-  /* columnar list — same fields aligned in every row */
-  .list{background:var(--card);}
-  .cols{display:grid; grid-template-columns:minmax(0,2.5fr) 0.9fr 1.25fr 1.15fr auto; gap:16px; align-items:center;}
-  .list-head{padding:11px 22px; border-bottom:1px solid var(--line); font-size:.7rem; text-transform:uppercase; letter-spacing:.05em; color:var(--muted); background:var(--bg);}
+  /* columnar list — same fields aligned in every row, spaced as cards */
+  .list{max-width:1120px; margin:0 auto; padding:16px 22px 0;}
+  .cols{display:grid; grid-template-columns:minmax(0,2.5fr) 0.9fr 1.2fr 1.1fr auto; gap:16px; align-items:center;}
+  .list-head{padding:2px 18px 10px; font-size:.7rem; text-transform:uppercase; letter-spacing:.05em; color:var(--muted); border:1px solid transparent;}
   .list-head .r-price, .row .r-price{text-align:right;}
-  .list-head .r-link{min-width:74px;}
-  .row{padding:13px 22px; border-bottom:1px solid var(--line); cursor:default;}
-  .row:hover{background:var(--rowhover);}
-  .row.hl{background:var(--accent-soft);}
+  .list-head .r-link{min-width:64px;}
+  #rows{display:flex; flex-direction:column; gap:8px;}
+  .row{padding:13px 18px; cursor:default; background:var(--card); border:1px solid var(--line); border-radius:10px; transition:border-color .12s, box-shadow .12s;}
+  .row:hover{border-color:var(--accent); box-shadow:0 2px 10px rgba(20,40,80,.06);}
+  .row.hl{border-color:var(--accent); box-shadow:0 0 0 2px var(--accent-soft);}
 
   .r-name .nm{font-size:.98rem; font-weight:650; line-height:1.2;}
   .r-name .loc{color:var(--muted); font-size:.8rem; margin-top:2px;}
@@ -83,7 +87,7 @@
   .r-link .none{color:var(--muted); font-size:.78rem; font-weight:400;}
 
   .empty{padding:40px 22px; text-align:center; color:var(--muted);}
-  footer{padding:18px 22px 40px; color:var(--muted); font-size:.78rem; line-height:1.6; background:var(--card); border-top:1px solid var(--line);}
+  footer{max-width:1120px; margin:20px auto 0; padding:18px 22px 40px; color:var(--muted); font-size:.78rem; line-height:1.6; border-top:1px solid var(--line);}
 
   @media (max-width:760px){
     #search{width:100%; margin-left:0;} #count{margin-left:0;}
@@ -243,13 +247,23 @@ function filtered(){
 
 function priceCell(x){
   const p = x.prices||{};
+  // group room types by price so identical prices don't repeat
+  // (e.g. dorm €167 + shared €167 -> "dorm/shared €167"; drop breakdown when all one price)
+  const byPrice = {};
+  ["dorm","shared","private"].forEach(k=>{ if(p[k]) (byPrice[p[k]] = byPrice[p[k]] || []).push(k); });
+  const tiers = Object.keys(byPrice).map(Number).sort((a,b)=>a-b);
+
+  if(state.room && p[state.room])
+    return `<div class="from">€${p[state.room]}<small>/mo · ${state.room}</small></div>`;
+
   let main;
-  if(state.room && p[state.room]) main = `<div class="from">€${p[state.room]}<small>/mo (${state.room})</small></div>`;
+  if(tiers.length) main = `<div class="from">€${tiers[0]}<small>/mo${tiers.length>1?" from":""}</small></div>`;
   else if(x.priceEurMonthly) main = `<div class="from">€${x.priceEurMonthly}<small>/mo from</small></div>`;
   else return `<div class="onreq">${x.priceNote ? x.priceNote : "on request"}</div>`;
-  const order=["dorm","shared","private"];
-  const parts = order.filter(k=>p[k]).map(k=>`<b>${k}</b> €${p[k]}`);
-  const brk = parts.length>1 ? `<div class="brk">${parts.join(" · ")}</div>` : "";
+
+  const brk = tiers.length>1
+    ? `<div class="brk">${tiers.map(t=>`<b>${byPrice[t].join("/")}</b> €${t}`).join(" · ")}</div>`
+    : "";
   return main + brk;
 }
 function typeCell(x){
