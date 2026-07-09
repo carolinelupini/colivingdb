@@ -59,13 +59,16 @@
   #landing{max-width:var(--wrap); margin:0 auto; padding:6px 22px 8px;}
   .browse-h{font-size:1.1rem; font-weight:700; text-align:center; margin:28px 0 4px;}
   .browse-sub{color:var(--muted); font-size:.85rem; text-align:center; margin-bottom:16px;}
-  .cards-grid{display:grid; grid-template-columns:repeat(auto-fill,minmax(212px,1fr)); gap:12px;}
-  .cards-grid.types{grid-template-columns:repeat(auto-fill,minmax(150px,1fr));}
-  .card-b{border:1px solid var(--line); border-radius:12px; padding:15px 16px; cursor:pointer; transition:transform .1s, box-shadow .12s; display:flex; align-items:center; justify-content:space-between; gap:10px;}
+  /* fixed column counts that divide the card sets evenly, so rows stay even + centered at any width */
+  .cards-grid{display:grid; gap:12px; grid-template-columns:repeat(3,minmax(0,1fr));}   /* 6 regions -> 3+3 */
+  .cards-grid.types{grid-template-columns:repeat(4,minmax(0,1fr));}                       /* 12 types  -> 4+4+4 */
+  @media(max-width:900px){ .cards-grid{grid-template-columns:repeat(2,minmax(0,1fr));} .cards-grid.types{grid-template-columns:repeat(3,minmax(0,1fr));} }
+  @media(max-width:560px){ .cards-grid{grid-template-columns:1fr;} .cards-grid.types{grid-template-columns:repeat(2,minmax(0,1fr));} }
+  .card-b{border:1px solid var(--line); border-radius:12px; padding:14px 16px; cursor:pointer; transition:transform .1s, box-shadow .12s; display:flex; align-items:center; justify-content:space-between; gap:8px; min-width:0;}
   .card-b:hover{transform:translateY(-1px); box-shadow:0 4px 14px rgba(20,40,80,.09);}
-  .cb-name{font-weight:650; font-size:.98rem; display:flex; align-items:center; gap:8px;}
-  .cb-dot{width:10px; height:10px; border-radius:3px; flex:none;}
-  .cb-count{font-weight:700; font-size:.8rem; border-radius:999px; padding:3px 10px; color:#fff;}
+  .cb-name{font-weight:650; font-size:.95rem; display:flex; align-items:center; gap:8px; min-width:0; overflow:hidden; text-overflow:ellipsis; white-space:nowrap;}
+  .cb-dot{width:9px; height:9px; border-radius:3px; flex:none;}
+  .cb-count{font-weight:700; font-size:.78rem; border-radius:999px; padding:3px 9px; color:#fff; flex:none; min-width:34px; text-align:center;}
   .browse-countries{margin-top:26px; display:flex; flex-wrap:wrap; align-items:center; justify-content:center; gap:7px;}
   .bc-label{font-size:.72rem; color:var(--muted); text-transform:uppercase; letter-spacing:.05em; margin-right:4px; width:100%; text-align:center; margin-bottom:2px;}
   .cc{border:1px solid var(--line); background:var(--card); border-radius:999px; padding:5px 12px; font-size:.83rem; cursor:pointer; color:var(--ink); transition:border-color .12s;}
@@ -74,6 +77,8 @@
   .show-all-wrap{text-align:center; margin-top:28px;}
   .show-all{background:var(--accent); color:#fff; border:none; border-radius:10px; padding:12px 24px; font-size:.92rem; font-weight:600; cursor:pointer;}
   .show-all:hover{filter:brightness(1.06);}
+  .submit-cta{text-align:center; margin-top:16px; font-size:.85rem; color:var(--muted);}
+  .submit-cta a{font-weight:600;}
 
   /* columnar list */
   .list{max-width:var(--wrap); margin:0 auto; padding:16px 22px 0;}
@@ -181,6 +186,7 @@
   <div class="cards-grid types" id="typeCards"></div>
   <div class="browse-countries"><span class="bc-label">Popular countries</span><span id="countryChips" style="display:flex;flex-wrap:wrap;gap:7px;justify-content:center"></span></div>
   <div class="show-all-wrap"><button class="show-all" id="showAll">Show all colivings →</button></div>
+  <div class="submit-cta">Run a coliving that isn't listed? <a id="submitLink" href="#">Add it to colivingDB →</a></div>
 </div>
 
 <div class="list" style="display:none">
@@ -293,6 +299,11 @@ Object.keys(countryCounts).filter(c=>c!=="Multiple").sort((a,b)=>countryCounts[b
   ccEl.appendChild(b);
 });
 document.getElementById("showAll").onclick=()=>{state.showAll=true; render();};
+// "add your coliving" — mailto built in JS (keeps the address out of static HTML for scrapers)
+document.getElementById("submitLink").href =
+  "mailto:caroline.lupini@gmail.com?subject=" + encodeURIComponent("colivingDB — Add our coliving") +
+  "&body=" + encodeURIComponent(
+    "Coliving name:\nWebsite:\nCity / country:\nRoom types (private / shared / dorm):\nPrice per month + the currency you charge in:\nOpen year-round, or specific dates (if a pop-up):\nAnything else worth knowing:\n");
 
 function resetFilters(){
   Object.assign(state,{region:"All",country:"",room:"",format:"",price:"",q:"",hideUnclear:false,showAll:false}); state.tags.clear();
