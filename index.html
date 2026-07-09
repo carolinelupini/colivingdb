@@ -82,7 +82,13 @@
   .show-all{background:var(--accent); color:#fff; border:none; border-radius:10px; padding:12px 24px; font-size:.92rem; font-weight:600; cursor:pointer;}
   .show-all:hover{filter:brightness(1.06);}
   .submit-cta{text-align:center; margin-top:16px; font-size:.85rem; color:var(--muted);}
-  .submit-cta a{font-weight:600;}
+  .submit-cta a{font-weight:600; cursor:pointer;}
+  .modal{position:fixed; inset:0; z-index:2000; display:flex; align-items:center; justify-content:center;}
+  .modal-backdrop{position:absolute; inset:0; background:rgba(20,30,50,.5);}
+  .modal-panel{position:relative; background:var(--card); border-radius:14px; width:min(94vw,640px); max-height:92vh; overflow:hidden; box-shadow:0 20px 60px rgba(0,0,0,.35); display:flex; flex-direction:column;}
+  .modal-close{position:absolute; top:6px; right:12px; z-index:2; background:none; border:none; font-size:1.7rem; line-height:1; color:var(--muted); cursor:pointer;}
+  .modal-close:hover{color:var(--ink);}
+  .modal-panel iframe{width:100%; height:84vh; border:none; display:block;}
 
   /* columnar list */
   .list{max-width:var(--wrap); margin:0 auto; padding:16px 22px 0;}
@@ -229,6 +235,14 @@
   </div>
 </div>
 
+<div id="formModal" class="modal" style="display:none" role="dialog" aria-modal="true" aria-label="Add your coliving">
+  <div class="modal-backdrop"></div>
+  <div class="modal-panel">
+    <button class="modal-close" id="formClose" aria-label="Close">×</button>
+    <iframe id="formFrame" title="Add your coliving to colivingDB" loading="lazy"></iframe>
+  </div>
+</div>
+
 <footer id="footer"></footer>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
@@ -311,7 +325,7 @@ function affiliateUrl(url){
 
 document.getElementById("search").placeholder = `Search ${C.length} colivings by name, city, or country…`;
 document.getElementById("footer").innerHTML =
-  `<b>colivingDB</b> indexes ${C.length} coliving spaces worldwide — permanent homes, seasonal pop-ups, and moving programs. Prices are approximate, in EUR per month, and change often; pop-up dates shift season to season. Always confirm details on the operator's own site before booking. Some links are affiliate links — colivingDB may earn a commission if you book through them, at no extra cost to you. Map data © OpenStreetMap contributors.`;
+  `<b>colivingDB</b> indexes ${C.length} coliving spaces worldwide — permanent homes, seasonal pop-ups, and moving programs. Prices are approximate, per month, shown in each coliving's own local currency (switch it up top), and change often; pop-up dates shift season to season. Always confirm details on the operator's own site before booking. Some links are affiliate links — colivingDB may earn a commission if you book through them, at no extra cost to you. Map data © OpenStreetMap contributors.`;
 
 // region quick-switch chips (filter bar, list view)
 const regionsEl = document.getElementById("regions");
@@ -374,11 +388,16 @@ document.getElementById("signupForm").addEventListener("submit", (e)=>{
   if(!email) return;
   window.location.href = "https://colivingdb.beehiiv.com/subscribe?email=" + encodeURIComponent(email);
 });
-// "add your coliving" — mailto built in JS (keeps the address out of static HTML for scrapers)
-document.getElementById("submitLink").href =
-  "mailto:caroline.lupini@gmail.com?subject=" + encodeURIComponent("colivingDB — Add our coliving") +
-  "&body=" + encodeURIComponent(
-    "Coliving name:\nWebsite:\nCity / country:\nRoom types (private / shared / dorm):\nPrice per month + the currency you charge in:\nOpen year-round, or specific dates (if a pop-up):\nAnything else worth knowing:\n");
+// "add your coliving" — opens the Google Form in a modal (submissions land in Caroline's form/Sheet)
+const formModal=document.getElementById("formModal");
+const formFrame=document.getElementById("formFrame");
+const FORM_SRC="https://docs.google.com/forms/d/e/1FAIpQLSeSbbFdMMLi7TX9xqmHeNvjs3UfKBwv4xXy4l82hBfJfKiXoA/viewform?embedded=true&hl=en";
+function openForm(e){ if(e) e.preventDefault(); if(!formFrame.src) formFrame.src=FORM_SRC; formModal.style.display="flex"; document.body.style.overflow="hidden"; }
+function closeForm(){ formModal.style.display="none"; document.body.style.overflow=""; }
+document.getElementById("submitLink").onclick=openForm;
+document.getElementById("formClose").onclick=closeForm;
+formModal.querySelector(".modal-backdrop").onclick=closeForm;
+document.addEventListener("keydown",e=>{ if(e.key==="Escape" && formModal.style.display==="flex") closeForm(); });
 
 function resetFilters(){
   Object.assign(state,{region:"All",country:"",room:"",format:"",price:"",q:"",hideUnclear:false,showAll:false}); state.tags.clear();
