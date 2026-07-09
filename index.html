@@ -178,7 +178,6 @@
     <option value="">All types</option>
     <option value="permanent">Permanent</option>
     <option value="pop-up">Pop-ups</option>
-    <option value="program">Moving programs</option>
   </select>
   <span class="sep"></span>
   <div class="frow" id="tags"></div>
@@ -457,7 +456,7 @@ function priceCell(x){
   }
   if(amts.length){
     const cur=byPrice[amts[0]].cur;
-    const main=`<div class="from">${fmtMoney(amts[0],cur)}<small>/mo${amts.length>1?" from":""}</small></div>`;
+    const main=`<div class="from">${amts.length>1?'<small>from </small>':''}${fmtMoney(amts[0],cur)}<small>/mo</small></div>`;
     const brk = amts.length>1
       ? `<div class="brk">${amts.map(a=>`<b>${byPrice[a].tiers.join("/")}</b> ${fmtMoney(a,byPrice[a].cur)}`).join(" · ")}</div>`
       : "";
@@ -467,8 +466,8 @@ function priceCell(x){
   const target = state.currency || nativeCurOf(x);
   const src = (x.priceNativeFrom!=null) ? {amt:x.priceNativeFrom, cur:nativeCurOf(x)}
             : (x.priceEurMonthly!=null) ? {amt:x.priceEurMonthly, cur:"EUR"} : null;
-  if(src){ const v=Math.round(fromEur(toEur(src.amt,src.cur),target)); if(v) return `<div class="from">${fmtMoney(v,target)}<small>/mo from</small></div>`; }
-  return `<div class="onreq">${x.priceNote ? x.priceNote : "on request"}</div>`;
+  if(src){ const v=Math.round(fromEur(toEur(src.amt,src.cur),target)); if(v) return `<div class="from"><small>from </small>${fmtMoney(v,target)}<small>/mo</small></div>`; }
+  return `<div class="onreq">Price on request</div>`;
 }
 function typeCell(x){
   const cls = x.format==="pop-up"?"b-pop":(x.format==="program"?"b-prog":"b-perm");
