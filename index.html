@@ -361,7 +361,7 @@ TYPE_ORDER.filter(t=>tagFreq[t]).forEach(t=>{
 });
 const countryCounts={}; C.forEach(x=>countryCounts[x.country]=(countryCounts[x.country]||0)+1);
 const ccEl=document.getElementById("countryChips");
-Object.keys(countryCounts).filter(c=>c!=="Multiple").sort((a,b)=>countryCounts[b]-countryCounts[a]).slice(0,12).forEach(c=>{
+Object.keys(countryCounts).filter(c=>c!=="Multiple").sort((a,b)=>countryCounts[b]-countryCounts[a]).slice(0,20).forEach(c=>{
   const b=document.createElement("button"); b.className="cc"; b.innerHTML=`${c} <small>${countryCounts[c]}</small>`;
   b.onclick=()=>{state.country=c; state.region="All"; state.showAll=false; countrySel.value=c; render();};
   ccEl.appendChild(b);
