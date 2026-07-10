@@ -5,6 +5,7 @@
 - **Location:** Sant Feliu de Buixalleu, Girona, Spain
 - **Type:** Permanent coliving
 - **Price:** from €750/mo
+- **Price note:** from €750/month shared; private €1,200
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)

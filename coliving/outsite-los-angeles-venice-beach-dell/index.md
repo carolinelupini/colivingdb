@@ -5,6 +5,7 @@
 - **Location:** Los Angeles, United States
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** pricing via date selection
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

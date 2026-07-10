@@ -5,6 +5,7 @@
 - **Location:** Lenk, Switzerland
 - **Type:** Permanent coliving
 - **Price:** from CHF 633/mo (≈€675)
+- **Price note:** from CHF 633/mo (autumn season), private room; +tourism tax
 - **Room types:** private, studio, apartment
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)

@@ -5,6 +5,7 @@
 - **Location:** Corralejo, Fuerteventura, Spain
 - **Type:** Permanent coliving
 - **Price:** from €499/mo
+- **Price note:** surf weeks from EUR499 all-inclusive
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** —

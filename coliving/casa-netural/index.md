@@ -5,6 +5,7 @@
 - **Location:** Matera, Italy
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** prices on request
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 1 night

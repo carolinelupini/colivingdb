@@ -5,6 +5,7 @@
 - **Location:** San Isidro (Tenerife), Spain
 - **Type:** Permanent coliving
 - **Price:** from €600/mo
+- **Price note:** est.; 6-bedroom house, rate not published
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

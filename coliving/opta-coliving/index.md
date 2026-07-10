@@ -5,6 +5,7 @@
 - **Location:** Montevideo, Uruguay
 - **Type:** Permanent coliving
 - **Price:** from $2,400/mo
+- **Price note:** not published; furnished apartments, no contracts
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

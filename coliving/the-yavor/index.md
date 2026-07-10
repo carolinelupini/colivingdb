@@ -5,6 +5,7 @@
 - **Location:** Bansko, Bulgaria
 - **Type:** Permanent coliving
 - **Price:** from €300/mo
+- **Price note:** from BGN 587/mo studio; coworking +EUR 110/mo
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)

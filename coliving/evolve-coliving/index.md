@@ -5,6 +5,7 @@
 - **Location:** San Gwann, Malta
 - **Type:** Permanent coliving
 - **Price:** from €845/mo
+- **Price note:** private rooms from ~€845/mo
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)

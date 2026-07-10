@@ -5,6 +5,7 @@
 - **Location:** Las Palmas de Gran Canaria, Spain
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** not published; contact-form booking
 - **Room types:** —
 - **Dorm available:** No
 - **Minimum stay:** —

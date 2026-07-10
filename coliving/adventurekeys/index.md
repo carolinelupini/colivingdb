@@ -5,6 +5,7 @@
 - **Location:** Taghazout, Morocco
 - **Type:** Permanent coliving
 - **Price:** from €420/mo
+- **Price note:** €420/month (from €15/night)
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** 2 nights

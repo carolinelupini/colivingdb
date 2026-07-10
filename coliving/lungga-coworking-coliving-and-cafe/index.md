@@ -5,6 +5,7 @@
 - **Location:** General Luna (Siargao), Philippines
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** room rates via Cloudbeds only; coworking PHP 2,000/week
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** —

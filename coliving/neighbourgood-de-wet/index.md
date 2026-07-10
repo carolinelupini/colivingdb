@@ -5,6 +5,7 @@
 - **Location:** Franschhoek, South Africa
 - **Type:** Permanent coliving
 - **Price:** from R10,000/mo
+- **Price note:** est.; town-level rate not published
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

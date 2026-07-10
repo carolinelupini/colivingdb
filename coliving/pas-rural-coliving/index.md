@@ -5,6 +5,7 @@
 - **Location:** Villegar, Spain
 - **Type:** Permanent coliving
 - **Price:** from €810/mo
+- **Price note:** from €28/night, €810/month
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 15 nights

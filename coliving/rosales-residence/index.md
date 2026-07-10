@@ -5,6 +5,7 @@
 - **Location:** Medellin, Colombia
 - **Type:** Permanent coliving
 - **Price:** from $943/mo (≈€866)
+- **Price note:** from BGN 1,702/mo studio ≈ €870
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)

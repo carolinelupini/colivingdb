@@ -5,6 +5,7 @@
 - **Location:** Medellín (Laureles), Colombia
 - **Type:** Permanent coliving
 - **Price:** from €650/mo
+- **Price note:** described as affordable; price on request
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

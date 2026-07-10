@@ -6,6 +6,7 @@
 - **Type:** Pop-up / dated edition
 - **Dates:** winter season (guest house converted to coliving in winter; exact 2026 dates not published)
 - **Price:** from €650/mo
+- **Price note:** from ~€650/mo private double
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)

@@ -5,6 +5,7 @@
 - **Location:** San Diego, United States
 - **Type:** Permanent coliving
 - **Price:** from $4,634/mo
+- **Price note:** pricing shown only after entering dates
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

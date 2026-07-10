@@ -5,6 +5,7 @@
 - **Location:** Fuseta, Portugal
 - **Type:** Permanent coliving
 - **Price:** from €1,200/mo
+- **Price note:** from €45/night private, €1,230/month
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 28 nights (~4 weeks)

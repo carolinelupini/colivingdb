@@ -5,6 +5,7 @@
 - **Location:** Tokyo, Japan
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** not published; contact info@ninetytwo13.com
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

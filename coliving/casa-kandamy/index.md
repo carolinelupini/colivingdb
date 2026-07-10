@@ -5,6 +5,7 @@
 - **Location:** Tobia, Colombia
 - **Type:** Permanent coliving
 - **Price:** from $1,710/mo (≈€52)
+- **Price note:** est. from $57 USD/night private incl. meals + classes
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

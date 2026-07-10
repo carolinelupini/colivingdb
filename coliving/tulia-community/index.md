@@ -5,6 +5,7 @@
 - **Location:** Los Realejos, Tenerife, Spain
 - **Type:** Permanent coliving
 - **Price:** from €1,140/mo
+- **Price note:** from €48/night private (~€1,140/mo with discount)
 - **Room types:** private, apartment
 - **Dorm available:** No
 - **Minimum stay:** 6 nights

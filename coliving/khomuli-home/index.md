@@ -5,6 +5,7 @@
 - **Location:** Khomuli, Georgia
 - **Type:** Permanent coliving
 - **Price:** from $219/mo (≈€192)
+- **Price note:** from BGN 376/mo (~€192) shared room
 - **Room types:** private, shared
 - **Dorm available:** Yes
 - **Minimum stay:** 30 nights (~1 month)

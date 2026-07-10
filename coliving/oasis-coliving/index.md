@@ -5,6 +5,7 @@
 - **Location:** Playa de las Americas, Tenerife, Spain
 - **Type:** Permanent coliving
 - **Price:** from €849/mo
+- **Price note:** from EUR849/month winter season, EUR300 deposit
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

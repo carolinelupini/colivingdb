@@ -5,6 +5,7 @@
 - **Location:** Las Palmas de Gran Canaria, Spain
 - **Type:** Permanent coliving
 - **Price:** from €980/mo
+- **Price note:** from EUR980/month
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** —

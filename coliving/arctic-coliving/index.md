@@ -5,6 +5,7 @@
 - **Location:** Voss (Mjolfjell) / Henningsvaer, Lofoten, Norway
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** community stays by week or season; price on request
 - **Room types:** shared, private
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)

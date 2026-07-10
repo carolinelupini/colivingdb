@@ -5,6 +5,7 @@
 - **Location:** Ginetes, São Miguel, Azores, Portugal
 - **Type:** Permanent coliving
 - **Price:** from €660/mo
+- **Price note:** €660/month (€28/night)
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)

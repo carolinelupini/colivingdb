@@ -5,6 +5,7 @@
 - **Location:** Mexico City, Mexico
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** est. from ~$52/night; members-only, up to 40% off
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

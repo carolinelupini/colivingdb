@@ -5,6 +5,7 @@
 - **Location:** Rotorua, New Zealand
 - **Type:** Permanent coliving
 - **Price:** from €815/mo
+- **Price note:** from BGN 1,528/mo private (~€781)
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)

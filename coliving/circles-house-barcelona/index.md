@@ -5,6 +5,7 @@
 - **Location:** Barcelona, Spain
 - **Type:** Permanent coliving
 - **Price:** from €900/mo
+- **Price note:** €900/month with Mapmelon discount (list €1,800); €57/night
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 1 night

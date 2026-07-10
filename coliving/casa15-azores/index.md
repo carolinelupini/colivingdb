@@ -5,6 +5,7 @@
 - **Location:** Sao Miguel, Azores, Portugal
 - **Type:** Permanent coliving
 - **Price:** from €950/mo
+- **Price note:** from EUR950/mo (Flatio); utilities, WiFi, weekly cleaning included
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

@@ -5,6 +5,7 @@
 - **Location:** Marrakesh, Morocco
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** est. from ~$47/night
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

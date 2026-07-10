@@ -5,6 +5,7 @@
 - **Location:** Valencia, Spain
 - **Type:** Permanent coliving
 - **Price:** from €985/mo
+- **Price note:** from ~€985/mo (standard all-inclusive €1,150/mo with coworking desk)
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 31 nights

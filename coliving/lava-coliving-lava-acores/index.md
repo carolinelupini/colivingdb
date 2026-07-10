@@ -5,6 +5,7 @@
 - **Location:** Ribeira Grande, Sao Miguel, Azores, Portugal
 - **Type:** Permanent coliving
 - **Price:** from €750/mo
+- **Price note:** from €25/night shared, €35/night private; ~€750/mo private w/ long-stay discount
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** —

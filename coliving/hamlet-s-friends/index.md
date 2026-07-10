@@ -5,6 +5,7 @@
 - **Location:** Nuño Gómez, Toledo, Spain
 - **Type:** Permanent coliving
 - **Price:** from €540/mo
+- **Price note:** from €21/night (€540/mo with Mapmelon discount)
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 28 nights (~4 weeks)

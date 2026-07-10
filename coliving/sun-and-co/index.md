@@ -5,6 +5,7 @@
 - **Location:** Jávea, Spain
 - **Type:** Permanent coliving
 - **Price:** from €690/mo
+- **Price note:** from €23/night shared, €40/night private
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** —

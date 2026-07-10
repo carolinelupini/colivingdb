@@ -5,6 +5,7 @@
 - **Location:** Arrecife, Spain
 - **Type:** Permanent coliving
 - **Price:** from €1,050/mo
+- **Price note:** from €41/night, €1,050/month
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 10 nights

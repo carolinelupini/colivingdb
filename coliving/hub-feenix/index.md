@@ -5,6 +5,7 @@
 - **Location:** Mjolbolsta (Meltola), Raseborg, Finland
 - **Type:** Permanent coliving
 - **Price:** from €690/mo
+- **Price note:** EUR 690/month (discounted from 840), EUR 28/night
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 14 nights (~2 weeks)

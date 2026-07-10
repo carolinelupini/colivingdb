@@ -5,6 +5,7 @@
 - **Location:** Hyderabad, India
 - **Type:** Permanent coliving
 - **Price:** from €360/mo
+- **Price note:** from ~$13/night dorm (Booking/Hostelworld); ~€360/mo est.
 - **Room types:** private, shared, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** —

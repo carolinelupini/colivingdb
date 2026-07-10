@@ -5,6 +5,7 @@
 - **Location:** Picauville (Normandy), France
 - **Type:** Permanent coliving
 - **Price:** from €1,320/mo
+- **Price note:** est.; family-program early bird from €1,320/month, standard suites €3,910+/family
 - **Room types:** private, family apartment
 - **Dorm available:** No
 - **Minimum stay:** 15 nights

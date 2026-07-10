@@ -24,7 +24,7 @@
 | Green Room JBay Coliving | Jeffreys Bay | On request | private | 14 nights (~2 weeks) | Permanent |
 | Neighbourgood | Cape Town | from R10,000/mo | private | — | Permanent |
 | Neighbourgood De Wet | Franschhoek | from R10,000/mo | private | — | Permanent |
-| Nomad Summer Camp — Camp Big Daddy | Cape Town | On request | private, shared | 3 nights | Pop-up |
+| Nomad Summer Camp — Camp Big Daddy | Cape Town | from $499 per event | private, shared | 3 nights | Pop-up |
 
 ## Price distribution
 

@@ -5,6 +5,7 @@
 - **Location:** Bad Belzig, Germany
 - **Type:** Permanent coliving
 - **Price:** from €810/mo
+- **Price note:** from ~€27/night, est.; options from camping to premium rooms
 - **Room types:** private, shared
 - **Dorm available:** Yes
 - **Minimum stay:** —

@@ -5,6 +5,7 @@
 - **Location:** Vina del Mar, Chile
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** not published on site
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** —

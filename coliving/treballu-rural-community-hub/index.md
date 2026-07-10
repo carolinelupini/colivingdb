@@ -5,6 +5,7 @@
 - **Location:** Laconi (Sardinia), Italy
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** not published; also runs fixed-date community camps (8 people)
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** —

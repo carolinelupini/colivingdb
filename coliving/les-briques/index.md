@@ -5,6 +5,7 @@
 - **Location:** Lion-sur-Mer, France
 - **Type:** Permanent coliving
 - **Price:** from €893/mo
+- **Price note:** €900/mo (discounted from €1,050); from €35/night
 - **Room types:** private
 - **Dorm available:** Yes
 - **Minimum stay:** 6 nights

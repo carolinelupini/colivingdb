@@ -5,6 +5,7 @@
 - **Location:** Lostwithiel, Cornwall, United Kingdom
 - **Type:** Permanent coliving
 - **Price:** from £1,100/mo (≈€1,288)
+- **Price note:** from £1,100/month single room, bills included
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 14 nights (~2 weeks)

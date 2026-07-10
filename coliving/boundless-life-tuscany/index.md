@@ -5,6 +5,7 @@
 - **Location:** Pistoia, Italy
 - **Type:** Permanent coliving
 - **Price:** from €1,100/mo
+- **Price note:** est. from ~EUR1,100/mo per package
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

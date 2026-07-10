@@ -5,6 +5,7 @@
 - **Location:** Costa Adeje, Tenerife, Spain
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** not published; inquiry via Xmile
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** —

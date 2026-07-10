@@ -5,6 +5,7 @@
 - **Location:** Bansko, Bulgaria
 - **Type:** Permanent coliving
 - **Price:** from €638/mo
+- **Price note:** EUR 42/night, EUR 840/month
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)

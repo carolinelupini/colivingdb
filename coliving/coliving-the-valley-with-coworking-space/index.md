@@ -5,6 +5,7 @@
 - **Location:** Rogé, Vale de Cambra, Portugal
 - **Type:** Permanent coliving
 - **Price:** from €510/mo
+- **Price note:** €510/mo private (discounted from €1,680); from €48/night
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 5 nights

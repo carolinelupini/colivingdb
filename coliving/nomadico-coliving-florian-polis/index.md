@@ -5,6 +5,7 @@
 - **Location:** Florianópolis, Brazil
 - **Type:** Permanent coliving
 - **Price:** from $380/mo (≈€380)
+- **Price note:** €690/mo discounted (reg. €990); ~€33/night
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)

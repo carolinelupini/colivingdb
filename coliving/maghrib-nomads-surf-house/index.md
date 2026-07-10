@@ -5,6 +5,7 @@
 - **Location:** Tamraght, Morocco
 - **Type:** Permanent coliving
 - **Price:** from €300/mo
+- **Price note:** est. from ~EUR 10/night dorm on Booking.com
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** —

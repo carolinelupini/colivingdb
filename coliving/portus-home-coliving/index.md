@@ -5,6 +5,7 @@
 - **Location:** Vászoly, Hungary
 - **Type:** Permanent coliving
 - **Price:** from HUF 750,000/mo (≈€900)
+- **Price note:** from €24/day, est. monthly
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 5 nights

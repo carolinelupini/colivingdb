@@ -5,6 +5,7 @@
 - **Location:** Florianópolis (Barra da Lagoa), Brazil
 - **Type:** Permanent coliving
 - **Price:** from €238/mo
+- **Price note:** from BGN 465/mo (~€238) bed in 6-bed female dorm
 - **Room types:** private, shared
 - **Dorm available:** Yes
 - **Minimum stay:** 30 nights (~1 month)

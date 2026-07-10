@@ -5,6 +5,7 @@
 - **Location:** Ponte Caldelas, Galicia, Spain
 - **Type:** Permanent coliving
 - **Price:** from €882/mo
+- **Price note:** private ensuite from €882/month
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 15 nights

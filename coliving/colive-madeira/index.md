@@ -5,6 +5,7 @@
 - **Location:** Ponta do Sol, Madeira, Portugal
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** from ~$108/night (Mill House); all-in, books via Booking.com
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** —

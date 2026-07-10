@@ -5,6 +5,7 @@
 - **Location:** Bocas del Toro, Panama
 - **Type:** Permanent coliving
 - **Price:** from $1,650/mo
+- **Price note:** cabins priced nightly via Airbnb; monthly rate unpublished
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

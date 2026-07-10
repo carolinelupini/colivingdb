@@ -5,6 +5,7 @@
 - **Location:** San Sebastián de La Gomera, Spain
 - **Type:** Permanent coliving
 - **Price:** from €686/mo
+- **Price note:** from ~€33/night (~€690/month with discount) per Mapmelon
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 13 nights

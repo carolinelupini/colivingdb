@@ -5,6 +5,7 @@
 - **Location:** Hoi An, Vietnam
 - **Type:** Permanent coliving
 - **Price:** from $449/mo (≈€413)
+- **Price note:** from ~$350/month dorm bed incl. coworking
 - **Room types:** dorm, private
 - **Dorm available:** Yes
 - **Minimum stay:** —

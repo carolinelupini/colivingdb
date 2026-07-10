@@ -5,6 +5,7 @@
 - **Location:** Santa Marta, Colombia
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** not published; hostel + cowork + coliving
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** —

@@ -5,6 +5,7 @@
 - **Location:** Cape Town, South Africa
 - **Type:** Permanent coliving
 - **Price:** from €345/mo
+- **Price note:** est.; CBD suites from ~€25/night, up to 40% monthly discount
 - **Room types:** private, shared
 - **Dorm available:** Yes
 - **Minimum stay:** —

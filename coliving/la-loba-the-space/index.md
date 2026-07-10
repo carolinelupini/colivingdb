@@ -5,6 +5,7 @@
 - **Location:** Entrerríos, Spain
 - **Type:** Permanent coliving
 - **Price:** from €630/mo
+- **Price note:** €630/month (discounted from €750); from €24/night
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)

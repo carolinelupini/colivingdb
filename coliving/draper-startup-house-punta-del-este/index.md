@@ -5,6 +5,7 @@
 - **Location:** Punta del Este, Uruguay
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** not published on site
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** —

@@ -5,6 +5,7 @@
 - **Location:** Puerto de la Cruz, Tenerife, Spain
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** rates on request/booking page
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

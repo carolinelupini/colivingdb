@@ -5,6 +5,7 @@
 - **Location:** Riposto, Sicily, Italy
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** pricing not published; books out 1-2 months ahead
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

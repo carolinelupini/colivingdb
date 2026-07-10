@@ -5,6 +5,7 @@
 - **Location:** Funchal, Madeira, Portugal
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** rooms booked via Airbnb; monthly rate not published
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

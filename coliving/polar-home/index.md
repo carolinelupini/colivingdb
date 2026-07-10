@@ -5,6 +5,7 @@
 - **Location:** Tulum, Mexico
 - **Type:** Permanent coliving
 - **Price:** from €199/mo
+- **Price note:** from BGN 392/mo (8-bed dorm)
 - **Room types:** dorm
 - **Dorm available:** Yes
 - **Minimum stay:** 30 nights (~1 month)

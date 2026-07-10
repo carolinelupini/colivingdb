@@ -5,6 +5,7 @@
 - **Location:** Biot, France
 - **Type:** Permanent coliving
 - **Price:** from €1,200/mo
+- **Price note:** from €40/night, est. monthly
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)

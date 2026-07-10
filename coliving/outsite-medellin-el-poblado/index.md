@@ -5,6 +5,7 @@
 - **Location:** Medellin, Colombia
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** est. from ~$68/night; fixed monthly rates available
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

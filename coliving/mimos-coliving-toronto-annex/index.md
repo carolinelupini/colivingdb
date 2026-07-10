@@ -5,6 +5,7 @@
 - **Location:** Toronto, Canada
 - **Type:** Permanent coliving
 - **Price:** from C$1,440/mo (≈€1,440)
+- **Price note:** €1,440/mo (discounted from €1,710); €48/night
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 28 nights (~4 weeks)

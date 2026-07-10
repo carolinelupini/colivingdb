@@ -5,6 +5,7 @@
 - **Location:** Montreal, Canada
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** CAD pricing on site; not captured
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

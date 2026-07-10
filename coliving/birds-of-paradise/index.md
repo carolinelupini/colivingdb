@@ -5,6 +5,7 @@
 - **Location:** Aljezur, Portugal
 - **Type:** Permanent coliving
 - **Price:** from €1,260/mo
+- **Price note:** 1260 EUR/month private room (seasonal Jan-Apr)
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 14 nights (~2 weeks)

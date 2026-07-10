@@ -5,6 +5,7 @@
 - **Location:** La Zarzuela (Tarifa), Cádiz, Spain
 - **Type:** Permanent coliving
 - **Price:** from €930/mo
+- **Price note:** from €31/night, one-month min stay
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)

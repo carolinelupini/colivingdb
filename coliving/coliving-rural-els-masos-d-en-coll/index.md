@@ -5,6 +5,7 @@
 - **Location:** Llabià, Fontanilles (Girona), Spain
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** price on request; est. rural Catalonia rates
 - **Room types:** private, shared, apartment
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)

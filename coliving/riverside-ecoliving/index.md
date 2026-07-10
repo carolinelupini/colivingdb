@@ -5,6 +5,7 @@
 - **Location:** Jericó, Colombia
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** packages exist but prices not shown
 - **Room types:** —
 - **Dorm available:** No
 - **Minimum stay:** 1 night

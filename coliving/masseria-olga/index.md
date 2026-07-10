@@ -5,6 +5,7 @@
 - **Location:** Valle d'Itria (Puglia), Italy
 - **Type:** Permanent coliving
 - **Price:** from €650/mo
+- **Price note:** from €150/week single room (~€650/mo est.)
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

@@ -5,6 +5,7 @@
 - **Location:** Oaxaca, Mexico
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** monthly rate via dates
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

@@ -5,6 +5,7 @@
 - **Location:** Civitanova Marche, Italy
 - **Type:** Permanent coliving
 - **Price:** from €540/mo
+- **Price note:** from €18/night, est. ~€540/month
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)

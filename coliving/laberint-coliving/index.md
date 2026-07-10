@@ -5,6 +5,7 @@
 - **Location:** Palma de Mallorca, Spain
 - **Type:** Permanent coliving
 - **Price:** from €1,200/mo
+- **Price note:** €1,200/mo (discounted from €1,320); from €44/night
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 32 nights

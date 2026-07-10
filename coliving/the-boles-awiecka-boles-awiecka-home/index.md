@@ -5,6 +5,7 @@
 - **Location:** Wrocław, Poland
 - **Type:** Permanent coliving
 - **Price:** from €644/mo
+- **Price note:** from BGN 1,260/mo private (~€644)
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)

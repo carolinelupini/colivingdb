@@ -5,6 +5,7 @@
 - **Location:** Quito, Ecuador
 - **Type:** Permanent coliving
 - **Price:** from €342/mo
+- **Price note:** shared from BGN 671/mo; privates from ~BGN 843/mo
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)

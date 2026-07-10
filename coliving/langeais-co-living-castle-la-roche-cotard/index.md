@@ -5,6 +5,7 @@
 - **Location:** Langeais, France
 - **Type:** Permanent coliving
 - **Price:** from €655/mo
+- **Price note:** price on request
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

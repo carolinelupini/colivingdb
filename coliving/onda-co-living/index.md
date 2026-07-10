@@ -5,6 +5,7 @@
 - **Location:** Ferrel (Baleal), Peniche, Portugal
 - **Type:** Permanent coliving
 - **Price:** from €1,470/mo
+- **Price note:** €1,470/month (from €68/night)
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 14 nights (~2 weeks)

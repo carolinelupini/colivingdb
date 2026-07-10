@@ -5,6 +5,7 @@
 - **Location:** Plakias, Greece
 - **Type:** Permanent coliving
 - **Price:** from €1,349/mo
+- **Price note:** from BGN 2,641/mo private room, breakfast included
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 180 nights (~6 months)

@@ -5,6 +5,7 @@
 - **Location:** Jauá (Camaçari), near Salvador, Brazil
 - **Type:** Permanent coliving
 - **Price:** from €270/mo
+- **Price note:** €270/mo (promo from €300); from €10/night
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 1 night

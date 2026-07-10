@@ -5,6 +5,7 @@
 - **Location:** Bad Belzig (Klein Glien), Germany
 - **Type:** Permanent coliving
 - **Price:** from €1,200/mo
+- **Price note:** not listed on homepage
 - **Room types:** private, shared
 - **Dorm available:** Yes
 - **Minimum stay:** —

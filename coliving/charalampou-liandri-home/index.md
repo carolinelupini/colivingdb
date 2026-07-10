@@ -5,6 +5,7 @@
 - **Location:** Atsipopoulo, Greece
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** listing shows BGN 11,305/mo (~EUR 5,780), likely a pricing error
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)

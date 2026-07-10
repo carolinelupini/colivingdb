@@ -5,6 +5,7 @@
 - **Location:** Hossegor, France
 - **Type:** Permanent coliving
 - **Price:** from €1,050/mo
+- **Price note:** from ~$290/week; est. ~€1050/mo
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** —

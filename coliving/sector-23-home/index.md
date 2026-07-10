@@ -5,6 +5,7 @@
 - **Location:** Navi Mumbai, India
 - **Type:** Permanent coliving
 - **Price:** from €242/mo
+- **Price note:** from BGN 242/mo (bunk bed)
 - **Room types:** dorm
 - **Dorm available:** Yes
 - **Minimum stay:** 30 nights (~1 month)

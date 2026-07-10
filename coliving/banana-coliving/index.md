@@ -5,6 +5,7 @@
 - **Location:** Taipei, Taiwan
 - **Type:** Permanent coliving
 - **Price:** from TWD 4,400/mo (≈€350)
+- **Price note:** est. ~NT$12,000/month; flexible rental from 1 month
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)

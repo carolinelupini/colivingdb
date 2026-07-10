@@ -5,6 +5,7 @@
 - **Location:** Tarifa, Spain
 - **Type:** Permanent coliving
 - **Price:** from €737/mo
+- **Price note:** from €737/month, seasonal Oct–Mar
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** —

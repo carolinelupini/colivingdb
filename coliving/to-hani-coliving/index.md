@@ -5,6 +5,7 @@
 - **Location:** Paramytha (Limassol), Cyprus
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** price on inquiry
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

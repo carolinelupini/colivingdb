@@ -5,6 +5,7 @@
 - **Location:** Sant Boi de Llucanes (Catalonia), Spain
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** rates on inquiry only
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

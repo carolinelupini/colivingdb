@@ -5,6 +5,7 @@
 - **Location:** Briançon, France
 - **Type:** Permanent coliving
 - **Price:** from €966/mo
+- **Price note:** Japanese dorm €966/28 days (spring); dorm from €39/night autumn
 - **Room types:** private, dorm, studio
 - **Dorm available:** Yes
 - **Minimum stay:** 14 nights (~2 weeks)

@@ -5,6 +5,7 @@
 - **Location:** Malta, Malta
 - **Type:** Permanent coliving
 - **Price:** from €845/mo
+- **Price note:** pricing via calculator only, not published
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)

@@ -5,6 +5,7 @@
 - **Location:** Debet, Armenia
 - **Type:** Permanent coliving
 - **Price:** from AMD 22,000/mo (≈€450)
+- **Price note:** from €15/night, est. monthly
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 2 nights

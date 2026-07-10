@@ -5,6 +5,7 @@
 - **Location:** Djerba (Mezraia), Tunisia
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** monthly rates on request; dorms and private apartments
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** —

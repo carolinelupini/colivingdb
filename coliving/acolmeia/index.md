@@ -5,6 +5,7 @@
 - **Location:** Candolim (Saipem), Goa, India
 - **Type:** Permanent coliving
 - **Price:** from €540/mo
+- **Price note:** €540/month (from €31.6/night)
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 8 nights

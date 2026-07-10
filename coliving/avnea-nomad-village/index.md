@@ -5,6 +5,7 @@
 - **Location:** Zaros, Crete, Greece
 - **Type:** Permanent coliving
 - **Price:** from €449/mo
+- **Price note:** not published; ~30-day cohort program
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)

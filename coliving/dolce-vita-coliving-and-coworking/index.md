@@ -5,6 +5,7 @@
 - **Location:** Vallo di Nera (Umbria), Italy
 - **Type:** Permanent coliving
 - **Price:** from €599/mo
+- **Price note:** €750/month Mapmelon discounted rate (from €39/night; regular ~€1,380/mo)
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)

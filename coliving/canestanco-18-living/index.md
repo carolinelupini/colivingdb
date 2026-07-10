@@ -5,6 +5,7 @@
 - **Location:** Santa Croce Camerina, Sicily, Italy
 - **Type:** Permanent coliving
 - **Price:** from €1,200/mo
+- **Price note:** from €40/night private room shared bath; est. monthly
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

@@ -5,6 +5,7 @@
 - **Location:** Tirana, Albania
 - **Type:** Permanent coliving
 - **Price:** from €700/mo
+- **Price note:** from €350/fortnight private single (shared bath), all-inclusive
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** —

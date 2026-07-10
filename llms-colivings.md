@@ -380,7 +380,7 @@
 | [Neighbourgood Newlands](/coliving/neighbourgood-newlands/index.md) | Cape Town | South Africa | from R13,000/mo (≈€749) | — | Permanent |
 | [Neighbourgood Ravenscraig](/coliving/neighbourgood-ravenscraig/index.md) | Cape Town | South Africa | from R13,000/mo (≈€749) | — | Permanent |
 | [Neighbourgood Romney](/coliving/neighbourgood-romney/index.md) | Cape Town | South Africa | from R13,000/mo (≈€749) | — | Permanent |
-| [Nomad Summer Camp — Camp Big Daddy](/coliving/nomad-summer-camp-camp-big-daddy/index.md) | Cape Town | South Africa | On request | 3 nights | Pop-up |
+| [Nomad Summer Camp — Camp Big Daddy](/coliving/nomad-summer-camp-camp-big-daddy/index.md) | Cape Town | South Africa | from $499 per event | 3 nights | Pop-up |
 | [Nomadico Cape Town](/coliving/nomadico-cape-town/index.md) | Cape Town | South Africa | from €609/mo | — | Permanent |
 | [The Hill](/coliving/the-hill/index.md) | Cape Town | South Africa | from €1,210/mo | 30 nights (~1 month) | Permanent |
 | [The Romney](/coliving/the-romney/index.md) | Cape Town | South Africa | from €2,033/mo | 30 nights (~1 month) | Permanent |

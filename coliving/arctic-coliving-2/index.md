@@ -6,6 +6,7 @@
 - **Type:** Pop-up / dated edition
 - **Dates:** October - December 2026 (polar night season)
 - **Price:** On request
+- **Price note:** pricing via spitzbergen-reisen.no booking, not published
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 14 nights (~2 weeks)

@@ -5,6 +5,7 @@
 - **Location:** Lurbe-Saint-Christau, France
 - **Type:** Permanent coliving
 - **Price:** from €420/mo
+- **Price note:** €420/mo (discounted from €600); €18/night, meals included
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 6 nights

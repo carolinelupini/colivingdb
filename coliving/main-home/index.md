@@ -5,6 +5,7 @@
 - **Location:** Oracabessa, Jamaica
 - **Type:** Permanent coliving
 - **Price:** from €1,093/mo
+- **Price note:** from BGN 2,145/mo private room
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)

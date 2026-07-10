@@ -5,6 +5,7 @@
 - **Location:** Las Palmas, Spain
 - **Type:** Permanent coliving
 - **Price:** from €1,533/mo
+- **Price note:** from BGN 1,536/mo private ≈ €785
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)

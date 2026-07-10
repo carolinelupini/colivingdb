@@ -5,6 +5,7 @@
 - **Location:** Grodzisk Mazowiecki, Poland
 - **Type:** Permanent coliving
 - **Price:** from €900/mo
+- **Price note:** €900/month (from €1,050); €35/night
 - **Room types:** —
 - **Dorm available:** No
 - **Minimum stay:** 5 nights

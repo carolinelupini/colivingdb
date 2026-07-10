@@ -5,6 +5,7 @@
 - **Location:** Kuala Lumpur, Malaysia
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** nightly rates via Booking.com/Agoda; monthly not published
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

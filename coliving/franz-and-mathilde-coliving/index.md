@@ -5,6 +5,7 @@
 - **Location:** Tisens, South Tyrol, Italy
 - **Type:** Permanent coliving
 - **Price:** from €1,500/mo
+- **Price note:** from €50/night, est. monthly
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 14 nights (~2 weeks)

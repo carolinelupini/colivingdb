@@ -5,6 +5,7 @@
 - **Location:** St Julian's, Malta
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** not listed on site
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** —

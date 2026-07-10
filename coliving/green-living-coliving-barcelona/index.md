@@ -5,6 +5,7 @@
 - **Location:** Castelldefels, Spain
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** single room cheapest, price on request
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** —

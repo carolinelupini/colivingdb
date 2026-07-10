@@ -5,6 +5,7 @@
 - **Location:** Finhaut, Switzerland
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** pricing not published on site; book-your-stay flow only
 - **Room types:** private, shared, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** —

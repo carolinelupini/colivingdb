@@ -22,7 +22,7 @@
 | The Romney | Cape Town | from €2,033/mo | private | 30 nights (~1 month) | Permanent |
 | Waterkant Residence | Cape Town | from €3,506/mo | private | 30 nights (~1 month) | Permanent |
 | Neighbourgood | Cape Town | from R10,000/mo | private | — | Permanent |
-| Nomad Summer Camp — Camp Big Daddy | Cape Town | On request | private, shared | 3 nights | Pop-up |
+| Nomad Summer Camp — Camp Big Daddy | Cape Town | from $499 per event | private, shared | 3 nights | Pop-up |
 
 ## Price distribution
 

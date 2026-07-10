@@ -5,6 +5,7 @@
 - **Location:** Las Palmas de Gran Canaria (La Isleta), Spain
 - **Type:** Permanent coliving
 - **Price:** from €525/mo
+- **Price note:** est. from €22/night (rooms €22–39/day)
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

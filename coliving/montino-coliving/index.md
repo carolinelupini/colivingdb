@@ -5,6 +5,7 @@
 - **Location:** Oggebbio, Lake Maggiore, Italy
 - **Type:** Permanent coliving
 - **Price:** from €750/mo
+- **Price note:** shared room from €750/month; private from €1000
 - **Room types:** private, shared
 - **Dorm available:** Yes
 - **Minimum stay:** 7 nights (~1 week)

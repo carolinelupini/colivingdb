@@ -5,6 +5,7 @@
 - **Location:** San Priamo, San Vito, Sardinia, Italy
 - **Type:** Permanent coliving
 - **Price:** from €1,020/mo
+- **Price note:** €1,020/month Mapmelon rate (from €38/night)
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 3 nights

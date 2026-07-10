@@ -5,6 +5,7 @@
 - **Location:** San Miguel de Abona, Tenerife, Spain
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** rates not published; villas and apartments, book via availability form
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** —

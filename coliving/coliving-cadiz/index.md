@@ -5,6 +5,7 @@
 - **Location:** Cádiz, Spain
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** not published; est. mid hundreds EUR/month
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

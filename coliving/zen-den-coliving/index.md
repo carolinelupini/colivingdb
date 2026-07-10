@@ -5,6 +5,7 @@
 - **Location:** Arona (Tenerife), Spain
 - **Type:** Permanent coliving
 - **Price:** from €205/mo
+- **Price note:** OTA deals from ~€73/night; monthly coliving rates on request
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

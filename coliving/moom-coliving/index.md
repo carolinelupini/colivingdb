@@ -5,6 +5,7 @@
 - **Location:** Rendsburg, Germany
 - **Type:** Permanent coliving
 - **Price:** from €819/mo
+- **Price note:** EUR 819/month (1 week EUR 379); food plan EUR 13-15/day extra
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)

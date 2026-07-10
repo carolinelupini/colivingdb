@@ -5,6 +5,7 @@
 - **Location:** Praia das Maçãs (Sintra), Portugal
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** nightly hotel rates; Cooliving monthly on request
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

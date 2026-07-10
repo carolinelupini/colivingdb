@@ -5,6 +5,7 @@
 - **Location:** Bordeaux, France
 - **Type:** Permanent coliving
 - **Price:** from €1,000/mo
+- **Price note:** from EUR1,000/month winter deal
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

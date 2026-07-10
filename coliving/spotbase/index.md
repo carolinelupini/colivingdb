@@ -5,6 +5,7 @@
 - **Location:** Iława, Masuria, Poland
 - **Type:** Permanent coliving
 - **Price:** from €2,580/mo
+- **Price note:** €2,580/month (discounted from €2,700); from €90/night
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 1 night

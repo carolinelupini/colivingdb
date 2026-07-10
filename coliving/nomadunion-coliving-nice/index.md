@@ -5,6 +5,7 @@
 - **Location:** Nice, France
 - **Type:** Permanent coliving
 - **Price:** from €900/mo
+- **Price note:** shared room from €900/month long-stay (€1140 standard); privates from €1350
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)

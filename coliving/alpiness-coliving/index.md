@@ -5,6 +5,7 @@
 - **Location:** Evolène, Switzerland
 - **Type:** Permanent coliving
 - **Price:** from CHF 1,200/mo (≈€990)
+- **Price note:** from €990/month (€44/night)
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 15 nights

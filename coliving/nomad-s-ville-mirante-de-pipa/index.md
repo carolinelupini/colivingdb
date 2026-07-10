@@ -5,6 +5,7 @@
 - **Location:** Praia da Pipa, Brazil
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** pricing not published; daily or monthly rentals
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

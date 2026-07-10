@@ -5,6 +5,7 @@
 - **Location:** Multiple (Bali, Sri Lanka)
 - **Type:** Permanent coliving
 - **Price:** from $849/mo (≈€780)
+- **Price note:** Colive+ from ~$849/month
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

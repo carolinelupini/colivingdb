@@ -5,6 +5,7 @@
 - **Location:** Los Realejos, Spain
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** nightly from ~€41pp; 20% off monthly stays
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** —

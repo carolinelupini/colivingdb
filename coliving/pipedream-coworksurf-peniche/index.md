@@ -5,6 +5,7 @@
 - **Location:** Ferrel, Peniche, Portugal
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** pricing only via booking/contact
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** —

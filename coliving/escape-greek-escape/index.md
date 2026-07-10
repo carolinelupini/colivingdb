@@ -5,6 +5,7 @@
 - **Location:** Gerani, Crete (near Rethymno), Greece
 - **Type:** Permanent coliving
 - **Price:** from €840/mo
+- **Price note:** from ~€210/week (older listing; est., site pricing recently adjusted)
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)

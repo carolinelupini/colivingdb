@@ -5,6 +5,7 @@
 - **Location:** Soure, Portugal
 - **Type:** Permanent coliving
 - **Price:** from €510/mo
+- **Price note:** €510/month (from €600); €20/night
 - **Room types:** —
 - **Dorm available:** No
 - **Minimum stay:** 1 night

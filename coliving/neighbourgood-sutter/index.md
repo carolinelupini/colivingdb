@@ -5,6 +5,7 @@
 - **Location:** San Francisco, United States
 - **Type:** Permanent coliving
 - **Price:** from $7,860/mo
+- **Price note:** est.; former Mansion on Sutter, nightly from ~$262
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

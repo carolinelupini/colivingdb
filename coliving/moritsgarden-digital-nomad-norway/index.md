@@ -5,6 +5,7 @@
 - **Location:** Folkestad, Norway
 - **Type:** Permanent coliving
 - **Price:** from €700/mo
+- **Price note:** from EUR 700/month private single room
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

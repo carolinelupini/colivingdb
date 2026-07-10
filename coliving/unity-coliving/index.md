@@ -5,6 +5,7 @@
 - **Location:** San José, Costa Rica
 - **Type:** Permanent coliving
 - **Price:** from $330/mo
+- **Price note:** not listed on site; bookable via Airbnb/Coliving.com
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

@@ -5,6 +5,7 @@
 - **Location:** Santo da Serra, Santa Cruz (Madeira), Portugal
 - **Type:** Permanent coliving
 - **Price:** from €1,500/mo
+- **Price note:** est. from reported EUR 800 per two weeks
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 1 night

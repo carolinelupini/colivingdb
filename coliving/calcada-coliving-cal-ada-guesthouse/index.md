@@ -5,6 +5,7 @@
 - **Location:** Tavira, Portugal
 - **Type:** Permanent coliving
 - **Price:** from €780/mo
+- **Price note:** €780/month or €27/night, private room with ensuite
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 29 nights

@@ -5,6 +5,7 @@
 - **Location:** Alentejo, Portugal
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** prices not published
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** —

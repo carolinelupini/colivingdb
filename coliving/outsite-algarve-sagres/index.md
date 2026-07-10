@@ -5,6 +5,7 @@
 - **Location:** Sagres, Portugal
 - **Type:** Permanent coliving
 - **Price:** from €800/mo
+- **Price note:** from EUR800/month winter rate
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

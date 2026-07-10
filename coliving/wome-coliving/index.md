@@ -5,6 +5,7 @@
 - **Location:** Campo Tartano (Val Tartano), Italy
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** price not published; 8-day experience blocks
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 8 nights

@@ -5,6 +5,7 @@
 - **Location:** Senderiz, Ourense, Galicia, Spain
 - **Type:** Permanent coliving
 - **Price:** from €850/mo
+- **Price note:** €850/mo shared, €960/mo private; €245-280/week
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)

@@ -5,6 +5,7 @@
 - **Location:** Ubud, Bali, Indonesia
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** monthly apartment rates arranged offline via front desk
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

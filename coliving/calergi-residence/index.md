@@ -5,6 +5,7 @@
 - **Location:** Atsipopoulo / Rethymno (Crete), Greece
 - **Type:** Permanent coliving
 - **Price:** from €800/mo
+- **Price note:** from ~€800/mo studio (BGN 1,561 conv.)
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

@@ -5,6 +5,7 @@
 - **Location:** Aguadilla, Puerto Rico
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** fixed monthly rates live; add dates for price
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** —

@@ -5,6 +5,7 @@
 - **Location:** Tuscany, Italy
 - **Type:** Permanent coliving
 - **Price:** from €823/mo
+- **Price note:** from EUR823/month
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** —

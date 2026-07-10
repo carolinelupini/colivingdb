@@ -5,6 +5,7 @@
 - **Location:** Puglia, Italy
 - **Type:** Permanent coliving
 - **Price:** from €690/mo
+- **Price note:** €690/mo (10% discount, regular €900); €27/night
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 14 nights (~2 weeks)

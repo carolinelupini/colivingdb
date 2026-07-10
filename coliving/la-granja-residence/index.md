@@ -5,6 +5,7 @@
 - **Location:** San Pedro, San José, Costa Rica
 - **Type:** Permanent coliving
 - **Price:** from €457/mo
+- **Price note:** from ~€457/mo private (shared bath); studios to ~€805
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)

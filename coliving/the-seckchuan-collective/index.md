@@ -5,6 +5,7 @@
 - **Location:** George Town, Malaysia
 - **Type:** Permanent coliving
 - **Price:** from MYR 177/mo (≈€335)
+- **Price note:** from BGN 656/mo (~€335) private room, coliving.com listing
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)

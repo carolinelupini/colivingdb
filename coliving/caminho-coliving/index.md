@@ -5,6 +5,7 @@
 - **Location:** Moreira, Maia (Porto area), Portugal
 - **Type:** Permanent coliving
 - **Price:** from €550/mo
+- **Price note:** dorm beds from €550/month, private rooms from €715/month
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** —

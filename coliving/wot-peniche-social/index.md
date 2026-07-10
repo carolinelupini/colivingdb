@@ -5,6 +5,7 @@
 - **Location:** Peniche, Portugal
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** Cooliving monthly rates on request
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** 30 nights (~1 month)

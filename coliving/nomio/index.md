@@ -5,6 +5,7 @@
 - **Location:** Tivat, Montenegro
 - **Type:** Permanent coliving
 - **Price:** from €500/mo
+- **Price note:** from €500/mo
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

@@ -5,6 +5,7 @@
 - **Location:** Amsterdam, Netherlands
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** add dates for price
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

@@ -5,6 +5,7 @@
 - **Location:** Wānaka, New Zealand
 - **Type:** Permanent coliving
 - **Price:** from €700/mo
+- **Price note:** EUR 1,350/month (from EUR 50/night)
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)

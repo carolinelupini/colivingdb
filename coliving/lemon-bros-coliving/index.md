@@ -5,6 +5,7 @@
 - **Location:** Ribeira Grande, São Miguel, Portugal
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** pricing not published; est. mid-range private rooms
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 14 nights (~2 weeks)

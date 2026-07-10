@@ -5,6 +5,7 @@
 - **Location:** Singapore, Singapore
 - **Type:** Permanent coliving
 - **Price:** from €1,800/mo
+- **Price note:** est.; Outsite Curated, prices behind date-select
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

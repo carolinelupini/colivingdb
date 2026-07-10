@@ -5,6 +5,7 @@
 - **Location:** Ponta do Sol, Madeira, Portugal
 - **Type:** Permanent coliving
 - **Price:** from €997/mo
+- **Price note:** from EUR997/mo; 7 pasta-named private rooms
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)

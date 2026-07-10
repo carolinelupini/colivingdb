@@ -5,6 +5,7 @@
 - **Location:** Vilnius, Lithuania
 - **Type:** Permanent coliving
 - **Price:** from €685/mo
+- **Price note:** from BGN 1,340/mo studio (~€685)
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 150 nights (~5 months)

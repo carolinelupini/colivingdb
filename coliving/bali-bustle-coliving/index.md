@@ -5,6 +5,7 @@
 - **Location:** Legian, Bali, Indonesia
 - **Type:** Permanent coliving
 - **Price:** from IDR 8,700,000/mo (≈€580)
+- **Price note:** from ~€11.50/night, est. monthly
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 3 nights

@@ -5,6 +5,7 @@
 - **Location:** Sapporo, Japan
 - **Type:** Permanent coliving
 - **Price:** from ¥93,000/mo (≈€500)
+- **Price note:** from BGN 983/mo private (~€503)
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)

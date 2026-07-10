@@ -5,6 +5,7 @@
 - **Location:** Krakow, Poland
 - **Type:** Permanent coliving
 - **Price:** from €513/mo
+- **Price note:** from BGN 955/mo shared (~€488); private ~€697
 - **Room types:** private, shared
 - **Dorm available:** Yes
 - **Minimum stay:** 60 nights (~2 months)

@@ -5,6 +5,7 @@
 - **Location:** Cascais, Portugal
 - **Type:** Permanent coliving
 - **Price:** from €1,000/mo
+- **Price note:** nightly private, add dates for rate
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

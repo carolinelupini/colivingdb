@@ -5,6 +5,7 @@
 - **Location:** Hermalle-sous-Argenteau (Liège), Belgium
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** pricing not published
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

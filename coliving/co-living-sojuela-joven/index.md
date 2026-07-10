@@ -5,6 +5,7 @@
 - **Location:** Sojuela, Spain
 - **Type:** Permanent coliving
 - **Price:** from €630/mo
+- **Price note:** €22/night, €630/mo with Mapmelon discount; breakfast+dinner included
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 1 night

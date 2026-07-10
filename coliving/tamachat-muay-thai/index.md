@@ -5,6 +5,7 @@
 - **Location:** Agafay, Morocco
 - **Type:** Permanent coliving
 - **Price:** from €2,400/mo
+- **Price note:** from EUR2400/month all-inclusive (food + training)
 - **Room types:** private, shared
 - **Dorm available:** Yes
 - **Minimum stay:** —

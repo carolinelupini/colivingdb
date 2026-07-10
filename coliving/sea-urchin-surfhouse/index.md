@@ -5,6 +5,7 @@
 - **Location:** Ericeira, Portugal
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** pricing on request; 30% winter discount advertised
 - **Room types:** shared, private
 - **Dorm available:** No
 - **Minimum stay:** —

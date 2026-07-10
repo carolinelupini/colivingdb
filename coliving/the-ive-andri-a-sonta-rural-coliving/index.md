@@ -5,6 +5,7 @@
 - **Location:** Sonta, Serbia
 - **Type:** Permanent coliving
 - **Price:** from RSD 265,500/mo (≈€297)
+- **Price note:** from BGN 583/mo shared 4-bed room; private from ~EUR 580
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)

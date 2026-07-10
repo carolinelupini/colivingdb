@@ -5,6 +5,7 @@
 - **Location:** Bogotá, Colombia
 - **Type:** Permanent coliving
 - **Price:** from €480/mo
+- **Price note:** €480/mo (discounted from €525); ~€17.50/night equivalent
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 120 nights (~4 months)

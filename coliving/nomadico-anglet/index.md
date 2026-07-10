@@ -5,6 +5,7 @@
 - **Location:** Anglet, France
 - **Type:** Permanent coliving
 - **Price:** from €790/mo
+- **Price note:** from EUR790/month
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** —

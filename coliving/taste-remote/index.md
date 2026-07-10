@@ -6,6 +6,7 @@
 - **Type:** Pop-up / dated edition
 - **Dates:** October 8-31, 2026
 - **Price:** On request
+- **Price note:** retreat/coliving editions; per-stay pricing
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)

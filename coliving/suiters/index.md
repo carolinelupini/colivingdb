@@ -5,6 +5,7 @@
 - **Location:** Alicante, Spain
 - **Type:** Permanent coliving
 - **Price:** from €899/mo
+- **Price note:** from €899/mo (Alicante Comfort); cheaper for 6mo+ stays
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)

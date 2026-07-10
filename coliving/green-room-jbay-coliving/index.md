@@ -5,6 +5,7 @@
 - **Location:** Jeffreys Bay, South Africa
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** price on booking request; all-inclusive with cowork
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 14 nights (~2 weeks)

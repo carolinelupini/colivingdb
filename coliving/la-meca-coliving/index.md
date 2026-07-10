@@ -5,6 +5,7 @@
 - **Location:** Los Caños de Meca, Spain
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** not published on site
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

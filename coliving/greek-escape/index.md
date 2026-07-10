@@ -5,6 +5,7 @@
 - **Location:** Gerani, Crete, Greece
 - **Type:** Permanent coliving
 - **Price:** from €750/mo
+- **Price note:** from €38/night (€1,020/mo with Mapmelon discount)
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 8 nights

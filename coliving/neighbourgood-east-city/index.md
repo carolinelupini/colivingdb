@@ -5,6 +5,7 @@
 - **Location:** Cape Town, South Africa
 - **Type:** Permanent coliving
 - **Price:** from R10,000/mo (≈€170)
+- **Price note:** co-living suites from R5,950/mo (~€300); shared dorm from ~€345/2wk
 - **Room types:** private, shared, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** —

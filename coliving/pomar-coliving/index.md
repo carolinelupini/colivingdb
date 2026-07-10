@@ -5,6 +5,7 @@
 - **Location:** Moncarapacho (Algarve), Portugal
 - **Type:** Permanent coliving
 - **Price:** from €1,290/mo
+- **Price note:** see operator site
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

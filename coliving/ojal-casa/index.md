@@ -5,6 +5,7 @@
 - **Location:** La Caleta, Costa Adeje, Tenerife, Spain
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** not published; long stays only, application-based
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)

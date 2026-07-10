@@ -5,6 +5,7 @@
 - **Location:** Kotohira, Japan
 - **Type:** Permanent coliving
 - **Price:** from €378/mo
+- **Price note:** from BGN 740/mo dorm (~€378); private ~€632
 - **Room types:** private, shared, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** 30 nights (~1 month)

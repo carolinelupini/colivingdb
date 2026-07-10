@@ -5,6 +5,7 @@
 - **Location:** Volda, Norway
 - **Type:** Permanent coliving
 - **Price:** from BGN 1,229/mo (≈€628)
+- **Price note:** from ~€626/mo private loft
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)

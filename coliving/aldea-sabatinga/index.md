@@ -5,6 +5,7 @@
 - **Location:** Manizales, Colombia
 - **Type:** Permanent coliving
 - **Price:** from COP 2,330,040/mo
+- **Price note:** bookable via Airbnb/Hostelworld/Flatio; monthly rate not published
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** —

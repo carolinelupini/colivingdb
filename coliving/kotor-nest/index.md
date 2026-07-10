@@ -5,6 +5,7 @@
 - **Location:** Kotor, Montenegro
 - **Type:** Permanent coliving
 - **Price:** from €500/mo
+- **Price note:** est.; rates not published (EUR, pay on arrival), booking via nomadico.io
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** —

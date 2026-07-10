@@ -5,6 +5,7 @@
 - **Location:** Seoul (Yeonnam/Hongdae), South Korea
 - **Type:** Permanent coliving
 - **Price:** from KRW 900,000/mo
+- **Price note:** price on request; seasonal 10-20% discounts
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** —

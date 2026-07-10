@@ -5,6 +5,7 @@
 - **Location:** Zărnești, Romania
 - **Type:** Permanent coliving
 - **Price:** from €775/mo
+- **Price note:** €775/month private ensuite; ~€32/night
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)

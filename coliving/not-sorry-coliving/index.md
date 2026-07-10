@@ -5,6 +5,7 @@
 - **Location:** near Tullins/Voiron, Isère (French Alps), France
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** not published; bookable via Hostelworld
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

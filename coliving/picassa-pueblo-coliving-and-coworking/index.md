@@ -5,6 +5,7 @@
 - **Location:** Purchena, Spain
 - **Type:** Permanent coliving
 - **Price:** from €450/mo
+- **Price note:** from €17.50/night, €450/month, breakfast included
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 14 nights (~2 weeks)

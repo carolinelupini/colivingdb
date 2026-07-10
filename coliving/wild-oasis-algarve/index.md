@@ -5,6 +5,7 @@
 - **Location:** Monchique, Portugal
 - **Type:** Permanent coliving
 - **Price:** from €650/mo
+- **Price note:** private rooms from €650/month (coliving.community)
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

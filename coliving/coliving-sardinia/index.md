@@ -5,6 +5,7 @@
 - **Location:** Porto Cervo, Sardinia, Italy
 - **Type:** Permanent coliving
 - **Price:** from €40/mo
+- **Price note:** from €40/night single; monthly from €950
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 14 nights (~2 weeks)

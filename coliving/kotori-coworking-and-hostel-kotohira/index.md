@@ -5,6 +5,7 @@
 - **Location:** Kotohira, Japan
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** 29+ night rates on inquiry; 14-28 nights 35% off standard rates
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** 5 nights

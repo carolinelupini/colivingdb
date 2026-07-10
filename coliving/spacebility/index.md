@@ -5,6 +5,7 @@
 - **Location:** Cagliari (Sardinia), Italy
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** not published; book via book.krossbooking.com/spacebility
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

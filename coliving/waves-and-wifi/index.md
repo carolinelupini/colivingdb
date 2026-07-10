@@ -5,6 +5,7 @@
 - **Location:** Popoyo, Nicaragua
 - **Type:** Permanent coliving
 - **Price:** from $1,410/mo
+- **Price note:** rates via Cloudbeds booking; not on homepage
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

@@ -5,6 +5,7 @@
 - **Location:** Siem Reap, Cambodia
 - **Type:** Permanent coliving
 - **Price:** from $734/mo (≈€157)
+- **Price note:** from $171/week (~€640/month est.)
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

@@ -5,6 +5,7 @@
 - **Location:** San Juan del Sur, Nicaragua
 - **Type:** Permanent coliving
 - **Price:** from €1,300/mo
+- **Price note:** est.; members-only, prices behind date-select
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

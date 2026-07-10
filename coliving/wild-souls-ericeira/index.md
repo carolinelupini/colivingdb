@@ -5,6 +5,7 @@
 - **Location:** Ericeira, Portugal
 - **Type:** Permanent coliving
 - **Price:** from €1,800/mo
+- **Price note:** from €75/night or €1,800/month
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)

@@ -5,6 +5,7 @@
 - **Location:** Laxe, A Coruña, Galicia, Spain
 - **Type:** Permanent coliving
 - **Price:** from €960/mo
+- **Price note:** from €32/night, est. monthly
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)

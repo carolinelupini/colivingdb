@@ -5,6 +5,7 @@
 - **Location:** Bostad, Lofoten, Norway
 - **Type:** Permanent coliving
 - **Price:** from £980/mo (≈€799)
+- **Price note:** €799/mo shared, €1599/mo private (Remoters, est.)
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** —

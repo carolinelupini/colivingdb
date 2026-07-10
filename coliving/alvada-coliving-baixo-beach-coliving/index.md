@@ -5,6 +5,7 @@
 - **Location:** Ponta do Sol, Madeira, Portugal
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** price not published; aimed at 3+ month slow-travel stays
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 90 nights (~3 months)

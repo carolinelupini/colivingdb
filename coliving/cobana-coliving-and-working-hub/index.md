@@ -5,6 +5,7 @@
 - **Location:** Zarnesti, Transylvania, Romania
 - **Type:** Permanent coliving
 - **Price:** from RON 2,660/mo (≈€775)
+- **Price note:** €775/mo or €450/two weeks, all ensuite private
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)

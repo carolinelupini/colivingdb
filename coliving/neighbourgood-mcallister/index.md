@@ -5,6 +5,7 @@
 - **Location:** San Francisco, United States
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** est.; monthly rate not published
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

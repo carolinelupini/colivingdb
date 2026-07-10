@@ -5,6 +5,7 @@
 - **Location:** Valle San Lorenzo (Arona), Tenerife, Spain
 - **Type:** Permanent coliving
 - **Price:** from €686/mo
+- **Price note:** from €37/night shared (listing); site nightly rates higher, 30-35% long-stay discounts
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 14 nights (~2 weeks)

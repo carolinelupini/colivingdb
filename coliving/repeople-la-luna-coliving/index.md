@@ -5,6 +5,7 @@
 - **Location:** Santa Cruz de Tenerife, Spain
 - **Type:** Permanent coliving
 - **Price:** from €390/mo
+- **Price note:** per-house rate not listed; network from ~EUR390/week
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

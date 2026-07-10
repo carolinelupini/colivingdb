@@ -5,6 +5,7 @@
 - **Location:** Esmoriz, Portugal
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** est.; private and dorm rooms, rate not published
 - **Room types:** private, shared, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** —

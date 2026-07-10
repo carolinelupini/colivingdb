@@ -5,6 +5,7 @@
 - **Location:** Santa Fe, Siargao, Philippines
 - **Type:** Permanent coliving
 - **Price:** from PHP 35,000/mo (≈€525)
+- **Price note:** from PHP 35,000/month dorm (~€525); private studio PHP 60,000
 - **Room types:** dorm, shared, private
 - **Dorm available:** Yes
 - **Minimum stay:** 6 nights

@@ -5,6 +5,7 @@
 - **Location:** Sines, Portugal
 - **Type:** Permanent coliving
 - **Price:** from €1,050/mo
+- **Price note:** EUR 1,050/month (from EUR 58/night)
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)

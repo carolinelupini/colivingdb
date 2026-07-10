@@ -5,6 +5,7 @@
 - **Location:** Caldes d'Estrac (Barcelona), Spain
 - **Type:** Permanent coliving
 - **Price:** from €780/mo
+- **Price note:** single room €26/night at monthly rate (~€780/mo)
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

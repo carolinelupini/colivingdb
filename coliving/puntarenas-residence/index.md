@@ -5,6 +5,7 @@
 - **Location:** Monteverde (Santa Elena), Costa Rica
 - **Type:** Permanent coliving
 - **Price:** from €4,001/mo
+- **Price note:** ~€4,001/mo private incl. breakfast + lunch
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)

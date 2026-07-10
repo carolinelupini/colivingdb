@@ -5,6 +5,7 @@
 - **Location:** Torralba de Ribota, Spain
 - **Type:** Permanent coliving
 - **Price:** from €450/mo
+- **Price note:** from €17/night, €450/month with 15% discount
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 15 nights

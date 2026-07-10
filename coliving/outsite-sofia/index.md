@@ -5,6 +5,7 @@
 - **Location:** Sofia, Bulgaria
 - **Type:** Permanent coliving
 - **Price:** from €1,095/mo
+- **Price note:** est.; Outsite Curated (WorkNomads Hotel)
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

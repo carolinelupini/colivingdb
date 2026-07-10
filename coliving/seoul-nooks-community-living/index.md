@@ -5,6 +5,7 @@
 - **Location:** Seoul, South Korea
 - **Type:** Permanent coliving
 - **Price:** from €990/mo
+- **Price note:** €990/month (discounted from €1,170); €35/night
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 14 nights (~2 weeks)

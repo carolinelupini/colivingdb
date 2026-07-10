@@ -5,6 +5,7 @@
 - **Location:** Baleal, Peniche, Portugal
 - **Type:** Permanent coliving
 - **Price:** from €960/mo
+- **Price note:** from EUR32/night (Farol room), ~EUR960/mo
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** —

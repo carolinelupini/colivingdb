@@ -5,6 +5,7 @@
 - **Location:** El Nido, Philippines
 - **Type:** Permanent coliving
 - **Price:** from €1,641/mo
+- **Price note:** from BGN 3,215/mo private room w/ ensuite
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)

@@ -5,6 +5,7 @@
 - **Location:** San Francisco, United States
 - **Type:** Permanent coliving
 - **Price:** from $1,395/mo (≈€1,283)
+- **Price note:** studios from ~$1,395/mo at 2072 Mission St
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

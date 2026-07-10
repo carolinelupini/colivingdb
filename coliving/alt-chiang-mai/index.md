@@ -5,6 +5,7 @@
 - **Location:** Chiang Mai, Thailand
 - **Type:** Permanent coliving
 - **Price:** from €720/mo
+- **Price note:** from €720/month (€47/night)
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 6 nights

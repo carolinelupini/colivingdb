@@ -5,6 +5,7 @@
 - **Location:** Lajares, Fuerteventura, Spain
 - **Type:** Permanent coliving
 - **Price:** from €850/mo
+- **Price note:** rooms from €850/month
 - **Room types:** private, shared, apartment
 - **Dorm available:** No
 - **Minimum stay:** —

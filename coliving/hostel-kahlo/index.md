@@ -5,6 +5,7 @@
 - **Location:** Sierro, Almeria (Andalucia), Spain
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** nightly rates via Hostelworld only
 - **Room types:** dorm, private
 - **Dorm available:** Yes
 - **Minimum stay:** —

@@ -5,6 +5,7 @@
 - **Location:** Encinitas, United States
 - **Type:** Permanent coliving
 - **Price:** from $2,209/mo (≈€2,000)
+- **Price note:** nightly $73.63-$229.90 comparable; members only
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** —

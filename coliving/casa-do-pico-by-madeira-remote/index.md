@@ -5,6 +5,7 @@
 - **Location:** Funchal, Madeira, Portugal
 - **Type:** Permanent coliving
 - **Price:** from €1,200/mo
+- **Price note:** from €44/night or €1,200/month
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)

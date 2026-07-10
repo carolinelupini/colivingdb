@@ -5,6 +5,7 @@
 - **Location:** Ubud, Bali, Indonesia
 - **Type:** Permanent coliving
 - **Price:** from $849/mo (≈€780)
+- **Price note:** Colive+ from $849/mo (~€780 est.)
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 14 nights (~2 weeks)

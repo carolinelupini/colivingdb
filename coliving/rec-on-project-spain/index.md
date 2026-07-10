@@ -5,6 +5,7 @@
 - **Location:** Bolaimi (Sierra Maria-Los Velez, Almeria), Spain
 - **Type:** Permanent coliving
 - **Price:** from €660/mo
+- **Price note:** €660/month (from €749); ~€25/night
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 12 nights

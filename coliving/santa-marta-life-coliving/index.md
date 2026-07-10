@@ -5,6 +5,7 @@
 - **Location:** Santa Marta (El Rodadero), Colombia
 - **Type:** Permanent coliving
 - **Price:** from $650/mo (≈€598)
+- **Price note:** ~$700–900/mo → est. €640
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

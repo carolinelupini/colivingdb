@@ -5,6 +5,7 @@
 - **Location:** Ericeira, Portugal
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** pricing only via booking dates
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** —

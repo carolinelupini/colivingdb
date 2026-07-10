@@ -5,6 +5,7 @@
 - **Location:** Funchal, Portugal
 - **Type:** Permanent coliving
 - **Price:** from €1,470/mo
+- **Price note:** from BGN 2,915/mo private room
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)

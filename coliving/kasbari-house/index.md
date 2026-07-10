@@ -5,6 +5,7 @@
 - **Location:** Tamraght (near Taghazout/Agadir), Morocco
 - **Type:** Permanent coliving
 - **Price:** from €300/mo
+- **Price note:** from €300/mo dorm (€90/week)
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** 7 nights (~1 week)

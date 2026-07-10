@@ -5,6 +5,7 @@
 - **Location:** Goto (Fukue), Nagasaki, Japan
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** rate not published in EUR; bookable via HafH/direct
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

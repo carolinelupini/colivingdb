@@ -5,6 +5,7 @@
 - **Location:** Mexico City, Mexico
 - **Type:** Permanent coliving
 - **Price:** from $53/mo
+- **Price note:** from ~$50/night studio
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

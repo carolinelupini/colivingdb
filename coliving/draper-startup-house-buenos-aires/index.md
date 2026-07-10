@@ -5,6 +5,7 @@
 - **Location:** Buenos Aires, Argentina
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** not published on site
 - **Room types:** private, shared, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** —

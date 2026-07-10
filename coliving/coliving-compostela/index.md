@@ -5,6 +5,7 @@
 - **Location:** Santiago de Compostela, Spain
 - **Type:** Permanent coliving
 - **Price:** from €720/mo
+- **Price note:** from €27/night private ensuite (~€720/mo)
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 15 nights

@@ -5,6 +5,7 @@
 - **Location:** Fenais da Luz, São Miguel, Azores, Portugal
 - **Type:** Permanent coliving
 - **Price:** from €2,160/mo
+- **Price note:** €2,160/month on Mapmelon (from ~€76/night)
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 28 nights (~4 weeks)

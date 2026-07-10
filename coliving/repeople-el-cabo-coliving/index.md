@@ -5,6 +5,7 @@
 - **Location:** Agaete, Gran Canaria, Spain
 - **Type:** Permanent coliving
 - **Price:** from €880/mo
+- **Price note:** from EUR29/night for 30+ night stays
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)

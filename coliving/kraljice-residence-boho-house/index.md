@@ -5,6 +5,7 @@
 - **Location:** Pakoštane, Croatia
 - **Type:** Permanent coliving
 - **Price:** from €598/mo
+- **Price note:** from ~€598/mo private ensuite
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)

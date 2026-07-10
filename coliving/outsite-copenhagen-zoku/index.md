@@ -5,6 +5,7 @@
 - **Location:** Copenhagen, Denmark
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** nightly private, add dates for rate
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

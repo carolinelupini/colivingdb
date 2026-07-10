@@ -5,6 +5,7 @@
 - **Location:** Puerto Escondido, Mexico
 - **Type:** Permanent coliving
 - **Price:** from €720/mo
+- **Price note:** €720/mo (discounted from €900); from €30/night
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)

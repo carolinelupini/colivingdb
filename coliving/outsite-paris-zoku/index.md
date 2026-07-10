@@ -5,6 +5,7 @@
 - **Location:** Paris, France
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** pricing shown only after entering dates
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** —

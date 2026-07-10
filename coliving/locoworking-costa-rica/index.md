@@ -5,6 +5,7 @@
 - **Location:** Sámara, Costa Rica
 - **Type:** Permanent coliving
 - **Price:** from $680/mo
+- **Price note:** contact for quote; green-season discounts Apr-Oct
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

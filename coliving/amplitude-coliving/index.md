@@ -5,6 +5,7 @@
 - **Location:** Puerto Escondido (La Punta), Mexico
 - **Type:** Permanent coliving
 - **Price:** from €1,380/mo
+- **Price note:** from €1,380/month (€80/night private)
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 1 night

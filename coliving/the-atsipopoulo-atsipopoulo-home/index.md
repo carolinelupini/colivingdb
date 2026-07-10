@@ -5,6 +5,7 @@
 - **Location:** Atsipopoulo, Greece
 - **Type:** Permanent coliving
 - **Price:** from €825/mo
+- **Price note:** est. ~$640/mo cheapest studio; listing BGN figures inconsistent
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)

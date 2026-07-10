@@ -5,6 +5,7 @@
 - **Location:** Riga, Latvia
 - **Type:** Permanent coliving
 - **Price:** from €697/mo
+- **Price note:** from BGN 1,301/mo studio (~€665)
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 150 nights (~5 months)

@@ -5,6 +5,7 @@
 - **Location:** Citta della Pieve (Umbria/Tuscany border), Italy
 - **Type:** Permanent coliving
 - **Price:** from €700/mo
+- **Price note:** not published; monthly stays via Airbnb/direct
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

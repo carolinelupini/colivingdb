@@ -5,6 +5,7 @@
 - **Location:** Sofia, Bulgaria
 - **Type:** Permanent coliving
 - **Price:** from €1,095/mo
+- **Price note:** from €36.50/night (€1,095/month) private ensuite
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)

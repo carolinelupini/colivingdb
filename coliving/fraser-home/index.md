@@ -5,6 +5,7 @@
 - **Location:** Kuala Lumpur, Malaysia
 - **Type:** Permanent coliving
 - **Price:** from MYR 170/mo (≈€323)
+- **Price note:** from BGN 631/mo (~€323) private en-suite
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)

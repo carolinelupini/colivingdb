@@ -5,6 +5,7 @@
 - **Location:** Kotor, Montenegro
 - **Type:** Permanent coliving
 - **Price:** from €690/mo
+- **Price note:** €1,530/mo discounted (reg. €1,800); ~€60/night
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)

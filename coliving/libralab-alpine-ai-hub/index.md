@@ -5,6 +5,7 @@
 - **Location:** Omes (Kristen), near Innsbruck, Austria
 - **Type:** Permanent coliving
 - **Price:** from €990/mo
+- **Price note:** €990/mo (discounted from €1,170); from €35/night
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 28 nights (~4 weeks)

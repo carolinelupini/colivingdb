@@ -5,6 +5,7 @@
 - **Location:** Lagos, Portugal
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** dynamic date-based pricing; private ensuite double rooms
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

@@ -5,6 +5,7 @@
 - **Location:** Kamakura, Japan
 - **Type:** Permanent coliving
 - **Price:** from €3,000/mo
+- **Price note:** family bundle (housing+education+coworking); ~€3,000+/mo est., varies by family size/apartment
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

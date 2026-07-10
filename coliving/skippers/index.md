@@ -5,6 +5,7 @@
 - **Location:** Diani Beach, Kenya
 - **Type:** Permanent coliving
 - **Price:** from €500/mo
+- **Price note:** est.; en-suite AC rooms, meal plans avail
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

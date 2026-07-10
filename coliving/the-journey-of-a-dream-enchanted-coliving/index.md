@@ -5,6 +5,7 @@
 - **Location:** Charente-Maritime, France
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** price not published; inquiry/booking via site
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

@@ -5,6 +5,7 @@
 - **Location:** Burgas, Bulgaria
 - **Type:** Permanent coliving
 - **Price:** from €1,400/mo
+- **Price note:** marketed as very affordable; pricing on request
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

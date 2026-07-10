@@ -5,6 +5,7 @@
 - **Location:** Corralejo, Fuerteventura, Spain
 - **Type:** Permanent coliving
 - **Price:** from €750/mo
+- **Price note:** from EUR25/night
 - **Room types:** private, shared, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** 2 nights

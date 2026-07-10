@@ -5,6 +5,7 @@
 - **Location:** Gerani (Crete), Greece
 - **Type:** Permanent coliving
 - **Price:** from €750/mo
+- **Price note:** from €750/mo shared twin (€235/week)
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)

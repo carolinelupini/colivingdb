@@ -5,6 +5,7 @@
 - **Location:** Vicchio (Mugello, Florence), Italy
 - **Type:** Permanent coliving
 - **Price:** from €699/mo
+- **Price note:** from €34/night, min 2 weeks; monthly est.
 - **Room types:** private, shared
 - **Dorm available:** Yes
 - **Minimum stay:** 14 nights (~2 weeks)

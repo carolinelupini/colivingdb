@@ -5,6 +5,7 @@
 - **Location:** Vienna, Austria
 - **Type:** Permanent coliving
 - **Price:** from €1,700/mo
+- **Price note:** est.; Outsite Curated (Zoku), prices behind date-select
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

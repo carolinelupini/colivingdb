@@ -5,6 +5,7 @@
 - **Location:** Hoi An, Vietnam
 - **Type:** Permanent coliving
 - **Price:** from €393/mo
+- **Price note:** from BGN 771/mo dorm ≈ €394; privates up to ~€1,104
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** 30 nights (~1 month)

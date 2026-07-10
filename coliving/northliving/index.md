@@ -5,6 +5,7 @@
 - **Location:** Häggdånger, Sweden
 - **Type:** Permanent coliving
 - **Price:** from €870/mo
+- **Price note:** €870/month (€32/night) private room
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 6 nights

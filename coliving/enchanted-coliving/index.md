@@ -5,6 +5,7 @@
 - **Location:** Nachamps, France
 - **Type:** Permanent coliving
 - **Price:** from €870/mo
+- **Price note:** €870/mo (10% off from €1,080); €32/night
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 14 nights (~2 weeks)

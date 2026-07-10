@@ -5,6 +5,7 @@
 - **Location:** Medellín, Colombia
 - **Type:** Permanent coliving
 - **Price:** from €1,100/mo
+- **Price note:** est. from ~$1,200/mo loft (luxury tier)
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)

@@ -5,6 +5,7 @@
 - **Location:** Ukropci (above Kotor Bay), Montenegro
 - **Type:** Permanent coliving
 - **Price:** from €695/mo
+- **Price note:** €695/month low-season campground; €31/night
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 14 nights (~2 weeks)

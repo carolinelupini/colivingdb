@@ -5,6 +5,7 @@
 - **Location:** Bengaluru, India
 - **Type:** Permanent coliving
 - **Price:** from €225/mo
+- **Price note:** dorm-based; nightly rates via booking platforms
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** —

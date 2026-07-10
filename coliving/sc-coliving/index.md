@@ -5,6 +5,7 @@
 - **Location:** St Julian's, Malta
 - **Type:** Permanent coliving
 - **Price:** from €420/mo
+- **Price note:** from €14/day
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** —

@@ -5,6 +5,7 @@
 - **Location:** Benarrabá, Spain
 - **Type:** Permanent coliving
 - **Price:** from €810/mo
+- **Price note:** €810/mo Mapmelon-discounted (list €1,200); from €36/night
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 1 night

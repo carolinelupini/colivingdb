@@ -5,6 +5,7 @@
 - **Location:** S'Arenal (Mallorca), Spain
 - **Type:** Permanent coliving
 - **Price:** from €950/mo
+- **Price note:** advertised as under €1,000/month; est.
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)

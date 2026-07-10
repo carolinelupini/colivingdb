@@ -5,6 +5,7 @@
 - **Location:** Lagos, Portugal
 - **Type:** Permanent coliving
 - **Price:** from €1,420/mo
+- **Price note:** ~€1360–1480/month private ensuite, breakfast incl.
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 14 nights (~2 weeks)

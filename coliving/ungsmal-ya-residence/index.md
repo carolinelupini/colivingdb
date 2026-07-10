@@ -5,6 +5,7 @@
 - **Location:** Nyksund, Norway
 - **Type:** Permanent coliving
 - **Price:** from BGN 971/mo (≈€522)
+- **Price note:** from ~€494/mo private (Fishermen Style, shared bath)
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)

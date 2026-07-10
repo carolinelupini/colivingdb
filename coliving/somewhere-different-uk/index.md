@@ -5,6 +5,7 @@
 - **Location:** Blackpool, United Kingdom
 - **Type:** Permanent coliving
 - **Price:** from £300/mo (≈€350)
+- **Price note:** £300/month own room + desk
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

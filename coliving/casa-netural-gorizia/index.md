@@ -5,6 +5,7 @@
 - **Location:** Gorizia, Italy
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** prices on request; weekly/monthly discounts
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

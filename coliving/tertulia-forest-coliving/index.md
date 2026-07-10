@@ -5,6 +5,7 @@
 - **Location:** Mugello, Tuscany, Italy
 - **Type:** Permanent coliving
 - **Price:** from €870/mo
+- **Price note:** EUR 870/month (discounted from EUR 1,140); from EUR 34/night
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)

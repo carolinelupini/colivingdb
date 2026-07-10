@@ -5,6 +5,7 @@
 - **Location:** Loureira (near Braga), Portugal
 - **Type:** Permanent coliving
 - **Price:** from €150/mo
+- **Price note:** €150/month regular (€60 with Mapmelon discount) — unusually low, may reflect residency/work-exchange model
 - **Room types:** shared
 - **Dorm available:** No
 - **Minimum stay:** 1 night

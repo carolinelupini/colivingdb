@@ -5,6 +5,7 @@
 - **Location:** New York, United States
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** not published on site
 - **Room types:** private, shared
 - **Dorm available:** Yes
 - **Minimum stay:** —

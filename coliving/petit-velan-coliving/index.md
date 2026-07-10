@@ -5,6 +5,7 @@
 - **Location:** Bourg-Saint-Pierre, Switzerland
 - **Type:** Permanent coliving
 - **Price:** from CHF 500/mo (≈€500)
+- **Price note:** shared room 500 CHF/28 nights off-season (winter 600 CHF); private 800–1200 CHF/28 nights
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)

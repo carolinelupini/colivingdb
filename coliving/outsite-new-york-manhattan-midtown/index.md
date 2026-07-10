@@ -5,6 +5,7 @@
 - **Location:** New York, United States
 - **Type:** Permanent coliving
 - **Price:** from $4,560/mo
+- **Price note:** comparable NY location from ~$152/night
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

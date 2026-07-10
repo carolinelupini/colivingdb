@@ -5,6 +5,7 @@
 - **Location:** Multiple (Ericeira, Canggu, others)
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** varies by property; not shown on homepage
 - **Room types:** private, shared, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** —

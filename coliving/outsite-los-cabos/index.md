@@ -5,6 +5,7 @@
 - **Location:** San Jose del Cabo, Mexico
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** pricing via date selection; 10% off last-minute Aug
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

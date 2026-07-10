@@ -5,6 +5,7 @@
 - **Location:** Ponta do Sol, Madeira, Portugal
 - **Type:** Permanent coliving
 - **Price:** from €1,700/mo
+- **Price note:** from EUR1,700/month winter, members only
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

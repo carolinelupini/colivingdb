@@ -5,6 +5,7 @@
 - **Location:** Liddes, Switzerland
 - **Type:** Permanent coliving
 - **Price:** from €500/mo
+- **Price note:** from €500/mo; workations from €650/2wk all-inclusive
 - **Room types:** private, shared, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** —

@@ -6,6 +6,7 @@
 - **Type:** Pop-up / dated edition
 - **Dates:** June-July (seasonal coliving season; exact 2026 dates not published)
 - **Price:** from €728/mo
+- **Price note:** from BGN 1,424/mo
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)

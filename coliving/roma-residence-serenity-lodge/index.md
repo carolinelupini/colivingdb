@@ -5,6 +5,7 @@
 - **Location:** Sharm El-Sheikh, Egypt
 - **Type:** Permanent coliving
 - **Price:** from €526/mo
+- **Price note:** from BGN 1,030/mo 4-bed dorm (~€527); private from ~€1,053
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** 30 nights (~1 month)

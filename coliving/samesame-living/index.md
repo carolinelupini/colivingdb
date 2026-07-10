@@ -5,6 +5,7 @@
 - **Location:** Lisbon, Portugal
 - **Type:** Permanent coliving
 - **Price:** from €1,320/mo
+- **Price note:** €1,320/mo (from €59/night)
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 8 nights

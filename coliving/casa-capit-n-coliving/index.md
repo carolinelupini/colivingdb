@@ -5,6 +5,7 @@
 - **Location:** Guargacho, Tenerife, Spain
 - **Type:** Permanent coliving
 - **Price:** from €960/mo
+- **Price note:** from €42/night or €960/month
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 1 night

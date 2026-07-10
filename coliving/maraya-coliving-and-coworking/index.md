@@ -5,6 +5,7 @@
 - **Location:** Candelaria, Tenerife, Spain
 - **Type:** Permanent coliving
 - **Price:** from €940/mo
+- **Price note:** shared room from €940/mo (2025-26); before monthly discount
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)

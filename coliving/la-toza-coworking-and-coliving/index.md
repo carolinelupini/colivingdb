@@ -5,6 +5,7 @@
 - **Location:** Cabrero, Spain
 - **Type:** Permanent coliving
 - **Price:** from €870/mo
+- **Price note:** €870/month (discounted from €960); €32/night
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 15 nights

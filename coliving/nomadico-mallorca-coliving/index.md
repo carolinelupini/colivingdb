@@ -5,6 +5,7 @@
 - **Location:** Búger, Mallorca, Spain
 - **Type:** Permanent coliving
 - **Price:** from €490/mo
+- **Price note:** from €490/month shared (low season); private higher
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)

@@ -5,6 +5,7 @@
 - **Location:** Leysin, Switzerland
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** chapter pricing not published; book by season
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)

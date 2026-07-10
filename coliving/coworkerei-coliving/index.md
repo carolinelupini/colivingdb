@@ -5,6 +5,7 @@
 - **Location:** Mils / Innsbruck (Tyrol), Austria
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** coliving price not published; coworking from EUR59/mo
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** —

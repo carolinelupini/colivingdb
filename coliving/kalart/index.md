@@ -5,6 +5,7 @@
 - **Location:** Montseny Valley, Catalonia, Spain
 - **Type:** Permanent coliving
 - **Price:** from €1,020/mo
+- **Price note:** €34/night private, 30-night min (~€1,020/mo)
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)

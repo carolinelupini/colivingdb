@@ -5,6 +5,7 @@
 - **Location:** La Orotava, Tenerife, Spain
 - **Type:** Permanent coliving
 - **Price:** from €900/mo
+- **Price note:** from €30/night; 10-20% long-stay and summer discounts
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 14 nights (~2 weeks)

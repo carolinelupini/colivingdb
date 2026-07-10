@@ -5,6 +5,7 @@
 - **Location:** Olhão (Algarve), Portugal
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Price note:** rates on request via booking page
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
