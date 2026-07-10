@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Portus Home Coliving | Vászoly | from HUF 750,000/mo (≈€900) | private | 5 nights | Permanent |
+| Portus Home Coliving | Vászoly | from HUF 750,000/mo | private | 5 nights | Permanent |
 
 ## Price distribution
 

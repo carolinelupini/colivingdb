@@ -4,7 +4,7 @@
 
 - **Location:** Tskaltubo, Georgia
 - **Type:** Permanent coliving
-- **Price:** from $219/mo (≈€192)
+- **Price:** from $219/mo
 - **Room types:** private, shared, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** —

@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Build it in Bogotá | Bogotá (El Virrey, Chapinero) | from $1,055/mo (≈€970) | private | 30 nights (~1 month) | Permanent |
+| Build it in Bogotá | Bogotá (El Virrey, Chapinero) | from $1,320/mo | private | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

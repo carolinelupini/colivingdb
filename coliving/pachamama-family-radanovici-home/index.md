@@ -4,7 +4,7 @@
 
 - **Location:** Radanovici, Montenegro
 - **Type:** Permanent coliving
-- **Price:** from €838/mo
+- **Price:** from €695/mo
 - **Price note:** from BGN 1,643/mo incl. 3 meals/day
 - **Room types:** private, shared, dorm
 - **Dorm available:** Yes

@@ -4,7 +4,7 @@
 
 - **Location:** Las Palmas de Gran Canaria, Spain
 - **Type:** Permanent coliving
-- **Price:** from €880/mo
+- **Price:** from €1,677/mo
 - **Price note:** from €29/night on 30+ night stays (El Cabo offer); est.
 - **Room types:** private
 - **Dorm available:** No

@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Khomuli Home | Khomuli | from $219/mo (≈€192) | private, shared | 30 nights (~1 month) | Permanent |
+| Khomuli Home | Khomuli | from $219/mo | private, shared | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

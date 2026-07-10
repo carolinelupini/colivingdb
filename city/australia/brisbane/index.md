@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Treehouse Toowong | Brisbane | from A$1,333/mo (≈€809) | private | — | Permanent |
+| Treehouse Toowong | Brisbane | from A$1,333/mo | private | — | Permanent |
 
 ## Price distribution
 

@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Life at Selgars | Uffculme, Devon | from £1,200/mo (≈€990) | private | 14 nights (~2 weeks) | Permanent |
+| Life at Selgars | Uffculme, Devon | from £950/mo | private | 14 nights (~2 weeks) | Permanent |
 
 ## Price distribution
 

@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Avnea Nomad Village | Zaros, Crete | from €449/mo | private, shared | 30 nights (~1 month) | Permanent |
+| Avnea Nomad Village | Zaros, Crete | from €399/mo | private, shared | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

@@ -6,9 +6,9 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Co.404 Oaxaca City | Oaxaca | from $570/mo (≈€525) | private | 30 nights (~1 month) | Permanent |
-| co.404 Coliving Oaxaca | Oaxaca | from $570/mo (≈€530) | private, dorm | — | Permanent |
-| Outsite Oaxaca City | Oaxaca | On request | private | — | Permanent |
+| Co.404 Oaxaca City | Oaxaca | from $570/mo | private | 30 nights (~1 month) | Permanent |
+| co.404 Coliving Oaxaca | Oaxaca | from $570/mo | private, dorm | — | Permanent |
+| Outsite Oaxaca City | Oaxaca | from $60/night | private | — | Permanent |
 
 ## Price distribution
 

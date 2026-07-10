@@ -4,7 +4,7 @@
 
 - **Location:** Guadalajara, Mexico
 - **Type:** Permanent coliving
-- **Price:** On request
+- **Price:** from MXN 10,000/mo
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** —

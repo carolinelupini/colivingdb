@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Bjørkedal Home | Volda | from BGN 1,229/mo (≈€628) | private | 30 nights (~1 month) | Permanent |
+| Bjørkedal Home | Volda | from BGN 1,233/mo | private | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

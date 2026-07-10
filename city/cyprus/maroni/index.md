@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| The Agiou Georgiou (Agiou Georgiou Home / The Retreat) | Maroni | from €1,160/mo | private | 30 nights (~1 month) | Permanent |
+| The Agiou Georgiou (Agiou Georgiou Home / The Retreat) | Maroni | from €1,100/mo | private | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Bali Bustle Coliving | Legian, Bali | from IDR 8,700,000/mo (≈€580) | private | 3 nights | Permanent |
+| Bali Bustle Coliving | Legian, Bali | from IDR 8,700,000/mo | private | 3 nights | Permanent |
 
 ## Price distribution
 

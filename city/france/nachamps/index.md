@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Enchanted Coliving | Nachamps | from €870/mo | private | 14 nights (~2 weeks) | Permanent |
+| Enchanted Coliving | Nachamps | from €1,080/mo | private | 14 nights (~2 weeks) | Permanent |
 
 ## Price distribution
 

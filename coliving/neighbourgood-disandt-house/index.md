@@ -4,7 +4,7 @@
 
 - **Location:** Cape Town, South Africa
 - **Type:** Permanent coliving
-- **Price:** from R13,000/mo (≈€749)
+- **Price:** from R13,000/mo
 - **Price note:** brand-wide from ~€749/mo; private standard ~€1,115+
 - **Room types:** private, shared
 - **Dorm available:** Yes

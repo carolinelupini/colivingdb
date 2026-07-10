@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Pyren'Escape | Guchen (Saubissan), Pyrenees | from €660/mo | private, shared, studio, apartment | 14 nights (~2 weeks) | Permanent |
+| Pyren'Escape | Guchen (Saubissan), Pyrenees | from €1,110/mo | private, shared, studio, apartment | 14 nights (~2 weeks) | Permanent |
 
 ## Price distribution
 

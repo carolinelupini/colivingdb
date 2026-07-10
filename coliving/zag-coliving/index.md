@@ -4,7 +4,7 @@
 
 - **Location:** Punta del Este, Uruguay
 - **Type:** Permanent coliving
-- **Price:** from $650/mo (≈€569)
+- **Price:** from $650/mo
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

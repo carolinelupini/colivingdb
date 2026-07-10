@@ -4,7 +4,7 @@
 
 - **Location:** Koh Phangan, Thailand
 - **Type:** Permanent coliving
-- **Price:** from $695/mo (≈€2,120)
+- **Price:** from $695/mo
 - **Price note:** Koh-Live $2495/month incl. accommodation + meals; Koh-Munity $695/month without lodging
 - **Room types:** private
 - **Dorm available:** No

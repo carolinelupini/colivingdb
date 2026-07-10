@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Blue Paradise Coliving | Santa Cruz de Tenerife | from €810/mo | private | 30 nights (~1 month) | Permanent |
+| Blue Paradise Coliving | Santa Cruz de Tenerife | from €695/mo | private | 30 nights (~1 month) | Permanent |
 | Coliving Tenerife - Villa La Laguna | Santa Cruz de Tenerife | On request | private | — | Permanent |
 | Repeople La Luna Coliving | Santa Cruz de Tenerife | from €390/mo | private | — | Permanent |
 

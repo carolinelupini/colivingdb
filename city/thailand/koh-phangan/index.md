@@ -6,8 +6,8 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| beacHub | Koh Phangan | from THB 6,500/mo (≈€170) | shared | — | Permanent |
-| Digital Nomad Adventures | Koh Phangan | from $695/mo (≈€2,120) | private | 7 nights (~1 week) | Permanent |
+| beacHub | Koh Phangan | from THB 6,500/mo | shared | — | Permanent |
+| Digital Nomad Adventures | Koh Phangan | from $695/mo | private | 7 nights (~1 week) | Permanent |
 
 ## Price distribution
 

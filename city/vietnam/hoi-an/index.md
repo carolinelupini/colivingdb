@@ -8,8 +8,8 @@
 |---|---|---|---|---|---|
 | The Cây Giá Hạ | Hoi An | from €300/mo | private | 30 nights (~1 month) | Permanent |
 | Kiệt Residence | Hoi An | from €393/mo | private, dorm | 30 nights (~1 month) | Permanent |
-| Hub Hoi An | Hoi An | from $449/mo (≈€413) | dorm, private | — | Permanent |
-| The Mẹ Thứ | Hoi An | from VND 16,000,000/mo (≈€640) | private | 30 nights (~1 month) | Permanent |
+| Hub Hoi An | Hoi An | from $449/mo | dorm, private | — | Permanent |
+| The Mẹ Thứ | Hoi An | from VND 16,000,000/mo | private | 30 nights (~1 month) | Permanent |
 | Noma Collective — Hoi An | Hoi An | from $1,690 per event | — | — | Pop-up |
 
 ## Price distribution

@@ -4,7 +4,7 @@
 
 - **Location:** Lagos, Nigeria
 - **Type:** Permanent coliving
-- **Price:** On request
+- **Price:** from $30/night
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)

@@ -6,11 +6,11 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| The Ive Andrića (Sonta rural coliving) | Sonta | from RSD 265,500/mo (≈€297) | private, shared | 30 nights (~1 month) | Permanent |
-| Sonta Coliving | Sonta | from €400/mo | shared, private | 14 nights (~2 weeks) | Permanent |
-| Mokrin House | Mokrin | from €993/mo | private, shared | — | Permanent |
-| Gođevačka Collective | Divcibare | from RSD 265,500/mo (≈€1,960) | private | 30 nights (~1 month) | Permanent |
-| The Svetog Save (Mokrin House) | Mokrin | from €2,100/mo | private, dorm | 30 nights (~1 month) | Permanent |
+| The Ive Andrića (Sonta rural coliving) | Sonta | from RSD 265,500/mo | private, shared | 30 nights (~1 month) | Permanent |
+| Sonta Coliving | Sonta | from €430/mo | shared, private | 14 nights (~2 weeks) | Permanent |
+| Mokrin House | Mokrin | from €907/mo | private, shared | — | Permanent |
+| Gođevačka Collective | Divcibare | from RSD 265,500/mo | private | 30 nights (~1 month) | Permanent |
+| The Svetog Save (Mokrin House) | Mokrin | from €907/mo | private, dorm | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

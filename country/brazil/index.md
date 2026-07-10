@@ -6,15 +6,15 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| João Pachêco Da Costa Home | Florianópolis | from €238/mo | private, dorm | 30 nights (~1 month) | Permanent |
-| The Manoel João Ferreira | Florianópolis (Barra da Lagoa) | from €238/mo | private, shared | 30 nights (~1 month) | Permanent |
+| João Pachêco Da Costa Home | Florianópolis | from BRL 1,400/mo | private, dorm | 30 nights (~1 month) | Permanent |
+| The Manoel João Ferreira | Florianópolis (Barra da Lagoa) | from BRL 1,400/mo | private, shared | 30 nights (~1 month) | Permanent |
 | INFINI Coliving | Jauá (Camaçari), near Salvador | from €270/mo | private | 1 night | Permanent |
-| Vivére Coliving | Rio de Janeiro | from BRL 1,950/mo (≈€332) | private | — | Permanent |
-| Nomadico Coliving Florianópolis | Florianópolis | from $380/mo (≈€380) | private, shared | 7 nights (~1 week) | Permanent |
+| Vivére Coliving | Rio de Janeiro | from BRL 1,950/mo | private | — | Permanent |
+| Nomadico Coliving Florianópolis | Florianópolis | from $380/mo | private, shared | 7 nights (~1 week) | Permanent |
 | Manoel Pedro da Silveira Home | Florianópolis | from €408/mo | private, dorm | 30 nights (~1 month) | Permanent |
-| WiFi Tribe — Florianópolis | Florianópolis | from $1,290/mo (≈€1,129) | — | — | Pop-up |
+| WiFi Tribe — Florianópolis | Florianópolis | from $1,290/mo | — | — | Pop-up |
 | Draper Startup House Rio de Janeiro | Rio de Janeiro | On request | private, shared, dorm | — | Permanent |
-| Horizonte Coliving - Mangabeiras | Belo Horizonte | On request | — | — | Permanent |
+| Horizonte Coliving - Mangabeiras | Belo Horizonte | from BRL 1,600/mo | — | — | Permanent |
 | Horizonte Coliving - Santa Tereza | Belo Horizonte | On request | — | — | Permanent |
 | Neighbor.HUB Hostel & Coliving - Floripa | Florianópolis | On request | private, shared, dorm | — | Permanent |
 | Noma Collective — Pipa | Pipa | from $2,090 per event | — | — | Pop-up |

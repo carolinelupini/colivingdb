@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Covive Casa Curie | Monterrey | from MXN 15,250/mo (≈€640) | private | 30 nights (~1 month) | Permanent |
+| Covive Casa Curie | Monterrey | from MXN 15,250/mo | private | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

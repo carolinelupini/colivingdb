@@ -4,7 +4,7 @@
 
 - **Location:** Grimentz, Switzerland
 - **Type:** Permanent coliving
-- **Price:** from CHF 2,196/mo (≈€2,196)
+- **Price:** from CHF 2,196/mo
 - **Price note:** from ~€2,196/mo private twin
 - **Room types:** private
 - **Dorm available:** No

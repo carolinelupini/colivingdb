@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Hubs Swiss Alps Lenk | Lenk | from CHF 633/mo (≈€675) | private, studio, apartment | 30 nights (~1 month) | Permanent |
+| Hubs Swiss Alps Lenk | Lenk | from CHF 633/mo | private, studio, apartment | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

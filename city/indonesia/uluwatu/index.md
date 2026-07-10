@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Cove Prana | Uluwatu | from IDR 9,900,000/mo (≈€479) | private | — | Permanent |
+| Cove Prana | Uluwatu | from IDR 9,900,000/mo | private | — | Permanent |
 | Coworksurf Uluwatu | Uluwatu | On request | private | — | Permanent |
 
 ## Price distribution

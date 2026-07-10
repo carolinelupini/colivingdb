@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Lava Coliving & Coworking | Ribeira Grande, São Miguel | from €750/mo | private, shared | 7 nights (~1 week) | Permanent |
+| Lava Coliving & Coworking | Ribeira Grande, São Miguel | from €25/night | private, shared | 7 nights (~1 week) | Permanent |
 | Lemon Bros Coliving | Ribeira Grande, São Miguel | On request | private | 14 nights (~2 weeks) | Permanent |
 
 ## Price distribution

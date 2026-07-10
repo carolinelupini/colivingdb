@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Novovento | Ginetes, São Miguel, Azores | from €660/mo | private | 7 nights (~1 week) | Permanent |
+| Novovento | Ginetes, São Miguel, Azores | from €300/mo | private | 7 nights (~1 week) | Permanent |
 
 ## Price distribution
 

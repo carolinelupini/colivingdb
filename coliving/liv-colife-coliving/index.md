@@ -4,7 +4,7 @@
 
 - **Location:** Porto, Portugal
 - **Type:** Permanent coliving
-- **Price:** from €620/mo
+- **Price:** from €660/mo
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

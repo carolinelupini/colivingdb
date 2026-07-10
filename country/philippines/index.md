@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Communal Coliving | Santa Fe, Siargao | from PHP 35,000/mo (≈€525) | dorm, shared, private | 6 nights | Permanent |
+| Communal Coliving | Santa Fe, Siargao | from PHP 35,000/mo | dorm, shared, private | 6 nights | Permanent |
 | El Nido Home II | El Nido | from €1,641/mo | private | 30 nights (~1 month) | Permanent |
 | Darocotan Home | El Nido | from €2,280/mo | private, shared | 30 nights (~1 month) | Permanent |
 | Coworksurf Siargao (Lexias) | Siargao | On request | private, dorm | — | Permanent |

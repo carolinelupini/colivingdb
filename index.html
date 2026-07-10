@@ -147,6 +147,8 @@
   .seg button.on{background:var(--accent); color:#fff; font-weight:600;}
   .seg button:not(.on):hover{background:var(--accent-soft); color:var(--accent);}
   .onreq small{font-weight:400; opacity:.75;}
+  /* a rate quoted for a DIFFERENT stay length than the one selected — muted so it reads as a fallback */
+  .r-price .from.alt{color:var(--muted);}
   .seolinks{max-width:var(--wrap); margin:26px auto 0; padding:0 22px; font-size:.8rem; line-height:2;}
   .seolinks a{color:var(--muted); text-decoration:none; margin-right:14px; white-space:nowrap;}
   .seolinks a:hover{color:var(--accent); text-decoration:underline;}
@@ -597,8 +599,16 @@ function priceCell(x){
   const suffix = UNITS[state.unit].suffix;
   const ur = unitRates(x);
   if(!ur){
-    const has = Object.keys(x.rates||{}).filter(u=>u!==state.unit);
-    if(has.length) return `<div class="onreq">No ${UNITS[state.unit].label}ly rate<small> · ${has.map(u=>UNITS[u].label+"ly").join(" / ")} only</small></div>`;
+    // No rate for the chosen stay length. Show the cheapest rate they DO publish, labelled with
+    // its real unit — still never a derived figure, just an honestly-labelled different one.
+    const alt = ["night","week","month"].filter(u=>u!==state.unit && (x.rates||{})[u]);
+    if(alt.length){
+      const u = alt[0];
+      const amt = x.rates[u].from ?? Math.min(...Object.values(x.rates[u]));
+      const src = rateCurOf(x), target = state.currency || src;
+      const v = fromEur(toEur(amt, src), target);
+      if(v!=null) return `<div class="from alt"><small>from </small>${fmtMoney(Math.round(v),target)}<small>${UNITS[u].suffix}</small></div>`;
+    }
     return `<div class="onreq">Price on request</div>`;
   }
   if(state.room){

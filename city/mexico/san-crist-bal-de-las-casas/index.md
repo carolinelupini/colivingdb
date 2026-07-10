@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| co.404 Coliving San Cristóbal | San Cristóbal de las Casas | from $396/mo (≈€368) | private, dorm | — | Permanent |
+| co.404 Coliving San Cristóbal | San Cristóbal de las Casas | from $396/mo | private, dorm | — | Permanent |
 
 ## Price distribution
 

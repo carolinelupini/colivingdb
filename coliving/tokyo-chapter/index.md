@@ -4,7 +4,7 @@
 
 - **Location:** Tokyo, Japan
 - **Type:** Permanent coliving
-- **Price:** On request
+- **Price:** from ¥100,000/mo
 - **Price note:** not published; contact info@ninetytwo13.com
 - **Room types:** private
 - **Dorm available:** No

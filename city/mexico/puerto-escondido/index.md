@@ -6,9 +6,9 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Nomadico Coliving Puerto Escondido | Puerto Escondido | from $749/mo (≈€690) | private | 7 nights (~1 week) | Permanent |
+| Nomadico Coliving Puerto Escondido | Puerto Escondido | from $749/mo | private | 7 nights (~1 week) | Permanent |
 | Mi Casa Coliving | Puerto Escondido | from €720/mo | private | 7 nights (~1 week) | Permanent |
-| WiFi Tribe — Puerto Escondido | Puerto Escondido | from $1,290/mo (≈€1,129) | — | — | Pop-up |
+| WiFi Tribe — Puerto Escondido | Puerto Escondido | from $1,290/mo | — | — | Pop-up |
 
 ## Price distribution
 

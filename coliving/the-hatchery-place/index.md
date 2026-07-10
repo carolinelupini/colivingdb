@@ -4,7 +4,7 @@
 
 - **Location:** Subang Jaya (Kuala Lumpur area), Malaysia
 - **Type:** Permanent coliving
-- **Price:** from €270/mo
+- **Price:** from €240/mo
 - **Price note:** private rooms from ~EUR 270/month (EUR 240 long-stay)
 - **Room types:** private
 - **Dorm available:** No

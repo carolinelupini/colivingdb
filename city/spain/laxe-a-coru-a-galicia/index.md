@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| iSlow Coliving | Laxe, A Coruña, Galicia | from €960/mo | private, shared | 7 nights (~1 week) | Permanent |
+| iSlow Coliving | Laxe, A Coruña, Galicia | from €1,380/mo | private, shared | 7 nights (~1 week) | Permanent |
 
 ## Price distribution
 

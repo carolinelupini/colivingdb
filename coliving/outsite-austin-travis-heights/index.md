@@ -4,7 +4,7 @@
 
 - **Location:** Austin, United States
 - **Type:** Permanent coliving
-- **Price:** On request
+- **Price:** from $95/night
 - **Price note:** add dates for price
 - **Room types:** private, shared
 - **Dorm available:** No

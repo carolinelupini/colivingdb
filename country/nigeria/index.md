@@ -6,6 +6,6 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Seven Space: Coliving | Lagos | On request | private | 30 nights (~1 month) | Permanent |
+| Seven Space: Coliving | Lagos | from $30/night | private | 30 nights (~1 month) | Permanent |
 
 Source: https://colivingdb.com/country/nigeria/

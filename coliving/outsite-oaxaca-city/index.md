@@ -4,7 +4,7 @@
 
 - **Location:** Oaxaca, Mexico
 - **Type:** Permanent coliving
-- **Price:** On request
+- **Price:** from $60/night
 - **Price note:** monthly rate via dates
 - **Room types:** private
 - **Dorm available:** No

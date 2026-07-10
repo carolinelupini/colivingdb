@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| VivendaFelicidade Regenerative Farm & Surf Coliving | Sintra (Tojeira) | from €1,118/mo | private | 7 nights (~1 week) | Permanent |
+| VivendaFelicidade Regenerative Farm & Surf Coliving | Sintra (Tojeira) | from €1,040/mo | private | 7 nights (~1 week) | Permanent |
 
 ## Price distribution
 

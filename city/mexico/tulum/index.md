@@ -10,7 +10,7 @@
 | The Polar II | Tulum | from €499/mo | private | 30 nights (~1 month) | Permanent |
 | The Sur II | Tulum | from €844/mo | private | 30 nights (~1 month) | Permanent |
 | Casa Iris Coliving | Tulum | On request | private, shared | — | Permanent |
-| Humant Coliving - Cancún, México | Tulum | On request | private, shared | — | Permanent |
+| Humant Coliving - Cancún, México | Tulum | from $29/night | private, shared | — | Permanent |
 
 ## Price distribution
 

@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Arctic Coworking Lodge | Bostad, Lofoten | from £980/mo (≈€799) | private, shared | — | Permanent |
+| Arctic Coworking Lodge | Bostad, Lofoten | from £980/mo | private, shared | — | Permanent |
 
 ## Price distribution
 

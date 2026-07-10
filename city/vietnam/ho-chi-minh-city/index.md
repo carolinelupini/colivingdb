@@ -6,6 +6,6 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Neighbours Co-living by Kolab | Ho Chi Minh City | On request | private | 30 nights (~1 month) | Permanent |
+| Neighbours Co-living by Kolab | Ho Chi Minh City | from $600/mo | private | 30 nights (~1 month) | Permanent |
 
 Source: https://colivingdb.com/city/vietnam/ho-chi-minh-city/

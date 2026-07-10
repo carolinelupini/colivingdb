@@ -4,7 +4,7 @@
 
 - **Location:** Kuala Lumpur, Malaysia
 - **Type:** Permanent coliving
-- **Price:** On request
+- **Price:** from MYR 2,700/mo
 - **Room types:** —
 - **Dorm available:** No
 - **Minimum stay:** —

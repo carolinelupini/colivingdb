@@ -4,7 +4,7 @@
 
 - **Location:** Cluj-Napoca, Romania
 - **Type:** Permanent coliving
-- **Price:** On request
+- **Price:** from €100/wk
 - **Room types:** —
 - **Dorm available:** No
 - **Minimum stay:** —

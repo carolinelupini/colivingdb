@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| WiFi Tribe — Bocas del Toro | Bocas del Toro | from $1,390/mo (≈€1,216) | — | — | Pop-up |
+| WiFi Tribe — Bocas del Toro | Bocas del Toro | from $1,390/mo | — | — | Pop-up |
 | CocoVivo | Bocas del Toro | from $1,650/mo | private | — | Permanent |
 
 ## Price distribution

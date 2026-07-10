@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| KoHub | Ko Lanta | from THB 49,500/mo (≈€460) | private | — | Permanent |
+| KoHub | Ko Lanta | from THB 49,500/mo | private | — | Permanent |
 
 ## Price distribution
 

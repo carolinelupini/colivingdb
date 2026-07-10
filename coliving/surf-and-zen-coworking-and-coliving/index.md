@@ -4,7 +4,7 @@
 
 - **Location:** Galle, Sri Lanka
 - **Type:** Permanent coliving
-- **Price:** On request
+- **Price:** from $25/night
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** —

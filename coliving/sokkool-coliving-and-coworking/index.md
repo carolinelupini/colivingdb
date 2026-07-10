@@ -4,7 +4,7 @@
 
 - **Location:** Canggu (Berawa), Bali, Indonesia
 - **Type:** Permanent coliving
-- **Price:** from IDR 616,000/mo (≈€1,300)
+- **Price:** from IDR 616,000/mo
 - **Price note:** est. from IDR 880k/night private studio (~€48) with long-stay discounts
 - **Room types:** private
 - **Dorm available:** No

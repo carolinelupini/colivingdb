@@ -6,17 +6,17 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Matra Bali | Canggu | from IDR 7,500,000/mo (≈€363) | private | — | Permanent |
-| Cove Prana | Uluwatu | from IDR 9,900,000/mo (≈€479) | private | — | Permanent |
-| The Sunset III | Kuta | from IDR 8,700,000/mo (≈€519) | private | 30 nights (~1 month) | Permanent |
-| The Sunset II | Kuta | from IDR 8,700,000/mo (≈€532) | private | 30 nights (~1 month) | Permanent |
-| Bali Bustle Coliving | Legian, Bali | from IDR 8,700,000/mo (≈€580) | private | 3 nights | Permanent |
-| Outpost Ubud Penestanan | Ubud, Bali | from $849/mo (≈€720) | private, shared | 14 nights (~2 weeks) | Permanent |
-| Outpost | Canggu, Bali | from $1,095/mo (≈€780) | private, shared | — | Permanent |
-| Outpost Ubud Nyuh Kuning | Ubud, Bali | from $849/mo (≈€780) | private, shared | 14 nights (~2 weeks) | Permanent |
-| The Ubud Residence (Raya Nyuh Kuning) | Ubud | from $949/mo (≈€830) | private | 30 nights (~1 month) | Permanent |
-| Tropical Nomad Coliving | Canggu | from $950/mo (≈€831) | private | — | Permanent |
-| Sokkool Coliving & Coworking | Canggu (Berawa), Bali | from IDR 616,000/mo (≈€1,300) | private | 7 nights (~1 week) | Permanent |
+| Matra Bali | Canggu | from IDR 7,500,000/mo | private | — | Permanent |
+| Cove Prana | Uluwatu | from IDR 9,900,000/mo | private | — | Permanent |
+| The Sunset III | Kuta | from IDR 8,700,000/mo | private | 30 nights (~1 month) | Permanent |
+| The Sunset II | Kuta | from IDR 8,700,000/mo | private | 30 nights (~1 month) | Permanent |
+| Bali Bustle Coliving | Legian, Bali | from IDR 8,700,000/mo | private | 3 nights | Permanent |
+| Outpost Ubud Penestanan | Ubud, Bali | from $849/mo | private, shared | 14 nights (~2 weeks) | Permanent |
+| Outpost | Canggu, Bali | from $1,095/mo | private, shared | — | Permanent |
+| Outpost Ubud Nyuh Kuning | Ubud, Bali | from $849/mo | private, shared | 14 nights (~2 weeks) | Permanent |
+| The Ubud Residence (Raya Nyuh Kuning) | Ubud | from $949/mo | private | 30 nights (~1 month) | Permanent |
+| Tropical Nomad Coliving | Canggu | from $950/mo | private | — | Permanent |
+| Sokkool Coliving & Coworking | Canggu (Berawa), Bali | from IDR 616,000/mo | private | 7 nights (~1 week) | Permanent |
 | Berawa Collective | Berawa (Canggu, Bali) | from €1,334/mo | private | 30 nights (~1 month) | Permanent |
 | Boundless Life — Canggu, Bali | Canggu, Bali | from €1,500/mo | — | — | Pop-up |
 | Coworksurf Berawa (Canggu) | Canggu | On request | private | — | Permanent |

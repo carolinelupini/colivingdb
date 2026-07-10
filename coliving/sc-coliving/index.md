@@ -17,9 +17,10 @@
 
 | Stay length | From |
 |---|---|
+| Per night | €14 |
 | Per month | €420 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+No weekly rate is published by the operator. Rates are never derived from another duration.
 
 ## About
 

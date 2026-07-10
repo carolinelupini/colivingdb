@@ -4,7 +4,7 @@
 
 - **Location:** Pousa, Galicia, Spain
 - **Type:** Permanent coliving
-- **Price:** from €660/mo
+- **Price:** from €475/mo
 - **Price note:** from €22/night (€660/mo discounted)
 - **Room types:** private
 - **Dorm available:** No

@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Sokkool Coliving & Coworking | Canggu (Berawa), Bali | from IDR 616,000/mo (≈€1,300) | private | 7 nights (~1 week) | Permanent |
+| Sokkool Coliving & Coworking | Canggu (Berawa), Bali | from IDR 616,000/mo | private | 7 nights (~1 week) | Permanent |
 
 ## Price distribution
 

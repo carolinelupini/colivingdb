@@ -6,11 +6,11 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| CDA Coliving | Sydney | from A$780/mo (≈€473) | private, shared | 90 nights (~3 months) | Permanent |
-| Bungalow Co | Sydney | from A$866/mo (≈€526) | private | — | Permanent |
-| Living High | Sydney | from A$1,472/mo (≈€893) | private, shared | — | Permanent |
-| NESTL | Sydney | from A$2,772/mo (≈€1,682) | private, shared | — | Permanent |
-| The Switch | Sydney | from A$3,503/mo (≈€2,126) | private, shared | — | Permanent |
+| CDA Coliving | Sydney | from A$780/mo | private, shared | 90 nights (~3 months) | Permanent |
+| Bungalow Co | Sydney | from A$866/mo | private | — | Permanent |
+| Living High | Sydney | from A$1,472/mo | private, shared | — | Permanent |
+| NESTL | Sydney | from A$2,772/mo | private, shared | — | Permanent |
+| The Switch | Sydney | from A$3,503/mo | private, shared | — | Permanent |
 | UKO | Sydney | On request | private | — | Permanent |
 
 ## Price distribution

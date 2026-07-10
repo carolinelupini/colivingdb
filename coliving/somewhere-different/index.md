@@ -4,7 +4,7 @@
 
 - **Location:** Blackpool, United Kingdom
 - **Type:** Permanent coliving
-- **Price:** from £300/mo
+- **Price:** from £400/mo
 - **Price note:** rates on booking page; ~Chiang Mai-comparable
 - **Room types:** private
 - **Dorm available:** No
@@ -17,9 +17,10 @@
 
 | Stay length | Private |
 |---|---|
-| Per month | £300 |
+| Per week | £200 |
+| Per month | £400 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+No nightly rate is published by the operator. Rates are never derived from another duration.
 
 ## About
 

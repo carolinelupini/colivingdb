@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| WiFi Tribe — Antigua | Antigua | from $1,090/mo (≈€954) | — | — | Pop-up |
+| WiFi Tribe — Antigua | Antigua | from $1,090/mo | — | — | Pop-up |
 
 ## Price distribution
 

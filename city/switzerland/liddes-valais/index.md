@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Swiss Alps Coliving (by Frilingue) | Liddes (Valais) | from CHF 700/mo (≈€675) | private, shared, dorm | 7 nights (~1 week) | Permanent |
+| Swiss Alps Coliving (by Frilingue) | Liddes (Valais) | from CHF 700/mo | private, shared, dorm | 7 nights (~1 week) | Permanent |
 
 ## Price distribution
 

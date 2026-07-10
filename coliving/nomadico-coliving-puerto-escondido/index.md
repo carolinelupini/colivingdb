@@ -4,7 +4,7 @@
 
 - **Location:** Puerto Escondido, Mexico
 - **Type:** Permanent coliving
-- **Price:** from $749/mo (≈€690)
+- **Price:** from $749/mo
 - **Price note:** from $749/mo (operator site, ~€690)
 - **Room types:** private
 - **Dorm available:** No

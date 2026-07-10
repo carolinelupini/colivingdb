@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| NomadGao | Goa | from INR 35,000/mo (≈€390) | private | 7 nights (~1 week) | Permanent |
+| NomadGao | Goa | from INR 35,000/mo | private | 7 nights (~1 week) | Permanent |
 
 ## Price distribution
 

@@ -4,7 +4,7 @@
 
 - **Location:** Nicosia, Cyprus
 - **Type:** Permanent coliving
-- **Price:** from €1,260/mo
+- **Price:** from €1,800/mo
 - **Price note:** from €1,260/month with Mapmelon discount (list €1,800/month, €54-60/night)
 - **Room types:** private, shared
 - **Dorm available:** No

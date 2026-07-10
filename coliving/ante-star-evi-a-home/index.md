@@ -5,7 +5,7 @@
 - **Location:** Pakoštane, Croatia
 - **Type:** Pop-up / dated edition
 - **Dates:** winter season (guest house converted to coliving in winter; exact 2026 dates not published)
-- **Price:** from BGN 1,272/mo (≈€650)
+- **Price:** from BGN 1,272/mo
 - **Price note:** bills included, weekly housekeeping, breakfast service
 - **Room types:** private
 - **Dorm available:** No

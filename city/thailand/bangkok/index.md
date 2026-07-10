@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| The Yard Hostel | Bangkok | from $300/mo (≈€262) | private, dorm | — | Permanent |
+| The Yard Hostel | Bangkok | from $300/mo | private, dorm | — | Permanent |
 
 ## Price distribution
 

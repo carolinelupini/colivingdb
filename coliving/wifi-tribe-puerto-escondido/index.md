@@ -5,7 +5,7 @@
 - **Location:** Puerto Escondido, Mexico
 - **Type:** Pop-up / dated edition
 - **Dates:** Nov 20 - Dec 18, 2026
-- **Price:** from $1,290/mo (≈€1,129)
+- **Price:** from $1,290/mo
 - **Price note:** coliving accommodation (shared room, Veteran tier) for the month-long chapter
 - **Room types:** —
 - **Dorm available:** No

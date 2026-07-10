@@ -6,6 +6,6 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| LivingAnywhere Commons田川 | Fukuoka | On request | dorm, private | 1 night | Permanent |
+| LivingAnywhere Commons田川 | Fukuoka | from ¥6,600/night | dorm, private | 1 night | Permanent |
 
 Source: https://colivingdb.com/city/japan/fukuoka/

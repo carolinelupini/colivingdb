@@ -4,7 +4,7 @@
 
 - **Location:** Oaxaca, Mexico
 - **Type:** Permanent coliving
-- **Price:** from $570/mo (≈€525)
+- **Price:** from $570/mo
 - **Price note:** from $570/mo (~€525 est.); 50% off monthly promo
 - **Room types:** private
 - **Dorm available:** No

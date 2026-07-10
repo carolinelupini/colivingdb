@@ -4,7 +4,7 @@
 
 - **Location:** Multiple
 - **Type:** Permanent coliving
-- **Price:** from $955/mo (≈€609)
+- **Price:** from $955/mo
 - **Price note:** from ~$630/month (Manizales); most €609-980/mo
 - **Room types:** private, shared
 - **Dorm available:** No

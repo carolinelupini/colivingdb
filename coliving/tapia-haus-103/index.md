@@ -4,7 +4,7 @@
 
 - **Location:** San Juan, Puerto Rico
 - **Type:** Permanent coliving
-- **Price:** from $1,280/mo (≈€2,184)
+- **Price:** from $1,280/mo
 - **Price note:** from BGN 4,289/mo studio, breakfast included
 - **Room types:** private
 - **Dorm available:** No

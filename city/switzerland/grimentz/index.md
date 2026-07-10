@@ -6,8 +6,8 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Swiss Escape | Grimentz | from CHF 990/mo (≈€953) | private, shared | 7 nights (~1 week) | Permanent |
-| Batteuse Home | Grimentz | from CHF 2,196/mo (≈€2,196) | private | 30 nights (~1 month) | Permanent |
+| Swiss Escape | Grimentz | from CHF 990/mo | private, shared | 7 nights (~1 week) | Permanent |
+| Batteuse Home | Grimentz | from CHF 2,196/mo | private | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

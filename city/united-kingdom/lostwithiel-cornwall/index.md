@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Froomies | Lostwithiel, Cornwall | from £1,100/mo (≈€1,288) | private | 14 nights (~2 weeks) | Permanent |
+| Froomies | Lostwithiel, Cornwall | from £1,100/mo | private | 14 nights (~2 weeks) | Permanent |
 
 ## Price distribution
 

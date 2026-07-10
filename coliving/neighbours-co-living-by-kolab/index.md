@@ -4,7 +4,7 @@
 
 - **Location:** Ho Chi Minh City, Vietnam
 - **Type:** Permanent coliving
-- **Price:** On request
+- **Price:** from $600/mo
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)

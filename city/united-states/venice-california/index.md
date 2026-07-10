@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Haven Coliving | Venice, California | from $995/mo (≈€915) | shared | 30 nights (~1 month) | Permanent |
+| Haven Coliving | Venice, California | from $995/mo | shared | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

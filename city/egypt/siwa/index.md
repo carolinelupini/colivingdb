@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Shali Home | Siwa | from €167/mo | private, shared | 30 nights (~1 month) | Permanent |
+| Shali Home | Siwa | from BGN 325/mo | private, shared | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

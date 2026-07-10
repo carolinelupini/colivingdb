@@ -7,7 +7,7 @@
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
 | Macaw 25 Coliving | Las Palmas de Gran Canaria | from €754/mo | private | — | Permanent |
-| Repeople Coliving | Las Palmas de Gran Canaria | from €880/mo | private | — | Permanent |
+| Repeople Coliving | Las Palmas de Gran Canaria | from €1,677/mo | private | — | Permanent |
 | Nomadico Gran Canaria | Las Palmas de Gran Canaria | from €980/mo | private, shared | — | Permanent |
 | ReStation | Las Palmas de Gran Canaria | On request | — | — | Permanent |
 | Repeople Casa Jardin Coliving | Las Palmas de Gran Canaria | from €1,677/mo | private | — | Permanent |

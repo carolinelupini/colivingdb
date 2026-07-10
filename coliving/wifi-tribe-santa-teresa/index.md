@@ -5,7 +5,7 @@
 - **Location:** Santa Teresa, Costa Rica
 - **Type:** Pop-up / dated edition
 - **Dates:** Oct 23 - Nov 20, 2026
-- **Price:** from $1,390/mo (≈€1,216)
+- **Price:** from $1,390/mo
 - **Price note:** coliving accommodation (shared room, Veteran tier) for the month-long chapter
 - **Room types:** —
 - **Dorm available:** No

@@ -4,7 +4,7 @@
 
 - **Location:** Hoi An, Vietnam
 - **Type:** Permanent coliving
-- **Price:** from VND 16,000,000/mo (≈€640)
+- **Price:** from VND 16,000,000/mo
 - **Price note:** from 16M VND/month private, utilities incl.
 - **Room types:** private
 - **Dorm available:** No

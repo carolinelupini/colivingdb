@@ -4,7 +4,7 @@
 
 - **Location:** Fukuoka, Japan
 - **Type:** Permanent coliving
-- **Price:** On request
+- **Price:** from ¥6,600/night
 - **Room types:** dorm, private
 - **Dorm available:** Yes
 - **Minimum stay:** 1 night

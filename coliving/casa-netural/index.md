@@ -4,7 +4,7 @@
 
 - **Location:** Matera, Italy
 - **Type:** Permanent coliving
-- **Price:** On request
+- **Price:** from €950/mo
 - **Price note:** prices on request
 - **Room types:** private
 - **Dorm available:** No
@@ -12,6 +12,14 @@
 - **Region:** Europe
 - **Tags:** city, coworking, community, eco
 - **Website:** https://www.benetural.com/en/
+
+## Rates
+
+| Stay length | Private | Shared | Dorm |
+|---|---|---|---|
+| Per night | — | — | €35 |
+| Per week | €360 | €540 | — |
+| Per month | €950 | €1,425 | — |
 
 ## About
 

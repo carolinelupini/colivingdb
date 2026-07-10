@@ -4,7 +4,7 @@
 
 - **Location:** Roseto Valfortore, Italy
 - **Type:** Permanent coliving
-- **Price:** from €630/mo
+- **Price:** from €1,050/mo
 - **Price note:** €630/month (discounted from €1050); from €32/night
 - **Room types:** private, dorm
 - **Dorm available:** Yes
@@ -15,11 +15,12 @@
 
 ## Rates
 
-| Stay length | Private |
+| Stay length | From |
 |---|---|
-| Per month | €630 |
+| Per night | €35 |
+| Per month | €1,050 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+No weekly rate is published by the operator. Rates are never derived from another duration.
 
 ## About
 

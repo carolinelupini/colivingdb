@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Roma Residence (Serenity Lodge) | Sharm El-Sheikh | from €526/mo | private, dorm | 30 nights (~1 month) | Permanent |
+| Roma Residence (Serenity Lodge) | Sharm El-Sheikh | from BGN 1,027/mo | private, dorm | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

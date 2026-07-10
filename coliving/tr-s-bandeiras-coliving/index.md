@@ -4,7 +4,7 @@
 
 - **Location:** Carvoeira (near Ericeira), Portugal
 - **Type:** Permanent coliving
-- **Price:** from €1,075/mo
+- **Price:** from €800/mo
 - **Price note:** €1,350/month private ensuite (€64/night)
 - **Room types:** private
 - **Dorm available:** No

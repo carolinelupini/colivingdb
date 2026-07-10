@@ -4,7 +4,7 @@
 
 - **Location:** Isla Bastimentos, Panama
 - **Type:** Permanent coliving
-- **Price:** from $1,770/mo (≈€595)
+- **Price:** from $1,770/mo
 - **Price note:** from BGN 1,261/mo shared dorm; privates from ~BGN 5,919/mo
 - **Room types:** shared, private, dorm
 - **Dorm available:** Yes

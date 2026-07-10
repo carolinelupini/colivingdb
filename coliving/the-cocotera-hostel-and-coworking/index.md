@@ -4,7 +4,7 @@
 
 - **Location:** Tarifa, Spain
 - **Type:** Permanent coliving
-- **Price:** On request
+- **Price:** from €15/night
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** —

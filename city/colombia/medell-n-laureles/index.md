@@ -7,7 +7,7 @@
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
 | Balu Coliving | Medellín (Laureles) | from €650/mo | private | — | Permanent |
-| Pranik Living | Medellín (Laureles) | from $1,230/mo (≈€1,131) | private | 3 nights | Permanent |
+| Pranik Living | Medellín (Laureles) | from $1,230/mo | private | 3 nights | Permanent |
 
 ## Price distribution
 

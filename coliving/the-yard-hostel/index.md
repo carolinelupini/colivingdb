@@ -4,7 +4,7 @@
 
 - **Location:** Bangkok, Thailand
 - **Type:** Permanent coliving
-- **Price:** from $300/mo (≈€262)
+- **Price:** from $300/mo
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** —

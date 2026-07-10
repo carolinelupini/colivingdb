@@ -4,7 +4,7 @@
 
 - **Location:** Los Angeles, United States
 - **Type:** Permanent coliving
-- **Price:** On request
+- **Price:** from $95/night
 - **Price note:** pricing via date selection, members only
 - **Room types:** private
 - **Dorm available:** No

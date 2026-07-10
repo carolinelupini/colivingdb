@@ -4,7 +4,7 @@
 
 - **Location:** Sevilla, Spain
 - **Type:** Permanent coliving
-- **Price:** from €600/mo
+- **Price:** from €550/mo
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)

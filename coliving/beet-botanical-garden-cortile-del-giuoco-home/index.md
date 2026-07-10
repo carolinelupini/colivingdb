@@ -4,7 +4,7 @@
 
 - **Location:** Palermo, Italy
 - **Type:** Permanent coliving
-- **Price:** from €850/mo
+- **Price:** from €1,000/mo
 - **Price note:** from BGN 1,956/mo (~€1,000) private room
 - **Room types:** private
 - **Dorm available:** No
@@ -12,6 +12,14 @@
 - **Region:** Europe
 - **Tags:** city, community, coworking
 - **Website:** https://coliving.com/spaces/knofwfmw
+
+## Rates
+
+| Stay length | Private | Shared |
+|---|---|---|
+| Per month | €1,350 | €1,000 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
 
 ## About
 

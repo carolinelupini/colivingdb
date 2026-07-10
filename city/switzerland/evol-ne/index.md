@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Alpiness Coliving | Evolène | from CHF 1,200/mo (≈€990) | private, shared | 15 nights | Permanent |
+| Alpiness Coliving | Evolène | from CHF 1,200/mo | private, shared | 15 nights | Permanent |
 
 ## Price distribution
 

@@ -6,22 +6,22 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| beacHub | Koh Phangan | from THB 6,500/mo (≈€170) | shared | — | Permanent |
-| Hub53 Coworking and Coliving Space | Chiang Mai (Nimman) | from THB 9,000/mo (≈€178) | private | — | Permanent |
-| Hub53 Coworking & Coliving | Chiang Mai | from €242/mo | private | — | Permanent |
-| The Yard Hostel | Bangkok | from $300/mo (≈€262) | private, dorm | — | Permanent |
-| Taeparak Home | Chiang Mai | from THB 12,000/mo (≈€283) | private, dorm | 30 nights (~1 month) | Permanent |
+| beacHub | Koh Phangan | from THB 6,500/mo | shared | — | Permanent |
+| Hub53 Coworking and Coliving Space | Chiang Mai (Nimman) | from THB 9,000/mo | private | — | Permanent |
+| Hub53 Coworking & Coliving | Chiang Mai | from THB 9,000/mo | private | — | Permanent |
+| The Yard Hostel | Bangkok | from $300/mo | private, dorm | — | Permanent |
+| Taeparak Home | Chiang Mai | from THB 12,000/mo | private, dorm | 30 nights (~1 month) | Permanent |
 | Socialer Coliving & Coworking Space | Chiang Mai | from €300/mo | dorm | 1 night | Permanent |
-| The Capsule by UnionSPACE | bangkok | from THB 13,500/mo (≈€353) | private | 1 night | Permanent |
-| KoHub | Ko Lanta | from THB 49,500/mo (≈€460) | private | — | Permanent |
-| HOMA Phuket Town | Phuket | from THB 18,000/mo (≈€471) | private | — | Permanent |
+| The Capsule by UnionSPACE | bangkok | from THB 13,500/mo | private | 1 night | Permanent |
+| KoHub | Ko Lanta | from THB 49,500/mo | private | — | Permanent |
+| HOMA Phuket Town | Phuket | from THB 18,000/mo | private | — | Permanent |
 | Alt Coliving | Chiang Mai | from €500/mo | private | 30 nights (~1 month) | Permanent |
 | Alt Chiang Mai | Chiang Mai | from €720/mo | private | 6 nights | Permanent |
-| THE SOCIAL CLUB | Chiang Mai | from $800/mo (≈€740) | private | — | Permanent |
-| The Chiang Mai-Lamphun | Chiang Mai | from €775/mo | private | 30 nights (~1 month) | Permanent |
+| THE SOCIAL CLUB | Chiang Mai | from $800/mo | private | — | Permanent |
+| The Chiang Mai-Lamphun | Chiang Mai | from €500/mo | private | 30 nights (~1 month) | Permanent |
 | Alt_PingRiver | Chiang Mai | from €810/mo | private | 29 nights | Permanent |
 | The Arak | Chiang Mai | from €811/mo | private | 30 nights (~1 month) | Permanent |
-| Digital Nomad Adventures | Koh Phangan | from $695/mo (≈€2,120) | private | 7 nights (~1 week) | Permanent |
+| Digital Nomad Adventures | Koh Phangan | from $695/mo | private | 7 nights (~1 week) | Permanent |
 | 4Seas Nimman Coliving Coworking Space | Chiang Mai | On request | — | — | Permanent |
 | Chiangmai Inn Guesthouse | Chiang Mai | On request | private | — | Permanent |
 | LITA Bangkok | bangkok | On request | private, dorm | — | Permanent |

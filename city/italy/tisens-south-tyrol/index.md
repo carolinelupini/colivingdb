@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| franz&mathilde Coliving | Tisens, South Tyrol | from €1,500/mo | private | 14 nights (~2 weeks) | Permanent |
+| franz&mathilde Coliving | Tisens, South Tyrol | from €1,620/mo | private | 14 nights (~2 weeks) | Permanent |
 
 ## Price distribution
 

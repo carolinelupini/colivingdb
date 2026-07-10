@@ -4,7 +4,7 @@
 
 - **Location:** Maroni, Cyprus
 - **Type:** Permanent coliving
-- **Price:** from €1,160/mo
+- **Price:** from €1,100/mo
 - **Price note:** from BGN 2,152/mo studio
 - **Room types:** private
 - **Dorm available:** No

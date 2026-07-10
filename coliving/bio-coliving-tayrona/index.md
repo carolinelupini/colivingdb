@@ -4,7 +4,7 @@
 
 - **Location:** Santa Marta (near Tayrona Park), Colombia
 - **Type:** Permanent coliving
-- **Price:** from COP 60,000/mo (≈€150)
+- **Price:** from COP 60,000/mo
 - **Price note:** from €150/month per Mapmelon listing
 - **Room types:** private
 - **Dorm available:** No

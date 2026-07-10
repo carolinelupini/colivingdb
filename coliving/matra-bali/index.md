@@ -4,7 +4,7 @@
 
 - **Location:** Canggu, Indonesia
 - **Type:** Permanent coliving
-- **Price:** from IDR 7,500,000/mo (≈€363)
+- **Price:** from IDR 7,500,000/mo
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

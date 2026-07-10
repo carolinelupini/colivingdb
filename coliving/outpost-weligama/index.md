@@ -4,7 +4,7 @@
 
 - **Location:** Weligama, Sri Lanka
 - **Type:** Permanent coliving
-- **Price:** from $849/mo (≈€780)
+- **Price:** from $849/mo
 - **Price note:** Colive+ from $849/mo (~€780 est.)
 - **Room types:** private, shared
 - **Dorm available:** No

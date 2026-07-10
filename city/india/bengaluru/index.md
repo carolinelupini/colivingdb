@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Draper Startup House Bangalore | Bengaluru | from €225/mo | private, dorm | — | Permanent |
+| Draper Startup House Bangalore | Bengaluru | from €210/mo | private, dorm | — | Permanent |
 
 ## Price distribution
 

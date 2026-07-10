@@ -4,7 +4,7 @@
 
 - **Location:** Las Galletas, Spain
 - **Type:** Permanent coliving
-- **Price:** from €71/mo
+- **Price:** from €936/mo
 - **Price note:** from BGN 1,467/mo for bed in 6-bed shared room
 - **Room types:** private, shared
 - **Dorm available:** Yes

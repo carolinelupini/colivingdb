@@ -17,7 +17,7 @@
 | Soul Co-Living Vila Franca de Xira | Ericeira | On request | — | — | Permanent |
 | The Spacious Valley | Ericeira | On request | — | — | Permanent |
 | Villa dos Irmaos (Coworksurf) | Ericeira | On request | private, dorm | — | Permanent |
-| WOT Lodge Soul | Ericeira | On request | private, dorm | 30 nights (~1 month) | Permanent |
+| WOT Lodge Soul | Ericeira | from €451/wk | private, dorm | 30 nights (~1 month) | Permanent |
 | Wild Souls Coliving | Ericeira | On request | — | — | Permanent |
 
 ## Price distribution

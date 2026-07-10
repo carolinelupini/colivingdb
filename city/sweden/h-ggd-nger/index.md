@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Northliving | Häggdånger | from €870/mo | private | 6 nights | Permanent |
+| Northliving | Häggdånger | from €850/mo | private | 6 nights | Permanent |
 
 ## Price distribution
 

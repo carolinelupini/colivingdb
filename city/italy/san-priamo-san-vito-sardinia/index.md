@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| ecoVita | San Priamo, San Vito, Sardinia | from €1,020/mo | private | 3 nights | Permanent |
+| ecoVita | San Priamo, San Vito, Sardinia | from €1,140/mo | private | 3 nights | Permanent |
 
 ## Price distribution
 

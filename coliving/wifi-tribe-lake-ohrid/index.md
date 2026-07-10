@@ -5,7 +5,7 @@
 - **Location:** Lake Ohrid, North Macedonia
 - **Type:** Pop-up / dated edition
 - **Dates:** Aug 7 - Sep 4, 2026
-- **Price:** from $1,190/mo (≈€1,041)
+- **Price:** from $1,190/mo
 - **Price note:** coliving accommodation (shared room, Veteran tier) for the month-long chapter
 - **Room types:** —
 - **Dorm available:** No

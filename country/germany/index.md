@@ -7,10 +7,10 @@
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
 | Co-Living Co-Working Esslingen-Stuttgart | Stuttgart | from €645/mo | private | — | Permanent |
-| Coconat | Bad Belzig | from €810/mo | private, shared | — | Permanent |
+| Coconat | Bad Belzig | from €750/mo | private, shared | — | Permanent |
 | MOOM Coliving | Rendsburg | from €819/mo | private | 7 nights (~1 week) | Permanent |
 | Coconat | Bad Belzig (Klein Glien) | from €1,200/mo | private, shared | — | Permanent |
-| The Base Berlin One - Coliving | Hotel | Coworking | Gym | Café & Bar | Berlin | On request | private | 30 nights (~1 month) | Permanent |
+| The Base Berlin One - Coliving | Hotel | Coworking | Gym | Café & Bar | Berlin | from €36/night | private | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

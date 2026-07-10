@@ -4,7 +4,7 @@
 
 - **Location:** Multiple (Medellín; Oaxaca City; San Cristóbal), Multiple (Colombia, Mexico)
 - **Type:** Permanent coliving
-- **Price:** from $362/mo (≈€337)
+- **Price:** from $362/mo
 - **Price note:** from $362/mo private room (Medellín); Oaxaca from $570
 - **Room types:** private
 - **Dorm available:** No

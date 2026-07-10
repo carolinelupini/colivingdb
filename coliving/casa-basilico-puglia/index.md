@@ -15,9 +15,9 @@
 
 ## Rates
 
-| Stay length | From |
-|---|---|
-| Per month | €1,247 |
+| Stay length | Private | Shared |
+|---|---|---|
+| Per month | €1,247 | €1,547 |
 
 No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
 

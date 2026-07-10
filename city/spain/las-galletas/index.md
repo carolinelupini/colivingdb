@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| The Fernando Salazar Gonzalez | Las Galletas | from €71/mo | private, shared | 30 nights (~1 month) | Permanent |
+| The Fernando Salazar Gonzalez | Las Galletas | from €936/mo | private, shared | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

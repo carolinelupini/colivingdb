@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Escape (Greek Escape) | Gerani, Crete (near Rethymno) | from €840/mo | private, shared | 7 nights (~1 week) | Permanent |
+| Escape (Greek Escape) | Gerani, Crete (near Rethymno) | from €750/mo | private, shared | 7 nights (~1 week) | Permanent |
 
 ## Price distribution
 

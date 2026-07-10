@@ -4,7 +4,7 @@
 
 - **Location:** Monterrey, Mexico
 - **Type:** Permanent coliving
-- **Price:** from MXN 15,250/mo (≈€640)
+- **Price:** from MXN 15,250/mo
 - **Price note:** from ~13,000 MXN/month all-inclusive (Covive range 13-18k MXN); est.
 - **Room types:** private
 - **Dorm available:** No

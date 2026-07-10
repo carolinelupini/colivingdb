@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Boundless Life — Sintra | Sintra | from €2,100/mo | — | — | Pop-up |
+| Boundless Life — Sintra | Sintra | from €1,700/mo | — | — | Pop-up |
 
 ## Price distribution
 

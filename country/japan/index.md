@@ -7,14 +7,14 @@
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
 | The Kotohira (Kotohira Residence) | Kotohira | from €378/mo | private, shared, dorm | 30 nights (~1 month) | Permanent |
-| The Miyanosawa (Miyanosawa Home) | Sapporo | from ¥93,000/mo (≈€500) | private | 30 nights (~1 month) | Permanent |
-| Boundless Life Kamakura | Kamakura | from €3,000/mo | private | — | Permanent |
+| The Miyanosawa (Miyanosawa Home) | Sapporo | from ¥93,000/mo | private | 30 nights (~1 month) | Permanent |
+| Boundless Life Kamakura | Kamakura | from €2,600/mo | private | — | Permanent |
 | COGO TENNOJI | Osaka | On request | private, shared | — | Permanent |
 | Kotori Coworking & Hostel Kotohira | Kotohira | On request | private, dorm | 5 nights | Permanent |
-| LivingAnywhere Commons田川 | Fukuoka | On request | dorm, private | 1 night | Permanent |
+| LivingAnywhere Commons田川 | Fukuoka | from ¥6,600/night | dorm, private | 1 night | Permanent |
 | Noma Collective — Osaka | Osaka | from $3,490 per event | — | — | Pop-up |
 | The Pier | Goto Nagasaki | Goto (Fukue), Nagasaki | On request | private | — | Permanent |
-| Tokyo Chapter | Tokyo | On request | private | — | Permanent |
+| Tokyo Chapter | Tokyo | from ¥100,000/mo | private | — | Permanent |
 
 ## Price distribution
 

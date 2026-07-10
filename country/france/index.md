@@ -7,9 +7,9 @@
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
 | Maysou A Noste | Lurbe-Saint-Christau | from €420/mo | private | 6 nights | Permanent |
-| Pyren'Escape | Guchen (Saubissan), Pyrenees | from €660/mo | private, shared, studio, apartment | 14 nights (~2 weeks) | Permanent |
+| Pyren'Escape | Guchen (Saubissan), Pyrenees | from €1,110/mo | private, shared, studio, apartment | 14 nights (~2 weeks) | Permanent |
 | Nomadico Anglet | Anglet | from €790/mo | private, shared | — | Permanent |
-| Enchanted Coliving | Nachamps | from €870/mo | private | 14 nights (~2 weeks) | Permanent |
+| Enchanted Coliving | Nachamps | from €1,080/mo | private | 14 nights (~2 weeks) | Permanent |
 | Les Briques | Lion-sur-Mer | from €893/mo | private | 6 nights | Permanent |
 | NomadUnion Coliving Nice | Nice | from €900/mo | private, shared | 30 nights (~1 month) | Permanent |
 | Cloud Citadel Coliving | Briançon | from €966/mo | private, dorm, studio | 14 nights (~2 weeks) | Permanent |

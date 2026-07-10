@@ -4,7 +4,7 @@
 
 - **Location:** Santa Cruz de Tenerife, Spain
 - **Type:** Permanent coliving
-- **Price:** from €810/mo
+- **Price:** from €695/mo
 - **Price note:** €810/month private ensuite (discounted from €885)
 - **Room types:** private
 - **Dorm available:** No

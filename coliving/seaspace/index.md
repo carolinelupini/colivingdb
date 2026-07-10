@@ -4,7 +4,7 @@
 
 - **Location:** Newquay, United Kingdom
 - **Type:** Permanent coliving
-- **Price:** from £1,625/mo (≈€1,885)
+- **Price:** from £1,625/mo
 - **Price note:** from £1625/month bills included, studio
 - **Room types:** private
 - **Dorm available:** No

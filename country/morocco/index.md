@@ -7,12 +7,12 @@
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
 | The Tamraght | Agadir | from €61/mo | private, shared, dorm | 30 nights (~1 month) | Permanent |
-| Kasbari House | Tamraght (near Taghazout/Agadir) | from €300/mo | private, dorm | 7 nights (~1 week) | Permanent |
+| Kasbari House | Tamraght (near Taghazout/Agadir) | from €350/mo | private, dorm | 7 nights (~1 week) | Permanent |
 | Maghrib Nomads Surf House | Tamraght | from €300/mo | private, dorm | — | Permanent |
 | Adventurekeys | Taghazout | from €420/mo | private, dorm | 2 nights | Permanent |
-| Nomadico Coliving Taghazout | Taghazout | from €750/mo | private, shared | — | Permanent |
-| Nomadico Taghazout Bay | Taghazout | from €750/mo | private, shared | 7 nights (~1 week) | Permanent |
-| SunDesk Coliving | Taghazout | from €825/mo | private, shared | 10 nights | Permanent |
+| Nomadico Coliving Taghazout | Taghazout | from €715/mo | private, shared | — | Permanent |
+| Nomadico Taghazout Bay | Taghazout | from €715/mo | private, shared | 7 nights (~1 week) | Permanent |
+| SunDesk Coliving | Taghazout | from €885/mo | private, shared | 10 nights | Permanent |
 | The Tasga Oudrar II | Taghazout | from €1,300/mo | private, dorm | 30 nights (~1 month) | Permanent |
 | Tamachat Muay Thai | Agafay | from €2,400/mo | private, shared | — | Permanent |
 | Chateau Nougat Marrakech | Marrakech | On request | private | — | Permanent |

@@ -4,7 +4,7 @@
 
 - **Location:** Pembroke, Malta
 - **Type:** Permanent coliving
-- **Price:** from €2,678/mo
+- **Price:** from €4,099/mo
 - **Price note:** from BGN 5,237/mo single room; dorm beds exist but price not shown
 - **Room types:** private, dorm
 - **Dorm available:** Yes
@@ -17,7 +17,7 @@
 
 | Stay length | Private | Shared |
 |---|---|---|
-| Per month | €8,018 | €16,079 |
+| Per month | €4,099 | €6,300 |
 
 No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
 

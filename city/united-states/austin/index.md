@@ -8,7 +8,7 @@
 |---|---|---|---|---|---|
 | Zeta House | Austin | from €553/mo | — | — | Permanent |
 | Outsite Austin - Bouldin Creek | Austin | On request | private, shared | — | Permanent |
-| Outsite Austin - Travis Heights | Austin | On request | private, shared | — | Permanent |
+| Outsite Austin - Travis Heights | Austin | from $95/night | private, shared | — | Permanent |
 
 ## Price distribution
 

@@ -4,7 +4,7 @@
 
 - **Location:** Medellín (Laureles), Colombia
 - **Type:** Permanent coliving
-- **Price:** from $1,230/mo (≈€1,131)
+- **Price:** from $1,230/mo
 - **Price note:** from $284/week Essential Room (~$1,136/mo), monthly discounts
 - **Room types:** private
 - **Dorm available:** No

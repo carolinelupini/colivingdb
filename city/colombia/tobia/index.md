@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Casa Kandamy | Tobia | from $1,710/mo (≈€52) | private | — | Permanent |
+| Casa Kandamy | Tobia | from $1,710/mo | private | — | Permanent |
 
 ## Price distribution
 

@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| ALMANSA 11 APARTAMENTOS COLIVING | Sevilla | from €600/mo | private | 7 nights (~1 week) | Permanent |
+| ALMANSA 11 APARTAMENTOS COLIVING | Sevilla | from €550/mo | private | 7 nights (~1 week) | Permanent |
 
 ## Price distribution
 

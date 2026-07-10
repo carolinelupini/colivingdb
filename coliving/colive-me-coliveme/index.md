@@ -4,7 +4,7 @@
 
 - **Location:** Ahangama, Sri Lanka
 - **Type:** Permanent coliving
-- **Price:** from €750/mo
+- **Price:** from €668/mo
 - **Price note:** from €25/night, est. monthly
 - **Room types:** private
 - **Dorm available:** No

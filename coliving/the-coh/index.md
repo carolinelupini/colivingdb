@@ -4,7 +4,7 @@
 
 - **Location:** Auckland, New Zealand
 - **Type:** Permanent coliving
-- **Price:** from NZ$1,516/mo (≈€763)
+- **Price:** from NZ$1,516/mo
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 90 nights (~3 months)

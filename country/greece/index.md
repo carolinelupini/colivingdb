@@ -6,16 +6,16 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Avnea Nomad Village | Zaros, Crete | from €449/mo | private, shared | 30 nights (~1 month) | Permanent |
+| Avnea Nomad Village | Zaros, Crete | from €399/mo | private, shared | 30 nights (~1 month) | Permanent |
 | Greek Escape | Gerani, Crete | from €750/mo | private | 8 nights | Permanent |
 | Greek Escape (by ESCAPE) | Gerani (Crete) | from €750/mo | private, shared | 7 nights (~1 week) | Permanent |
 | Calergi Residence | Atsipopoulo / Rethymno (Crete) | from €800/mo | private | — | Permanent |
-| The Atsipopoulo (Atsipopoulo Home) | Atsipopoulo | from €825/mo | private | 30 nights (~1 month) | Permanent |
-| Escape (Greek Escape) | Gerani, Crete (near Rethymno) | from €840/mo | private, shared | 7 nights (~1 week) | Permanent |
-| The Plakias (Plakias Residence) | Plakias | from €1,349/mo | private | 180 nights (~6 months) | Permanent |
-| WiFi Tribe — Paros | Paros | from $1,590/mo (≈€1,391) | — | — | Pop-up |
+| The Atsipopoulo (Atsipopoulo Home) | Atsipopoulo | from €6,530/mo | private | 30 nights (~1 month) | Permanent |
+| Escape (Greek Escape) | Gerani, Crete (near Rethymno) | from €750/mo | private, shared | 7 nights (~1 week) | Permanent |
+| The Plakias (Plakias Residence) | Plakias | from €1,350/mo | private | 180 nights (~6 months) | Permanent |
+| WiFi Tribe — Paros | Paros | from $1,990/mo | — | — | Pop-up |
 | Boundless Life — Syros | Syros | from €2,300/mo | — | — | Pop-up |
-| Charalampou Liandri Home | Atsipopoulo | On request | private | 30 nights (~1 month) | Permanent |
+| Charalampou Liandri Home | Atsipopoulo | from €5,780/mo | private | 30 nights (~1 month) | Permanent |
 | Noma Collective — Athens | Athens | from $2,390 per event | — | — | Pop-up |
 | Tursi Digital Nomads — Parga | Parga | from €799 per event | — | — | Pop-up |
 

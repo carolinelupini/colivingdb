@@ -4,7 +4,7 @@
 
 - **Location:** Barcelona, Spain
 - **Type:** Permanent coliving
-- **Price:** On request
+- **Price:** from €950/mo
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** —

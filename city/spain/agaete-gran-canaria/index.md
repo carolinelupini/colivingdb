@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Repeople El Cabo Coliving | Agaete, Gran Canaria | from €880/mo | private | 30 nights (~1 month) | Permanent |
+| Repeople El Cabo Coliving | Agaete, Gran Canaria | from €870/mo | private | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

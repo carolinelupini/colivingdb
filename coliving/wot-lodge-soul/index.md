@@ -4,7 +4,7 @@
 
 - **Location:** Ericeira, Portugal
 - **Type:** Permanent coliving
-- **Price:** On request
+- **Price:** from €451/wk
 - **Price note:** Cooliving monthly rates on request (sales@wotels.com); hostel nightly rates bookable
 - **Room types:** private, dorm
 - **Dorm available:** Yes

@@ -7,6 +7,6 @@
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
 | Outsite Los Angeles - Venice Beach Dell | Los Angeles | On request | private | — | Permanent |
-| Outsite Los Angeles - Venice Beach Lincoln | Los Angeles | On request | private | — | Permanent |
+| Outsite Los Angeles - Venice Beach Lincoln | Los Angeles | from $95/night | private | — | Permanent |
 
 Source: https://colivingdb.com/city/united-states/los-angeles/

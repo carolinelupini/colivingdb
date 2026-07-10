@@ -5,7 +5,7 @@
 - **Location:** Porto, Portugal
 - **Type:** Pop-up / dated edition
 - **Dates:** Jul 3 - 31, 2026
-- **Price:** from $990/mo (≈€866)
+- **Price:** from $990/mo
 - **Price note:** apartment accommodation (shared room, Veteran tier) + coworking for the month-long chapter
 - **Room types:** —
 - **Dorm available:** No

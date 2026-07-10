@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| The Miyanosawa (Miyanosawa Home) | Sapporo | from ¥93,000/mo (≈€500) | private | 30 nights (~1 month) | Permanent |
+| The Miyanosawa (Miyanosawa Home) | Sapporo | from ¥93,000/mo | private | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

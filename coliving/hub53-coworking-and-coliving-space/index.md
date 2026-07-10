@@ -4,7 +4,7 @@
 
 - **Location:** Chiang Mai (Nimman), Thailand
 - **Type:** Permanent coliving
-- **Price:** from THB 9,000/mo (≈€178)
+- **Price:** from THB 9,000/mo
 - **Price note:** from 7,000 THB/month standard room incl. coworking access
 - **Room types:** private
 - **Dorm available:** No

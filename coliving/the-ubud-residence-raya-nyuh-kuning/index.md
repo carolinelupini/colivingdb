@@ -4,7 +4,7 @@
 
 - **Location:** Ubud, Indonesia
 - **Type:** Permanent coliving
-- **Price:** from $949/mo (≈€830)
+- **Price:** from $949/mo
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)

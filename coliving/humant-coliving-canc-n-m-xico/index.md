@@ -4,7 +4,7 @@
 
 - **Location:** Tulum, Mexico
 - **Type:** Permanent coliving
-- **Price:** On request
+- **Price:** from $29/night
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** —

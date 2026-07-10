@@ -5,7 +5,7 @@
 - **Location:** Ponta Delgada (Azores), Portugal
 - **Type:** Pop-up / dated edition
 - **Dates:** Sep 11 - Oct 9, 2026
-- **Price:** from $1,590/mo (≈€1,391)
+- **Price:** from $1,590/mo
 - **Price note:** guesthouse accommodation (shared room, Veteran tier) + coworking + community activities for the month-long chapter
 - **Room types:** —
 - **Dorm available:** No

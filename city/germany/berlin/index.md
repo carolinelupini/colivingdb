@@ -6,6 +6,6 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| The Base Berlin One - Coliving | Hotel | Coworking | Gym | Café & Bar | Berlin | On request | private | 30 nights (~1 month) | Permanent |
+| The Base Berlin One - Coliving | Hotel | Coworking | Gym | Café & Bar | Berlin | from €36/night | private | 30 nights (~1 month) | Permanent |
 
 Source: https://colivingdb.com/city/germany/berlin/

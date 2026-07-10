@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Beet - Botanical Garden (Cortile del Giuoco Home) | Palermo | from €850/mo | private | 30 nights (~1 month) | Permanent |
+| Beet - Botanical Garden (Cortile del Giuoco Home) | Palermo | from €1,000/mo | private | 30 nights (~1 month) | Permanent |
 | Hacker Paradise — Palermo | Palermo | On request | — | — | Pop-up |
 | Mojo Cohouse | Palermo | On request | private | — | Permanent |
 

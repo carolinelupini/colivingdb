@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Santa Marta Life Coliving | Santa Marta (El Rodadero) | from $650/mo (≈€598) | private | — | Permanent |
+| Santa Marta Life Coliving | Santa Marta (El Rodadero) | from $650/mo | private | — | Permanent |
 
 ## Price distribution
 

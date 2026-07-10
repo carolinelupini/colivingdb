@@ -6,8 +6,8 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Mokrin House | Mokrin | from €993/mo | private, shared | — | Permanent |
-| The Svetog Save (Mokrin House) | Mokrin | from €2,100/mo | private, dorm | 30 nights (~1 month) | Permanent |
+| Mokrin House | Mokrin | from €907/mo | private, shared | — | Permanent |
+| The Svetog Save (Mokrin House) | Mokrin | from €907/mo | private, dorm | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

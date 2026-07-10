@@ -6,13 +6,13 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Co.404 Medellin | Medellin | from $362/mo (≈€333) | private | — | Permanent |
+| Co.404 Medellin | Medellin | from $362/mo | private | — | Permanent |
 | The Laureles | Medellin | from €585/mo | private | 30 nights (~1 month) | Permanent |
-| Nomadico Medellin | Medellin | from $955/mo (≈€859) | private, shared | 7 nights (~1 week) | Permanent |
-| Rosales Residence | Medellin | from $943/mo (≈€866) | private | 30 nights (~1 month) | Permanent |
+| Nomadico Medellin | Medellin | from $955/mo | private, shared | 7 nights (~1 week) | Permanent |
+| Rosales Residence | Medellin | from $943/mo | private | 30 nights (~1 month) | Permanent |
 | The Laureles II | Medellin | from €1,567/mo | private | 30 nights (~1 month) | Permanent |
-| Outsite Medellin - El Poblado | Medellin | On request | private | — | Permanent |
-| Outsite Medellin - Manila | Medellin | On request | private | — | Permanent |
+| Outsite Medellin - El Poblado | Medellin | from $35/night | private | — | Permanent |
+| Outsite Medellin - Manila | Medellin | from $50/night | private | — | Permanent |
 
 ## Price distribution
 

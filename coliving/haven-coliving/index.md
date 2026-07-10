@@ -4,7 +4,7 @@
 
 - **Location:** Venice, California, United States
 - **Type:** Permanent coliving
-- **Price:** from $995/mo (≈€915)
+- **Price:** from $995/mo
 - **Price note:** from $895-995/month shared room, month-to-month
 - **Room types:** shared
 - **Dorm available:** No

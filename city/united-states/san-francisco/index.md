@@ -6,8 +6,8 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Neighbourgood Mission | San Francisco | from $1,395/mo (≈€1,283) | private | — | Permanent |
-| Outsite San Francisco - Mission | San Francisco | from €2,200/mo | private | — | Permanent |
+| Neighbourgood Mission | San Francisco | from $1,395/mo | private | — | Permanent |
+| Outsite San Francisco - Mission | San Francisco | from $1,160/wk | private | — | Permanent |
 | Outsite San Francisco - Pacific Heights | San Francisco | from €2,200/mo | private | — | Permanent |
 | Neighbourgood 15th Street | San Francisco | On request | private | — | Permanent |
 | Neighbourgood McAllister | San Francisco | On request | private | — | Permanent |

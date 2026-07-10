@@ -4,7 +4,7 @@
 
 - **Location:** Siem Reap, Cambodia
 - **Type:** Permanent coliving
-- **Price:** from $1,600/mo (≈€1,511)
+- **Price:** from $1,600/mo
 - **Price note:** from BGN 2,960/mo (~$1,600) private ensuite
 - **Room types:** private
 - **Dorm available:** No

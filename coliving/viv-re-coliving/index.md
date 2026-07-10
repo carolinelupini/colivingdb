@@ -4,7 +4,7 @@
 
 - **Location:** Rio de Janeiro, Brazil
 - **Type:** Permanent coliving
-- **Price:** from BRL 1,950/mo (≈€332)
+- **Price:** from BRL 1,950/mo
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

@@ -4,7 +4,7 @@
 
 - **Location:** Matera, Italy
 - **Type:** Permanent coliving
-- **Price:** from €1,467/mo
+- **Price:** from €750/mo
 - **Price note:** from BGN 1,467/mo (~€750) 4-bed shared room
 - **Room types:** private, shared
 - **Dorm available:** Yes
@@ -15,9 +15,9 @@
 
 ## Rates
 
-| Stay length | Shared |
-|---|---|
-| Per month | €750 |
+| Stay length | Private | Dorm |
+|---|---|---|
+| Per month | €950 | €750 |
 
 No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
 

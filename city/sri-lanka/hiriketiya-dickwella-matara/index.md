@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Hiriketiya Home | Hiriketiya (Dickwella), Matara | from €599/mo | private, shared | 30 nights (~1 month) | Permanent |
+| Hiriketiya Home | Hiriketiya (Dickwella), Matara | from $554/mo | private, shared | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

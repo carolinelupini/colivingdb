@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Kasbari House | Tamraght (near Taghazout/Agadir) | from €300/mo | private, dorm | 7 nights (~1 week) | Permanent |
+| Kasbari House | Tamraght (near Taghazout/Agadir) | from €350/mo | private, dorm | 7 nights (~1 week) | Permanent |
 
 ## Price distribution
 

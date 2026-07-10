@@ -6,8 +6,8 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Somewhere Different UK | Blackpool | from £300/mo (≈€350) | private | — | Permanent |
-| Somewhere Different | Blackpool | from £300/mo | private | — | Permanent |
+| Somewhere Different UK | Blackpool | from £300/mo | private | — | Permanent |
+| Somewhere Different | Blackpool | from £400/mo | private | — | Permanent |
 
 ## Price distribution
 

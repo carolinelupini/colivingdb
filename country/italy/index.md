@@ -6,33 +6,33 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Coliving Sardinia | Porto Cervo, Sardinia | from €40/mo | private, shared | 14 nights (~2 weeks) | Permanent |
+| Coliving Sardinia | Porto Cervo, Sardinia | from €950/mo | private, shared | 14 nights (~2 weeks) | Permanent |
 | Navitas Coliving | Civitanova Marche | from €540/mo | private | 7 nights (~1 week) | Permanent |
 | Dolce Vita Coliving & Coworking | Vallo di Nera (Umbria) | from €599/mo | private | 7 nights (~1 week) | Permanent |
-| La Vita Sukha | Roseto Valfortore | from €630/mo | private, dorm | 13 nights | Permanent |
+| La Vita Sukha | Roseto Valfortore | from €1,050/mo | private, dorm | 13 nights | Permanent |
 | Masseria Olga | Valle d'Itria (Puglia) | from €650/mo | private | — | Permanent |
 | Masseria Olga Rural Coliving | Puglia | from €690/mo | private | 14 nights (~2 weeks) | Permanent |
 | Tertulia Coliving | Vicchio (Mugello, Florence) | from €699/mo | private, shared | 14 nights (~2 weeks) | Permanent |
 | Montino Coliving | Oggebbio, Lake Maggiore | from €750/mo | private, shared | 7 nights (~1 week) | Permanent |
 | Nomadico Tuscany | Tuscany | from €823/mo | private, shared | — | Permanent |
-| Beet - Botanical Garden (Cortile del Giuoco Home) | Palermo | from €850/mo | private | 30 nights (~1 month) | Permanent |
-| Tertulia Forest Coliving | Mugello, Tuscany | from €870/mo | private | 7 nights (~1 week) | Permanent |
-| ecoVita | San Priamo, San Vito, Sardinia | from €1,020/mo | private | 3 nights | Permanent |
-| Boundless Life Tuscany | Pistoia | from €1,100/mo | private | — | Permanent |
+| Beet - Botanical Garden (Cortile del Giuoco Home) | Palermo | from €1,000/mo | private | 30 nights (~1 month) | Permanent |
+| Tertulia Forest Coliving | Mugello, Tuscany | from €1,140/mo | private | 7 nights (~1 week) | Permanent |
+| ecoVita | San Priamo, San Vito, Sardinia | from €1,140/mo | private | 3 nights | Permanent |
+| Boundless Life Tuscany | Pistoia | from €2,100/mo | private | — | Permanent |
 | Canestanco 18 Living | Santa Croce Camerina, Sicily | from €1,200/mo | private | — | Permanent |
 | Casa Basilico — Puglia | Puglia | from €1,247/mo | — | — | Pop-up |
 | As We Flow Coliving | Porto Cervo, Sardinia | from €1,350/mo | private | 20 nights | Permanent |
-| Galileo Galilei Home | Matera | from €1,467/mo | private, shared | 30 nights (~1 month) | Permanent |
-| franz&mathilde Coliving | Tisens, South Tyrol | from €1,500/mo | private | 14 nights (~2 weeks) | Permanent |
+| Galileo Galilei Home | Matera | from €750/mo | private, shared | 30 nights (~1 month) | Permanent |
+| franz&mathilde Coliving | Tisens, South Tyrol | from €1,620/mo | private | 14 nights (~2 weeks) | Permanent |
 | Boundless Life — Tuscany (Volterra area) | Tuscany (Volterra area) | from €2,100/mo | — | — | Pop-up |
 | Blue Zone Nomads | Torre delle Stelle | On request | private, shared | — | Pop-up |
-| Casa Netural | Matera | On request | private | 1 night | Permanent |
+| Casa Netural | Matera | from €950/mo | private | 1 night | Permanent |
 | Casa Netural Gorizia | Gorizia | On request | private | — | Permanent |
 | Cummari Coliving | Riposto, Sicily | On request | private | — | Permanent |
 | Hacker Paradise — Palermo | Palermo | On request | — | — | Pop-up |
 | Il Fornello | Citta della Pieve (Umbria/Tuscany border) | from €700/mo | private | — | Permanent |
 | Mojo Cohouse | Palermo | On request | private | — | Permanent |
-| Nesting Away - Coliving in Italy | Rome | On request | private | 14 nights (~2 weeks) | Permanent |
+| Nesting Away - Coliving in Italy | Rome | from €41/night | private | 14 nights (~2 weeks) | Permanent |
 | Spacebility | Cagliari (Sardinia) | On request | private | — | Permanent |
 | Taste Remote | Civita Castellana | from €690 per event | private, shared | 7 nights (~1 week) | Pop-up |
 | Treballu Rural Coliving | Laconi | On request | private, shared | — | Permanent |

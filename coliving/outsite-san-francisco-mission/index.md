@@ -4,7 +4,7 @@
 
 - **Location:** San Francisco, United States
 - **Type:** Permanent coliving
-- **Price:** from €2,200/mo
+- **Price:** from $1,160/wk
 - **Price note:** est.; members-only, prices behind date-select
 - **Room types:** private
 - **Dorm available:** No

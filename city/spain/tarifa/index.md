@@ -7,7 +7,7 @@
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
 | Nomadico Coliving Tarifa | Tarifa | from €737/mo | private, shared | — | Permanent |
-| The Cocotera Hostel & Coworking | Tarifa | On request | private, dorm | — | Permanent |
+| The Cocotera Hostel & Coworking | Tarifa | from €15/night | private, dorm | — | Permanent |
 
 ## Price distribution
 

@@ -6,18 +6,18 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Neighbourgood East City | Cape Town | from R10,000/mo (≈€170) | private, shared, dorm | — | Permanent |
+| Neighbourgood East City | Cape Town | from R10,000/mo | private, shared, dorm | — | Permanent |
 | Neighbourgood 113 Loop | Cape Town | from €345/mo | private, shared | — | Permanent |
 | Nomadico Cape Town | Cape Town | from €609/mo | private, shared | — | Permanent |
 | Neighbourgood Cape Quarter Living | Cape Town | from €749/mo | private, shared | — | Permanent |
-| Neighbourgood Disandt House | Cape Town | from R13,000/mo (≈€749) | private, shared | — | Permanent |
-| Neighbourgood Hill | Cape Town | from R13,000/mo (≈€749) | private, shared | — | Permanent |
-| Neighbourgood Napier | Cape Town | from R13,000/mo (≈€749) | private, shared | — | Permanent |
-| Neighbourgood Newlands | Cape Town | from R13,000/mo (≈€749) | private, shared | — | Permanent |
-| Neighbourgood Ravenscraig | Cape Town | from R13,000/mo (≈€749) | private, shared | — | Permanent |
-| Neighbourgood Romney | Cape Town | from R13,000/mo (≈€749) | private, shared | — | Permanent |
-| Cape Coliving | Cape Town | from €780/mo | private | — | Permanent |
-| Neighbourgood 84 Harrington | Cape Town | from R24,170/mo (≈€1,100) | private | — | Permanent |
+| Neighbourgood Disandt House | Cape Town | from R13,000/mo | private, shared | — | Permanent |
+| Neighbourgood Hill | Cape Town | from R13,000/mo | private, shared | — | Permanent |
+| Neighbourgood Napier | Cape Town | from R13,000/mo | private, shared | — | Permanent |
+| Neighbourgood Newlands | Cape Town | from R13,000/mo | private, shared | — | Permanent |
+| Neighbourgood Ravenscraig | Cape Town | from R13,000/mo | private, shared | — | Permanent |
+| Neighbourgood Romney | Cape Town | from R13,000/mo | private, shared | — | Permanent |
+| Cape Coliving | Cape Town | from €1,095/mo | private | — | Permanent |
+| Neighbourgood 84 Harrington | Cape Town | from R24,170/mo | private | — | Permanent |
 | The Hill | Cape Town | from €1,210/mo | private | 30 nights (~1 month) | Permanent |
 | The Romney | Cape Town | from €2,033/mo | private | 30 nights (~1 month) | Permanent |
 | Waterkant Residence | Cape Town | from €3,506/mo | private | 30 nights (~1 month) | Permanent |

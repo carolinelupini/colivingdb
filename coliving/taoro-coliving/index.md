@@ -4,7 +4,7 @@
 
 - **Location:** Santa Úrsula, Tenerife, Spain
 - **Type:** Permanent coliving
-- **Price:** from €1,097/mo
+- **Price:** from €1,297/mo
 - **Price note:** €1,097–1,372/month; 25% off stays 28+ nights
 - **Room types:** private
 - **Dorm available:** No

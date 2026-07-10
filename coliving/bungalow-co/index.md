@@ -4,7 +4,7 @@
 
 - **Location:** Sydney, Australia
 - **Type:** Permanent coliving
-- **Price:** from A$866/mo (≈€526)
+- **Price:** from A$866/mo
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Portus Home Coliving | Vászoly | from HUF 750,000/mo (≈€900) | private | 5 nights | Permanent |
+| Portus Home Coliving | Vászoly | from HUF 750,000/mo | private | 5 nights | Permanent |
 | Noma Collective — Budapest | Budapest | from $1,990 per event | — | — | Pop-up |
 
 ## Price distribution

@@ -4,7 +4,7 @@
 
 - **Location:** Weligama, Sri Lanka
 - **Type:** Permanent coliving
-- **Price:** from €1,971/mo
+- **Price:** from $1,818/mo
 - **Price note:** from BGN 3,860/mo standard private room
 - **Room types:** private
 - **Dorm available:** No

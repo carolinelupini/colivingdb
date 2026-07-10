@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| WiFi Tribe — Bariloche | Bariloche | from $1,290/mo (≈€1,129) | — | — | Pop-up |
+| WiFi Tribe — Bariloche | Bariloche | from $1,290/mo | — | — | Pop-up |
 
 ## Price distribution
 

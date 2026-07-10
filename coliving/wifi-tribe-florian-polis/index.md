@@ -5,7 +5,7 @@
 - **Location:** Florianópolis, Brazil
 - **Type:** Pop-up / dated edition
 - **Dates:** Nov 20 - Dec 18, 2026
-- **Price:** from $1,290/mo (≈€1,129)
+- **Price:** from $1,290/mo
 - **Price note:** coliving accommodation (shared room, Veteran tier) + coworking + community activities + fitness sessions for the month-long chapter
 - **Room types:** —
 - **Dorm available:** No
@@ -15,9 +15,9 @@
 
 ## Rates
 
-| Stay length | From |
-|---|---|
-| Per month | $1,290 |
+| Stay length | Private | Shared |
+|---|---|---|
+| Per month | $2,190 | $1,290 |
 
 No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
 

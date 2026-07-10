@@ -4,7 +4,7 @@
 
 - **Location:** Koh Phangan, Thailand
 - **Type:** Permanent coliving
-- **Price:** from THB 6,500/mo (≈€170)
+- **Price:** from THB 6,500/mo
 - **Room types:** shared
 - **Dorm available:** No
 - **Minimum stay:** —

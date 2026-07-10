@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Buddha Coliving | San Isidro (Tenerife) | from €600/mo | private | — | Permanent |
+| Buddha Coliving | San Isidro (Tenerife) | from €550/mo | private | — | Permanent |
 
 ## Price distribution
 

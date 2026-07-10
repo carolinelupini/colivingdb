@@ -4,7 +4,7 @@
 
 - **Location:** Brisbane, Australia
 - **Type:** Permanent coliving
-- **Price:** from A$1,333/mo (≈€809)
+- **Price:** from A$1,333/mo
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

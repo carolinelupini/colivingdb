@@ -5,7 +5,7 @@
 - **Location:** Antigua, Guatemala
 - **Type:** Pop-up / dated edition
 - **Dates:** Nov 20 - Dec 18, 2026
-- **Price:** from $1,090/mo (≈€954)
+- **Price:** from $1,090/mo
 - **Price note:** coliving accommodation (shared room, Veteran tier) + coworking + communal meals + community activities for the month-long chapter
 - **Room types:** —
 - **Dorm available:** No

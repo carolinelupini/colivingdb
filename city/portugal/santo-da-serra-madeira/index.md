@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Cabeco Alto Home | Santo da Serra (Madeira) | from €1,000/mo | private, shared | 30 nights (~1 month) | Permanent |
+| Cabeco Alto Home | Santo da Serra (Madeira) | from €1,400/mo | private, shared | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

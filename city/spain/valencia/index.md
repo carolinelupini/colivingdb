@@ -10,10 +10,10 @@
 | La Alfarería | 4wanders | Coliving & Experiences | Valencia | from €750/mo | private | 20 nights | Permanent |
 | La Jabonería | 4wanders | Coliving & Experiences | Valencia | from €750/mo | private | 20 nights | Permanent |
 | Cohausing Cabanyal | Valencia | from €930/mo | private | 30 nights (~1 month) | Permanent |
-| Villa Huerta (Palma Coliving Valencia) | Valencia | from €950/mo | private | 30 nights (~1 month) | Permanent |
+| Villa Huerta (Palma Coliving Valencia) | Valencia | from €960/mo | private | 30 nights (~1 month) | Permanent |
 | Vivarium Coliving & Coworking | Valencia | from €985/mo | private | 31 nights | Permanent |
 | Casa Gori — Coliving, Art Studio & Gardens | Valencia | from €1,200/mo | — | — | Permanent |
-| Folks Coliving | Valencia | from €1,200/mo | private | 11 nights | Permanent |
+| Folks Coliving | Valencia | from €1,500/mo | private | 11 nights | Permanent |
 
 ## Price distribution
 

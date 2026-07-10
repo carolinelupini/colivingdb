@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Cobana Coliving & Working Hub | Zarnesti, Transylvania | from RON 2,660/mo (≈€775) | private | 7 nights (~1 week) | Permanent |
+| Cobana Coliving & Working Hub | Zarnesti, Transylvania | from RON 2,940/mo | private | 7 nights (~1 week) | Permanent |
 
 ## Price distribution
 

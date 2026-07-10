@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| WiFi Tribe — Anse Royale | Anse Royale | from $1,590/mo (≈€1,391) | — | — | Pop-up |
+| WiFi Tribe — Anse Royale | Anse Royale | from $1,590/mo | — | — | Pop-up |
 
 ## Price distribution
 

@@ -4,7 +4,7 @@
 
 - **Location:** Sintra (Tojeira), Portugal
 - **Type:** Permanent coliving
-- **Price:** from €1,118/mo
+- **Price:** from €1,040/mo
 - **Price note:** EUR230/week, ~EUR920/mo on 3-mo stay
 - **Room types:** private
 - **Dorm available:** No

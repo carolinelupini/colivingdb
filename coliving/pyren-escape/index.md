@@ -4,7 +4,7 @@
 
 - **Location:** Guchen (Saubissan), Pyrenees, France
 - **Type:** Permanent coliving
-- **Price:** from €660/mo
+- **Price:** from €1,110/mo
 - **Price note:** €660/month (discounted from €1,110); €33/night
 - **Room types:** private, shared, studio, apartment
 - **Dorm available:** No

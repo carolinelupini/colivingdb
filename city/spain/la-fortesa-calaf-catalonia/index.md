@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Casa Pardal Coliving | La Fortesa (Calaf), Catalonia | from €660/mo | private | 14 nights (~2 weeks) | Permanent |
+| Casa Pardal Coliving | La Fortesa (Calaf), Catalonia | from €700/mo | private | 14 nights (~2 weeks) | Permanent |
 
 ## Price distribution
 

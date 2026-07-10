@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| WiFi Tribe — Paros | Paros | from $1,590/mo (≈€1,391) | — | — | Pop-up |
+| WiFi Tribe — Paros | Paros | from $1,990/mo | — | — | Pop-up |
 
 ## Price distribution
 

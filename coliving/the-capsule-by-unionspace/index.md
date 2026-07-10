@@ -4,7 +4,7 @@
 
 - **Location:** bangkok, Thailand
 - **Type:** Permanent coliving
-- **Price:** from THB 13,500/mo (≈€353)
+- **Price:** from THB 13,500/mo
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 1 night

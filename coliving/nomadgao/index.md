@@ -4,7 +4,7 @@
 
 - **Location:** Goa, India
 - **Type:** Permanent coliving
-- **Price:** from INR 35,000/mo (≈€390)
+- **Price:** from INR 35,000/mo
 - **Price note:** est. ~₹35,000/month private; pricing via book.nomadgao.com
 - **Room types:** private
 - **Dorm available:** Yes

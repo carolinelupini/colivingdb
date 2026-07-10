@@ -4,7 +4,7 @@
 
 - **Location:** Atsipopoulo, Greece
 - **Type:** Permanent coliving
-- **Price:** On request
+- **Price:** from €5,780/mo
 - **Price note:** listing shows BGN 11,305/mo (~EUR 5,780), likely a pricing error
 - **Room types:** private
 - **Dorm available:** No
@@ -12,6 +12,14 @@
 - **Region:** Europe
 - **Tags:** island, coworking
 - **Website:** https://coliving.com/spaces/pkzmziji
+
+## Rates
+
+| Stay length | Private | Shared |
+|---|---|---|
+| Per month | €5,780 | €8,779 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
 
 ## About
 

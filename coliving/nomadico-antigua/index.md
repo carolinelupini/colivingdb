@@ -4,7 +4,7 @@
 
 - **Location:** Antigua Guatemala, Guatemala
 - **Type:** Permanent coliving
-- **Price:** from $890/mo (≈€819)
+- **Price:** from $890/mo
 - **Price note:** from $890/month; new home opening Aug 1
 - **Room types:** private, shared
 - **Dorm available:** No

@@ -4,7 +4,7 @@
 
 - **Location:** Uluwatu, Indonesia
 - **Type:** Permanent coliving
-- **Price:** from IDR 9,900,000/mo (≈€479)
+- **Price:** from IDR 9,900,000/mo
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

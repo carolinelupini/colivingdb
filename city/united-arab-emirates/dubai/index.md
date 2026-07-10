@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Dot Coliv | Dubai | from AED 1,000/mo (≈€238) | shared, private | — | Permanent |
+| Dot Coliv | Dubai | from AED 1,000/mo | shared, private | — | Permanent |
 | HIVE | Dubai | On request | private | — | Permanent |
 
 ## Price distribution

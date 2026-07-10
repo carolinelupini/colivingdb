@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| WiFi Tribe — Molde | Molde | from $2,390/mo (≈€2,091) | — | — | Pop-up |
+| WiFi Tribe — Molde | Molde | from $2,390/mo | — | — | Pop-up |
 
 ## Price distribution
 

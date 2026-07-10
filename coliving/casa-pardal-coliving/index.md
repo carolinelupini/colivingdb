@@ -4,7 +4,7 @@
 
 - **Location:** La Fortesa (Calaf), Catalonia, Spain
 - **Type:** Permanent coliving
-- **Price:** from €660/mo
+- **Price:** from €700/mo
 - **Price note:** from €22/night, est. monthly
 - **Room types:** private
 - **Dorm available:** No

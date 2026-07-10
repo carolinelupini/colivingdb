@@ -4,7 +4,7 @@
 
 - **Location:** Funchal, Madeira, Portugal
 - **Type:** Permanent coliving
-- **Price:** from €1,200/mo
+- **Price:** from €1,050/mo
 - **Price note:** budget to premium ensuite rooms; rate not published on hub page
 - **Room types:** private, shared
 - **Dorm available:** No

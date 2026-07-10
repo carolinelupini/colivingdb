@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Colive Me (ColiveMe) | Ahangama | from €750/mo | private | 3 nights | Permanent |
+| Colive Me (ColiveMe) | Ahangama | from €668/mo | private | 3 nights | Permanent |
 
 ## Price distribution
 

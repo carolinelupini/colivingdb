@@ -4,7 +4,7 @@
 
 - **Location:** Buenos Aires, Argentina
 - **Type:** Permanent coliving
-- **Price:** from €625/mo
+- **Price:** from $680/mo
 - **Price note:** from BGN 1,167/month private (~€597)
 - **Room types:** private
 - **Dorm available:** No
@@ -12,6 +12,14 @@
 - **Region:** Latin America
 - **Tags:** city, community, coworking
 - **Website:** https://coliving.com/spaces/wxmvakv3
+
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | $680 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
 
 ## About
 

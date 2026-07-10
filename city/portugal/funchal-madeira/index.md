@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Casa do Pico | Funchal, Madeira | from €1,200/mo | private, shared | — | Permanent |
+| Casa do Pico | Funchal, Madeira | from €1,050/mo | private, shared | — | Permanent |
 | Casa do Pico by Madeira Remote | Funchal, Madeira | from €1,200/mo | private | 7 nights (~1 week) | Permanent |
 | The Luzia House Funchal | Funchal, Madeira | On request | private | — | Permanent |
 

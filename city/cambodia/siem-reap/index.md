@@ -6,8 +6,8 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Commune | Siem Reap | from $734/mo (≈€157) | private | — | Permanent |
-| The Rose Apple (Rose Apple Collective) | Siem Reap | from $1,600/mo (≈€1,511) | private | 30 nights (~1 month) | Permanent |
+| Commune | Siem Reap | from $734/mo | private | — | Permanent |
+| The Rose Apple (Rose Apple Collective) | Siem Reap | from $1,600/mo | private | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

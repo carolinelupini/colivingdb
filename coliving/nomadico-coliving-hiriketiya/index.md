@@ -4,7 +4,7 @@
 
 - **Location:** Hiriketiya (Nilwella), Sri Lanka
 - **Type:** Permanent coliving
-- **Price:** from €490/mo
+- **Price:** from €668/mo
 - **Price note:** from €750/mo (operator site); mapmelon €960 discounted
 - **Room types:** private
 - **Dorm available:** No

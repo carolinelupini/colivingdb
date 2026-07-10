@@ -4,7 +4,7 @@
 
 - **Location:** San Cristóbal de las Casas, Mexico
 - **Type:** Permanent coliving
-- **Price:** from $396/mo (≈€368)
+- **Price:** from $396/mo
 - **Price note:** est. from ~$38/night private, dorms cheaper (~€450/mo est.)
 - **Room types:** private, dorm
 - **Dorm available:** Yes

@@ -4,7 +4,7 @@
 
 - **Location:** Medellin, Colombia
 - **Type:** Permanent coliving
-- **Price:** from $955/mo (≈€859)
+- **Price:** from $955/mo
 - **Price note:** from $955/month; est. EUR
 - **Room types:** private, shared
 - **Dorm available:** No

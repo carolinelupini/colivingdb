@@ -4,7 +4,7 @@
 
 - **Location:** Ko Lanta, Thailand
 - **Type:** Permanent coliving
-- **Price:** from THB 49,500/mo (≈€460)
+- **Price:** from THB 49,500/mo
 - **Price note:** from ~18,000 THB/mo all-inclusive (room + 2 meals/day + coworking), low/mid season
 - **Room types:** private
 - **Dorm available:** No

@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| The Seckchuan Collective | George Town | from MYR 177/mo (≈€335) | private | 30 nights (~1 month) | Permanent |
+| The Seckchuan Collective | George Town | from MYR 177/mo | private | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

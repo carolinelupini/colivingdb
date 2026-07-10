@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| The Triq Alamein (Pembroke coliving hub) | Pembroke | from €2,678/mo | private, dorm | 30 nights (~1 month) | Permanent |
+| The Triq Alamein (Pembroke coliving hub) | Pembroke | from €4,099/mo | private, dorm | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

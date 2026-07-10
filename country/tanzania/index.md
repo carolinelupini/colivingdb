@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| WiFi Tribe — Zanzibar City | Zanzibar City | from $1,390/mo (≈€1,216) | — | — | Pop-up |
+| WiFi Tribe — Zanzibar City | Zanzibar City | from $1,390/mo | — | — | Pop-up |
 | AfricaNomads Zanzibar | Jambiani, Zanzibar | On request | — | — | Pop-up |
 | AfricaNomads — Kilimanjaro (Moshi) | Kilimanjaro (Moshi) | On request | — | — | Pop-up |
 | AfricaNomads — Zanzibar | Zanzibar | On request | — | — | Pop-up |

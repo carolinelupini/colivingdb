@@ -7,7 +7,7 @@
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
 | The Santaros (Santaros Hub) | Vilnius | from €685/mo | private | 150 nights (~5 months) | Permanent |
-| The Naujamiestis (Naujamiestis Hub) | Vilnius | from €696/mo | private | 30 nights (~1 month) | Permanent |
+| The Naujamiestis (Naujamiestis Hub) | Vilnius | from €695/mo | private | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

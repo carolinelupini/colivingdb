@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| WiFi Tribe — Lake Ohrid | Lake Ohrid | from $1,190/mo (≈€1,041) | — | — | Pop-up |
+| WiFi Tribe — Lake Ohrid | Lake Ohrid | from $1,190/mo | — | — | Pop-up |
 
 ## Price distribution
 

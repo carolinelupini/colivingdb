@@ -4,7 +4,7 @@
 
 - **Location:** Dubai, United Arab Emirates
 - **Type:** Permanent coliving
-- **Price:** from AED 1,000/mo (≈€238)
+- **Price:** from AED 1,000/mo
 - **Room types:** shared, private
 - **Dorm available:** No
 - **Minimum stay:** —

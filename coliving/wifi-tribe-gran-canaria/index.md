@@ -5,7 +5,7 @@
 - **Location:** Gran Canaria, Spain
 - **Type:** Pop-up / dated edition
 - **Dates:** Aug 7 - Sep 4, 2026
-- **Price:** from $1,390/mo (≈€1,216)
+- **Price:** from $1,390/mo
 - **Price note:** coliving accommodation (shared room, Veteran tier) + coworking + shared meals + community activities for the month-long chapter
 - **Room types:** —
 - **Dorm available:** No

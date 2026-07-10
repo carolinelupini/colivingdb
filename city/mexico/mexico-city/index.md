@@ -7,7 +7,7 @@
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
 | U-Co Roma Coliving | Mexico City | from €381/mo | — | — | Permanent |
-| Covive Casa Del Valle Norte | Mexico City | from MXN 15,250/mo (≈€815) | private | 30 nights (~1 month) | Permanent |
+| Covive Casa Del Valle Norte | Mexico City | from MXN 15,250/mo | private | 30 nights (~1 month) | Permanent |
 | COLIVING ROMA | Mexico City | On request | — | — | Permanent |
 | Casa Luna by Terracotta MX | Mexico City | On request | private | 7 nights (~1 week) | Permanent |
 | Coliving Condesa | Mexico City | On request | — | — | Permanent |

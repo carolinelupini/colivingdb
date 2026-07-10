@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Tertulia Forest Coliving | Mugello, Tuscany | from €870/mo | private | 7 nights (~1 week) | Permanent |
+| Tertulia Forest Coliving | Mugello, Tuscany | from €1,140/mo | private | 7 nights (~1 week) | Permanent |
 
 ## Price distribution
 

@@ -4,7 +4,7 @@
 
 - **Location:** Valencia, Spain
 - **Type:** Permanent coliving
-- **Price:** from €950/mo
+- **Price:** from €960/mo
 - **Price note:** from €950/mo single (winter); €1,050 summer
 - **Room types:** private
 - **Dorm available:** No

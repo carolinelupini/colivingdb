@@ -4,7 +4,7 @@
 
 - **Location:** Santa Teresa, Costa Rica
 - **Type:** Permanent coliving
-- **Price:** from $2,154/mo (≈€1,400)
+- **Price:** from $2,154/mo
 - **Price note:** est.; fixed monthly rates promoted, exact behind date-select
 - **Room types:** private
 - **Dorm available:** No

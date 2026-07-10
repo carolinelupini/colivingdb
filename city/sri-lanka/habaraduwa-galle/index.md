@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Habaraduwa Home | Habaraduwa, Galle | from €741/mo | private, shared | 30 nights (~1 month) | Permanent |
+| Habaraduwa Home | Habaraduwa, Galle | from $683/mo | private, shared | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

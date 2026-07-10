@@ -4,7 +4,7 @@
 
 - **Location:** Phuket, Thailand
 - **Type:** Permanent coliving
-- **Price:** from THB 18,000/mo (≈€471)
+- **Price:** from THB 18,000/mo
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —

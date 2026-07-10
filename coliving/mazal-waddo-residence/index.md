@@ -4,7 +4,7 @@
 
 - **Location:** Anjuna, Goa, India
 - **Type:** Permanent coliving
-- **Price:** from $436/mo (≈€435)
+- **Price:** from $436/mo
 - **Price note:** from BGN 852/mo private queen (~€436)
 - **Room types:** private
 - **Dorm available:** No

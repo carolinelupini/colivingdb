@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Caminho Coliving | Moreira, Maia (Porto area) | from €550/mo | private, dorm | — | Permanent |
+| Caminho Coliving | Moreira, Maia (Porto area) | from €595/mo | private, dorm | — | Permanent |
 
 ## Price distribution
 

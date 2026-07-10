@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Coconat | Bad Belzig | from €810/mo | private, shared | — | Permanent |
+| Coconat | Bad Belzig | from €750/mo | private, shared | — | Permanent |
 
 ## Price distribution
 

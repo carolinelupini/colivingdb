@@ -4,7 +4,7 @@
 
 - **Location:** Canggu, Bali, Indonesia
 - **Type:** Permanent coliving
-- **Price:** from $1,095/mo (≈€780)
+- **Price:** from $1,095/mo
 - **Price note:** private rooms from $1,095/month
 - **Room types:** private, shared
 - **Dorm available:** No

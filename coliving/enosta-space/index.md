@@ -4,7 +4,7 @@
 
 - **Location:** Da Nang, Vietnam
 - **Type:** Permanent coliving
-- **Price:** from VND 8,500,000/mo (≈€283)
+- **Price:** from VND 8,500,000/mo
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** —

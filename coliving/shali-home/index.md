@@ -4,7 +4,7 @@
 
 - **Location:** Siwa, Egypt
 - **Type:** Permanent coliving
-- **Price:** from €167/mo
+- **Price:** from BGN 325/mo
 - **Price note:** from BGN 326/mo (4-bed shared)
 - **Room types:** private, shared
 - **Dorm available:** Yes

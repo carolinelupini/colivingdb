@@ -6,6 +6,6 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Coworkerei Coliving | Mils / Innsbruck (Tyrol) | On request | private, shared | — | Permanent |
+| Coworkerei Coliving | Mils / Innsbruck (Tyrol) | from €12/night | private, shared | — | Permanent |
 
 Source: https://colivingdb.com/city/austria/mils-innsbruck-tyrol/

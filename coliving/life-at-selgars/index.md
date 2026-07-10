@@ -4,7 +4,7 @@
 
 - **Location:** Uffculme, Devon, United Kingdom
 - **Type:** Permanent coliving
-- **Price:** from £1,200/mo (≈€990)
+- **Price:** from £950/mo
 - **Price note:** €990/mo on Mapmelon; operator lists £1,200/mo (£700 for 2-week min)
 - **Room types:** private
 - **Dorm available:** No
@@ -17,7 +17,7 @@
 
 | Stay length | Private |
 |---|---|
-| Per month | £1,200 |
+| Per month | £950 |
 
 No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
 

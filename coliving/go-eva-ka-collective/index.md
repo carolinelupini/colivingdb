@@ -4,7 +4,7 @@
 
 - **Location:** Divcibare, Serbia
 - **Type:** Permanent coliving
-- **Price:** from RSD 265,500/mo (≈€1,960)
+- **Price:** from RSD 265,500/mo
 - **Price note:** from BGN 3,872/mo incl. breakfast+dinner
 - **Room types:** private
 - **Dorm available:** No

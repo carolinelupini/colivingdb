@@ -6,8 +6,8 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| The Atsipopoulo (Atsipopoulo Home) | Atsipopoulo | from €825/mo | private | 30 nights (~1 month) | Permanent |
-| Charalampou Liandri Home | Atsipopoulo | On request | private | 30 nights (~1 month) | Permanent |
+| The Atsipopoulo (Atsipopoulo Home) | Atsipopoulo | from €6,530/mo | private | 30 nights (~1 month) | Permanent |
+| Charalampou Liandri Home | Atsipopoulo | from €5,780/mo | private | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

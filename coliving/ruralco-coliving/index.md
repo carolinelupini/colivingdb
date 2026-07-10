@@ -4,7 +4,7 @@
 
 - **Location:** Culla, Castellón, Spain
 - **Type:** Permanent coliving
-- **Price:** from €600/mo
+- **Price:** from €550/mo
 - **Price note:** from €20/night, est. monthly
 - **Room types:** private, shared
 - **Dorm available:** No

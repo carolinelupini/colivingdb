@@ -4,7 +4,7 @@
 
 - **Location:** Mexico City, Mexico
 - **Type:** Permanent coliving
-- **Price:** from MXN 15,250/mo (≈€815)
+- **Price:** from MXN 15,250/mo
 - **Price note:** from ~13,000 MXN/month all-inclusive; est.
 - **Room types:** private
 - **Dorm available:** No
