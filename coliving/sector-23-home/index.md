@@ -4,7 +4,7 @@
 
 - **Location:** Navi Mumbai, India
 - **Type:** Permanent coliving
-- **Price:** from BGN 242/mo
+- **Price:** On request
 - **Price note:** from BGN 242/mo (bunk bed)
 - **Room types:** dorm
 - **Dorm available:** Yes
@@ -12,14 +12,6 @@
 - **Region:** Asia
 - **Tags:** city, coworking
 - **Website:** https://coliving.com/spaces/05dqyeqz
-
-## Rates
-
-| Stay length | Shared | Dorm |
-|---|---|---|
-| Per month | BGN 242 | BGN 242 |
-
-Sector 23 Home does not publish a nightly or weekly rate.
 
 ## About
 

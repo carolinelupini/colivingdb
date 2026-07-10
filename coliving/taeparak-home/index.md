@@ -4,7 +4,7 @@
 
 - **Location:** Chiang Mai, Thailand
 - **Type:** Permanent coliving
-- **Price:** from BGN 554/mo
+- **Price:** On request
 - **Price note:** from BGN 554/mo dorm ≈ €283; private ~€551
 - **Room types:** private, dorm
 - **Dorm available:** Yes
@@ -12,14 +12,6 @@
 - **Region:** Asia
 - **Tags:** city, coworking, community
 - **Website:** https://coliving.com/spaces/kshbupak
-
-## Rates
-
-| Stay length | Private | Dorm |
-|---|---|---|
-| Per month | BGN 1,077 | BGN 554 |
-
-Taeparak Home does not publish a nightly or weekly rate.
 
 ## About
 

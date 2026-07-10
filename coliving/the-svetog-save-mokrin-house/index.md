@@ -4,7 +4,7 @@
 
 - **Location:** Mokrin, Serbia
 - **Type:** Permanent coliving
-- **Price:** from BGN 4,107/mo
+- **Price:** On request
 - **Price note:** from BGN 4,108/mo shared bed, three daily meals included
 - **Rating:** <a href="https://maps.google.com/?cid=8358075020989643505&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (369 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
@@ -14,14 +14,6 @@
 - **Tags:** rural, community, coworking
 - **Website:** https://coliving.com/spaces/uvcl3xdi
 - **Rating:** 4.8 from 369 Google reviews
-
-## Rates
-
-| Stay length | Private | Shared |
-|---|---|---|
-| Per month | BGN 4,694 | BGN 4,107 |
-
-The Svetog Save (Mokrin House) does not publish a nightly or weekly rate.
 
 ## About
 

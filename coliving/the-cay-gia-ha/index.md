@@ -4,7 +4,7 @@
 
 - **Location:** Hoi An, Vietnam
 - **Type:** Permanent coliving
-- **Price:** from BGN 716/mo
+- **Price:** On request
 - **Price note:** from BGN 718/month private (~€367)
 - **Room types:** private
 - **Dorm available:** No
@@ -12,14 +12,6 @@
 - **Region:** Asia
 - **Tags:** community, coworking, rural
 - **Website:** https://coliving.com/spaces/upqaehgu
-
-## Rates
-
-| Stay length | Private |
-|---|---|
-| Per month | BGN 716 |
-
-The Cây Giá Hạ does not publish a nightly or weekly rate.
 
 ## About
 

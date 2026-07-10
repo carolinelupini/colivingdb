@@ -5,7 +5,7 @@
 - **Location:** Pakoštane, Croatia
 - **Type:** Pop-up / dated edition
 - **Dates:** winter season (guest house converted to coliving in winter; exact 2026 dates not published)
-- **Price:** from BGN 1,272/mo
+- **Price:** On request
 - **Price note:** bills included, weekly housekeeping, breakfast service
 - **Room types:** private
 - **Dorm available:** No
@@ -13,14 +13,6 @@
 - **Region:** Europe
 - **Tags:** beach, community
 - **Website:** https://coliving.com/spaces/kir2txmg
-
-## Rates
-
-| Stay length | Private |
-|---|---|
-| Per month | BGN 1,272 |
-
-Ante Starčevića Home does not publish a nightly or weekly rate.
 
 ## About
 

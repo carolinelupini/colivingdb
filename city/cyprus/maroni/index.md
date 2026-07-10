@@ -1,17 +1,11 @@
 # Coliving in Maroni, Cyprus
 
-> 1 colivings in Maroni, Cyprus, prices from €1,160 to €1,160 per month – last updated July 10, 2026.
+> 1 colivings in Maroni, Cyprus – last updated July 10, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| The Agiou Georgiou (Agiou Georgiou Home / The Retreat) | Maroni | from BGN 2,152/mo | — | private | 30 nights (~1 month) | Permanent |
-
-## Price distribution
-
-| Band (EUR/mo) | Colivings |
-|---|---|
-| 800–1200 | 1 |
+| The Agiou Georgiou (Agiou Georgiou Home / The Retreat) | Maroni | On request | — | private | 30 nights (~1 month) | Permanent |
 
 Source: https://colivingdb.com/city/cyprus/maroni/

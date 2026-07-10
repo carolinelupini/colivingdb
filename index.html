@@ -39,8 +39,13 @@
   .hero-search .ico{position:absolute; left:16px; top:50%; transform:translateY(-50%); color:var(--muted); font-size:1.05rem;}
 
   /* filter bar — list view only, below the map */
-  .filters{padding:12px 22px; display:flex; gap:10px 12px; align-items:center; flex-wrap:wrap; max-width:var(--wrap); margin:14px auto 0; background:var(--card); border:1px solid var(--line); border-radius:12px;}
+  .filters{padding:12px 18px; display:flex; flex-direction:column; gap:10px; max-width:var(--wrap); margin:14px auto 0; background:var(--card); border:1px solid var(--line); border-radius:12px;}
+  .frline{display:flex; gap:8px 10px; align-items:center; flex-wrap:wrap;}
+  .frline.controls{padding:9px 0; border-top:1px solid var(--line); border-bottom:1px solid var(--line);}
+  .fspacer{flex:1 1 auto;}
+  .unit-lbl{font-size:.8rem; color:var(--muted);}
   .frow{display:flex; gap:6px; align-items:center; flex-wrap:wrap;}
+  .frow.regions, .frow.tags{flex:1 1 auto;}
   .chip{border:1px solid var(--line); background:var(--card); border-radius:999px; padding:6px 13px; font-size:.83rem; cursor:pointer; color:var(--ink); transition:all .12s;}
   .chip:hover{border-color:var(--accent);}
   .chip.on{background:var(--accent); border-color:var(--accent); color:#fff;}
@@ -51,8 +56,9 @@
   #reset{background:none; border:none; color:var(--muted); font-size:.8rem; cursor:pointer; text-decoration:underline;}
   .back{background:none; border:1px solid var(--line); border-radius:999px; color:var(--accent); font-size:.82rem; font-weight:600; cursor:pointer; padding:5px 13px;}
   .back:hover{border-color:var(--accent);}
-  #count{font-size:.83rem; color:var(--muted); margin-left:auto; white-space:nowrap;}
+  #count{font-size:.83rem; color:var(--muted); margin-left:auto; white-space:nowrap; font-variant-numeric:tabular-nums;}
   #count b{color:var(--ink);}
+  .frline.controls select{min-width:0;}
 
   #map{height:38vh; min-height:250px; z-index:1; max-width:var(--wrap); margin:16px auto 0; border-radius:12px; overflow:hidden; border:1px solid var(--line);}
   .map-legend{background:rgba(255,255,255,.93); border:1px solid var(--line); border-radius:8px; padding:6px 10px; font-size:.74rem; color:var(--ink); display:flex; gap:13px; box-shadow:0 1px 4px rgba(20,40,80,.12);}
@@ -188,46 +194,53 @@
 
 <!-- filter bar: appears below the map only after you drill in -->
 <div class="filters" id="filters" style="display:none">
-  <button class="back" id="back">← Browse</button>
-  <span class="sep"></span>
-  <div class="frow" id="regions"></div>
-  <span class="sep"></span>
-  <select id="country" autocomplete="off"><option value="">All countries</option></select>
-  <select id="room" autocomplete="off">
-    <option value="">Any room</option>
-    <option value="private">Private room</option>
-    <option value="shared">Shared room</option>
-    <option value="dorm">Dorm available</option>
-  </select>
-  <select id="format" autocomplete="off">
-    <option value="">All types</option>
-    <option value="permanent">Permanent</option>
-    <option value="pop-up">Pop-ups</option>
-  </select>
-  <select id="month" autocomplete="off" title="Pop-ups running in a given month (permanents always shown)"><option value="">Any month</option></select>
-  <select id="minstay" autocomplete="off" title="Shortest stay a place will accept">
-    <option value="">Any stay</option>
-    <option value="3">Few days OK (≤3 nights)</option>
-    <option value="7">≤ 1 week min</option>
-    <option value="14">≤ 2 weeks min</option>
-    <option value="30">≤ 1 month min</option>
-  </select>
-  <span class="sep"></span>
-  <div class="frow" id="tags"></div>
-  <span class="sep"></span>
-  <div class="seg" id="unitSeg" role="group" aria-label="Show prices per stay length">
-    <button type="button" data-unit="night">night</button><button type="button" data-unit="week">week</button><button type="button" data-unit="month" class="on">month</button>
+  <!-- row 1: navigation + regions + count -->
+  <div class="frline">
+    <button class="back" id="back">← Browse</button>
+    <div class="frow regions" id="regions"></div>
+    <div id="count"></div>
   </div>
-  <select id="price" autocomplete="off">
-    <option value="">Any price</option>
-    <option value="600">≤ €600/mo</option>
-    <option value="900">≤ €900/mo</option>
-    <option value="1200">≤ €1200/mo</option>
-    <option value="2000">≤ €2000/mo</option>
-  </select>
-  <label class="toggle"><input type="checkbox" id="hideUnclear" autocomplete="off"> Hide unconfirmed</label>
-  <button id="reset">reset</button>
-  <div id="count"></div>
+  <!-- row 2: the dropdown controls + price-unit toggle -->
+  <div class="frline controls">
+    <select id="country" autocomplete="off"><option value="">All countries</option></select>
+    <select id="room" autocomplete="off">
+      <option value="">Any room</option>
+      <option value="private">Private room</option>
+      <option value="shared">Shared room</option>
+      <option value="dorm">Dorm available</option>
+    </select>
+    <select id="format" autocomplete="off">
+      <option value="">All types</option>
+      <option value="permanent">Permanent</option>
+      <option value="pop-up">Pop-ups</option>
+    </select>
+    <select id="month" autocomplete="off" title="Pop-ups running in a given month (permanents always shown)"><option value="">Any month</option></select>
+    <select id="minstay" autocomplete="off" title="Shortest stay a place will accept">
+      <option value="">Any stay</option>
+      <option value="3">Few days OK (≤3 nights)</option>
+      <option value="7">≤ 1 week min</option>
+      <option value="14">≤ 2 weeks min</option>
+      <option value="30">≤ 1 month min</option>
+    </select>
+    <span class="fspacer"></span>
+    <label class="unit-lbl">Rates:</label>
+    <div class="seg" id="unitSeg" role="group" aria-label="Show prices per stay length">
+      <button type="button" data-unit="night">night</button><button type="button" data-unit="week">week</button><button type="button" data-unit="month" class="on">month</button>
+    </div>
+    <select id="price" autocomplete="off">
+      <option value="">Any price</option>
+      <option value="600">≤ €600/mo</option>
+      <option value="900">≤ €900/mo</option>
+      <option value="1200">≤ €1200/mo</option>
+      <option value="2000">≤ €2000/mo</option>
+    </select>
+  </div>
+  <!-- row 3: tag chips + toggles -->
+  <div class="frline">
+    <div class="frow tags" id="tags"></div>
+    <label class="toggle"><input type="checkbox" id="hideUnclear" autocomplete="off"> Hide unconfirmed</label>
+    <button id="reset">reset</button>
+  </div>
 </div>
 
 <div id="landing">

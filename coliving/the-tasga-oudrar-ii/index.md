@@ -4,7 +4,7 @@
 
 - **Location:** Taghazout, Morocco
 - **Type:** Permanent coliving
-- **Price:** from BGN 2,445/mo
+- **Price:** On request
 - **Price note:** from BGN 2,445/month dorm (~€1,250); private from ~€2,850
 - **Room types:** private, dorm
 - **Dorm available:** Yes
@@ -12,14 +12,6 @@
 - **Region:** Africa
 - **Tags:** beach, surf, community, coworking
 - **Website:** https://coliving.com/spaces/vwoainxh
-
-## Rates
-
-| Stay length | Private | Dorm |
-|---|---|---|
-| Per month | BGN 5,574 | BGN 2,445 |
-
-The Tasga Oudrar II does not publish a nightly or weekly rate.
 
 ## About
 

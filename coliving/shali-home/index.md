@@ -4,7 +4,7 @@
 
 - **Location:** Siwa, Egypt
 - **Type:** Permanent coliving
-- **Price:** from BGN 325/mo
+- **Price:** On request
 - **Price note:** from BGN 326/mo (4-bed shared)
 - **Rating:** <a href="https://maps.google.com/?cid=10395165816309968410&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (1 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
@@ -14,14 +14,6 @@
 - **Tags:** rural, community, eco
 - **Website:** https://coliving.com/spaces/gcgi4sat
 - **Rating:** 5.0 from 1 Google reviews
-
-## Rates
-
-| Stay length | Private | Dorm |
-|---|---|---|
-| Per month | BGN 514 | BGN 325 |
-
-Shali Home does not publish a nightly or weekly rate.
 
 ## About
 

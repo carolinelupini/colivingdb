@@ -4,7 +4,7 @@
 
 - **Location:** Cape Town, South Africa
 - **Type:** Permanent coliving
-- **Price:** from BGN 2,383/mo
+- **Price:** On request
 - **Price note:** from BGN 2,375/mo
 - **Room types:** private
 - **Dorm available:** No
@@ -12,14 +12,6 @@
 - **Region:** Africa
 - **Tags:** city, coworking, community
 - **Website:** https://coliving.com/spaces/t5grveru
-
-## Rates
-
-| Stay length | Private |
-|---|---|
-| Per month | BGN 2,383 |
-
-The Hill does not publish a nightly or weekly rate.
 
 ## About
 

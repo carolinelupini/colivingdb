@@ -4,7 +4,7 @@
 
 - **Location:** Divcibare, Serbia
 - **Type:** Permanent coliving
-- **Price:** from BGN 3,861/mo
+- **Price:** On request
 - **Price note:** from BGN 3,872/mo incl. breakfast+dinner
 - **Room types:** private
 - **Dorm available:** No
@@ -12,14 +12,6 @@
 - **Region:** Europe
 - **Tags:** mountain, rural, community, coworking
 - **Website:** https://coliving.com/spaces/pmj6tcwm
-
-## Rates
-
-| Stay length | Private |
-|---|---|
-| Per month | BGN 3,861 |
-
-Gođevačka Collective does not publish a nightly or weekly rate.
 
 ## About
 
