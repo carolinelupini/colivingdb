@@ -222,6 +222,12 @@
       <option value="14">≤ 2 weeks min</option>
       <option value="30">≤ 1 month min</option>
     </select>
+    <select id="minrating" autocomplete="off" title="Minimum Google rating (only listings we have a rating for)">
+      <option value="">Any rating</option>
+      <option value="4.5">★ 4.5+</option>
+      <option value="4">★ 4.0+</option>
+      <option value="3.5">★ 3.5+</option>
+    </select>
     <span class="fspacer"></span>
     <label class="unit-lbl">Rates:</label>
     <div class="seg" id="unitSeg" role="group" aria-label="Show prices per stay length">
@@ -334,7 +340,7 @@ const TAGS = Object.keys(tagFreq).sort((a,b)=>tagFreq[b]-tagFreq[a]);
 // order interleaves warm/cool so the look-alike pairs never sit next to each other
 const TYPE_ORDER = ["community","beach","family","island","coworking","eco","rural","startup","surf","mountain","ski","city"];
 
-const state = {region:"All", country:"", room:"", format:"", month:"", minStay:"", tags:new Set(), price:"", q:"", hideUnclear:false, showAll:false, currency:"", unit:"month"};
+const state = {region:"All", country:"", room:"", format:"", month:"", minStay:"", minRating:"", tags:new Set(), price:"", q:"", hideUnclear:false, showAll:false, currency:"", unit:"month"};
 
 // ---- pop-up month coverage: turn a popupDates string into the set of YYYY-MM it spans ----
 const MONTH_IDX={jan:1,feb:2,mar:3,apr:4,may:5,jun:6,jul:7,aug:8,sep:9,sept:9,oct:10,nov:11,dec:12,
@@ -479,6 +485,7 @@ const monthSel=document.getElementById("month");
 }
 monthSel.onchange=e=>{state.month=e.target.value; render();};
 document.getElementById("minstay").onchange=e=>{state.minStay=e.target.value; render();};
+document.getElementById("minrating").onchange=e=>{state.minRating=e.target.value; render();};
 // stay-length toggle: switching unit re-scales the price buckets (a €600 nightly cap is nonsense)
 document.querySelectorAll("#unitSeg button").forEach(b=>{
   b.onclick=()=>{
@@ -544,8 +551,8 @@ formModal.querySelector(".modal-backdrop").onclick=closeForm;
 document.addEventListener("keydown",e=>{ if(e.key==="Escape" && formModal.style.display==="flex") closeForm(); });
 
 function resetFilters(){
-  Object.assign(state,{region:"All",country:"",room:"",format:"",month:"",minStay:"",price:"",q:"",hideUnclear:false,showAll:false,unit:"month"}); state.tags.clear();
-  ["country","room","format","month","minstay","price"].forEach(id=>document.getElementById(id).value="");
+  Object.assign(state,{region:"All",country:"",room:"",format:"",month:"",minStay:"",minRating:"",price:"",q:"",hideUnclear:false,showAll:false,unit:"month"}); state.tags.clear();
+  ["country","room","format","month","minstay","minrating","price"].forEach(id=>document.getElementById(id).value="");
   document.querySelectorAll("#unitSeg button").forEach(b=>b.classList.toggle("on", b.dataset.unit==="month"));
   buildPriceOptions();
   document.getElementById("search").value=""; document.getElementById("hideUnclear").checked=false;
@@ -572,7 +579,7 @@ window.addEventListener("resize", () => map.invalidateSize());
 let markers=[];
 
 function isBrowse(){
-  return state.region==="All" && !state.country && !state.room && !state.format && !state.month && !state.minStay
+  return state.region==="All" && !state.country && !state.room && !state.format && !state.month && !state.minStay && !state.minRating
     && !state.tags.size && !state.price && !state.q && !state.hideUnclear && !state.showAll;
 }
 function hasRoom(x, room){
@@ -587,6 +594,7 @@ function filtered(){
     (!state.format||x.format===state.format) &&
     (!state.month||x.format!=="pop-up"||popupMonths(x.popupDates).has(state.month)) &&
     (!state.minStay||(x.minStayNights&&x.minStayNights<=+state.minStay)) &&
+    (!state.minRating||(x.rating&&x.rating>=+state.minRating)) &&
     // price cap compares against the rate for the SELECTED stay length, in EUR.
     // A listing with no published rate for that length simply can't satisfy a price cap.
     (!state.price||(()=>{ const a=rateAmount(x,"from"); if(a==null) return false;
@@ -742,7 +750,7 @@ function render(){
   });
 
   if(withCoords.length){
-    const tight = !browse && (state.region!=="All"||state.country||state.room||state.format||state.month||state.minStay||state.q||state.tags.size||state.price||state.hideUnclear);
+    const tight = !browse && (state.region!=="All"||state.country||state.room||state.format||state.month||state.minStay||state.minRating||state.q||state.tags.size||state.price||state.hideUnclear);
     map.fitBounds(L.featureGroup(withCoords).getBounds().pad(tight?0.25:0.02),{maxZoom:tight?9:5});
   }
 }
