@@ -3,8 +3,9 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>colivingDB — find colivings anywhere</title>
-<!--FAVICON-START--><link rel="icon" href="/favicon.ico" sizes="32x32"><link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><!--FAVICON-END-->
+<title>colivingDB — every coliving worldwide, one map</title>
+<meta name="description" content="A free directory of coliving spaces worldwide — one map, native-currency pricing, ratings, and no login. Browse permanent colivings and pop-ups by country, city, price, room type and stay length.">
+<!--FAVICON-START--><link rel="icon" href="/favicon.ico" sizes="32x32"><link rel="icon" href="/favicon-48.png" type="image/png" sizes="48x48"><link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><!--FAVICON-END-->
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-GBDMVK7LWL"></script>
 <script>
@@ -245,6 +246,14 @@
         <option value="1200">≤ €1200/mo</option>
         <option value="2000">≤ €2000/mo</option>
       </select>
+      <span class="fspacer" style="flex:1 1 auto"></span>
+      <label class="unit-lbl">Sort:</label>
+      <select id="sort" autocomplete="off" title="Sort the list">
+        <option value="">Default</option>
+        <option value="price-asc">Price: low to high</option>
+        <option value="price-desc">Price: high to low</option>
+        <option value="rating">Rating: high to low</option>
+      </select>
     </div>
   </div>
   <!-- row 3: tag chips + toggles -->
@@ -259,6 +268,15 @@
   <div class="cards-grid" id="regionCards"></div>
   <div class="browse-h">Browse by type</div>
   <div class="cards-grid types" id="typeCards"></div>
+  <div class="signup">
+    <div class="signup-inner">
+      <div>
+        <div class="signup-h">New colivings in your inbox</div>
+        <div class="signup-sub">A monthly roundup of new spaces + upcoming pop-ups. No spam, unsubscribe anytime.</div>
+      </div>
+      <iframe class="signup-form" src="https://subscribe-forms.beehiiv.com/e2050a21-3afe-41f0-a9de-132528b8cda6" title="Subscribe to colivingDB" frameborder="0" scrolling="no"></iframe>
+    </div>
+  </div>
   <div class="browse-countries"><span class="bc-label">Popular countries</span><span id="countryChips" style="flex:1 1 100%;max-width:100%;display:flex;flex-wrap:wrap;gap:7px;justify-content:center"></span></div>
   <div class="show-all-wrap"><button class="show-all" id="showAll">Show all colivings →</button></div>
   <div class="submit-cta">Run a coliving that isn't listed? <a id="submitLink" href="#">Add it to colivingDB →</a></div>
@@ -276,16 +294,6 @@
   <div id="rows"></div>
 </div>
 <div class="empty" id="empty" style="display:none">Nothing matches — loosen a filter.</div>
-
-<div class="signup">
-  <div class="signup-inner">
-    <div>
-      <div class="signup-h">New colivings in your inbox</div>
-      <div class="signup-sub">A monthly roundup of new spaces + upcoming pop-ups. No spam, unsubscribe anytime.</div>
-    </div>
-    <iframe class="signup-form" src="https://subscribe-forms.beehiiv.com/e2050a21-3afe-41f0-a9de-132528b8cda6" title="Subscribe to colivingDB" frameborder="0" scrolling="no"></iframe>
-  </div>
-</div>
 
 <button id="feedbackBtn" class="fab" type="button" title="Report a bug, request a filter, or suggest a feature">
   <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M21 11.5a8.4 8.4 0 0 1-9 8.4 9.9 9.9 0 0 1-4.2-.9L3 21l1.9-4.1A8.4 8.4 0 0 1 12 3.1a8.4 8.4 0 0 1 9 8.4z"/></svg>
@@ -346,7 +354,7 @@ const TAGS = Object.keys(tagFreq).sort((a,b)=>tagFreq[b]-tagFreq[a]);
 // order interleaves warm/cool so the look-alike pairs never sit next to each other
 const TYPE_ORDER = ["community","beach","family","island","coworking","eco","rural","startup","surf","mountain","ski","city"];
 
-const state = {region:"All", country:"", room:"", format:"", month:"", minStay:"", minRating:"", tags:new Set(), price:"", q:"", showAll:false, currency:"", unit:"month"};
+const state = {region:"All", country:"", room:"", format:"", month:"", minStay:"", minRating:"", sort:"", tags:new Set(), price:"", q:"", showAll:false, currency:"", unit:"month"};
 
 // ---- pop-up month coverage: turn a popupDates string into the set of YYYY-MM it spans ----
 const MONTH_IDX={jan:1,feb:2,mar:3,apr:4,may:5,jun:6,jul:7,aug:8,sep:9,sept:9,oct:10,nov:11,dec:12,
@@ -465,7 +473,8 @@ document.getElementById("footer").innerHTML =
 const regionsEl = document.getElementById("regions");
 REGIONS.filter(r => r==="All" || C.some(x=>x.region===r)).forEach(r=>{
   const b=document.createElement("button"); b.className="chip"+(r==="All"?" on":""); b.textContent=r;
-  b.onclick=()=>{state.region=r; if(r==="All") state.showAll=false; state.country=""; document.getElementById("country").value=""; render();};
+  // "All" in the filter bar shows every coliving in the list (stay on the page), not the browse landing
+  b.onclick=()=>{state.region=r; state.showAll=true; state.country=""; document.getElementById("country").value=""; render();};
   regionsEl.appendChild(b);
 });
 // tag chips (filter bar)
@@ -492,6 +501,7 @@ const monthSel=document.getElementById("month");
 monthSel.onchange=e=>{state.month=e.target.value; render();};
 document.getElementById("minstay").onchange=e=>{state.minStay=e.target.value; render();};
 document.getElementById("minrating").onchange=e=>{state.minRating=e.target.value; render();};
+document.getElementById("sort").onchange=e=>{state.sort=e.target.value; render();};
 // stay-length toggle: switching unit re-scales the price buckets (a €600 nightly cap is nonsense)
 document.querySelectorAll("#unitSeg button").forEach(b=>{
   b.onclick=()=>{
@@ -558,10 +568,10 @@ document.addEventListener("keydown",e=>{ if(e.key==="Escape" && formModal.style.
 // clear every filter to default. `toBrowse` = also return to the browse landing (Back / logo);
 // otherwise stay on the current list view with the map + filters and all colivings shown (Reset).
 function resetFilters(toBrowse){
-  Object.assign(state,{region:"All",country:"",room:"",format:"",month:"",minStay:"",minRating:"",price:"",q:"",unit:"month"});
+  Object.assign(state,{region:"All",country:"",room:"",format:"",month:"",minStay:"",minRating:"",sort:"",price:"",q:"",unit:"month"});
   state.tags.clear();
   state.showAll = (toBrowse === true) ? false : true;
-  ["country","room","format","month","minstay","minrating","price"].forEach(id=>document.getElementById(id).value="");
+  ["country","room","format","month","minstay","minrating","sort","price"].forEach(id=>document.getElementById(id).value="");
   document.querySelectorAll("#unitSeg button").forEach(b=>b.classList.toggle("on", b.dataset.unit==="month"));
   buildPriceOptions();
   document.getElementById("search").value="";
@@ -673,7 +683,9 @@ function priceCell(x){
   const amts = Object.keys(byPrice).map(Number).sort((a,b)=>a-b);
   if(amts.length){
     const cur=byPrice[amts[0]].cur;
-    const main=`<div class="from">${amts.length>1?'<small>from </small>':''}${fmtMoney(amts[0],cur)}<small>${suffix}</small></div>`;
+    // call out WHICH room the cheapest price is for, and list the others below
+    const cheap=byPrice[amts[0]].tiers.join("/");
+    const main=`<div class="from">${amts.length>1?'<small>from </small>':''}${fmtMoney(amts[0],cur)}<small>${suffix} · ${cheap}</small></div>`;
     const brk = amts.length>1
       ? `<div class="brk">${amts.map(a=>`<b>${byPrice[a].tiers.join("/")}</b> ${fmtMoney(a,byPrice[a].cur)}`).join(" · ")}</div>`
       : "";
@@ -715,11 +727,25 @@ function tagChip(t){
   return `<span class="t" style="background:${tint(hue,10)};color:${hue};border-color:${tint(hue,28)}">${t}</span>`;
 }
 
+// EUR value of a listing's cheapest rate for the currently-selected unit — for sorting/price cap.
+// Listings with no rate for that unit sort last (Infinity).
+function fromEUR(x){
+  const ur=(x.rates||{})[state.unit]; if(!ur) return Infinity;
+  const amt = ur.from ?? Math.min(...Object.values(ur).filter(v=>typeof v==="number"));
+  const e = toEur(amt, rateCurOf(x));
+  return (e==null) ? Infinity : e;
+}
+function sortForDisplay(list){
+  if(state.sort==="price-asc")  return [...list].sort((a,b)=>fromEUR(a)-fromEUR(b));
+  if(state.sort==="price-desc") return [...list].sort((a,b)=>{const A=fromEUR(a),B=fromEUR(b); if(A===Infinity)return 1; if(B===Infinity)return -1; return B-A;});
+  if(state.sort==="rating")     return [...list].sort((a,b)=>(b.rating||0)-(a.rating||0));
+  return list;
+}
 function render(){
   document.querySelectorAll("#regions .chip").forEach(b=>b.classList.toggle("on",b.textContent===state.region));
   document.querySelectorAll("#tags .chip").forEach(b=>b.classList.toggle("on",state.tags.has(b.textContent)));
   const browse = isBrowse();
-  const list=filtered();
+  const list=sortForDisplay(filtered());
   document.getElementById("count").innerHTML=`Showing <b>${list.length}</b> of ${C.length} colivings`;
   document.getElementById("landing").style.display = browse ? "" : "none";
   document.getElementById("filters").style.display = browse ? "none" : "";
