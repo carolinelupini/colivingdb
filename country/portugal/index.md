@@ -18,7 +18,7 @@
 | Novovento | Ginetes, São Miguel, Azores | from €300/mo | 4.8 (48) | private | 7 nights (~1 week) | Permanent |
 | Lava Coliving & Coworking | Ribeira Grande, São Miguel | from €25/night | 4.9 (60) | private, shared | 7 nights (~1 week) | Permanent |
 | Lava Coliving (LAVA Acores) | Ribeira Grande, Sao Miguel, Azores | from €750/mo | 4.9 (60) | private, shared | — | Permanent |
-| Calcada Coliving (Calçada Guesthouse) | Tavira | from €780/mo | — | private | 29 nights | Permanent |
+| Calcada Coliving (Calçada Guesthouse) | Tavira | from €780/mo | 4.9 (90) | private | 29 nights | Permanent |
 | Outsite Algarve - Sagres | Sagres | from €800/mo | 4.4 (23) | private | — | Permanent |
 | Outsite Coliving Lisbon (Cais do Sodré) | Lisbon | from €800/mo | 4.4 (79) | private | — | Permanent |
 | Outsite Ericeira - Boavista | Ericeira | from €800/mo | — | private | — | Permanent |
@@ -27,7 +27,7 @@
 | samesame co-living | Lisbon | from €800/mo | 4.8 (84) | private | 8 nights | Permanent |
 | WiFi Tribe — Porto | Porto | from $990/mo | — | — | — | Pop-up |
 | A ver o Mar 1 | Coliving & Coworking | Funchal, Madeira | Ponta do Sol | from €920/mo | 4.6 (51) | private, dorm | 14 nights (~2 weeks) | Permanent |
-| Casa15 Azores | Sao Miguel, Azores | from €950/mo | 4.9 (145) | private | — | Permanent |
+| Casa15 Azores | Sao Miguel, Azores | from €950/mo | — | private | — | Permanent |
 | Swelldesk Coliving & Coworking | Baleal, Peniche | from €960/mo | 4.9 (20) | private, shared | — | Permanent |
 | Banana House (Ponta do Sol Coliving) | Ponta do Sol, Madeira | from €997/mo | 4.3 (13) | private | 30 nights (~1 month) | Permanent |
 | Outsite Algarve - Vilamoura | Vilamoura | from €1,000/mo | 4.7 (15) | private | — | Permanent |

@@ -7,7 +7,7 @@
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
 | SC Coliving | St Julian's | from €420/mo | — | private, shared | — | Permanent |
-| SC Club Village | St Julian's | On request | — | private, shared | — | Permanent |
+| SC Club Village | St Julian's | On request | 3.2 (83) | private, shared | — | Permanent |
 
 ## Price distribution
 

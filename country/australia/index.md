@@ -9,7 +9,7 @@
 | CDA Coliving | Sydney | from A$780/mo | — | private, shared | 90 nights (~3 months) | Permanent |
 | Bungalow Co | Sydney | from A$866/mo | 4.6 (11) | private | — | Permanent |
 | Treehouse Toowong | Brisbane | from A$1,333/mo | 4.4 (26) | private | — | Permanent |
-| Living High | Sydney | from A$1,472/mo | 4.2 (190) | private, shared | — | Permanent |
+| Living High | Sydney | from A$1,472/mo | — | private, shared | — | Permanent |
 | NESTL | Sydney | from A$2,772/mo | 5.0 (10) | private, shared | — | Permanent |
 | The Switch | Sydney | from A$3,503/mo | 4.8 (81) | private, shared | — | Permanent |
 | Life in Byron | Byron Bay | from A$200/wk | 4.6 (96) | private, shared, dorm | — | Permanent |

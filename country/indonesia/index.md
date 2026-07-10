@@ -12,7 +12,7 @@
 | The Sunset II | Kuta | from $555/mo | 4.8 (104) | private | 30 nights (~1 month) | Permanent |
 | Bali Bustle Coliving | Legian, Bali | from IDR 8,700,000/mo | 4.6 (462) | private | 3 nights | Permanent |
 | Outpost Ubud Penestanan | Ubud, Bali | from $849/mo | 4.6 (321) | private, shared | 14 nights (~2 weeks) | Permanent |
-| Outpost | Canggu, Bali | from $1,095/mo | — | private, shared | — | Permanent |
+| Outpost | Canggu, Bali | from $1,095/mo | 4.7 (320) | private, shared | — | Permanent |
 | Outpost Ubud Nyuh Kuning | Ubud, Bali | from $849/mo | 4.7 (320) | private, shared | 14 nights (~2 weeks) | Permanent |
 | The Ubud Residence (Raya Nyuh Kuning) | Ubud | from $949/mo | 5.0 (131) | private | 30 nights (~1 month) | Permanent |
 | Tropical Nomad Coliving | Canggu | from $950/mo | 4.4 (377) | private | — | Permanent |
@@ -22,7 +22,7 @@
 | Coworksurf Berawa (Canggu) | Canggu | On request | 4.3 (20) | private | — | Permanent |
 | Coworksurf Kuta Lombok | Kuta Lombok | On request | — | private | — | Permanent |
 | Coworksurf Uluwatu | Uluwatu | On request | 5.0 (966) | private | — | Permanent |
-| Dream Cowork Hotel Lombok | Kuta Lombok | On request | 4.1 (401) | private, dorm | — | Permanent |
+| Dream Cowork Hotel Lombok | Kuta Lombok | On request | 4.1 (402) | private, dorm | — | Permanent |
 | Markaz Collective Space | Bandung | On request | 4.7 (96) | — | — | Permanent |
 | Outsite Bali - Pererenan | Pererenan, Bali | On request | 4.4 (80) | private, shared | — | Permanent |
 | Parq Ubud | Ubud, Bali | On request | 4.4 (1727) | private | — | Permanent |

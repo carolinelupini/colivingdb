@@ -12,7 +12,7 @@
 | Nomadico Coliving Bansko | Bansko | from €638/mo | 4.9 (16) | private, shared | 7 nights (~1 week) | Permanent |
 | The Pirin | Bansko | from BGN 1,424/mo | — | private | 30 nights (~1 month) | Pop-up |
 | Coliving Valentina Bansko | Bansko | from €750/mo | 4.7 (106) | private | — | Permanent |
-| Coliving Bansko by "Coworking Bansko" and Networking Premium | Bansko | On request | — | private | — | Permanent |
+| Coliving Bansko by "Coworking Bansko" and Networking Premium | Bansko | On request | 4.4 (112) | private | — | Permanent |
 
 ## Price distribution
 

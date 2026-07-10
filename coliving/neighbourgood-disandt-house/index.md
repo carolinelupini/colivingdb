@@ -6,14 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from R13,000/mo
 - **Price note:** brand-wide from ~€749/mo; private standard ~€1,115+
-- **Rating:** <a href="https://maps.google.com/?cid=4551697731371283063&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (31 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=4551697731371283063&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (32 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** Yes
 - **Minimum stay:** —
 - **Region:** Africa
 - **Tags:** city, coworking, community
 - **Website:** https://www.neighbourgood.co
-- **Rating:** 4.9 from 31 Google reviews
+- **Rating:** 4.9 from 32 Google reviews
 
 ## Rates
 

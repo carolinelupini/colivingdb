@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €668/mo
 - **Price note:** from €750/mo (operator site); mapmelon €960 discounted
+- **Rating:** <a href="https://maps.google.com/?cid=6754065876422474822&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (38 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Asia
 - **Tags:** beach, surf, coworking, community
 - **Website:** https://www.nomadico.io/
+- **Rating:** 5.0 from 38 Google reviews
 
 ## Rates
 

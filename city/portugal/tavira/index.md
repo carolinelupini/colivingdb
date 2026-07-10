@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Calcada Coliving (Calçada Guesthouse) | Tavira | from €780/mo | — | private | 29 nights | Permanent |
+| Calcada Coliving (Calçada Guesthouse) | Tavira | from €780/mo | 4.9 (90) | private | 29 nights | Permanent |
 
 ## Price distribution
 

@@ -9,7 +9,7 @@
 | Communal Coliving | Santa Fe, Siargao | from PHP 35,000/mo | 5.0 (33) | dorm, shared, private | 6 nights | Permanent |
 | El Nido Home II | El Nido | from €1,641/mo | 4.0 (1) | private | 30 nights (~1 month) | Permanent |
 | Darocotan Home | El Nido | from €2,280/mo | 4.5 (307) | private, shared | 30 nights (~1 month) | Permanent |
-| Coworksurf Siargao (Lexias) | Siargao | On request | 4.1 (70) | private, dorm | — | Permanent |
+| Coworksurf Siargao (Lexias) | Siargao | On request | — | private, dorm | — | Permanent |
 | Kaya Connections — General Luna, Siargao | General Luna, Siargao | On request | — | — | — | Pop-up |
 | Lungga Coworking, Coliving & Cafe | General Luna (Siargao) | On request | 5.0 (38) | private, shared | — | Permanent |
 | Nomads Hub | Cebu | On request | 4.2 (142) | private, dorm | — | Permanent |

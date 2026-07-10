@@ -19,7 +19,7 @@
 | Chateau Coliving | Picauville (Normandy) | from €1,320/mo | 4.8 (128) | private, family apartment | 15 nights | Permanent |
 | Langeais Co-Living Castle (La Roche-Cotard) | Langeais | from €655/mo | 5.0 (16) | private | — | Permanent |
 | Not Sorry Coliving | near Tullins/Voiron, Isère (French Alps) | On request | — | private | — | Permanent |
-| Outsite Paris (Zoku) | Paris | On request | 4.6 (883) | private, shared | — | Permanent |
+| Outsite Paris (Zoku) | Paris | On request | 4.6 (884) | private, shared | — | Permanent |
 | The Journey of a Dream · Enchanted Coliving | Charente-Maritime | On request | 5.0 (17) | private | — | Permanent |
 
 ## Price distribution

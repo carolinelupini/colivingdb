@@ -10,7 +10,7 @@
 | Neighbourgood 113 Loop | Cape Town | from €345/mo | 4.6 (63) | private, shared | — | Permanent |
 | Nomadico Cape Town | Cape Town | from €609/mo | 5.0 (6) | private, shared | — | Permanent |
 | Neighbourgood Cape Quarter Living | Cape Town | from €749/mo | 4.4 (182) | private, shared | — | Permanent |
-| Neighbourgood Disandt House | Cape Town | from R13,000/mo | 4.9 (31) | private, shared | — | Permanent |
+| Neighbourgood Disandt House | Cape Town | from R13,000/mo | 4.9 (32) | private, shared | — | Permanent |
 | Neighbourgood Hill | Cape Town | from R13,000/mo | 4.1 (132) | private, shared | — | Permanent |
 | Neighbourgood Napier | Cape Town | from R13,000/mo | 5.0 (2) | private, shared | — | Permanent |
 | Neighbourgood Newlands | Cape Town | from R13,000/mo | 4.4 (398) | private, shared | — | Permanent |

@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Debed Coliving | Debet | from AMD 22,000/mo | — | private | 2 nights | Permanent |
+| Debed Coliving | Debet | from AMD 22,000/mo | 4.8 (37) | private | 2 nights | Permanent |
 
 ## Price distribution
 

@@ -101,7 +101,7 @@
 | Repeople Casa Jardin Coliving | Las Palmas de Gran Canaria | from €1,677/mo | 4.0 (4) | private | — | Permanent |
 | Repeople Casa Vera Coliving | Las Palmas de Gran Canaria | from €1,677/mo | — | private | — | Permanent |
 | Repeople Casanova Coliving | Las Palmas de Gran Canaria | from €1,677/mo | 5.0 (2) | private | — | Permanent |
-| Repeople La Luna Coliving | Santa Cruz de Tenerife | from €390/mo | — | private | — | Permanent |
+| Repeople La Luna Coliving | Santa Cruz de Tenerife | from €390/mo | 4.5 (22) | private | — | Permanent |
 | The Cocotera Hostel & Coworking | Tarifa | from €15/night | 4.4 (282) | private, dorm | — | Permanent |
 | The Wave Temple | Surfhouse, Coliving | Las Palmas de Gran Canaria | On request | 4.9 (55) | — | — | Permanent |
 | Tulia Guesthouse | Los Realejos | On request | 4.5 (22) | private, shared | — | Permanent |

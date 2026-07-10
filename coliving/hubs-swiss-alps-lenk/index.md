@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from CHF 633/mo
 - **Price note:** from CHF 633/mo (autumn season), private room; +tourism tax
+- **Rating:** <a href="https://maps.google.com/?cid=14043508934446088445&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (45 reviews)</a> <small>· Google</small>
 - **Room types:** private, studio, apartment
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
 - **Tags:** mountain, ski, coworking, community
 - **Website:** https://www.hubs.travel/destinations/swiss-alps-lenk
+- **Rating:** 4.9 from 45 Google reviews
 
 ## Rates
 

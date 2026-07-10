@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €390/mo
 - **Price note:** per-house rate not listed; network from ~EUR390/week
+- **Rating:** <a href="https://maps.google.com/?cid=11928412938559340621&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (22 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
 - **Tags:** city, island, coworking, community
 - **Website:** https://repeople.co
+- **Rating:** 4.5 from 22 Google reviews
 
 ## Rates
 

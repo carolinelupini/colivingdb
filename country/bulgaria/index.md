@@ -17,7 +17,7 @@
 | WorkNomads | Sofia | from €1,095/mo | 4.5 (480) | private | 30 nights (~1 month) | Permanent |
 | WorkNomads LAB Coliving | Sofia | from €1,095/mo | 4.5 (480) | private | — | Permanent |
 | Burgas Coliving | Burgas | from €1,400/mo | 4.9 (46) | private | — | Permanent |
-| Coliving Bansko by "Coworking Bansko" and Networking Premium | Bansko | On request | — | private | — | Permanent |
+| Coliving Bansko by "Coworking Bansko" and Networking Premium | Bansko | On request | 4.4 (112) | private | — | Permanent |
 
 ## Price distribution
 
