@@ -1,0 +1,19 @@
+# Blue Paradise Coliving
+
+> Coliving in Santa Cruz de Tenerife, Spain. Last updated July 10, 2026.
+
+- **Location:** Santa Cruz de Tenerife, Spain
+- **Type:** Permanent coliving
+- **Price:** from €810/mo
+- **Room types:** private
+- **Dorm available:** No
+- **Minimum stay:** 30 nights (~1 month)
+- **Region:** Europe
+- **Tags:** island, city, coworking, community, surf
+- **Website:** https://blueparadisecoliving.com/
+
+## About
+
+Confirmed permanent Tenerife coliving with private-ensuite-only rooms (no dorm/shared mentioned); site pricing page not directly accessible, retained EUR810/mo discounted rate from existing note.
+
+Source: https://colivingdb.com/coliving/blue-paradise-coliving/

@@ -1,0 +1,19 @@
+# Boundless Life Kamakura
+
+> Coliving in Kamakura, Japan. Last updated July 10, 2026.
+
+- **Location:** Kamakura, Japan
+- **Type:** Permanent coliving
+- **Price:** from €3,000/mo
+- **Room types:** private
+- **Dorm available:** No
+- **Minimum stay:** —
+- **Region:** Asia
+- **Tags:** beach, family, coworking, community
+- **Website:** https://www.boundless.life/kamakura-japan-boundless-life-destinations
+
+## About
+
+Fixed Kamakura location but sold as scheduled worldschool/summer-camp cohorts (Jan-Mar, Apr-Jun, Sep-Nov 2026); no EUR pricing published, requires pricing calculator/contact.
+
+Source: https://colivingdb.com/coliving/boundless-life-kamakura/

@@ -1,0 +1,11 @@
+# Coliving in Praia da Pipa, Brazil
+
+> 1 colivings in Praia da Pipa, Brazil – last updated July 10, 2026.
+
+## All colivings
+
+| Coliving | City | Price from | Rooms | Min stay | Type |
+|---|---|---|---|---|---|
+| Nomad's Ville (Mirante de Pipa) | Praia da Pipa | On request | private | — | Permanent |
+
+Source: https://colivingdb.com/city/brazil/praia-da-pipa/

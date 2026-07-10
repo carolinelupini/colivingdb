@@ -1,0 +1,20 @@
+# Coliving in New Zealand
+
+> 3 colivings in New Zealand, prices from €700 to €815 per month – last updated July 10, 2026.
+
+## All colivings
+
+| Coliving | City | Price from | Rooms | Min stay | Type |
+|---|---|---|---|---|---|
+| The Balance Base | Wānaka | from €700/mo | private, shared | 7 nights (~1 week) | Permanent |
+| The Coh | Auckland | from NZ$1,516/mo (≈€763) | private, shared | 90 nights (~3 months) | Permanent |
+| The Arawa (Arawa Collective) | Rotorua | from €815/mo | private | 30 nights (~1 month) | Permanent |
+
+## Price distribution
+
+| Band (EUR/mo) | Colivings |
+|---|---|
+| 500–800 | 2 |
+| 800–1200 | 1 |
+
+Source: https://colivingdb.com/country/new-zealand/

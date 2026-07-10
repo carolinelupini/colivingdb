@@ -1,0 +1,17 @@
+# Coliving in Tavira, Portugal
+
+> 1 colivings in Tavira, Portugal, prices from €780 to €780 per month – last updated July 10, 2026.
+
+## All colivings
+
+| Coliving | City | Price from | Rooms | Min stay | Type |
+|---|---|---|---|---|---|
+| Calcada Coliving (Calçada Guesthouse) | Tavira | from €780/mo | private | 29 nights | Permanent |
+
+## Price distribution
+
+| Band (EUR/mo) | Colivings |
+|---|---|
+| 500–800 | 1 |
+
+Source: https://colivingdb.com/city/portugal/tavira/

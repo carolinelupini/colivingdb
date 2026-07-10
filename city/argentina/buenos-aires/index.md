@@ -1,0 +1,24 @@
+# Coliving in Buenos Aires, Argentina
+
+> 4 colivings in Buenos Aires, Argentina, prices from €506 to €625 per month – last updated July 10, 2026.
+
+## All colivings
+
+| Coliving | City | Price from | Rooms | Min stay | Type |
+|---|---|---|---|---|---|
+| The Independencia | Buenos Aires | from €506/mo | private | 30 nights (~1 month) | Permanent |
+| The Chile | Buenos Aires | from €625/mo | private | 30 nights (~1 month) | Permanent |
+| Draper Startup House Buenos Aires | Buenos Aires | On request | private, shared, dorm | — | Permanent |
+| Noma Collective — Buenos Aires | Buenos Aires | from $530/mo | — | — | Pop-up |
+
+## Price distribution
+
+| Band (EUR/mo) | Colivings |
+|---|---|
+| 500–800 | 2 |
+
+## Upcoming pop-ups
+
+- Noma Collective — Buenos Aires — Mar 28 - Apr 25, 2027
+
+Source: https://colivingdb.com/city/argentina/buenos-aires/

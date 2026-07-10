@@ -1,0 +1,16 @@
+# Coliving in Playa Grande, Costa Rica
+
+> 2 colivings in Playa Grande, Costa Rica – last updated July 10, 2026.
+
+## All colivings
+
+| Coliving | City | Price from | Rooms | Min stay | Type |
+|---|---|---|---|---|---|
+| Noma Collective — Playa Grande | Playa Grande | from $530/mo | — | — | Pop-up |
+| Outsite Playa Grande | Playa Grande | On request | private | — | Permanent |
+
+## Upcoming pop-ups
+
+- Noma Collective — Playa Grande — Aug 16 - Sep 6, 2026
+
+Source: https://colivingdb.com/city/costa-rica/playa-grande/

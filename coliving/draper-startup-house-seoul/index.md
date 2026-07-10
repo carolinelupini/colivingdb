@@ -1,0 +1,19 @@
+# Draper Startup House Seoul
+
+> Coliving in Seoul, South Korea. Last updated July 10, 2026.
+
+- **Location:** Seoul, South Korea
+- **Type:** Permanent coliving
+- **Price:** On request
+- **Room types:** private, shared
+- **Dorm available:** Yes
+- **Minimum stay:** —
+- **Region:** Asia
+- **Tags:** city, coworking, community, startup
+- **Website:** https://draperstartuphouse.com/korea/
+
+## About
+
+/korea/ page returned empty/404 on fetch; search results confirm Seoul is a fixed DSH location (part of global chain) but no site-specific room pricing found — general DSH range cited elsewhere is $10-20/night shared to $200/night private suite, not Seoul-verified.
+
+Source: https://colivingdb.com/coliving/draper-startup-house-seoul/

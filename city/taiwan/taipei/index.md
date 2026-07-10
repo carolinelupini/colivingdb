@@ -1,0 +1,19 @@
+# Coliving in Taipei, Taiwan
+
+> 3 colivings in Taipei, Taiwan, prices from €350 to €350 per month – last updated July 10, 2026.
+
+## All colivings
+
+| Coliving | City | Price from | Rooms | Min stay | Type |
+|---|---|---|---|---|---|
+| Banana Coliving | Taipei | from TWD 4,400/mo (≈€350) | private, shared | 30 nights (~1 month) | Permanent |
+| Home Sweet Home Share House | Taipei | On request | private, shared | 30 nights (~1 month) | Permanent |
+| Rooms.Taipei | Taipei | On request | shared | — | Permanent |
+
+## Price distribution
+
+| Band (EUR/mo) | Colivings |
+|---|---|
+| 0–500 | 1 |
+
+Source: https://colivingdb.com/city/taiwan/taipei/

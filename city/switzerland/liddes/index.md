@@ -1,0 +1,20 @@
+# Coliving in Liddes, Switzerland
+
+> 3 colivings in Liddes, Switzerland, prices from €500 to €935 per month – last updated July 10, 2026.
+
+## All colivings
+
+| Coliving | City | Price from | Rooms | Min stay | Type |
+|---|---|---|---|---|---|
+| Coliving Frilingue | Liddes | from €500/mo | private, shared, dorm | — | Permanent |
+| Swiss Alps Coliving | Liddes | from CHF 700/mo (≈€675) | private, shared | — | Permanent |
+| Fond de Ville Home II | Liddes | from CHF 700/mo (≈€935) | private, shared | 30 nights (~1 month) | Permanent |
+
+## Price distribution
+
+| Band (EUR/mo) | Colivings |
+|---|---|
+| 500–800 | 2 |
+| 800–1200 | 1 |
+
+Source: https://colivingdb.com/city/switzerland/liddes/

@@ -1,0 +1,17 @@
+# Coliving in Oggebbio, Lake Maggiore, Italy
+
+> 1 colivings in Oggebbio, Lake Maggiore, Italy, prices from €750 to €750 per month – last updated July 10, 2026.
+
+## All colivings
+
+| Coliving | City | Price from | Rooms | Min stay | Type |
+|---|---|---|---|---|---|
+| Montino Coliving | Oggebbio, Lake Maggiore | from €750/mo | private, shared | 7 nights (~1 week) | Permanent |
+
+## Price distribution
+
+| Band (EUR/mo) | Colivings |
+|---|---|
+| 500–800 | 1 |
+
+Source: https://colivingdb.com/city/italy/oggebbio-lake-maggiore/

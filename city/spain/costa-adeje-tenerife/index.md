@@ -1,0 +1,11 @@
+# Coliving in Costa Adeje, Tenerife, Spain
+
+> 1 colivings in Costa Adeje, Tenerife, Spain – last updated July 10, 2026.
+
+## All colivings
+
+| Coliving | City | Price from | Rooms | Min stay | Type |
+|---|---|---|---|---|---|
+| La Casita Coliving | Costa Adeje, Tenerife | On request | private, shared | — | Permanent |
+
+Source: https://colivingdb.com/city/spain/costa-adeje-tenerife/

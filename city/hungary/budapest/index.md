@@ -1,0 +1,15 @@
+# Coliving in Budapest, Hungary
+
+> 1 colivings in Budapest, Hungary – last updated July 10, 2026.
+
+## All colivings
+
+| Coliving | City | Price from | Rooms | Min stay | Type |
+|---|---|---|---|---|---|
+| Noma Collective — Budapest | Budapest | from $530/mo | — | — | Pop-up |
+
+## Upcoming pop-ups
+
+- Noma Collective — Budapest — Apr 25 - May 23, 2027
+
+Source: https://colivingdb.com/city/hungary/budapest/

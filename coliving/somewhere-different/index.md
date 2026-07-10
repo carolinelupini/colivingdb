@@ -1,0 +1,19 @@
+# Somewhere Different
+
+> Coliving in Blackpool, United Kingdom. Last updated July 10, 2026.
+
+- **Location:** Blackpool, United Kingdom
+- **Type:** Permanent coliving
+- **Price:** from £300/mo
+- **Room types:** private
+- **Dorm available:** No
+- **Minimum stay:** —
+- **Region:** Europe
+- **Tags:** city, coworking, community
+- **Website:** https://www.somewheredifferent.com/uk/
+
+## About
+
+Permanent Blackpool coworking/coliving hotel in a Victorian house; no dorm at UK location (dorm only exists at their Egypt/Siwa property); exact rates require the booking/availability page, not published on this page.
+
+Source: https://colivingdb.com/coliving/somewhere-different/

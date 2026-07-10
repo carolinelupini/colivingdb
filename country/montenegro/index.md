@@ -1,0 +1,33 @@
+# Coliving in Montenegro
+
+> 9 colivings in Montenegro, prices from €360 to €2,600 per month – last updated July 10, 2026.
+
+## All colivings
+
+| Coliving | City | Price from | Rooms | Min stay | Type |
+|---|---|---|---|---|---|
+| Njivice Home | Njivice, Herceg Novi (near Kotor) | from €360/mo | private, shared | 30 nights (~1 month) | Permanent |
+| Kotor Nest | Kotor | from €500/mo | private, shared | — | Permanent |
+| Nomio | Tivat | from €500/mo | private | — | Permanent |
+| Playworking Coliving | Đuraševići, Luštica Peninsula | from €600/mo | private, shared | 5 nights | Permanent |
+| Nomadico Coliving Kotor | Kotor | from €690/mo | private, shared | 7 nights (~1 week) | Permanent |
+| Pachamama Farm Retreat | Ukropci (above Kotor Bay) | from €695/mo | private, shared | 14 nights (~2 weeks) | Permanent |
+| Pachamama Family (Radanovici Home) | Radanovici | from €838/mo | private, shared, dorm | 30 nights (~1 month) | Permanent |
+| Zaselje Home | Presjeka, Nikšić | from €1,400/mo | private | 30 nights (~1 month) | Permanent |
+| Boundless Life — Kotor | Kotor | from €2,600/mo | — | — | Pop-up |
+
+## Price distribution
+
+| Band (EUR/mo) | Colivings |
+|---|---|
+| 0–500 | 1 |
+| 500–800 | 5 |
+| 800–1200 | 1 |
+| 1200–2000 | 1 |
+| 2000–∞ | 1 |
+
+## Upcoming pop-ups
+
+- Boundless Life — Kotor — Apr-Jun 2026 / Sept-Nov 2026 / Dec 2026 / Jan-Mar 2027 / Apr-Jun 2027 (plus Summer Camps)
+
+Source: https://colivingdb.com/country/montenegro/

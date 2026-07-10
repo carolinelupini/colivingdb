@@ -1,0 +1,19 @@
+# Seoul Nooks Community Living
+
+> Coliving in Seoul, South Korea. Last updated July 10, 2026.
+
+- **Location:** Seoul, South Korea
+- **Type:** Permanent coliving
+- **Price:** from €990/mo
+- **Room types:** private
+- **Dorm available:** No
+- **Minimum stay:** 14 nights (~2 weeks)
+- **Region:** Asia
+- **Tags:** city, community
+- **Website:** https://www.mapmelon.com/colivings/seoul-nooks-community-living
+
+## About
+
+Three homes in Seoul; private rooms only, €990/mo discounted rate confirmed, no dorm option found
+
+Source: https://colivingdb.com/coliving/seoul-nooks-community-living/

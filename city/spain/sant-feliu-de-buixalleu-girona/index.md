@@ -1,0 +1,17 @@
+# Coliving in Sant Feliu de Buixalleu, Girona, Spain
+
+> 1 colivings in Sant Feliu de Buixalleu, Girona, Spain, prices from €750 to €750 per month – last updated July 10, 2026.
+
+## All colivings
+
+| Coliving | City | Price from | Rooms | Min stay | Type |
+|---|---|---|---|---|---|
+| Wonder House Coliving | Sant Feliu de Buixalleu, Girona | from €750/mo | private, shared | 30 nights (~1 month) | Permanent |
+
+## Price distribution
+
+| Band (EUR/mo) | Colivings |
+|---|---|
+| 500–800 | 1 |
+
+Source: https://colivingdb.com/city/spain/sant-feliu-de-buixalleu-girona/

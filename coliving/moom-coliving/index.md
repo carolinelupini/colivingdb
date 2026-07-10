@@ -1,0 +1,19 @@
+# MOOM Coliving
+
+> Coliving in Rendsburg, Germany. Last updated July 10, 2026.
+
+- **Location:** Rendsburg, Germany
+- **Type:** Permanent coliving
+- **Price:** from €819/mo
+- **Room types:** private
+- **Dorm available:** No
+- **Minimum stay:** 7 nights (~1 week)
+- **Region:** Europe
+- **Tags:** rural, community, coworking, eco
+- **Website:** https://moom.space/en/home/
+
+## About
+
+Confirmed single fixed countryside location near Rendsburg; site doesn't publish rates, priceNote figure (EUR 819/mo private) retained from source.
+
+Source: https://colivingdb.com/coliving/moom-coliving/

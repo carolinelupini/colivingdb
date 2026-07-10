@@ -1,0 +1,19 @@
+# Balai Polis Residence
+
+> Coliving in Kuala Lumpur, Malaysia. Last updated July 10, 2026.
+
+- **Location:** Kuala Lumpur, Malaysia
+- **Type:** Permanent coliving
+- **Price:** from MYR 100/mo (≈€172)
+- **Room types:** private, dorm, shared
+- **Dorm available:** Yes
+- **Minimum stay:** 30 nights (~1 month)
+- **Region:** Asia
+- **Tags:** city, community
+- **Website:** https://coliving.com/spaces/zhqhhr1f
+
+## About
+
+Intentional-community shared house in KL Chinatown, 13 bedrooms/50 residents; dorm from BGN337 (~€172), private/luxury single from BGN631 (~€323).
+
+Source: https://colivingdb.com/coliving/balai-polis-residence/

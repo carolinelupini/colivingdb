@@ -1,0 +1,17 @@
+# Coliving in Zărnești, Romania
+
+> 1 colivings in Zărnești, Romania, prices from €775 to €775 per month – last updated July 10, 2026.
+
+## All colivings
+
+| Coliving | City | Price from | Rooms | Min stay | Type |
+|---|---|---|---|---|---|
+| Cobana | Zărnești | from €775/mo | private | 7 nights (~1 week) | Permanent |
+
+## Price distribution
+
+| Band (EUR/mo) | Colivings |
+|---|---|
+| 500–800 | 1 |
+
+Source: https://colivingdb.com/city/romania/z-rne-ti/

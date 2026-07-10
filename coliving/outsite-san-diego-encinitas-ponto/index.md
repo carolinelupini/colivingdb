@@ -1,0 +1,19 @@
+# Outsite San Diego - Encinitas Ponto
+
+> Coliving in Encinitas, United States. Last updated July 10, 2026.
+
+- **Location:** Encinitas, United States
+- **Type:** Permanent coliving
+- **Price:** from $2,209/mo (≈€2,000)
+- **Room types:** private, shared
+- **Dorm available:** No
+- **Minimum stay:** —
+- **Region:** North America
+- **Tags:** beach, surf, coworking, community
+- **Website:** https://www.outsite.co/locations/san-diego-ponto-house
+
+## About
+
+Members-only, nightly rates $137-275 for nearby properties visible but monthly pricing gated; no dorm option.
+
+Source: https://colivingdb.com/coliving/outsite-san-diego-encinitas-ponto/

@@ -1,0 +1,19 @@
+# Matra Bali
+
+> Coliving in Canggu, Indonesia. Last updated July 10, 2026.
+
+- **Location:** Canggu, Indonesia
+- **Type:** Permanent coliving
+- **Price:** from IDR 7,500,000/mo (≈€363)
+- **Room types:** private
+- **Dorm available:** No
+- **Minimum stay:** —
+- **Region:** Asia
+- **Tags:** coworking, community, surf
+- **Website:** https://www.matrabali.com/coliving-and-coworking-space
+
+## About
+
+Private rooms with pool view, top-floor cowork and in-house cafe in central Canggu.
+
+Source: https://colivingdb.com/coliving/matra-bali/

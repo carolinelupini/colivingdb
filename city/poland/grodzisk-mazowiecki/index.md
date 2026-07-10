@@ -1,0 +1,17 @@
+# Coliving in Grodzisk Mazowiecki, Poland
+
+> 1 colivings in Grodzisk Mazowiecki, Poland, prices from €900 to €900 per month – last updated July 10, 2026.
+
+## All colivings
+
+| Coliving | City | Price from | Rooms | Min stay | Type |
+|---|---|---|---|---|---|
+| RAZAM | Grodzisk Mazowiecki | from €900/mo | — | 5 nights | Permanent |
+
+## Price distribution
+
+| Band (EUR/mo) | Colivings |
+|---|---|
+| 800–1200 | 1 |
+
+Source: https://colivingdb.com/city/poland/grodzisk-mazowiecki/
