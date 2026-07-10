@@ -4,7 +4,7 @@
 
 - **Location:** Volda, Norway
 - **Type:** Permanent coliving
-- **Price:** from NOK 720/mo
+- **Price:** from $720/mo
 - **Price note:** from ~€626/mo private loft
 - **Room types:** private
 - **Dorm available:** No
@@ -17,7 +17,7 @@
 
 | Stay length | From |
 |---|---|
-| Per month | NOK 720 |
+| Per month | $720 |
 
 Bjørkedal Home does not publish a nightly or weekly rate.
 

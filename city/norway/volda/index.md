@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Bjørkedal Home | Volda | from NOK 720/mo | — | private | 30 nights (~1 month) | Permanent |
+| Bjørkedal Home | Volda | from $720/mo | — | private | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

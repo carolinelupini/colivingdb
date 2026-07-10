@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Puntarenas Residence | Monteverde (Santa Elena) | from CRC 4,574/mo | — | private | 30 nights (~1 month) | Permanent |
+| Puntarenas Residence | Monteverde (Santa Elena) | from $4,574/mo | — | private | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

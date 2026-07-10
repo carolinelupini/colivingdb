@@ -6,14 +6,14 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Njivice Home | Njivice, Herceg Novi (near Kotor) | from €412/mo | 4.7 (30) | private, shared | 30 nights (~1 month) | Permanent |
+| Njivice Home | Njivice, Herceg Novi (near Kotor) | from $412/mo | 4.7 (30) | private, shared | 30 nights (~1 month) | Permanent |
 | Kotor Nest | Kotor | from €650/mo | 4.7 (160) | private, shared | — | Permanent |
 | Nomio | Tivat | from €500/mo | 5.0 (11) | private | — | Permanent |
 | Playworking Coliving | Đuraševići, Luštica Peninsula | from €600/mo | 4.5 (70) | private, shared | 5 nights | Permanent |
 | Nomadico Coliving Kotor | Kotor | from €690/mo | 4.5 (4) | private, shared | 7 nights (~1 week) | Permanent |
 | Pachamama Farm Retreat | Ukropci (above Kotor Bay) | from €695/mo | 4.8 (229) | private, shared | 14 nights (~2 weeks) | Permanent |
-| Pachamama Family (Radanovici Home) | Radanovici | from €960/mo | 4.8 (229) | private, shared, dorm | 30 nights (~1 month) | Permanent |
-| Zaselje Home | Presjeka, Nikšić | from €857/mo | — | private | 30 nights (~1 month) | Permanent |
+| Pachamama Family (Radanovici Home) | Radanovici | from $960/mo | 4.8 (229) | private, shared, dorm | 30 nights (~1 month) | Permanent |
+| Zaselje Home | Presjeka, Nikšić | from $857/mo | — | private | 30 nights (~1 month) | Permanent |
 | Boundless Life — Kotor | Kotor | from €1,700/mo | — | — | — | Pop-up |
 | CO CO Coworking & Coliving | Kotor | On request | — | private, shared | — | Permanent |
 

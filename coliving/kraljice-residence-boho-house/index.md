@@ -4,7 +4,7 @@
 
 - **Location:** Pakoštane, Croatia
 - **Type:** Permanent coliving
-- **Price:** from HRK 683/mo
+- **Price:** from $683/mo
 - **Price note:** from ~€598/mo private ensuite
 - **Rating:** <a href="https://maps.google.com/?cid=9953403889476337674&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (52 reviews)</a> <small>· Google</small>
 - **Room types:** private
@@ -19,7 +19,7 @@
 
 | Stay length | From |
 |---|---|
-| Per month | HRK 683 |
+| Per month | $683 |
 
 Kraljice Residence (Boho House) does not publish a nightly or weekly rate.
 

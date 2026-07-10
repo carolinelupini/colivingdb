@@ -4,7 +4,7 @@
 
 - **Location:** Hoi An, Vietnam
 - **Type:** Permanent coliving
-- **Price:** from VND 742/mo
+- **Price:** from $742/mo
 - **Price note:** from 16M VND/month private, utilities incl.
 - **Room types:** private
 - **Dorm available:** No
@@ -17,7 +17,7 @@
 
 | Stay length | From |
 |---|---|
-| Per month | VND 742 |
+| Per month | $742 |
 
 The Mẹ Thứ does not publish a nightly or weekly rate.
 

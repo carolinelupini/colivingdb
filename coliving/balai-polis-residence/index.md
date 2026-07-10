@@ -4,7 +4,7 @@
 
 - **Location:** Kuala Lumpur, Malaysia
 - **Type:** Permanent coliving
-- **Price:** from MYR 196/mo
+- **Price:** from $196/mo
 - **Price note:** from BGN 337/mo (~€172) dorm bed
 - **Rating:** <a href="https://maps.google.com/?cid=5931004115209263723&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (3 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm, shared
@@ -19,7 +19,7 @@
 
 | Stay length | From |
 |---|---|
-| Per month | MYR 196 |
+| Per month | $196 |
 
 Balai Polis Residence does not publish a nightly or weekly rate.
 

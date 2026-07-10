@@ -4,7 +4,7 @@
 
 - **Location:** Rotorua, New Zealand
 - **Type:** Permanent coliving
-- **Price:** from NZ$1,037/mo
+- **Price:** from $1,037/mo
 - **Price note:** from BGN 1,528/mo private (~€781)
 - **Rating:** <a href="https://maps.google.com/?cid=3315123624337555190&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (13 reviews)</a> <small>· Google</small>
 - **Room types:** private
@@ -19,7 +19,7 @@
 
 | Stay length | From |
 |---|---|
-| Per month | NZ$1,037 |
+| Per month | $1,037 |
 
 The Arawa (Arawa Collective) does not publish a nightly or weekly rate.
 

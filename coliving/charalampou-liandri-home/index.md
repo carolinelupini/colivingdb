@@ -4,7 +4,7 @@
 
 - **Location:** Atsipopoulo, Greece
 - **Type:** Permanent coliving
-- **Price:** from €6,608/mo
+- **Price:** from $6,608/mo
 - **Price note:** listing shows BGN 11,305/mo (~EUR 5,780), likely a pricing error
 - **Room types:** private
 - **Dorm available:** No
@@ -17,7 +17,7 @@
 
 | Stay length | From |
 |---|---|
-| Per month | €6,608 |
+| Per month | $6,608 |
 
 Charalampou Liandri Home does not publish a nightly or weekly rate.
 

@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Zaselje Home | Presjeka, Nikšić | from €857/mo | — | private | 30 nights (~1 month) | Permanent |
+| Zaselje Home | Presjeka, Nikšić | from $857/mo | — | private | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

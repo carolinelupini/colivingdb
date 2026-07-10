@@ -4,7 +4,7 @@
 
 - **Location:** Wrocław, Poland
 - **Type:** Permanent coliving
-- **Price:** from PLN 731/mo
+- **Price:** from $731/mo
 - **Price note:** from BGN 1,260/mo private (~€644)
 - **Room types:** private
 - **Dorm available:** No
@@ -17,7 +17,7 @@
 
 | Stay length | From |
 |---|---|
-| Per month | PLN 731 |
+| Per month | $731 |
 
 The Bolesławiecka (Bolesławiecka Home) does not publish a nightly or weekly rate.
 

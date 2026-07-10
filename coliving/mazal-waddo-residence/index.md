@@ -4,7 +4,7 @@
 
 - **Location:** Anjuna, Goa, India
 - **Type:** Permanent coliving
-- **Price:** from INR 577/mo
+- **Price:** from $577/mo
 - **Price note:** from BGN 852/mo private queen (~€436)
 - **Room types:** private
 - **Dorm available:** No
@@ -17,7 +17,7 @@
 
 | Stay length | From |
 |---|---|
-| Per month | INR 577 |
+| Per month | $577 |
 
 Mazal Waddo Residence does not publish a nightly or weekly rate.
 

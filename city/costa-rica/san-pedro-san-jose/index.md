@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| La Granja Residence | San Pedro, San José | from CRC 521/mo | — | private | 30 nights (~1 month) | Permanent |
+| La Granja Residence | San Pedro, San José | from $521/mo | — | private | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

@@ -4,7 +4,7 @@
 
 - **Location:** Medellin, Colombia
 - **Type:** Permanent coliving
-- **Price:** from COP 992/mo
+- **Price:** from $992/mo
 - **Price note:** from BGN 1,702/mo studio ≈ €870
 - **Rating:** <a href="https://maps.google.com/?cid=3139458639642477681&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (248 reviews)</a> <small>· Google</small>
 - **Room types:** private
@@ -19,7 +19,7 @@
 
 | Stay length | From |
 |---|---|
-| Per month | COP 992 |
+| Per month | $992 |
 
 Rosales Residence does not publish a nightly or weekly rate.
 

@@ -4,7 +4,7 @@
 
 - **Location:** Funchal, Portugal
 - **Type:** Permanent coliving
-- **Price:** from €1,704/mo
+- **Price:** from $1,704/mo
 - **Price note:** from BGN 2,915/mo private room
 - **Room types:** private
 - **Dorm available:** No
@@ -17,7 +17,7 @@
 
 | Stay length | From |
 |---|---|
-| Per month | €1,704 |
+| Per month | $1,704 |
 
 The Santa Luzia does not publish a nightly or weekly rate.
 

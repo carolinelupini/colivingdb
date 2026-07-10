@@ -4,7 +4,7 @@
 
 - **Location:** Cape Town, South Africa
 - **Type:** Permanent coliving
-- **Price:** from R1,103/mo
+- **Price:** from $1,103/mo
 - **Price note:** from BGN 2,375/mo
 - **Room types:** private
 - **Dorm available:** No
@@ -17,7 +17,7 @@
 
 | Stay length | From |
 |---|---|
-| Per month | R1,103 |
+| Per month | $1,103 |
 
 The Hill does not publish a nightly or weekly rate.
 

@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Las Terrenas Home | Las Terrenas | from DOP 998/mo | — | private, shared | 30 nights (~1 month) | Permanent |
+| Las Terrenas Home | Las Terrenas | from $998/mo | — | private, shared | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

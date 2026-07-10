@@ -4,7 +4,7 @@
 
 - **Location:** Buenos Aires, Argentina
 - **Type:** Permanent coliving
-- **Price:** from ARS 680/mo
+- **Price:** from $680/mo
 - **Price note:** from BGN 1,167/month private (~€597)
 - **Room types:** private
 - **Dorm available:** No
@@ -17,7 +17,7 @@
 
 | Stay length | From |
 |---|---|
-| Per month | ARS 680 |
+| Per month | $680 |
 
 The Chile does not publish a nightly or weekly rate.
 

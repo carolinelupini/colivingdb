@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Pachamama Family (Radanovici Home) | Radanovici | from €960/mo | 4.8 (229) | private, shared, dorm | 30 nights (~1 month) | Permanent |
+| Pachamama Family (Radanovici Home) | Radanovici | from $960/mo | 4.8 (229) | private, shared, dorm | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

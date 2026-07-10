@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Ungsmaløya Residence | Nyksund | from NOK 569/mo | — | private | 30 nights (~1 month) | Permanent |
+| Ungsmaløya Residence | Nyksund | from $569/mo | — | private | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

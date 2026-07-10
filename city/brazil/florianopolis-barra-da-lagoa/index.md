@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| The Manoel João Ferreira | Florianópolis (Barra da Lagoa) | from BRL 273/mo | — | private, shared | 30 nights (~1 month) | Permanent |
+| The Manoel João Ferreira | Florianópolis (Barra da Lagoa) | from $273/mo | — | private, shared | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

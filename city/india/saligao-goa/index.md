@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Cotla Residence | Saligao, Goa | from INR 423/mo | — | private | 30 nights (~1 month) | Permanent |
+| Cotla Residence | Saligao, Goa | from $423/mo | — | private | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

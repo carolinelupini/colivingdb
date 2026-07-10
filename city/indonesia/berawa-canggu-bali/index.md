@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Berawa Collective | Berawa (Canggu, Bali) | from IDR 1,754/mo | 4.4 (52) | private | 30 nights (~1 month) | Permanent |
+| Berawa Collective | Berawa (Canggu, Bali) | from $1,754/mo | 4.4 (52) | private | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

@@ -4,7 +4,7 @@
 
 - **Location:** Cape Town, South Africa
 - **Type:** Permanent coliving
-- **Price:** from R2,145/mo
+- **Price:** from $2,145/mo
 - **Price note:** from BGN 2,037/mo
 - **Room types:** private
 - **Dorm available:** No
@@ -17,7 +17,7 @@
 
 | Stay length | From |
 |---|---|
-| Per month | R2,145 |
+| Per month | $2,145 |
 
 The Romney does not publish a nightly or weekly rate.
 

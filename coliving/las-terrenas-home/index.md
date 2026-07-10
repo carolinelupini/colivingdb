@@ -4,7 +4,7 @@
 
 - **Location:** Las Terrenas, Dominican Republic
 - **Type:** Permanent coliving
-- **Price:** from DOP 998/mo
+- **Price:** from $998/mo
 - **Price note:** from BGN 1,712/mo room; whole villa wing ~BGN 6,004/mo
 - **Room types:** private, shared
 - **Dorm available:** No
@@ -17,7 +17,7 @@
 
 | Stay length | From |
 |---|---|
-| Per month | DOP 998 |
+| Per month | $998 |
 
 Las Terrenas Home does not publish a nightly or weekly rate.
 

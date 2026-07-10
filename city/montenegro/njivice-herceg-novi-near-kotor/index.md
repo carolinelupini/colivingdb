@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Njivice Home | Njivice, Herceg Novi (near Kotor) | from €412/mo | 4.7 (30) | private, shared | 30 nights (~1 month) | Permanent |
+| Njivice Home | Njivice, Herceg Novi (near Kotor) | from $412/mo | 4.7 (30) | private, shared | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

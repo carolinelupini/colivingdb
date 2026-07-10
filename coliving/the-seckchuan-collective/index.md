@@ -4,7 +4,7 @@
 
 - **Location:** George Town, Malaysia
 - **Type:** Permanent coliving
-- **Price:** from MYR 319/mo
+- **Price:** from $319/mo
 - **Price note:** from BGN 656/mo (~€335) private room, coliving.com listing
 - **Room types:** private
 - **Dorm available:** No
@@ -17,7 +17,7 @@
 
 | Stay length | From |
 |---|---|
-| Per month | MYR 319 |
+| Per month | $319 |
 
 The Seckchuan Collective does not publish a nightly or weekly rate.
 

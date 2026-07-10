@@ -4,7 +4,7 @@
 
 - **Location:** Maroni, Cyprus
 - **Type:** Permanent coliving
-- **Price:** from €1,258/mo
+- **Price:** from $1,258/mo
 - **Price note:** from BGN 2,152/mo studio
 - **Room types:** private
 - **Dorm available:** No
@@ -17,7 +17,7 @@
 
 | Stay length | From |
 |---|---|
-| Per month | €1,258 |
+| Per month | $1,258 |
 
 The Agiou Georgiou (Agiou Georgiou Home / The Retreat) does not publish a nightly or weekly rate.
 

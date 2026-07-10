@@ -4,7 +4,7 @@
 
 - **Location:** Florianópolis, Brazil
 - **Type:** Permanent coliving
-- **Price:** from BRL 465/mo
+- **Price:** from $465/mo
 - **Price note:** from BGN 798/mo (~€408) 6-bed dorm
 - **Room types:** private, dorm
 - **Dorm available:** Yes
@@ -17,7 +17,7 @@
 
 | Stay length | From |
 |---|---|
-| Per month | BRL 465 |
+| Per month | $465 |
 
 Manoel Pedro da Silveira Home does not publish a nightly or weekly rate.
 

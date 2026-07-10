@@ -4,7 +4,7 @@
 
 - **Location:** Grimentz, Switzerland
 - **Type:** Permanent coliving
-- **Price:** from CHF 2,511/mo
+- **Price:** from $2,511/mo
 - **Price note:** from ~€2,196/mo private twin
 - **Room types:** private
 - **Dorm available:** No
@@ -17,7 +17,7 @@
 
 | Stay length | From |
 |---|---|
-| Per month | CHF 2,511 |
+| Per month | $2,511 |
 
 Batteuse Home does not publish a nightly or weekly rate.
 

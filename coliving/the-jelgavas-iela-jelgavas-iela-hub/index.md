@@ -4,7 +4,7 @@
 
 - **Location:** Riga, Latvia
 - **Type:** Permanent coliving
-- **Price:** from €760/mo
+- **Price:** from $760/mo
 - **Price note:** from BGN 1,301/mo studio (~€665)
 - **Room types:** private
 - **Dorm available:** No
@@ -17,7 +17,7 @@
 
 | Stay length | From |
 |---|---|
-| Per month | €760 |
+| Per month | $760 |
 
 The Jelgavas Iela (Jelgavas Iela Hub) does not publish a nightly or weekly rate.
 

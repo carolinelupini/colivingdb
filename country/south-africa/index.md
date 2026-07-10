@@ -18,9 +18,9 @@
 | Neighbourgood Romney | Cape Town | from R13,000/mo | 4.4 (50) | private, shared | — | Permanent |
 | Cape Coliving | Cape Town | from €1,095/mo | 5.0 (70) | private | — | Permanent |
 | Neighbourgood 84 Harrington | Cape Town | from R24,170/mo | 4.7 (277) | private | — | Permanent |
-| The Hill | Cape Town | from R1,103/mo | — | private | 30 nights (~1 month) | Permanent |
-| The Romney | Cape Town | from R2,145/mo | — | private | 30 nights (~1 month) | Permanent |
-| Waterkant Residence | Cape Town | from R2,343/mo | 4.3 (70) | private | 30 nights (~1 month) | Permanent |
+| The Hill | Cape Town | from $1,103/mo | — | private | 30 nights (~1 month) | Permanent |
+| The Romney | Cape Town | from $2,145/mo | — | private | 30 nights (~1 month) | Permanent |
+| Waterkant Residence | Cape Town | from $2,343/mo | 4.3 (70) | private | 30 nights (~1 month) | Permanent |
 | Green Room JBay Coliving | Jeffreys Bay | On request | 5.0 (137) | private | 14 nights (~2 weeks) | Permanent |
 | Ideas Cartel at The Old Foundry | Cape Town | On request | 4.4 (220) | private | — | Permanent |
 | Neighbourgood | Cape Town | from R10,000/mo | 4.4 (367) | private | — | Permanent |

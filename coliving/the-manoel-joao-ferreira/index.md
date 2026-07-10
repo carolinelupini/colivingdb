@@ -4,7 +4,7 @@
 
 - **Location:** Florianópolis (Barra da Lagoa), Brazil
 - **Type:** Permanent coliving
-- **Price:** from BRL 273/mo
+- **Price:** from $273/mo
 - **Price note:** from BGN 465/mo (~€238) bed in 6-bed female dorm
 - **Room types:** private, shared
 - **Dorm available:** Yes
@@ -17,7 +17,7 @@
 
 | Stay length | From |
 |---|---|
-| Per month | BRL 273 |
+| Per month | $273 |
 
 The Manoel João Ferreira does not publish a nightly or weekly rate.
 

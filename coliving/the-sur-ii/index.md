@@ -4,7 +4,7 @@
 
 - **Location:** Tulum, Mexico
 - **Type:** Permanent coliving
-- **Price:** from MXN 1,091/mo
+- **Price:** from $1,091/mo
 - **Price note:** from BGN 1,650/month studio (~€844)
 - **Room types:** private
 - **Dorm available:** No
@@ -17,7 +17,7 @@
 
 | Stay length | From |
 |---|---|
-| Per month | MXN 1,091 |
+| Per month | $1,091 |
 
 The Sur II does not publish a nightly or weekly rate.
 

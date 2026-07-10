@@ -11,10 +11,10 @@
 | Hubs Swiss Alps Lenk | Lenk | from CHF 633/mo | 4.9 (45) | private, studio, apartment | 30 nights (~1 month) | Permanent |
 | Swiss Alps Coliving | Liddes | from CHF 700/mo | — | private, shared | — | Permanent |
 | Swiss Alps Coliving (by Frilingue) | Liddes (Valais) | from CHF 700/mo | — | private, shared, dorm | 7 nights (~1 week) | Permanent |
-| Fond de Ville Home II | Liddes | from CHF 994/mo | — | private, shared | 30 nights (~1 month) | Permanent |
+| Fond de Ville Home II | Liddes | from $994/mo | — | private, shared | 30 nights (~1 month) | Permanent |
 | Swiss Escape | Grimentz | from CHF 990/mo | 5.0 (64) | private, shared | 7 nights (~1 week) | Permanent |
 | Alpiness Coliving | Evolène | from CHF 1,200/mo | 5.0 (54) | private, shared | 15 nights | Permanent |
-| Batteuse Home | Grimentz | from CHF 2,511/mo | — | private | 30 nights (~1 month) | Permanent |
+| Batteuse Home | Grimentz | from $2,511/mo | — | private | 30 nights (~1 month) | Permanent |
 | Hyve - meet, sleep, work and eat! | Basel | On request | 4.4 (857) | private, dorm | — | Permanent |
 | Mont Blanc Coliving | Finhaut | On request | 4.0 (1) | private, shared, dorm | — | Permanent |
 | STAY@Basel SBB | Basel | On request | 4.3 (196) | private, dorm | — | Permanent |

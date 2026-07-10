@@ -4,7 +4,7 @@
 
 - **Location:** Liddes, Switzerland
 - **Type:** Permanent coliving
-- **Price:** from CHF 994/mo
+- **Price:** from $994/mo
 - **Price note:** from ~€935/mo bed in 4-bed shared room; privates from ~€1,490
 - **Room types:** private, shared
 - **Dorm available:** Yes
@@ -17,7 +17,7 @@
 
 | Stay length | From |
 |---|---|
-| Per month | CHF 994 |
+| Per month | $994 |
 
 Fond de Ville Home II does not publish a nightly or weekly rate.
 

@@ -4,7 +4,7 @@
 
 - **Location:** Pembroke, Malta
 - **Type:** Permanent coliving
-- **Price:** from €4,686/mo
+- **Price:** from $4,686/mo
 - **Price note:** from BGN 5,237/mo single room; dorm beds exist but price not shown
 - **Room types:** private, dorm
 - **Dorm available:** Yes
@@ -17,7 +17,7 @@
 
 | Stay length | From |
 |---|---|
-| Per month | €4,686 |
+| Per month | $4,686 |
 
 The Triq Alamein (Pembroke coliving hub) does not publish a nightly or weekly rate.
 

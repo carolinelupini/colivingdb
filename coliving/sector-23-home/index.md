@@ -4,7 +4,7 @@
 
 - **Location:** Navi Mumbai, India
 - **Type:** Permanent coliving
-- **Price:** from INR 141/mo
+- **Price:** from $141/mo
 - **Price note:** from BGN 242/mo (bunk bed)
 - **Room types:** dorm
 - **Dorm available:** Yes
@@ -17,7 +17,7 @@
 
 | Stay length | From |
 |---|---|
-| Per month | INR 141 |
+| Per month | $141 |
 
 Sector 23 Home does not publish a nightly or weekly rate.
 

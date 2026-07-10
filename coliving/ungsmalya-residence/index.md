@@ -4,7 +4,7 @@
 
 - **Location:** Nyksund, Norway
 - **Type:** Permanent coliving
-- **Price:** from NOK 569/mo
+- **Price:** from $569/mo
 - **Price note:** from ~€494/mo private (Fishermen Style, shared bath)
 - **Room types:** private
 - **Dorm available:** No
@@ -17,7 +17,7 @@
 
 | Stay length | From |
 |---|---|
-| Per month | NOK 569 |
+| Per month | $569 |
 
 Ungsmaløya Residence does not publish a nightly or weekly rate.
 

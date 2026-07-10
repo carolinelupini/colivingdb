@@ -4,7 +4,7 @@
 
 - **Location:** Funchal, Portugal
 - **Type:** Permanent coliving
-- **Price:** from €1,944/mo
+- **Price:** from $1,944/mo
 - **Price note:** from BGN 3,325/mo private studio-style room
 - **Rating:** <a href="https://maps.google.com/?cid=8628061308985100487&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 3.9 (691 reviews)</a> <small>· Google</small>
 - **Room types:** private
@@ -19,7 +19,7 @@
 
 | Stay length | From |
 |---|---|
-| Per month | €1,944 |
+| Per month | $1,944 |
 
 The Carreira does not publish a nightly or weekly rate.
 

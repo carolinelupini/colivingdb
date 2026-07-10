@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| The Bolesławiecka (Bolesławiecka Home) | Wrocław | from PLN 731/mo | — | private | 30 nights (~1 month) | Permanent |
+| The Bolesławiecka (Bolesławiecka Home) | Wrocław | from $731/mo | — | private | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

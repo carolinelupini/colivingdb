@@ -4,7 +4,7 @@
 
 - **Location:** Njivice, Herceg Novi (near Kotor), Montenegro
 - **Type:** Permanent coliving
-- **Price:** from €412/mo
+- **Price:** from $412/mo
 - **Price note:** from BGN 705/mo shared bunk (~€360)
 - **Rating:** <a href="https://maps.google.com/?cid=13756085086977393520&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (30 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
@@ -19,7 +19,7 @@
 
 | Stay length | From |
 |---|---|
-| Per month | €412 |
+| Per month | $412 |
 
 Njivice Home does not publish a nightly or weekly rate.
 

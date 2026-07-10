@@ -5,7 +5,7 @@
 - **Location:** Bansko, Bulgaria
 - **Type:** Pop-up / dated edition
 - **Dates:** June-July (seasonal coliving season; exact 2026 dates not published)
-- **Price:** from BGN 832/mo
+- **Price:** from $832/mo
 - **Price note:** private room (shared bathroom, queen bed — lowest tier), coworking/workspace, high-speed wifi, kitchen, outdoor space, community events (dinners, mixers, workshops); bills included; 1-month minimum stay.
 - **Room types:** private
 - **Dorm available:** No
@@ -18,7 +18,7 @@
 
 | Stay length | From |
 |---|---|
-| Per month | BGN 832 |
+| Per month | $832 |
 
 The Pirin does not publish a nightly or weekly rate.
 

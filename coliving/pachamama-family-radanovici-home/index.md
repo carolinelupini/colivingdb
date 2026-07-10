@@ -4,7 +4,7 @@
 
 - **Location:** Radanovici, Montenegro
 - **Type:** Permanent coliving
-- **Price:** from €960/mo
+- **Price:** from $960/mo
 - **Price note:** from BGN 1,643/mo incl. 3 meals/day
 - **Rating:** <a href="https://maps.google.com/?cid=15531930625782724444&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (229 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared, dorm
@@ -19,7 +19,7 @@
 
 | Stay length | From |
 |---|---|
-| Per month | €960 |
+| Per month | $960 |
 
 Pachamama Family (Radanovici Home) does not publish a nightly or weekly rate.
 

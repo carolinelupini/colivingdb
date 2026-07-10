@@ -4,7 +4,7 @@
 
 - **Location:** Berawa (Canggu, Bali), Indonesia
 - **Type:** Permanent coliving
-- **Price:** from IDR 1,754/mo
+- **Price:** from $1,754/mo
 - **Price note:** from BGN 2,610/mo ≈ €1,334 private
 - **Rating:** <a href="https://maps.google.com/?cid=15222392593266458622&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (52 reviews)</a> <small>· Google</small>
 - **Room types:** private
@@ -19,7 +19,7 @@
 
 | Stay length | From |
 |---|---|
-| Per month | IDR 1,754 |
+| Per month | $1,754 |
 
 Berawa Collective does not publish a nightly or weekly rate.
 

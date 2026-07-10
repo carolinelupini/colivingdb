@@ -4,7 +4,7 @@
 
 - **Location:** Bansko, Bulgaria
 - **Type:** Permanent coliving
-- **Price:** from BGN 343/mo
+- **Price:** from $343/mo
 - **Price note:** from BGN 587/mo studio; coworking +EUR 110/mo
 - **Room types:** private
 - **Dorm available:** No
@@ -17,7 +17,7 @@
 
 | Stay length | From |
 |---|---|
-| Per month | BGN 343 |
+| Per month | $343 |
 
 The Yavor does not publish a nightly or weekly rate.
 

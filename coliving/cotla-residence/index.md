@@ -4,7 +4,7 @@
 
 - **Location:** Saligao, Goa, India
 - **Type:** Permanent coliving
-- **Price:** from INR 423/mo
+- **Price:** from $423/mo
 - **Price note:** from BGN 724/mo private Small Nest (~€370)
 - **Room types:** private
 - **Dorm available:** No
@@ -17,7 +17,7 @@
 
 | Stay length | From |
 |---|---|
-| Per month | INR 423 |
+| Per month | $423 |
 
 Cotla Residence does not publish a nightly or weekly rate.
 

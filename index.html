@@ -651,6 +651,12 @@ function priceCell(x){
   if(state.room){
     const d=rateDisplay(x,state.room);
     if(d) return `<div class="from">${fmtMoney(d.amt,d.cur)}<small>${suffix} · ${state.room}</small></div>`;
+    // No per-room rate, but if this room type IS offered and we have a single "from" rate,
+    // that "from" is this room's rate (esp. when it's the only room type) — show it.
+    if((x.roomTypes||[]).includes(state.room)){
+      const f=rateDisplay(x,"from");
+      if(f) return `<div class="from"><small>from </small>${fmtMoney(f.amt,f.cur)}<small>${suffix} · ${state.room}</small></div>`;
+    }
     return `<div class="onreq">No ${state.room} rate</div>`;
   }
   // group room tiers that share a price ("dorm/shared €167")

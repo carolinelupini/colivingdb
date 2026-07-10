@@ -4,7 +4,7 @@
 
 - **Location:** Chiang Mai, Thailand
 - **Type:** Permanent coliving
-- **Price:** from THB 842/mo
+- **Price:** from $842/mo
 - **Price note:** from BGN 1,517/mo ensuite, breakfast + weekly housekeeping incl.
 - **Room types:** private
 - **Dorm available:** No
@@ -17,7 +17,7 @@
 
 | Stay length | From |
 |---|---|
-| Per month | THB 842 |
+| Per month | $842 |
 
 The Chiang Mai-Lamphun does not publish a nightly or weekly rate.
 

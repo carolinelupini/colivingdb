@@ -4,7 +4,7 @@
 
 - **Location:** Cape Town, South Africa
 - **Type:** Permanent coliving
-- **Price:** from R2,343/mo
+- **Price:** from $2,343/mo
 - **Price note:** from BGN 3,518/mo studio ≈ €1,799
 - **Rating:** <a href="https://maps.google.com/?cid=3333255371605467079&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (70 reviews)</a> <small>· Google</small>
 - **Room types:** private
@@ -19,7 +19,7 @@
 
 | Stay length | From |
 |---|---|
-| Per month | R2,343 |
+| Per month | $2,343 |
 
 Waterkant Residence does not publish a nightly or weekly rate.
 
