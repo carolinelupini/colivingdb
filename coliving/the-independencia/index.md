@@ -4,7 +4,7 @@
 
 - **Location:** Buenos Aires, Argentina
 - **Type:** Permanent coliving
-- **Price:** from $440/mo
+- **Price:** from ARS 550/mo
 - **Price note:** from BGN 944/month studio (~€483)
 - **Room types:** private
 - **Dorm available:** No
@@ -15,9 +15,9 @@
 
 ## Rates
 
-| Stay length | Private |
+| Stay length | From |
 |---|---|
-| Per month | $440 |
+| Per month | ARS 550 |
 
 The Independencia does not publish a nightly or weekly rate.
 

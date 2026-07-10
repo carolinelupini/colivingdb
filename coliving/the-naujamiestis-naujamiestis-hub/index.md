@@ -4,7 +4,7 @@
 
 - **Location:** Vilnius, Lithuania
 - **Type:** Permanent coliving
-- **Price:** from €695/mo
+- **Price:** from $794/mo
 - **Price note:** from BGN 1,362/mo studio (~€696)
 - **Room types:** private
 - **Dorm available:** No
@@ -15,9 +15,9 @@
 
 ## Rates
 
-| Stay length | Private |
+| Stay length | From |
 |---|---|
-| Per month | €695 |
+| Per month | $794 |
 
 The Naujamiestis (Naujamiestis Hub) does not publish a nightly or weekly rate.
 

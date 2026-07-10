@@ -4,7 +4,7 @@
 
 - **Location:** Sofia, Bulgaria
 - **Type:** Permanent coliving
-- **Price:** from BGN 2,142/mo
+- **Price:** from BGN 1,252/mo
 - **Price note:** from BGN 2,142/mo ≈ €1,095
 - **Room types:** private
 - **Dorm available:** No
@@ -15,9 +15,9 @@
 
 ## Rates
 
-| Stay length | Private |
+| Stay length | From |
 |---|---|
-| Per month | BGN 2,142 |
+| Per month | BGN 1,252 |
 
 Doctor Yordan Yosifov Collective does not publish a nightly or weekly rate.
 

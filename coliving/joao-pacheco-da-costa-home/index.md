@@ -4,7 +4,7 @@
 
 - **Location:** Florianópolis, Brazil
 - **Type:** Permanent coliving
-- **Price:** from BRL 1,400/mo
+- **Price:** from BRL 273/mo
 - **Price note:** from BGN 465/mo (~€238) dorm bed
 - **Rating:** <a href="https://maps.google.com/?cid=13703675284766932758&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (1 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
@@ -17,9 +17,9 @@
 
 ## Rates
 
-| Stay length | Private | Shared |
-|---|---|---|
-| Per month | BRL 2,650 | BRL 1,400 |
+| Stay length | From |
+|---|---|
+| Per month | BRL 273 |
 
 João Pachêco Da Costa Home does not publish a nightly or weekly rate.
 

@@ -9,7 +9,7 @@
 | Sugar Hostel Weligama - Coliving & Coworking | Weligama | from $99/mo | 4.5 (337) | private, dorm | 7 nights (~1 week) | Permanent |
 | Outpost Weligama | Weligama | from $849/mo | 4.7 (145) | private, shared | — | Permanent |
 | La Isla Bonita | Weligama | from $500/mo | 4.3 (13) | private | — | Permanent |
-| Weligama Bay Residence | Weligama | from $1,818/mo | 4.7 (58) | private | 30 nights (~1 month) | Permanent |
+| Weligama Bay Residence | Weligama | from $2,250/mo | 4.7 (58) | private | 30 nights (~1 month) | Permanent |
 | WiFi Tribe — Weligama | Weligama | from $1,290/mo | — | — | — | Pop-up |
 | Beachbums Coliving Madiha | Weligama | On request | 5.0 (7) | private, dorm | — | Permanent |
 | Ocean Bliss by Sugar Coliving - Beachfront Hotel in Weligama | Weligama | On request | 4.6 (269) | private | — | Permanent |

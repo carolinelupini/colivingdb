@@ -4,7 +4,7 @@
 
 - **Location:** Kuala Lumpur, Malaysia
 - **Type:** Permanent coliving
-- **Price:** from MYR 170/mo
+- **Price:** from MYR 368/mo
 - **Price note:** from BGN 631/mo (~€323) private en-suite
 - **Room types:** private
 - **Dorm available:** No
@@ -15,9 +15,9 @@
 
 ## Rates
 
-| Stay length | Private |
+| Stay length | From |
 |---|---|
-| Per month | MYR 170 |
+| Per month | MYR 368 |
 
 Fraser Home does not publish a nightly or weekly rate.
 

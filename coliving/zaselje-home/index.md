@@ -4,7 +4,7 @@
 
 - **Location:** Presjeka, Nikšić, Montenegro
 - **Type:** Permanent coliving
-- **Price:** On request
+- **Price:** from €857/mo
 - **Price note:** from BGN 2,761/mo private (~€1,412)
 - **Room types:** private
 - **Dorm available:** No
@@ -12,6 +12,14 @@
 - **Region:** Europe
 - **Tags:** rural, mountain, coworking, community, eco
 - **Website:** https://coliving.com/spaces/ximlylvz
+
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €857 |
+
+Zaselje Home does not publish a nightly or weekly rate.
 
 ## About
 

@@ -30,6 +30,7 @@
 | Casa15 Azores | Sao Miguel, Azores | from €950/mo | — | private | — | Permanent |
 | Swelldesk Coliving & Coworking | Baleal, Peniche | from €960/mo | 4.9 (20) | private, shared | — | Permanent |
 | Banana House (Ponta do Sol Coliving) | Ponta do Sol, Madeira | from €997/mo | 4.3 (13) | private | 30 nights (~1 month) | Permanent |
+| Cabeco Alto Home | Santo da Serra (Madeira) | from €1,143/mo | 5.0 (23) | private, shared | 30 nights (~1 month) | Permanent |
 | Outsite Algarve - Vilamoura | Vilamoura | from €1,000/mo | 4.7 (15) | private | — | Permanent |
 | Outsite Cascais - Guincho | Cascais | from €1,000/mo | 4.6 (34) | private | — | Permanent |
 | Outsite Ericeira - Praia do Sul | Ericeira | from €1,000/mo | 4.8 (15) | private | — | Permanent |
@@ -47,8 +48,10 @@
 | Quinta do Cabeço Alto - Coliving & Coworking Retreat Venue - Madeira Island | Ponta do Sol | from €1,400/mo | 5.0 (23) | private, shared | — | Permanent |
 | NomaVillage | Lagos | from €1,420/mo | 4.8 (18) | private | 14 nights (~2 weeks) | Permanent |
 | Onda Co-Living | Ferrel (Baleal), Peniche | from €1,470/mo | 5.0 (27) | private | 14 nights (~2 weeks) | Permanent |
+| The Santa Luzia | Funchal | from €1,704/mo | — | private | 30 nights (~1 month) | Permanent |
 | Homeoffice Madeira | Santo da Serra, Santa Cruz (Madeira) | from €1,400/mo | 5.0 (243) | private | 1 night | Permanent |
 | Outsite Madeira - Ponta do Sol | Ponta do Sol, Madeira | from €1,700/mo | 4.8 (119) | private | — | Permanent |
+| The Carreira | Funchal | from €1,944/mo | 3.9 (691) | private | 30 nights (~1 month) | Permanent |
 | Wild Souls Ericeira | Ericeira | from €1,800/mo | 5.0 (25) | private | 7 nights (~1 week) | Permanent |
 | Boundless Life — Sintra | Sintra | from €1,700/mo | — | — | — | Pop-up |
 | Dwell Azores | Fenais da Luz, São Miguel, Azores | from €2,160/mo | 5.0 (89) | private, shared | 28 nights (~4 weeks) | Permanent |
@@ -57,7 +60,6 @@
 | Alvada Coliving (Baixo Beach Coliving) | Ponta do Sol, Madeira | On request | — | private | 90 nights (~3 months) | Permanent |
 | Behappy Lodge | Esmoriz | On request | 4.9 (338) | private, shared, dorm | — | Permanent |
 | Bela Vista Coliving and Retreat | Olhão (Algarve) | On request | 4.7 (47) | private | — | Permanent |
-| Cabeco Alto Home | Santo da Serra (Madeira) | On request | 5.0 (23) | private, shared | 30 nights (~1 month) | Permanent |
 | Colive Madeira | Ponta do Sol, Madeira | On request | — | private, shared | — | Permanent |
 | Hacker Paradise — Porto | Porto | On request | — | — | — | Pop-up |
 | Lemon Bros Coliving | Ribeira Grande, São Miguel | On request | 4.9 (60) | private | 14 nights (~2 weeks) | Permanent |
@@ -67,9 +69,7 @@
 | Satvana Conscious Co-living & Retreats | Alentejo | On request | 5.0 (6) | private, shared | — | Permanent |
 | Sea Urchin SurfHouse | Ericeira | On request | 4.8 (85) | shared, private | — | Permanent |
 | Soul Co-Living Vila Franca de Xira | Ericeira | On request | 4.2 (26) | — | — | Permanent |
-| The Carreira | Funchal | On request | 3.9 (691) | private | 30 nights (~1 month) | Permanent |
 | The Luzia House Funchal | Funchal, Madeira | On request | 5.0 (45) | private | — | Permanent |
-| The Santa Luzia | Funchal | On request | — | private | 30 nights (~1 month) | Permanent |
 | The Spacious Valley | Ericeira | On request | — | — | — | Permanent |
 | Villa dos Irmaos (Coworksurf) | Ericeira | On request | — | private, dorm | — | Permanent |
 | WOT Lodge Soul | Ericeira | from €451/wk | 4.1 (123) | private, dorm | 30 nights (~1 month) | Permanent |
@@ -83,8 +83,8 @@
 |---|---|
 | 0–500 | 2 |
 | 500–800 | 11 |
-| 800–1200 | 18 |
-| 1200–2000 | 13 |
+| 800–1200 | 19 |
+| 1200–2000 | 15 |
 | 2000–∞ | 3 |
 
 ## Upcoming pop-ups

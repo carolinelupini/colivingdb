@@ -4,7 +4,7 @@
 
 - **Location:** Santo da Serra (Madeira), Portugal
 - **Type:** Permanent coliving
-- **Price:** On request
+- **Price:** from €1,143/mo
 - **Price note:** from BGN 1,956/mo shared ≈ €1,000; privates from ~€1,500
 - **Rating:** <a href="https://maps.google.com/?cid=7954301813179300421&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (23 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
@@ -14,6 +14,14 @@
 - **Tags:** rural, mountain, island, coworking, community
 - **Website:** https://coliving.com/spaces/qsj4tmqi
 - **Rating:** 5.0 from 23 Google reviews
+
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €1,143 |
+
+Cabeco Alto Home does not publish a nightly or weekly rate.
 
 ## About
 

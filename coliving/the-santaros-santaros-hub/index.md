@@ -4,7 +4,7 @@
 
 - **Location:** Vilnius, Lithuania
 - **Type:** Permanent coliving
-- **Price:** from €685/mo
+- **Price:** from $783/mo
 - **Price note:** from BGN 1,340/mo studio (~€685)
 - **Room types:** private
 - **Dorm available:** No
@@ -15,9 +15,9 @@
 
 ## Rates
 
-| Stay length | Private | Shared |
-|---|---|---|
-| Per month | €685 | €829 |
+| Stay length | From |
+|---|---|
+| Per month | $783 |
 
 The Santaros (Santaros Hub) does not publish a nightly or weekly rate.
 

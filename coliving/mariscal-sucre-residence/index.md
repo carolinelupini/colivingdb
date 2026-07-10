@@ -4,7 +4,7 @@
 
 - **Location:** Quito, Ecuador
 - **Type:** Permanent coliving
-- **Price:** from €342/mo
+- **Price:** from $391/mo
 - **Price note:** shared from BGN 671/mo; privates from ~BGN 843/mo
 - **Room types:** private, shared
 - **Dorm available:** No
@@ -12,6 +12,14 @@
 - **Region:** Latin America
 - **Tags:** city, coworking, community
 - **Website:** https://coliving.com/spaces/uz3xyi4i
+
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | $391 |
+
+Mariscal Sucre Residence does not publish a nightly or weekly rate.
 
 ## About
 

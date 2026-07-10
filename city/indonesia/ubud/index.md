@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| The Ubud Residence (Raya Nyuh Kuning) | Ubud | from $949/mo | 5.0 (131) | private | 30 nights (~1 month) | Permanent |
+| The Ubud Residence (Raya Nyuh Kuning) | Ubud | from IDR 949/mo | 5.0 (131) | private | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

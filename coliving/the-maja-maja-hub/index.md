@@ -4,7 +4,7 @@
 
 - **Location:** Krakow, Poland
 - **Type:** Permanent coliving
-- **Price:** On request
+- **Price:** from PLN 554/mo
 - **Price note:** from BGN 955/mo shared (~€488); private ~€697
 - **Room types:** private, shared
 - **Dorm available:** Yes
@@ -12,6 +12,14 @@
 - **Region:** Europe
 - **Tags:** city, coworking, community
 - **Website:** https://coliving.com/spaces/mi0oqwfh
+
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | PLN 554 |
+
+The Maja (Maja Hub) does not publish a nightly or weekly rate.
 
 ## About
 

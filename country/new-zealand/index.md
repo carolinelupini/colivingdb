@@ -8,7 +8,7 @@
 |---|---|---|---|---|---|---|
 | The Balance Base | Wānaka | from €700/mo | 5.0 (26) | private, shared | 7 nights (~1 week) | Permanent |
 | The Coh | Auckland | from NZ$1,516/mo | 4.8 (103) | private, shared | 90 nights (~3 months) | Permanent |
-| The Arawa (Arawa Collective) | Rotorua | from A$308/wk | 4.4 (13) | private | 30 nights (~1 month) | Permanent |
+| The Arawa (Arawa Collective) | Rotorua | from NZ$1,037/mo | 4.4 (13) | private | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

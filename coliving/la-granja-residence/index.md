@@ -4,7 +4,7 @@
 
 - **Location:** San Pedro, San José, Costa Rica
 - **Type:** Permanent coliving
-- **Price:** from €457/mo
+- **Price:** from CRC 521/mo
 - **Price note:** from ~€457/mo private (shared bath); studios to ~€805
 - **Room types:** private
 - **Dorm available:** No
@@ -15,9 +15,9 @@
 
 ## Rates
 
-| Stay length | Private |
+| Stay length | From |
 |---|---|
-| Per month | €457 |
+| Per month | CRC 521 |
 
 La Granja Residence does not publish a nightly or weekly rate.
 

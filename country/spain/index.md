@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| The Fernando Salazar Gonzalez | Las Galletas | from €936/mo | — | private, shared | 30 nights (~1 month) | Permanent |
+| The Fernando Salazar Gonzalez | Las Galletas | from €857/mo | — | private, shared | 30 nights (~1 month) | Permanent |
 | POSADA DE LA LUZ | Torralba de Ribota | from €450/mo | 5.0 (21) | private | 15 nights | Permanent |
 | Picassa • Pueblo Coliving & Coworking | Purchena | from €450/mo | 5.0 (17) | private | 14 nights (~2 weeks) | Permanent |
 | Nomadico Mallorca Coliving | Búger, Mallorca | from €490/mo | 5.0 (30) | private, shared | 7 nights (~1 week) | Permanent |
@@ -63,7 +63,7 @@
 | Casa Capitán Coliving | Guargacho, Tenerife | from €960/mo | 5.0 (18) | private | 1 night | Permanent |
 | Nomadico Gran Canaria | Las Palmas de Gran Canaria | from €980/mo | — | private, shared | — | Permanent |
 | Vivarium Coliving & Coworking | Valencia | from €985/mo | 4.9 (65) | private | 31 nights | Permanent |
-| The Mozart | Las Palmas | from €990/mo | — | private | 30 nights (~1 month) | Permanent |
+| The Mozart | Las Palmas | from €2,058/mo | — | private | 30 nights (~1 month) | Permanent |
 | Outsite Ibiza - Es Canar | Es Canar, Ibiza | from €1,000/mo | 4.2 (58) | private | — | Permanent |
 | VIU Sagrada Familia | Barcelona | from €1,000/mo | 4.9 (48) | private | 28 nights (~4 weeks) | Permanent |
 | Kalart | Montseny Valley, Catalonia | from €1,020/mo | 4.9 (69) | private | 30 nights (~1 month) | Permanent |
@@ -77,7 +77,7 @@
 | Wolfhouse | Los Gigantes, Tenerife | from €1,350/mo | — | private | — | Permanent |
 | Casa Turull (Palma Coliving Barcelona) | Barcelona | from €1,380/mo | 4.4 (54) | private | 30 nights (~1 month) | Permanent |
 | Town House Gomila - Palma Coliving Mallorca | Palma de Mallorca | from €1,650/mo | 4.5 (53) | private | — | Permanent |
-| García Morato Home | Las Palmas | from €1,533/mo | 4.0 (530) | private | 30 nights (~1 month) | Permanent |
+| García Morato Home | Las Palmas | from €1,143/mo | 4.0 (530) | private | 30 nights (~1 month) | Permanent |
 | Outsite Barcelona - Gothic Quarter | Barcelona | from €1,700/mo | 4.8 (25) | private, shared | — | Permanent |
 | Villa Armadans (Palma Coliving Mallorca) | Palma de Mallorca | from €1,650/mo | 4.7 (114) | private | 14 nights (~2 weeks) | Permanent |
 | SOMOS Coliving Palma de Mallorca | Palma de Mallorca | from €1,800/mo | 5.0 (5) | private | 30 nights (~1 month) | Permanent |

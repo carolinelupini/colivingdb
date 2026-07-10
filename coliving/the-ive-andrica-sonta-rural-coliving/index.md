@@ -4,7 +4,7 @@
 
 - **Location:** Sonta, Serbia
 - **Type:** Permanent coliving
-- **Price:** On request
+- **Price:** from $434/mo
 - **Price note:** from BGN 583/mo shared 4-bed room; private from ~EUR 580
 - **Rating:** <a href="https://maps.google.com/?cid=9637672062515665311&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (16 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
@@ -14,6 +14,14 @@
 - **Tags:** rural, community, eco
 - **Website:** https://coliving.com/spaces/acuyx1jr
 - **Rating:** 4.9 from 16 Google reviews
+
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | $434 |
+
+The Ive Andrića (Sonta rural coliving) does not publish a nightly or weekly rate.
 
 ## About
 

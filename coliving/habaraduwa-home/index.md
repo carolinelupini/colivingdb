@@ -4,7 +4,7 @@
 
 - **Location:** Habaraduwa, Galle, Sri Lanka
 - **Type:** Permanent coliving
-- **Price:** from $683/mo
+- **Price:** from $845/mo
 - **Price note:** from BGN 1,450/mo shared (~€741); private from ~€1,719
 - **Rating:** <a href="https://maps.google.com/?cid=17446191595216124128&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (14 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
@@ -17,9 +17,9 @@
 
 ## Rates
 
-| Stay length | Private | Shared | Dorm |
-|---|---|---|---|
-| Per month | $1,584 | $804 | $683 |
+| Stay length | From |
+|---|---|
+| Per month | $845 |
 
 Habaraduwa Home does not publish a nightly or weekly rate.
 

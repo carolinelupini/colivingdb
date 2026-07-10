@@ -1,11 +1,17 @@
 # Coliving in Volda, Norway
 
-> 1 colivings in Volda, Norway – last updated July 10, 2026.
+> 1 colivings in Volda, Norway, prices from €628 to €628 per month – last updated July 10, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Bjørkedal Home | Volda | On request | — | private | 30 nights (~1 month) | Permanent |
+| Bjørkedal Home | Volda | from NOK 720/mo | — | private | 30 nights (~1 month) | Permanent |
+
+## Price distribution
+
+| Band (EUR/mo) | Colivings |
+|---|---|
+| 500–800 | 1 |
 
 Source: https://colivingdb.com/city/norway/volda/

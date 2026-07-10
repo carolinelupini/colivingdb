@@ -4,7 +4,7 @@
 
 - **Location:** Hiriketiya (Dickwella), Matara, Sri Lanka
 - **Type:** Permanent coliving
-- **Price:** from $554/mo
+- **Price:** from $685/mo
 - **Price note:** from BGN 1,172/mo shared 2-bed (~€599)
 - **Rating:** <a href="https://maps.google.com/?cid=5904124968667354870&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (18 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
@@ -17,9 +17,9 @@
 
 ## Rates
 
-| Stay length | Private | Shared |
-|---|---|---|
-| Per month | $938 | $554 |
+| Stay length | From |
+|---|---|
+| Per month | $685 |
 
 Hiriketiya Home does not publish a nightly or weekly rate.
 

@@ -4,7 +4,7 @@
 
 - **Location:** Dusheti, Georgia
 - **Type:** Permanent coliving
-- **Price:** On request
+- **Price:** from $639/mo
 - **Price note:** from BGN 1,097/mo (~€561) private room
 - **Room types:** private
 - **Dorm available:** No
@@ -12,6 +12,14 @@
 - **Region:** Europe
 - **Tags:** rural, mountain, eco, community, coworking
 - **Website:** https://coliving.com/spaces/zxctqeib
+
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | $639 |
+
+Saakadze Home does not publish a nightly or weekly rate.
 
 ## About
 

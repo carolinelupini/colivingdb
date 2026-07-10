@@ -4,7 +4,7 @@
 
 - **Location:** Sapporo, Japan
 - **Type:** Permanent coliving
-- **Price:** from ¥93,000/mo
+- **Price:** from ¥573/mo
 - **Price note:** from BGN 983/mo private (~€503)
 - **Room types:** private
 - **Dorm available:** No
@@ -15,9 +15,9 @@
 
 ## Rates
 
-| Stay length | Private |
+| Stay length | From |
 |---|---|
-| Per month | ¥93,000 |
+| Per month | ¥573 |
 
 The Miyanosawa (Miyanosawa Home) does not publish a nightly or weekly rate.
 

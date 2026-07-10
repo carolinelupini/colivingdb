@@ -4,7 +4,7 @@
 
 - **Location:** San Juan, Puerto Rico
 - **Type:** Permanent coliving
-- **Price:** from $1,390/mo
+- **Price:** from $2,500/mo
 - **Price note:** from BGN 4,289/mo studio, breakfast included
 - **Rating:** <a href="https://maps.google.com/?cid=627223019568055555&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (76 reviews)</a> <small>· Google</small>
 - **Room types:** private
@@ -17,9 +17,9 @@
 
 ## Rates
 
-| Stay length | Private | Shared |
-|---|---|---|
-| Per month | $2,390 | $1,390 |
+| Stay length | From |
+|---|---|
+| Per month | $2,500 |
 
 Tapia Haus 103 does not publish a nightly or weekly rate.
 

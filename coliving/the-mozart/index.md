@@ -4,7 +4,7 @@
 
 - **Location:** Las Palmas, Spain
 - **Type:** Permanent coliving
-- **Price:** from €990/mo
+- **Price:** from €2,058/mo
 - **Price note:** from BGN 3,111/mo, double ensuite
 - **Room types:** private
 - **Dorm available:** No
@@ -12,6 +12,14 @@
 - **Region:** Europe
 - **Tags:** city, beach, coworking, community
 - **Website:** https://coliving.com/spaces/dgbue4kn
+
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €2,058 |
+
+The Mozart does not publish a nightly or weekly rate.
 
 ## About
 

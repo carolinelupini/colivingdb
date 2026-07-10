@@ -6,8 +6,8 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| The Independencia | Buenos Aires | from $440/mo | — | private | 30 nights (~1 month) | Permanent |
-| The Chile | Buenos Aires | from $680/mo | — | private | 30 nights (~1 month) | Permanent |
+| The Independencia | Buenos Aires | from ARS 550/mo | — | private | 30 nights (~1 month) | Permanent |
+| The Chile | Buenos Aires | from ARS 680/mo | — | private | 30 nights (~1 month) | Permanent |
 | WiFi Tribe — Bariloche | Bariloche | from $1,290/mo | — | — | — | Pop-up |
 | Coliving Vibrant Buenos Aires | Buenos Aires | On request | 4.7 (44) | private | 7 nights (~1 week) | Permanent |
 | Draper Startup House Buenos Aires | Buenos Aires | On request | — | private, shared, dorm | — | Permanent |

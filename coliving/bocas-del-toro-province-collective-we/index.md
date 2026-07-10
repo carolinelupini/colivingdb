@@ -4,7 +4,7 @@
 
 - **Location:** Isla Bastimentos, Panama
 - **Type:** Permanent coliving
-- **Price:** from $1,770/mo
+- **Price:** from $735/mo
 - **Price note:** from BGN 1,261/mo shared dorm; privates from ~BGN 5,919/mo
 - **Room types:** shared, private, dorm
 - **Dorm available:** Yes
@@ -15,9 +15,9 @@
 
 ## Rates
 
-| Stay length | Private | Shared |
-|---|---|---|
-| Per month | $1,770 | $380 |
+| Stay length | From |
+|---|---|
+| Per month | $735 |
 
 Bocas Del Toro Province Collective (WE) does not publish a nightly or weekly rate.
 

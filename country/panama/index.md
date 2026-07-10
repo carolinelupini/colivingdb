@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Bocas Del Toro Province Collective (WE) | Isla Bastimentos | from $1,770/mo | — | shared, private, dorm | 30 nights (~1 month) | Permanent |
+| Bocas Del Toro Province Collective (WE) | Isla Bastimentos | from $735/mo | — | shared, private, dorm | 30 nights (~1 month) | Permanent |
 | WiFi Tribe — Bocas del Toro | Bocas del Toro | from $1,390/mo | — | — | — | Pop-up |
 | CocoVivo | Bocas del Toro | from $1,650/mo | 4.8 (96) | private | — | Permanent |
 

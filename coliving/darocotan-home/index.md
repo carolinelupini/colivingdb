@@ -4,7 +4,7 @@
 
 - **Location:** El Nido, Philippines
 - **Type:** Permanent coliving
-- **Price:** from €2,280/mo
+- **Price:** from PHP 2,846/mo
 - **Price note:** from BGN 4,878/mo, all meals included
 - **Rating:** <a href="https://maps.google.com/?cid=8106103287525242766&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (307 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
@@ -14,6 +14,14 @@
 - **Tags:** beach, island, eco, community
 - **Website:** https://coliving.com/spaces/kuqpkmtq
 - **Rating:** 4.5 from 307 Google reviews
+
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | PHP 2,846 |
+
+Darocotan Home does not publish a nightly or weekly rate.
 
 ## About
 

@@ -4,7 +4,7 @@
 
 - **Location:** Funchal, Portugal
 - **Type:** Permanent coliving
-- **Price:** On request
+- **Price:** from €1,704/mo
 - **Price note:** from BGN 2,915/mo private room
 - **Room types:** private
 - **Dorm available:** No
@@ -12,6 +12,14 @@
 - **Region:** Europe
 - **Tags:** island, city, coworking, community
 - **Website:** https://coliving.com/spaces/bumusoad
+
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €1,704 |
+
+The Santa Luzia does not publish a nightly or weekly rate.
 
 ## About
 

@@ -6,16 +6,16 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Polar Home | Tulum | from $650/mo | — | dorm | 30 nights (~1 month) | Permanent |
+| Polar Home | Tulum | from MXN 228/mo | — | dorm | 30 nights (~1 month) | Permanent |
 | co.404 Coliving San Cristóbal | San Cristóbal de las Casas | from $1,290/mo | 4.8 (81) | private, dorm | — | Permanent |
 | U-Co Roma Coliving | Mexico City | from €381/mo | 4.3 (102) | — | — | Permanent |
-| The Polar II | Tulum | from €499/mo | 3.8 (76) | private | 30 nights (~1 month) | Permanent |
+| The Polar II | Tulum | from MXN 570/mo | 3.8 (76) | private | 30 nights (~1 month) | Permanent |
 | Co.404 Oaxaca City | Oaxaca | from $570/mo | 4.7 (162) | private | 30 nights (~1 month) | Permanent |
 | co.404 Coliving Oaxaca | Oaxaca | from $570/mo | 4.7 (162) | private, dorm | — | Permanent |
 | Nomadico Coliving Puerto Escondido | Puerto Escondido | from $749/mo | 5.0 (22) | private | 7 nights (~1 week) | Permanent |
 | Mi Casa Coliving | Puerto Escondido | from €720/mo | 5.0 (5) | private | 7 nights (~1 week) | Permanent |
 | Covive Casa Del Valle Norte | Mexico City | from MXN 15,250/mo | 4.1 (28) | private | 30 nights (~1 month) | Permanent |
-| The Sur II | Tulum | from €844/mo | — | private | 30 nights (~1 month) | Permanent |
+| The Sur II | Tulum | from MXN 1,091/mo | — | private | 30 nights (~1 month) | Permanent |
 | WiFi Tribe — Puerto Escondido | Puerto Escondido | from $1,290/mo | — | — | — | Pop-up |
 | Amplitude Coliving | Puerto Escondido (La Punta) | from €1,380/mo | 5.0 (75) | private | 1 night | Permanent |
 | COLIVING ROMA | Mexico City | On request | 4.8 (25) | — | — | Permanent |

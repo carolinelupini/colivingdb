@@ -4,7 +4,7 @@
 
 - **Location:** Palermo, Italy
 - **Type:** Permanent coliving
-- **Price:** from €1,000/mo
+- **Price:** from €1,143/mo
 - **Price note:** from BGN 1,956/mo (~€1,000) private room
 - **Room types:** private
 - **Dorm available:** No
@@ -15,9 +15,9 @@
 
 ## Rates
 
-| Stay length | Private | Shared |
-|---|---|---|
-| Per month | €1,350 | €1,000 |
+| Stay length | From |
+|---|---|
+| Per month | €1,143 |
 
 Beet - Botanical Garden (Cortile del Giuoco Home) does not publish a nightly or weekly rate.
 

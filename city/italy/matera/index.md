@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Galileo Galilei Home | Matera | from €750/mo | — | private, shared | 30 nights (~1 month) | Permanent |
+| Galileo Galilei Home | Matera | from €857/mo | — | private, shared | 30 nights (~1 month) | Permanent |
 | Casa Netural | Matera | from €950/mo | 4.9 (139) | private | 1 night | Permanent |
 
 ## Price distribution

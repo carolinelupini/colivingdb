@@ -8,12 +8,12 @@
 |---|---|---|---|---|---|---|
 | Sugar Hostel Weligama - Coliving & Coworking | Weligama | from $99/mo | 4.5 (337) | private, dorm | 7 nights (~1 week) | Permanent |
 | Nomadico Coliving Hiriketiya | Hiriketiya (Nilwella) | from €668/mo | 5.0 (38) | private | 7 nights (~1 week) | Permanent |
-| Hiriketiya Home | Hiriketiya (Dickwella), Matara | from $554/mo | 4.9 (18) | private, shared | 30 nights (~1 month) | Permanent |
-| Habaraduwa Home | Habaraduwa, Galle | from $683/mo | 4.7 (14) | private, shared | 30 nights (~1 month) | Permanent |
+| Hiriketiya Home | Hiriketiya (Dickwella), Matara | from $685/mo | 4.9 (18) | private, shared | 30 nights (~1 month) | Permanent |
+| Habaraduwa Home | Habaraduwa, Galle | from $845/mo | 4.7 (14) | private, shared | 30 nights (~1 month) | Permanent |
 | Colive Me (ColiveMe) | Ahangama | from €668/mo | 4.9 (109) | private | 3 nights | Permanent |
 | Outpost Weligama | Weligama | from $849/mo | 4.7 (145) | private, shared | — | Permanent |
 | La Isla Bonita | Weligama | from $500/mo | 4.3 (13) | private | — | Permanent |
-| Weligama Bay Residence | Weligama | from $1,818/mo | 4.7 (58) | private | 30 nights (~1 month) | Permanent |
+| Weligama Bay Residence | Weligama | from $2,250/mo | 4.7 (58) | private | 30 nights (~1 month) | Permanent |
 | WiFi Tribe — Weligama | Weligama | from $1,290/mo | — | — | — | Pop-up |
 | Beachbums Coliving Madiha | Weligama | On request | 5.0 (7) | private, dorm | — | Permanent |
 | Ocean Bliss by Sugar Coliving - Beachfront Hotel in Weligama | Weligama | On request | 4.6 (269) | private | — | Permanent |

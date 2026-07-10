@@ -4,7 +4,7 @@
 
 - **Location:** Ubud, Indonesia
 - **Type:** Permanent coliving
-- **Price:** from $949/mo
+- **Price:** from IDR 949/mo
 - **Rating:** <a href="https://maps.google.com/?cid=6992275322276467825&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (131 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
@@ -18,7 +18,7 @@
 
 | Stay length | From |
 |---|---|
-| Per month | $949 |
+| Per month | IDR 949 |
 
 The Ubud Residence (Raya Nyuh Kuning) does not publish a nightly or weekly rate.
 

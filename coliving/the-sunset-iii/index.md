@@ -4,7 +4,7 @@
 
 - **Location:** Kuta, Indonesia
 - **Type:** Permanent coliving
-- **Price:** from IDR 8,700,000/mo
+- **Price:** from IDR 573/mo
 - **Price note:** from BGN 1,025/mo studio
 - **Rating:** <a href="https://maps.google.com/?cid=9442416139873896520&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (104 reviews)</a> <small>· Google</small>
 - **Room types:** private
@@ -17,9 +17,9 @@
 
 ## Rates
 
-| Stay length | Private |
+| Stay length | From |
 |---|---|
-| Per month | IDR 8,700,000 |
+| Per month | IDR 573 |
 
 The Sunset III does not publish a nightly or weekly rate.
 

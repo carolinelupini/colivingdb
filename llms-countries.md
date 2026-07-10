@@ -20,30 +20,30 @@
 | [Bulgaria](/country/bulgaria/index.md) | 12 | €280 |
 | [Costa Rica](/country/costa-rica/index.md) | 12 | €367 |
 | [Greece](/country/greece/index.md) | 12 | €449 |
-| [Morocco](/country/morocco/index.md) | 12 | €300 |
+| [Morocco](/country/morocco/index.md) | 12 | €61 |
 | [Australia](/country/australia/index.md) | 10 | €473 |
 | [India](/country/india/index.md) | 10 | €140 |
-| [Montenegro](/country/montenegro/index.md) | 10 | €500 |
+| [Montenegro](/country/montenegro/index.md) | 10 | €360 |
 | [Japan](/country/japan/index.md) | 9 | €378 |
 | [Vietnam](/country/vietnam/index.md) | 8 | €283 |
 | [Philippines](/country/philippines/index.md) | 7 | €525 |
 | [Argentina](/country/argentina/index.md) | 6 | €506 |
 | [Malaysia](/country/malaysia/index.md) | 6 | €172 |
-| [Norway](/country/norway/index.md) | 6 | €700 |
+| [Norway](/country/norway/index.md) | 6 | €522 |
 | [United Kingdom](/country/united-kingdom/index.md) | 6 | €350 |
 | [Germany](/country/germany/index.md) | 5 | €645 |
 | [Malta](/country/malta/index.md) | 5 | €420 |
 | [Romania](/country/romania/index.md) | 5 | €670 |
-| [Serbia](/country/serbia/index.md) | 5 | €400 |
+| [Serbia](/country/serbia/index.md) | 5 | €297 |
 | [Tanzania](/country/tanzania/index.md) | 5 | €1,216 |
-| [Egypt](/country/egypt/index.md) | 4 | — |
+| [Egypt](/country/egypt/index.md) | 4 | €167 |
 | [Kenya](/country/kenya/index.md) | 4 | — |
-| [Poland](/country/poland/index.md) | 4 | €900 |
+| [Poland](/country/poland/index.md) | 4 | €513 |
 | [South Korea](/country/south-korea/index.md) | 4 | €990 |
 | [Uruguay](/country/uruguay/index.md) | 4 | €569 |
 | [Austria](/country/austria/index.md) | 3 | €990 |
 | [Belize](/country/belize/index.md) | 3 | — |
-| [Cyprus](/country/cyprus/index.md) | 3 | €1,260 |
+| [Cyprus](/country/cyprus/index.md) | 3 | €1,160 |
 | [Georgia](/country/georgia/index.md) | 3 | €192 |
 | [New Zealand](/country/new-zealand/index.md) | 3 | €700 |
 | [Panama](/country/panama/index.md) | 3 | €595 |
@@ -51,7 +51,7 @@
 | [Belgium](/country/belgium/index.md) | 2 | €690 |
 | [Cambodia](/country/cambodia/index.md) | 2 | €157 |
 | [Canada](/country/canada/index.md) | 2 | €1,440 |
-| [Croatia](/country/croatia/index.md) | 2 | — |
+| [Croatia](/country/croatia/index.md) | 2 | €598 |
 | [Ecuador](/country/ecuador/index.md) | 2 | €310 |
 | [Guatemala](/country/guatemala/index.md) | 2 | €819 |
 | [Hungary](/country/hungary/index.md) | 2 | €900 |

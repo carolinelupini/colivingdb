@@ -4,7 +4,7 @@
 
 - **Location:** Las Palmas, Spain
 - **Type:** Permanent coliving
-- **Price:** from €1,533/mo
+- **Price:** from €1,143/mo
 - **Price note:** from BGN 1,536/mo private ≈ €785
 - **Rating:** <a href="https://maps.google.com/?cid=16767292269131221328&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.0 (530 reviews)</a> <small>· Google</small>
 - **Room types:** private
@@ -14,6 +14,14 @@
 - **Tags:** city, coworking, community, island
 - **Website:** https://coliving.com/spaces/pwyti9lo
 - **Rating:** 4.0 from 530 Google reviews
+
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €1,143 |
+
+García Morato Home does not publish a nightly or weekly rate.
 
 ## About
 

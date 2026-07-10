@@ -4,7 +4,7 @@
 
 - **Location:** Monteverde (Santa Elena), Costa Rica
 - **Type:** Permanent coliving
-- **Price:** from €4,001/mo
+- **Price:** from CRC 4,574/mo
 - **Price note:** ~€4,001/mo private incl. breakfast + lunch
 - **Room types:** private
 - **Dorm available:** No
@@ -12,6 +12,14 @@
 - **Region:** Latin America
 - **Tags:** mountain, rural, coworking, community
 - **Website:** https://coliving.com/spaces/4l9du6br
+
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | CRC 4,574 |
+
+Puntarenas Residence does not publish a nightly or weekly rate.
 
 ## About
 

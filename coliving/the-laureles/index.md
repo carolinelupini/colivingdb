@@ -4,7 +4,7 @@
 
 - **Location:** Medellin, Colombia
 - **Type:** Permanent coliving
-- **Price:** from €585/mo
+- **Price:** from COP 671/mo
 - **Price note:** from BGN 1,145/mo private room
 - **Room types:** private
 - **Dorm available:** No
@@ -12,6 +12,14 @@
 - **Region:** Latin America
 - **Tags:** city, coworking, community
 - **Website:** https://coliving.com/spaces/yyblqgb4
+
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | COP 671 |
+
+The Laureles does not publish a nightly or weekly rate.
 
 ## About
 

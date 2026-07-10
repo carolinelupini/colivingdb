@@ -4,7 +4,7 @@
 
 - **Location:** Agadir, Morocco
 - **Type:** Permanent coliving
-- **Price:** On request
+- **Price:** from MAD 697/mo
 - **Price note:** from BGN 1,269/month (~€649)
 - **Room types:** private, shared, dorm
 - **Dorm available:** Yes
@@ -12,6 +12,14 @@
 - **Region:** Africa
 - **Tags:** beach, surf, community, coworking
 - **Website:** https://coliving.com/spaces/bfygsnjv
+
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | MAD 697 |
+
+The Tamraght does not publish a nightly or weekly rate.
 
 ## About
 

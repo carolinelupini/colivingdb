@@ -4,7 +4,7 @@
 
 - **Location:** Weligama, Sri Lanka
 - **Type:** Permanent coliving
-- **Price:** from $1,818/mo
+- **Price:** from $2,250/mo
 - **Price note:** from BGN 3,860/mo standard private room
 - **Rating:** <a href="https://maps.google.com/?cid=5830583501802065789&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (58 reviews)</a> <small>· Google</small>
 - **Room types:** private
@@ -17,9 +17,9 @@
 
 ## Rates
 
-| Stay length | Private |
+| Stay length | From |
 |---|---|
-| Per month | $1,818 |
+| Per month | $2,250 |
 
 Weligama Bay Residence does not publish a nightly or weekly rate.
 
