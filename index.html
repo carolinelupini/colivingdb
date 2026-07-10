@@ -22,6 +22,7 @@
     --wrap:1120px;
   }
   *{box-sizing:border-box; margin:0; padding:0;}
+  html,body{max-width:100%; overflow-x:hidden;}   /* no phantom horizontal scroll on mobile */
   body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif; color:var(--ink); background:var(--bg);}
   a{color:var(--accent);}
 
@@ -106,7 +107,8 @@
 
   /* columnar list */
   .list{max-width:var(--wrap); margin:0 auto; padding:16px 22px 0;}
-  .cols{display:grid; grid-template-columns:minmax(0,2.5fr) 0.9fr 1.2fr 1.1fr auto; gap:16px; align-items:center;}
+  .cols{display:grid; grid-template-columns:minmax(0,2.4fr) 0.8fr 1.05fr 0.75fr 1.05fr auto; gap:14px; align-items:center;}
+  .r-rating{font-size:.82rem;}
   .list-head{padding:2px 18px 10px; font-size:.7rem; text-transform:uppercase; letter-spacing:.05em; color:var(--muted); border:1px solid transparent;}
   .list-head .r-price, .row .r-price{text-align:right;}
   .list-head .r-link{min-width:64px;}
@@ -116,7 +118,7 @@
   .row.hl{border-color:var(--accent); box-shadow:0 0 0 2px var(--accent-soft);}
 
   .r-name .nm{font-size:.98rem; font-weight:650; line-height:1.2;}
-  .rating{display:inline-flex; align-items:center; gap:1px; font-size:.78rem; font-weight:600; color:#a15c00; background:#fdf3e2; border-radius:5px; padding:1px 6px; margin-left:6px; text-decoration:none; vertical-align:middle; white-space:nowrap;}
+  .rating{display:inline-flex; align-items:center; gap:1px; font-size:.78rem; font-weight:600; color:#a15c00; background:#fdf3e2; border-radius:5px; padding:1px 6px; text-decoration:none; vertical-align:middle; white-space:nowrap;}
   .rating .star{color:#e8a723; margin-right:2px;}
   .rating small{font-weight:400; color:var(--muted);}
   a.rating:hover{background:#f9e6c4;}
@@ -170,9 +172,10 @@
     .cols{grid-template-columns:1fr auto; gap:6px 14px;}
     .row .r-type{grid-column:2; grid-row:1; justify-self:end;}
     .row .r-name{grid-column:1; grid-row:1;}
-    .row .r-rooms{grid-column:1; grid-row:2;}
-    .row .r-price{grid-column:2; grid-row:2; text-align:right;}
-    .row .r-link{grid-column:1 / -1; grid-row:3; margin-top:4px;}
+    .row .r-rating{grid-column:1; grid-row:2;}
+    .row .r-rooms{grid-column:1; grid-row:3;}
+    .row .r-price{grid-column:2; grid-row:3; text-align:right; align-self:end;}
+    .row .r-link{grid-column:1 / -1; grid-row:4; margin-top:4px;}
     .r-link a{display:inline;}
   }
 </style>
@@ -247,8 +250,7 @@
   <!-- row 3: tag chips + toggles -->
   <div class="frline">
     <div class="frow tags" id="tags"></div>
-    <label class="toggle"><input type="checkbox" id="hideUnclear" autocomplete="off"> Hide unconfirmed</label>
-    <button id="reset">reset</button>
+    <button id="reset">Reset filters</button>
   </div>
 </div>
 
@@ -257,7 +259,7 @@
   <div class="cards-grid" id="regionCards"></div>
   <div class="browse-h">Browse by type</div>
   <div class="cards-grid types" id="typeCards"></div>
-  <div class="browse-countries"><span class="bc-label">Popular countries</span><span id="countryChips" style="display:flex;flex-wrap:wrap;gap:7px;justify-content:center"></span></div>
+  <div class="browse-countries"><span class="bc-label">Popular countries</span><span id="countryChips" style="flex:1 1 100%;max-width:100%;display:flex;flex-wrap:wrap;gap:7px;justify-content:center"></span></div>
   <div class="show-all-wrap"><button class="show-all" id="showAll">Show all colivings →</button></div>
   <div class="submit-cta">Run a coliving that isn't listed? <a id="submitLink" href="#">Add it to colivingDB →</a></div>
 </div>
@@ -267,7 +269,8 @@
     <div class="r-name">Coliving</div>
     <div class="r-type">Type</div>
     <div class="r-rooms">Rooms</div>
-    <div class="r-price">Price / month</div>
+    <div class="r-rating">Rating</div>
+    <div class="r-price">Price</div>
     <div class="r-link"></div>
   </div>
   <div id="rows"></div>
@@ -343,7 +346,7 @@ const TAGS = Object.keys(tagFreq).sort((a,b)=>tagFreq[b]-tagFreq[a]);
 // order interleaves warm/cool so the look-alike pairs never sit next to each other
 const TYPE_ORDER = ["community","beach","family","island","coworking","eco","rural","startup","surf","mountain","ski","city"];
 
-const state = {region:"All", country:"", room:"", format:"", month:"", minStay:"", minRating:"", tags:new Set(), price:"", q:"", hideUnclear:false, showAll:false, currency:"", unit:"month"};
+const state = {region:"All", country:"", room:"", format:"", month:"", minStay:"", minRating:"", tags:new Set(), price:"", q:"", showAll:false, currency:"", unit:"month"};
 
 // ---- pop-up month coverage: turn a popupDates string into the set of YYYY-MM it spans ----
 const MONTH_IDX={jan:1,feb:2,mar:3,apr:4,may:5,jun:6,jul:7,aug:8,sep:9,sept:9,oct:10,nov:11,dec:12,
@@ -499,7 +502,6 @@ document.querySelectorAll("#unitSeg button").forEach(b=>{
 });
 buildPriceOptions();
 document.getElementById("price").onchange=e=>{state.price=e.target.value; render();};
-document.getElementById("hideUnclear").onchange=e=>{state.hideUnclear=e.target.checked; render();};
 document.getElementById("search").oninput=e=>{state.q=e.target.value.toLowerCase(); render();};
 
 // landing: region cards (colour-coded) + type cards + popular countries + show all
@@ -553,18 +555,22 @@ document.getElementById("formClose").onclick=closeForm;
 formModal.querySelector(".modal-backdrop").onclick=closeForm;
 document.addEventListener("keydown",e=>{ if(e.key==="Escape" && formModal.style.display==="flex") closeForm(); });
 
-function resetFilters(){
-  Object.assign(state,{region:"All",country:"",room:"",format:"",month:"",minStay:"",minRating:"",price:"",q:"",hideUnclear:false,showAll:false,unit:"month"}); state.tags.clear();
+// clear every filter to default. `toBrowse` = also return to the browse landing (Back / logo);
+// otherwise stay on the current list view with the map + filters and all colivings shown (Reset).
+function resetFilters(toBrowse){
+  Object.assign(state,{region:"All",country:"",room:"",format:"",month:"",minStay:"",minRating:"",price:"",q:"",unit:"month"});
+  state.tags.clear();
+  state.showAll = (toBrowse === true) ? false : true;
   ["country","room","format","month","minstay","minrating","price"].forEach(id=>document.getElementById(id).value="");
   document.querySelectorAll("#unitSeg button").forEach(b=>b.classList.toggle("on", b.dataset.unit==="month"));
   buildPriceOptions();
-  document.getElementById("search").value=""; document.getElementById("hideUnclear").checked=false;
+  document.getElementById("search").value="";
   render();
 }
-document.getElementById("reset").onclick=resetFilters;
-document.getElementById("back").onclick=resetFilters;
-document.getElementById("home").onclick=resetFilters;
-window.addEventListener("pageshow", resetFilters);
+document.getElementById("reset").onclick=()=>resetFilters(false);   // clear filters, stay on the list
+document.getElementById("back").onclick=()=>resetFilters(true);     // back to the browse landing
+document.getElementById("home").onclick=()=>resetFilters(true);
+window.addEventListener("pageshow", ()=>resetFilters(true));
 
 // map
 const map = L.map("map",{scrollWheelZoom:true}).setView([25,10],2);
@@ -583,7 +589,7 @@ let markers=[];
 
 function isBrowse(){
   return state.region==="All" && !state.country && !state.room && !state.format && !state.month && !state.minStay && !state.minRating
-    && !state.tags.size && !state.price && !state.q && !state.hideUnclear && !state.showAll;
+    && !state.tags.size && !state.price && !state.q && !state.showAll;
 }
 function hasRoom(x, room){
   if(room==="dorm") return x.dormAvailable || (x.roomTypes||[]).includes("dorm");
@@ -602,7 +608,6 @@ function filtered(){
     // A listing with no published rate for that length simply can't satisfy a price cap.
     (!state.price||(()=>{ const a=rateAmount(x,"from"); if(a==null) return false;
                           const e=toEur(a, rateCurOf(x)); return e!=null && e<=+state.price; })()) &&
-    (!state.hideUnclear||x.status==="active") &&
     ([...state.tags].every(t=>(x.tags||[]).includes(t))) &&
     (!state.q||((x.name+" "+(x.city||"")+" "+x.country).toLowerCase().includes(state.q)))
   );
@@ -689,13 +694,21 @@ function typeCell(x){
   return `<span class="b ${cls}">${label}</span>`
     + (x.status!=="active"?`<br><span class="b b-unclear">⚠ unconfirmed</span>`:"");
 }
+// what each room type means — surfaced as a tooltip on the chip
+const ROOM_TIP = {
+  private:"Your own private room",
+  shared:"A twin/double room shared with one other person",
+  dorm:"A bed in a shared dorm (several people)",
+  studio:"A self-contained studio",
+  apartment:"A self-contained apartment",
+};
 function roomsCell(x){
   const rts = x.roomTypes||[];
   if(!rts.length && !x.dormAvailable) return `<span style="color:var(--muted);font-size:.72rem">—</span>`;
   const set = new Set(rts); if(x.dormAvailable) set.add("dorm");
   const order=["dorm","private","shared","studio","apartment"];
   const sorted=[...set].sort((a,b)=>(order.indexOf(a)+99)%100-(order.indexOf(b)+99)%100);
-  return sorted.map(r=>`<span class="rm">${r}</span>`).join("");
+  return sorted.map(r=>`<span class="rm" title="${ROOM_TIP[r]||r}">${r}</span>`).join("");
 }
 function tagChip(t){
   const hue=typeHue(t);
@@ -742,13 +755,14 @@ function render(){
     const row=document.createElement("div"); row.className="row cols"; row.id="row-"+idx;
     row.innerHTML=`
       <div class="r-name">
-        <div class="nm">${x.name}${ratingBadge(x)}</div>
+        <div class="nm">${x.name}</div>
         <div class="loc">${loc} · ${x.region}</div>
         ${tagsHtml?`<div class="tags">${tagsHtml}</div>`:""}
         ${datesHtml}
       </div>
       <div class="r-type">${typeCell(x)}</div>
       <div class="r-rooms">${roomsCell(x)}</div>
+      <div class="r-rating">${ratingBadge(x)}</div>
       <div class="r-price">${priceCell(x)}</div>
       <div class="r-link">${linkHtml}</div>`;
     if(x.__m){
@@ -759,7 +773,7 @@ function render(){
   });
 
   if(withCoords.length){
-    const tight = !browse && (state.region!=="All"||state.country||state.room||state.format||state.month||state.minStay||state.minRating||state.q||state.tags.size||state.price||state.hideUnclear);
+    const tight = !browse && (state.region!=="All"||state.country||state.room||state.format||state.month||state.minStay||state.minRating||state.q||state.tags.size||state.price);
     map.fitBounds(L.featureGroup(withCoords).getBounds().pad(tight?0.25:0.02),{maxZoom:tight?9:5});
   }
 }
