@@ -7,8 +7,8 @@
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
 | Colive & Cowork Gumbrini | Tskaltubo | from $219/mo | private, shared, dorm | — | Permanent |
-| Khomuli Home | Khomuli | from $219/mo | private, shared | 30 nights (~1 month) | Permanent |
-| Saakadze Home | Dusheti | from €560/mo | private | 30 nights (~1 month) | Permanent |
+| Khomuli Home | Khomuli | from BGN 375/mo | private, shared | 30 nights (~1 month) | Permanent |
+| Saakadze Home | Dusheti | from BGN 1,094/mo | private | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

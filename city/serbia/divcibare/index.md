@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Gođevačka Collective | Divcibare | from RSD 265,500/mo | private | 30 nights (~1 month) | Permanent |
+| Gođevačka Collective | Divcibare | from BGN 3,861/mo | private | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

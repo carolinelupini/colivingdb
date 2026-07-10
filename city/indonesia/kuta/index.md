@@ -7,7 +7,7 @@
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
 | The Sunset III | Kuta | from IDR 8,700,000/mo | private | 30 nights (~1 month) | Permanent |
-| The Sunset II | Kuta | from IDR 8,700,000/mo | private | 30 nights (~1 month) | Permanent |
+| The Sunset II | Kuta | from $555/mo | private | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

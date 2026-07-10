@@ -10,8 +10,8 @@
 | Hub53 Coworking and Coliving Space | Chiang Mai (Nimman) | from THB 9,000/mo | private | — | Permanent |
 | Hub53 Coworking & Coliving | Chiang Mai | from THB 9,000/mo | private | — | Permanent |
 | The Yard Hostel | Bangkok | from $300/mo | private, dorm | — | Permanent |
-| Taeparak Home | Chiang Mai | from THB 12,000/mo | private, dorm | 30 nights (~1 month) | Permanent |
-| Socialer Coliving & Coworking Space | Chiang Mai | from €300/mo | dorm | 1 night | Permanent |
+| Taeparak Home | Chiang Mai | from BGN 554/mo | private, dorm | 30 nights (~1 month) | Permanent |
+| Socialer Coliving & Coworking Space | Chiang Mai | from €390/mo | dorm | 1 night | Permanent |
 | The Capsule by UnionSPACE | bangkok | from THB 13,500/mo | private | 1 night | Permanent |
 | KoHub | Ko Lanta | from THB 49,500/mo | private | — | Permanent |
 | HOMA Phuket Town | Phuket | from THB 18,000/mo | private | — | Permanent |

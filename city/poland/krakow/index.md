@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| The Maja (Maja Hub) | Krakow | from €513/mo | private, shared | 60 nights (~2 months) | Permanent |
+| The Maja (Maja Hub) | Krakow | from BGN 949/mo | private, shared | 60 nights (~2 months) | Permanent |
 
 ## Price distribution
 

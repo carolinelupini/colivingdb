@@ -4,7 +4,7 @@
 
 - **Location:** Santo da Serra (Madeira), Portugal
 - **Type:** Permanent coliving
-- **Price:** from €1,400/mo
+- **Price:** from BGN 1,956/mo
 - **Price note:** from BGN 1,956/mo shared ≈ €1,000; privates from ~€1,500
 - **Room types:** private, shared
 - **Dorm available:** Yes
@@ -17,7 +17,7 @@
 
 | Stay length | Private | Shared |
 |---|---|---|
-| Per month | €1,700 | €1,500 |
+| Per month | BGN 2,934 | BGN 1,956 |
 
 No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
 

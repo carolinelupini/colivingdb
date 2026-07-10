@@ -4,7 +4,7 @@
 
 - **Location:** Chiang Mai, Thailand
 - **Type:** Permanent coliving
-- **Price:** from €300/mo
+- **Price:** from €390/mo
 - **Price note:** €300/month dorm (discounted from €390); €12/night
 - **Room types:** dorm
 - **Dorm available:** Yes
@@ -12,6 +12,15 @@
 - **Region:** Asia
 - **Tags:** city, coworking, community
 - **Website:** https://www.mapmelon.com/colivings/socialer-coliving-coworking-space
+
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per night | €13 |
+| Per month | €390 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
 
 ## About
 

@@ -1,6 +1,6 @@
 # Coliving in Mexico
 
-> 32 colivings in Mexico, prices from €199 to €1,380 per month – last updated July 10, 2026.
+> 31 colivings in Mexico, prices from €199 to €1,380 per month – last updated July 10, 2026.
 
 ## All colivings
 
@@ -12,7 +12,6 @@
 | The Polar II | Tulum | from €499/mo | private | 30 nights (~1 month) | Permanent |
 | Co.404 Oaxaca City | Oaxaca | from $570/mo | private | 30 nights (~1 month) | Permanent |
 | co.404 Coliving Oaxaca | Oaxaca | from $570/mo | private, dorm | — | Permanent |
-| Covive Casa Curie | Monterrey | from MXN 15,250/mo | private | 30 nights (~1 month) | Permanent |
 | Nomadico Coliving Puerto Escondido | Puerto Escondido | from $749/mo | private | 7 nights (~1 week) | Permanent |
 | Mi Casa Coliving | Puerto Escondido | from €720/mo | private | 7 nights (~1 week) | Permanent |
 | Covive Casa Del Valle Norte | Mexico City | from MXN 15,250/mo | private | 30 nights (~1 month) | Permanent |
@@ -20,13 +19,13 @@
 | WiFi Tribe — Puerto Escondido | Puerto Escondido | from $1,290/mo | — | — | Pop-up |
 | Amplitude Coliving | Puerto Escondido (La Punta) | from €1,380/mo | private | 1 night | Permanent |
 | COLIVING ROMA | Mexico City | On request | — | — | Permanent |
-| Casa Iris Coliving | Tulum | On request | private, shared | — | Permanent |
+| Casa Iris Coliving | Santiago de Querétaro | On request | private, shared | — | Permanent |
 | Casa Luna by Terracotta MX | Mexico City | On request | private | 7 nights (~1 week) | Permanent |
 | Coliving Chingon | Guadalajara | from MXN 10,000/mo | private, dorm | — | Permanent |
 | Coliving Chingon Suites | Guadalajara | On request | private | — | Permanent |
 | Coliving Condesa | Mexico City | On request | — | — | Permanent |
 | ETNYA Coliving | Mérida | On request | — | — | Permanent |
-| Humant Coliving - Cancún, México | Tulum | from $29/night | private, shared | — | Permanent |
+| Humant Coliving - Cancún, México | Cancún | from $29/night | private, shared | — | Permanent |
 | Iguana Co-living | Oaxaca City | On request | private | — | Permanent |
 | Leveli Coliving & Coworking | Guadalajara | On request | private, dorm | — | Permanent |
 | Mutuo Vive | Guadalajara | On request | private | 1 night | Permanent |
@@ -44,7 +43,7 @@
 | Band (EUR/mo) | Colivings |
 |---|---|
 | 0–500 | 4 |
-| 500–800 | 5 |
+| 500–800 | 4 |
 | 800–1200 | 3 |
 | 1200–2000 | 1 |
 

@@ -4,7 +4,7 @@
 
 - **Location:** Hurghada, Egypt
 - **Type:** Permanent coliving
-- **Price:** from €480/mo
+- **Price:** from BGN 1,232/mo
 - **Price note:** from BGN 1,236/mo single private (~€632)
 - **Room types:** private, shared
 - **Dorm available:** No
@@ -17,7 +17,7 @@
 
 | Stay length | Private | Shared |
 |---|---|---|
-| Per month | €600 | €480 |
+| Per month | BGN 1,232 | BGN 1,232 |
 
 No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
 

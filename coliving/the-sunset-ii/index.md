@@ -4,7 +4,7 @@
 
 - **Location:** Kuta, Indonesia
 - **Type:** Permanent coliving
-- **Price:** from IDR 8,700,000/mo
+- **Price:** from $555/mo
 - **Price note:** from BGN 1,051/mo studio
 - **Room types:** private
 - **Dorm available:** No
@@ -15,9 +15,9 @@
 
 ## Rates
 
-| Stay length | Private |
+| Stay length | From |
 |---|---|
-| Per month | IDR 8,700,000 |
+| Per month | $555 |
 
 No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
 

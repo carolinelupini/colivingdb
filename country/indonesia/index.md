@@ -9,7 +9,7 @@
 | Matra Bali | Canggu | from IDR 7,500,000/mo | private | — | Permanent |
 | Cove Prana | Uluwatu | from IDR 9,900,000/mo | private | — | Permanent |
 | The Sunset III | Kuta | from IDR 8,700,000/mo | private | 30 nights (~1 month) | Permanent |
-| The Sunset II | Kuta | from IDR 8,700,000/mo | private | 30 nights (~1 month) | Permanent |
+| The Sunset II | Kuta | from $555/mo | private | 30 nights (~1 month) | Permanent |
 | Bali Bustle Coliving | Legian, Bali | from IDR 8,700,000/mo | private | 3 nights | Permanent |
 | Outpost Ubud Penestanan | Ubud, Bali | from $849/mo | private, shared | 14 nights (~2 weeks) | Permanent |
 | Outpost | Canggu, Bali | from $1,095/mo | private, shared | — | Permanent |

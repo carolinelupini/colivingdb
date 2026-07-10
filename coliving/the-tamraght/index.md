@@ -4,7 +4,7 @@
 
 - **Location:** Agadir, Morocco
 - **Type:** Permanent coliving
-- **Price:** from €61/mo
+- **Price:** from BGN 1,265/mo
 - **Price note:** from BGN 1,269/month (~€649)
 - **Room types:** private, shared, dorm
 - **Dorm available:** Yes
@@ -12,6 +12,14 @@
 - **Region:** Africa
 - **Tags:** beach, surf, community, coworking
 - **Website:** https://coliving.com/spaces/bfygsnjv
+
+## Rates
+
+| Stay length | Private | Shared |
+|---|---|---|
+| Per month | BGN 1,757 | BGN 1,265 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
 
 ## About
 

@@ -17,9 +17,10 @@
 
 | Stay length | Private | Shared |
 |---|---|---|
+| Per week | CHF 588 | CHF 275 |
 | Per month | CHF 1,500 | CHF 700 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+No nightly rate is published by the operator. Rates are never derived from another duration.
 
 ## About
 

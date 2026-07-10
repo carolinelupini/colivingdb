@@ -4,7 +4,7 @@
 
 - **Location:** Taghazout, Morocco
 - **Type:** Permanent coliving
-- **Price:** from €1,300/mo
+- **Price:** from BGN 2,445/mo
 - **Price note:** from BGN 2,445/month dorm (~€1,250); private from ~€2,850
 - **Room types:** private, dorm
 - **Dorm available:** Yes
@@ -12,6 +12,14 @@
 - **Region:** Africa
 - **Tags:** beach, surf, community, coworking
 - **Website:** https://coliving.com/spaces/vwoainxh
+
+## Rates
+
+| Stay length | Private | Dorm |
+|---|---|---|
+| Per month | BGN 5,574 | BGN 2,445 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
 
 ## About
 

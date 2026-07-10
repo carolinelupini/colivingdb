@@ -1,8 +1,8 @@
 # Casa Iris Coliving
 
-> Coliving in Tulum, Mexico. Last updated July 10, 2026.
+> Coliving in Santiago de Querétaro, Mexico. Last updated July 10, 2026.
 
-- **Location:** Tulum, Mexico
+- **Location:** Santiago de Querétaro, Mexico
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Room types:** private, shared

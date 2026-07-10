@@ -6,8 +6,8 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| The Santa Luzia | Funchal | from €1,470/mo | private | 30 nights (~1 month) | Permanent |
-| The Carreira | Funchal | from €1,700/mo | private | 30 nights (~1 month) | Permanent |
+| The Santa Luzia | Funchal | from BGN 2,914/mo | private | 30 nights (~1 month) | Permanent |
+| The Carreira | Funchal | from BGN 3,325/mo | private | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

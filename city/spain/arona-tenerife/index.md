@@ -6,6 +6,6 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Zen Den Coliving | Arona (Tenerife) | from €205/mo | private | — | Permanent |
+| Zen Den Coliving | Arona (Tenerife) | On request | private | — | Permanent |
 
 Source: https://colivingdb.com/city/spain/arona-tenerife/

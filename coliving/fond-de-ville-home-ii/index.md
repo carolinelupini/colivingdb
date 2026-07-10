@@ -4,7 +4,7 @@
 
 - **Location:** Liddes, Switzerland
 - **Type:** Permanent coliving
-- **Price:** from CHF 700/mo
+- **Price:** from €994/mo
 - **Price note:** from ~€935/mo bed in 4-bed shared room; privates from ~€1,490
 - **Room types:** private, shared
 - **Dorm available:** Yes
@@ -15,9 +15,9 @@
 
 ## Rates
 
-| Stay length | Private | Shared |
-|---|---|---|
-| Per month | CHF 1,500 | CHF 700 |
+| Stay length | From |
+|---|---|
+| Per month | €994 |
 
 No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
 

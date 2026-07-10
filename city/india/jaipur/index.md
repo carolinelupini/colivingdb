@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| J Startup House, Jaipur - C Scheme | Jaipur | from €140/mo | private, dorm | — | Permanent |
+| J Startup House, Jaipur - C Scheme | Jaipur | from INR 400/night | private, dorm | — | Permanent |
 
 ## Price distribution
 

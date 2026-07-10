@@ -5,7 +5,7 @@
 - **Location:** Bansko, Bulgaria
 - **Type:** Pop-up / dated edition
 - **Dates:** June-July (seasonal coliving season; exact 2026 dates not published)
-- **Price:** from $833/mo
+- **Price:** from BGN 1,424/mo
 - **Price note:** private room (shared bathroom, queen bed — lowest tier), coworking/workspace, high-speed wifi, kitchen, outdoor space, community events (dinners, mixers, workshops); bills included; 1-month minimum stay.
 - **Room types:** private
 - **Dorm available:** No
@@ -16,9 +16,9 @@
 
 ## Rates
 
-| Stay length | From |
+| Stay length | Private |
 |---|---|
-| Per month | $833 |
+| Per month | BGN 1,424 |
 
 No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
 

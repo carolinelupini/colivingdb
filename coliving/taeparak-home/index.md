@@ -4,7 +4,7 @@
 
 - **Location:** Chiang Mai, Thailand
 - **Type:** Permanent coliving
-- **Price:** from THB 12,000/mo
+- **Price:** from BGN 554/mo
 - **Price note:** from BGN 554/mo dorm ≈ €283; private ~€551
 - **Room types:** private, dorm
 - **Dorm available:** Yes
@@ -15,9 +15,9 @@
 
 ## Rates
 
-| Stay length | Shared |
-|---|---|
-| Per month | THB 12,000 |
+| Stay length | Private | Dorm |
+|---|---|---|
+| Per month | BGN 1,077 | BGN 554 |
 
 No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
 

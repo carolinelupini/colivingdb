@@ -4,7 +4,7 @@
 
 - **Location:** Funchal, Portugal
 - **Type:** Permanent coliving
-- **Price:** from €1,470/mo
+- **Price:** from BGN 2,914/mo
 - **Price note:** from BGN 2,915/mo private room
 - **Room types:** private
 - **Dorm available:** No
@@ -12,6 +12,14 @@
 - **Region:** Europe
 - **Tags:** island, city, coworking, community
 - **Website:** https://coliving.com/spaces/bumusoad
+
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | BGN 3,951 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
 
 ## About
 

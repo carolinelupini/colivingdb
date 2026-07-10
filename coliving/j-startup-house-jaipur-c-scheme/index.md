@@ -4,7 +4,7 @@
 
 - **Location:** Jaipur, India
 - **Type:** Permanent coliving
-- **Price:** from €140/mo
+- **Price:** from INR 400/night
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** —
@@ -14,10 +14,10 @@
 
 ## Rates
 
-| Stay length | From |
-|---|---|
-| Per month | €140 |
+| Stay length | Private | Dorm |
+|---|---|---|
+| Per night | INR 1,500 | INR 400 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+No weekly or monthly rate is published by the operator. Rates are never derived from another duration.
 
 Source: https://colivingdb.com/coliving/j-startup-house-jaipur-c-scheme/

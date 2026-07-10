@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| The Tamraght | Agadir | from €61/mo | private, shared, dorm | 30 nights (~1 month) | Permanent |
+| The Tamraght | Agadir | from BGN 1,265/mo | private, shared, dorm | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

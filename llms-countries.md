@@ -1,17 +1,17 @@
 # colivingDB — all countries
 
-> 643 colivings across 83 countries. Last updated July 10, 2026.
+> 641 colivings across 83 countries. Last updated July 10, 2026.
 
 | Country | Colivings | From (EUR/mo) |
 |---|---|---|
 | [Spain](/country/spain/index.md) | 102 | €71 |
 | [Portugal](/country/portugal/index.md) | 70 | €150 |
 | [Italy](/country/italy/index.md) | 32 | €40 |
-| [Mexico](/country/mexico/index.md) | 32 | €199 |
-| [Colombia](/country/colombia/index.md) | 21 | €52 |
+| [Mexico](/country/mexico/index.md) | 31 | €199 |
 | [Indonesia](/country/indonesia/index.md) | 21 | €363 |
 | [Thailand](/country/thailand/index.md) | 21 | €170 |
 | [United States](/country/united-states/index.md) | 21 | €553 |
+| [Colombia](/country/colombia/index.md) | 20 | €52 |
 | [South Africa](/country/south-africa/index.md) | 20 | €170 |
 | [France](/country/france/index.md) | 15 | €420 |
 | [Brazil](/country/brazil/index.md) | 13 | €238 |
@@ -73,7 +73,7 @@
 | [Finland](/country/finland/index.md) | 1 | €690 |
 | [Honduras](/country/honduras/index.md) | 1 | — |
 | [Jamaica](/country/jamaica/index.md) | 1 | €1,093 |
-| [La Réunion](/country/la-r-union/index.md) | 1 | — |
+| [La Réunion](/country/la-reunion/index.md) | 1 | — |
 | [Latvia](/country/latvia/index.md) | 1 | €697 |
 | [Multiple (Colombia, Mexico)](/country/multiple-colombia-mexico/index.md) | 1 | €337 |
 | [Netherlands](/country/netherlands/index.md) | 1 | — |

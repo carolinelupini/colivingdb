@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Doctor Yordan Yosifov Collective | Sofia | from €1,095/mo | private | 30 nights (~1 month) | Permanent |
+| Doctor Yordan Yosifov Collective | Sofia | from BGN 2,142/mo | private | 30 nights (~1 month) | Permanent |
 | Outsite Sofia | Sofia | from €1,095/mo | private | — | Permanent |
 | WorkNomads | Sofia | from €1,095/mo | private | 30 nights (~1 month) | Permanent |
 | WorkNomads LAB Coliving | Sofia | from €1,095/mo | private | — | Permanent |

@@ -30,7 +30,7 @@
 | Casa15 Azores | Sao Miguel, Azores | from €950/mo | private | — | Permanent |
 | Swelldesk Coliving & Coworking | Baleal, Peniche | from €960/mo | private, shared | — | Permanent |
 | Banana House (Ponta do Sol Coliving) | Ponta do Sol, Madeira | from €997/mo | private | 30 nights (~1 month) | Permanent |
-| Cabeco Alto Home | Santo da Serra (Madeira) | from €1,400/mo | private, shared | 30 nights (~1 month) | Permanent |
+| Cabeco Alto Home | Santo da Serra (Madeira) | from BGN 1,956/mo | private, shared | 30 nights (~1 month) | Permanent |
 | Outsite Algarve - Vilamoura | Vilamoura | from €1,000/mo | private | — | Permanent |
 | Outsite Cascais - Guincho | Cascais | from €1,000/mo | private | — | Permanent |
 | Outsite Ericeira - Praia do Sul | Ericeira | from €1,000/mo | private | — | Permanent |
@@ -48,10 +48,10 @@
 | Quinta do Cabeço Alto - Coliving & Coworking Retreat Venue - Madeira Island | Ponta do Sol | from €1,400/mo | private, shared | — | Permanent |
 | NomaVillage | Lagos | from €1,420/mo | private | 14 nights (~2 weeks) | Permanent |
 | Onda Co-Living | Ferrel (Baleal), Peniche | from €1,470/mo | private | 14 nights (~2 weeks) | Permanent |
-| The Santa Luzia | Funchal | from €1,470/mo | private | 30 nights (~1 month) | Permanent |
+| The Santa Luzia | Funchal | from BGN 2,914/mo | private | 30 nights (~1 month) | Permanent |
 | Homeoffice Madeira | Santo da Serra, Santa Cruz (Madeira) | from €1,400/mo | private | 1 night | Permanent |
 | Outsite Madeira - Ponta do Sol | Ponta do Sol, Madeira | from €1,700/mo | private | — | Permanent |
-| The Carreira | Funchal | from €1,700/mo | private | 30 nights (~1 month) | Permanent |
+| The Carreira | Funchal | from BGN 3,325/mo | private | 30 nights (~1 month) | Permanent |
 | Wild Souls Ericeira | Ericeira | from €1,800/mo | private | 7 nights (~1 week) | Permanent |
 | Boundless Life — Sintra | Sintra | from €1,700/mo | — | — | Pop-up |
 | Dwell Azores | Fenais da Luz, São Miguel, Azores | from €2,160/mo | private, shared | 28 nights (~4 weeks) | Permanent |

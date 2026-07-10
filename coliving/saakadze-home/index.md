@@ -4,7 +4,7 @@
 
 - **Location:** Dusheti, Georgia
 - **Type:** Permanent coliving
-- **Price:** from €560/mo
+- **Price:** from BGN 1,094/mo
 - **Price note:** from BGN 1,097/mo (~€561) private room
 - **Room types:** private
 - **Dorm available:** No
@@ -12,6 +12,14 @@
 - **Region:** Europe
 - **Tags:** rural, mountain, eco, community, coworking
 - **Website:** https://coliving.com/spaces/zxctqeib
+
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | BGN 1,094 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
 
 ## About
 

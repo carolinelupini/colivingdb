@@ -7,12 +7,12 @@
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
 | Four Leaf Clover Bansko - Coliving | Bansko | from €280/mo | private | — | Permanent |
-| The Yavor | Bansko | from €300/mo | private | 30 nights (~1 month) | Permanent |
+| The Yavor | Bansko | from BGN 587/mo | private | 30 nights (~1 month) | Permanent |
 | Avalon Bansko | Bansko | from €550/mo | private, shared | 31 nights | Permanent |
 | Nomadico Coliving Bansko | Bansko | from €638/mo | private, shared | 7 nights (~1 week) | Permanent |
-| The Pirin | Bansko | from $833/mo | private | 30 nights (~1 month) | Pop-up |
+| The Pirin | Bansko | from BGN 1,424/mo | private | 30 nights (~1 month) | Pop-up |
 | Coliving Valentina Bansko | Bansko | from €750/mo | private | — | Permanent |
-| Doctor Yordan Yosifov Collective | Sofia | from €1,095/mo | private | 30 nights (~1 month) | Permanent |
+| Doctor Yordan Yosifov Collective | Sofia | from BGN 2,142/mo | private | 30 nights (~1 month) | Permanent |
 | Outsite Sofia | Sofia | from €1,095/mo | private | — | Permanent |
 | WorkNomads | Sofia | from €1,095/mo | private | 30 nights (~1 month) | Permanent |
 | WorkNomads LAB Coliving | Sofia | from €1,095/mo | private | — | Permanent |

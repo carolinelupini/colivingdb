@@ -4,7 +4,7 @@
 
 - **Location:** Saligao, Goa, India
 - **Type:** Permanent coliving
-- **Price:** from $370/mo
+- **Price:** from BGN 724/mo
 - **Price note:** from BGN 724/mo private Small Nest (~€370)
 - **Room types:** private
 - **Dorm available:** No
@@ -17,7 +17,7 @@
 
 | Stay length | Private |
 |---|---|
-| Per month | $370 |
+| Per month | BGN 724 |
 
 No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
 

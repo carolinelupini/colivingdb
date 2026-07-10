@@ -15,7 +15,7 @@
 
 ## Rates
 
-| Stay length | Private |
+| Stay length | From |
 |---|---|
 | Per month | CHF 633 |
 

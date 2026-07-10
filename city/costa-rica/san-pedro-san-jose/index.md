@@ -1,0 +1,17 @@
+# Coliving in San Pedro, San José, Costa Rica
+
+> 1 colivings in San Pedro, San José, Costa Rica, prices from €457 to €457 per month – last updated July 10, 2026.
+
+## All colivings
+
+| Coliving | City | Price from | Rooms | Min stay | Type |
+|---|---|---|---|---|---|
+| La Granja Residence | San Pedro, San José | from €457/mo | private | 30 nights (~1 month) | Permanent |
+
+## Price distribution
+
+| Band (EUR/mo) | Colivings |
+|---|---|
+| 0–500 | 1 |
+
+Source: https://colivingdb.com/city/costa-rica/san-pedro-san-jose/

@@ -61,7 +61,6 @@
 | Bedndesk | S'Arenal (Mallorca) | from €750/mo | private | 30 nights (~1 month) | Permanent |
 | Villa Huerta (Palma Coliving Valencia) | Valencia | from €960/mo | private | 30 nights (~1 month) | Permanent |
 | Casa Capitán Coliving | Guargacho, Tenerife | from €960/mo | private | 1 night | Permanent |
-| iSlow Coliving | Laxe, A Coruña, Galicia | from €1,380/mo | private, shared | 7 nights (~1 week) | Permanent |
 | Nomadico Gran Canaria | Las Palmas de Gran Canaria | from €980/mo | private, shared | — | Permanent |
 | Vivarium Coliving & Coworking | Valencia | from €985/mo | private | 31 nights | Permanent |
 | The Mozart | Las Palmas | from €990/mo | private | 30 nights (~1 month) | Permanent |
@@ -107,7 +106,8 @@
 | The Wave Temple | Surfhouse, Coliving | Las Palmas de Gran Canaria | On request | — | — | Permanent |
 | Tulia Guesthouse | Los Realejos | On request | private, shared | — | Permanent |
 | Tursi Digital Nomads — Tenerife (Canary Islands) | Tenerife (Canary Islands) | from €400 per event | — | — | Pop-up |
-| Zen Den Coliving | Arona (Tenerife) | from €205/mo | private | — | Permanent |
+| Zen Den Coliving | Arona (Tenerife) | On request | private | — | Permanent |
+| iSlow Coliving | Laxe, A Coruña, Galicia | from €70/night | private, shared | 7 nights (~1 week) | Permanent |
 
 ## Price distribution
 
@@ -115,7 +115,7 @@
 |---|---|
 | 0–500 | 5 |
 | 500–800 | 25 |
-| 800–1200 | 35 |
+| 800–1200 | 34 |
 | 1200–2000 | 11 |
 | 2000–∞ | 1 |
 

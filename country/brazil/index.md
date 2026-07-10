@@ -11,7 +11,7 @@
 | INFINI Coliving | Jauá (Camaçari), near Salvador | from €270/mo | private | 1 night | Permanent |
 | Vivére Coliving | Rio de Janeiro | from BRL 1,950/mo | private | — | Permanent |
 | Nomadico Coliving Florianópolis | Florianópolis | from $380/mo | private, shared | 7 nights (~1 week) | Permanent |
-| Manoel Pedro da Silveira Home | Florianópolis | from €408/mo | private, dorm | 30 nights (~1 month) | Permanent |
+| Manoel Pedro da Silveira Home | Florianópolis | from $465/mo | private, dorm | 30 nights (~1 month) | Permanent |
 | WiFi Tribe — Florianópolis | Florianópolis | from $1,290/mo | — | — | Pop-up |
 | Draper Startup House Rio de Janeiro | Rio de Janeiro | On request | private, shared, dorm | — | Permanent |
 | Horizonte Coliving - Mangabeiras | Belo Horizonte | from BRL 1,600/mo | — | — | Permanent |

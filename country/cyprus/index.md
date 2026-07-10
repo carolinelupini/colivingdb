@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| The Agiou Georgiou (Agiou Georgiou Home / The Retreat) | Maroni | from €1,100/mo | private | 30 nights (~1 month) | Permanent |
+| The Agiou Georgiou (Agiou Georgiou Home / The Retreat) | Maroni | from BGN 2,152/mo | private | 30 nights (~1 month) | Permanent |
 | Ananke Home | Nicosia | from €1,800/mo | private, shared | 4 nights | Permanent |
 | To Hani Coliving | Paramytha (Limassol) | On request | private | — | Permanent |
 

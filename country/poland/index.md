@@ -6,8 +6,8 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| The Maja (Maja Hub) | Krakow | from €513/mo | private, shared | 60 nights (~2 months) | Permanent |
-| The Bolesławiecka (Bolesławiecka Home) | Wrocław | from €644/mo | private | 30 nights (~1 month) | Permanent |
+| The Maja (Maja Hub) | Krakow | from BGN 949/mo | private, shared | 60 nights (~2 months) | Permanent |
+| The Bolesławiecka (Bolesławiecka Home) | Wrocław | from BGN 1,251/mo | private | 30 nights (~1 month) | Permanent |
 | RAZAM | Grodzisk Mazowiecki | from €900/mo | — | 5 nights | Permanent |
 | SpotBase | Iława, Masuria | from €2,580/mo | private | 1 night | Permanent |
 

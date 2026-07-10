@@ -4,7 +4,7 @@
 
 - **Location:** Mokrin, Serbia
 - **Type:** Permanent coliving
-- **Price:** from €907/mo
+- **Price:** from BGN 4,107/mo
 - **Price note:** from BGN 4,108/mo shared bed, three daily meals included
 - **Room types:** private, dorm
 - **Dorm available:** Yes
@@ -15,9 +15,9 @@
 
 ## Rates
 
-| Stay length | Shared | Dorm |
+| Stay length | Private | Shared |
 |---|---|---|
-| Per month | €907 | €907 |
+| Per month | BGN 4,694 | BGN 4,107 |
 
 No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
 

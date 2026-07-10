@@ -4,7 +4,7 @@
 
 - **Location:** Sofia, Bulgaria
 - **Type:** Permanent coliving
-- **Price:** from €1,095/mo
+- **Price:** from BGN 2,142/mo
 - **Price note:** from BGN 2,142/mo ≈ €1,095
 - **Room types:** private
 - **Dorm available:** No
@@ -17,7 +17,7 @@
 
 | Stay length | Private |
 |---|---|
-| Per month | €1,095 |
+| Per month | BGN 2,142 |
 
 No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
 

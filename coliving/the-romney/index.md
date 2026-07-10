@@ -4,7 +4,7 @@
 
 - **Location:** Cape Town, South Africa
 - **Type:** Permanent coliving
-- **Price:** from €2,033/mo
+- **Price:** from BGN 2,031/mo
 - **Price note:** from BGN 2,037/mo
 - **Room types:** private
 - **Dorm available:** No
@@ -12,6 +12,14 @@
 - **Region:** Africa
 - **Tags:** city, coworking, community
 - **Website:** https://coliving.com/spaces/ynfromjp
+
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | BGN 2,031 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
 
 ## About
 
