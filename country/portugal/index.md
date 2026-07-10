@@ -42,6 +42,7 @@
 | Casa do Pico by Madeira Remote | Funchal, Madeira | from €1,200/mo | 5.0 (32) | private | 7 nights (~1 week) | Permanent |
 | POMAR Coliving - NA PRAIA | Fuseta | from €1,200/mo | 5.0 (77) | private | 28 nights (~4 weeks) | Permanent |
 | Birds of Paradise | Aljezur | from €1,260/mo | 5.0 (145) | private | 14 nights (~2 weeks) | Permanent |
+| Pomar Coliving | Moncarapacho (Algarve) | from €1,290/mo | 5.0 (77) | private | — | Permanent |
 | samesame living | Lisbon | from €1,320/mo | 4.8 (84) | private | 8 nights | Permanent |
 | Coliving Ericeira by Barefoot Portugal | Ericeira (Santo Isidoro) | from €1,350/mo | 4.9 (127) | private | 1 night | Permanent |
 | WiFi Tribe — Ponta Delgada (Azores) | Ponta Delgada (Azores) | from $1,590/mo | — | — | — | Pop-up |
@@ -64,7 +65,6 @@
 | Hacker Paradise — Porto | Porto | On request | — | — | — | Pop-up |
 | Lemon Bros Coliving | Ribeira Grande, São Miguel | On request | 4.9 (60) | private | 14 nights (~2 weeks) | Permanent |
 | Pipedream (Coworksurf Peniche) | Ferrel, Peniche | On request | 5.0 (32) | private, shared | — | Permanent |
-| Pomar Coliving | Moncarapacho (Algarve) | from €1,290/mo | 5.0 (77) | private | — | Permanent |
 | Quinta do Bom Despacho | Ponta Delgada | On request | 4.8 (141) | — | — | Permanent |
 | Satvana Conscious Co-living & Retreats | Alentejo | On request | 5.0 (6) | private, shared | — | Permanent |
 | Sea Urchin SurfHouse | Ericeira | On request | 4.8 (85) | shared, private | — | Permanent |
@@ -84,7 +84,7 @@
 | 0–500 | 2 |
 | 500–800 | 11 |
 | 800–1200 | 19 |
-| 1200–2000 | 15 |
+| 1200–2000 | 16 |
 | 2000–∞ | 3 |
 
 ## Upcoming pop-ups

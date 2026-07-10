@@ -8,6 +8,8 @@
 |---|---|---|---|---|---|---|
 | Neighbourgood East City | Cape Town | from R10,000/mo | 4.4 (367) | private, shared, dorm | — | Permanent |
 | Neighbourgood 113 Loop | Cape Town | from €345/mo | 4.6 (63) | private, shared | — | Permanent |
+| Neighbourgood | Cape Town | from R10,000/mo | 4.4 (367) | private | — | Permanent |
+| Neighbourgood De Wet | Franschhoek | from R10,000/mo | 4.5 (139) | private | — | Permanent |
 | Nomadico Cape Town | Cape Town | from €609/mo | 5.0 (6) | private, shared | — | Permanent |
 | Neighbourgood Cape Quarter Living | Cape Town | from €749/mo | 4.4 (182) | private, shared | — | Permanent |
 | Neighbourgood Disandt House | Cape Town | from R13,000/mo | 4.9 (32) | private, shared | — | Permanent |
@@ -23,8 +25,6 @@
 | Waterkant Residence | Cape Town | from $2,343/mo | 4.3 (70) | private | 30 nights (~1 month) | Permanent |
 | Green Room JBay Coliving | Jeffreys Bay | On request | 5.0 (137) | private | 14 nights (~2 weeks) | Permanent |
 | Ideas Cartel at The Old Foundry | Cape Town | On request | 4.4 (220) | private | — | Permanent |
-| Neighbourgood | Cape Town | from R10,000/mo | 4.4 (367) | private | — | Permanent |
-| Neighbourgood De Wet | Franschhoek | from R10,000/mo | 4.5 (139) | private | — | Permanent |
 | Nomad Summer Camp — Camp Big Daddy | Cape Town | from $499 per event | — | private, shared | 3 nights | Pop-up |
 
 ## Price distribution
@@ -32,7 +32,7 @@
 | Band (EUR/mo) | Colivings |
 |---|---|
 | 0–500 | 2 |
-| 500–800 | 9 |
+| 500–800 | 11 |
 | 800–1200 | 1 |
 | 1200–2000 | 1 |
 | 2000–∞ | 2 |

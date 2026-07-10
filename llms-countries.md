@@ -7,7 +7,7 @@
 | [Spain](/country/spain/index.md) | 102 | €71 |
 | [Portugal](/country/portugal/index.md) | 70 | €150 |
 | [Italy](/country/italy/index.md) | 32 | €40 |
-| [Mexico](/country/mexico/index.md) | 31 | €199 |
+| [Mexico](/country/mexico/index.md) | 31 | €46 |
 | [Indonesia](/country/indonesia/index.md) | 21 | €363 |
 | [Thailand](/country/thailand/index.md) | 21 | €170 |
 | [United States](/country/united-states/index.md) | 21 | €553 |
@@ -18,7 +18,7 @@
 | [Sri Lanka](/country/sri-lanka/index.md) | 13 | €87 |
 | [Switzerland](/country/switzerland/index.md) | 13 | €500 |
 | [Bulgaria](/country/bulgaria/index.md) | 12 | €280 |
-| [Costa Rica](/country/costa-rica/index.md) | 12 | €367 |
+| [Costa Rica](/country/costa-rica/index.md) | 12 | €289 |
 | [Greece](/country/greece/index.md) | 12 | €449 |
 | [Morocco](/country/morocco/index.md) | 12 | €61 |
 | [Australia](/country/australia/index.md) | 10 | €473 |
@@ -37,9 +37,9 @@
 | [Serbia](/country/serbia/index.md) | 5 | €297 |
 | [Tanzania](/country/tanzania/index.md) | 5 | €1,216 |
 | [Egypt](/country/egypt/index.md) | 4 | €167 |
-| [Kenya](/country/kenya/index.md) | 4 | — |
+| [Kenya](/country/kenya/index.md) | 4 | €500 |
 | [Poland](/country/poland/index.md) | 4 | €513 |
-| [South Korea](/country/south-korea/index.md) | 4 | €990 |
+| [South Korea](/country/south-korea/index.md) | 4 | €522 |
 | [Uruguay](/country/uruguay/index.md) | 4 | €569 |
 | [Austria](/country/austria/index.md) | 3 | €990 |
 | [Belize](/country/belize/index.md) | 3 | — |
@@ -57,7 +57,7 @@
 | [Hungary](/country/hungary/index.md) | 2 | €900 |
 | [Lithuania](/country/lithuania/index.md) | 2 | €685 |
 | [Malawi](/country/malawi/index.md) | 2 | — |
-| [Nicaragua](/country/nicaragua/index.md) | 2 | €1,300 |
+| [Nicaragua](/country/nicaragua/index.md) | 2 | €346 |
 | [Puerto Rico](/country/puerto-rico/index.md) | 2 | €2,184 |
 | [Tunisia](/country/tunisia/index.md) | 2 | — |
 | [United Arab Emirates](/country/united-arab-emirates/index.md) | 2 | €238 |

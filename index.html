@@ -162,10 +162,12 @@
   .onreq small{font-weight:400; opacity:.75;}
   /* a rate quoted for a DIFFERENT stay length than the one selected — muted so it reads as a fallback */
   .r-price .from.alt{color:var(--muted);}
-  .seolinks{max-width:var(--wrap); margin:26px auto 0; padding:0 22px; font-size:.8rem; line-height:2;}
-  .seolinks a{color:var(--muted); text-decoration:none; margin-right:14px; white-space:nowrap;}
+  /* flex-wrap, not inline flow: the links are emitted with no whitespace between them, so an
+     inline layout has no break opportunities and the row can't wrap on narrow screens */
+  .seolinks{max-width:var(--wrap); margin:26px auto 0; padding:0 22px; font-size:.8rem; display:flex; flex-wrap:wrap; gap:6px 14px; line-height:1.6;}
+  .seolinks a{color:var(--muted); text-decoration:none; white-space:nowrap;}
   .seolinks a:hover{color:var(--accent); text-decoration:underline;}
-  .seolinks .seo-h{display:block; font-weight:600; color:var(--ink); margin-bottom:2px;}
+  .seolinks .seo-h{flex:1 1 100%; font-weight:600; color:var(--ink);}
 
   @media (max-width:760px){
     #count{margin-left:0;}
@@ -512,7 +514,12 @@ document.querySelectorAll("#unitSeg button").forEach(b=>{
 });
 buildPriceOptions();
 document.getElementById("price").onchange=e=>{state.price=e.target.value; render();};
-document.getElementById("search").oninput=e=>{state.q=e.target.value.toLowerCase(); render();};
+// debounced: render() rebuilds all rows + 600 map markers, too heavy to run per keystroke
+let _qTimer=null;
+document.getElementById("search").oninput=e=>{
+  state.q=e.target.value.toLowerCase();
+  clearTimeout(_qTimer); _qTimer=setTimeout(render, 160);
+};
 
 // landing: region cards (colour-coded) + type cards + popular countries + show all
 const regionCounts={}; C.forEach(x=>regionCounts[x.region]=(regionCounts[x.region]||0)+1);
@@ -580,7 +587,9 @@ function resetFilters(toBrowse){
 document.getElementById("reset").onclick=()=>resetFilters(false);   // clear filters, stay on the list
 document.getElementById("back").onclick=()=>resetFilters(true);     // back to the browse landing
 document.getElementById("home").onclick=()=>resetFilters(true);
-window.addEventListener("pageshow", ()=>resetFilters(true));
+// only reset when restored from the back/forward cache — on a normal load this would just
+// double the initial render (render() already runs at the end of this script)
+window.addEventListener("pageshow", e=>{ if(e.persisted) resetFilters(true); });
 
 // map
 const map = L.map("map",{scrollWheelZoom:true}).setView([25,10],2);
@@ -614,10 +623,8 @@ function filtered(){
     (!state.month||x.format!=="pop-up"||popupMonths(x.popupDates).has(state.month)) &&
     (!state.minStay||(x.minStayNights&&x.minStayNights<=+state.minStay)) &&
     (!state.minRating||(x.rating&&x.rating>=+state.minRating)) &&
-    // price cap compares against the rate for the SELECTED stay length, in EUR.
-    // A listing with no published rate for that length simply can't satisfy a price cap.
-    (!state.price||(()=>{ const a=rateAmount(x,"from"); if(a==null) return false;
-                          const e=toEur(a, rateCurOf(x)); return e!=null && e<=+state.price; })()) &&
+    // price cap: same number the row displays (selected stay length + selected room), in EUR
+    (!state.price||comparableEur(x)<=+state.price) &&
     ([...state.tags].every(t=>(x.tags||[]).includes(t))) &&
     (!state.q||((x.name+" "+(x.city||"")+" "+x.country).toLowerCase().includes(state.q)))
   );
@@ -727,17 +734,23 @@ function tagChip(t){
   return `<span class="t" style="background:${tint(hue,10)};color:${hue};border-color:${tint(hue,28)}">${t}</span>`;
 }
 
-// EUR value of a listing's cheapest rate for the currently-selected unit — for sorting/price cap.
-// Listings with no rate for that unit sort last (Infinity).
-function fromEUR(x){
+// EUR value of the rate the user is actually looking at (selected stay length; the selected
+// room's rate when a room filter is on, mirroring priceCell). Used by both the price cap and
+// price sorting so they can never disagree with what's displayed. No rate -> Infinity.
+function comparableEur(x){
   const ur=(x.rates||{})[state.unit]; if(!ur) return Infinity;
-  const amt = ur.from ?? Math.min(...Object.values(ur).filter(v=>typeof v==="number"));
+  let amt=null;
+  if(state.room){
+    amt = (typeof ur[state.room]==="number") ? ur[state.room]
+        : ((x.roomTypes||[]).includes(state.room) ? ur.from : null);   // same fallback as priceCell
+  }
+  if(amt==null) amt = ur.from ?? Math.min(...Object.values(ur).filter(v=>typeof v==="number"));
   const e = toEur(amt, rateCurOf(x));
   return (e==null) ? Infinity : e;
 }
 function sortForDisplay(list){
-  if(state.sort==="price-asc")  return [...list].sort((a,b)=>fromEUR(a)-fromEUR(b));
-  if(state.sort==="price-desc") return [...list].sort((a,b)=>{const A=fromEUR(a),B=fromEUR(b); if(A===Infinity)return 1; if(B===Infinity)return -1; return B-A;});
+  if(state.sort==="price-asc")  return [...list].sort((a,b)=>comparableEur(a)-comparableEur(b));
+  if(state.sort==="price-desc") return [...list].sort((a,b)=>{const A=comparableEur(a),B=comparableEur(b); if(A===Infinity)return 1; if(B===Infinity)return -1; return B-A;});
   if(state.sort==="rating")     return [...list].sort((a,b)=>(b.rating||0)-(a.rating||0));
   return list;
 }

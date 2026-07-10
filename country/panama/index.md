@@ -1,6 +1,6 @@
 # Coliving in Panama
 
-> 3 colivings in Panama, prices from €595 to €1,216 per month – last updated July 10, 2026.
+> 3 colivings in Panama, prices from €595 to €1,443 per month – last updated July 10, 2026.
 
 ## All colivings
 
@@ -15,7 +15,7 @@
 | Band (EUR/mo) | Colivings |
 |---|---|
 | 500–800 | 1 |
-| 1200–2000 | 1 |
+| 1200–2000 | 2 |
 
 ## Upcoming pop-ups
 

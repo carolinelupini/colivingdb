@@ -1,15 +1,21 @@
 # Coliving in Kenya
 
-> 4 colivings in Kenya – last updated July 10, 2026.
+> 4 colivings in Kenya, prices from €500 to €500 per month – last updated July 10, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
+| Skippers | Diani Beach | from €500/mo | 4.6 (67) | private | — | Permanent |
 | AfricaNomads — Lamu Island | Lamu Island | On request | — | — | — | Pop-up |
 | AfricaNomads — Nairobi (Jul 2026) | Nairobi | On request | — | — | — | Pop-up |
 | AfricaNomads — Nairobi (Nov 2026) | Nairobi | On request | — | — | — | Pop-up |
-| Skippers | Diani Beach | from €500/mo | 4.6 (67) | private | — | Permanent |
+
+## Price distribution
+
+| Band (EUR/mo) | Colivings |
+|---|---|
+| 500–800 | 1 |
 
 ## Upcoming pop-ups
 
