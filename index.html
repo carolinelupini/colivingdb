@@ -41,9 +41,9 @@
   /* filter bar — list view only, below the map */
   .filters{padding:12px 18px; display:flex; flex-direction:column; gap:10px; max-width:var(--wrap); margin:14px auto 0; background:var(--card); border:1px solid var(--line); border-radius:12px;}
   .frline{display:flex; gap:8px 10px; align-items:center; flex-wrap:wrap;}
-  .frline.controls{padding:9px 0; border-top:1px solid var(--line); border-bottom:1px solid var(--line);}
-  .fspacer{flex:1 1 auto;}
-  .unit-lbl{font-size:.8rem; color:var(--muted);}
+  .controls-box{display:flex; flex-direction:column; gap:9px; padding:10px 0; border-top:1px solid var(--line); border-bottom:1px solid var(--line);}
+  .rates-row{gap:8px;}
+  .unit-lbl{font-size:.8rem; color:var(--muted); margin-right:2px;}
   .frow{display:flex; gap:6px; align-items:center; flex-wrap:wrap;}
   .frow.regions, .frow.tags{flex:1 1 auto;}
   .chip{border:1px solid var(--line); background:var(--card); border-radius:999px; padding:6px 13px; font-size:.83rem; cursor:pointer; color:var(--ink); transition:all .12s;}
@@ -58,7 +58,7 @@
   .back:hover{border-color:var(--accent);}
   #count{font-size:.83rem; color:var(--muted); margin-left:auto; white-space:nowrap; font-variant-numeric:tabular-nums;}
   #count b{color:var(--ink);}
-  .frline.controls select{min-width:0;}
+  .controls-box select{min-width:0;}
 
   #map{height:38vh; min-height:250px; z-index:1; max-width:var(--wrap); margin:16px auto 0; border-radius:12px; overflow:hidden; border:1px solid var(--line);}
   .map-legend{background:rgba(255,255,255,.93); border:1px solid var(--line); border-radius:8px; padding:6px 10px; font-size:.74rem; color:var(--ink); display:flex; gap:13px; box-shadow:0 1px 4px rgba(20,40,80,.12);}
@@ -200,46 +200,49 @@
     <div class="frow regions" id="regions"></div>
     <div id="count"></div>
   </div>
-  <!-- row 2: the dropdown controls + price-unit toggle -->
-  <div class="frline controls">
-    <select id="country" autocomplete="off"><option value="">All countries</option></select>
-    <select id="room" autocomplete="off">
-      <option value="">Any room</option>
-      <option value="private">Private room</option>
-      <option value="shared">Shared room</option>
-      <option value="dorm">Dorm available</option>
-    </select>
-    <select id="format" autocomplete="off">
-      <option value="">All types</option>
-      <option value="permanent">Permanent</option>
-      <option value="pop-up">Pop-ups</option>
-    </select>
-    <select id="month" autocomplete="off" title="Pop-ups running in a given month (permanents always shown)"><option value="">Any month</option></select>
-    <select id="minstay" autocomplete="off" title="Shortest stay a place will accept">
-      <option value="">Any stay</option>
-      <option value="3">Few days OK (≤3 nights)</option>
-      <option value="7">≤ 1 week min</option>
-      <option value="14">≤ 2 weeks min</option>
-      <option value="30">≤ 1 month min</option>
-    </select>
-    <select id="minrating" autocomplete="off" title="Minimum Google rating (only listings we have a rating for)">
-      <option value="">Any rating</option>
-      <option value="4.5">★ 4.5+</option>
-      <option value="4">★ 4.0+</option>
-      <option value="3.5">★ 3.5+</option>
-    </select>
-    <span class="fspacer"></span>
-    <label class="unit-lbl">Rates:</label>
-    <div class="seg" id="unitSeg" role="group" aria-label="Show prices per stay length">
-      <button type="button" data-unit="night">night</button><button type="button" data-unit="week">week</button><button type="button" data-unit="month" class="on">month</button>
+  <!-- row 2: dropdown filters, then a dedicated row for rate unit + price -->
+  <div class="controls-box">
+    <div class="frline">
+      <select id="country" autocomplete="off"><option value="">All countries</option></select>
+      <select id="room" autocomplete="off">
+        <option value="">Any room</option>
+        <option value="private">Private room</option>
+        <option value="shared">Shared room</option>
+        <option value="dorm">Dorm available</option>
+      </select>
+      <select id="format" autocomplete="off">
+        <option value="">All types</option>
+        <option value="permanent">Permanent</option>
+        <option value="pop-up">Pop-ups</option>
+      </select>
+      <select id="month" autocomplete="off" title="Pop-ups running in a given month (permanents always shown)"><option value="">Any month</option></select>
+      <select id="minstay" autocomplete="off" title="Shortest stay a place will accept">
+        <option value="">Any stay</option>
+        <option value="3">Few days OK (≤3 nights)</option>
+        <option value="7">≤ 1 week min</option>
+        <option value="14">≤ 2 weeks min</option>
+        <option value="30">≤ 1 month min</option>
+      </select>
+      <select id="minrating" autocomplete="off" title="Minimum Google rating (only listings we have a rating for)">
+        <option value="">Any rating</option>
+        <option value="4.5">★ 4.5+</option>
+        <option value="4">★ 4.0+</option>
+        <option value="3.5">★ 3.5+</option>
+      </select>
     </div>
-    <select id="price" autocomplete="off">
-      <option value="">Any price</option>
-      <option value="600">≤ €600/mo</option>
-      <option value="900">≤ €900/mo</option>
-      <option value="1200">≤ €1200/mo</option>
-      <option value="2000">≤ €2000/mo</option>
-    </select>
+    <div class="frline rates-row">
+      <label class="unit-lbl">Rates:</label>
+      <div class="seg" id="unitSeg" role="group" aria-label="Show prices per stay length">
+        <button type="button" data-unit="night">night</button><button type="button" data-unit="week">week</button><button type="button" data-unit="month" class="on">month</button>
+      </div>
+      <select id="price" autocomplete="off">
+        <option value="">Any price</option>
+        <option value="600">≤ €600/mo</option>
+        <option value="900">≤ €900/mo</option>
+        <option value="1200">≤ €1200/mo</option>
+        <option value="2000">≤ €2000/mo</option>
+      </select>
+    </div>
   </div>
   <!-- row 3: tag chips + toggles -->
   <div class="frline">
