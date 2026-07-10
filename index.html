@@ -450,7 +450,7 @@ window.addEventListener("pageshow", resetFilters);
 
 // map
 const map = L.map("map",{scrollWheelZoom:true}).setView([25,10],2);
-L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",{attribution:"© OpenStreetMap", maxZoom:18}).addTo(map);
+L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",{attribution:"© colivingDB · © OpenStreetMap", maxZoom:18}).addTo(map);
 const legend = L.control({position:"bottomleft"});
 legend.onAdd = () => {
   const d = L.DomUtil.create("div","map-legend");
