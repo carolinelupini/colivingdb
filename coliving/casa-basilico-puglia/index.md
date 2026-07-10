@@ -13,4 +13,12 @@
 - **Region:** Europe
 - **Website:** https://casabasilico.com/locations/puglia-italy
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €1,247 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 Source: https://colivingdb.com/coliving/casa-basilico-puglia/

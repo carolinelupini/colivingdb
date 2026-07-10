@@ -13,6 +13,15 @@
 - **Tags:** mountain, rural, community, coworking
 - **Website:** https://www.mapmelon.com/colivings/fem-coliving
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per night | €23 |
+| Per month | €690 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Confirmed fixed coliving in Sant Joan de les Abadesses (Pyrenees); private room only (shared bathroom) €690/mo or €23/night, 30-night minimum.

@@ -13,6 +13,14 @@
 - **Tags:** city, coworking, community
 - **Website:** https://www.sc-colive.com/
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €420 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Sister property to SC Club Village (Sprachcaffe); only day-rate published (from €14/day, ~€420/mo equivalent), no per-room-type monthly pricing or dorm option found.

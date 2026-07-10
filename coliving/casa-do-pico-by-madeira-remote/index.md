@@ -13,6 +13,15 @@
 - **Tags:** island, coworking, community
 - **Website:** https://www.mapmelon.com/colivings/casa-do-pico-by-madeira-remote
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per night | €44 |
+| Per month | €1,200 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Duplicate listing of idx 278 (mapmelon aggregator page, 403 on direct fetch); use confirmed €1,200/mo private room from madeiraremote.com.

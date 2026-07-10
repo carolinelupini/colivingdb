@@ -13,6 +13,15 @@
 - **Tags:** beach, surf, coworking, community
 - **Website:** https://sun-desk.com/
 
+## Rates
+
+| Stay length | Private | Shared |
+|---|---|---|
+| Per night | €46 | €32 |
+| Per month | €1,125 | €885 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Budget rooms are shared twin, no true dorm; long-stay (2mo+) daily rate ~€27.50 = ~€825/mo shared, ~€1065/mo private standard.

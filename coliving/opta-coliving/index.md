@@ -13,6 +13,14 @@
 - **Tags:** coworking, community, city
 - **Website:** https://www.opta.com.uy
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | $2,400 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Confirmed permanent furnished-apartment coliving in Punta Carretas, Montevideo, no-contract stays; no pricing published, request via brochure/contact only.

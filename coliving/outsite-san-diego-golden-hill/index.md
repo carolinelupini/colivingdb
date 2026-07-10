@@ -13,6 +13,15 @@
 - **Tags:** city, coworking, community
 - **Website:** https://www.outsite.co/locations/san-diego-golden-hill
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per night | — |
+| Per month | $4,634 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Private en-suite rooms; monthly pricing gated behind date selection, no dorm option.

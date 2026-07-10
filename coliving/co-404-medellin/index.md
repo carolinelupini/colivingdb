@@ -13,6 +13,14 @@
 - **Tags:** city, coworking, community
 - **Website:** https://co404.com
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | $362 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Multi-city permanent brand (Oaxaca, San Cristóbal, Medellín); Medellín private rooms from ~$362 USD/mo (~€333), no dorm option confirmed.

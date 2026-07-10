@@ -13,6 +13,14 @@
 - **Tags:** rural, community, eco
 - **Website:** https://sontacoliving.com/
 
+## Rates
+
+| Stay length | Shared |
+|---|---|
+| Per month | €430 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Permanent rural coliving in Sonta village; shared room ~200 EUR/2wks (~400/mo); private room price not published, inquire directly.

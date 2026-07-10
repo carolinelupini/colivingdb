@@ -13,6 +13,14 @@
 - **Tags:** city, coworking, community
 - **Website:** https://hub53.com
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per night | THB 550 |
+| Per week | THB 2,800 |
+| Per month | THB 9,000 |
+
 ## About
 
 Duplicate/older listing of idx111 (Hub53 Chiang Mai); no prices on this URL, est. converted from sister page ~9,500 THB (~€242/mo), private rooms only.

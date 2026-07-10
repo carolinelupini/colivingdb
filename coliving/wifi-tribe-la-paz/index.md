@@ -13,4 +13,12 @@
 - **Region:** Europe
 - **Website:** https://wifitribe.co/bolivia-la-paz/
 
+## Rates
+
+| Stay length | Private | Shared |
+|---|---|---|
+| Per month | $2,090 | $1,190 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 Source: https://colivingdb.com/coliving/wifi-tribe-la-paz/

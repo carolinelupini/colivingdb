@@ -13,6 +13,15 @@
 - **Tags:** rural, community, eco
 - **Website:** https://www.mapmelon.com/colivings/startart-residency
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per night | €5 |
+| Per month | €150 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Permanent creative residency near Braga; confirmed €150/month regular shared-room rate (€60 with Mapmelon discount), very low cost reflects rural/residency model.

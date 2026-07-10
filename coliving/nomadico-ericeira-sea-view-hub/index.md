@@ -13,6 +13,14 @@
 - **Tags:** surf, beach, coworking, community
 - **Website:** https://www.nomadico.io/ericeira-coliving
 
+## Rates
+
+| Stay length | Private | Shared |
+|---|---|---|
+| Per month | €880 | €542 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Same property/community as Nomadico Ericeira listing (idx 292) - Sea View Hub is one of the two connected homes; likely a duplicate listing.

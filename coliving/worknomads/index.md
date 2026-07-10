@@ -13,6 +13,15 @@
 - **Tags:** city, coworking, community
 - **Website:** https://www.mapmelon.com/colivings/worknomads
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per night | €36 |
+| Per month | €1,095 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 120-room hybrid hotel/coliving, min 30-night stay, from €1,095/mo private ensuite; same brand as idx 136/141.

@@ -13,6 +13,15 @@
 - **Tags:** rural, mountain, community, coworking
 - **Website:** https://www.mapmelon.com/colivings/rooral-coliving
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per night | €36 |
+| Per month | €810 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Permanent fixed location in Benarrabá; confirmed Mapmelon-discounted rate EUR810/mo (list EUR1,200), from EUR36/night; no dorm option found.

@@ -12,4 +12,13 @@
 - **Tags:** coworking, island, community
 - **Website:** https://cabecoalto.com/
 
+## Rates
+
+| Stay length | Private | Shared |
+|---|---|---|
+| Per week | €450 | €400 |
+| Per month | €1,700 | €1,500 |
+
+No nightly rate is published by the operator. Rates are never derived from another duration.
+
 Source: https://colivingdb.com/coliving/quinta-do-cabe-o-alto-coliving-and-coworking-retreat-venue-madeira-island/

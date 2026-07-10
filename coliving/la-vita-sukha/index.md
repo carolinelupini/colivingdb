@@ -13,6 +13,14 @@
 - **Tags:** rural, mountain, eco, community, coworking
 - **Website:** https://www.mapmelon.com/colivings/la-vita-sukha
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €630 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Listing shows one blended monthly rate (€630 discounted from €1,050) not broken out by room type; gallery references a dorm room but no separate dorm price found.

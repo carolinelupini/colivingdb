@@ -13,6 +13,15 @@
 - **Tags:** rural, beach, community, coworking
 - **Website:** https://islowcoliving.com/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per night | €70 |
+| Per month | €1,380 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Permanent coliving/coworking in Laxe, Galicia; no monthly EUR rate published, site directs to booking/availability tool instead.

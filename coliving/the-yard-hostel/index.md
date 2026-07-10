@@ -12,6 +12,14 @@
 - **Tags:** community, coworking, city
 - **Website:** https://www.theyardhostels.com/
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | $300 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Container-built community hostel/coliving in the Ari neighborhood; shared rooms from ~$300/mo.

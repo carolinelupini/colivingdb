@@ -13,6 +13,15 @@
 - **Tags:** city, coworking, community
 - **Website:** https://www.mapmelon.com/colivings/alt-pingriver
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per night | €53 |
+| Per month | €810 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Sister property to Alt Chiang Mai on Ping River, private room promo €810/mo (€53/night), min 29-night stay, no dorm.

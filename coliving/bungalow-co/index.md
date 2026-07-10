@@ -12,6 +12,15 @@
 - **Tags:** community, city
 - **Website:** https://bungalowco.com.au/
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per week | A$200 |
+| Per month | A$866 |
+
+No nightly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Affordable furnished coliving across five Sydney properties (Bondi, Bexley, Kensington etc.); from $200/week

@@ -13,6 +13,14 @@
 - **Tags:** ski, mountain, coworking, community
 - **Website:** https://avalonhotelbansko.com/avalon-coliving-coworking-bansko/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €550 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Permanent Bansko coliving; single room €550/mo, mini apartment €699/mo (both private, prior estimate of €460-499 is stale/low).

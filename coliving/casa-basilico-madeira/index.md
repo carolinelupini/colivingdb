@@ -13,4 +13,12 @@
 - **Region:** Europe
 - **Website:** https://casabasilico.com/locations/madeira-2026
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €2,249 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 Source: https://colivingdb.com/coliving/casa-basilico-madeira/

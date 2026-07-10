@@ -13,4 +13,12 @@
 - **Region:** Latin America
 - **Website:** https://wifitribe.co/antigua-guatemala/
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | $1,090 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 Source: https://colivingdb.com/coliving/wifi-tribe-antigua/

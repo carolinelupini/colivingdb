@@ -13,6 +13,15 @@
 - **Tags:** mountain, rural, coworking, community
 - **Website:** https://www.mapmelon.com/colivings/rec-on-project-spain
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per night | €25 |
+| Per month | €660 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Confirmed permanent location in Bolaimi, Sierra Maria-Los Velez (Andalusia); private single/double room EUR660/mo (from EUR749.40); no dorm option mentioned.

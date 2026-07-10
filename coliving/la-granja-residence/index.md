@@ -13,6 +13,14 @@
 - **Tags:** city, coworking, community, eco
 - **Website:** https://coliving.com/spaces/rwhdalyd
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €457 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Private rooms and studios only (~€457 to €805/mo); site's BGN currency display looks like a bug, used priceNote EUR estimate instead.

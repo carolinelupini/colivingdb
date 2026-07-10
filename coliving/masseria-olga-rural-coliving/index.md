@@ -13,6 +13,14 @@
 - **Tags:** rural, community, coworking, eco
 - **Website:** https://masseriaolga.com/coliving/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €690 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Same URL/property as idx 204 — likely duplicate listing; site only publishes weekly rates, no dorm option.

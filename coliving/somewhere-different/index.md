@@ -13,6 +13,14 @@
 - **Tags:** city, coworking, community
 - **Website:** https://www.somewheredifferent.com/uk/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | £300 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Permanent Blackpool coworking/coliving hotel in a Victorian house; no dorm at UK location (dorm only exists at their Egypt/Siwa property); exact rates require the booking/availability page, not published on this page.

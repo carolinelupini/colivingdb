@@ -12,4 +12,12 @@
 - **Tags:** community, coworking, city
 - **Website:** https://www.jointhebase.co/location
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per night | €36 |
+
+No weekly or monthly rate is published by the operator. Rates are never derived from another duration.
+
 Source: https://colivingdb.com/coliving/the-base-berlin-one-coliving-hotel-coworking-gym-caf-and-bar/

@@ -13,6 +13,14 @@
 - **Tags:** city, coworking, community
 - **Website:** https://coliving.com/spaces/cgbhyhlt
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €500 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 All-ensuite private rooms only, no dorm/shared; converted from BGN 1,515 (Queen) at peg rate, King/Twin runs to €981.

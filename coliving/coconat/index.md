@@ -13,6 +13,14 @@
 - **Tags:** rural, coworking, community, eco
 - **Website:** https://coconat-space.com/
 
+## Rates
+
+| Stay length | Private | Shared |
+|---|---|---|
+| Per month | €2,460 | €1,200 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Permanent workation retreat in Bad Belzig with camping-to-premium room range implying a dorm/budget tier, but exact monthly EUR pricing not published on homepage — must inquire via workation@coconat-space.com.

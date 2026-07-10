@@ -13,6 +13,14 @@
 - **Tags:** mountain, rural, coworking, community, startup
 - **Website:** https://savicoliving.com/
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €800 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Fixed villa-style coliving for founders/entrepreneurs in Náquera, Valencia; private rooms from ~€800/mo per prior listing note.

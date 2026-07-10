@@ -13,6 +13,14 @@
 - **Tags:** city, community, coworking
 - **Website:** https://coliving.com/spaces/tf1r9stf
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | MYR 177 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Listed as 'Seckchuan Collective' on coliving.com but property itself brands as 'The Terraces by Aayu', a 32-room hostel with shared bathrooms; private queen/twin from BGN656 (~€335), no dorm tier despite hostel format.

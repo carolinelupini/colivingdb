@@ -13,6 +13,14 @@
 - **Tags:** city, coworking, community, startup
 - **Website:** https://draperstartuphouse.com/hyderabad/
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €360 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Site JS-rendered and unfetchable; third-party listings confirm dorm, single, double, and family room types exist but no reliable monthly EUR pricing found — only nightly rates (~$13/night) on OTAs.

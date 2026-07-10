@@ -13,6 +13,15 @@
 - **Tags:** surf, beach, coworking, community
 - **Website:** https://www.mapmelon.com/colivings/adventurekeys
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per night | €15 |
+| Per month | €420 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Long-running surf hostel/coliving in Taghazout (15+ years); site gives a general from-€420/month rate, no separate dorm price found.

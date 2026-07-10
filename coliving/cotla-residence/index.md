@@ -13,6 +13,14 @@
 - **Tags:** coworking, community
 - **Website:** https://coliving.com/spaces/emvqvfhd
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | $370 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Three private-room tiers (Small/Medium/Large Nest) from BGN 721-1,001/mo (~€369-512); no dorm, all studios private.

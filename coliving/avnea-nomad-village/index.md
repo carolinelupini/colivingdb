@@ -13,6 +13,14 @@
 - **Tags:** community, mountain, rural, coworking
 - **Website:** https://www.avnea.com/crete
 
+## Rates
+
+| Stay length | Private | Shared |
+|---|---|---|
+| Per month | €699 | €399 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Fixed village location in Zaros, Crete; pricing page lists Hotel Private 1 month EUR749 and Hotel Shared 1 month ~EUR449; next cohort start referenced as March 2026/Spring 2026.

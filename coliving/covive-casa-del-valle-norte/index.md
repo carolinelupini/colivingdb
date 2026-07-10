@@ -13,6 +13,14 @@
 - **Tags:** city, coworking, community
 - **Website:** https://covive.mx/en/casa/del-valle-norte/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | MXN 16,450 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Confirmed from ~15,250 MXN/mo (~€815 at current FX) for private furnished rooms, discounts for 7-12mo stays, premium for 1-3mo; no dorm/shared option.

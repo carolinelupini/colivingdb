@@ -12,6 +12,15 @@
 - **Tags:** community, city
 - **Website:** https://cdacoliving.com/
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per week | A$180 |
+| Per month | A$780 |
+
+No nightly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Operating since 2015 across 100+ Sydney/QLD/TAS homes; from $180/week, 3-month min

@@ -13,6 +13,14 @@
 - **Tags:** island, coworking, community
 - **Website:** https://pontadosolcoliving.com/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €997 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Confirmed permanent, Ponta do Sol Madeira; rooms range EUR997 (single shared bath) to EUR1347 (double ensuite ocean view); no dorm option; bills+cleaning included, 1-month minimum.

@@ -13,6 +13,14 @@
 - **Tags:** rural, mountain, coworking, community
 - **Website:** https://www.digitalnomadnorway.com/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €700 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Long-running permanent rural coliving in Bjørkedal/Folkestad, Norway; only private rooms, no dorm mentioned.

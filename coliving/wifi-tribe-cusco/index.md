@@ -13,4 +13,12 @@
 - **Region:** Latin America
 - **Website:** https://wifitribe.co/peru-cusco/
 
+## Rates
+
+| Stay length | Private | Shared |
+|---|---|---|
+| Per month | $2,190 | $1,090 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 Source: https://colivingdb.com/coliving/wifi-tribe-cusco/

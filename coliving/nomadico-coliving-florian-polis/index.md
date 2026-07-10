@@ -13,6 +13,14 @@
 - **Tags:** beach, island, coworking, community, surf
 - **Website:** https://www.nomadico.io/florianopolis-coliving
 
+## Rates
+
+| Stay length | Private | Dorm |
+|---|---|---|
+| Per month | $770 | $380 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Three connected homes in Barra da Lagoa operating Mar-Dec; shared rooms €380-456, private ensuite €475-890 (site listing differs from priceNote's discounted €690/mo figure).

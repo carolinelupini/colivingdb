@@ -13,6 +13,14 @@
 - **Tags:** mountain, rural, community, coworking
 - **Website:** https://coliving.com/spaces/pmj6tcwm
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | RSD 265,500 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Permanent fixed location in Divcibare; all rooms private, no shared/dorm options; prices ~1960-2280 EUR (site shows BGN).

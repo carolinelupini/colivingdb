@@ -13,6 +13,15 @@
 - **Tags:** eco, rural, coworking, community
 - **Website:** https://www.mapmelon.com/colivings/bio-coliving-tayrona
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per night | COP 60,000 |
+| Per month | — |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Fixed regenerative coliving near Tayrona Park, Santa Marta; from EUR150/month (EUR5/night), private rooms only, no dorm mentioned.

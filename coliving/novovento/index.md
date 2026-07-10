@@ -13,6 +13,15 @@
 - **Tags:** island, rural, surf, coworking, community
 - **Website:** https://www.mapmelon.com/colivings/novovento
 
+## Rates
+
+| Stay length | Private | Shared |
+|---|---|---|
+| Per night | €35 | €18 |
+| Per month | €660 | €300 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Owner-operated, lives on site; single monthly rate 660/mo (discounted from 840), no room-type breakdown published.

@@ -12,6 +12,15 @@
 - **Tags:** community, city
 - **Website:** https://livinghigh.com.au/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per week | A$340 |
+| Per month | — |
+
+No nightly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Furnished private rooms/studios, all-inclusive; from $340/week

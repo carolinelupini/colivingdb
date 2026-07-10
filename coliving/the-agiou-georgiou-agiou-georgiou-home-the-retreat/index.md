@@ -13,6 +13,14 @@
 - **Tags:** rural, community, eco
 - **Website:** https://coliving.com/spaces/w9uj6sop
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €1,100 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Permanent solar-powered residence, 8 bedrooms/16 beds, private-only studios/apartments from roughly €1,160-1,900/mo depending on size (converted from BGN).

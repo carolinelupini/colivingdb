@@ -13,6 +13,14 @@
 - **Tags:** beach, island, coworking, community
 - **Website:** https://coliving.com/spaces/6usgx1td
 
+## Rates
+
+| Stay length | Private | Shared |
+|---|---|---|
+| Per month | $1,770 | $380 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Red Frog Beach Isla Bastimentos glamping/bungalow coliving; dorm beds from BGN1259 (~EUR642)/mo, cheapest private tent from BGN5909 (~EUR3013)/mo (converted BGN->EUR at ~0.51 peg).

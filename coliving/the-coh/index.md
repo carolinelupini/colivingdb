@@ -12,6 +12,15 @@
 - **Tags:** community, city
 - **Website:** https://thecoh.co.nz/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per week | NZ$350 |
+| Per month | — |
+
+No nightly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 New Zealand's first coliving; Uptown Auckland, 22 rooms, work desks; from $350/week, 3-month min

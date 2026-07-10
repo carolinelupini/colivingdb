@@ -12,6 +12,14 @@
 - **Tags:** coworking, community, surf
 - **Website:** https://tropicalnomad.id/
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | $950 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Live-and-work packages (rooms to villas) attached to a popular garden coworking space.

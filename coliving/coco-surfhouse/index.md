@@ -13,6 +13,15 @@
 - **Tags:** beach, surf, coworking, community, island
 - **Website:** https://cocosurfhouse.com/
 
+## Rates
+
+| Stay length | Private | Shared | Dorm |
+|---|---|---|---|
+| Per night | €50 | — | €28 |
+| Per month | €1,500 | €840 | €840 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 6-bed dorm ~€840/mo (€28/night); private/twin/double rooms ~€1,500/mo (€50/night), balcony room ~€1,650/mo.

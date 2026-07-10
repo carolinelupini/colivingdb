@@ -13,6 +13,14 @@
 - **Tags:** island, city, coworking, community, surf
 - **Website:** https://blueparadisecoliving.com/
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €695 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Confirmed permanent Tenerife coliving with private-ensuite-only rooms (no dorm/shared mentioned); site pricing page not directly accessible, retained EUR810/mo discounted rate from existing note.

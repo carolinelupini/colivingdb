@@ -13,6 +13,14 @@
 - **Tags:** beach, surf, coworking, community, island
 - **Website:** https://www.banamacoliving.com/en
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €499 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Site returned 403 to fetch; this is Banama's surf-week retreat offering (from EUR499 all-inclusive per existing note) rather than the standing coliving — treated as pop-up/program add-on, no confirmed dates found.

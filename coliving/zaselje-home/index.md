@@ -13,6 +13,14 @@
 - **Tags:** rural, mountain, coworking, community, eco
 - **Website:** https://coliving.com/spaces/ximlylvz
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €1,412 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Two private-only apartments (Golija, Njegos), max 6 guests total, no dorm/shared option; price listed in BGN ~1400 EUR/mo.

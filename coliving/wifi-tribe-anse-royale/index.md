@@ -13,4 +13,12 @@
 - **Region:** Europe
 - **Website:** https://wifitribe.co/chapter-seychelles-anse-royale/
 
+## Rates
+
+| Stay length | Private | Shared |
+|---|---|---|
+| Per month | $3,290 | $1,990 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 Source: https://colivingdb.com/coliving/wifi-tribe-anse-royale/

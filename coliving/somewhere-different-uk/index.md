@@ -13,6 +13,14 @@
 - **Tags:** beach, city, coworking, community
 - **Website:** https://www.somewheredifferent.com/uk/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | £300 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Duplicate of Somewhere Different UK listing (idx 465); same site, £300/month figure not corroborated on the page fetched — treat as unverified single-room rate.

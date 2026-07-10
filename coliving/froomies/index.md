@@ -13,6 +13,14 @@
 - **Tags:** rural, community, coworking
 - **Website:** https://froomies.org/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | £1,100 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Permanent farm coliving in Lostwithiel, Cornwall; confirmed £1,100/mo private, bills included.

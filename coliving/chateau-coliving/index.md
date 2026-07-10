@@ -13,6 +13,14 @@
 - **Tags:** rural, community, coworking, family, eco
 - **Website:** https://chateaucoliving.com/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €3,910 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 No live pricing on homepage; family-program pricing quoted in source note (~€1,320/mo early bird) but not independently confirmed on site.

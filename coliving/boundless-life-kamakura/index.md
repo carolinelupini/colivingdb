@@ -13,6 +13,14 @@
 - **Tags:** beach, family, coworking, community
 - **Website:** https://www.boundless.life/kamakura-japan-boundless-life-destinations
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €2,600 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Fixed Kamakura location but sold as scheduled worldschool/summer-camp cohorts (Jan-Mar, Apr-Jun, Sep-Nov 2026); no EUR pricing published, requires pricing calculator/contact.

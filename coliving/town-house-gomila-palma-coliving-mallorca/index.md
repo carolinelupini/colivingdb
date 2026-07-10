@@ -13,6 +13,14 @@
 - **Tags:** city, island, coworking, community
 - **Website:** https://palmacoliving.co/booking/town-house-gomila-mallorca-coliving-spain/
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €1,650 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Town House Gomila: single bedroom w/ private bath from €1,500/mo, private ensuite from €1,950/mo; winter discount up to 20%.

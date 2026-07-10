@@ -12,4 +12,12 @@
 - **Tags:** community, coworking, city
 - **Website:** https://4wanders.com/
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €750 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 Source: https://colivingdb.com/coliving/la-alfarer-a-4wanders-coliving-and-experiences/

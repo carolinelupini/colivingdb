@@ -13,6 +13,14 @@
 - **Tags:** rural, mountain, coworking, community, eco
 - **Website:** https://coliving.com/spaces/gded5bjl
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | BGN 1,233 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Confirmed permanent single-address property in Volda; all rooms private (no dorm), prices listed in BGN not EUR on site.

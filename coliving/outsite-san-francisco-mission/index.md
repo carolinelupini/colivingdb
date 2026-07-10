@@ -13,6 +13,14 @@
 - **Tags:** city, coworking, community
 - **Website:** https://www.outsite.co/locations/san-francisco-mission
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per week | $1,160 |
+
+No nightly or monthly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Members-only, 8-bedroom restored home; pricing gated behind date selection, no dorm mentioned.

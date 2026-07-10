@@ -13,6 +13,14 @@
 - **Tags:** beach, eco, community, coworking, rural
 - **Website:** https://infinicolivingbr.com/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €270 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Permanent coliving in Jauá/Camaçari near Salvador, Bahia; 7 private rooms, ~€270/mo promo rate (from €300), from €10/night; no dorm beds mentioned.

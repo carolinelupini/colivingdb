@@ -13,6 +13,14 @@
 - **Tags:** rural, coworking, community, family
 - **Website:** https://www.mokrinhouse.com
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per night | €42 |
+| Per week | €264 |
+| Per month | €907 |
+
 ## About
 
 Permanent site in Mokrin, Serbia; dorm (6-bed) ~993 EUR/mo, private/single ~1835 EUR/mo, all-inclusive with meals; direct WebFetch to mokrinhouse.com failed (ECONNRESET), used web search instead.

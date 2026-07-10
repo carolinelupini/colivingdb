@@ -13,6 +13,15 @@
 - **Tags:** rural, community, coworking
 - **Website:** https://www.mapmelon.com/colivings/enchanted-coliving
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per night | €36 |
+| Per month | €1,080 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Confirmed via Mapmelon: €870/mo (10% off €1,080) private room, 14-night minimum stay; no room-type breakdown given.

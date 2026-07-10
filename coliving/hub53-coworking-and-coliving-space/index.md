@@ -13,6 +13,14 @@
 - **Tags:** city, coworking, community
 - **Website:** https://www.hub53.com/coliving-1
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per night | THB 550 |
+| Per week | THB 2,800 |
+| Per month | THB 9,000 |
+
 ## About
 
 Permanent Chiang Mai Nimman location, private rooms only from 7,000 THB/mo (~€178, Standard A actually 9,500 THB/~€242), rate valid Mar1-Sep30, discounts for 2+ months.

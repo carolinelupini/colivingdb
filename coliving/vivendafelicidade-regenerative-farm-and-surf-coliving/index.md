@@ -13,6 +13,15 @@
 - **Tags:** surf, eco, rural, beach, coworking, community
 - **Website:** https://www.vivendafelicidade.org/coliving
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per week | €250 |
+| Per month | €1,040 |
+
+No nightly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 weekly-rate pricing (€260/wk standard) converts to ~€1,118/mo; min stay 1 week, max 6 months, confirmed permanent

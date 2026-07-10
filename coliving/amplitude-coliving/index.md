@@ -13,6 +13,14 @@
 - **Tags:** beach, surf, coworking, community
 - **Website:** https://www.mapmelon.com/colivings/amplitude-coliving
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €1,380 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Private room only listed at €1,380/mo (discounted from €2,550), €80/night, via Mapmelon 6% discount.

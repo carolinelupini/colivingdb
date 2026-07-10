@@ -13,6 +13,15 @@
 - **Tags:** rural, coworking, community
 - **Website:** https://www.mapmelon.com/colivings/spotbase
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per night | €90 |
+| Per month | €2,580 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Permanent lakeside property in Iława, Masuria; site gives only aggregate pricing, no room-type breakdown or dorm mentioned.

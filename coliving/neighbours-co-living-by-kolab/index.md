@@ -12,4 +12,12 @@
 - **Tags:** community, coworking, city
 - **Website:** http://kolabliving.com/
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | $600 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 Source: https://colivingdb.com/coliving/neighbours-co-living-by-kolab/

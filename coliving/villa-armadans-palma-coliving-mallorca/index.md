@@ -13,6 +13,14 @@
 - **Tags:** city, island, community, coworking
 - **Website:** https://palmacoliving.co/locations-mallorca/
 
+## Rates
+
+| Stay length | Private | Shared |
+|---|---|---|
+| Per month | €1,650 | €1,795 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Villa Armadans: standard rooms from €1,795/mo, private ensuite from €2,400/mo, winter discount up to 20%; site itself returned 503 so pricing sourced via search.

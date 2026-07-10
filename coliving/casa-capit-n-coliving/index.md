@@ -13,6 +13,15 @@
 - **Tags:** island, coworking, community, beach, rural
 - **Website:** https://www.mapmelon.com/colivings/casa-capitan-coliving
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per night | €42 |
+| Per month | €960 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Fixed location in Guargacho, Tenerife; no distinct room-type breakdown published, from €960/month (discounted) or €1260/month standard.

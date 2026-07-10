@@ -13,6 +13,14 @@
 - **Tags:** city, beach, coworking, community
 - **Website:** https://www.nomadunion.digital/coliving/apartment
 
+## Rates
+
+| Stay length | Private | Shared |
+|---|---|---|
+| Per month | €1,350 | €900 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Confirmed permanent apartment in central Nice; site itself doesn't show monthly EUR figures directly (uses nightly framing) but existing listing prices (shared from €900, private from €1350) are consistent with site's room mix (5 private rooms + 1 shared twin room, no dorm).

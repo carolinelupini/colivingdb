@@ -13,6 +13,14 @@
 - **Tags:** mountain, rural, coworking, community
 - **Website:** https://www.montino.life/
 
+## Rates
+
+| Stay length | Private | Shared |
+|---|---|---|
+| Per month | €1,000 | €750 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Three tiers confirmed: shared room from €750/mo, private w/ shared bath from €1,000/mo, private en-suite from €1,400/mo; long-stay discounts up to 40%.

@@ -13,6 +13,15 @@
 - **Tags:** community, coworking
 - **Website:** https://www.mapmelon.com/colivings/razam
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per night | €35 |
+| Per month | €900 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Single private countryside house near Grodzisk Mazowiecki; only one pricing tier shown, no room-type breakdown or dorm info on site.

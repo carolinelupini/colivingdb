@@ -13,6 +13,14 @@
 - **Tags:** city, coworking, community
 - **Website:** https://www.thesocialclub.asia/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | $800 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Site shows only one private room type (21sqm w/ balcony), no pricing published, no dorm option.

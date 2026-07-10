@@ -13,6 +13,15 @@
 - **Tags:** beach, island, coworking, community
 - **Website:** https://www.bedndesk.com
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per night | €35 |
+| Per month | €750 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Confirmed permanent Mallorca coliving; site advertises 'full month under EUR1,000' but no per-room-type pricing breakdown published.

@@ -13,6 +13,14 @@
 - **Tags:** beach, coworking, community
 - **Website:** https://nomadgao.com
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | INR 35,000 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Multi-property brand (Vila Nova, Secret Garden, Assagao) offering dorms through studio apartments; no reliable monthly pricing found on-site or via search, only general reviews noting good value.

@@ -13,6 +13,14 @@
 - **Tags:** city, community, coworking
 - **Website:** https://www.bananacoliving.com/en
 
+## Rates
+
+| Stay length | Private | Dorm |
+|---|---|---|
+| Per month | TWD 9,900 | TWD 4,400 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Confirmed permanent multi-site operator (10 Taipei locations + Tainan); no pricing published on site, min 1-month rental.

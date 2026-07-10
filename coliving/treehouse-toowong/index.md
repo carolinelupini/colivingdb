@@ -12,6 +12,15 @@
 - **Tags:** coworking, eco
 - **Website:** https://www.treehousetoowong.com/
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per week | A$308 |
+| Per month | A$1,333 |
+
+No nightly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Boutique eco coliving in Toowong with a dedicated coworking hub; from ~$308/week

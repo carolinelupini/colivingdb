@@ -13,6 +13,15 @@
 - **Tags:** rural, mountain, coworking, community
 - **Website:** https://www.mapmelon.com/colivings/pas-rural-coliving
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per night | €28 |
+| Per month | €810 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Confirmed permanent rural location in Villegar, Cantabria; site lists shared room at EUR810/mo (from EUR840) and single/shared options but no separate private-room price or dorm confirmation.

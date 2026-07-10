@@ -13,6 +13,14 @@
 - **Tags:** city, community
 - **Website:** https://coliving.com/spaces/zhqhhr1f
 
+## Rates
+
+| Stay length | Private | Dorm |
+|---|---|---|
+| Per month | MYR 150 | MYR 100 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Intentional-community shared house in KL Chinatown, 13 bedrooms/50 residents; dorm from BGN337 (~€172), private/luxury single from BGN631 (~€323).

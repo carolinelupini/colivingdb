@@ -13,6 +13,14 @@
 - **Tags:** rural, mountain, coworking, community
 - **Website:** https://www.dolcevitacoliving.com/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €599 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Official pricing page lists single room from €750/mo... 39/night (~€750 Mapmelon discounted) and double from €783-900/mo; no dorm offered.

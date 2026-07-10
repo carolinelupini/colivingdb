@@ -13,6 +13,14 @@
 - **Tags:** rural, mountain, community, eco
 - **Website:** https://coliving.community/at/wild-oasis
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €650 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Confirmed permanent coliving in Monchique, Algarve, operating since 2023; private rooms from EUR650/month, no dorm option found.

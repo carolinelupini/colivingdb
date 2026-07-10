@@ -13,4 +13,12 @@
 - **Region:** Europe
 - **Website:** https://wifitribe.co/chapter-porto-portugal/
 
+## Rates
+
+| Stay length | Private | Shared |
+|---|---|---|
+| Per month | $1,890 | $990 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 Source: https://colivingdb.com/coliving/wifi-tribe-porto/

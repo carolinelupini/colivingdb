@@ -13,6 +13,14 @@
 - **Tags:** rural, mountain, eco, community
 - **Website:** https://coliving.com/company/aldea-sabatinga
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | COP 2,330,040 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Listing URL resolves to Coliving.com's own marketplace homepage, not a dedicated property page — this is a platform aggregator listing, not a distinct operator site; original Aldea Sabatinga details not independently confirmed.

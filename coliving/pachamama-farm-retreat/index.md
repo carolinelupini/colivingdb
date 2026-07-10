@@ -13,6 +13,15 @@
 - **Tags:** rural, eco, mountain, community, family
 - **Website:** https://pachamamaretreat.me/coliving-coworking-farmstay
 
+## Rates
+
+| Stay length | Private | Shared |
+|---|---|---|
+| Per night | €44 | €35 |
+| Per month | €985 | €784 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Year-round farm retreat; low season (Nov-Apr) shared €695-784, private €985-1388/mo; high season (May-Oct) shared €986-1680, private €1993-2979/mo — likely same brand/property as idx 237, flag for merge review.

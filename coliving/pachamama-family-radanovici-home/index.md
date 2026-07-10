@@ -13,6 +13,14 @@
 - **Tags:** rural, eco, community, family
 - **Website:** https://coliving.com/spaces/bn2ovnqc
 
+## Rates
+
+| Stay length | Private | Shared | Dorm |
+|---|---|---|---|
+| Per month | €985 | €784 | €695 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Likely same underlying property/brand as idx 238 (Pachamama Farm Retreat) listed separately as 'Radanovici Home' via coliving.com aggregator — flag for possible merge review; prices incl. 3 meals/day, discounts 30% (3mo+) / 50% (12mo).

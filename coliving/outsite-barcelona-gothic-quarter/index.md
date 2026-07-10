@@ -13,6 +13,14 @@
 - **Tags:** city, coworking, community
 - **Website:** https://www.outsite.co/locations/barcelona
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €1,700 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Confirmed permanent Gothic Quarter location; site only shows a winter promo rate (from EUR1700/mo), full pricing requires selecting dates.

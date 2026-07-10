@@ -13,6 +13,14 @@
 - **Tags:** beach, city, coworking, community
 - **Website:** https://digitaltenerife.es/
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €849 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Winter season rate EUR849/month private room, EUR300 deposit; promo brings it to ~EUR749/month through Feb 2026; no shared/dorm option found.

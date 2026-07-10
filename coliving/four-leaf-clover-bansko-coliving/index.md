@@ -12,4 +12,12 @@
 - **Tags:** community, coworking, mountain
 - **Website:** https://fourleafclover-bansko.com/
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €280 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 Source: https://colivingdb.com/coliving/four-leaf-clover-bansko-coliving/

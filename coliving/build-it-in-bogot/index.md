@@ -13,6 +13,14 @@
 - **Tags:** city, coworking, community, startup
 - **Website:** https://builditinbogota.com/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | $1,320 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Fixed location in El Virrey/Chapinero, Bogota (also operates as 'Fraile Homes'); standard private room from ~EUR970/month (USD1,055), premium suite from ~EUR1,095/month, all private en-suite, no dorm/shared.

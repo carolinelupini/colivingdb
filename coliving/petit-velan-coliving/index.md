@@ -13,6 +13,14 @@
 - **Tags:** mountain, ski, rural, coworking, community
 - **Website:** https://coliving-petitvelan.ch/
 
+## Rates
+
+| Stay length | Private | Shared |
+|---|---|---|
+| Per month | CHF 800 | CHF 500 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Confirmed permanent location in Bourg-Saint-Pierre; now requires groups (10+) or coliving guests with 7-night minimum; site itself has no listed CHF pricing, used given priceNote figures (500-600 CHF shared, 800-1200 CHF private per 28 nights).

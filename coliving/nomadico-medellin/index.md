@@ -13,6 +13,14 @@
 - **Tags:** city, coworking, community
 - **Website:** https://nomadico.io
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | $955 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Duplicate of Nomadico Medellín entry (idx 500) — same fixed Belén location, from $955 USD/mo (~€859) private studio.

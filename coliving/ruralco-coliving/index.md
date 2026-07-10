@@ -13,6 +13,15 @@
 - **Tags:** rural, mountain, community, coworking, eco
 - **Website:** https://www.ruralco.live/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per week | €190 |
+| Per month | €550 |
+
+No nightly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Confirmed fixed rural property in Culla, Castellón; exact monthly EUR pricing not published on site, only nightly-rate hints (~€20/night).

@@ -13,6 +13,14 @@
 - **Tags:** beach, coworking, community
 - **Website:** https://coliving.com/spaces/ty46jyef
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €598 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Also branded 'Boho House'; private-rooms-only, converted from BGN 1,169/mo at fixed peg 1.9558.

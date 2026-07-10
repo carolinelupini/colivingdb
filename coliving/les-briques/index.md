@@ -13,6 +13,15 @@
 - **Tags:** beach, rural, coworking, community
 - **Website:** https://lesbriques.co/en/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per night | €30 |
+| Per month | €893 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Confirmed pricing page: Single Cabin (dorm-style wooden cabin) €893/mo at 28+ nights, Single Cabin Premium €1,020/mo, Double Cabin for two €1,403/mo (28+ nights).

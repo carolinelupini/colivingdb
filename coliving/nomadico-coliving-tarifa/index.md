@@ -13,6 +13,14 @@
 - **Tags:** beach, surf, coworking, community
 - **Website:** https://www.nomadico.io/
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €737 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Nomadico is a multi-location network (20+ destinations incl. Tarifa) with per-site fixed locations, some seasonal; Tarifa-specific subpage returned 404, used listing's own price note (from €737/mo, seasonal Oct-Mar).

@@ -13,6 +13,14 @@
 - **Tags:** city, coworking, community
 - **Website:** https://www.colivingtirana.com/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €700 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 private single (shared bath) from €350/fortnight (~€700/mo) all-inclusive; other room types (shared rooms, studios, apartments) exist but no monthly price published for them

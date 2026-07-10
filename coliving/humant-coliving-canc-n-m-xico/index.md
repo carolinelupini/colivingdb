@@ -12,4 +12,12 @@
 - **Tags:** beach, community
 - **Website:** https://humantcoliving.com/
 
+## Rates
+
+| Stay length | Private | Shared |
+|---|---|---|
+| Per night | $37 | $29 |
+
+No weekly or monthly rate is published by the operator. Rates are never derived from another duration.
+
 Source: https://colivingdb.com/coliving/humant-coliving-canc-n-m-xico/

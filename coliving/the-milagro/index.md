@@ -13,6 +13,14 @@
 - **Tags:** city, community, coworking
 - **Website:** https://themilagro.co
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €615 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Private rooms only, no pricing published; contact required for quote.

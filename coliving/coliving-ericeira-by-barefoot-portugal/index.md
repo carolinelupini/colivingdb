@@ -13,6 +13,15 @@
 - **Tags:** beach, surf, rural, coworking, community
 - **Website:** https://www.mapmelon.com/colivings/coliving-ericeira-by-barefoot-portugal
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per night | €90 |
+| Per month | €1,350 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Confirmed permanent site in Ericeira/Santo Isidoro; from €90/night = €1,350/mo private, no shared/dorm tier shown.

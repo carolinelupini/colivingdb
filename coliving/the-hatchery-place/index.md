@@ -13,6 +13,14 @@
 - **Tags:** city, coworking, community
 - **Website:** https://www.thehatcheryplace.com/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €240 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Site blocked direct fetch (403); per search results, private single from €270/month (€240 long-stay), couple rate ~MYR2000/mo; no dorm option found.

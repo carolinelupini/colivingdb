@@ -13,6 +13,14 @@
 - **Tags:** coworking, community
 - **Website:** https://calergi.gr/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €800 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Boutique resort/residence, fixed single location in Atsipopoulo/Rethymno Crete; site does not publish detailed pricing, retained est. from ~EUR800/mo studio in source note.

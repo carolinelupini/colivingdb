@@ -12,6 +12,14 @@
 - **Tags:** eco, rural, coworking
 - **Website:** https://www.colivingnewlevel.su/
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | $219 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Rural eco coliving near Sataplia nature reserve and Kutaisi with 24/7 coworking; rooms, dorms, and tents.

@@ -13,6 +13,14 @@
 - **Tags:** beach, surf, coworking, community
 - **Website:** https://www.colive.me/
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €668 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Two permanent locations (Ahangama Sri Lanka + Bali); pricing only via external booking link, not on-site

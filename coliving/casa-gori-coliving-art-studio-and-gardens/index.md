@@ -12,4 +12,12 @@
 - **Tags:** rural, eco, community
 - **Website:** https://www.casagori.co/
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €1,200 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 Source: https://colivingdb.com/coliving/casa-gori-coliving-art-studio-and-gardens/

@@ -13,6 +13,14 @@
 - **Tags:** beach, city, coworking, community
 - **Website:** https://www.outsite.co/locations/vilamoura
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €1,000 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Permanent Outsite studios/apartments in Vilamoura; winter promo from €1,000/month, no dorm option mentioned.

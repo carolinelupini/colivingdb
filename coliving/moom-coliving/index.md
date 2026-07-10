@@ -13,6 +13,14 @@
 - **Tags:** rural, community, coworking, eco
 - **Website:** https://moom.space/en/home/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €819 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Confirmed single fixed countryside location near Rendsburg; site doesn't publish rates, priceNote figure (EUR 819/mo private) retained from source.

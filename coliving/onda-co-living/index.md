@@ -13,6 +13,15 @@
 - **Tags:** beach, surf, coworking, community
 - **Website:** https://www.mapmelon.com/colivings/onda-co-living
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per night | €32 |
+| Per month | €1,470 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Permanent beachside coliving in Baleal/Peniche; only private room pricing listed (€1,470/mo, discounted from €2,250).

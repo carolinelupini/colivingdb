@@ -13,6 +13,14 @@
 - **Tags:** coworking, community, surf, island, beach
 - **Website:** https://www.marayacoliving.com
 
+## Rates
+
+| Stay length | Private | Shared |
+|---|---|---|
+| Per night | €69 | €48 |
+| Per week | €380 | €268 |
+| Per month | €1,332 | €940 |
+
 ## About
 
 Fixed oceanfront location in Candelaria, Tenerife; shared room from €940/mo per provided listing note, site itself does not publish pricing.

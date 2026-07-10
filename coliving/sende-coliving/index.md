@@ -13,6 +13,15 @@
 - **Tags:** rural, mountain, community, coworking
 - **Website:** https://www.sende.co/
 
+## Rates
+
+| Stay length | Private | Shared |
+|---|---|---|
+| Per week | €280 | €245 |
+| Per month | €960 | €850 |
+
+No nightly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Confirmed one of the oldest rural colivings, fixed location in Senderiz, Galicia (also a sister site in Portugal); books out months ahead.

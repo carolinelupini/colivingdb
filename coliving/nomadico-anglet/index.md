@@ -13,6 +13,14 @@
 - **Tags:** beach, surf, coworking, community
 - **Website:** https://nomadico.io
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €790 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Operates seasonally (Sept-Dec & Mar-Jun) at a fixed Anglet address rather than year-round; confirmed From €790/month; room type breakdown not published.

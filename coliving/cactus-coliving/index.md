@@ -13,6 +13,14 @@
 - **Tags:** island, mountain, rural, community, coworking
 - **Website:** https://www.cactuscoliving.com/
 
+## Rates
+
+| Stay length | Private | Shared |
+|---|---|---|
+| Per month | €1,058 | €686 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Two permanent Tenerife locations plus La Gomera under a shared 'Cactus Pass'; shared from €686/mo, private from €1058/mo, 30-35% long-stay discounts.

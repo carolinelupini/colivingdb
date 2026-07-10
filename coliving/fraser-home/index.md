@@ -13,6 +13,14 @@
 - **Tags:** city, community, coworking
 - **Website:** https://coliving.com/spaces/8tzcwxu6
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | MYR 170 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Also operates under 'Olio Co-Living' brand; private en-suite from BGN631 (~€323), no dorm/shared option listed, 1-month minimum.

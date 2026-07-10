@@ -12,6 +12,14 @@
 - **Tags:** coworking, city
 - **Website:** https://www.switchliving.com.au/
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | A$3,503 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Modern coliving with coworking/podcast studios; Kensington Sydney (also Melbourne, Perth, Adelaide); from ~$809/week

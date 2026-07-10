@@ -141,6 +141,12 @@
   .signup-form{width:100%; max-width:380px; height:48px; border:none; display:block;}
   .empty{padding:40px 22px; text-align:center; color:var(--muted);}
   footer{max-width:var(--wrap); margin:24px auto 0; padding:18px 22px 40px; color:var(--muted); font-size:.78rem; line-height:1.6; border-top:1px solid var(--line);}
+  .seg{display:inline-flex; border:1px solid var(--line); border-radius:8px; overflow:hidden; background:#fff;}
+  .seg button{border:none; background:none; font:inherit; font-size:.8rem; padding:6px 11px; cursor:pointer; color:var(--muted); border-right:1px solid var(--line);}
+  .seg button:last-child{border-right:none;}
+  .seg button.on{background:var(--accent); color:#fff; font-weight:600;}
+  .seg button:not(.on):hover{background:var(--accent-soft); color:var(--accent);}
+  .onreq small{font-weight:400; opacity:.75;}
   .seolinks{max-width:var(--wrap); margin:26px auto 0; padding:0 22px; font-size:.8rem; line-height:2;}
   .seolinks a{color:var(--muted); text-decoration:none; margin-right:14px; white-space:nowrap;}
   .seolinks a:hover{color:var(--accent); text-decoration:underline;}
@@ -203,6 +209,9 @@
   <span class="sep"></span>
   <div class="frow" id="tags"></div>
   <span class="sep"></span>
+  <div class="seg" id="unitSeg" role="group" aria-label="Show prices per stay length">
+    <button type="button" data-unit="night">night</button><button type="button" data-unit="week">week</button><button type="button" data-unit="month" class="on">month</button>
+  </div>
   <select id="price" autocomplete="off">
     <option value="">Any price</option>
     <option value="600">≤ €600/mo</option>
@@ -306,7 +315,7 @@ const TAGS = Object.keys(tagFreq).sort((a,b)=>tagFreq[b]-tagFreq[a]);
 // order interleaves warm/cool so the look-alike pairs never sit next to each other
 const TYPE_ORDER = ["community","beach","family","island","coworking","eco","rural","startup","surf","mountain","ski","city"];
 
-const state = {region:"All", country:"", room:"", format:"", month:"", minStay:"", tags:new Set(), price:"", q:"", hideUnclear:false, showAll:false, currency:""};
+const state = {region:"All", country:"", room:"", format:"", month:"", minStay:"", tags:new Set(), price:"", q:"", hideUnclear:false, showAll:false, currency:"", unit:"month"};
 
 // ---- pop-up month coverage: turn a popupDates string into the set of YYYY-MM it spans ----
 const MONTH_IDX={jan:1,feb:2,mar:3,apr:4,may:5,jun:6,jul:7,aug:8,sep:9,sept:9,oct:10,nov:11,dec:12,
@@ -346,19 +355,39 @@ function unitLabel(x){
   if(x.priceUnit==="week") return " per week";
   return /cruise/i.test(x.name) ? " per cruise" : " per event";
 }
-// price filter buckets are held in EUR (the common denominator for x.priceEurMonthly),
-// but labelled in the chosen display currency so the filter matches what the user sees.
-const PRICE_BUCKETS=[600,900,1200,2000];
+// ---- stay-length rates (night / week / month) --------------------------------------------
+// We store ONLY rates an operator actually publishes. Coliving pricing is steeply non-linear
+// (a monthly rate is ~40-60% of 30x nightly), so a derived rate would be a wrong rate.
+const UNITS = {night:{label:"night", suffix:"/night"}, week:{label:"week", suffix:"/wk"}, month:{label:"month", suffix:"/mo"}};
+const rateCurOf = x => x.rateCurrency || x.nativeCurrency || "EUR";
+// the rate block for the selected stay length, or null if this operator never published one
+const unitRates = x => (x.rates || {})[state.unit] || null;
+function rateAmount(x, tier){            // tier: "from" | "private" | "shared" | "dorm"
+  const ur = unitRates(x);
+  return (ur && typeof ur[tier] === "number") ? ur[tier] : null;
+}
+// convert a stored rate into the display currency
+function rateDisplay(x, tier){
+  const amt = rateAmount(x, tier); if(amt == null) return null;
+  const src = rateCurOf(x);
+  const target = state.currency || src;
+  const v = fromEur(toEur(amt, src), target);
+  return v == null ? null : {amt: Math.round(v), cur: target};
+}
+
+// Buckets are per stay-length and held in EUR, labelled in the chosen display currency.
+// A nightly bucket of €600 would be nonsense, so each unit gets its own scale.
+const PRICE_BUCKETS = {month:[600,900,1200,2000], week:[200,300,450,700], night:[30,50,80,120]};
 function buildPriceOptions(){
   const cur = state.currency || "EUR";
   const sel=document.getElementById("price"); const prev=state.price;
-  const opts = PRICE_BUCKETS.map(e=>{
+  const opts = (PRICE_BUCKETS[state.unit]||PRICE_BUCKETS.month).map(e=>{
     const v=fromEur(e,cur); if(v==null) return "";
     const rounded = v<100 ? Math.round(v) : Math.round(v/10)*10;
-    return `<option value="${e}">≤ ${fmtMoney(rounded,cur)}/mo</option>`;
+    return `<option value="${e}">≤ ${fmtMoney(rounded,cur)}${UNITS[state.unit].suffix}</option>`;
   }).filter(Boolean).join("");
   sel.innerHTML = `<option value="">Any price</option>` + opts;
-  sel.value = prev;
+  sel.value = (PRICE_BUCKETS[state.unit]||[]).includes(+prev) ? prev : (state.price="", "");
 }
 // source amount + currency for a room tier (true native if scraped, else EUR estimate)
 function tierSource(x, tier){
@@ -422,6 +451,14 @@ const monthSel=document.getElementById("month");
 }
 monthSel.onchange=e=>{state.month=e.target.value; render();};
 document.getElementById("minstay").onchange=e=>{state.minStay=e.target.value; render();};
+// stay-length toggle: switching unit re-scales the price buckets (a €600 nightly cap is nonsense)
+document.querySelectorAll("#unitSeg button").forEach(b=>{
+  b.onclick=()=>{
+    state.unit=b.dataset.unit;
+    document.querySelectorAll("#unitSeg button").forEach(o=>o.classList.toggle("on", o===b));
+    buildPriceOptions(); render();
+  };
+});
 buildPriceOptions();
 document.getElementById("price").onchange=e=>{state.price=e.target.value; render();};
 document.getElementById("hideUnclear").onchange=e=>{state.hideUnclear=e.target.checked; render();};
@@ -479,8 +516,10 @@ formModal.querySelector(".modal-backdrop").onclick=closeForm;
 document.addEventListener("keydown",e=>{ if(e.key==="Escape" && formModal.style.display==="flex") closeForm(); });
 
 function resetFilters(){
-  Object.assign(state,{region:"All",country:"",room:"",format:"",month:"",minStay:"",price:"",q:"",hideUnclear:false,showAll:false}); state.tags.clear();
+  Object.assign(state,{region:"All",country:"",room:"",format:"",month:"",minStay:"",price:"",q:"",hideUnclear:false,showAll:false,unit:"month"}); state.tags.clear();
   ["country","room","format","month","minstay","price"].forEach(id=>document.getElementById(id).value="");
+  document.querySelectorAll("#unitSeg button").forEach(b=>b.classList.toggle("on", b.dataset.unit==="month"));
+  buildPriceOptions();
   document.getElementById("search").value=""; document.getElementById("hideUnclear").checked=false;
   render();
 }
@@ -520,7 +559,10 @@ function filtered(){
     (!state.format||x.format===state.format) &&
     (!state.month||x.format!=="pop-up"||popupMonths(x.popupDates).has(state.month)) &&
     (!state.minStay||(x.minStayNights&&x.minStayNights<=+state.minStay)) &&
-    (!state.price||(x.priceEurMonthly&&x.priceEurMonthly<=+state.price)) &&
+    // price cap compares against the rate for the SELECTED stay length, in EUR.
+    // A listing with no published rate for that length simply can't satisfy a price cap.
+    (!state.price||(()=>{ const a=rateAmount(x,"from"); if(a==null) return false;
+                          const e=toEur(a, rateCurOf(x)); return e!=null && e<=+state.price; })()) &&
     (!state.hideUnclear||x.status==="active") &&
     ([...state.tags].every(t=>(x.tags||[]).includes(t))) &&
     (!state.q||((x.name+" "+(x.city||"")+" "+x.country).toLowerCase().includes(state.q)))
@@ -550,27 +592,38 @@ function priceCell(x){
     }
     return `<div class="onreq">Price on request</div>`;
   }
-  // convert each available room tier into the display currency, then group by price
-  const byPrice = {};   // amount -> {tiers:[], cur}
+  // Rates for the selected stay length. If the operator never published one, say so plainly
+  // rather than deriving it from another duration.
+  const suffix = UNITS[state.unit].suffix;
+  const ur = unitRates(x);
+  if(!ur){
+    const has = Object.keys(x.rates||{}).filter(u=>u!==state.unit);
+    if(has.length) return `<div class="onreq">No ${UNITS[state.unit].label}ly rate<small> · ${has.map(u=>UNITS[u].label+"ly").join(" / ")} only</small></div>`;
+    return `<div class="onreq">Price on request</div>`;
+  }
+  if(state.room){
+    const d=rateDisplay(x,state.room);
+    if(d) return `<div class="from">${fmtMoney(d.amt,d.cur)}<small>${suffix} · ${state.room}</small></div>`;
+    return `<div class="onreq">No ${state.room} rate</div>`;
+  }
+  // group room tiers that share a price ("dorm/shared €167")
+  const byPrice = {};
   ["dorm","shared","private"].forEach(k=>{
-    const d=tierDisplay(x,k);
+    const d=rateDisplay(x,k);
     if(d){ (byPrice[d.amt] = byPrice[d.amt] || {tiers:[], cur:d.cur}).tiers.push(k); }
   });
   const amts = Object.keys(byPrice).map(Number).sort((a,b)=>a-b);
-
-  if(state.room){
-    const d=tierDisplay(x,state.room);
-    if(d) return `<div class="from">${fmtMoney(d.amt,d.cur)}<small>/mo · ${state.room}</small></div>`;
-  }
   if(amts.length){
     const cur=byPrice[amts[0]].cur;
-    const main=`<div class="from">${amts.length>1?'<small>from </small>':''}${fmtMoney(amts[0],cur)}<small>/mo</small></div>`;
+    const main=`<div class="from">${amts.length>1?'<small>from </small>':''}${fmtMoney(amts[0],cur)}<small>${suffix}</small></div>`;
     const brk = amts.length>1
       ? `<div class="brk">${amts.map(a=>`<b>${byPrice[a].tiers.join("/")}</b> ${fmtMoney(a,byPrice[a].cur)}`).join(" · ")}</div>`
       : "";
     return main + brk;
   }
-  // single "from" fallback when no per-room breakdown exists
+  const f = rateDisplay(x,"from");
+  if(f) return `<div class="from"><small>from </small>${fmtMoney(f.amt,f.cur)}<small>${suffix}</small></div>`;
+  // legacy single "from" fallback when no per-room breakdown exists
   const target = state.currency || nativeCurOf(x);
   const src = (x.priceNativeFrom!=null) ? {amt:x.priceNativeFrom, cur:nativeCurOf(x)}
             : (x.priceEurMonthly!=null) ? {amt:x.priceEurMonthly, cur:"EUR"} : null;

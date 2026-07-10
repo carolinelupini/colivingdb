@@ -13,6 +13,14 @@
 - **Tags:** beach, surf, coworking, community
 - **Website:** https://www.nomadico.io/puerto-escondido-coliving
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | $749 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Confirmed permanent operator with 2 Puerto Escondido homes (Zicatela + Centro); Zicatela private from $749/mo (~€690), Centro has a shared room option but unpriced, no true dorm.

@@ -13,6 +13,14 @@
 - **Tags:** city, island, community, coworking, startup
 - **Website:** https://coliving.com/spaces/o1skzxqi
 
+## Rates
+
+| Stay length | Private | Shared |
+|---|---|---|
+| Per month | €8,018 | €16,079 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Site shows BGN pricing (likely display bug, unreliable for EUR conversion); confirmed dorm option exists (12-bed mixed-gender bunk room) alongside private rooms in a former British Navy complex.

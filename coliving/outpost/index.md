@@ -13,6 +13,14 @@
 - **Tags:** beach, surf, coworking, community
 - **Website:** https://destinationoutpost.co/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | $1,095 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Canggu is one of several permanent Outpost destinations (2 Bali locations + Sri Lanka); Colive+ from $849/mo (~€780), no dorm mentioned.

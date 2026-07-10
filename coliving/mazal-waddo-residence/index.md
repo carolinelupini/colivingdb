@@ -13,6 +13,14 @@
 - **Tags:** beach, coworking, community
 - **Website:** https://coliving.com/spaces/gjs8clrm
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | $436 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 14 bedrooms, all private (Queen, Deluxe w/ balcony, Deluxe w/ patio) from BGN 851-945/mo (~€435-480); no dorm.

@@ -13,6 +13,14 @@
 - **Tags:** rural, eco, community, beach, surf, coworking
 - **Website:** https://eco-living.org
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €930 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Site returned 403 Forbidden — could not verify; existing priceNote (from €31/night, 1-month min) likely still valid.

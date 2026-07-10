@@ -13,6 +13,14 @@
 - **Tags:** city, coworking, community, beach
 - **Website:** https://wearesuiters.com
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €899 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Multi-city Spanish coliving chain (Alicante, Vigo, Valencia, Canary Islands, Galicia); Alicante Comfort suites from €899/mo, cheaper for 6mo+ stays.

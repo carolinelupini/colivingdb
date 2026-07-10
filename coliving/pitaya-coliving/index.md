@@ -13,6 +13,15 @@
 - **Tags:** island, beach, surf, coworking, community
 - **Website:** https://www.mapmelon.com/colivings/pitaya-coliving
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per night | €41 |
+| Per month | €1,050 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Confirmed permanent location in Arrecife, Lanzarote; room EUR1050/mo (from EUR1230), room-type breakdown (private vs shared) not specified on site.

@@ -13,4 +13,12 @@
 - **Region:** Europe
 - **Website:** https://boundless.life/sintra-portugal
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €1,700 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 Source: https://colivingdb.com/coliving/boundless-life-sintra/

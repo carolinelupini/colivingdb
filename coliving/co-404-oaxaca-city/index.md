@@ -13,6 +13,14 @@
 - **Tags:** city, community, coworking
 - **Website:** https://co404.com
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | $570 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Permanent chain (Oaxaca/San Cristobal/Medellin); Oaxaca private from $570 USD (~€525), 50% off monthly promo currently running; private rooms only, no dorm.

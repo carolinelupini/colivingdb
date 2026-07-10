@@ -14,6 +14,15 @@
 - **Tags:** community, coworking, mountain
 - **Website:** https://arctic-coliving.com/prices/
 
+## Rates
+
+| Stay length | Private | Shared |
+|---|---|---|
+| Per night | €60 | €40 |
+| Per week | €420 | €280 |
+
+No monthly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Confirmed seasonal pop-up (78° North, powered by Spitzbergen Reisen) running Oct-Dec 2026; pricing only via external booking partner, not published.

@@ -13,6 +13,14 @@
 - **Tags:** rural, community, eco
 - **Website:** https://coliving.com/spaces/acuyx1jr
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | RSD 265,500 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Same Sonta village as idx 338 but separate listing (Ive Andrica Home); shared 4-bed room ~BGN582/mo (~297 EUR), private queen room from BGN1135/mo (~580 EUR).

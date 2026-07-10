@@ -13,6 +13,14 @@
 - **Tags:** rural, community, coworking
 - **Website:** https://coliving.com/spaces/uvcl3xdi
 
+## Rates
+
+| Stay length | Shared | Dorm |
+|---|---|---|
+| Per month | €907 | €907 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Listing 'Svetog Save Residence' is same permanent Mokrin House property/brand as idx 337, different room-tier listing; bed-in-2-bed room from BGN4108/mo (~2100 EUR), single standard from BGN4695/mo (~2395 EUR), all-inclusive with meals.

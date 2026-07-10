@@ -13,4 +13,12 @@
 - **Region:** Latin America
 - **Website:** https://wifitribe.co/costa-rica-santa-teresa/
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | $1,390 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 Source: https://colivingdb.com/coliving/wifi-tribe-santa-teresa/

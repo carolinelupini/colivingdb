@@ -13,6 +13,15 @@
 - **Tags:** surf, beach, coworking, community
 - **Website:** https://www.mapmelon.com/colivings/wild-souls-ericeira
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per night | €75 |
+| Per month | €1,800 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Established owner-run coliving in Ericeira; only one price tier shown (EUR1,800/month private, discounted from EUR2,250), no dorm mentioned.

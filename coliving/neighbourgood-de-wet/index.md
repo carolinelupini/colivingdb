@@ -13,6 +13,14 @@
 - **Tags:** rural, community
 - **Website:** https://www.neighbourgood.co
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | R10,000 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 De Wet, Franschhoek: self-catering studio/loft/2BR apartments confirmed; no monthly rate published, only nightly hotel-booking-site rates found.

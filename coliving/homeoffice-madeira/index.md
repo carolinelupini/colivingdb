@@ -13,6 +13,15 @@
 - **Tags:** rural, island, coworking, community
 - **Website:** https://en.homeoffice-madeira.com/
 
+## Rates
+
+| Stay length | Private | Shared |
+|---|---|---|
+| Per week | €375 | €250 |
+| Per month | €1,400 | — |
+
+No nightly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Confirmed permanent 9-room villa in Santo da Serra; pricing lives on a separate page not captured, 950+ guests hosted to date.

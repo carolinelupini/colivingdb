@@ -13,6 +13,14 @@
 - **Tags:** rural, coworking, community
 - **Website:** https://nomadico.io
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €823 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Nomadico is a multi-location network (20+ destinations); this Tuscany listing is one of several permanent-style homes, prices range €609-980/month across their portfolio.

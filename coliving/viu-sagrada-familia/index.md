@@ -13,6 +13,15 @@
 - **Tags:** city, community, coworking, eco
 - **Website:** https://www.mapmelon.com/colivings/viu-sagrada-familia
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per night | €33 |
+| Per month | €1,000 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Coliving+coworking in Barcelona, apartments with two private bedrooms sharing one bath, ~€1,000/mo, 28-night minimum, no dorm option.

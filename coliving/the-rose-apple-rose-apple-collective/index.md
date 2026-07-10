@@ -13,6 +13,14 @@
 - **Tags:** city, community, coworking
 - **Website:** https://coliving.com/spaces/l2fgaieh
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | $1,600 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 All 40 rooms are private ensuite queen units, no dorm option; price is BGN 2,955/mo (~€1,511).

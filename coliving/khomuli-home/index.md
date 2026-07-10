@@ -13,6 +13,14 @@
 - **Tags:** rural, mountain, coworking, community
 - **Website:** https://coliving.com/spaces/qny0gdxj
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | $219 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Permanent, active host since July 2024, min stay 1 month; prices quoted in BGN (pegged ~1.9558/EUR): shared/dorm from ~€192, private €346-€472.

@@ -13,6 +13,14 @@
 - **Tags:** beach, coworking, community, surf
 - **Website:** https://www.teamskippers.com/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per night | €28 |
+| Per week | €196 |
+| Per month | €500 |
+
 ## About
 
 Fixed permanent coliving in Diani Beach, Kenya since 2023; no pricing published on site, redirects to a Rates & Availability page not accessible via fetch.

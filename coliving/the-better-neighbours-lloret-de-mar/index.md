@@ -13,4 +13,13 @@
 - **Region:** Europe
 - **Website:** https://thebetterneighbors.com/spain
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per week | €240 |
+| Per month | €925 |
+
+No nightly rate is published by the operator. Rates are never derived from another duration.
+
 Source: https://colivingdb.com/coliving/the-better-neighbours-lloret-de-mar/

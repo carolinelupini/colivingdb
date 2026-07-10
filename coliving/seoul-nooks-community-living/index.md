@@ -13,6 +13,15 @@
 - **Tags:** city, community
 - **Website:** https://www.mapmelon.com/colivings/seoul-nooks-community-living
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per night | €35 |
+| Per month | €990 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Three homes in Seoul; private rooms only, €990/mo discounted rate confirmed, no dorm option found

@@ -13,6 +13,15 @@
 - **Tags:** city, island, coworking, community
 - **Website:** https://www.mapmelon.com/colivings/laberint-coliving-palma-de-mallorca
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per night | €44 |
+| Per month | €1,200 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Fixed location in Palma de Mallorca; €1,200/mo shared-room rate (discounted from €1,320), all-inclusive utilities/housekeeping, 32-night minimum.

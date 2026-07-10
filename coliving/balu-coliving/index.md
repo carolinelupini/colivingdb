@@ -13,6 +13,14 @@
 - **Tags:** city, community
 - **Website:** https://coliving.community/at/balu
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €650 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Fixed location since 2022, Medellin Laureles, small 8-12 person community, min 1-month stay, private rooms from EUR650/month, no dorm.

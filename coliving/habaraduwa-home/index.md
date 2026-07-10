@@ -13,6 +13,14 @@
 - **Tags:** beach, surf, coworking, community, eco
 - **Website:** https://coliving.com/spaces/hmiewe7i
 
+## Rates
+
+| Stay length | Private | Shared | Dorm |
+|---|---|---|---|
+| Per month | $1,584 | $804 | $683 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Actual brand is 'Surf & Zen' not 'Habaraduwa Home'; has mixed-gender and women-only dorm rooms from BGN1448 (~€741)

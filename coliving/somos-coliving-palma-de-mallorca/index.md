@@ -12,4 +12,12 @@
 - **Tags:** community, coworking, city
 - **Website:** https://www.colivingcommunity.com/find-a-coliving/somos-coliving?src=deal&amp;dealId=cml6gjccq0001kz049qa9o64c
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €1,800 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 Source: https://colivingdb.com/coliving/somos-coliving-palma-de-mallorca/

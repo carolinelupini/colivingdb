@@ -13,6 +13,14 @@
 - **Tags:** beach, coworking, community
 - **Website:** https://coliving.com/spaces/gt8k38o6
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €936 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Individual home listed on coliving.com platform; offers a 6-bed shared/bunk room plus private rooms.

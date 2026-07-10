@@ -13,6 +13,14 @@
 - **Tags:** island, community, coworking
 - **Website:** https://evolvecoliving.io
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €845 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Duplicate of Evolve Coliving listing (idx 226); site redirects to discover.evolvecoliving.io; pricing only via on-site calculator, not published.

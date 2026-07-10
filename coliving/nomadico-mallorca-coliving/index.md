@@ -13,6 +13,15 @@
 - **Tags:** rural, island, coworking, community
 - **Website:** https://www.nomadico.io/mallorca-coliving
 
+## Rates
+
+| Stay length | Private | Shared |
+|---|---|---|
+| Per week | €350 | €210 |
+| Per month | €890 | €490 |
+
+No nightly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Seasonal operation only (Mar 1-Aug 2 & Sep 20-Nov 30, closed Dec-Feb); shared €490, private single €890, private double €990 (low season); higher May-Aug (€560-1140).

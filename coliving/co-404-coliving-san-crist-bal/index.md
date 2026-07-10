@@ -13,6 +13,14 @@
 - **Tags:** city, mountain, coworking, community
 - **Website:** https://co404.com/san-cristobal/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | $396 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Private rooms only from $396/mo USD (~€368) with private ensuite bath; no dorm option found despite listing's dorm roomType tag.

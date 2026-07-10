@@ -13,6 +13,14 @@
 - **Tags:** city, coworking, community
 - **Website:** https://nomadico.io
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €609 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Confirmed Nomadico Cape Town year-round from EUR609/month; site doesn't break out private vs shared pricing separately, treated quoted rate as base/private.

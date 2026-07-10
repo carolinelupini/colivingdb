@@ -13,6 +13,14 @@
 - **Tags:** mountain, ski, coworking, community
 - **Website:** https://coliving.com/spaces/zt3bgmte
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | CHF 2,196 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Confirmed permanent location in Grimentz; coliving.com listing displays prices mislabeled as BGN (currency display bug) - used original EUR estimate from priceNote instead.

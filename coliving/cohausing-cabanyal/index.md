@@ -12,4 +12,13 @@
 - **Tags:** beach, community, city
 - **Website:** http://www.cohausingvalencia.com/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per night | €37 |
+| Per month | — |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 Source: https://colivingdb.com/coliving/cohausing-cabanyal/

@@ -13,6 +13,14 @@
 - **Tags:** city, coworking, community
 - **Website:** https://coliving.com/spaces/shsfpxa7
 
+## Rates
+
+| Stay length | Shared |
+|---|---|
+| Per month | €750 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Prices quoted in BGN on listing (~€750 dorm bed, ~€950 single private, ~€1,425 double private at approx BGN/EUR 1.96 peg); has a 4-bed mixed dorm option.

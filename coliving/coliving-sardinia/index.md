@@ -13,6 +13,14 @@
 - **Tags:** beach, island, coworking, community
 - **Website:** https://colivingcompass.com/region/italy/coliving-sardinia/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €950 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Confirmed permanent, seasonal open March-June and Oct-Dec, 2-week min stay; single shared-bath from ~€40/night (~€950/mo cited), double private-bath ~€62/night; no dorms, only 5 private rooms total.

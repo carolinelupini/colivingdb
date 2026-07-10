@@ -13,6 +13,14 @@
 - **Tags:** coworking, community, rural
 - **Website:** https://www.larochecotard.com/en/home/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €655 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Seven private bedrooms, no dorm; pricing only available on request (email/phone), not published on site.

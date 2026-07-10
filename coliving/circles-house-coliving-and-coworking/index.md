@@ -12,4 +12,12 @@
 - **Tags:** coworking, startup, community
 - **Website:** http://www.circles.house/
 
+## Rates
+
+| Stay length | Private | Shared |
+|---|---|---|
+| Per month | €1,800 | €950 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 Source: https://colivingdb.com/coliving/circles-house-coliving-and-coworking/

@@ -13,6 +13,14 @@
 - **Tags:** city, coworking, community
 - **Website:** https://www.neighbourgood.co
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | R13,000 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Confirmed Neighbourgood Hill is a real current Cape Town branch, but no per-branch pricing published on the marketing site (booking platform book.neighbourgood.co would have it).

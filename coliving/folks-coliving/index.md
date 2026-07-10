@@ -13,6 +13,15 @@
 - **Tags:** city, beach, coworking, community
 - **Website:** https://www.mapmelon.com/colivings/folks-coliving
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per night | €50 |
+| Per month | €1,500 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Confirmed fixed coliving in Valencia; private room only €1,200/mo (disc. from €1,500) or €48/night, 11-night minimum.

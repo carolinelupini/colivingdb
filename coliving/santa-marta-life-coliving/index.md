@@ -13,6 +13,14 @@
 - **Tags:** beach, community, coworking
 - **Website:** https://www.santamartalife.com/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | $650 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Permanent coliving grown out of an annual retreat; Silver (shared bathroom) ~$650/mo≈€598, Gold (private bath) ~$850/mo≈€782, private rooms only.

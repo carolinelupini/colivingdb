@@ -13,4 +13,12 @@
 - **Region:** Europe
 - **Website:** https://boundless.life/andalusia-spain
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €2,600 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 Source: https://colivingdb.com/coliving/boundless-life-andalusia-malaga-area/

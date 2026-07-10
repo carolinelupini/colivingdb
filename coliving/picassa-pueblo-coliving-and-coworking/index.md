@@ -13,6 +13,15 @@
 - **Tags:** rural, mountain, coworking, community
 - **Website:** https://www.mapmelon.com/colivings/picassa-pueblo-coliving-coworking
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per night | €18 |
+| Per month | €450 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Confirmed permanent 18th-century pueblo building in Purchena, Andalusia; room EUR450/mo (from EUR525), breakfast included.

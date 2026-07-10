@@ -13,6 +13,14 @@
 - **Tags:** beach, surf, coworking, community
 - **Website:** https://coliving.com/spaces/naq488lh
 
+## Rates
+
+| Stay length | Private | Shared |
+|---|---|---|
+| Per month | $938 | $554 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Actual brand is 'Slow Life' (hosted by Veronica), not 'Hiriketiya Home'; shared room from BGN1172 (~€599)

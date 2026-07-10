@@ -13,6 +13,15 @@
 - **Tags:** beach, surf, island, coworking, community
 - **Website:** https://www.banamacoliving.com/en
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per night | — |
+| Per month | €882 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Site returned 403 to fetch; retained existing priceNote data (from EUR882-1960/mo, ~EUR30/night) as permanent Fuerteventura coliving.

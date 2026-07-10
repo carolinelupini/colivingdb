@@ -13,6 +13,14 @@
 - **Tags:** coworking, community, beach, city
 - **Website:** https://livenomio.com
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €500 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Fixed coliving in Kavač near Tivat/Kotor Bay with pool, sauna, gym, rooftop cafe; pricing from €500/mo per search results, direct site fetch returned 403.

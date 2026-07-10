@@ -13,6 +13,15 @@
 - **Tags:** rural, mountain, coworking, community
 - **Website:** https://www.mapmelon.com/colivings/posada-de-la-luz
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per night | €17 |
+| Per month | €450 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Confirmed permanent rural coliving in Torralba de Ribota; private room EUR450/mo with 15% Mapmelon discount (EUR600/mo regular).

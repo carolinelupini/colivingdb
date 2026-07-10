@@ -13,6 +13,14 @@
 - **Tags:** city, coworking, community
 - **Website:** https://www.outsite.co/locations/lisbon-cais-do-sodre
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €800 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Only winter promo rate (€800/mo, Dec 26–Feb 27) published; standard rates require date selection.

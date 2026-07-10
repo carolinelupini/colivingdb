@@ -13,6 +13,14 @@
 - **Tags:** rural, mountain, island, coworking, community
 - **Website:** https://coliving.com/spaces/qsj4tmqi
 
+## Rates
+
+| Stay length | Private | Shared |
+|---|---|---|
+| Per month | €1,700 | €1,500 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Permanent villa in Santo da Serra, Madeira; BGN pricing (BGN/EUR peg ~1.956): shared bunk from BGN1,956≈€1,000, shared twin BGN2,543≈€1,300, private twin BGN2,934≈€1,500, private lux BGN3,521≈€1,800.

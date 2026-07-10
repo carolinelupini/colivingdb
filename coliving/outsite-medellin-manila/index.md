@@ -13,6 +13,14 @@
 - **Tags:** city, coworking, community
 - **Website:** https://www.outsite.co/locations/medellin-manila
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per night | $50 |
+
+No weekly or monthly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 8-bedroom duplex cowork/coliving in Manila district; no listed prices, requires date selection to quote (est. ~$40/night per original note).

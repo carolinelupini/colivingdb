@@ -13,6 +13,14 @@
 - **Tags:** island, city, coworking, community
 - **Website:** https://evolvecoliving.io/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €845 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Confirmed permanent Malta location; private rooms/suites only, no dorm; exact rates require pricing calculator.

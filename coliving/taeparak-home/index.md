@@ -13,6 +13,14 @@
 - **Tags:** city, coworking, community
 - **Website:** https://coliving.com/spaces/kshbupak
 
+## Rates
+
+| Stay length | Shared |
+|---|---|
+| Per month | THB 12,000 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Prices listed in BGN on coliving.com, converted at peg 1 EUR=1.95583 BGN: private from €550, deluxe private (shared bath) €628, 6-bed dorm from €283.

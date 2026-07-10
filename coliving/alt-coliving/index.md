@@ -12,6 +12,14 @@
 - **Tags:** community, coworking, city
 - **Website:** https://www.altcoliving.com/
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €500 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Two properties: an urban hub in town and a riverside retreat, private en-suite rooms only.

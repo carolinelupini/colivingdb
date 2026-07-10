@@ -13,6 +13,14 @@
 - **Tags:** island, coworking, community
 - **Website:** https://www.casa15azores.com/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €950 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Site lists 3 private rooms with layouts but no pricing published on-site; use existing Flatio-sourced price.

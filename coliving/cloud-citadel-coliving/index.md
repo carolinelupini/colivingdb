@@ -13,6 +13,15 @@
 - **Tags:** mountain, ski, coworking, community
 - **Website:** https://cloudcitadel.co/
 
+## Rates
+
+| Stay length | Private | Dorm |
+|---|---|---|
+| Per night | €52 | €39 |
+| Per month | €1,127 | €966 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Confirmed seasonal pricing: spring 28-day dorm €966/mo, private double ensuite €1,771/mo, private double shared bath €1,449/mo, private single €1,127/mo; rates vary substantially by season.

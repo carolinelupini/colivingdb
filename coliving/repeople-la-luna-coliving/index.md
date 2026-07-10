@@ -13,6 +13,14 @@
 - **Tags:** city, island, coworking, community
 - **Website:** https://repeople.co
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €390 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 La Luna is a 9-room/12-person permanent house in Santa Cruz de Tenerife; no per-house rate published.

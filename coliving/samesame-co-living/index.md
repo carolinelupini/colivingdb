@@ -12,4 +12,12 @@
 - **Tags:** community, coworking, city
 - **Website:** http://www.samesameliving.com/
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €800 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 Source: https://colivingdb.com/coliving/samesame-co-living/

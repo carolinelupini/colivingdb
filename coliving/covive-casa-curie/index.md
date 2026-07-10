@@ -13,6 +13,14 @@
 - **Tags:** city, coworking, community
 - **Website:** https://covive.mx/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | MXN 15,250 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Covive is a multi-house permanent chain in Mexico; Casa Curie Monterrey page not directly verifiable (404 on direct URL), but sister MXC houses run ~15,250-17,050 MXN/mo private rooms only, no dorm.

@@ -13,6 +13,14 @@
 - **Tags:** beach, surf, coworking, community
 - **Website:** https://nomadico.io
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €715 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Duplicate/near-duplicate of idx 13 (same brand, same Taghazout area); likely mergeable downstream.

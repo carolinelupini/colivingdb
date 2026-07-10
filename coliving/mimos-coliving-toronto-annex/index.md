@@ -13,6 +13,14 @@
 - **Tags:** city, community, coworking
 - **Website:** https://mimoscoliving.com/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | C$1,440 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Site blocked fetch (403); using provided price note: private room ~€1,440/mo discounted from €1,710 (~€48/night), Toronto Annex location.

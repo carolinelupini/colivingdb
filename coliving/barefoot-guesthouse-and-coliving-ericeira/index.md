@@ -12,4 +12,12 @@
 - **Tags:** surf, coworking, community
 - **Website:** http://www.barefootportugal.com/
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €240 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 Source: https://colivingdb.com/coliving/barefoot-guesthouse-and-coliving-ericeira/

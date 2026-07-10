@@ -12,6 +12,15 @@
 - **Tags:** coworking, community, surf
 - **Website:** https://www.matrabali.com/coliving-and-coworking-space
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per night | IDR 350,000 |
+| Per month | IDR 7,500,000 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Private rooms with pool view, top-floor cowork and in-house cafe in central Canggu.

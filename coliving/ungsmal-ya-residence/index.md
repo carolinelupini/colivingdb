@@ -13,6 +13,14 @@
 - **Tags:** island, rural, coworking, community
 - **Website:** https://coliving.com/spaces/daihvsyl
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | BGN 974 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Permanent 17-room property across two houses in Nyksund; all private rooms (shared or private bath), no dorms.

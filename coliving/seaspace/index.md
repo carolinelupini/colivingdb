@@ -13,6 +13,14 @@
 - **Tags:** beach, surf, coworking, community
 - **Website:** https://sea.space/stay-with-us/digital-nomads
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | £1,625 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Permanent Cornwall (Porth) location, studio-style private units from £1625/mo bills included; no shared/dorm options; other unit pricing not published.

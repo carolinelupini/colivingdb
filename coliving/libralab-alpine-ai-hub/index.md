@@ -13,6 +13,14 @@
 - **Tags:** mountain, rural, startup, coworking, community
 - **Website:** https://epic.libralab.ai/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €890 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 AI-themed coliving with per-room pricing €890-1650/mo depending on size/theme (room names like 'Claude'/'GPT-4 Suite' are themed novelty naming, not actual AI-brand affiliation); listed price uses discounted flagship room €990 (from €1170)

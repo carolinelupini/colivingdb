@@ -13,6 +13,15 @@
 - **Tags:** island, beach, community, coworking, rural
 - **Website:** https://www.mapmelon.com/colivings/tulia-community
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per night | €48 |
+| Per month | €1,140 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Private rooms/apartments only, ~€1,140/mo with Mapmelon discount, min stay 6 nights.

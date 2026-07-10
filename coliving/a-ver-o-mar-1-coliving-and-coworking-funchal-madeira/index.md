@@ -12,4 +12,12 @@
 - **Tags:** coworking, island, community
 - **Website:** https://www.averomar.pt/
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €920 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 Source: https://colivingdb.com/coliving/a-ver-o-mar-1-coliving-and-coworking-funchal-madeira/

@@ -13,6 +13,15 @@
 - **Tags:** beach, surf, coworking, community
 - **Website:** https://www.mapmelon.com/colivings/manas-slowliving
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per night | €58 |
+| Per month | €1,050 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Established property built in the 1950s, operates year-round; monthly rate not tied to a specific room type on site.

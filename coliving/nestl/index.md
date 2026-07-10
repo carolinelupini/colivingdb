@@ -12,6 +12,15 @@
 - **Tags:** community, city
 - **Website:** https://www.nestl.com.au/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per week | A$640 |
+| Per month | — |
+
+No nightly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Inner-west Sydney (Newtown, Redfern, Annandale); studios plus share-house format; from $640/week

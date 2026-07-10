@@ -13,6 +13,15 @@
 - **Tags:** city, coworking, community
 - **Website:** https://www.outsite.co/locations/mexico-city-roma-sur
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per night | $56 |
+| Per month | $53 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Loft-style private studios from ~$50-60/night; no monthly rate or dorm option published.

@@ -13,4 +13,12 @@
 - **Region:** Europe
 - **Website:** https://wifitribe.co/chapter-norway-molde/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | $2,390 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 Source: https://colivingdb.com/coliving/wifi-tribe-molde/

@@ -13,4 +13,12 @@
 - **Region:** Europe
 - **Website:** https://wifitribe.co/gran-canaria-agaete/
 
+## Rates
+
+| Stay length | Private | Shared |
+|---|---|---|
+| Per month | $2,390 | $1,390 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 Source: https://colivingdb.com/coliving/wifi-tribe-gran-canaria/

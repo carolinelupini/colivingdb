@@ -13,6 +13,14 @@
 - **Tags:** city, coworking, community
 - **Website:** https://www.neighbourgood.co/84-harrington
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | R24,170 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 84 Harrington aparthotel; site confirms 30+ day stays get up to 40% off but no explicit rate; kept existing ~EUR1,100/mo estimate.

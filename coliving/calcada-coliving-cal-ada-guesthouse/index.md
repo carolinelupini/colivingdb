@@ -13,6 +13,14 @@
 - **Tags:** beach, city, coworking, community
 - **Website:** https://calcadaguesthouse.com/coliving/en.html
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €780 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Permanent, seasonal Nov-Apr operation in Tavira historic centre; only private ensuite rooms offered, no dorm/shared; confirmed €780/mo from listing (site itself didn't show price).

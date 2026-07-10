@@ -13,6 +13,15 @@
 - **Tags:** island, mountain, coworking, community
 - **Website:** https://www.taorocoliving.com
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per week | €432 |
+| Per month | €1,297 |
+
+No nightly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Confirmed fixed location in Santa Úrsula, Tenerife; private rooms €1,097-1,372/mo with 25% off for 28+ night stays.

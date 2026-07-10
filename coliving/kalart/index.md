@@ -13,6 +13,14 @@
 - **Tags:** rural, mountain, community, eco, coworking
 - **Website:** https://www.kalart.org
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €1,020 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Permanent rural coliving in Montseny Valley since 2018, 15 private rooms, no dorm; confirmed ~€34/night private (30-night min ≈ €1,020/mo).

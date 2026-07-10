@@ -12,6 +12,14 @@
 - **Tags:** community, rural, coworking
 - **Website:** https://coliving.com/spaces/7eq4qcbw
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | $949 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Boutique villa-style coliving for up to 21 residents with pool and coworking; 1-month minimum.

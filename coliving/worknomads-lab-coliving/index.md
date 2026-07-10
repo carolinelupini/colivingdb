@@ -13,6 +13,15 @@
 - **Tags:** city, coworking, community
 - **Website:** https://www.worknomadshotel.com/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per night | €70 |
+| Per month | €1,095 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Same physical property/brand as WorkNomads (idx 140) — 'LAB' appears to be the same Sofia hotel-coliving hybrid, likely duplicate listing to merge.

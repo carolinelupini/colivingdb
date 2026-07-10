@@ -13,6 +13,15 @@
 - **Tags:** rural, community, mountain
 - **Website:** https://www.mapmelon.com/colivings/co-living-sojuela-joven
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per night | €21 |
+| Per month | €630 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Rural coliving in La Rioja run by NGO Manfred on Tour; €630/mo private room with meals included.

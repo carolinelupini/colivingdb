@@ -13,6 +13,14 @@
 - **Tags:** city, coworking, community
 - **Website:** https://coliving.com/spaces/kodpbjqc
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €480 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Site shows BGN pricing (likely display bug); private studios only, tiers from ~€685 to ~€843/mo, no dorm beds.

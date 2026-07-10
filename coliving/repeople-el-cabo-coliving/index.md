@@ -13,6 +13,14 @@
 - **Tags:** island, beach, coworking, community
 - **Website:** https://repeople.co
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €870 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 El Cabo is a 31-room/62-person permanent house in Agaete; confirmed rate from EUR29/night for 30+ night stays (~EUR880/mo).

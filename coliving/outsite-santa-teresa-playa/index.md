@@ -13,6 +13,14 @@
 - **Tags:** surf, beach, coworking, community
 - **Website:** https://www.outsite.co/locations/santa-teresa-playa
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | $2,154 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Beachfront coworking-resort style property, private rooms only, pricing gated behind date selection.

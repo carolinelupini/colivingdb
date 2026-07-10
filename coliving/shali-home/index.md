@@ -13,6 +13,14 @@
 - **Tags:** rural, community, eco
 - **Website:** https://coliving.com/spaces/gcgi4sat
 
+## Rates
+
+| Stay length | Private | Dorm |
+|---|---|---|
+| Per month | BGN 514 | BGN 325 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Traditional mud/salt-style villa in Siwa; dorm from BGN326 (~EUR167), private rooms BGN514-583 (~EUR264-299).

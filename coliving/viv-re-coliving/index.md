@@ -12,4 +12,12 @@
 - **Tags:** coworking, community, city
 - **Website:** https://covivere.com.br/
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | BRL 1,950 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 Source: https://colivingdb.com/coliving/viv-re-coliving/

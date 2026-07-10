@@ -13,6 +13,14 @@
 - **Tags:** beach, surf, coworking, community
 - **Website:** https://www.outsite.co/locations/cascais-guincho
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €1,000 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Permanent Outsite villa in Cascais-Guincho; winter rate ~€1,000/month, no dorm mentioned, nightly booking only shown by default.

@@ -13,6 +13,14 @@
 - **Tags:** rural, community, coworking
 - **Website:** https://hubfeenix.fi/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €690 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Permanent restored-sanatorium property in Finnish countryside; site doesn't break down room types beyond the listed €690/mo discounted private rate.

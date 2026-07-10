@@ -13,6 +13,14 @@
 - **Tags:** city, coworking, community
 - **Website:** https://www.neighbourgood.co
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | R13,000 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Confirmed Neighbourgood Newlands is a current active Cape Town branch; no per-branch pricing published on marketing site.

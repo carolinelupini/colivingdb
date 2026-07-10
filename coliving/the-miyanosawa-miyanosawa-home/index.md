@@ -13,6 +13,14 @@
 - **Tags:** city, community
 - **Website:** https://coliving.com/spaces/plfogsdm
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | ¥93,000 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Fixed Sapporo location, hosting since Oct 2016; private rooms from BGN 980-1001/mo (~€501-512), bills included; no dorm option, whole-house rental also available (~€2,689/mo).

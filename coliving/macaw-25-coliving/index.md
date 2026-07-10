@@ -12,4 +12,12 @@
 - **Tags:** beach, coworking, community
 - **Website:** https://www.macaw25.com/
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €754 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 Source: https://colivingdb.com/coliving/macaw-25-coliving/

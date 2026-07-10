@@ -13,6 +13,15 @@
 - **Tags:** beach, surf, coworking, community
 - **Website:** https://sokkool.com/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per night | IDR 880,000 |
+| Per month | IDR 18,480,000 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Private-only rooms priced per night (~IDR 880k-1.26M, roughly €48-73), 5-15% long-stay discounts for 28+ nights; no dorm option found.

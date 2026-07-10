@@ -13,6 +13,14 @@
 - **Tags:** mountain, rural, community, coworking, eco
 - **Website:** https://co-bana.co/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €775 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Confirmed permanent guesthouse/coliving-coworking hub in Zarnesti, Transylvania; all rooms private ensuite, min 1-week stay, ~EUR775/month per given priceNote (site itself returned 403 on fetch).

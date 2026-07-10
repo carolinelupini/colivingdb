@@ -13,6 +13,14 @@
 - **Tags:** beach, coworking, community
 - **Website:** https://locoworkingcostarica.com
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | $680 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 4 private studios only, no dorms; pricing on request, green-season discounts Apr-Oct.

@@ -13,6 +13,15 @@
 - **Tags:** city, coworking, community
 - **Website:** https://pranikliving.com/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per week | $284 |
+| Per month | $1,230 |
+
+No nightly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Private rooms/studios only, priced weekly ($284-$485/wk); Essential Room ~€1,131/mo equivalent before the stated monthly discount.

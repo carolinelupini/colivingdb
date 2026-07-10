@@ -13,6 +13,14 @@
 - **Tags:** mountain, rural, coworking, community
 - **Website:** https://debed.life/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | AMD 28,000 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Debed Life & Perle in Debed Village, Lori region, Armenia; rates published only as nightly AMD (22,000-37,000 AMD/night by room/season), no EUR or monthly figures on site.

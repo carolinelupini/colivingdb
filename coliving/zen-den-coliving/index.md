@@ -13,6 +13,14 @@
 - **Tags:** island, coworking, community
 - **Website:** https://zendentenerife.com/
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €205 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Permanent operation (4+ years) with locations in Tenerife and Tamraght Morocco; site shows no monthly coliving rates, only OTA nightly deals ~€73.

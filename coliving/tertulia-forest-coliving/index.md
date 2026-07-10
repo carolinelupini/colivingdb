@@ -13,6 +13,14 @@
 - **Tags:** rural, mountain, eco, coworking, community
 - **Website:** https://www.mapmelon.com/colivings/tertulia-forest-coliving
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €870 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Same location as idx 212 (Tertulia Farm) in restored 1700s hamlet, Mugello forest near Florence; private room €870/month (discounted from €1,140).

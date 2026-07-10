@@ -13,6 +13,14 @@
 - **Tags:** city, community
 - **Website:** https://mimoscoliving.com/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €480 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Site returned 403 on fetch; used provided priceNote (€480/mo discounted private room) as best available figure — could not independently verify or find dorm info.

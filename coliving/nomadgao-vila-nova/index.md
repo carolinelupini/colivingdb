@@ -13,6 +13,14 @@
 - **Tags:** beach, coworking, community
 - **Website:** https://nomadgao.com/coliving/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | INR 35,000 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Two permanent locations (Anjuna Goa + Dharamkot); private rooms only, no dorm; no monthly EUR pricing published on site.

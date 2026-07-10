@@ -14,6 +14,14 @@
 - **Tags:** mountain, ski, coworking, community
 - **Website:** https://coliving.com/spaces/h8bsj5zy
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | $833 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Runs a seasonal 'Coliving Season' each June & July rather than year-round; converted from BGN 1,424/mo at fixed peg 1.9558.

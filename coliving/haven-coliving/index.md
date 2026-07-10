@@ -13,6 +13,14 @@
 - **Tags:** beach, city, community
 - **Website:** https://havencoliving.com/
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | $995 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Single fixed Venice, CA location; two shared-pod tiers $995 (~€915) and $1095 (~€1008)/month; Japanese-style sleeping pods with privacy curtains, not open dorms.

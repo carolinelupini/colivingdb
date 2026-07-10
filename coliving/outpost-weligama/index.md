@@ -13,6 +13,14 @@
 - **Tags:** beach, surf, coworking, community
 - **Website:** https://destinationoutpost.co
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | $849 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Permanent locations (Bali + Weligama Sri Lanka); Colive+ private room from $849/mo (~€780), no dorm option found.

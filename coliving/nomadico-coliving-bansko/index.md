@@ -13,6 +13,15 @@
 - **Tags:** mountain, ski, coworking, community
 - **Website:** https://www.nomadico.io/bansko-coliving
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per week | €265 |
+| Per month | €638 |
+
+No nightly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Permanent Bansko coliving across two houses (Adriana's Home, Heritage Home); private shared-bath €638/mo, private ensuite €746/mo — more granular than prior flat €840 note.

@@ -12,4 +12,12 @@
 - **Tags:** surf, beach, coworking
 - **Website:** https://sugarhostel.com/
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | $99 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 Source: https://colivingdb.com/coliving/sugar-hostel-weligama-coliving-and-coworking/

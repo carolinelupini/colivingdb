@@ -13,6 +13,14 @@
 - **Tags:** city, coworking, community
 - **Website:** https://www.neighbourgood.co
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | R13,000 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 'Romney' not found among current Neighbourgood Cape Town branches (Newlands, 84 Harrington, Hill, De Wet, Cape Quarter) — may be renamed or delisted.

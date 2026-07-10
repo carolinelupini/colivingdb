@@ -13,6 +13,14 @@
 - **Tags:** rural, mountain, coworking, community
 - **Website:** https://wonderhousecoliving.com/
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €750 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Confirmed permanent 14th-century restored masia in Girona; exact monthly rates not published on-site, using existing priceNote figures.

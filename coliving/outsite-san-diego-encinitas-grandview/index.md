@@ -13,6 +13,15 @@
 - **Tags:** beach, surf, coworking, community
 - **Website:** https://www.outsite.co/locations/san-diego-encinitas-grandview
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per night | — |
+| Per month | $6,897 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Members-only, exact pricing gated behind date selection on booking system; no dorm option evident.

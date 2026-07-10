@@ -13,6 +13,14 @@
 - **Tags:** rural, coworking, community
 - **Website:** https://remoters.net/tamachat-muay-thai/
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €2,400 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 All-inclusive flat rate €2400/mo covers food+training regardless of room type; has shared twin/triple rooms bookable per-bed plus one private double.

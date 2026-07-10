@@ -13,6 +13,14 @@
 - **Tags:** mountain, ski, coworking, community, rural
 - **Website:** https://swissalpscoliving.com/
 
+## Rates
+
+| Stay length | Private | Shared |
+|---|---|---|
+| Per month | CHF 1,500 | CHF 700 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Same site/brand as idx 456 (Liddes, Valais); no separate dorm pricing found, likely duplicate listing.

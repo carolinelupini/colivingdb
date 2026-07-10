@@ -13,6 +13,15 @@
 - **Tags:** mountain, coworking, community, city
 - **Website:** https://www.nomadico.io/kotor-coliving
 
+## Rates
+
+| Stay length | Private | Shared |
+|---|---|---|
+| Per week | €353 | €209 |
+| Per month | €980 | €690 |
+
+No nightly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Operates seasonally (Oct23-Dec13 & Mar1-Apr30) across two properties (Nest Hub/Nest Home, partnered with Kotor Nest); private rooms €980-1280/4wks, shared €690pp.

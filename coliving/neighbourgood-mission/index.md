@@ -13,6 +13,14 @@
 - **Tags:** city, community
 - **Website:** https://www.neighbourgood.co
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | $1,395 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Confirmed fixed address 2072 Mission St, San Francisco (aka 'The Mission Coliving'); studios $1,395-$1,695/mo (~€1283-1560); apartment listing sites indicate property may not currently be accepting new tenants.

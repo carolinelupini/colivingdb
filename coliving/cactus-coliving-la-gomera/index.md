@@ -13,6 +13,14 @@
 - **Tags:** island, mountain, coworking, community
 - **Website:** https://www.cactuscoliving.com/
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €690 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Same brand as Cactus Coliving Tenerife (idx 352); La Gomera location opened separately; shared from €686/mo, private from €874-1053/mo on 2+ month stays.

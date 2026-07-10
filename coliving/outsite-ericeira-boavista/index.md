@@ -13,6 +13,14 @@
 - **Tags:** beach, surf, coworking, community
 - **Website:** https://www.outsite.co/locations/ericeira-boavista
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €800 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Permanent Ericeira surf lodge; offers both private rooms and dorm beds, winter promo from €800/month (dorm price unpriced separately).

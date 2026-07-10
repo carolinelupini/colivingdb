@@ -13,6 +13,14 @@
 - **Tags:** surf, beach, coworking, community
 - **Website:** http://laislasl.com
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per night | $35 |
+| Per week | $185 |
+| Per month | $500 |
+
 ## About
 
 Site fetch failed but search confirms permanent AC ocean-view rooms from $35/night (~€980/mo est), no dorm found

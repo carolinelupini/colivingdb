@@ -13,6 +13,14 @@
 - **Tags:** island, eco, community
 - **Website:** https://cocovivo.com
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | $1,650 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 55-acre off-grid eco-retreat on Isla Cristobal, cabin-only, no dorm, monthly rate not published (nightly Airbnb booking only).

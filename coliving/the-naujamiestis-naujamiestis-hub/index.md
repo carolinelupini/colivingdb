@@ -13,6 +13,14 @@
 - **Tags:** city, coworking, community
 - **Website:** https://coliving.com/spaces/t4plhpwe
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €480 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Site displays prices in BGN (likely a currency-display bug for a Lithuania listing); converted private studio ~€696/mo, no dorm/shared option offered.

@@ -12,4 +12,12 @@
 - **Tags:** beach, coworking, community
 - **Website:** https://www.zag.uy/
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | $650 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 Source: https://colivingdb.com/coliving/zag-coliving/

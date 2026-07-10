@@ -12,6 +12,14 @@
 - **Tags:** community, coworking, beach
 - **Website:** https://coworkingdanang.com/coliving/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | VND 25,000,000 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Founder-run pop-up villa coliving with coworking; runs seasonal 1-2 month sessions.

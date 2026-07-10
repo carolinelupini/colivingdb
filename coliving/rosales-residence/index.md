@@ -13,6 +13,14 @@
 - **Tags:** city, coworking, community
 - **Website:** https://coliving.com/spaces/syb1zbe8
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | $943 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Private studios only, priced in BGN (coliving.com currency quirk, not local currency); Standard Studio from BGN 1,699/mo ≈ €866.

@@ -13,6 +13,14 @@
 - **Tags:** beach, surf, coworking
 - **Website:** https://coliving.com/spaces/klomftm3
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | $1,818 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 All-private-room permanent residence, standard room from BGN 3,854 (~€1,971/mo), no shared/dorm rooms offered.

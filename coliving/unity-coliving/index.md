@@ -13,6 +13,14 @@
 - **Tags:** city, community, eco, coworking
 - **Website:** https://unitycoliving.com
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | $330 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Intentional community, ~15 residents, permaculture garden; no pricing on own site, bookable via Airbnb/Coliving.com only.

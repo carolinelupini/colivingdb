@@ -12,4 +12,12 @@
 - **Tags:** community, coworking, city
 - **Website:** https://livcolife.com/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €660 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 Source: https://colivingdb.com/coliving/liv-colife-coliving/

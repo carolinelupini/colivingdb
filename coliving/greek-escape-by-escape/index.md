@@ -13,6 +13,14 @@
 - **Tags:** coworking, community, rural
 - **Website:** https://www.ourescape.co/greek-escape
 
+## Rates
+
+| Stay length | Private | Shared |
+|---|---|---|
+| Per month | €1,100 | €750 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Same fixed Gerani, Crete property as idx 182 (Greek Escape by ESCAPE); confirmed shared twin EUR750/mo (EUR235/wk) matches source note; also single EUR1,100/mo and double EUR1,350/mo available.

@@ -13,6 +13,14 @@
 - **Tags:** rural, coworking, community, eco
 - **Website:** https://pomar-coliving.com/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €1,290 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 URL 404s; POMAR's own site references only 'POMAR Base' (under renovation) and 'POMAR na Praia', no 'na Serra'/Moncarapacho location found — likely renamed, merged, or delisted.

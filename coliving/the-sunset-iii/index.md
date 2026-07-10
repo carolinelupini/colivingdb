@@ -13,6 +13,14 @@
 - **Tags:** beach, island, coworking, community
 - **Website:** https://coliving.com/spaces/tjvbozco
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | IDR 8,700,000 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Confirmed permanent property (Sunset Collective III, Kuta) with 37 bedrooms/up to 79 guests; studio queen from BGN 1,015/mo (~€519), no dorm beds found.

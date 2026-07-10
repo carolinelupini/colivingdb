@@ -13,6 +13,14 @@
 - **Tags:** surf, beach, island, coworking, community
 - **Website:** https://www.surfescape.com
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €850 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Brand runs multiple permanent boutique surf-coliving properties (Fuerteventura, Sri Lanka, Zanzibar); rooms from ~€850/month per listing note, exact tier pricing on external booking platforms only.

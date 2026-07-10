@@ -13,6 +13,15 @@
 - **Tags:** city, coworking, community
 - **Website:** https://www.mapmelon.com/colivings/coliving-compostela
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per night | €27 |
+| Per month | €720 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Private en-suite rooms only, ~€720/mo (discounted from €810), 15-night minimum stay, no shared/dorm option.

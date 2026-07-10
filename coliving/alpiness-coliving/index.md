@@ -13,6 +13,14 @@
 - **Tags:** mountain, ski, rural, community, coworking
 - **Website:** https://www.mapmelon.com/colivings/alpiness-coliving
 
+## Rates
+
+| Stay length | Private | Shared |
+|---|---|---|
+| Per month | CHF 1,590 | CHF 1,200 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Confirmed permanent fixed location in Evolène; site shows discounted monthly rate of €990 (from €1,320), no clear shared/dorm breakdown found.

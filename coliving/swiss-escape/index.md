@@ -13,6 +13,14 @@
 - **Tags:** mountain, ski, coworking, community
 - **Website:** https://www.ourescape.co/swiss-escape
 
+## Rates
+
+| Stay length | Shared |
+|---|---|
+| Per month | CHF 990 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Permanent two-chalet coliving in Grimentz; CHF 990 shared/twin, CHF 1690 single, CHF 1962 double (28-day basis).

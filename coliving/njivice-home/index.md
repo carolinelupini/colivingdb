@@ -13,6 +13,14 @@
 - **Tags:** beach, coworking, community
 - **Website:** https://coliving.com/spaces/wt14vzgy
 
+## Rates
+
+| Stay length | Private | Shared |
+|---|---|---|
+| Per month | €650 | €360 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Prices listed in BGN (fixed peg ~1.9558): private single from BGN1272 (~€650), private w/balcony BGN1467 (~€750), 4-bed mixed dorm/shared from BGN705 (~€360).

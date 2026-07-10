@@ -13,6 +13,14 @@
 - **Tags:** island, coworking, community
 - **Website:** https://www.ikigaicoliving.com/
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per night | €36 |
+| Per week | €217 |
+| Per month | €728 |
+
 ## About
 
 Permanent 7-room coliving in Puerto de la Cruz, single/double private rooms only, no dorm, rates on request/booking page.

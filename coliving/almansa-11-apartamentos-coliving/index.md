@@ -12,4 +12,13 @@
 - **Tags:** community, coworking, city
 - **Website:** http://www.almansa11.com/
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per night | €50 |
+| Per month | €550 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 Source: https://colivingdb.com/coliving/almansa-11-apartamentos-coliving/

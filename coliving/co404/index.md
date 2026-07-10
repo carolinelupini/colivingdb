@@ -13,6 +13,14 @@
 - **Tags:** city, community, coworking
 - **Website:** https://co404.com
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | $362 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Umbrella brand page confirms 3 permanent locations (Oaxaca, San Cristobal, Medellin), operating since 2021; Medellin cheapest at $362/mo (~€337).

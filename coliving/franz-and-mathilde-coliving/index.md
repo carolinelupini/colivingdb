@@ -13,6 +13,14 @@
 - **Tags:** mountain, rural, coworking, community
 - **Website:** https://franzundmathilde.com/
 
+## Rates
+
+| Stay length | Private | Shared |
+|---|---|---|
+| Per month | €1,620 | €1,512 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Fixed small retreat (~6 rooms) in Tisens/Tesimo, South Tyrol; dedicated pricing page exists at franzundmathilde.com/more/pricing/ but exact monthly rate not extracted; offers 10% discount for 28+ night stays.

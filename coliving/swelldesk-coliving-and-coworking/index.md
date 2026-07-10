@@ -13,6 +13,15 @@
 - **Tags:** surf, beach, coworking, community
 - **Website:** https://www.swelldesk.com/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per night | €38 |
+| Per month | €960 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Permanent coliving/coworking space in Baleal/Peniche; three private room tiers priced nightly (Farol from €32/night ≈€960/mo, Baleia €36/night, Lagide €38/night), no dorm option.

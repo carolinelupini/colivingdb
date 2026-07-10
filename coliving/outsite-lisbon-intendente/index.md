@@ -13,6 +13,14 @@
 - **Tags:** city, coworking, community
 - **Website:** https://www.outsite.co/locations/lisbon-intendente
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €1,000 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Members-only winter promo rate (€1,000/mo) published; standard rates require date selection.

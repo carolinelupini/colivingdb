@@ -13,6 +13,14 @@
 - **Tags:** city, coworking, community
 - **Website:** https://caminhocoliving.pt/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €595 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Permanent Porto-area coliving (Moreira, Maia), ~100-person capacity across 5 rooms/8 shared spaces; site did not display prices, retained provided figures (dorm from €550, private from €715).

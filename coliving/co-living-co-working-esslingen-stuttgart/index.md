@@ -12,4 +12,12 @@
 - **Tags:** community, coworking, startup
 - **Website:** https://www.cowocoli.de/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €645 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 Source: https://colivingdb.com/coliving/co-living-co-working-esslingen-stuttgart/

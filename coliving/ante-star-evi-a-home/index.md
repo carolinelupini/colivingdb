@@ -14,6 +14,14 @@
 - **Tags:** beach, community
 - **Website:** https://coliving.com/spaces/kir2txmg
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | BGN 1,272 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Summer guest house converted to coliving only during winter — seasonal, not year-round; converted from BGN 1,272/mo at fixed peg 1.9558.

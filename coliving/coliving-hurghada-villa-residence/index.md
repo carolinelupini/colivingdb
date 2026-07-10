@@ -13,6 +13,14 @@
 - **Tags:** beach, coworking, community
 - **Website:** https://coliving.com/spaces/iyyt0bxc
 
+## Rates
+
+| Stay length | Private | Shared |
+|---|---|---|
+| Per month | €600 | €480 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Fixed villa residence in Mubarak 7 district near El Gouna, est. May 2023; shared/private single both start at BGN 1,234 (~EUR631); suites go up to BGN 2,158 (~EUR1,103).

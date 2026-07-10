@@ -13,6 +13,15 @@
 - **Tags:** city, coworking, community
 - **Website:** https://capecoliving.com/
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per night | €44 |
+| Per month | €1,095 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Fixed villa in Green Point, Cape Town with 9 en-suite private rooms + 1 cottage, no dorms; pricing not published on site.

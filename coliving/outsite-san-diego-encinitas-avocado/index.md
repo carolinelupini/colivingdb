@@ -13,6 +13,15 @@
 - **Tags:** beach, surf, coworking, community
 - **Website:** https://www.outsite.co/locations/san-diego-encinitas-avocado
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per night | — |
+| Per month | $6,897 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 3-bedroom duplex (1 studio + 2 private rooms, each with own bathroom), no dorm option; pricing gated behind date picker.

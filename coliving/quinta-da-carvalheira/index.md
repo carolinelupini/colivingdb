@@ -13,6 +13,15 @@
 - **Tags:** rural, community, eco
 - **Website:** https://www.mapmelon.com/colivings/quinta-da-carvalheira
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per night | €20 |
+| Per month | €510 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 17th-century farmhouse coliving in Soure; only listed via Mapmelon (no independent operator site found); one rate €510/month (discounted from €600).

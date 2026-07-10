@@ -13,6 +13,15 @@
 - **Tags:** rural, community, coworking
 - **Website:** https://www.mapmelon.com/colivings/la-loba-the-space
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per night | €24 |
+| Per month | €630 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Fixed rural coliving in Galicia; €630/mo private room (discounted from €750), €24/night; women-owned, 7-night minimum.

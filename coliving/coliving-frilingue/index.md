@@ -13,6 +13,14 @@
 - **Tags:** mountain, ski, rural, community, coworking
 - **Website:** https://coliving.frilingue.ch
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €500 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Operator runs 5 fixed coliving spaces across Swiss Alps/Montenegro/Bulgaria (each a permanent location, brand shared); offers individual/double/3-4 bed shared rooms; workations from €650 per 2 weeks all-inclusive.

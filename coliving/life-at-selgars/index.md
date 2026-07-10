@@ -13,6 +13,14 @@
 - **Tags:** rural, community, eco
 - **Website:** https://www.selgars.org/lifeatselgars
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | £1,200 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Permanent estate in Uffculme, Devon; site withholds pricing (inquiry-only), booking now for 5th season Oct 12 2026-Apr 25 2027 — seasonal operation but fixed single venue.

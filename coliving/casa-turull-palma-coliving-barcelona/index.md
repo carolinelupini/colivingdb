@@ -13,6 +13,14 @@
 - **Tags:** city, community, coworking
 - **Website:** https://palmacoliving.co/locations-barcelona/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €1,380 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Casa Turull is one of several fixed Palma Coliving locations; private rooms from €1380-1650/month, 30-night minimum stay, no single/dorm rooms offered; site returned 503 on direct fetch, confirmed via search.

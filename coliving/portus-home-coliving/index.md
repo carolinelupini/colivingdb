@@ -13,6 +13,14 @@
 - **Tags:** rural, coworking, community
 - **Website:** https://portushome.hu/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | HUF 750,000 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Fixed permanent coliving in Vászoly, Hungary; site prices only in HUF/night (Ft25,000-38,000), no monthly or EUR figures — est. private room from ~€900/mo based on ~€24/day floor cited.

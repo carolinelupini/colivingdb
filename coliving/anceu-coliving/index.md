@@ -13,6 +13,15 @@
 - **Tags:** rural, coworking, community, eco
 - **Website:** https://anceu.com/
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per night | €45 |
+| Per month | €882 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Confirmed permanent rural coliving in Galicia; private ensuite from EUR882/month, 15-60 day stays, no dorm option.

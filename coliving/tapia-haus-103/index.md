@@ -13,6 +13,14 @@
 - **Tags:** city, coworking, community
 - **Website:** https://coliving.com/spaces/taja3hel
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | $1,280 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Santurce San Juan coliving, 10 private bedrooms only (no dorms), from BGN4282 (~EUR2184)/mo studio, breakfast included.

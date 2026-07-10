@@ -13,6 +13,14 @@
 - **Tags:** island, beach, coworking, community
 - **Website:** https://nomadico.io
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €980 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Main site is a network hub listing 20+ locations worldwide (Gran Canaria not distinctly detailed); treat as brand homepage rather than single-property page.

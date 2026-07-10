@@ -13,6 +13,14 @@
 - **Tags:** beach, coworking, community
 - **Website:** https://www.kalimabeachlife.com
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €780 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Permanent 10-bedroom coliving in Caldes d'Estrac; monthly-rate nightly prices found: single €26/night (~€780/mo), double standard €39/night, queen double €48/night (~€1,440/mo) - treating single as shared-tier equivalent, queen double as private.

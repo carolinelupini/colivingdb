@@ -13,6 +13,15 @@
 - **Tags:** city, island, coworking, beach
 - **Website:** https://coliving1907.com/en/
 
+## Rates
+
+| Stay length | Private | Shared |
+|---|---|---|
+| Per night | €30 | €29 |
+| Per month | €870 | — |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Historic house in Las Palmas, opened Nov 2021, 8 rooms; private-bath rooms ~€930/mo, shared-bath rooms ~€870/mo (rates approximated from nightly).

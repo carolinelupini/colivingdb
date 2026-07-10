@@ -13,6 +13,15 @@
 - **Tags:** beach, surf, coworking, community
 - **Website:** https://www.outsite.co/locations/san-diego-ponto-house
 
+## Rates
+
+| Stay length | Private | Shared |
+|---|---|---|
+| Per night | — | — |
+| Per month | $6,897 | $2,209 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Members-only, nightly rates $137-275 for nearby properties visible but monthly pricing gated; no dorm option.

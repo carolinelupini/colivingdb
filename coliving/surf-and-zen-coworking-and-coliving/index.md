@@ -12,4 +12,12 @@
 - **Tags:** surf, beach, coworking
 - **Website:** https://www.surfandzen.com/
 
+## Rates
+
+| Stay length | Private | Dorm |
+|---|---|---|
+| Per night | $65 | $25 |
+
+No weekly or monthly rate is published by the operator. Rates are never derived from another duration.
+
 Source: https://colivingdb.com/coliving/surf-and-zen-coworking-and-coliving/

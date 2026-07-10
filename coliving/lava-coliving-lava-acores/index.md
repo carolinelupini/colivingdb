@@ -13,6 +13,14 @@
 - **Tags:** surf, beach, island, coworking, community
 - **Website:** https://www.lavacoliving.com/
 
+## Rates
+
+| Stay length | Private | Shared |
+|---|---|---|
+| Per month | €750 | €750 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Nightly-rate model (25/35 EUR) with long-stay discounts up to 20% for 2-month stays; no dorm option.

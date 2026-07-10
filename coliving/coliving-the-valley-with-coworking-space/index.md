@@ -13,6 +13,15 @@
 - **Tags:** rural, mountain, coworking, community
 - **Website:** https://www.mapmelon.com/colivings/coliving-the-valley-with-coworking-space
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per night | €48 |
+| Per month | €510 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Confirmed permanent countryside coliving in Roge/Vale de Cambra; €510/mo discounted private room (Superior/Deluxe tiers), no shared/dorm tier shown.

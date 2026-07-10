@@ -12,4 +12,13 @@
 - **Tags:** coworking, community, city
 - **Website:** http://unionspace.co.th/coliving-bangkok.php
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per night | THB 450 |
+| Per month | — |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 Source: https://colivingdb.com/coliving/the-capsule-by-unionspace/

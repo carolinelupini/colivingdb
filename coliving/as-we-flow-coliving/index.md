@@ -13,6 +13,14 @@
 - **Tags:** beach, community, coworking
 - **Website:** https://www.mapmelon.com/colivings/as-we-flow-coliving
 
+## Rates
+
+| Stay length | Private | Shared |
+|---|---|---|
+| Per month | €1,350 | €1,200 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Fixed permanent location in Porto Cervo, North Sardinia; private room €1,350/mo (discounted from €1,500), from €50/night; no dorm/shared option mentioned.

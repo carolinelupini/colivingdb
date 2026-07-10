@@ -12,4 +12,12 @@
 - **Tags:** community, coworking, rural
 - **Website:** https://livinganywherecommons.com/base/tagawa/
 
+## Rates
+
+| Stay length | Dorm |
+|---|---|
+| Per night | ¥6,600 |
+
+No weekly or monthly rate is published by the operator. Rates are never derived from another duration.
+
 Source: https://colivingdb.com/coliving/livinganywhere-commons/

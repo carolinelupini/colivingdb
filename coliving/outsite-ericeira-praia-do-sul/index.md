@@ -13,6 +13,14 @@
 - **Tags:** beach, surf, coworking, community
 - **Website:** https://www.outsite.co/locations/ericeira-praia-do-sul
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €1,000 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Permanent Outsite Praia do Sul: four villas with ensuite private bedrooms only; winter promo from €1,000/month, no dorm option.

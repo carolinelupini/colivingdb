@@ -13,6 +13,14 @@
 - **Tags:** city, community, coworking
 - **Website:** https://www.vivariumcoliving.com/
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €985 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Permanent small coliving in Valencia, 24 private rooms with private bathrooms, no dorm option mentioned on site.

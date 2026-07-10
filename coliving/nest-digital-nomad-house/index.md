@@ -12,6 +12,14 @@
 - **Tags:** community, coworking, city
 - **Website:** https://www.nestdigitalnomad.com/
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €435 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Community-focused nomad house in Kadikoy with a coworking area and 500 Mbps wifi; private rooms only.

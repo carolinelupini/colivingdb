@@ -13,6 +13,14 @@
 - **Tags:** surf, beach, coworking, community
 - **Website:** https://wotsoul.com/en/our-hotels/wot-soul-ericeira-lodge/
 
+## Rates
+
+| Stay length | Private | Shared |
+|---|---|---|
+| Per week | €485 | €451 |
+
+No nightly or monthly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Cooliving monthly rates only available on request (sales@wotels.com); no dorm beds offered despite listing suggesting one; site is part of WOTELS hostel/hotel portfolio

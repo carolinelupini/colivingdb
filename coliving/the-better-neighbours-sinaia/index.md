@@ -13,4 +13,13 @@
 - **Region:** Europe
 - **Website:** https://thebetterneighbors.com/romania
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per week | €180 |
+| Per month | €670 |
+
+No nightly rate is published by the operator. Rates are never derived from another duration.
+
 Source: https://colivingdb.com/coliving/the-better-neighbours-sinaia/

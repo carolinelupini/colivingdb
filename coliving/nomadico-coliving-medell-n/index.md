@@ -13,6 +13,15 @@
 - **Tags:** city, coworking, community
 - **Website:** https://www.nomadico.io/medellin-coliving
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per week | $321 |
+| Per month | $955 |
+
+No nightly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Fixed Belén/Laureles studio building; private studios only from $955 USD/mo (~€859), no shared/dorm; tiered pricing (Standard/Plus/Premium/Deluxe) up to $1,495.

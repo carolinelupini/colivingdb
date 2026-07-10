@@ -13,6 +13,14 @@
 - **Tags:** rural, coworking, community
 - **Website:** https://cocohub.io/europe/italy/citta-della-pieve/il-fornello
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per month | €700 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 No pricing published on site; offers private apartments only, no dorm; monthly stays arranged via Airbnb/direct.

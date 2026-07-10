@@ -13,6 +13,15 @@
 - **Tags:** city, coworking, community
 - **Website:** https://www.outsite.co/locations/new-york-chelsea
 
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per night | — |
+| Per month | $3,900 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Classic 1848 Chelsea brownstone with community manager; pricing gated behind date picker, no monthly figure.

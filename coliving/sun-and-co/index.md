@@ -13,6 +13,15 @@
 - **Tags:** beach, community, coworking, city
 - **Website:** https://sun-and-co.com
 
+## Rates
+
+| Stay length | Private | Shared |
+|---|---|---|
+| Per night | €40 | €23 |
+| Per month | — | — |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Confirmed fixed location in Jávea since 2015; daily rates convert to roughly €690/mo shared, €1,200/mo private (nav mentions a past 'Pop-up Experience' but main operation is permanent).

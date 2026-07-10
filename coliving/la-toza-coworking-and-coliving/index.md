@@ -13,6 +13,15 @@
 - **Tags:** rural, mountain, eco, coworking, community
 - **Website:** https://www.mapmelon.com/colivings/la-toza-cowoking-coliving
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per night | €32 |
+| Per month | €870 |
+
+No weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Fixed rural location in Valle del Jerte; €870/mo private/shareable room (discounted from €960), €32/night, 15-night minimum, meals included.

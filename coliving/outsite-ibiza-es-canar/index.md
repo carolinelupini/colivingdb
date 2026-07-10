@@ -13,6 +13,14 @@
 - **Tags:** beach, island, coworking, community
 - **Website:** https://www.outsite.co/locations/ibiza-es-canar
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €1,000 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Confirmed permanent Art Deco beach house location in Es Canar; only a winter promo rate (from EUR1000/mo, Dec26-Feb27) is shown, no standard rate published.

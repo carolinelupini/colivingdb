@@ -13,6 +13,14 @@
 - **Tags:** city, coworking, community
 - **Website:** https://www.outsite.co/locations/medellin-el-poblado
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per night | $35 |
+
+No weekly or monthly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Fixed El Poblado location, part of Outsite network; live pricing requires selecting trip dates on-site, from ~$49.90/night comparable, no dorm mentioned.

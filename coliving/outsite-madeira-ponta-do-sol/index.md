@@ -13,6 +13,14 @@
 - **Tags:** beach, island, coworking, community
 - **Website:** https://www.outsite.co/locations/madeira-ponta-do-sol
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €1,700 |
+
+No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+
 ## About
 
 Oceanfront coliving in Madeira's nomad village; only winter promo rate (€1,700/mo, Nov 26–Feb 27) published.
