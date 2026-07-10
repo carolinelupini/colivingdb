@@ -5,11 +5,11 @@
 - **Location:** Jambiani, Zanzibar, Tanzania
 - **Type:** Pop-up / dated edition
 - **Dates:** May 10 - Jun 7, 2027 (also Oct 2026 cohort listed, specific dates unpublished)
-- **Price:** from $1,886/mo
+- **Price:** On request
 - **Room types:** —
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Africa
-- **Website:** https://www.africanomads.co
+- **Website:** https://www.africanomads.co/digital-nomads-zanzibar-2027
 
 Source: https://colivingdb.com/coliving/africanomads-zanzibar/

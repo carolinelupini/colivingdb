@@ -5,11 +5,12 @@
 - **Location:** Florianópolis, Brazil
 - **Type:** Pop-up / dated edition
 - **Dates:** Nov 20 - Dec 18, 2026
-- **Price:** from $1,190/mo
+- **Price:** from $1,290/mo (≈€1,129)
+- **Price note:** coliving accommodation (shared room, Veteran tier) + coworking + community activities + fitness sessions for the month-long chapter
 - **Room types:** —
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Latin America
-- **Website:** https://wifitribe.co
+- **Website:** https://wifitribe.co/brazil-florianopolis/
 
 Source: https://colivingdb.com/coliving/wifi-tribe-florian-polis/

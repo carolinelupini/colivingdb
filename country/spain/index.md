@@ -45,7 +45,6 @@
 | Oasis Coliving | Playa de las Americas, Tenerife | from €849/mo | private | — | Permanent |
 | Sende Coliving | Senderiz, Ourense, Galicia | from €850/mo | private, shared | 7 nights (~1 week) | Permanent |
 | Surfescape | Lajares, Fuerteventura | from €850/mo | private, shared, apartment | — | Permanent |
-| OPENORBI | Ávila area (rural, ~2hrs from Madrid) | from €866/mo | — | — | Pop-up |
 | Coliving 1907 | Las Palmas, Gran Canaria | from €870/mo | private | — | Permanent |
 | La Toza Coworking & Coliving | Cabrero | from €870/mo | private | 15 nights | Permanent |
 | Repeople Coliving | Las Palmas de Gran Canaria | from €880/mo | private | — | Permanent |
@@ -75,6 +74,7 @@
 | Casa Gori — Coliving, Art Studio & Gardens | Valencia | from €1,200/mo | — | — | Permanent |
 | Folks Coliving | Valencia | from €1,200/mo | private | 11 nights | Permanent |
 | Laberint Coliving | Palma de Mallorca | from €1,200/mo | private | 32 nights | Permanent |
+| WiFi Tribe — Gran Canaria | Gran Canaria | from $1,390/mo (≈€1,216) | — | — | Pop-up |
 | Wolfhouse | Los Gigantes, Tenerife | from €1,350/mo | private | — | Permanent |
 | Casa Turull (Palma Coliving Barcelona) | Barcelona | from €1,380/mo | private | 30 nights (~1 month) | Permanent |
 | Town House Gomila - Palma Coliving Mallorca | Palma de Mallorca | from €1,500/mo | private | — | Permanent |
@@ -96,6 +96,7 @@
 | La Casita Coliving | Costa Adeje, Tenerife | On request | private, shared | — | Permanent |
 | La Meca Coliving | Los Caños de Meca | On request | private | — | Permanent |
 | Mas Pujols | Sant Boi de Llucanes (Catalonia) | On request | private | — | Permanent |
+| OPENORBI | Ávila area (rural, ~2hrs from Madrid) | from €200 per event | — | — | Pop-up |
 | Ojalá Casa | La Caleta, Costa Adeje, Tenerife | On request | private | 30 nights (~1 month) | Permanent |
 | ReStation | Las Palmas de Gran Canaria | On request | — | — | Permanent |
 | Repeople Casa Jardin Coliving | Las Palmas de Gran Canaria | from €1,677/mo | private | — | Permanent |
@@ -105,8 +106,7 @@
 | The Cocotera Hostel & Coworking | Tarifa | On request | private, dorm | — | Permanent |
 | The Wave Temple | Surfhouse, Coliving | Las Palmas de Gran Canaria | On request | — | — | Permanent |
 | Tulia Guesthouse | Los Realejos | On request | private, shared | — | Permanent |
-| Tursi Digital Nomads — Tenerife (Canary Islands) | Tenerife (Canary Islands) | On request | — | — | Pop-up |
-| WiFi Tribe — Gran Canaria | Gran Canaria | from $1,190/mo | — | — | Pop-up |
+| Tursi Digital Nomads — Tenerife (Canary Islands) | Tenerife (Canary Islands) | from €400 per event | — | — | Pop-up |
 | Zen Den Coliving | Arona (Tenerife) | from €205/mo | private | — | Permanent |
 
 ## Price distribution
@@ -115,8 +115,8 @@
 |---|---|
 | 0–500 | 5 |
 | 500–800 | 25 |
-| 800–1200 | 36 |
-| 1200–2000 | 10 |
+| 800–1200 | 35 |
+| 1200–2000 | 11 |
 | 2000–∞ | 1 |
 
 ## Upcoming pop-ups

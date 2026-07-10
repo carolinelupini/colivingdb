@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| AfricaNomads — Lamu Island | Lamu Island | from $1,885/mo | — | — | Pop-up |
+| AfricaNomads — Lamu Island | Lamu Island | On request | — | — | Pop-up |
 
 ## Upcoming pop-ups
 

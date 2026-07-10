@@ -5,7 +5,7 @@
 - **Location:** Palermo, Italy
 - **Type:** Pop-up / dated edition
 - **Dates:** Jul 2026
-- **Price:** from $1,290/mo
+- **Price:** On request
 - **Room types:** —
 - **Dorm available:** No
 - **Minimum stay:** —

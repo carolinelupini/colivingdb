@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>colivingDB — find colivings anywhere</title>
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%230e7c66'/%3E%3Ctext x='16' y='23' font-family='Arial,sans-serif' font-size='20' font-weight='bold' fill='white' text-anchor='middle'%3Ec%3C/text%3E%3C/svg%3E">
+<!--FAVICON-START--><link rel="icon" href="/favicon.ico" sizes="32x32"><link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><!--FAVICON-END-->
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-GBDMVK7LWL"></script>
 <script>
@@ -341,8 +341,11 @@ const toEur   = (a,cur)=> a==null?null:((cur==="EUR"||!cur)?a:(RATES[cur]?a/RATE
 const fromEur = (e,cur)=> e==null?null:((cur==="EUR"||!cur)?e:(RATES[cur]?e*RATES[cur]:null));
 function fmtMoney(a,cur){ try{ return new Intl.NumberFormat('en',{style:'currency',currency:cur,maximumFractionDigits:0,currencyDisplay:'narrowSymbol'}).format(a);}catch(e){ return cur+" "+Math.round(a).toLocaleString(); } }
 const nativeCurOf = x => x.nativeCurrency || "EUR";
-// label for a whole-ticket price: "per cruise" reads better than "per event" on a cruise
-const eventUnit = x => / cruise|cruise —|Cruise/.test(x.name) ? " per cruise" : " per event";
+// label for a non-monthly price. "per cruise" reads better than "per event" on a cruise.
+function unitLabel(x){
+  if(x.priceUnit==="week") return " per week";
+  return /cruise/i.test(x.name) ? " per cruise" : " per event";
+}
 // price filter buckets are held in EUR (the common denominator for x.priceEurMonthly),
 // but labelled in the chosen display currency so the filter matches what the user sees.
 const PRICE_BUCKETS=[600,900,1200,2000];
@@ -537,13 +540,13 @@ function focusRecord(idx){
 }
 
 function priceCell(x){
-  // Event-priced entries (cruises, camps) sell a ticket for the whole thing, not a monthly
-  // rate — never render "/mo" for them, and they carry no priceEurMonthly by construction.
-  if(x.priceUnit==="event"){
+  // Non-monthly prices (cruise/camp tickets, weekly rates) sell something other than a month —
+  // never render "/mo" for them, and they carry no priceEurMonthly by construction.
+  if(x.priceUnit && x.priceUnit!=="month"){
     if(x.priceNativeFrom!=null){
       const target = state.currency || nativeCurOf(x);
       const v = Math.round(fromEur(toEur(x.priceNativeFrom, nativeCurOf(x)), target));
-      if(v) return `<div class="from"><small>from </small>${fmtMoney(v,target)}<small>${eventUnit(x)}</small></div>`;
+      if(v) return `<div class="from"><small>from </small>${fmtMoney(v,target)}<small>${unitLabel(x)}</small></div>`;
     }
     return `<div class="onreq">Price on request</div>`;
   }

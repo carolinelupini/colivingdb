@@ -5,14 +5,14 @@
 - **Location:** Longyearbyen, Svalbard (Norway)
 - **Type:** Pop-up / dated edition
 - **Dates:** October - December 2026 (polar night season)
-- **Price:** On request
-- **Price note:** pricing via spitzbergen-reisen.no booking, not published
+- **Price:** from €280 per week
+- **Price note:** room, communal areas, heating, coworking access, internet, airport pickup, community events
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 14 nights (~2 weeks)
 - **Region:** Europe
 - **Tags:** community, coworking, mountain
-- **Website:** https://arctic-coliving.com
+- **Website:** https://arctic-coliving.com/prices/
 
 ## About
 

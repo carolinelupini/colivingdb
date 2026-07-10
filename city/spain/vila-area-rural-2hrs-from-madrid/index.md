@@ -1,18 +1,12 @@
 # Coliving in Ávila area (rural, ~2hrs from Madrid), Spain
 
-> 1 colivings in Ávila area (rural, ~2hrs from Madrid), Spain, prices from €866 to €866 per month – last updated July 10, 2026.
+> 1 colivings in Ávila area (rural, ~2hrs from Madrid), Spain – last updated July 10, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| OPENORBI | Ávila area (rural, ~2hrs from Madrid) | from €866/mo | — | — | Pop-up |
-
-## Price distribution
-
-| Band (EUR/mo) | Colivings |
-|---|---|
-| 800–1200 | 1 |
+| OPENORBI | Ávila area (rural, ~2hrs from Madrid) | from €200 per event | — | — | Pop-up |
 
 ## Upcoming pop-ups
 

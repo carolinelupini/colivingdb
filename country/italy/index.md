@@ -1,6 +1,6 @@
 # Coliving in Italy
 
-> 32 colivings in Italy, prices from €40 to €2,600 per month – last updated July 10, 2026.
+> 32 colivings in Italy, prices from €40 to €2,100 per month – last updated July 10, 2026.
 
 ## All colivings
 
@@ -8,7 +8,6 @@
 |---|---|---|---|---|---|
 | Coliving Sardinia | Porto Cervo, Sardinia | from €40/mo | private, shared | 14 nights (~2 weeks) | Permanent |
 | Navitas Coliving | Civitanova Marche | from €540/mo | private | 7 nights (~1 week) | Permanent |
-| Casa Basilico — Puglia | Puglia | from €560/mo | — | — | Pop-up |
 | Dolce Vita Coliving & Coworking | Vallo di Nera (Umbria) | from €599/mo | private | 7 nights (~1 week) | Permanent |
 | La Vita Sukha | Roseto Valfortore | from €630/mo | private, dorm | 13 nights | Permanent |
 | Masseria Olga | Valle d'Itria (Puglia) | from €650/mo | private | — | Permanent |
@@ -21,20 +20,21 @@
 | ecoVita | San Priamo, San Vito, Sardinia | from €1,020/mo | private | 3 nights | Permanent |
 | Boundless Life Tuscany | Pistoia | from €1,100/mo | private | — | Permanent |
 | Canestanco 18 Living | Santa Croce Camerina, Sicily | from €1,200/mo | private | — | Permanent |
+| Casa Basilico — Puglia | Puglia | from €1,247/mo | — | — | Pop-up |
 | As We Flow Coliving | Porto Cervo, Sardinia | from €1,350/mo | private | 20 nights | Permanent |
 | Galileo Galilei Home | Matera | from €1,467/mo | private, shared | 30 nights (~1 month) | Permanent |
 | franz&mathilde Coliving | Tisens, South Tyrol | from €1,500/mo | private | 14 nights (~2 weeks) | Permanent |
-| Boundless Life — Tuscany (Volterra area) | Tuscany (Volterra area) | from €2,600/mo | — | — | Pop-up |
+| Boundless Life — Tuscany (Volterra area) | Tuscany (Volterra area) | from €2,100/mo | — | — | Pop-up |
 | Blue Zone Nomads | Torre delle Stelle | On request | private, shared | — | Pop-up |
 | Casa Netural | Matera | On request | private | 1 night | Permanent |
 | Casa Netural Gorizia | Gorizia | On request | private | — | Permanent |
 | Cummari Coliving | Riposto, Sicily | On request | private | — | Permanent |
-| Hacker Paradise — Palermo | Palermo | from $1,290/mo | — | — | Pop-up |
+| Hacker Paradise — Palermo | Palermo | On request | — | — | Pop-up |
 | Il Fornello | Citta della Pieve (Umbria/Tuscany border) | from €700/mo | private | — | Permanent |
 | Mojo Cohouse | Palermo | On request | private | — | Permanent |
 | Nesting Away - Coliving in Italy | Rome | On request | private | 14 nights (~2 weeks) | Permanent |
 | Spacebility | Cagliari (Sardinia) | On request | private | — | Permanent |
-| Taste Remote | Civita Castellana | On request | private, shared | 7 nights (~1 week) | Pop-up |
+| Taste Remote | Civita Castellana | from €690 per event | private, shared | 7 nights (~1 week) | Pop-up |
 | Treballu Rural Coliving | Laconi | On request | private, shared | — | Permanent |
 | Treballu Rural Community Hub | Laconi (Sardinia) | On request | private, shared | — | Permanent |
 | Wome coliving | Campo Tartano (Val Tartano) | On request | private, shared | 8 nights | Permanent |
@@ -44,9 +44,9 @@
 | Band (EUR/mo) | Colivings |
 |---|---|
 | 0–500 | 1 |
-| 500–800 | 8 |
+| 500–800 | 7 |
 | 800–1200 | 5 |
-| 1200–2000 | 4 |
+| 1200–2000 | 5 |
 | 2000–∞ | 1 |
 
 ## Upcoming pop-ups

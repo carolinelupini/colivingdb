@@ -6,7 +6,6 @@
 - **Type:** Pop-up / dated edition
 - **Dates:** Nov-Apr seasonal
 - **Price:** On request
-- **Price note:** not published; seasonal Nov-Apr program
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** —

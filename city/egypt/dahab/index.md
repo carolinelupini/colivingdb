@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Noma Collective — Dahab | Dahab | from $530/mo | — | — | Pop-up |
+| Noma Collective — Dahab | Dahab | from $1,890 per event | — | — | Pop-up |
 
 ## Upcoming pop-ups
 

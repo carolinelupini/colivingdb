@@ -5,11 +5,11 @@
 - **Location:** Addis Ababa, Ethiopia
 - **Type:** Pop-up / dated edition
 - **Dates:** Aug 30 - Sept 27, 2026
-- **Price:** from $1,885/mo
+- **Price:** On request
 - **Room types:** —
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Africa
-- **Website:** https://www.africanomads.co
+- **Website:** https://www.africanomads.co/digital-nomads-ethiopia
 
 Source: https://colivingdb.com/coliving/africanomads-addis-ababa/

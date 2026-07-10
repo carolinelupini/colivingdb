@@ -1,6 +1,6 @@
 # Coliving in Portugal
 
-> 70 colivings in Portugal, prices from €150 to €2,600 per month – last updated July 10, 2026.
+> 70 colivings in Portugal, prices from €150 to €2,249 per month – last updated July 10, 2026.
 
 ## All colivings
 
@@ -13,7 +13,6 @@
 | Nomadico Coliving Ericeira | Ericeira | from €542/mo | private, shared | 7 nights (~1 week) | Permanent |
 | Nomadico Ericeira (Sea View Hub) | Ericeira | from €542/mo | private, shared | 7 nights (~1 week) | Permanent |
 | Caminho Coliving | Moreira, Maia (Porto area) | from €550/mo | private, dorm | — | Permanent |
-| Casa Basilico — Madeira | Madeira | from €560/mo | — | — | Pop-up |
 | LIV Colife - Coliving | Porto | from €620/mo | private | — | Permanent |
 | Wild Oasis Algarve | Monchique | from €650/mo | private | — | Permanent |
 | Novovento | Ginetes, São Miguel, Azores | from €660/mo | private | 7 nights (~1 week) | Permanent |
@@ -26,6 +25,7 @@
 | Outsite Ericeira - Centro | Ericeira | from €800/mo | private | — | Permanent |
 | Outsite Lisbon - Cais do Sodre | Lisbon | from €800/mo | private | — | Permanent |
 | samesame co-living | Lisbon | from €800/mo | private | 8 nights | Permanent |
+| WiFi Tribe — Porto | Porto | from $990/mo (≈€866) | — | — | Pop-up |
 | A ver o Mar 1 | Coliving & Coworking | Funchal, Madeira | Ponta do Sol | from €920/mo | private, dorm | 14 nights (~2 weeks) | Permanent |
 | Casa15 Azores | Sao Miguel, Azores | from €950/mo | private | — | Permanent |
 | Swelldesk Coliving & Coworking | Baleal, Peniche | from €960/mo | private, shared | — | Permanent |
@@ -44,6 +44,7 @@
 | Birds of Paradise | Aljezur | from €1,260/mo | private | 14 nights (~2 weeks) | Permanent |
 | samesame living | Lisbon | from €1,320/mo | private | 8 nights | Permanent |
 | Coliving Ericeira by Barefoot Portugal | Ericeira (Santo Isidoro) | from €1,350/mo | private | 1 night | Permanent |
+| WiFi Tribe — Ponta Delgada (Azores) | Ponta Delgada (Azores) | from $1,590/mo (≈€1,391) | — | — | Pop-up |
 | Quinta do Cabeço Alto - Coliving & Coworking Retreat Venue - Madeira Island | Ponta do Sol | from €1,400/mo | private, shared | — | Permanent |
 | NomaVillage | Lagos | from €1,420/mo | private | 14 nights (~2 weeks) | Permanent |
 | Onda Co-Living | Ferrel (Baleal), Peniche | from €1,470/mo | private | 14 nights (~2 weeks) | Permanent |
@@ -52,14 +53,15 @@
 | Outsite Madeira - Ponta do Sol | Ponta do Sol, Madeira | from €1,700/mo | private | — | Permanent |
 | The Carreira | Funchal | from €1,700/mo | private | 30 nights (~1 month) | Permanent |
 | Wild Souls Ericeira | Ericeira | from €1,800/mo | private | 7 nights (~1 week) | Permanent |
+| Boundless Life — Sintra | Sintra | from €2,100/mo | — | — | Pop-up |
 | Dwell Azores | Fenais da Luz, São Miguel, Azores | from €2,160/mo | private, shared | 28 nights (~4 weeks) | Permanent |
-| Boundless Life — Sintra | Sintra | from €2,600/mo | — | — | Pop-up |
+| Casa Basilico — Madeira | Madeira | from €2,249/mo | — | — | Pop-up |
 | Algarve Watersport Surf House Coliving | Lagos | On request | private | — | Permanent |
 | Alvada Coliving (Baixo Beach Coliving) | Ponta do Sol, Madeira | On request | private | 90 nights (~3 months) | Permanent |
 | Behappy Lodge | Esmoriz | On request | private, shared, dorm | — | Permanent |
 | Bela Vista Coliving and Retreat | Olhão (Algarve) | On request | private | — | Permanent |
 | Colive Madeira | Ponta do Sol, Madeira | On request | private, shared | — | Permanent |
-| Hacker Paradise — Porto | Porto | from $1,290/mo | — | — | Pop-up |
+| Hacker Paradise — Porto | Porto | On request | — | — | Pop-up |
 | Lemon Bros Coliving | Ribeira Grande, São Miguel | On request | private | 14 nights (~2 weeks) | Permanent |
 | Pipedream (Coworksurf Peniche) | Ferrel, Peniche | On request | private, shared | — | Permanent |
 | Pomar Coliving | Moncarapacho (Algarve) | from €1,290/mo | private | — | Permanent |
@@ -73,8 +75,6 @@
 | WOT Lodge Soul | Ericeira | On request | private, dorm | 30 nights (~1 month) | Permanent |
 | WOT Ocean Soul | Praia das Maçãs (Sintra) | On request | private | — | Permanent |
 | WOT Peniche Social | Peniche | On request | private, dorm | 30 nights (~1 month) | Permanent |
-| WiFi Tribe — Ponta Delgada (Azores) | Ponta Delgada (Azores) | from $1,190/mo | — | — | Pop-up |
-| WiFi Tribe — Porto | Porto | from $1,190/mo | — | — | Pop-up |
 | Wild Souls Coliving | Ericeira | On request | — | — | Permanent |
 
 ## Price distribution
@@ -82,10 +82,10 @@
 | Band (EUR/mo) | Colivings |
 |---|---|
 | 0–500 | 2 |
-| 500–800 | 12 |
-| 800–1200 | 18 |
-| 1200–2000 | 14 |
-| 2000–∞ | 2 |
+| 500–800 | 11 |
+| 800–1200 | 19 |
+| 1200–2000 | 15 |
+| 2000–∞ | 3 |
 
 ## Upcoming pop-ups
 

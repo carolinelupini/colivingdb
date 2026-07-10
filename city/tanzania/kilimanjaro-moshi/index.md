@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| AfricaNomads — Kilimanjaro (Moshi) | Kilimanjaro (Moshi) | from $1,885/mo | — | — | Pop-up |
+| AfricaNomads — Kilimanjaro (Moshi) | Kilimanjaro (Moshi) | On request | — | — | Pop-up |
 
 ## Upcoming pop-ups
 

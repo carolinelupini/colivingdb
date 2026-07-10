@@ -1,6 +1,6 @@
 # Coliving in Indonesia
 
-> 21 colivings in Indonesia, prices from €363 to €2,600 per month – last updated July 10, 2026.
+> 21 colivings in Indonesia, prices from €363 to €1,500 per month – last updated July 10, 2026.
 
 ## All colivings
 
@@ -18,7 +18,7 @@
 | Tropical Nomad Coliving | Canggu | from $950/mo (≈€831) | private | — | Permanent |
 | Sokkool Coliving & Coworking | Canggu (Berawa), Bali | from IDR 616,000/mo (≈€1,300) | private | 7 nights (~1 week) | Permanent |
 | Berawa Collective | Berawa (Canggu, Bali) | from €1,334/mo | private | 30 nights (~1 month) | Permanent |
-| Boundless Life — Canggu, Bali | Canggu, Bali | from €2,600/mo | — | — | Pop-up |
+| Boundless Life — Canggu, Bali | Canggu, Bali | from €1,500/mo | — | — | Pop-up |
 | Coworksurf Berawa (Canggu) | Canggu | On request | private | — | Permanent |
 | Coworksurf Kuta Lombok | Kuta Lombok | On request | private | — | Permanent |
 | Coworksurf Uluwatu | Uluwatu | On request | private | — | Permanent |
@@ -35,8 +35,7 @@
 | 0–500 | 2 |
 | 500–800 | 6 |
 | 800–1200 | 2 |
-| 1200–2000 | 2 |
-| 2000–∞ | 1 |
+| 1200–2000 | 3 |
 
 ## Upcoming pop-ups
 

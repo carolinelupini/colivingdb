@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| AfricaNomads — Addis Ababa | Addis Ababa | from $1,885/mo | — | — | Pop-up |
+| AfricaNomads — Addis Ababa | Addis Ababa | On request | — | — | Pop-up |
 
 ## Upcoming pop-ups
 

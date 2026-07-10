@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Noma Collective — Sao Vicente | Sao Vicente | from $530/mo | — | — | Pop-up |
+| Noma Collective — Sao Vicente | Sao Vicente | from $2,290 per event | — | — | Pop-up |
 
 ## Upcoming pop-ups
 

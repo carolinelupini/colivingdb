@@ -5,11 +5,12 @@
 - **Location:** Edinburgh, Scotland (UK)
 - **Type:** Pop-up / dated edition
 - **Dates:** Jul 10 - Aug 7, 2026
-- **Price:** from $1,190/mo
+- **Price:** from $1,690/mo (≈€1,478)
+- **Price note:** furnished ensuite room (shared, Veteran tier) + coworking + gym/cinema access for the month-long chapter
 - **Room types:** —
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
-- **Website:** https://wifitribe.co
+- **Website:** https://wifitribe.co/scotland-edinburgh/
 
 Source: https://colivingdb.com/coliving/wifi-tribe-edinburgh/

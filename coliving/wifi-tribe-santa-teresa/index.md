@@ -5,11 +5,12 @@
 - **Location:** Santa Teresa, Costa Rica
 - **Type:** Pop-up / dated edition
 - **Dates:** Oct 23 - Nov 20, 2026
-- **Price:** from $1,190/mo
+- **Price:** from $1,390/mo (≈€1,216)
+- **Price note:** coliving accommodation (shared room, Veteran tier) for the month-long chapter
 - **Room types:** —
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Latin America
-- **Website:** https://wifitribe.co
+- **Website:** https://wifitribe.co/costa-rica-santa-teresa/
 
 Source: https://colivingdb.com/coliving/wifi-tribe-santa-teresa/

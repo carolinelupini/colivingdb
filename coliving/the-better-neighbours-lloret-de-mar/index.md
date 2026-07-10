@@ -6,10 +6,11 @@
 - **Type:** Pop-up / dated edition
 - **Dates:** Oct 1 - Nov 30, 2026 (Autumn)
 - **Price:** from €925/mo
+- **Price note:** private double room w/ bathroom at Hotel Robson, coworking + shared kitchen + laundry, rooftop yoga, Spanish classes (subject to availability), day trips (Girona, Figueres, Barcelona) and local excursions.
 - **Room types:** —
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
-- **Website:** https://thebetterneighbors.com
+- **Website:** https://thebetterneighbors.com/spain
 
 Source: https://colivingdb.com/coliving/the-better-neighbours-lloret-de-mar/

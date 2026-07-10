@@ -10,7 +10,7 @@
 | El Nido Home II | El Nido | from €1,641/mo | private | 30 nights (~1 month) | Permanent |
 | Darocotan Home | El Nido | from €2,280/mo | private, shared | 30 nights (~1 month) | Permanent |
 | Coworksurf Siargao (Lexias) | Siargao | On request | private, dorm | — | Permanent |
-| Kaya Connections — General Luna, Siargao | General Luna, Siargao | from $1,249/mo | — | — | Pop-up |
+| Kaya Connections — General Luna, Siargao | General Luna, Siargao | On request | — | — | Pop-up |
 | Lungga Coworking, Coliving & Cafe | General Luna (Siargao) | On request | private, shared | — | Permanent |
 | Nomads Hub | Cebu | On request | private, dorm | — | Permanent |
 

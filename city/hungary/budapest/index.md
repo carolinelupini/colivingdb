@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Noma Collective — Budapest | Budapest | from $530/mo | — | — | Pop-up |
+| Noma Collective — Budapest | Budapest | from $1,990 per event | — | — | Pop-up |
 
 ## Upcoming pop-ups
 

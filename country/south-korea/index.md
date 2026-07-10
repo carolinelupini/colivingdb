@@ -9,7 +9,7 @@
 | Seoul Nooks Community Living | Seoul | from €990/mo | private | 14 nights (~2 weeks) | Permanent |
 | Draper Startup House Seoul | Seoul | On request | private, shared | — | Permanent |
 | Hoppin House | Seoul (Yeonnam/Hongdae) | from KRW 900,000/mo | private, shared | — | Permanent |
-| Noma Collective — Busan | Busan | from $530/mo | — | — | Pop-up |
+| Noma Collective — Busan | Busan | from $3,490 per event | — | — | Pop-up |
 
 ## Price distribution
 

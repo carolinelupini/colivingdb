@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| AfricaNomads Zanzibar | Jambiani, Zanzibar | from $1,886/mo | — | — | Pop-up |
+| AfricaNomads Zanzibar | Jambiani, Zanzibar | On request | — | — | Pop-up |
 
 ## Upcoming pop-ups
 

@@ -1,22 +1,22 @@
 # Coliving in Tanzania
 
-> 5 colivings in Tanzania, prices from €2,520 to €2,520 per month – last updated July 10, 2026.
+> 5 colivings in Tanzania, prices from €1,216 to €1,216 per month – last updated July 10, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Backyard Ventures | Arusha | from $2,750/mo (≈€2,520) | private | 30 nights (~1 month) | Pop-up |
-| AfricaNomads Zanzibar | Jambiani, Zanzibar | from $1,886/mo | — | — | Pop-up |
-| AfricaNomads — Kilimanjaro (Moshi) | Kilimanjaro (Moshi) | from $1,885/mo | — | — | Pop-up |
-| AfricaNomads — Zanzibar | Zanzibar | from $1,885/mo | — | — | Pop-up |
-| WiFi Tribe — Zanzibar City | Zanzibar City | from $1,190/mo | — | — | Pop-up |
+| WiFi Tribe — Zanzibar City | Zanzibar City | from $1,390/mo (≈€1,216) | — | — | Pop-up |
+| AfricaNomads Zanzibar | Jambiani, Zanzibar | On request | — | — | Pop-up |
+| AfricaNomads — Kilimanjaro (Moshi) | Kilimanjaro (Moshi) | On request | — | — | Pop-up |
+| AfricaNomads — Zanzibar | Zanzibar | On request | — | — | Pop-up |
+| Backyard Ventures | Arusha | from $2,750 per event | private | 30 nights (~1 month) | Pop-up |
 
 ## Price distribution
 
 | Band (EUR/mo) | Colivings |
 |---|---|
-| 2000–∞ | 1 |
+| 1200–2000 | 1 |
 
 ## Upcoming pop-ups
 

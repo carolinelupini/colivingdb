@@ -5,8 +5,8 @@
 - **Location:** Ávila area (rural, ~2hrs from Madrid), Spain
 - **Type:** Pop-up / dated edition
 - **Dates:** Sept 28 - Oct 6, 2025 known session; runs recurring 1-3 week packages, no further 2026 dates published
-- **Price:** from €866/mo
-- **Price note:** not published
+- **Price:** from €200 per event
+- **Price note:** shared room, coworking access, coffee/tea, fruit, community kitchen, community car, bonfire
 - **Room types:** —
 - **Dorm available:** No
 - **Minimum stay:** —

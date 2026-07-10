@@ -5,7 +5,7 @@
 - **Location:** Porto, Portugal
 - **Type:** Pop-up / dated edition
 - **Dates:** 2026 (month unconfirmed)
-- **Price:** from $1,290/mo
+- **Price:** On request
 - **Room types:** —
 - **Dorm available:** No
 - **Minimum stay:** —

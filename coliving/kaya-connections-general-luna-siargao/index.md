@@ -5,7 +5,7 @@
 - **Location:** General Luna, Siargao, Philippines
 - **Type:** Pop-up / dated edition
 - **Dates:** Tribe 5 — September 2025 (most recent published; no confirmed 2026 dates yet)
-- **Price:** from $1,249/mo
+- **Price:** On request
 - **Room types:** —
 - **Dorm available:** No
 - **Minimum stay:** —

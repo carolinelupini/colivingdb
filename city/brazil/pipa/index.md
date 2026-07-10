@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Noma Collective — Pipa | Pipa | from $530/mo | — | — | Pop-up |
+| Noma Collective — Pipa | Pipa | from $2,090 per event | — | — | Pop-up |
 
 ## Upcoming pop-ups
 

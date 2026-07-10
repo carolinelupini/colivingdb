@@ -10,7 +10,7 @@
 | The Chile | Buenos Aires | from €625/mo | private | 30 nights (~1 month) | Permanent |
 | Coliving Vibrant Buenos Aires | Buenos Aires | On request | private | 7 nights (~1 week) | Permanent |
 | Draper Startup House Buenos Aires | Buenos Aires | On request | private, shared, dorm | — | Permanent |
-| Noma Collective — Buenos Aires | Buenos Aires | from $530/mo | — | — | Pop-up |
+| Noma Collective — Buenos Aires | Buenos Aires | from $2,890 per event | — | — | Pop-up |
 
 ## Price distribution
 

@@ -5,14 +5,14 @@
 - **Location:** Civita Castellana, Italy
 - **Type:** Pop-up / dated edition
 - **Dates:** October 8-31, 2026
-- **Price:** On request
-- **Price note:** retreat/coliving editions; per-stay pricing
+- **Price:** from €690 per event
+- **Price note:** coworking space w/ fast internet, weekend cultural activities (medieval town tours, cooking classes, cheese tastings, olive harvesting), community dinners, workshops/professional development, group of 30+ remote workers. Accommodation NOT included — arranged separately with local hosts, roughly €400-600/mo shared or €750-900/mo private.
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
 - **Tags:** rural, community, coworking
-- **Website:** https://theeatinerant.com
+- **Website:** https://www.tasteremote.com/nomadvillage
 
 ## About
 

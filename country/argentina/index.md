@@ -1,6 +1,6 @@
 # Coliving in Argentina
 
-> 6 colivings in Argentina, prices from €506 to €625 per month – last updated July 10, 2026.
+> 6 colivings in Argentina, prices from €506 to €1,129 per month – last updated July 10, 2026.
 
 ## All colivings
 
@@ -8,16 +8,17 @@
 |---|---|---|---|---|---|
 | The Independencia | Buenos Aires | from €506/mo | private | 30 nights (~1 month) | Permanent |
 | The Chile | Buenos Aires | from €625/mo | private | 30 nights (~1 month) | Permanent |
+| WiFi Tribe — Bariloche | Bariloche | from $1,290/mo (≈€1,129) | — | — | Pop-up |
 | Coliving Vibrant Buenos Aires | Buenos Aires | On request | private | 7 nights (~1 week) | Permanent |
 | Draper Startup House Buenos Aires | Buenos Aires | On request | private, shared, dorm | — | Permanent |
-| Noma Collective — Buenos Aires | Buenos Aires | from $530/mo | — | — | Pop-up |
-| WiFi Tribe — Bariloche | Bariloche | from $1,190/mo | — | — | Pop-up |
+| Noma Collective — Buenos Aires | Buenos Aires | from $2,890 per event | — | — | Pop-up |
 
 ## Price distribution
 
 | Band (EUR/mo) | Colivings |
 |---|---|
 | 500–800 | 2 |
+| 800–1200 | 1 |
 
 ## Upcoming pop-ups
 

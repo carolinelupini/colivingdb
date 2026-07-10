@@ -1,12 +1,12 @@
 # Coliving in Tuscany (Volterra area), Italy
 
-> 1 colivings in Tuscany (Volterra area), Italy, prices from €2,600 to €2,600 per month – last updated July 10, 2026.
+> 1 colivings in Tuscany (Volterra area), Italy, prices from €2,100 to €2,100 per month – last updated July 10, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Boundless Life — Tuscany (Volterra area) | Tuscany (Volterra area) | from €2,600/mo | — | — | Pop-up |
+| Boundless Life — Tuscany (Volterra area) | Tuscany (Volterra area) | from €2,100/mo | — | — | Pop-up |
 
 ## Price distribution
 

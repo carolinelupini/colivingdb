@@ -5,11 +5,12 @@
 - **Location:** Placencia, Belize
 - **Type:** Pop-up / dated edition
 - **Dates:** Nov 2026
-- **Price:** from $1,290/mo
+- **Price:** from $1,790 per event
+- **Price note:** beachfront accommodation, coworking space, wifi + local SIM, airport transfers, community manager; flights/food/insurance not included
 - **Room types:** —
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
-- **Website:** https://www.hackerparadise.org
+- **Website:** https://www.noma-collective.com/editions/placencia-belize-nov-29-2026
 
 Source: https://colivingdb.com/coliving/hacker-paradise-placencia/

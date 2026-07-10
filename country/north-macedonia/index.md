@@ -1,12 +1,18 @@
 # Coliving in North Macedonia
 
-> 1 colivings in North Macedonia – last updated July 10, 2026.
+> 1 colivings in North Macedonia, prices from €1,041 to €1,041 per month – last updated July 10, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| WiFi Tribe — Lake Ohrid | Lake Ohrid | from $1,190/mo | — | — | Pop-up |
+| WiFi Tribe — Lake Ohrid | Lake Ohrid | from $1,190/mo (≈€1,041) | — | — | Pop-up |
+
+## Price distribution
+
+| Band (EUR/mo) | Colivings |
+|---|---|
+| 800–1200 | 1 |
 
 ## Upcoming pop-ups
 

@@ -1,18 +1,18 @@
 # Coliving in La Barra, Uruguay
 
-> 1 colivings in La Barra, Uruguay, prices from €2,600 to €2,600 per month – last updated July 10, 2026.
+> 1 colivings in La Barra, Uruguay, prices from €1,700 to €1,700 per month – last updated July 10, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Boundless Life — La Barra | La Barra | from €2,600/mo | — | — | Pop-up |
+| Boundless Life — La Barra | La Barra | from €1,700/mo | — | — | Pop-up |
 
 ## Price distribution
 
 | Band (EUR/mo) | Colivings |
 |---|---|
-| 2000–∞ | 1 |
+| 1200–2000 | 1 |
 
 ## Upcoming pop-ups
 

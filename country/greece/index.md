@@ -1,6 +1,6 @@
 # Coliving in Greece
 
-> 12 colivings in Greece, prices from €449 to €2,600 per month – last updated July 10, 2026.
+> 12 colivings in Greece, prices from €449 to €2,300 per month – last updated July 10, 2026.
 
 ## All colivings
 
@@ -13,11 +13,11 @@
 | The Atsipopoulo (Atsipopoulo Home) | Atsipopoulo | from €825/mo | private | 30 nights (~1 month) | Permanent |
 | Escape (Greek Escape) | Gerani, Crete (near Rethymno) | from €840/mo | private, shared | 7 nights (~1 week) | Permanent |
 | The Plakias (Plakias Residence) | Plakias | from €1,349/mo | private | 180 nights (~6 months) | Permanent |
-| Boundless Life — Syros | Syros | from €2,600/mo | — | — | Pop-up |
+| WiFi Tribe — Paros | Paros | from $1,590/mo (≈€1,391) | — | — | Pop-up |
+| Boundless Life — Syros | Syros | from €2,300/mo | — | — | Pop-up |
 | Charalampou Liandri Home | Atsipopoulo | On request | private | 30 nights (~1 month) | Permanent |
-| Noma Collective — Athens | Athens | from $530/mo | — | — | Pop-up |
-| Tursi Digital Nomads — Parga | Parga | On request | — | — | Pop-up |
-| WiFi Tribe — Paros | Paros | from $1,190/mo | — | — | Pop-up |
+| Noma Collective — Athens | Athens | from $2,390 per event | — | — | Pop-up |
+| Tursi Digital Nomads — Parga | Parga | from €799 per event | — | — | Pop-up |
 
 ## Price distribution
 
@@ -26,7 +26,7 @@
 | 0–500 | 1 |
 | 500–800 | 2 |
 | 800–1200 | 3 |
-| 1200–2000 | 1 |
+| 1200–2000 | 2 |
 | 2000–∞ | 1 |
 
 ## Upcoming pop-ups

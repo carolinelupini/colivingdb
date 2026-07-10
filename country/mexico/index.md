@@ -17,6 +17,7 @@
 | Mi Casa Coliving | Puerto Escondido | from €720/mo | private | 7 nights (~1 week) | Permanent |
 | Covive Casa Del Valle Norte | Mexico City | from MXN 15,250/mo (≈€815) | private | 30 nights (~1 month) | Permanent |
 | The Sur II | Tulum | from €844/mo | private | 30 nights (~1 month) | Permanent |
+| WiFi Tribe — Puerto Escondido | Puerto Escondido | from $1,290/mo (≈€1,129) | — | — | Pop-up |
 | Amplitude Coliving | Puerto Escondido (La Punta) | from €1,380/mo | private | 1 night | Permanent |
 | COLIVING ROMA | Mexico City | On request | — | — | Permanent |
 | Casa Iris Coliving | Tulum | On request | private, shared | — | Permanent |
@@ -37,7 +38,6 @@
 | Outsite Oaxaca City | Oaxaca | On request | private | — | Permanent |
 | Smart Coliving | Mexico City | On request | — | — | Permanent |
 | Triver Coliving | Mexico City | On request | private, shared | 1 night | Permanent |
-| WiFi Tribe — Puerto Escondido | Puerto Escondido | from $1,190/mo | — | — | Pop-up |
 
 ## Price distribution
 
@@ -45,7 +45,7 @@
 |---|---|
 | 0–500 | 4 |
 | 500–800 | 5 |
-| 800–1200 | 2 |
+| 800–1200 | 3 |
 | 1200–2000 | 1 |
 
 ## Upcoming pop-ups

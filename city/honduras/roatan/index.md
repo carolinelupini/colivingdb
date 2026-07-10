@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| Noma Collective — Roatan | Roatan | from $530/mo | — | — | Pop-up |
+| Noma Collective — Roatan | Roatan | from $1,890 per event | — | — | Pop-up |
 
 ## Upcoming pop-ups
 

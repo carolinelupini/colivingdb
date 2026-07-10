@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
-| AfricaNomads — Zanzibar | Zanzibar | from $1,885/mo | — | — | Pop-up |
+| AfricaNomads — Zanzibar | Zanzibar | On request | — | — | Pop-up |
 
 ## Upcoming pop-ups
 

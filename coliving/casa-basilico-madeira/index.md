@@ -5,11 +5,12 @@
 - **Location:** Madeira, Portugal
 - **Type:** Pop-up / dated edition
 - **Dates:** Jun 1 - Jul 31, 2026
-- **Price:** from €560/mo
+- **Price:** from €2,249/mo
+- **Price note:** private double room, wifi, weekly cleaning, shared kitchen & coworking, 2 on-site community managers, shared dinners & cooking classes
 - **Room types:** —
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
-- **Website:** https://casabasilico.com
+- **Website:** https://casabasilico.com/locations/madeira-2026
 
 Source: https://colivingdb.com/coliving/casa-basilico-madeira/
