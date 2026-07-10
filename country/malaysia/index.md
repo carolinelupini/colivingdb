@@ -1,6 +1,6 @@
 # Coliving in Malaysia
 
-> 5 colivings in Malaysia, prices from €172 to €335 per month – last updated July 10, 2026.
+> 6 colivings in Malaysia, prices from €172 to €335 per month – last updated July 10, 2026.
 
 ## All colivings
 
@@ -11,6 +11,7 @@
 | Fraser Home | Kuala Lumpur | from MYR 170/mo (≈€323) | private | 30 nights (~1 month) | Permanent |
 | The Seckchuan Collective | George Town | from MYR 177/mo (≈€335) | private | 30 nights (~1 month) | Permanent |
 | Digital Nomad House KL Bukit Bintang | Kuala Lumpur | On request | private | — | Permanent |
+| Nomad Shophouse | Kuala Lumpur | On request | — | — | Permanent |
 
 ## Price distribution
 

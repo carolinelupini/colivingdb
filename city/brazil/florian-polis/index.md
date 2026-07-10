@@ -1,6 +1,6 @@
 # Coliving in Florianópolis, Brazil
 
-> 4 colivings in Florianópolis, Brazil, prices from €238 to €408 per month – last updated July 10, 2026.
+> 5 colivings in Florianópolis, Brazil, prices from €238 to €408 per month – last updated July 10, 2026.
 
 ## All colivings
 
@@ -9,6 +9,7 @@
 | João Pachêco Da Costa Home | Florianópolis | from €238/mo | private, dorm | 30 nights (~1 month) | Permanent |
 | Nomadico Coliving Florianópolis | Florianópolis | from $380/mo (≈€380) | private, shared | 7 nights (~1 week) | Permanent |
 | Manoel Pedro da Silveira Home | Florianópolis | from €408/mo | private, dorm | 30 nights (~1 month) | Permanent |
+| Neighbor.HUB Hostel & Coliving - Floripa | Florianópolis | On request | private, shared, dorm | — | Permanent |
 | WiFi Tribe — Florianópolis | Florianópolis | from $1,190/mo | — | — | Pop-up |
 
 ## Price distribution

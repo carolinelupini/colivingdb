@@ -1,6 +1,6 @@
 # Coliving in Spain
 
-> 88 colivings in Spain, prices from €71 to €2,600 per month – last updated July 10, 2026.
+> 102 colivings in Spain, prices from €71 to €2,600 per month – last updated July 10, 2026.
 
 ## All colivings
 
@@ -13,6 +13,7 @@
 | Banama Surfhouse - Coliving Coworking & Yoga | Corralejo, Fuerteventura | from €499/mo | private, shared | — | Permanent |
 | Ecoisleta Coliving | Las Palmas de Gran Canaria (La Isleta) | from €525/mo | private | — | Permanent |
 | Hamlet's Friends | Nuño Gómez, Toledo | from €540/mo | private | 28 nights (~4 weeks) | Permanent |
+| ALMANSA 11 APARTAMENTOS COLIVING | Sevilla | from €600/mo | private | 7 nights (~1 week) | Permanent |
 | Buddha Coliving | San Isidro (Tenerife) | from €600/mo | private | — | Permanent |
 | Ruralco Coliving | Culla, Castellón | from €600/mo | private, shared | — | Permanent |
 | Co-living Sojuela Joven | Sojuela | from €630/mo | private | 1 night | Permanent |
@@ -27,7 +28,13 @@
 | Hub Fuerteventura | Corralejo, Fuerteventura | from €700/mo | private, shared | — | Permanent |
 | Coliving Compostela | Santiago de Compostela | from €720/mo | private | 15 nights | Permanent |
 | Nomadico Coliving Tarifa | Tarifa | from €737/mo | private, shared | — | Permanent |
+| Flipco | Madrid | from €740/mo | private | 30 nights (~1 month) | Permanent |
+| Flipco Málaga | Málaga | from €740/mo | private | 30 nights (~1 month) | Permanent |
+| 4wanders | Coliving & Experiences | Valencia | from €750/mo | private | 20 nights | Permanent |
+| La Alfarería | 4wanders | Coliving & Experiences | Valencia | from €750/mo | private | 20 nights | Permanent |
+| La Jabonería | 4wanders | Coliving & Experiences | Valencia | from €750/mo | private | 20 nights | Permanent |
 | Wonder House Coliving | Sant Feliu de Buixalleu, Girona | from €750/mo | private, shared | 30 nights (~1 month) | Permanent |
+| Macaw 25 Coliving | Las Palmas de Gran Canaria | from €754/mo | private | — | Permanent |
 | Kalima Beach Life | Caldes d'Estrac (Barcelona) | from €780/mo | private | — | Permanent |
 | Savi Coliving | Náquera (Valencia) | from €800/mo | private | — | Permanent |
 | Blue Paradise Coliving | Santa Cruz de Tenerife | from €810/mo | private | 30 nights (~1 month) | Permanent |
@@ -49,6 +56,7 @@
 | Circles House Barcelona | Barcelona | from €900/mo | private, shared | 1 night | Permanent |
 | Nine Coliving | La Orotava, Tenerife | from €900/mo | private, shared | 14 nights (~2 weeks) | Permanent |
 | The Better Neighbours — Lloret de Mar | Lloret de Mar | from €925/mo | — | — | Pop-up |
+| Cohausing Cabanyal | Valencia | from €930/mo | private | 30 nights (~1 month) | Permanent |
 | Eco-living Finca La Palmera | La Zarzuela (Tarifa), Cádiz | from €930/mo | private | 30 nights (~1 month) | Permanent |
 | Maraya Coliving & Coworking | Candelaria, Tenerife | from €940/mo | private, shared | 7 nights (~1 week) | Permanent |
 | Bedndesk | S'Arenal (Mallorca) | from €950/mo | private | 30 nights (~1 month) | Permanent |
@@ -64,6 +72,7 @@
 | Pitaya coliving | Arrecife | from €1,050/mo | private | 10 nights | Permanent |
 | Taoro Coliving | Santa Úrsula, Tenerife | from €1,097/mo | private | 7 nights (~1 week) | Permanent |
 | Tulia Community | Los Realejos, Tenerife | from €1,140/mo | private, apartment | 6 nights | Permanent |
+| Casa Gori — Coliving, Art Studio & Gardens | Valencia | from €1,200/mo | — | — | Permanent |
 | Folks Coliving | Valencia | from €1,200/mo | private | 11 nights | Permanent |
 | Laberint Coliving | Palma de Mallorca | from €1,200/mo | private | 32 nights | Permanent |
 | Wolfhouse | Los Gigantes, Tenerife | from €1,350/mo | private | — | Permanent |
@@ -72,11 +81,14 @@
 | García Morato Home | Las Palmas | from €1,533/mo | private | 30 nights (~1 month) | Permanent |
 | Outsite Barcelona - Gothic Quarter | Barcelona | from €1,700/mo | private, shared | — | Permanent |
 | Villa Armadans (Palma Coliving Mallorca) | Palma de Mallorca | from €1,795/mo | private | 14 nights (~2 weeks) | Permanent |
+| SOMOS Coliving Palma de Mallorca | Palma de Mallorca | from €1,800/mo | private | 30 nights (~1 month) | Permanent |
 | Boundless Life — Andalusia (Malaga area) | Andalusia (Malaga area) | from €2,600/mo | — | — | Pop-up |
 | Amarilla Co-living | San Miguel de Abona, Tenerife | On request | private, shared | — | Permanent |
+| Circles House | Coliving & Coworking | Barcelona | On request | private, dorm | — | Permanent |
 | CoNomad | Corralejo | On request | private | 30 nights (~1 month) | Permanent |
 | Coliving Cadiz | Cádiz | On request | private | — | Permanent |
 | Coliving Rural Els Masos d'en Coll | Llabià, Fontanilles (Girona) | On request | private, shared, apartment | 7 nights (~1 week) | Permanent |
+| Coliving Tenerife - Villa La Laguna | Santa Cruz de Tenerife | On request | private | — | Permanent |
 | Fuerteventura Coliving (Casa las Dunas) | Corralejo, Fuerteventura | from €750/mo | private, shared, dorm | 2 nights | Permanent |
 | Green Living Coliving Barcelona | Castelldefels | On request | private, shared | — | Permanent |
 | Hostel Kahlo | Sierro, Almeria (Andalucia) | On request | dorm, private | — | Permanent |
@@ -90,6 +102,8 @@
 | Repeople Casa Vera Coliving | Las Palmas de Gran Canaria | from €1,677/mo | private | — | Permanent |
 | Repeople Casanova Coliving | Las Palmas de Gran Canaria | from €1,677/mo | private | — | Permanent |
 | Repeople La Luna Coliving | Santa Cruz de Tenerife | from €390/mo | private | — | Permanent |
+| The Cocotera Hostel & Coworking | Tarifa | On request | private, dorm | — | Permanent |
+| The Wave Temple | Surfhouse, Coliving | Las Palmas de Gran Canaria | On request | — | — | Permanent |
 | Tulia Guesthouse | Los Realejos | On request | private, shared | — | Permanent |
 | Tursi Digital Nomads — Tenerife (Canary Islands) | Tenerife (Canary Islands) | On request | — | — | Pop-up |
 | WiFi Tribe — Gran Canaria | Gran Canaria | from $1,190/mo | — | — | Pop-up |
@@ -100,9 +114,9 @@
 | Band (EUR/mo) | Colivings |
 |---|---|
 | 0–500 | 5 |
-| 500–800 | 18 |
-| 800–1200 | 35 |
-| 1200–2000 | 8 |
+| 500–800 | 25 |
+| 800–1200 | 36 |
+| 1200–2000 | 10 |
 | 2000–∞ | 1 |
 
 ## Upcoming pop-ups

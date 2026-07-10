@@ -1,6 +1,6 @@
 # Coliving in Italy
 
-> 30 colivings in Italy, prices from €40 to €2,600 per month – last updated July 10, 2026.
+> 32 colivings in Italy, prices from €40 to €2,600 per month – last updated July 10, 2026.
 
 ## All colivings
 
@@ -31,6 +31,8 @@
 | Cummari Coliving | Riposto, Sicily | On request | private | — | Permanent |
 | Hacker Paradise — Palermo | Palermo | from $1,290/mo | — | — | Pop-up |
 | Il Fornello | Citta della Pieve (Umbria/Tuscany border) | from €700/mo | private | — | Permanent |
+| Mojo Cohouse | Palermo | On request | private | — | Permanent |
+| Nesting Away - Coliving in Italy | Rome | On request | private | 14 nights (~2 weeks) | Permanent |
 | Spacebility | Cagliari (Sardinia) | On request | private | — | Permanent |
 | Taste Remote | Civita Castellana | On request | private, shared | 7 nights (~1 week) | Pop-up |
 | Treballu Rural Coliving | Laconi | On request | private, shared | — | Permanent |

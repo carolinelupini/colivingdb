@@ -1,11 +1,11 @@
 # colivingDB
 
-> A free, curated directory of 558 colivings worldwide — one map, native-currency pricing, no login and no email wall. Covers permanent colivings and dated pop-up editions across 79 countries. Last updated July 10, 2026.
+> A free, curated directory of 643 colivings worldwide — one map, native-currency pricing, no login and no email wall. Covers permanent colivings and dated pop-up editions across 83 countries. Last updated July 10, 2026.
 
 colivingDB is built and maintained by Caroline Lupini, a full-time digital nomad since 2014 who has lived and worked across more than a hundred countries. Listings are nomad-style colivings (shared living plus community, usually with coworking) — not student housing or urban rent-by-the-room operators. Every listing links to the operator's own site. Dead links are audited and removed.
 
 Key facts:
-- 558 colivings, 79 countries
+- 643 colivings, 83 countries
 - 68 dated pop-up editions (traveling programs, cruises, camps)
 - Prices from €40 to €4,001 per month
 - Filters: country, city, room type, minimum stay, price, pop-up month, currency
@@ -15,26 +15,26 @@ Key facts:
 - [All colivings](/llms-colivings.md): the full listing index
 
 ## Top destinations
-- [Coliving in Spain](/country/spain/index.md): 88 colivings
-- [Coliving in Portugal](/country/portugal/index.md): 61 colivings
-- [Coliving in Italy](/country/italy/index.md): 30 colivings
+- [Coliving in Spain](/country/spain/index.md): 102 colivings
+- [Coliving in Portugal](/country/portugal/index.md): 70 colivings
+- [Coliving in Italy](/country/italy/index.md): 32 colivings
+- [Coliving in Mexico](/country/mexico/index.md): 32 colivings
+- [Coliving in Indonesia](/country/indonesia/index.md): 21 colivings
+- [Coliving in Thailand](/country/thailand/index.md): 21 colivings
 - [Coliving in Colombia](/country/colombia/index.md): 21 colivings
-- [Coliving in Indonesia](/country/indonesia/index.md): 20 colivings
-- [Coliving in United States](/country/united-states/index.md): 20 colivings
-- [Coliving in South Africa](/country/south-africa/index.md): 19 colivings
-- [Coliving in Thailand](/country/thailand/index.md): 16 colivings
-- [Coliving in Mexico](/country/mexico/index.md): 16 colivings
+- [Coliving in United States](/country/united-states/index.md): 21 colivings
+- [Coliving in South Africa](/country/south-africa/index.md): 20 colivings
 - [Coliving in France](/country/france/index.md): 15 colivings
+- [Coliving in Sri Lanka](/country/sri-lanka/index.md): 13 colivings
+- [Coliving in Switzerland](/country/switzerland/index.md): 13 colivings
+- [Coliving in Brazil](/country/brazil/index.md): 13 colivings
+- [Coliving in Morocco](/country/morocco/index.md): 12 colivings
+- [Coliving in Bulgaria](/country/bulgaria/index.md): 12 colivings
 - [Coliving in Greece](/country/greece/index.md): 12 colivings
-- [Coliving in Switzerland](/country/switzerland/index.md): 11 colivings
-- [Coliving in Morocco](/country/morocco/index.md): 10 colivings
-- [Coliving in Bulgaria](/country/bulgaria/index.md): 10 colivings
+- [Coliving in Costa Rica](/country/costa-rica/index.md): 12 colivings
+- [Coliving in India](/country/india/index.md): 10 colivings
+- [Coliving in Montenegro](/country/montenegro/index.md): 10 colivings
 - [Coliving in Australia](/country/australia/index.md): 10 colivings
-- [Coliving in Montenegro](/country/montenegro/index.md): 9 colivings
-- [Coliving in Brazil](/country/brazil/index.md): 9 colivings
-- [Coliving in Costa Rica](/country/costa-rica/index.md): 9 colivings
-- [Coliving in India](/country/india/index.md): 8 colivings
-- [Coliving in Sri Lanka](/country/sri-lanka/index.md): 8 colivings
 
 ## Notes
 - Every page has a markdown twin: append `index.md` to any page URL.

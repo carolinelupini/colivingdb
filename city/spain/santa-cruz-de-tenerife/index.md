@@ -1,12 +1,13 @@
 # Coliving in Santa Cruz de Tenerife, Spain
 
-> 2 colivings in Santa Cruz de Tenerife, Spain, prices from €810 to €810 per month – last updated July 10, 2026.
+> 3 colivings in Santa Cruz de Tenerife, Spain, prices from €810 to €810 per month – last updated July 10, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
 | Blue Paradise Coliving | Santa Cruz de Tenerife | from €810/mo | private | 30 nights (~1 month) | Permanent |
+| Coliving Tenerife - Villa La Laguna | Santa Cruz de Tenerife | On request | private | — | Permanent |
 | Repeople La Luna Coliving | Santa Cruz de Tenerife | from €390/mo | private | — | Permanent |
 
 ## Price distribution

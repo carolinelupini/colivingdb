@@ -1,0 +1,11 @@
+# Coliving in Berlin, Germany
+
+> 1 colivings in Berlin, Germany – last updated July 10, 2026.
+
+## All colivings
+
+| Coliving | City | Price from | Rooms | Min stay | Type |
+|---|---|---|---|---|---|
+| The Base Berlin One - Coliving | Hotel | Coworking | Gym | Café & Bar | Berlin | On request | private | 30 nights (~1 month) | Permanent |
+
+Source: https://colivingdb.com/city/germany/berlin/

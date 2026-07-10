@@ -1,6 +1,6 @@
 # Coliving in Morocco
 
-> 10 colivings in Morocco, prices from €61 to €2,400 per month – last updated July 10, 2026.
+> 12 colivings in Morocco, prices from €61 to €2,400 per month – last updated July 10, 2026.
 
 ## All colivings
 
@@ -15,6 +15,8 @@
 | SunDesk Coliving | Taghazout | from €825/mo | private, shared | 10 nights | Permanent |
 | The Tasga Oudrar II | Taghazout | from €1,300/mo | private, dorm | 30 nights (~1 month) | Permanent |
 | Tamachat Muay Thai | Agafay | from €2,400/mo | private, shared | — | Permanent |
+| Chateau Nougat Marrakech | Marrakech | On request | private | — | Permanent |
+| Cowork & Live | Casablanca | On request | private | — | Permanent |
 | Outsite Marrakesh | Marrakesh | On request | private | — | Permanent |
 
 ## Price distribution

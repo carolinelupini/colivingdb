@@ -1,6 +1,6 @@
 # Coliving in Cape Town, South Africa
 
-> 17 colivings in Cape Town, South Africa, prices from €170 to €3,506 per month – last updated July 10, 2026.
+> 18 colivings in Cape Town, South Africa, prices from €170 to €3,506 per month – last updated July 10, 2026.
 
 ## All colivings
 
@@ -21,6 +21,7 @@
 | The Hill | Cape Town | from €1,210/mo | private | 30 nights (~1 month) | Permanent |
 | The Romney | Cape Town | from €2,033/mo | private | 30 nights (~1 month) | Permanent |
 | Waterkant Residence | Cape Town | from €3,506/mo | private | 30 nights (~1 month) | Permanent |
+| Ideas Cartel at The Old Foundry | Cape Town | On request | private | — | Permanent |
 | Neighbourgood | Cape Town | from R10,000/mo | private | — | Permanent |
 | Nomad Summer Camp — Camp Big Daddy | Cape Town | from $499 per event | private, shared | 3 nights | Pop-up |
 

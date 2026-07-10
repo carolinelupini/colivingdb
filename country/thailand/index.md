@@ -1,6 +1,6 @@
 # Coliving in Thailand
 
-> 16 colivings in Thailand, prices from €170 to €2,120 per month – last updated July 10, 2026.
+> 21 colivings in Thailand, prices from €170 to €2,120 per month – last updated July 10, 2026.
 
 ## All colivings
 
@@ -12,6 +12,7 @@
 | The Yard Hostel | Bangkok | from $300/mo (≈€262) | private, dorm | — | Permanent |
 | Taeparak Home | Chiang Mai | from THB 12,000/mo (≈€283) | private, dorm | 30 nights (~1 month) | Permanent |
 | Socialer Coliving & Coworking Space | Chiang Mai | from €300/mo | dorm | 1 night | Permanent |
+| The Capsule by UnionSPACE | bangkok | from THB 13,500/mo (≈€353) | private | 1 night | Permanent |
 | KoHub | Ko Lanta | from THB 49,500/mo (≈€460) | private | — | Permanent |
 | HOMA Phuket Town | Phuket | from THB 18,000/mo (≈€471) | private | — | Permanent |
 | Alt Coliving | Chiang Mai | from €500/mo | private | 30 nights (~1 month) | Permanent |
@@ -21,13 +22,17 @@
 | Alt_PingRiver | Chiang Mai | from €810/mo | private | 29 nights | Permanent |
 | The Arak | Chiang Mai | from €811/mo | private | 30 nights (~1 month) | Permanent |
 | Digital Nomad Adventures | Koh Phangan | from $695/mo (≈€2,120) | private | 7 nights (~1 week) | Permanent |
+| 4Seas Nimman Coliving Coworking Space | Chiang Mai | On request | — | — | Permanent |
+| Chiangmai Inn Guesthouse | Chiang Mai | On request | private | — | Permanent |
+| LITA Bangkok | bangkok | On request | private, dorm | — | Permanent |
 | Noma Collective — Koh Lanta | Koh Lanta | from $530/mo | — | — | Pop-up |
+| Villa Pattranid | Chiang Mai | On request | private | — | Permanent |
 
 ## Price distribution
 
 | Band (EUR/mo) | Colivings |
 |---|---|
-| 0–500 | 8 |
+| 0–500 | 9 |
 | 500–800 | 4 |
 | 800–1200 | 2 |
 | 2000–∞ | 1 |

@@ -1,6 +1,6 @@
 # Coliving in South Africa
 
-> 19 colivings in South Africa, prices from €170 to €3,506 per month – last updated July 10, 2026.
+> 20 colivings in South Africa, prices from €170 to €3,506 per month – last updated July 10, 2026.
 
 ## All colivings
 
@@ -22,6 +22,7 @@
 | The Romney | Cape Town | from €2,033/mo | private | 30 nights (~1 month) | Permanent |
 | Waterkant Residence | Cape Town | from €3,506/mo | private | 30 nights (~1 month) | Permanent |
 | Green Room JBay Coliving | Jeffreys Bay | On request | private | 14 nights (~2 weeks) | Permanent |
+| Ideas Cartel at The Old Foundry | Cape Town | On request | private | — | Permanent |
 | Neighbourgood | Cape Town | from R10,000/mo | private | — | Permanent |
 | Neighbourgood De Wet | Franschhoek | from R10,000/mo | private | — | Permanent |
 | Nomad Summer Camp — Camp Big Daddy | Cape Town | from $499 per event | private, shared | 3 nights | Pop-up |

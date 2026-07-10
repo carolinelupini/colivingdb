@@ -1,11 +1,13 @@
 # Coliving in Costa Rica
 
-> 9 colivings in Costa Rica, prices from €457 to €4,001 per month – last updated July 10, 2026.
+> 12 colivings in Costa Rica, prices from €367 to €4,001 per month – last updated July 10, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
+| Stolas Coliving | San José | from $420/mo (≈€367) | private | — | Permanent |
+| Stolas Garden | San José | from $420/mo (≈€367) | private | — | Permanent |
 | La Granja Residence | San Pedro, San José | from €457/mo | private | 30 nights (~1 month) | Permanent |
 | Outsite Santa Teresa - Maramar | Santa Teresa | from €1,400/mo | private | — | Permanent |
 | Outsite Santa Teresa - Playa | Santa Teresa | from $2,154/mo (≈€1,400) | private | — | Permanent |
@@ -13,6 +15,7 @@
 | Locoworking Costa Rica | Sámara | from $680/mo | private | — | Permanent |
 | Noma Collective — Playa Grande | Playa Grande | from $530/mo | — | — | Pop-up |
 | Outsite Playa Grande | Playa Grande | On request | private | — | Permanent |
+| Protopia Community | San José | On request | private, dorm | 14 nights (~2 weeks) | Permanent |
 | Unity Coliving | San José | from $330/mo | private | — | Permanent |
 | WiFi Tribe — Santa Teresa | Santa Teresa | from $1,190/mo | — | — | Pop-up |
 
@@ -20,7 +23,7 @@
 
 | Band (EUR/mo) | Colivings |
 |---|---|
-| 0–500 | 1 |
+| 0–500 | 3 |
 | 1200–2000 | 2 |
 | 2000–∞ | 1 |
 

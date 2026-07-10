@@ -1,6 +1,6 @@
 # Coliving in Tulum, Mexico
 
-> 3 colivings in Tulum, Mexico, prices from €199 to €844 per month – last updated July 10, 2026.
+> 5 colivings in Tulum, Mexico, prices from €199 to €844 per month – last updated July 10, 2026.
 
 ## All colivings
 
@@ -9,6 +9,8 @@
 | Polar Home | Tulum | from €199/mo | dorm | 30 nights (~1 month) | Permanent |
 | The Polar II | Tulum | from €499/mo | private | 30 nights (~1 month) | Permanent |
 | The Sur II | Tulum | from €844/mo | private | 30 nights (~1 month) | Permanent |
+| Casa Iris Coliving | Tulum | On request | private, shared | — | Permanent |
+| Humant Coliving - Cancún, México | Tulum | On request | private, shared | — | Permanent |
 
 ## Price distribution
 

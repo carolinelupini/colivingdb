@@ -1,6 +1,6 @@
 # Coliving in Kotor, Montenegro
 
-> 3 colivings in Kotor, Montenegro, prices from €500 to €2,600 per month – last updated July 10, 2026.
+> 4 colivings in Kotor, Montenegro, prices from €500 to €2,600 per month – last updated July 10, 2026.
 
 ## All colivings
 
@@ -9,6 +9,7 @@
 | Kotor Nest | Kotor | from €500/mo | private, shared | — | Permanent |
 | Nomadico Coliving Kotor | Kotor | from €690/mo | private, shared | 7 nights (~1 week) | Permanent |
 | Boundless Life — Kotor | Kotor | from €2,600/mo | — | — | Pop-up |
+| CO CO Coworking & Coliving | Kotor | On request | private, shared | — | Permanent |
 
 ## Price distribution
 
