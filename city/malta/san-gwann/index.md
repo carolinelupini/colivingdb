@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| EVOLVE Coliving | San Gwann | from €845/mo | private | 30 nights (~1 month) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| EVOLVE Coliving | San Gwann | from €845/mo | 4.7 (111) | private | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €650/mo
 - **Price note:** from €150/week single room (~€650/mo est.)
+- **Rating:** <a href="https://maps.google.com/?cid=3434219818951056167&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (71 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
 - **Tags:** rural, coworking, community
 - **Website:** https://masseriaolga.com/coliving/
+- **Rating:** 4.7 from 71 Google reviews
 
 ## Rates
 
@@ -20,7 +22,7 @@
 | Per week | €150 |
 | Per month | €650 |
 
-No nightly rate is published by the operator. Rates are never derived from another duration.
+Masseria Olga does not publish a nightly rate.
 
 ## About
 

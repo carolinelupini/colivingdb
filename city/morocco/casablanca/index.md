@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Cowork & Live | Casablanca | On request | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Cowork & Live | Casablanca | On request | 4.8 (73) | private | — | Permanent |
 
 Source: https://colivingdb.com/city/morocco/casablanca/

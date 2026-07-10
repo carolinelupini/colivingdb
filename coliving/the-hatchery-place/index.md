@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €240/mo
 - **Price note:** private rooms from ~EUR 270/month (EUR 240 long-stay)
+- **Rating:** <a href="https://maps.google.com/?cid=12844441195024790041&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (25 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 8 nights
 - **Region:** Asia
 - **Tags:** city, coworking, community
 - **Website:** https://www.thehatcheryplace.com/
+- **Rating:** 4.8 from 25 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | €240 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+The Hatchery Place does not publish a nightly or weekly rate.
 
 ## About
 

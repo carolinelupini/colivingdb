@@ -5,12 +5,14 @@
 - **Location:** Jaipur, India
 - **Type:** Permanent coliving
 - **Price:** from INR 400/night
+- **Rating:** <a href="https://maps.google.com/?cid=6806970836498749206&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (298 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** —
 - **Region:** Asia
 - **Tags:** startup, coworking, community
 - **Website:** https://www.jstartuphouse.com/
+- **Rating:** 4.7 from 298 Google reviews
 
 ## Rates
 
@@ -18,6 +20,6 @@
 |---|---|---|
 | Per night | INR 1,500 | INR 400 |
 
-No weekly or monthly rate is published by the operator. Rates are never derived from another duration.
+J Startup House, Jaipur - C Scheme does not publish a weekly or monthly rate.
 
 Source: https://colivingdb.com/coliving/j-startup-house-jaipur-c-scheme/

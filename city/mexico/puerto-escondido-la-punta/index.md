@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Amplitude Coliving | Puerto Escondido (La Punta) | from €1,380/mo | private | 1 night | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Amplitude Coliving | Puerto Escondido (La Punta) | from €1,380/mo | 5.0 (75) | private | 1 night | Permanent |
 
 ## Price distribution
 

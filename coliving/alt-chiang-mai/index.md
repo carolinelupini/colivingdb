@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €720/mo
 - **Price note:** from €720/month (€47/night)
+- **Rating:** <a href="https://maps.google.com/?cid=12211908088202749556&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (242 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 6 nights
 - **Region:** Asia
 - **Tags:** city, coworking, community
 - **Website:** https://www.mapmelon.com/colivings/alt-chiang-mai
+- **Rating:** 4.9 from 242 Google reviews
 
 ## Rates
 
@@ -20,7 +22,7 @@
 | Per night | €47 |
 | Per month | €720 |
 
-No weekly rate is published by the operator. Rates are never derived from another duration.
+Alt Chiang Mai does not publish a weekly rate.
 
 ## About
 

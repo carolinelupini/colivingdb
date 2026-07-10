@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Tamachat Muay Thai | Agafay | from €2,400/mo | private, shared | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Tamachat Muay Thai | Agafay | from €2,400/mo | — | private, shared | — | Permanent |
 
 ## Price distribution
 

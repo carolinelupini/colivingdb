@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €1,567/mo
 - **Price note:** from BGN 3,041/mo (Essential Room)
+- **Rating:** <a href="https://maps.google.com/?cid=14977108501707291652&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (3574 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Latin America
 - **Tags:** city, coworking, community
 - **Website:** https://coliving.com/spaces/rgxjdwme
+- **Rating:** 4.5 from 3574 Google reviews
 
 ## About
 

@@ -4,19 +4,19 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| U-Co Roma Coliving | Mexico City | from €381/mo | — | — | Permanent |
-| Covive Casa Del Valle Norte | Mexico City | from MXN 15,250/mo | private | 30 nights (~1 month) | Permanent |
-| COLIVING ROMA | Mexico City | On request | — | — | Permanent |
-| Casa Luna by Terracotta MX | Mexico City | On request | private | 7 nights (~1 week) | Permanent |
-| Coliving Condesa | Mexico City | On request | — | — | Permanent |
-| Niu Narvarte departamentos | Mexico City | On request | private | 1 night | Permanent |
-| Niu WTC Departamentos | Mexico City | On request | private | 1 night | Permanent |
-| Outsite Mexico City - Colonia San Miguel | Mexico City | On request | private | — | Permanent |
-| Outsite Mexico City - Roma Sur | Mexico City | from $53/mo | private | — | Permanent |
-| Smart Coliving | Mexico City | On request | — | — | Permanent |
-| Triver Coliving | Mexico City | On request | private, shared | 1 night | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| U-Co Roma Coliving | Mexico City | from €381/mo | 4.3 (102) | — | — | Permanent |
+| Covive Casa Del Valle Norte | Mexico City | from MXN 15,250/mo | 4.1 (28) | private | 30 nights (~1 month) | Permanent |
+| COLIVING ROMA | Mexico City | On request | 4.8 (25) | — | — | Permanent |
+| Casa Luna by Terracotta MX | Mexico City | On request | 5.0 (2) | private | 7 nights (~1 week) | Permanent |
+| Coliving Condesa | Mexico City | from MXN 10,000/mo | 4.9 (47) | — | — | Permanent |
+| Niu Narvarte departamentos | Mexico City | On request | 4.3 (142) | private | 1 night | Permanent |
+| Niu WTC Departamentos | Mexico City | On request | 4.8 (30) | private | 1 night | Permanent |
+| Outsite Mexico City - Colonia San Miguel | Mexico City | from $749/mo | — | private | — | Permanent |
+| Outsite Mexico City - Roma Sur | Mexico City | from $53/mo | 4.4 (79) | private | — | Permanent |
+| Smart Coliving | Mexico City | from $56/night | 4.2 (86) | — | — | Permanent |
+| Triver Coliving | Mexico City | from $60/night | 4.4 (272) | private, shared | 1 night | Permanent |
 
 ## Price distribution
 

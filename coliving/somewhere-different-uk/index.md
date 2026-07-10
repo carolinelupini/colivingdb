@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from £300/mo
 - **Price note:** £300/month own room + desk
+- **Rating:** <a href="https://maps.google.com/?cid=12897437038564931951&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (33 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
 - **Tags:** beach, city, coworking, community
 - **Website:** https://www.somewheredifferent.com/uk/
+- **Rating:** 4.6 from 33 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | £300 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Somewhere Different UK does not publish a nightly or weekly rate.
 
 ## About
 

@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €499/mo
 - **Price note:** surf weeks from EUR499 all-inclusive
+- **Rating:** <a href="https://maps.google.com/?cid=11686044386087863274&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (137 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
 - **Tags:** beach, surf, coworking, community, island
 - **Website:** https://www.banamacoliving.com/en
+- **Rating:** 4.9 from 137 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | €499 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Banama Surfhouse - Coliving Coworking & Yoga does not publish a nightly or weekly rate.
 
 ## About
 

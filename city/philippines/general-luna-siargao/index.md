@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Lungga Coworking, Coliving & Cafe | General Luna (Siargao) | On request | private, shared | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Lungga Coworking, Coliving & Cafe | General Luna (Siargao) | On request | 5.0 (38) | private, shared | — | Permanent |
 
 Source: https://colivingdb.com/city/philippines/general-luna-siargao/

@@ -4,22 +4,25 @@
 
 - **Location:** Medellin, Colombia
 - **Type:** Permanent coliving
-- **Price:** from $35/night
+- **Price:** from $955/mo
 - **Price note:** est. from ~$68/night; fixed monthly rates available
+- **Rating:** <a href="https://maps.google.com/?cid=15930307732693635066&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 2.6 (5 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Tags:** city, coworking, community
 - **Website:** https://www.outsite.co/locations/medellin-el-poblado
+- **Rating:** 2.6 from 5 Google reviews
 
 ## Rates
 
-| Stay length | From |
+| Stay length | Private |
 |---|---|
-| Per night | $35 |
+| Per week | $321 |
+| Per month | $955 |
 
-No weekly or monthly rate is published by the operator. Rates are never derived from another duration.
+Outsite Medellin - El Poblado does not publish a nightly rate.
 
 ## About
 

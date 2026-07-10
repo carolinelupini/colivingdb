@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Coworksurf Siargao (Lexias) | Siargao | On request | private, dorm | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Coworksurf Siargao (Lexias) | Siargao | On request | 4.1 (70) | private, dorm | — | Permanent |
 
 Source: https://colivingdb.com/city/philippines/siargao/

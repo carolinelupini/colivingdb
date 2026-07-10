@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €890/mo
 - **Price note:** €990/mo (discounted from €1,170); from €35/night
+- **Rating:** <a href="https://maps.google.com/?cid=11771938792095443365&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.2 (10 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 28 nights (~4 weeks)
 - **Region:** Europe
 - **Tags:** mountain, rural, startup, coworking, community
 - **Website:** https://epic.libralab.ai/
+- **Rating:** 4.2 from 10 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | €890 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+LIBRAlab Alpine AI Hub does not publish a nightly or weekly rate.
 
 ## About
 

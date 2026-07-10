@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Outsite Bordeaux | Bordeaux | from €1,000/mo | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Outsite Bordeaux | Bordeaux | from €1,000/mo | 4.6 (51) | private | — | Permanent |
 
 ## Price distribution
 

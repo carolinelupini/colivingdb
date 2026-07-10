@@ -5,12 +5,14 @@
 - **Location:** Lisbon, Portugal
 - **Type:** Permanent coliving
 - **Price:** from €800/mo
+- **Rating:** <a href="https://maps.google.com/?cid=10329582679647779767&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (84 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 8 nights
 - **Region:** Europe
 - **Tags:** community, coworking, city
 - **Website:** http://www.samesameliving.com/
+- **Rating:** 4.8 from 84 Google reviews
 
 ## Rates
 
@@ -18,6 +20,6 @@
 |---|---|
 | Per month | €800 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+samesame co-living does not publish a nightly or weekly rate.
 
 Source: https://colivingdb.com/coliving/samesame-co-living/

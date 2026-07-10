@@ -19,7 +19,7 @@
 |---|---|
 | Per month | BGN 1,251 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+The Bolesławiecka (Bolesławiecka Home) does not publish a nightly or weekly rate.
 
 ## About
 

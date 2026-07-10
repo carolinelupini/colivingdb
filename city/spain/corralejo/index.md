@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| CoNomad | Corralejo | On request | private | 30 nights (~1 month) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| CoNomad | Corralejo | On request | 4.7 (106) | private | 30 nights (~1 month) | Permanent |
 
 Source: https://colivingdb.com/city/spain/corralejo/

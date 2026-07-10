@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €1,350/mo
 - **Price note:** from BGN 2,641/mo private room, breakfast included
+- **Rating:** <a href="https://maps.google.com/?cid=9837078619700085684&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (22 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 180 nights (~6 months)
 - **Region:** Europe
 - **Tags:** beach, community, rural
 - **Website:** https://coliving.com/spaces/fptwoxym
+- **Rating:** 4.8 from 22 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | €1,350 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+The Plakias (Plakias Residence) does not publish a nightly or weekly rate.
 
 ## About
 

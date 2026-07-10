@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Horizonte Coliving - Mangabeiras | Belo Horizonte | from BRL 1,600/mo | — | — | Permanent |
-| Horizonte Coliving - Santa Tereza | Belo Horizonte | On request | — | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Horizonte Coliving - Mangabeiras | Belo Horizonte | from BRL 1,600/mo | 5.0 (44) | — | — | Permanent |
+| Horizonte Coliving - Santa Tereza | Belo Horizonte | On request | 5.0 (25) | — | — | Permanent |
 
 Source: https://colivingdb.com/city/brazil/belo-horizonte/

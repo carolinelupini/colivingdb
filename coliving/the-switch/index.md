@@ -5,20 +5,23 @@
 - **Location:** Sydney, Australia
 - **Type:** Permanent coliving
 - **Price:** from A$3,503/mo
+- **Rating:** <a href="https://maps.google.com/?cid=14856466697326864251&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (81 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Oceania
 - **Tags:** coworking, city
 - **Website:** https://www.switchliving.com.au/
+- **Rating:** 4.8 from 81 Google reviews
 
 ## Rates
 
-| Stay length | From |
+| Stay length | Private |
 |---|---|
-| Per month | A$3,503 |
+| Per week | A$340 |
+| Per month | — |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+The Switch does not publish a nightly rate.
 
 ## About
 

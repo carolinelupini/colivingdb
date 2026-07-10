@@ -5,11 +5,13 @@
 - **Location:** Las Palmas de Gran Canaria, Spain
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Rating:** <a href="https://maps.google.com/?cid=16699193397344113061&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (55 reviews)</a> <small>· Google</small>
 - **Room types:** —
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
 - **Tags:** surf, beach, community
 - **Website:** http://www.thewavetemple.com/
+- **Rating:** 4.9 from 55 Google reviews
 
 Source: https://colivingdb.com/coliving/the-wave-temple-surfhouse-coliving/

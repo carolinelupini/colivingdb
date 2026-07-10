@@ -19,7 +19,7 @@
 |---|---|---|
 | Per month | €4,099 | €6,300 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+The Triq Alamein (Pembroke coliving hub) does not publish a nightly or weekly rate.
 
 ## About
 

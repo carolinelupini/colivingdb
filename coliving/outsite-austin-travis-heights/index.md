@@ -4,22 +4,24 @@
 
 - **Location:** Austin, United States
 - **Type:** Permanent coliving
-- **Price:** from $95/night
+- **Price:** from $995/mo
 - **Price note:** add dates for price
+- **Rating:** <a href="https://maps.google.com/?cid=18060894129745264272&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (15 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** North America
 - **Tags:** city, coworking, community
 - **Website:** https://www.outsite.co/locations/austin-travis-heights
+- **Rating:** 5.0 from 15 Google reviews
 
 ## Rates
 
 | Stay length | From |
 |---|---|
-| Per night | $95 |
+| Per month | $995 |
 
-No weekly or monthly rate is published by the operator. Rates are never derived from another duration.
+Outsite Austin - Travis Heights does not publish a nightly or weekly rate.
 
 ## About
 

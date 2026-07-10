@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €650/mo
 - **Price note:** private rooms from €650/month (coliving.community)
+- **Rating:** <a href="https://maps.google.com/?cid=13225568788441282041&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (73 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
 - **Tags:** rural, mountain, community, eco
 - **Website:** https://coliving.community/at/wild-oasis
+- **Rating:** 4.6 from 73 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | €650 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Wild Oasis Algarve does not publish a nightly or weekly rate.
 
 ## About
 

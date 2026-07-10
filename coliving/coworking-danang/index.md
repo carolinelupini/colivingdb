@@ -5,12 +5,14 @@
 - **Location:** Da Nang, Vietnam
 - **Type:** Permanent coliving
 - **Price:** from VND 25,000,000/mo
+- **Rating:** <a href="https://maps.google.com/?cid=4548592767634898507&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (156 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Asia
 - **Tags:** community, coworking, beach
 - **Website:** https://coworkingdanang.com/coliving/
+- **Rating:** 4.9 from 156 Google reviews
 
 ## Rates
 
@@ -18,7 +20,7 @@
 |---|---|
 | Per month | VND 25,000,000 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Coworking Danang does not publish a nightly or weekly rate.
 
 ## About
 

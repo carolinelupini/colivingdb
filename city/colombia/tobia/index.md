@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Casa Kandamy | Tobia | from $1,710/mo | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Casa Kandamy | Tobia | from $1,320/mo | 5.0 (37) | private | — | Permanent |
 
 ## Price distribution
 

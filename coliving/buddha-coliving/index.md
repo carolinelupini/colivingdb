@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €550/mo
 - **Price note:** est.; 6-bedroom house, rate not published
+- **Rating:** <a href="https://maps.google.com/?cid=201340488363032539&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 3.8 (12 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
 - **Tags:** island, coworking, community, eco
 - **Website:** https://remoters.net/colivings/buddha-coliving/
+- **Rating:** 3.8 from 12 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | €550 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Buddha Coliving does not publish a nightly or weekly rate.
 
 ## About
 

@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €510/mo
 - **Price note:** €510/month (from €600); €20/night
+- **Rating:** <a href="https://maps.google.com/?cid=11724637721823963213&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (14 reviews)</a> <small>· Google</small>
 - **Room types:** —
 - **Dorm available:** No
 - **Minimum stay:** 1 night
 - **Region:** Europe
 - **Tags:** rural, community, eco
 - **Website:** https://www.mapmelon.com/colivings/quinta-da-carvalheira
+- **Rating:** 5.0 from 14 Google reviews
 
 ## Rates
 
@@ -20,7 +22,7 @@
 | Per night | €20 |
 | Per month | €510 |
 
-No weekly rate is published by the operator. Rates are never derived from another duration.
+Quinta Da Carvalheira does not publish a weekly rate.
 
 ## About
 

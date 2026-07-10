@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €1,110/mo
 - **Price note:** €660/month (discounted from €1,110); €33/night
+- **Rating:** <a href="https://maps.google.com/?cid=2991060845133542725&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (164 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared, studio, apartment
 - **Dorm available:** No
 - **Minimum stay:** 14 nights (~2 weeks)
 - **Region:** Europe
 - **Tags:** mountain, rural, coworking, community
 - **Website:** https://www.mapmelon.com/colivings/pyren-escape
+- **Rating:** 4.9 from 164 Google reviews
 
 ## Rates
 
@@ -20,7 +22,7 @@
 | Per night | €37 |
 | Per month | €1,110 |
 
-No weekly rate is published by the operator. Rates are never derived from another duration.
+Pyren'Escape does not publish a weekly rate.
 
 ## About
 

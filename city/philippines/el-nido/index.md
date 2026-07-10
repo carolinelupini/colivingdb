@@ -4,10 +4,10 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| El Nido Home II | El Nido | from €1,641/mo | private | 30 nights (~1 month) | Permanent |
-| Darocotan Home | El Nido | from €2,280/mo | private, shared | 30 nights (~1 month) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| El Nido Home II | El Nido | from €1,641/mo | 4.0 (1) | private | 30 nights (~1 month) | Permanent |
+| Darocotan Home | El Nido | from €2,280/mo | 4.5 (307) | private, shared | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

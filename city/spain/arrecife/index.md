@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Pitaya coliving | Arrecife | from €1,050/mo | private | 10 nights | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Pitaya coliving | Arrecife | from €1,050/mo | 5.0 (64) | private | 10 nights | Permanent |
 
 ## Price distribution
 

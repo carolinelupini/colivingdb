@@ -4,13 +4,13 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Banama Surfhouse - Coliving Coworking & Yoga | Corralejo, Fuerteventura | from €499/mo | private, shared | — | Permanent |
-| Hub Fuerteventura | Corralejo, Fuerteventura | from €700/mo | private, shared | — | Permanent |
-| Coco Surfhouse | Corralejo, Fuerteventura | from €840/mo | private, dorm | — | Permanent |
-| Banama Coliving | Corralejo, Fuerteventura | from €882/mo | private, shared | — | Permanent |
-| Fuerteventura Coliving (Casa las Dunas) | Corralejo, Fuerteventura | from €750/mo | private, shared, dorm | 2 nights | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Banama Surfhouse - Coliving Coworking & Yoga | Corralejo, Fuerteventura | from €499/mo | 4.9 (137) | private, shared | — | Permanent |
+| Hub Fuerteventura | Corralejo, Fuerteventura | from €700/mo | 4.5 (30) | private, shared | — | Permanent |
+| Coco Surfhouse | Corralejo, Fuerteventura | from €840/mo | 5.0 (81) | private, dorm | — | Permanent |
+| Banama Coliving | Corralejo, Fuerteventura | from €882/mo | 4.9 (137) | private, shared | — | Permanent |
+| Fuerteventura Coliving (Casa las Dunas) | Corralejo, Fuerteventura | from €750/mo | — | private, shared, dorm | 2 nights | Permanent |
 
 ## Price distribution
 

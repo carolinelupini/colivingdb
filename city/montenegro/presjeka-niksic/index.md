@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Zaselje Home | Presjeka, Nikšić | from BGN 2,754/mo | private | 30 nights (~1 month) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Zaselje Home | Presjeka, Nikšić | from BGN 2,754/mo | — | private | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

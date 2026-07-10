@@ -20,7 +20,7 @@
 | Per week | CHF 588 | CHF 275 |
 | Per month | CHF 1,500 | CHF 700 |
 
-No nightly rate is published by the operator. Rates are never derived from another duration.
+Swiss Alps Coliving does not publish a nightly rate.
 
 ## About
 

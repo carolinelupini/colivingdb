@@ -5,12 +5,14 @@
 - **Location:** San José, Costa Rica
 - **Type:** Permanent coliving
 - **Price:** from $420/mo
+- **Rating:** <a href="https://maps.google.com/?cid=13662217893696357934&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (55 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Tags:** community, coworking, city
 - **Website:** https://www.stolascr.com/
+- **Rating:** 4.7 from 55 Google reviews
 
 ## Rates
 
@@ -18,6 +20,6 @@
 |---|---|
 | Per month | $420 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Stolas Coliving does not publish a nightly or weekly rate.
 
 Source: https://colivingdb.com/coliving/stolas-coliving/

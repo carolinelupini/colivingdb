@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Iguana Co-living | Oaxaca City | On request | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Iguana Co-living | Oaxaca City | On request | 4.6 (7) | private | — | Permanent |
 
 Source: https://colivingdb.com/city/mexico/oaxaca-city/

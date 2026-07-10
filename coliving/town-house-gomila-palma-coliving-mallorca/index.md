@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €1,650/mo
 - **Price note:** from EUR 1650/month basic room, EUR 1950 ensuite
+- **Rating:** <a href="https://maps.google.com/?cid=4279169541170923177&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (53 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
 - **Tags:** city, island, coworking, community
 - **Website:** https://palmacoliving.co/booking/town-house-gomila-mallorca-coliving-spain/
+- **Rating:** 4.5 from 53 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | €1,650 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Town House Gomila - Palma Coliving Mallorca does not publish a nightly or weekly rate.
 
 ## About
 

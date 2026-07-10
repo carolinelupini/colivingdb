@@ -4,10 +4,10 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Outpost | Canggu, Bali | from $1,095/mo | private, shared | — | Permanent |
-| Boundless Life — Canggu, Bali | Canggu, Bali | from €1,500/mo | — | — | Pop-up |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Outpost | Canggu, Bali | from $1,095/mo | — | private, shared | — | Permanent |
+| Boundless Life — Canggu, Bali | Canggu, Bali | from €1,500/mo | — | — | — | Pop-up |
 
 ## Price distribution
 

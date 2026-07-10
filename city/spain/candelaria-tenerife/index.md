@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Maraya Coliving & Coworking | Candelaria, Tenerife | from €940/mo | private, shared | 7 nights (~1 week) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Maraya Coliving & Coworking | Candelaria, Tenerife | from €940/mo | 4.9 (98) | private, shared | 7 nights (~1 week) | Permanent |
 
 ## Price distribution
 

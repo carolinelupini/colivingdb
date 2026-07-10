@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Coworksurf Kuta Lombok | Kuta Lombok | On request | private | — | Permanent |
-| Dream Cowork Hotel Lombok | Kuta Lombok | On request | private, dorm | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Coworksurf Kuta Lombok | Kuta Lombok | On request | — | private | — | Permanent |
+| Dream Cowork Hotel Lombok | Kuta Lombok | On request | 4.1 (401) | private, dorm | — | Permanent |
 
 Source: https://colivingdb.com/city/indonesia/kuta-lombok/

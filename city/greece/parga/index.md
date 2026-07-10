@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Tursi Digital Nomads — Parga | Parga | from €799 per event | — | — | Pop-up |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Tursi Digital Nomads — Parga | Parga | from €799 per event | — | — | — | Pop-up |
 
 ## Upcoming pop-ups
 

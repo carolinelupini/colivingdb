@@ -4,10 +4,10 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| ZAG Coliving | Punta del Este | from $650/mo | private | — | Permanent |
-| Draper Startup House Punta del Este | Punta del Este | On request | private, shared | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| ZAG Coliving | Punta del Este | from $650/mo | 4.1 (129) | private | — | Permanent |
+| Draper Startup House Punta del Este | Punta del Este | On request | — | private, shared | — | Permanent |
 
 ## Price distribution
 

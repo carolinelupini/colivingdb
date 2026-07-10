@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Les Briques | Lion-sur-Mer | from €893/mo | private | 6 nights | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Les Briques | Lion-sur-Mer | from €893/mo | 4.9 (106) | private | 6 nights | Permanent |
 
 ## Price distribution
 

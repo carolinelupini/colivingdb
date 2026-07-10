@@ -4,11 +4,11 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Polar Home | Tulum | from €199/mo | dorm | 30 nights (~1 month) | Permanent |
-| The Polar II | Tulum | from €499/mo | private | 30 nights (~1 month) | Permanent |
-| The Sur II | Tulum | from €844/mo | private | 30 nights (~1 month) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Polar Home | Tulum | from $650/mo | — | dorm | 30 nights (~1 month) | Permanent |
+| The Polar II | Tulum | from €499/mo | 3.8 (76) | private | 30 nights (~1 month) | Permanent |
+| The Sur II | Tulum | from €844/mo | — | private | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

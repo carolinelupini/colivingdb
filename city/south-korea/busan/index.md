@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Noma Collective — Busan | Busan | from $3,490 per event | — | — | Pop-up |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Noma Collective — Busan | Busan | from $3,490 per event | — | — | — | Pop-up |
 
 ## Upcoming pop-ups
 

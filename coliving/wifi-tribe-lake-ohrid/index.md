@@ -19,6 +19,6 @@
 |---|---|---|
 | Per month | $2,190 | $1,190 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+WiFi Tribe — Lake Ohrid does not publish a nightly or weekly rate.
 
 Source: https://colivingdb.com/coliving/wifi-tribe-lake-ohrid/

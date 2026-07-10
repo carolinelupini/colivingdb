@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Pachamama Farm Retreat | Ukropci (above Kotor Bay) | from €695/mo | private, shared | 14 nights (~2 weeks) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Pachamama Farm Retreat | Ukropci (above Kotor Bay) | from €695/mo | 4.8 (229) | private, shared | 14 nights (~2 weeks) | Permanent |
 
 ## Price distribution
 

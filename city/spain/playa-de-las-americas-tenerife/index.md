@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Oasis Coliving | Playa de las Americas, Tenerife | from €849/mo | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Oasis Coliving | Playa de las Americas, Tenerife | from €849/mo | 2.6 (188) | private | — | Permanent |
 
 ## Price distribution
 

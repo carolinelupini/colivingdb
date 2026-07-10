@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** OTA deals from ~€73/night; monthly coliving rates on request
+- **Rating:** <a href="https://maps.google.com/?cid=10010679123097209292&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (12 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
 - **Tags:** island, coworking, community
 - **Website:** https://zendentenerife.com/
+- **Rating:** 4.7 from 12 Google reviews
 
 ## About
 

@@ -5,12 +5,14 @@
 - **Location:** Dubai, United Arab Emirates
 - **Type:** Permanent coliving
 - **Price:** from AED 1,000/mo
+- **Rating:** <a href="https://maps.google.com/?cid=8041276839613101444&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (61 reviews)</a> <small>· Google</small>
 - **Room types:** shared, private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Asia
 - **Tags:** community, city
 - **Website:** https://dotcoliv.com/
+- **Rating:** 4.4 from 61 Google reviews
 
 ## Rates
 
@@ -18,7 +20,7 @@
 |---|---|
 | Per month | AED 1,000 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Dot Coliv does not publish a nightly or weekly rate.
 
 ## About
 

@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Coliving 1907 | Las Palmas, Gran Canaria | from €870/mo | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Coliving 1907 | Las Palmas, Gran Canaria | from €870/mo | 4.8 (134) | private | — | Permanent |
 
 ## Price distribution
 

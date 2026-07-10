@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €1,050/mo
 - **Price note:** budget to premium ensuite rooms; rate not published on hub page
+- **Rating:** <a href="https://maps.google.com/?cid=13788590589298556186&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (32 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
 - **Tags:** island, city, coworking, community, eco
 - **Website:** https://madeiraremote.com/casa-do-pico
+- **Rating:** 5.0 from 32 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | €1,050 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Casa do Pico does not publish a nightly or weekly rate.
 
 ## About
 

@@ -4,10 +4,10 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Nomadico Antigua | Antigua Guatemala | from $890/mo | private, shared | — | Permanent |
-| WiFi Tribe — Antigua | Antigua | from $1,090/mo | — | — | Pop-up |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Nomadico Antigua | Antigua Guatemala | from $890/mo | 5.0 (1) | private, shared | — | Permanent |
+| WiFi Tribe — Antigua | Antigua | from $1,090/mo | — | — | — | Pop-up |
 
 ## Price distribution
 

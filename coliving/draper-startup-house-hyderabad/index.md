@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €360/mo
 - **Price note:** from ~$13/night dorm (Booking/Hostelworld); ~€360/mo est.
+- **Rating:** <a href="https://maps.google.com/?cid=2963118552657843424&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (521 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** —
 - **Region:** Asia
 - **Tags:** city, coworking, community, startup
 - **Website:** https://draperstartuphouse.com/hyderabad/
+- **Rating:** 4.7 from 521 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | €360 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Draper Startup House Hyderabad does not publish a nightly or weekly rate.
 
 ## About
 

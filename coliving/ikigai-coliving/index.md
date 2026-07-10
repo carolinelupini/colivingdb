@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €728/mo
 - **Price note:** rates on request/booking page
+- **Rating:** <a href="https://maps.google.com/?cid=2545024632256509310&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (97 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
 - **Tags:** island, coworking, community
 - **Website:** https://www.ikigaicoliving.com/
+- **Rating:** 4.9 from 97 Google reviews
 
 ## Rates
 

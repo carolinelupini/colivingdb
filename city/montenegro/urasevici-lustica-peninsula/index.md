@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Playworking Coliving | Đuraševići, Luštica Peninsula | from €600/mo | private, shared | 5 nights | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Playworking Coliving | Đuraševići, Luštica Peninsula | from €600/mo | 4.5 (70) | private, shared | 5 nights | Permanent |
 
 ## Price distribution
 

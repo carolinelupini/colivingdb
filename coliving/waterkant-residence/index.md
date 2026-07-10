@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from BGN 3,531/mo
 - **Price note:** from BGN 3,518/mo studio ≈ €1,799
+- **Rating:** <a href="https://maps.google.com/?cid=3333255371605467079&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (70 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Africa
 - **Tags:** city, coworking, community
 - **Website:** https://coliving.com/spaces/cjg0vc6x
+- **Rating:** 4.3 from 70 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | BGN 3,531 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Waterkant Residence does not publish a nightly or weekly rate.
 
 ## About
 

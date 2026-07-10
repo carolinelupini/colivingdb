@@ -19,7 +19,7 @@
 |---|---|---|
 | Per month | €950 | €750 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Galileo Galilei Home does not publish a nightly or weekly rate.
 
 ## About
 

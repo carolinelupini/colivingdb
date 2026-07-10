@@ -4,10 +4,10 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Coliving Sardinia | Porto Cervo, Sardinia | from €950/mo | private, shared | 14 nights (~2 weeks) | Permanent |
-| As We Flow Coliving | Porto Cervo, Sardinia | from €1,350/mo | private | 20 nights | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Coliving Sardinia | Porto Cervo, Sardinia | from €950/mo | — | private, shared | 14 nights (~2 weeks) | Permanent |
+| As We Flow Coliving | Porto Cervo, Sardinia | from €1,350/mo | 4.9 (45) | private | 20 nights | Permanent |
 
 ## Price distribution
 

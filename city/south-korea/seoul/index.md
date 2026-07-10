@@ -4,10 +4,10 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Seoul Nooks Community Living | Seoul | from €990/mo | private | 14 nights (~2 weeks) | Permanent |
-| Draper Startup House Seoul | Seoul | On request | private, shared | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Seoul Nooks Community Living | Seoul | from €990/mo | — | private | 14 nights (~2 weeks) | Permanent |
+| Draper Startup House Seoul | Seoul | On request | — | private, shared | — | Permanent |
 
 ## Price distribution
 

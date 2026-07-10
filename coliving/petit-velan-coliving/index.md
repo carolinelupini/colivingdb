@@ -20,7 +20,7 @@
 | Per week | CHF 400 | CHF 200 |
 | Per month | CHF 800 | CHF 500 |
 
-No nightly rate is published by the operator. Rates are never derived from another duration.
+Petit Velan Coliving does not publish a nightly rate.
 
 ## About
 

@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €1,800/mo
 - **Price note:** from €75/night or €1,800/month
+- **Rating:** <a href="https://maps.google.com/?cid=2843576997518348241&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (25 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
 - **Tags:** surf, beach, coworking, community
 - **Website:** https://www.mapmelon.com/colivings/wild-souls-ericeira
+- **Rating:** 5.0 from 25 Google reviews
 
 ## Rates
 
@@ -20,7 +22,7 @@
 | Per night | €75 |
 | Per month | €1,800 |
 
-No weekly rate is published by the operator. Rates are never derived from another duration.
+Wild Souls Ericeira does not publish a weekly rate.
 
 ## About
 

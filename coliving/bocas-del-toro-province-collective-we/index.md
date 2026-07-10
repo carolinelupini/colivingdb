@@ -19,7 +19,7 @@
 |---|---|---|
 | Per month | $1,770 | $380 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Bocas Del Toro Province Collective (WE) does not publish a nightly or weekly rate.
 
 ## About
 

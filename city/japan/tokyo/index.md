@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Tokyo Chapter | Tokyo | from ¥100,000/mo | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Tokyo Chapter | Tokyo | from ¥100,000/mo | 4.4 (25) | private | — | Permanent |
 
 Source: https://colivingdb.com/city/japan/tokyo/

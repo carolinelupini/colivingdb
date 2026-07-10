@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €900/mo
 - **Price note:** from €30/night; 10-20% long-stay and summer discounts
+- **Rating:** <a href="https://maps.google.com/?cid=628981135892213440&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (110 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 14 nights (~2 weeks)
 - **Region:** Europe
 - **Tags:** island, community, coworking
 - **Website:** https://www.ninecoliving.com/
+- **Rating:** 4.9 from 110 Google reviews
 
 ## About
 

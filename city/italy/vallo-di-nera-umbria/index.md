@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Dolce Vita Coliving & Coworking | Vallo di Nera (Umbria) | from €599/mo | private | 7 nights (~1 week) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Dolce Vita Coliving & Coworking | Vallo di Nera (Umbria) | from €599/mo | 4.7 (25) | private | 7 nights (~1 week) | Permanent |
 
 ## Price distribution
 

@@ -4,13 +4,13 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| SC Coliving | St Julian's | from €420/mo | private, shared | — | Permanent |
-| EVOLVE Coliving | San Gwann | from €845/mo | private | 30 nights (~1 month) | Permanent |
-| The Triq Alamein (Pembroke coliving hub) | Pembroke | from €4,099/mo | private, dorm | 30 nights (~1 month) | Permanent |
-| Evolve Coliving Malta | Malta | from €845/mo | private, shared | 30 nights (~1 month) | Permanent |
-| SC Club Village | St Julian's | On request | private, shared | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| SC Coliving | St Julian's | from €420/mo | — | private, shared | — | Permanent |
+| EVOLVE Coliving | San Gwann | from €845/mo | 4.7 (111) | private | 30 nights (~1 month) | Permanent |
+| The Triq Alamein (Pembroke coliving hub) | Pembroke | from €4,099/mo | — | private, dorm | 30 nights (~1 month) | Permanent |
+| Evolve Coliving Malta | Malta | from €845/mo | 4.7 (111) | private, shared | 30 nights (~1 month) | Permanent |
+| SC Club Village | St Julian's | On request | — | private, shared | — | Permanent |
 
 ## Price distribution
 

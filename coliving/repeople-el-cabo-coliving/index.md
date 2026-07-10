@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €870/mo
 - **Price note:** from EUR29/night for 30+ night stays
+- **Rating:** <a href="https://maps.google.com/?cid=12185975336171238021&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (18 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
 - **Tags:** island, beach, coworking, community
 - **Website:** https://repeople.co
+- **Rating:** 4.9 from 18 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | €870 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Repeople El Cabo Coliving does not publish a nightly or weekly rate.
 
 ## About
 

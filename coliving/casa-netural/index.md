@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €950/mo
 - **Price note:** prices on request
+- **Rating:** <a href="https://maps.google.com/?cid=3232151842898735556&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (139 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 1 night
 - **Region:** Europe
 - **Tags:** city, coworking, community, eco
 - **Website:** https://www.benetural.com/en/
+- **Rating:** 4.9 from 139 Google reviews
 
 ## Rates
 

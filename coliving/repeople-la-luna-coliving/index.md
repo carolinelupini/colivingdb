@@ -19,7 +19,7 @@
 |---|---|
 | Per month | €390 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Repeople La Luna Coliving does not publish a nightly or weekly rate.
 
 ## About
 

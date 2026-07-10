@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Anceu Coliving | Ponte Caldelas, Galicia | from €882/mo | private | 15 nights | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Anceu Coliving | Ponte Caldelas, Galicia | from €882/mo | 4.9 (73) | private | 15 nights | Permanent |
 
 ## Price distribution
 

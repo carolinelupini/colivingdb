@@ -4,11 +4,11 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| LIV Colife - Coliving | Porto | from €660/mo | private | — | Permanent |
-| WiFi Tribe — Porto | Porto | from $990/mo | — | — | Pop-up |
-| Hacker Paradise — Porto | Porto | On request | — | — | Pop-up |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| LIV Colife - Coliving | Porto | from €660/mo | 3.9 (54) | private | — | Permanent |
+| WiFi Tribe — Porto | Porto | from $990/mo | — | — | — | Pop-up |
+| Hacker Paradise — Porto | Porto | On request | — | — | — | Pop-up |
 
 ## Price distribution
 

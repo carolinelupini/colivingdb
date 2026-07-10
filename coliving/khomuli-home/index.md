@@ -19,7 +19,7 @@
 |---|---|---|
 | Per month | BGN 676 | BGN 375 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Khomuli Home does not publish a nightly or weekly rate.
 
 ## About
 

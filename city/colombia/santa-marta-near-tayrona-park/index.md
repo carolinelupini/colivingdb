@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Bio Coliving TAYRONA | Santa Marta (near Tayrona Park) | from COP 60,000/mo | private | 1 night | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Bio Coliving TAYRONA | Santa Marta (near Tayrona Park) | from €650/mo | 4.7 (48) | private | 1 night | Permanent |
 
 ## Price distribution
 

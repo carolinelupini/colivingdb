@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €750/mo
 - **Price note:** advertised as under €1,000/month; est.
+- **Rating:** <a href="https://maps.google.com/?cid=2410423559436058146&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (68 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
 - **Tags:** beach, island, coworking, community
 - **Website:** https://www.bedndesk.com
+- **Rating:** 4.7 from 68 Google reviews
 
 ## Rates
 
@@ -20,7 +22,7 @@
 | Per night | €35 |
 | Per month | €750 |
 
-No weekly rate is published by the operator. Rates are never derived from another duration.
+Bedndesk does not publish a weekly rate.
 
 ## About
 

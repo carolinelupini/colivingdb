@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Ojalá Casa | La Caleta, Costa Adeje, Tenerife | On request | private | 30 nights (~1 month) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Ojalá Casa | La Caleta, Costa Adeje, Tenerife | On request | 5.0 (1) | private | 30 nights (~1 month) | Permanent |
 
 Source: https://colivingdb.com/city/spain/la-caleta-costa-adeje-tenerife/

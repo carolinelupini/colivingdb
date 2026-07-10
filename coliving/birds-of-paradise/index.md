@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €1,260/mo
 - **Price note:** 1260 EUR/month private room (seasonal Jan-Apr)
+- **Rating:** <a href="https://maps.google.com/?cid=2688086430691228731&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (145 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 14 nights (~2 weeks)
 - **Region:** Europe
 - **Tags:** surf, beach, coworking, community
 - **Website:** https://www.birdsofparadiselodge.com/en
+- **Rating:** 5.0 from 145 Google reviews
 
 ## About
 

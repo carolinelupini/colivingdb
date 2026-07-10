@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €480/mo
 - **Price note:** €480/mo (discounted from €525); ~€17.50/night equivalent
+- **Rating:** <a href="https://maps.google.com/?cid=16418972322161261675&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (7 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 120 nights (~4 months)
 - **Region:** Latin America
 - **Tags:** city, community
 - **Website:** https://mimoscoliving.com/
+- **Rating:** 5.0 from 7 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | €480 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Mimos Coliving - Bogota does not publish a nightly or weekly rate.
 
 ## About
 

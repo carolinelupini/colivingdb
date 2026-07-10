@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Cloud Citadel Coliving | Briançon | from €966/mo | private, dorm, studio | 14 nights (~2 weeks) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Cloud Citadel Coliving | Briançon | from €966/mo | 4.9 (78) | private, dorm, studio | 14 nights (~2 weeks) | Permanent |
 
 ## Price distribution
 

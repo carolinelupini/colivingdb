@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Calergi Residence | Atsipopoulo / Rethymno (Crete) | from €800/mo | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Calergi Residence | Atsipopoulo / Rethymno (Crete) | from €800/mo | 4.6 (85) | private | — | Permanent |
 
 ## Price distribution
 

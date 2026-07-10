@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €390/mo
 - **Price note:** €300/month dorm (discounted from €390); €12/night
+- **Rating:** <a href="https://maps.google.com/?cid=7424972165397110421&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (70 reviews)</a> <small>· Google</small>
 - **Room types:** dorm
 - **Dorm available:** Yes
 - **Minimum stay:** 1 night
 - **Region:** Asia
 - **Tags:** city, coworking, community
 - **Website:** https://www.mapmelon.com/colivings/socialer-coliving-coworking-space
+- **Rating:** 4.6 from 70 Google reviews
 
 ## Rates
 
@@ -20,7 +22,7 @@
 | Per night | €13 |
 | Per month | €390 |
 
-No weekly rate is published by the operator. Rates are never derived from another duration.
+Socialer Coliving & Coworking Space does not publish a weekly rate.
 
 ## About
 

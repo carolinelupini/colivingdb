@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €690/mo
 - **Price note:** €690/mo; €23/night
+- **Rating:** <a href="https://maps.google.com/?cid=13628439924642064845&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (85 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
 - **Tags:** mountain, rural, community, coworking
 - **Website:** https://www.mapmelon.com/colivings/fem-coliving
+- **Rating:** 5.0 from 85 Google reviews
 
 ## Rates
 
@@ -20,7 +22,7 @@
 | Per night | €23 |
 | Per month | €690 |
 
-No weekly rate is published by the operator. Rates are never derived from another duration.
+FEM Coliving does not publish a weekly rate.
 
 ## About
 

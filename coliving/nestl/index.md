@@ -5,21 +5,22 @@
 - **Location:** Sydney, Australia
 - **Type:** Permanent coliving
 - **Price:** from A$2,772/mo
+- **Rating:** <a href="https://maps.google.com/?cid=14373157124002144871&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (10 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Oceania
 - **Tags:** community, city
 - **Website:** https://www.nestl.com.au/
+- **Rating:** 5.0 from 10 Google reviews
 
 ## Rates
 
-| Stay length | Private |
+| Stay length | From |
 |---|---|
-| Per week | A$640 |
-| Per month | — |
+| Per month | A$2,772 |
 
-No nightly rate is published by the operator. Rates are never derived from another duration.
+NESTL does not publish a nightly or weekly rate.
 
 ## About
 

@@ -5,12 +5,14 @@
 - **Location:** Valencia, Spain
 - **Type:** Permanent coliving
 - **Price:** from €750/mo
+- **Rating:** <a href="https://maps.google.com/?cid=706018323695231720&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (19 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 20 nights
 - **Region:** Europe
 - **Tags:** community, coworking, city
 - **Website:** https://4wanders.com/
+- **Rating:** 4.3 from 19 Google reviews
 
 ## Rates
 
@@ -18,6 +20,6 @@
 |---|---|
 | Per month | €750 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+La Jabonería | 4wanders | Coliving & Experiences does not publish a nightly or weekly rate.
 
 Source: https://colivingdb.com/coliving/la-jaboneria-4wanders-coliving-and-experiences/

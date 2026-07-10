@@ -6,21 +6,23 @@
 - **Type:** Permanent coliving
 - **Price:** from $1,230/mo
 - **Price note:** from $284/week Essential Room (~$1,136/mo), monthly discounts
+- **Rating:** <a href="https://maps.google.com/?cid=14918800301315675914&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (50 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 3 nights
 - **Region:** Latin America
 - **Tags:** city, coworking, community
 - **Website:** https://pranikliving.com/
+- **Rating:** 4.9 from 50 Google reviews
 
 ## Rates
 
 | Stay length | Private |
 |---|---|
-| Per week | $284 |
+| Per night | — |
 | Per month | $1,230 |
 
-No nightly rate is published by the operator. Rates are never derived from another duration.
+Pranik Living does not publish a weekly rate.
 
 ## About
 

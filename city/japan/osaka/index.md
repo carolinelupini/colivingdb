@@ -4,10 +4,10 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| COGO TENNOJI | Osaka | On request | private, shared | — | Permanent |
-| Noma Collective — Osaka | Osaka | from $3,490 per event | — | — | Pop-up |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| COGO TENNOJI | Osaka | On request | 4.6 (580) | private, shared | — | Permanent |
+| Noma Collective — Osaka | Osaka | from $3,490 per event | — | — | — | Pop-up |
 
 ## Upcoming pop-ups
 

@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €1,050/mo
 - **Price note:** EUR 1,050/month (from EUR 58/night)
+- **Rating:** <a href="https://maps.google.com/?cid=13132540747716675378&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (27 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
 - **Tags:** beach, surf, coworking, community
 - **Website:** https://www.mapmelon.com/colivings/manas-slowliving
+- **Rating:** 4.9 from 27 Google reviews
 
 ## Rates
 
@@ -20,7 +22,7 @@
 | Per night | €58 |
 | Per month | €1,050 |
 
-No weekly rate is published by the operator. Rates are never derived from another duration.
+Manas Slowliving does not publish a weekly rate.
 
 ## About
 

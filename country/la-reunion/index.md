@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Coliver - La Réunion | Saint Pierre | On request | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Coliver - La Réunion | Saint Pierre | On request | 5.0 (68) | private | — | Permanent |
 
 Source: https://colivingdb.com/country/la-reunion/

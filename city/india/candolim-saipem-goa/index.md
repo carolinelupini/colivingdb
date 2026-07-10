@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| aColmeia | Candolim (Saipem), Goa | from €540/mo | private | 8 nights | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| aColmeia | Candolim (Saipem), Goa | from €540/mo | 4.9 (93) | private | 8 nights | Permanent |
 
 ## Price distribution
 

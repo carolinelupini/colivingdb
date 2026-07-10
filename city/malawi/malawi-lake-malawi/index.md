@@ -4,10 +4,10 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| AfricaNomads — Malawi (Lake Malawi) (Jun 2026) | Malawi (Lake Malawi) | On request | — | — | Pop-up |
-| AfricaNomads — Malawi (Lake Malawi) (Oct 2026) | Malawi (Lake Malawi) | On request | — | — | Pop-up |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| AfricaNomads — Malawi (Lake Malawi) (Jun 2026) | Malawi (Lake Malawi) | On request | — | — | — | Pop-up |
+| AfricaNomads — Malawi (Lake Malawi) (Oct 2026) | Malawi (Lake Malawi) | On request | — | — | — | Pop-up |
 
 ## Upcoming pop-ups
 

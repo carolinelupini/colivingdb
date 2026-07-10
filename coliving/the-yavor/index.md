@@ -19,7 +19,7 @@
 |---|---|
 | Per month | BGN 587 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+The Yavor does not publish a nightly or weekly rate.
 
 ## About
 

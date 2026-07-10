@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from BGN 1,169/mo
 - **Price note:** from ~€598/mo private ensuite
+- **Rating:** <a href="https://maps.google.com/?cid=9953403889476337674&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (52 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
 - **Tags:** beach, coworking, community
 - **Website:** https://coliving.com/spaces/ty46jyef
+- **Rating:** 4.5 from 52 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | BGN 1,169 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Kraljice Residence (Boho House) does not publish a nightly or weekly rate.
 
 ## About
 

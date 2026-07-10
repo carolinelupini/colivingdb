@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Evolve Coliving Malta | Malta | from €845/mo | private, shared | 30 nights (~1 month) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Evolve Coliving Malta | Malta | from €845/mo | 4.7 (111) | private, shared | 30 nights (~1 month) | Permanent |
 
 Source: https://colivingdb.com/city/malta/malta/

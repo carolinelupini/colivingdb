@@ -19,7 +19,7 @@
 |---|---|---|
 | Per month | €5,780 | €8,779 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Charalampou Liandri Home does not publish a nightly or weekly rate.
 
 ## About
 

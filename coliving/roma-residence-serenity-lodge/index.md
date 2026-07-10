@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from BGN 1,027/mo
 - **Price note:** from BGN 1,030/mo 4-bed dorm (~€527); private from ~€1,053
+- **Rating:** <a href="https://maps.google.com/?cid=8643929092497600829&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (210 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Africa
 - **Tags:** beach, coworking, community
 - **Website:** https://coliving.com/spaces/2d1tbk1k
+- **Rating:** 4.3 from 210 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|---|
 | Per month | BGN 2,053 | BGN 1,027 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Roma Residence (Serenity Lodge) does not publish a nightly or weekly rate.
 
 ## About
 

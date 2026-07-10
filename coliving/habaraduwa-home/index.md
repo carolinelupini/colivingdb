@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from $683/mo
 - **Price note:** from BGN 1,450/mo shared (~€741); private from ~€1,719
+- **Rating:** <a href="https://maps.google.com/?cid=17446191595216124128&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (14 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** Yes
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Asia
 - **Tags:** beach, surf, coworking, community, eco
 - **Website:** https://coliving.com/spaces/hmiewe7i
+- **Rating:** 4.7 from 14 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|---|---|
 | Per month | $1,584 | $804 | $683 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Habaraduwa Home does not publish a nightly or weekly rate.
 
 ## About
 

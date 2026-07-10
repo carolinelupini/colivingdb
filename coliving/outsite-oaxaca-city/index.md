@@ -4,22 +4,16 @@
 
 - **Location:** Oaxaca, Mexico
 - **Type:** Permanent coliving
-- **Price:** from $60/night
+- **Price:** On request
 - **Price note:** monthly rate via dates
+- **Rating:** <a href="https://maps.google.com/?cid=11111089401603546847&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (72 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Tags:** city, coworking, community
 - **Website:** https://www.outsite.co/locations/oaxaca
-
-## Rates
-
-| Stay length | From |
-|---|---|
-| Per night | $60 |
-
-No weekly or monthly rate is published by the operator. Rates are never derived from another duration.
+- **Rating:** 4.9 from 72 Google reviews
 
 ## About
 

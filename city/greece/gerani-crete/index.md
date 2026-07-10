@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Greek Escape (by ESCAPE) | Gerani (Crete) | from €750/mo | private, shared | 7 nights (~1 week) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Greek Escape (by ESCAPE) | Gerani (Crete) | from €750/mo | 4.5 (6) | private, shared | 7 nights (~1 week) | Permanent |
 
 ## Price distribution
 

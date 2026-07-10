@@ -4,10 +4,10 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Bencomo Coliving | Santa Úrsula, Tenerife | from €37/night | private | 15 nights | Permanent |
-| Taoro Coliving | Santa Úrsula, Tenerife | from €1,297/mo | private | 7 nights (~1 week) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Bencomo Coliving | Santa Úrsula, Tenerife | from €37/night | 4.9 (36) | private | 15 nights | Permanent |
+| Taoro Coliving | Santa Úrsula, Tenerife | from €1,297/mo | 5.0 (151) | private | 7 nights (~1 week) | Permanent |
 
 ## Price distribution
 

@@ -19,7 +19,7 @@
 |---|---|
 | Per month | €994 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Fond de Ville Home II does not publish a nightly or weekly rate.
 
 ## About
 

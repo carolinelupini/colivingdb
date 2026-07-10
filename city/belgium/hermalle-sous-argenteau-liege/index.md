@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Bord de Meuse | Hermalle-sous-Argenteau (Liège) | On request | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Bord de Meuse | Hermalle-sous-Argenteau (Liège) | On request | 4.5 (8) | private | — | Permanent |
 
 Source: https://colivingdb.com/city/belgium/hermalle-sous-argenteau-liege/

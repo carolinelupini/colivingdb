@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Bedndesk | S'Arenal (Mallorca) | from €750/mo | private | 30 nights (~1 month) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Bedndesk | S'Arenal (Mallorca) | from €750/mo | 4.7 (68) | private | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

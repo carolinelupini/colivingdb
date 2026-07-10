@@ -20,7 +20,7 @@
 | Per week | €217 |
 | Per month | €700 |
 
-No nightly rate is published by the operator. Rates are never derived from another duration.
+Casa Pardal Coliving does not publish a nightly rate.
 
 ## About
 

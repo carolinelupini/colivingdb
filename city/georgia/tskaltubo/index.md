@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Colive & Cowork Gumbrini | Tskaltubo | from $219/mo | private, shared, dorm | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Colive & Cowork Gumbrini | Tskaltubo | from $219/mo | 4.9 (51) | private, shared, dorm | — | Permanent |
 
 ## Price distribution
 

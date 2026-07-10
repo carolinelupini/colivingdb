@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Cabeco Alto Home | Santo da Serra (Madeira) | from BGN 1,956/mo | private, shared | 30 nights (~1 month) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Cabeco Alto Home | Santo da Serra (Madeira) | from BGN 1,956/mo | 5.0 (23) | private, shared | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

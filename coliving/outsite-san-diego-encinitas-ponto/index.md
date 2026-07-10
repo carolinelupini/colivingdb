@@ -20,7 +20,7 @@
 | Per night | — | — |
 | Per month | $6,897 | $2,209 |
 
-No weekly rate is published by the operator. Rates are never derived from another duration.
+Outsite San Diego - Encinitas Ponto does not publish a weekly rate.
 
 ## About
 

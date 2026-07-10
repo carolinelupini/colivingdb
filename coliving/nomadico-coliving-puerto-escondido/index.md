@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from $749/mo
 - **Price note:** from $749/mo (operator site, ~€690)
+- **Rating:** <a href="https://maps.google.com/?cid=2257094445319845272&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (22 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Latin America
 - **Tags:** beach, surf, coworking, community
 - **Website:** https://www.nomadico.io/puerto-escondido-coliving
+- **Rating:** 5.0 from 22 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | $749 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Nomadico Coliving Puerto Escondido does not publish a nightly or weekly rate.
 
 ## About
 

@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Casa15 Azores | Sao Miguel, Azores | from €950/mo | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Casa15 Azores | Sao Miguel, Azores | from €950/mo | 4.9 (145) | private | — | Permanent |
 
 ## Price distribution
 

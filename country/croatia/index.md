@@ -4,10 +4,10 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Kraljice Residence (Boho House) | Pakoštane | from BGN 1,169/mo | private | 30 nights (~1 month) | Permanent |
-| Ante Starčevića Home | Pakoštane | from BGN 1,272/mo | private | 30 nights (~1 month) | Pop-up |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Kraljice Residence (Boho House) | Pakoštane | from BGN 1,169/mo | 4.5 (52) | private | 30 nights (~1 month) | Permanent |
+| Ante Starčevića Home | Pakoštane | from BGN 1,272/mo | — | private | 30 nights (~1 month) | Pop-up |
 
 ## Price distribution
 

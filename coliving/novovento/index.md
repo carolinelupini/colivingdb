@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €300/mo
 - **Price note:** €660/month (€28/night)
+- **Rating:** <a href="https://maps.google.com/?cid=4038937007928880779&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (48 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
 - **Tags:** island, rural, surf, coworking, community
 - **Website:** https://www.mapmelon.com/colivings/novovento
+- **Rating:** 4.8 from 48 Google reviews
 
 ## Rates
 
@@ -20,7 +22,7 @@
 | Per night | €35 | €18 |
 | Per month | €660 | €300 |
 
-No weekly rate is published by the operator. Rates are never derived from another duration.
+Novovento does not publish a weekly rate.
 
 ## About
 

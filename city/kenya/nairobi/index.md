@@ -4,10 +4,10 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| AfricaNomads — Nairobi (Jul 2026) | Nairobi | On request | — | — | Pop-up |
-| AfricaNomads — Nairobi (Nov 2026) | Nairobi | On request | — | — | Pop-up |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| AfricaNomads — Nairobi (Jul 2026) | Nairobi | On request | — | — | — | Pop-up |
+| AfricaNomads — Nairobi (Nov 2026) | Nairobi | On request | — | — | — | Pop-up |
 
 ## Upcoming pop-ups
 

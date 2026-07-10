@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Coliving Ericeira by Barefoot Portugal | Ericeira (Santo Isidoro) | from €1,350/mo | private | 1 night | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Coliving Ericeira by Barefoot Portugal | Ericeira (Santo Isidoro) | from €1,350/mo | 4.9 (127) | private | 1 night | Permanent |
 
 ## Price distribution
 

@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €1,677/mo
 - **Price note:** per-house rate not listed; network from ~EUR390/week
+- **Rating:** <a href="https://maps.google.com/?cid=18133329006221814077&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (2 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
 - **Tags:** city, island, coworking, community
 - **Website:** https://repeople.co
+- **Rating:** 5.0 from 2 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | €1,677 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Repeople Casanova Coliving does not publish a nightly or weekly rate.
 
 ## About
 

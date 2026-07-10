@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Nomio | Tivat | from €500/mo | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Nomio | Tivat | from €500/mo | 5.0 (11) | private | — | Permanent |
 
 ## Price distribution
 

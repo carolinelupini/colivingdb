@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| The Pier | Goto Nagasaki | Goto (Fukue), Nagasaki | On request | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| The Pier | Goto Nagasaki | Goto (Fukue), Nagasaki | On request | 5.0 (12) | private | — | Permanent |
 
 Source: https://colivingdb.com/city/japan/goto-fukue-nagasaki/

@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| HOMA Phuket Town | Phuket | from THB 18,000/mo | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| HOMA Phuket Town | Phuket | from THB 18,000/mo | 4.7 (938) | private | — | Permanent |
 
 ## Price distribution
 

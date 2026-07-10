@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Swelldesk Coliving & Coworking | Baleal, Peniche | from €960/mo | private, shared | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Swelldesk Coliving & Coworking | Baleal, Peniche | from €960/mo | 4.9 (20) | private, shared | — | Permanent |
 
 ## Price distribution
 

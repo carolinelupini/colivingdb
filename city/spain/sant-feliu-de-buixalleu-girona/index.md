@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Wonder House Coliving | Sant Feliu de Buixalleu, Girona | from €750/mo | private, shared | 30 nights (~1 month) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Wonder House Coliving | Sant Feliu de Buixalleu, Girona | from €750/mo | 5.0 (34) | private, shared | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

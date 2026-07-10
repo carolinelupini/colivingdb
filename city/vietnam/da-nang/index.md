@@ -4,10 +4,10 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Enosta Space | Da Nang | from VND 8,500,000/mo | private, dorm | — | Permanent |
-| Coworking Danang | Da Nang | from VND 25,000,000/mo | private | 30 nights (~1 month) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Enosta Space | Da Nang | from VND 8,500,000/mo | 4.7 (73) | private, dorm | — | Permanent |
+| Coworking Danang | Da Nang | from VND 25,000,000/mo | 4.9 (156) | private | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

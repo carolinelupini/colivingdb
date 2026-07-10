@@ -5,12 +5,14 @@
 - **Location:** Rio de Janeiro, Brazil
 - **Type:** Permanent coliving
 - **Price:** from BRL 1,950/mo
+- **Rating:** <a href="https://maps.google.com/?cid=17030811228371511975&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (20 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Tags:** coworking, community, city
 - **Website:** https://covivere.com.br/
+- **Rating:** 4.4 from 20 Google reviews
 
 ## Rates
 
@@ -18,6 +20,6 @@
 |---|---|
 | Per month | BRL 1,950 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Vivére Coliving does not publish a nightly or weekly rate.
 
 Source: https://colivingdb.com/coliving/vivere-coliving/

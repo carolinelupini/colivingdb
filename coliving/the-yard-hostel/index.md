@@ -5,12 +5,14 @@
 - **Location:** Bangkok, Thailand
 - **Type:** Permanent coliving
 - **Price:** from $300/mo
+- **Rating:** <a href="https://maps.google.com/?cid=14959720310593593130&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (811 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** —
 - **Region:** Asia
 - **Tags:** community, coworking, city
 - **Website:** https://www.theyardhostels.com/
+- **Rating:** 4.7 from 811 Google reviews
 
 ## Rates
 
@@ -18,7 +20,7 @@
 |---|---|
 | Per month | $300 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+The Yard Hostel does not publish a nightly or weekly rate.
 
 ## About
 

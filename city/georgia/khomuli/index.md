@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Khomuli Home | Khomuli | from BGN 375/mo | private, shared | 30 nights (~1 month) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Khomuli Home | Khomuli | from BGN 375/mo | — | private, shared | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

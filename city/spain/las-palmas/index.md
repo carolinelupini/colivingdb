@@ -4,10 +4,10 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| The Mozart | Las Palmas | from €990/mo | private | 30 nights (~1 month) | Permanent |
-| García Morato Home | Las Palmas | from €1,533/mo | private | 30 nights (~1 month) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| The Mozart | Las Palmas | from €990/mo | — | private | 30 nights (~1 month) | Permanent |
+| García Morato Home | Las Palmas | from €1,533/mo | 4.0 (530) | private | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

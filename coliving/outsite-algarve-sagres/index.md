@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €800/mo
 - **Price note:** from EUR800/month winter rate
+- **Rating:** <a href="https://maps.google.com/?cid=3354911249333557472&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (23 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
 - **Tags:** beach, surf, coworking, community
 - **Website:** https://www.outsite.co/locations/sagres
+- **Rating:** 4.4 from 23 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | €800 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Outsite Algarve - Sagres does not publish a nightly or weekly rate.
 
 ## About
 

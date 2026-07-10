@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| The Agiou Georgiou (Agiou Georgiou Home / The Retreat) | Maroni | from BGN 2,152/mo | private | 30 nights (~1 month) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| The Agiou Georgiou (Agiou Georgiou Home / The Retreat) | Maroni | from BGN 2,152/mo | — | private | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

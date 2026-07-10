@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Nomad's Ville (Mirante de Pipa) | Praia da Pipa | On request | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Nomad's Ville (Mirante de Pipa) | Praia da Pipa | On request | 4.7 (738) | private | — | Permanent |
 
 Source: https://colivingdb.com/city/brazil/praia-da-pipa/

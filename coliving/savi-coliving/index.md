@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €800/mo
 - **Price note:** single rooms from ~€800/month, most from €1,100
+- **Rating:** <a href="https://maps.google.com/?cid=8220068475405040602&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (52 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
 - **Tags:** mountain, rural, coworking, community, startup
 - **Website:** https://savicoliving.com/
+- **Rating:** 4.9 from 52 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | €800 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Savi Coliving does not publish a nightly or weekly rate.
 
 ## About
 

@@ -20,6 +20,6 @@
 | Per week | €180 |
 | Per month | €670 |
 
-No nightly rate is published by the operator. Rates are never derived from another duration.
+The Better Neighbours — Sinaia does not publish a nightly rate.
 
 Source: https://colivingdb.com/coliving/the-better-neighbours-sinaia/

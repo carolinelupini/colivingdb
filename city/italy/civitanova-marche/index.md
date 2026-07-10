@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Navitas Coliving | Civitanova Marche | from €540/mo | private | 7 nights (~1 week) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Navitas Coliving | Civitanova Marche | from €540/mo | 4.9 (71) | private | 7 nights (~1 week) | Permanent |
 
 ## Price distribution
 

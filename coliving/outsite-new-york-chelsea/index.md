@@ -6,21 +6,22 @@
 - **Type:** Permanent coliving
 - **Price:** from $3,900/mo
 - **Price note:** est. from ~$130/night private; monthly rate via dates
+- **Rating:** <a href="https://maps.google.com/?cid=14548676261777476116&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (85 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** North America
 - **Tags:** city, coworking, community
 - **Website:** https://www.outsite.co/locations/new-york-chelsea
+- **Rating:** 4.3 from 85 Google reviews
 
 ## Rates
 
 | Stay length | Private |
 |---|---|
-| Per night | — |
 | Per month | $3,900 |
 
-No weekly rate is published by the operator. Rates are never derived from another duration.
+Outsite New York - Chelsea does not publish a nightly or weekly rate.
 
 ## About
 

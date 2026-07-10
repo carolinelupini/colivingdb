@@ -19,6 +19,6 @@
 |---|---|
 | Per month | €1,500 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Boundless Life — Canggu, Bali does not publish a nightly or weekly rate.
 
 Source: https://colivingdb.com/coliving/boundless-life-canggu-bali/

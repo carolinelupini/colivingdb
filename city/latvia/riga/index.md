@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| The Jelgavas Iela (Jelgavas Iela Hub) | Riga | from €665/mo | private | 150 nights (~5 months) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| The Jelgavas Iela (Jelgavas Iela Hub) | Riga | from €665/mo | — | private | 150 nights (~5 months) | Permanent |
 
 ## Price distribution
 

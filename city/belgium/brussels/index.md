@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Nomad's House | Brussels | from €690/mo | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Nomad's House | Brussels | from €690/mo | 5.0 (67) | private | — | Permanent |
 
 ## Price distribution
 

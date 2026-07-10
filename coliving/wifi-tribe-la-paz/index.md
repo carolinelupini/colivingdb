@@ -19,6 +19,6 @@
 |---|---|---|
 | Per month | $2,090 | $1,190 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+WiFi Tribe — La Paz does not publish a nightly or weekly rate.
 
 Source: https://colivingdb.com/coliving/wifi-tribe-la-paz/

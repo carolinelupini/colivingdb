@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Burgas Coliving | Burgas | from €1,400/mo | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Burgas Coliving | Burgas | from €1,400/mo | 4.9 (46) | private | — | Permanent |
 
 Source: https://colivingdb.com/city/bulgaria/burgas/

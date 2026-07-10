@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| The Arawa (Arawa Collective) | Rotorua | from €815/mo | private | 30 nights (~1 month) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| The Arawa (Arawa Collective) | Rotorua | from A$308/wk | 4.4 (13) | private | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Quinta Da Carvalheira | Soure | from €510/mo | — | 1 night | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Quinta Da Carvalheira | Soure | from €510/mo | 5.0 (14) | — | 1 night | Permanent |
 
 ## Price distribution
 

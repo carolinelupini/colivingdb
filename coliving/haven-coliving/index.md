@@ -6,20 +6,22 @@
 - **Type:** Permanent coliving
 - **Price:** from $995/mo
 - **Price note:** from $895-995/month shared room, month-to-month
+- **Rating:** <a href="https://maps.google.com/?cid=11203409329430449803&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.2 (20 reviews)</a> <small>· Google</small>
 - **Room types:** shared
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** North America
 - **Tags:** beach, city, community
 - **Website:** https://havencoliving.com/
+- **Rating:** 4.2 from 20 Google reviews
 
 ## Rates
 
-| Stay length | From |
+| Stay length | Shared |
 |---|---|
 | Per month | $995 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Haven Coliving does not publish a nightly or weekly rate.
 
 ## About
 

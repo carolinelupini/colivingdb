@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| SpotBase | Iława, Masuria | from €2,580/mo | private | 1 night | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| SpotBase | Iława, Masuria | from €2,580/mo | — | private | 1 night | Permanent |
 
 ## Price distribution
 

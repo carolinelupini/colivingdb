@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from R10,000/mo
 - **Price note:** est.; town-level rate not published
+- **Rating:** <a href="https://maps.google.com/?cid=4872470751672047690&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (139 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Africa
 - **Tags:** rural, community
 - **Website:** https://www.neighbourgood.co
+- **Rating:** 4.5 from 139 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | R10,000 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Neighbourgood De Wet does not publish a nightly or weekly rate.
 
 ## About
 

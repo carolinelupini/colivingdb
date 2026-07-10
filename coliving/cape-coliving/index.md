@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €1,095/mo
 - **Price note:** from ~$850/mo (est. EUR)
+- **Rating:** <a href="https://maps.google.com/?cid=11459430011803667920&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (70 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Africa
 - **Tags:** city, coworking, community
 - **Website:** https://capecoliving.com/
+- **Rating:** 5.0 from 70 Google reviews
 
 ## Rates
 
@@ -20,7 +22,7 @@
 | Per night | €44 |
 | Per month | €1,095 |
 
-No weekly rate is published by the operator. Rates are never derived from another duration.
+Cape Coliving does not publish a weekly rate.
 
 ## About
 

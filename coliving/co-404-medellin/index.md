@@ -6,20 +6,23 @@
 - **Type:** Permanent coliving
 - **Price:** from $362/mo
 - **Price note:** from $362/month (est. EUR)
+- **Rating:** <a href="https://maps.google.com/?cid=1072672229439293317&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (64 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Tags:** city, coworking, community
 - **Website:** https://co404.com
+- **Rating:** 4.8 from 64 Google reviews
 
 ## Rates
 
 | Stay length | Private |
 |---|---|
+| Per night | $57 |
 | Per month | $362 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Co.404 Medellin does not publish a weekly rate.
 
 ## About
 

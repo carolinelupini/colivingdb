@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Lava Coliving (LAVA Acores) | Ribeira Grande, Sao Miguel, Azores | from €750/mo | private, shared | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Lava Coliving (LAVA Acores) | Ribeira Grande, Sao Miguel, Azores | from €750/mo | 4.9 (60) | private, shared | — | Permanent |
 
 ## Price distribution
 

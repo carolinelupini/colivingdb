@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Humant Coliving - Cancún, México | Cancún | from $29/night | private, shared | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Humant Coliving - Cancún, México | Cancún | from MXN 15,250/mo | 4.9 (178) | private, shared | — | Permanent |
 
 Source: https://colivingdb.com/city/mexico/cancun/

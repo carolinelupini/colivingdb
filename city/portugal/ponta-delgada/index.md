@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Quinta do Bom Despacho | Ponta Delgada | On request | — | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Quinta do Bom Despacho | Ponta Delgada | On request | 4.8 (141) | — | — | Permanent |
 
 Source: https://colivingdb.com/city/portugal/ponta-delgada/

@@ -4,15 +4,15 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Four Leaf Clover Bansko - Coliving | Bansko | from €280/mo | private | — | Permanent |
-| The Yavor | Bansko | from BGN 587/mo | private | 30 nights (~1 month) | Permanent |
-| Avalon Bansko | Bansko | from €550/mo | private, shared | 31 nights | Permanent |
-| Nomadico Coliving Bansko | Bansko | from €638/mo | private, shared | 7 nights (~1 week) | Permanent |
-| The Pirin | Bansko | from BGN 1,424/mo | private | 30 nights (~1 month) | Pop-up |
-| Coliving Valentina Bansko | Bansko | from €750/mo | private | — | Permanent |
-| Coliving Bansko by "Coworking Bansko" and Networking Premium | Bansko | On request | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Four Leaf Clover Bansko - Coliving | Bansko | from €280/mo | 5.0 (6) | private | — | Permanent |
+| The Yavor | Bansko | from BGN 587/mo | — | private | 30 nights (~1 month) | Permanent |
+| Avalon Bansko | Bansko | from €550/mo | 4.7 (125) | private, shared | 31 nights | Permanent |
+| Nomadico Coliving Bansko | Bansko | from €638/mo | 4.9 (16) | private, shared | 7 nights (~1 week) | Permanent |
+| The Pirin | Bansko | from BGN 1,424/mo | — | private | 30 nights (~1 month) | Pop-up |
+| Coliving Valentina Bansko | Bansko | from €750/mo | 4.7 (106) | private | — | Permanent |
+| Coliving Bansko by "Coworking Bansko" and Networking Premium | Bansko | On request | — | private | — | Permanent |
 
 ## Price distribution
 

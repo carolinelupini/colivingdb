@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| The Coh | Auckland | from NZ$1,516/mo | private, shared | 90 nights (~3 months) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| The Coh | Auckland | from NZ$1,516/mo | 4.8 (103) | private, shared | 90 nights (~3 months) | Permanent |
 
 ## Price distribution
 

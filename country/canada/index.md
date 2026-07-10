@@ -4,10 +4,10 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Mimos Coliving - Toronto Annex | Toronto | from C$1,440/mo | private | 28 nights (~4 weeks) | Permanent |
-| Nomad Coliving | Montreal | On request | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Mimos Coliving - Toronto Annex | Toronto | from C$1,440/mo | 4.9 (17) | private | 28 nights (~4 weeks) | Permanent |
+| Nomad Coliving | Montreal | On request | 4.9 (33) | private | — | Permanent |
 
 ## Price distribution
 

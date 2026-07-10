@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €668/mo
 - **Price note:** from €25/night, est. monthly
+- **Rating:** <a href="https://maps.google.com/?cid=6943259413914557559&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (109 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 3 nights
 - **Region:** Asia
 - **Tags:** beach, surf, coworking, community
 - **Website:** https://www.colive.me/
+- **Rating:** 4.9 from 109 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | €668 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Colive Me (ColiveMe) does not publish a nightly or weekly rate.
 
 ## About
 

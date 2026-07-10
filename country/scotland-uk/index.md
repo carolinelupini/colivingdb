@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| WiFi Tribe — Edinburgh | Edinburgh | from $1,690/mo | — | — | Pop-up |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| WiFi Tribe — Edinburgh | Edinburgh | from $1,690/mo | — | — | — | Pop-up |
 
 ## Price distribution
 

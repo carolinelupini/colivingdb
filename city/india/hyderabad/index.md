@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Draper Startup House Hyderabad | Hyderabad | from €360/mo | private, shared, dorm | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Draper Startup House Hyderabad | Hyderabad | from €360/mo | 4.7 (521) | private, shared, dorm | — | Permanent |
 
 ## Price distribution
 

@@ -20,6 +20,6 @@
 | Per week | €240 |
 | Per month | €925 |
 
-No nightly rate is published by the operator. Rates are never derived from another duration.
+The Better Neighbours — Lloret de Mar does not publish a nightly rate.
 
 Source: https://colivingdb.com/coliving/the-better-neighbours-lloret-de-mar/

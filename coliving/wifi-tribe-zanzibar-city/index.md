@@ -19,6 +19,6 @@
 |---|---|---|
 | Per month | $2,390 | $1,390 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+WiFi Tribe — Zanzibar City does not publish a nightly or weekly rate.
 
 Source: https://colivingdb.com/coliving/wifi-tribe-zanzibar-city/

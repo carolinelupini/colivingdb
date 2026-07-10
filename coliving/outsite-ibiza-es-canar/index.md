@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €1,000/mo
 - **Price note:** from EUR1,000/month winter deal
+- **Rating:** <a href="https://maps.google.com/?cid=14242937719429629357&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.2 (58 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
 - **Tags:** beach, island, coworking, community
 - **Website:** https://www.outsite.co/locations/ibiza-es-canar
+- **Rating:** 4.2 from 58 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | €1,000 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Outsite Ibiza - Es Canar does not publish a nightly or weekly rate.
 
 ## About
 

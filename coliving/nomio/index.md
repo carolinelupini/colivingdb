@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €500/mo
 - **Price note:** from €500/mo
+- **Rating:** <a href="https://maps.google.com/?cid=15711399445176846230&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (11 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
 - **Tags:** coworking, community, beach, city
 - **Website:** https://livenomio.com
+- **Rating:** 5.0 from 11 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | €500 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Nomio does not publish a nightly or weekly rate.
 
 ## About
 

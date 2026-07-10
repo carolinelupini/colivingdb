@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €585/mo
 - **Price note:** est. from €22/night (rooms €22–39/day)
+- **Rating:** <a href="https://maps.google.com/?cid=8873403990868548814&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (58 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
 - **Tags:** city, beach, eco, community, island
 - **Website:** https://ecoisleta.com/en/
+- **Rating:** 4.9 from 58 Google reviews
 
 ## Rates
 
@@ -20,7 +22,7 @@
 | Per night | €23 |
 | Per month | €585 |
 
-No weekly rate is published by the operator. Rates are never derived from another duration.
+Ecoisleta Coliving does not publish a weekly rate.
 
 ## About
 

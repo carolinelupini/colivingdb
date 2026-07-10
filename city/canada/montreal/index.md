@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Nomad Coliving | Montreal | On request | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Nomad Coliving | Montreal | On request | 4.9 (33) | private | — | Permanent |
 
 Source: https://colivingdb.com/city/canada/montreal/

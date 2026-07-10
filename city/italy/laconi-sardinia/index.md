@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Treballu Rural Community Hub | Laconi (Sardinia) | On request | private, shared | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Treballu Rural Community Hub | Laconi (Sardinia) | On request | 4.6 (19) | private, shared | — | Permanent |
 
 Source: https://colivingdb.com/city/italy/laconi-sardinia/

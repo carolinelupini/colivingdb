@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €800/mo
 - **Price note:** from EUR800/month winter; members-only
+- **Rating:** <a href="https://maps.google.com/?cid=16125967481152168657&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (34 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
 - **Tags:** beach, surf, coworking, community
 - **Website:** https://www.outsite.co/locations/ericeira
+- **Rating:** 4.7 from 34 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | €800 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Outsite Ericeira - Centro does not publish a nightly or weekly rate.
 
 ## About
 

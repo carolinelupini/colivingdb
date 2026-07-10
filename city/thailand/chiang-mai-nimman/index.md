@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Hub53 Coworking and Coliving Space | Chiang Mai (Nimman) | from THB 9,000/mo | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Hub53 Coworking and Coliving Space | Chiang Mai (Nimman) | from THB 9,000/mo | 4.6 (187) | private | — | Permanent |
 
 ## Price distribution
 

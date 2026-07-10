@@ -19,7 +19,7 @@
 |---|---|
 | Per month | €800 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Outsite Ericeira - Boavista does not publish a nightly or weekly rate.
 
 ## About
 

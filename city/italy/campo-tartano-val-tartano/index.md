@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Wome coliving | Campo Tartano (Val Tartano) | On request | private, shared | 8 nights | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Wome coliving | Campo Tartano (Val Tartano) | On request | 5.0 (31) | private, shared | 8 nights | Permanent |
 
 Source: https://colivingdb.com/city/italy/campo-tartano-val-tartano/

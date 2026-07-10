@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Shali Home | Siwa | from BGN 325/mo | private, shared | 30 nights (~1 month) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Shali Home | Siwa | from BGN 325/mo | 5.0 (1) | private, shared | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

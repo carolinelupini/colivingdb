@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from $2,400/mo
 - **Price note:** not published; furnished apartments, no contracts
+- **Rating:** <a href="https://maps.google.com/?cid=12310068605194050873&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (2266 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Tags:** coworking, community, city
 - **Website:** https://www.opta.com.uy
+- **Rating:** 4.3 from 2266 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | $2,400 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Opta Coliving does not publish a nightly or weekly rate.
 
 ## About
 

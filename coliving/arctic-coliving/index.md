@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** community stays by week or season; price on request
+- **Rating:** <a href="https://maps.google.com/?cid=25184093331804751&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (16 reviews)</a> <small>· Google</small>
 - **Room types:** shared, private
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
 - **Tags:** mountain, ski, surf, coworking, community, rural
 - **Website:** https://www.arcticcoliving.com/
+- **Rating:** 5.0 from 16 Google reviews
 
 ## About
 

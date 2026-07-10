@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Neighbourgood De Wet | Franschhoek | from R10,000/mo | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Neighbourgood De Wet | Franschhoek | from R10,000/mo | 4.5 (139) | private | — | Permanent |
 
 Source: https://colivingdb.com/city/south-africa/franschhoek/

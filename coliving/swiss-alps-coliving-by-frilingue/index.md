@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from CHF 700/mo
 - **Price note:** from ~700 CHF/mo shared (~EUR750); weekly 275-588 CHF
+- **Rating:** <a href="https://maps.google.com/?cid=1119435585620632756&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (31 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
 - **Tags:** mountain, ski, coworking, community, rural
 - **Website:** https://swissalpscoliving.com/
+- **Rating:** 5.0 from 31 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|---|
 | Per month | CHF 1,500 | CHF 700 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Swiss Alps Coliving (by Frilingue) does not publish a nightly or weekly rate.
 
 ## About
 

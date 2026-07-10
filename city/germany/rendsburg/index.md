@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| MOOM Coliving | Rendsburg | from €819/mo | private | 7 nights (~1 week) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| MOOM Coliving | Rendsburg | from €819/mo | — | private | 7 nights (~1 week) | Permanent |
 
 ## Price distribution
 

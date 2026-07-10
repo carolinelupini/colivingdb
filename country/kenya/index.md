@@ -4,12 +4,12 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| AfricaNomads — Lamu Island | Lamu Island | On request | — | — | Pop-up |
-| AfricaNomads — Nairobi (Jul 2026) | Nairobi | On request | — | — | Pop-up |
-| AfricaNomads — Nairobi (Nov 2026) | Nairobi | On request | — | — | Pop-up |
-| Skippers | Diani Beach | from €500/mo | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| AfricaNomads — Lamu Island | Lamu Island | On request | — | — | — | Pop-up |
+| AfricaNomads — Nairobi (Jul 2026) | Nairobi | On request | — | — | — | Pop-up |
+| AfricaNomads — Nairobi (Nov 2026) | Nairobi | On request | — | — | — | Pop-up |
+| Skippers | Diani Beach | from €500/mo | 4.6 (67) | private | — | Permanent |
 
 ## Upcoming pop-ups
 

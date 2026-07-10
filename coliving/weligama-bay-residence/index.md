@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from $1,818/mo
 - **Price note:** from BGN 3,860/mo standard private room
+- **Rating:** <a href="https://maps.google.com/?cid=5830583501802065789&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (58 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Asia
 - **Tags:** beach, surf, coworking
 - **Website:** https://coliving.com/spaces/klomftm3
+- **Rating:** 4.7 from 58 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | $1,818 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Weligama Bay Residence does not publish a nightly or weekly rate.
 
 ## About
 

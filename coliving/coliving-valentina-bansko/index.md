@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €750/mo
 - **Price note:** studio from €650/month
+- **Rating:** <a href="https://maps.google.com/?cid=7657526736195463959&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (106 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
 - **Tags:** mountain, ski, coworking, community
 - **Website:** https://valentinabansko.com/
+- **Rating:** 4.7 from 106 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | €750 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Coliving Valentina Bansko does not publish a nightly or weekly rate.
 
 ## About
 

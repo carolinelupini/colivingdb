@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| WiFi Tribe — Zanzibar City | Zanzibar City | from $1,390/mo | — | — | Pop-up |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| WiFi Tribe — Zanzibar City | Zanzibar City | from $1,390/mo | — | — | — | Pop-up |
 
 ## Price distribution
 

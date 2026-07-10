@@ -6,21 +6,22 @@
 - **Type:** Permanent coliving
 - **Price:** from $955/mo
 - **Price note:** €930/mo discounted (reg. €1,380); ~€46/night
+- **Rating:** <a href="https://maps.google.com/?cid=1569537357824445474&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (66 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Latin America
 - **Tags:** city, coworking, community
 - **Website:** https://www.nomadico.io/medellin-coliving
+- **Rating:** 4.9 from 66 Google reviews
 
 ## Rates
 
 | Stay length | Private |
 |---|---|
-| Per week | $321 |
 | Per month | $955 |
 
-No nightly rate is published by the operator. Rates are never derived from another duration.
+Nomadico Coliving Medellín does not publish a nightly or weekly rate.
 
 ## About
 

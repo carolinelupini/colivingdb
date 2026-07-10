@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Behappy Lodge | Esmoriz | On request | private, shared, dorm | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Behappy Lodge | Esmoriz | On request | 4.9 (338) | private, shared, dorm | — | Permanent |
 
 Source: https://colivingdb.com/city/portugal/esmoriz/

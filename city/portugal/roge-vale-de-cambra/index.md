@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Coliving The VALLEY with Coworking Space | Rogé, Vale de Cambra | from €510/mo | private | 5 nights | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Coliving The VALLEY with Coworking Space | Rogé, Vale de Cambra | from €510/mo | 5.0 (33) | private | 5 nights | Permanent |
 
 ## Price distribution
 

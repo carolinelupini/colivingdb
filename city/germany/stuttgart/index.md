@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Co-Living Co-Working Esslingen-Stuttgart | Stuttgart | from €645/mo | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Co-Living Co-Working Esslingen-Stuttgart | Stuttgart | from €645/mo | 4.2 (5) | private | — | Permanent |
 
 ## Price distribution
 

@@ -19,7 +19,7 @@
 |---|---|
 | Per month | BGN 850 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Mazal Waddo Residence does not publish a nightly or weekly rate.
 
 ## About
 

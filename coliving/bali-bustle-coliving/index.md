@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from IDR 8,700,000/mo
 - **Price note:** from ~€11.50/night, est. monthly
+- **Rating:** <a href="https://maps.google.com/?cid=8290960225356948981&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (462 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 3 nights
 - **Region:** Asia
 - **Tags:** city, beach, coworking, community
 - **Website:** https://balibustle.com/
+- **Rating:** 4.6 from 462 Google reviews
 
 ## Rates
 

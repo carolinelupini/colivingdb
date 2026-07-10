@@ -4,11 +4,11 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Coliving Frilingue | Liddes | from €500/mo | private, shared, dorm | — | Permanent |
-| Swiss Alps Coliving | Liddes | from CHF 700/mo | private, shared | — | Permanent |
-| Fond de Ville Home II | Liddes | from €994/mo | private, shared | 30 nights (~1 month) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Coliving Frilingue | Liddes | from €500/mo | 5.0 (31) | private, shared, dorm | — | Permanent |
+| Swiss Alps Coliving | Liddes | from CHF 700/mo | — | private, shared | — | Permanent |
+| Fond de Ville Home II | Liddes | from €994/mo | — | private, shared | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

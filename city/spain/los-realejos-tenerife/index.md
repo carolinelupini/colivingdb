@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Tulia Community | Los Realejos, Tenerife | from €1,140/mo | private, apartment | 6 nights | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Tulia Community | Los Realejos, Tenerife | from €1,140/mo | 4.5 (22) | private, apartment | 6 nights | Permanent |
 
 ## Price distribution
 

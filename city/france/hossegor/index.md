@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Coworksurf Hossegor | Hossegor | from €1,050/mo | private, shared | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Coworksurf Hossegor | Hossegor | from €1,050/mo | — | private, shared | — | Permanent |
 
 ## Price distribution
 

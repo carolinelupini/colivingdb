@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Berawa Collective | Berawa (Canggu, Bali) | from €1,334/mo | private | 30 nights (~1 month) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Berawa Collective | Berawa (Canggu, Bali) | from €1,334/mo | 4.4 (52) | private | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

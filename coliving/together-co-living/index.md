@@ -4,13 +4,23 @@
 
 - **Location:** Melbourne, Australia
 - **Type:** Permanent coliving
-- **Price:** On request
+- **Price:** from A$640/wk
+- **Rating:** <a href="https://maps.google.com/?cid=10990434807176680687&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 3.1 (234 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Oceania
 - **Tags:** coworking, community
 - **Website:** https://togethercoliving.com/
+- **Rating:** 3.1 from 234 Google reviews
+
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per week | A$640 |
+
+Together Co-Living does not publish a nightly or monthly rate.
 
 ## About
 

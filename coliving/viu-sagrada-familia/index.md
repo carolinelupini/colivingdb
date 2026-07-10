@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €1,000/mo
 - **Price note:** from €33.33/night (~€1,000/mo)
+- **Rating:** <a href="https://maps.google.com/?cid=281203669749357264&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (48 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 28 nights (~4 weeks)
 - **Region:** Europe
 - **Tags:** city, community, coworking, eco
 - **Website:** https://www.mapmelon.com/colivings/viu-sagrada-familia
+- **Rating:** 4.9 from 48 Google reviews
 
 ## Rates
 
@@ -20,7 +22,7 @@
 | Per night | €33 |
 | Per month | €1,000 |
 
-No weekly rate is published by the operator. Rates are never derived from another duration.
+VIU Sagrada Familia does not publish a weekly rate.
 
 ## About
 

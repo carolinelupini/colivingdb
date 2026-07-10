@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Kalima Beach Life | Caldes d'Estrac (Barcelona) | from €780/mo | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Kalima Beach Life | Caldes d'Estrac (Barcelona) | from €780/mo | — | private | — | Permanent |
 
 ## Price distribution
 

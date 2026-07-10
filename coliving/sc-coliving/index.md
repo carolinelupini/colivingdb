@@ -20,7 +20,7 @@
 | Per night | €14 |
 | Per month | €420 |
 
-No weekly rate is published by the operator. Rates are never derived from another duration.
+SC Coliving does not publish a weekly rate.
 
 ## About
 

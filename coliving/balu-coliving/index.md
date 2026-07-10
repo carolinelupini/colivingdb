@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €650/mo
 - **Price note:** described as affordable; price on request
+- **Rating:** <a href="https://maps.google.com/?cid=2073172321759266130&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (45 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Tags:** city, community
 - **Website:** https://coliving.community/at/balu
+- **Rating:** 4.8 from 45 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | €650 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Balu Coliving does not publish a nightly or weekly rate.
 
 ## About
 

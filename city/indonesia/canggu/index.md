@@ -4,11 +4,11 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Matra Bali | Canggu | from IDR 7,500,000/mo | private | — | Permanent |
-| Tropical Nomad Coliving | Canggu | from $950/mo | private | — | Permanent |
-| Coworksurf Berawa (Canggu) | Canggu | On request | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Matra Bali | Canggu | from IDR 7,500,000/mo | 4.3 (122) | private | — | Permanent |
+| Tropical Nomad Coliving | Canggu | from $950/mo | 4.4 (377) | private | — | Permanent |
+| Coworksurf Berawa (Canggu) | Canggu | On request | 4.3 (20) | private | — | Permanent |
 
 ## Price distribution
 

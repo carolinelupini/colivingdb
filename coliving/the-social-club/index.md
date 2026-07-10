@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from $800/mo
 - **Price note:** from $800/month private room incl. coworking
+- **Rating:** <a href="https://maps.google.com/?cid=15391703322143782553&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (200 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Asia
 - **Tags:** city, coworking, community
 - **Website:** https://www.thesocialclub.asia/
+- **Rating:** 4.9 from 200 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | $800 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+THE SOCIAL CLUB does not publish a nightly or weekly rate.
 
 ## About
 

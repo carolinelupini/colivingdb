@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** not published; inquiry via Xmile
+- **Rating:** <a href="https://maps.google.com/?cid=11189548578056388070&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (40 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
 - **Tags:** island, beach, community, coworking
 - **Website:** https://www.xmiletenerife.com/
+- **Rating:** 4.9 from 40 Google reviews
 
 ## About
 

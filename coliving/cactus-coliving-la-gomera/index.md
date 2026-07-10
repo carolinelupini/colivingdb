@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €690/mo
 - **Price note:** from ~€33/night (~€690/month with discount) per Mapmelon
+- **Rating:** <a href="https://maps.google.com/?cid=15296178790543604382&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (55 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 13 nights
 - **Region:** Europe
 - **Tags:** island, mountain, coworking, community
 - **Website:** https://www.cactuscoliving.com/
+- **Rating:** 4.7 from 55 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | €690 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Cactus Coliving La Gomera does not publish a nightly or weekly rate.
 
 ## About
 

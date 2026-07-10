@@ -4,13 +4,13 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Outsite Coliving Lisbon (Cais do Sodré) | Lisbon | from €800/mo | private | — | Permanent |
-| Outsite Lisbon - Cais do Sodre | Lisbon | from €800/mo | private | — | Permanent |
-| samesame co-living | Lisbon | from €800/mo | private | 8 nights | Permanent |
-| Outsite Lisbon - Intendente | Lisbon | from €1,000/mo | private | — | Permanent |
-| samesame living | Lisbon | from €1,320/mo | private | 8 nights | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Outsite Coliving Lisbon (Cais do Sodré) | Lisbon | from €800/mo | 4.4 (79) | private | — | Permanent |
+| Outsite Lisbon - Cais do Sodre | Lisbon | from €800/mo | 4.5 (175) | private | — | Permanent |
+| samesame co-living | Lisbon | from €800/mo | 4.8 (84) | private | 8 nights | Permanent |
+| Outsite Lisbon - Intendente | Lisbon | from €1,000/mo | 4.4 (35) | private | — | Permanent |
+| samesame living | Lisbon | from €1,320/mo | 4.8 (84) | private | 8 nights | Permanent |
 
 ## Price distribution
 

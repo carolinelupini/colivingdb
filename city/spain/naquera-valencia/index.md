@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Savi Coliving | Náquera (Valencia) | from €800/mo | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Savi Coliving | Náquera (Valencia) | from €800/mo | 4.9 (52) | private | — | Permanent |
 
 ## Price distribution
 

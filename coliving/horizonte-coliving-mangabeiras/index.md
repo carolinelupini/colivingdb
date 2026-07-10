@@ -5,12 +5,14 @@
 - **Location:** Belo Horizonte, Brazil
 - **Type:** Permanent coliving
 - **Price:** from BRL 1,600/mo
+- **Rating:** <a href="https://maps.google.com/?cid=16757248674255325013&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (44 reviews)</a> <small>· Google</small>
 - **Room types:** —
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Tags:** community, coworking, rural
 - **Website:** https://www.horizontecoliving.com/
+- **Rating:** 5.0 from 44 Google reviews
 
 ## Rates
 
@@ -18,6 +20,6 @@
 |---|---|
 | Per month | BRL 1,600 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Horizonte Coliving - Mangabeiras does not publish a nightly or weekly rate.
 
 Source: https://colivingdb.com/coliving/horizonte-coliving-mangabeiras/

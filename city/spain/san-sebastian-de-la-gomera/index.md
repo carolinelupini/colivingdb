@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Cactus Coliving La Gomera | San Sebastián de La Gomera | from €690/mo | private, shared | 13 nights | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Cactus Coliving La Gomera | San Sebastián de La Gomera | from €690/mo | 4.7 (55) | private, shared | 13 nights | Permanent |
 
 ## Price distribution
 

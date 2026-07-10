@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €1,050/mo
 - **Price note:** €630/month (discounted from €1050); from €32/night
+- **Rating:** <a href="https://maps.google.com/?cid=6395189329283834740&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (29 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** 13 nights
 - **Region:** Europe
 - **Tags:** rural, mountain, eco, community, coworking
 - **Website:** https://www.mapmelon.com/colivings/la-vita-sukha
+- **Rating:** 5.0 from 29 Google reviews
 
 ## Rates
 
@@ -20,7 +22,7 @@
 | Per night | €35 |
 | Per month | €1,050 |
 
-No weekly rate is published by the operator. Rates are never derived from another duration.
+La Vita Sukha does not publish a weekly rate.
 
 ## About
 

@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** nightly hotel rates; Cooliving monthly on request
+- **Rating:** <a href="https://maps.google.com/?cid=6842098634507836602&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.0 (439 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
 - **Tags:** beach, surf
 - **Website:** https://www.wotsoul.com/en/our-hotels/wot-ocean-soul/
+- **Rating:** 4.0 from 439 Google reviews
 
 ## About
 

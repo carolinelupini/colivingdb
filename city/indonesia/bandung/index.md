@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Markaz Collective Space | Bandung | On request | — | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Markaz Collective Space | Bandung | On request | 4.7 (96) | — | — | Permanent |
 
 Source: https://colivingdb.com/city/indonesia/bandung/

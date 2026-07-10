@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from BGN 2,951/mo
 - **Price note:** from BGN 2,960/mo (~$1,600) private ensuite
+- **Rating:** <a href="https://maps.google.com/?cid=17207427285309247416&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (95 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Asia
 - **Tags:** city, community, coworking
 - **Website:** https://coliving.com/spaces/l2fgaieh
+- **Rating:** 4.8 from 95 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | BGN 2,951 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+The Rose Apple (Rose Apple Collective) does not publish a nightly or weekly rate.
 
 ## About
 

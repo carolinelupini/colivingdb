@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €25/night
 - **Price note:** €780/mo (discounted from €930); from €31/night
+- **Rating:** <a href="https://maps.google.com/?cid=13609923248219951486&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (60 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
 - **Tags:** island, surf, beach, mountain, coworking, community
 - **Website:** https://www.lavacoliving.com/
+- **Rating:** 4.9 from 60 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|---|
 | Per night | €35 | €25 |
 
-No weekly or monthly rate is published by the operator. Rates are never derived from another duration.
+Lava Coliving & Coworking does not publish a weekly or monthly rate.
 
 ## About
 

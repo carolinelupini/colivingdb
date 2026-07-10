@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €800/mo
 - **Price note:** from ~€800/mo studio (BGN 1,561 conv.)
+- **Rating:** <a href="https://maps.google.com/?cid=7259064230283207513&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (85 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
 - **Tags:** coworking, community
 - **Website:** https://calergi.gr/
+- **Rating:** 4.6 from 85 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | €800 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Calergi Residence does not publish a nightly or weekly rate.
 
 ## About
 

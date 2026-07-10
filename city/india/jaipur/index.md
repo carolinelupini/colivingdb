@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| J Startup House, Jaipur - C Scheme | Jaipur | from INR 400/night | private, dorm | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| J Startup House, Jaipur - C Scheme | Jaipur | from INR 400/night | 4.7 (298) | private, dorm | — | Permanent |
 
 ## Price distribution
 

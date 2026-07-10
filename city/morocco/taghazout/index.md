@@ -4,13 +4,13 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Adventurekeys | Taghazout | from €420/mo | private, dorm | 2 nights | Permanent |
-| Nomadico Coliving Taghazout | Taghazout | from €715/mo | private, shared | — | Permanent |
-| Nomadico Taghazout Bay | Taghazout | from €715/mo | private, shared | 7 nights (~1 week) | Permanent |
-| SunDesk Coliving | Taghazout | from €885/mo | private, shared | 10 nights | Permanent |
-| The Tasga Oudrar II | Taghazout | from BGN 2,445/mo | private, dorm | 30 nights (~1 month) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Adventurekeys | Taghazout | from €420/mo | 4.5 (398) | private, dorm | 2 nights | Permanent |
+| Nomadico Coliving Taghazout | Taghazout | from €715/mo | 4.9 (86) | private, shared | — | Permanent |
+| Nomadico Taghazout Bay | Taghazout | from €715/mo | 4.9 (86) | private, shared | 7 nights (~1 week) | Permanent |
+| SunDesk Coliving | Taghazout | from €885/mo | 4.9 (168) | private, shared | 10 nights | Permanent |
+| The Tasga Oudrar II | Taghazout | from BGN 2,445/mo | — | private, dorm | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

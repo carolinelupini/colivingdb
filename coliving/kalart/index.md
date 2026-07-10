@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €1,020/mo
 - **Price note:** €34/night private, 30-night min (~€1,020/mo)
+- **Rating:** <a href="https://maps.google.com/?cid=17069740391845322535&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (69 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
 - **Tags:** rural, mountain, community, eco, coworking
 - **Website:** https://www.kalart.org
+- **Rating:** 4.9 from 69 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | €1,020 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Kalart does not publish a nightly or weekly rate.
 
 ## About
 

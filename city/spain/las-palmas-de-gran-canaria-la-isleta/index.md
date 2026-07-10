@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Ecoisleta Coliving | Las Palmas de Gran Canaria (La Isleta) | from €585/mo | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Ecoisleta Coliving | Las Palmas de Gran Canaria (La Isleta) | from €585/mo | 4.9 (58) | private | — | Permanent |
 
 ## Price distribution
 

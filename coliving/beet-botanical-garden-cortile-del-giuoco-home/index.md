@@ -19,7 +19,7 @@
 |---|---|---|
 | Per month | €1,350 | €1,000 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Beet - Botanical Garden (Cortile del Giuoco Home) does not publish a nightly or weekly rate.
 
 ## About
 

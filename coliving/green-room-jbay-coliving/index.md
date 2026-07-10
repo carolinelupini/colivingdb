@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** price on booking request; all-inclusive with cowork
+- **Rating:** <a href="https://maps.google.com/?cid=9288949983728616862&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (137 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 14 nights (~2 weeks)
 - **Region:** Africa
 - **Tags:** surf, beach, coworking, community
 - **Website:** https://jbaycoliving.com/
+- **Rating:** 5.0 from 137 Google reviews
 
 ## About
 

@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €960/mo
 - **Price note:** from €42/night or €960/month
+- **Rating:** <a href="https://maps.google.com/?cid=9268707202288740420&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (18 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 1 night
 - **Region:** Europe
 - **Tags:** island, coworking, community, beach, rural
 - **Website:** https://www.mapmelon.com/colivings/casa-capitan-coliving
+- **Rating:** 5.0 from 18 Google reviews
 
 ## Rates
 
@@ -20,7 +22,7 @@
 | Per night | €42 |
 | Per month | €960 |
 
-No weekly rate is published by the operator. Rates are never derived from another duration.
+Casa Capitán Coliving does not publish a weekly rate.
 
 ## About
 

@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €650/mo
 - **Price note:** est.; rates not published (EUR, pay on arrival), booking via nomadico.io
+- **Rating:** <a href="https://maps.google.com/?cid=15530625909079387208&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (160 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
 - **Tags:** city, community, coworking
 - **Website:** https://nestcoliving.me/
+- **Rating:** 4.7 from 160 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|---|
 | Per month | €650 | €360 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Kotor Nest does not publish a nightly or weekly rate.
 
 ## About
 

@@ -5,12 +5,14 @@
 - **Location:** Uluwatu, Indonesia
 - **Type:** Permanent coliving
 - **Price:** from IDR 9,900,000/mo
+- **Rating:** <a href="https://maps.google.com/?cid=6380131208890979198&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (173 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Asia
 - **Tags:** community, beach, surf
 - **Website:** https://cove.id/en/properties/cove-prana
+- **Rating:** 4.4 from 173 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 | Per night | IDR 458,020 |
 | Per month | IDR 9,900,000 |
 
-No weekly rate is published by the operator. Rates are never derived from another duration.
+Cove Prana does not publish a weekly rate.
 
 ## About
 

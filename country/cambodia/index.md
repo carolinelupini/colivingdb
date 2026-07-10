@@ -4,10 +4,10 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Commune | Siem Reap | from $734/mo | private | — | Permanent |
-| The Rose Apple (Rose Apple Collective) | Siem Reap | from BGN 2,951/mo | private | 30 nights (~1 month) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Commune | Siem Reap | from $734/mo | 3.9 (19) | private | — | Permanent |
+| The Rose Apple (Rose Apple Collective) | Siem Reap | from BGN 2,951/mo | 4.8 (95) | private | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

@@ -19,7 +19,7 @@
 |---|---|
 | Per month | €960 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Villa Huerta (Palma Coliving Valencia) does not publish a nightly or weekly rate.
 
 ## About
 

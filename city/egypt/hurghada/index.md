@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Coliving Hurghada (Villa Residence) | Hurghada | from BGN 1,232/mo | private, shared | 30 nights (~1 month) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Coliving Hurghada (Villa Residence) | Hurghada | from BGN 1,232/mo | 4.8 (58) | private, shared | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

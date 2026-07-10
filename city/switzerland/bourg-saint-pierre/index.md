@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Petit Velan Coliving | Bourg-Saint-Pierre | from CHF 500/mo | private, shared | 7 nights (~1 week) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Petit Velan Coliving | Bourg-Saint-Pierre | from CHF 500/mo | — | private, shared | 7 nights (~1 week) | Permanent |
 
 ## Price distribution
 

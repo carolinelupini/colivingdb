@@ -4,13 +4,13 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| The Better Neighbours — Sinaia | Sinaia | from €670/mo | — | — | Pop-up |
-| Cobana | Zărnești | from €775/mo | private | 7 nights (~1 week) | Permanent |
-| Cobana Coliving & Working Hub | Zarnesti, Transylvania | from RON 2,940/mo | private | 7 nights (~1 week) | Permanent |
-| Transylvanian Coliving | Sibiu | On request | private | — | Permanent |
-| play:space cluj Spatiu Evenimente Coworking Coliving | Cluj-Napoca | from €100/wk | — | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| The Better Neighbours — Sinaia | Sinaia | from €670/mo | — | — | — | Pop-up |
+| Cobana | Zărnești | from €775/mo | 5.0 (18) | private | 7 nights (~1 week) | Permanent |
+| Cobana Coliving & Working Hub | Zarnesti, Transylvania | from RON 2,940/mo | 5.0 (18) | private | 7 nights (~1 week) | Permanent |
+| Transylvanian Coliving | Sibiu | On request | 5.0 (20) | private | — | Permanent |
+| play:space cluj Spatiu Evenimente Coworking Coliving | Cluj-Napoca | from €100/wk | 5.0 (12) | — | — | Permanent |
 
 ## Price distribution
 

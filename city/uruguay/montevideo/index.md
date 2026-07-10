@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Opta Coliving | Montevideo | from $2,400/mo | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Opta Coliving | Montevideo | from $2,400/mo | 4.3 (2266) | private | — | Permanent |
 
 Source: https://colivingdb.com/city/uruguay/montevideo/

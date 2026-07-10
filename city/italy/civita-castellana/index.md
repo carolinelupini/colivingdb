@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Taste Remote | Civita Castellana | from €690 per event | private, shared | 7 nights (~1 week) | Pop-up |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Taste Remote | Civita Castellana | from €690 per event | — | private, shared | 7 nights (~1 week) | Pop-up |
 
 ## Upcoming pop-ups
 

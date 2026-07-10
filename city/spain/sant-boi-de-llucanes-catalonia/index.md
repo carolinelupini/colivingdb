@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Mas Pujols | Sant Boi de Llucanes (Catalonia) | On request | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Mas Pujols | Sant Boi de Llucanes (Catalonia) | On request | 5.0 (1) | private | — | Permanent |
 
 Source: https://colivingdb.com/city/spain/sant-boi-de-llucanes-catalonia/

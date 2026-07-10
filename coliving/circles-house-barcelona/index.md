@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €900/mo
 - **Price note:** €900/month with Mapmelon discount (list €1,800); €57/night
+- **Rating:** <a href="https://maps.google.com/?cid=470403822856206400&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (99 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 1 night
 - **Region:** Europe
 - **Tags:** city, community, coworking, startup
 - **Website:** https://www.mapmelon.com/colivings/circles-house-barcelona
+- **Rating:** 4.7 from 99 Google reviews
 
 ## Rates
 
@@ -20,7 +22,7 @@
 | Per night | €57 |
 | Per month | €900 |
 
-No weekly rate is published by the operator. Rates are never derived from another duration.
+Circles House Barcelona does not publish a weekly rate.
 
 ## About
 

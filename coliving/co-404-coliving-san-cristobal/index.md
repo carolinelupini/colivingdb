@@ -4,22 +4,24 @@
 
 - **Location:** San Cristóbal de las Casas, Mexico
 - **Type:** Permanent coliving
-- **Price:** from $396/mo
+- **Price:** from $1,290/mo
 - **Price note:** est. from ~$38/night private, dorms cheaper (~€450/mo est.)
+- **Rating:** <a href="https://maps.google.com/?cid=5715453666132333859&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (81 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Tags:** city, mountain, coworking, community
 - **Website:** https://co404.com/san-cristobal/
+- **Rating:** 4.8 from 81 Google reviews
 
 ## Rates
 
-| Stay length | Private |
-|---|---|
-| Per month | $396 |
+| Stay length | Private | Shared |
+|---|---|---|
+| Per month | $2,390 | $1,290 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+co.404 Coliving San Cristóbal does not publish a nightly or weekly rate.
 
 ## About
 

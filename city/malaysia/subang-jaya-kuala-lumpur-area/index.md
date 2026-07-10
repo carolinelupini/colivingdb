@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| The Hatchery Place | Subang Jaya (Kuala Lumpur area) | from €240/mo | private | 8 nights | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| The Hatchery Place | Subang Jaya (Kuala Lumpur area) | from €240/mo | 4.8 (25) | private | 8 nights | Permanent |
 
 ## Price distribution
 

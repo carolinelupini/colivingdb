@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| La Toza Coworking & Coliving | Cabrero | from €870/mo | private | 15 nights | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| La Toza Coworking & Coliving | Cabrero | from €870/mo | 5.0 (4) | private | 15 nights | Permanent |
 
 ## Price distribution
 

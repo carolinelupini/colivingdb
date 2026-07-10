@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €845/mo
 - **Price note:** pricing via calculator only, not published
+- **Rating:** <a href="https://maps.google.com/?cid=15907212710429089252&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (111 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
 - **Tags:** island, community, coworking
 - **Website:** https://evolvecoliving.io
+- **Rating:** 4.7 from 111 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | €845 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Evolve Coliving Malta does not publish a nightly or weekly rate.
 
 ## About
 

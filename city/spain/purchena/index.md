@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Picassa • Pueblo Coliving & Coworking | Purchena | from €450/mo | private | 14 nights (~2 weeks) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Picassa • Pueblo Coliving & Coworking | Purchena | from €450/mo | 5.0 (17) | private | 14 nights (~2 weeks) | Permanent |
 
 ## Price distribution
 

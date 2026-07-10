@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Saakadze Home | Dusheti | from BGN 1,094/mo | private | 30 nights (~1 month) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Saakadze Home | Dusheti | from BGN 1,094/mo | — | private | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

@@ -20,7 +20,7 @@
 | Per night | €35 |
 | Per month | €990 |
 
-No weekly rate is published by the operator. Rates are never derived from another duration.
+Seoul Nooks Community Living does not publish a weekly rate.
 
 ## About
 

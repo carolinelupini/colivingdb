@@ -20,7 +20,7 @@
 | Per night | €40 | €23 |
 | Per month | — | — |
 
-No weekly rate is published by the operator. Rates are never derived from another duration.
+Sun and Co. does not publish a weekly rate.
 
 ## About
 

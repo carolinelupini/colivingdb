@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from $4,634/mo
 - **Price note:** pricing shown only after entering dates
+- **Rating:** <a href="https://maps.google.com/?cid=10478319696536920192&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (8 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** North America
 - **Tags:** city, coworking, community
 - **Website:** https://www.outsite.co/locations/san-diego-golden-hill
+- **Rating:** 4.3 from 8 Google reviews
 
 ## Rates
 
@@ -20,7 +22,7 @@
 | Per night | — |
 | Per month | $4,634 |
 
-No weekly rate is published by the operator. Rates are never derived from another duration.
+Outsite San Diego - Golden Hill does not publish a weekly rate.
 
 ## About
 

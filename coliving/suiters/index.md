@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €899/mo
 - **Price note:** from €899/mo (Alicante Comfort); cheaper for 6mo+ stays
+- **Rating:** <a href="https://maps.google.com/?cid=3873951701856221987&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (110 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
 - **Tags:** city, coworking, community, beach
 - **Website:** https://wearesuiters.com
+- **Rating:** 4.6 from 110 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | €899 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Suiters does not publish a nightly or weekly rate.
 
 ## About
 

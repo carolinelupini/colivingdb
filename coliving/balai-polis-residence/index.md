@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from MYR 100/mo
 - **Price note:** from BGN 337/mo (~€172) dorm bed
+- **Rating:** <a href="https://maps.google.com/?cid=5931004115209263723&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (3 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm, shared
 - **Dorm available:** Yes
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Asia
 - **Tags:** city, community
 - **Website:** https://coliving.com/spaces/zhqhhr1f
+- **Rating:** 5.0 from 3 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|---|
 | Per month | MYR 150 | MYR 100 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Balai Polis Residence does not publish a nightly or weekly rate.
 
 ## About
 

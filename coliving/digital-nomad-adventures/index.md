@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from $695/mo
 - **Price note:** Koh-Live $2495/month incl. accommodation + meals; Koh-Munity $695/month without lodging
+- **Rating:** <a href="https://maps.google.com/?cid=18000937719135426810&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (39 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Asia
 - **Tags:** beach, island, coworking, community
 - **Website:** https://digitalnomadadventures.com/co-living/
+- **Rating:** 4.7 from 39 Google reviews
 
 ## Rates
 
@@ -20,7 +22,7 @@
 | Per week | $625 | $425 |
 | Per month | $2,495 | $1,645 |
 
-No nightly rate is published by the operator. Rates are never derived from another duration.
+Digital Nomad Adventures does not publish a nightly rate.
 
 ## About
 

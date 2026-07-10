@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from BGN 1,232/mo
 - **Price note:** from BGN 1,236/mo single private (~€632)
+- **Rating:** <a href="https://maps.google.com/?cid=4597789900775384149&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (58 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Africa
 - **Tags:** beach, coworking, community
 - **Website:** https://coliving.com/spaces/iyyt0bxc
+- **Rating:** 4.8 from 58 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|---|
 | Per month | BGN 1,232 | BGN 1,232 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Coliving Hurghada (Villa Residence) does not publish a nightly or weekly rate.
 
 ## About
 

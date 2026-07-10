@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €660/mo
 - **Price note:** €660/month (from €749); ~€25/night
+- **Rating:** <a href="https://maps.google.com/?cid=12668262004711917288&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (100 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 12 nights
 - **Region:** Europe
 - **Tags:** mountain, rural, coworking, community
 - **Website:** https://www.mapmelon.com/colivings/rec-on-project-spain
+- **Rating:** 4.9 from 100 Google reviews
 
 ## Rates
 
@@ -20,7 +22,7 @@
 | Per night | €25 |
 | Per month | €660 |
 
-No weekly rate is published by the operator. Rates are never derived from another duration.
+REC.ON Project Spain does not publish a weekly rate.
 
 ## About
 

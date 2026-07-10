@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from $554/mo
 - **Price note:** from BGN 1,172/mo shared 2-bed (~€599)
+- **Rating:** <a href="https://maps.google.com/?cid=5904124968667354870&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (18 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** Yes
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Asia
 - **Tags:** beach, surf, coworking, community
 - **Website:** https://coliving.com/spaces/naq488lh
+- **Rating:** 4.9 from 18 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|---|
 | Per month | $938 | $554 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Hiriketiya Home does not publish a nightly or weekly rate.
 
 ## About
 

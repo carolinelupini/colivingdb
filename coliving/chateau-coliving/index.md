@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €1,320/mo
 - **Price note:** est.; family-program early bird from €1,320/month, standard suites €3,910+/family
+- **Rating:** <a href="https://maps.google.com/?cid=9911790762385348273&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (128 reviews)</a> <small>· Google</small>
 - **Room types:** private, family apartment
 - **Dorm available:** No
 - **Minimum stay:** 15 nights
 - **Region:** Europe
 - **Tags:** rural, community, coworking, family, eco
 - **Website:** https://chateaucoliving.com/
+- **Rating:** 4.8 from 128 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | €3,910 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Chateau Coliving does not publish a nightly or weekly rate.
 
 ## About
 

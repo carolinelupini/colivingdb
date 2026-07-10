@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Blue Zone Nomads | Torre delle Stelle | On request | private, shared | — | Pop-up |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Blue Zone Nomads | Torre delle Stelle | On request | — | private, shared | — | Pop-up |
 
 ## Upcoming pop-ups
 

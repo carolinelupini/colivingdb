@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €345/mo
 - **Price note:** est.; CBD suites from ~€25/night, up to 40% monthly discount
+- **Rating:** <a href="https://maps.google.com/?cid=13593289329098828994&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (63 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** Yes
 - **Minimum stay:** —
 - **Region:** Africa
 - **Tags:** city, coworking, community
 - **Website:** https://www.neighbourgood.co
+- **Rating:** 4.6 from 63 Google reviews
 
 ## About
 

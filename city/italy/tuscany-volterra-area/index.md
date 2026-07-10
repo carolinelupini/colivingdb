@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Boundless Life — Tuscany (Volterra area) | Tuscany (Volterra area) | from €2,100/mo | — | — | Pop-up |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Boundless Life — Tuscany (Volterra area) | Tuscany (Volterra area) | from €2,100/mo | — | — | — | Pop-up |
 
 ## Price distribution
 

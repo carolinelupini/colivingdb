@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Coliving Compostela | Santiago de Compostela | from €720/mo | private | 15 nights | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Coliving Compostela | Santiago de Compostela | from €720/mo | 4.7 (91) | private | 15 nights | Permanent |
 
 ## Price distribution
 

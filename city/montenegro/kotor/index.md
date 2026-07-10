@@ -4,12 +4,12 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Kotor Nest | Kotor | from €650/mo | private, shared | — | Permanent |
-| Nomadico Coliving Kotor | Kotor | from €690/mo | private, shared | 7 nights (~1 week) | Permanent |
-| Boundless Life — Kotor | Kotor | from €1,700/mo | — | — | Pop-up |
-| CO CO Coworking & Coliving | Kotor | On request | private, shared | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Kotor Nest | Kotor | from €650/mo | 4.7 (160) | private, shared | — | Permanent |
+| Nomadico Coliving Kotor | Kotor | from €690/mo | 4.5 (4) | private, shared | 7 nights (~1 week) | Permanent |
+| Boundless Life — Kotor | Kotor | from €1,700/mo | — | — | — | Pop-up |
+| CO CO Coworking & Coliving | Kotor | On request | — | private, shared | — | Permanent |
 
 ## Price distribution
 

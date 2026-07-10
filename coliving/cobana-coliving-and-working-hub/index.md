@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from RON 2,940/mo
 - **Price note:** €775/mo or €450/two weeks, all ensuite private
+- **Rating:** <a href="https://maps.google.com/?cid=1664438625427272389&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (18 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
 - **Tags:** mountain, rural, coworking, community, eco
 - **Website:** https://co-bana.co
+- **Rating:** 5.0 from 18 Google reviews
 
 ## Rates
 
@@ -20,7 +22,7 @@
 | Per week | RON 875 |
 | Per month | RON 2,940 |
 
-No nightly rate is published by the operator. Rates are never derived from another duration.
+Cobana Coliving & Working Hub does not publish a nightly rate.
 
 ## About
 

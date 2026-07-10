@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €811/mo
 - **Price note:** from BGN 1,591/mo (Deluxe room)
+- **Rating:** <a href="https://maps.google.com/?cid=12738877765097543723&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (87 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Asia
 - **Tags:** city, coworking, community
 - **Website:** https://coliving.com/spaces/09arwz6c
+- **Rating:** 4.3 from 87 Google reviews
 
 ## About
 

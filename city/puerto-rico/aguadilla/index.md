@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Outsite Aguadilla | Aguadilla | On request | private, shared | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Outsite Aguadilla | Aguadilla | On request | 4.1 (18) | private, shared | — | Permanent |
 
 Source: https://colivingdb.com/city/puerto-rico/aguadilla/

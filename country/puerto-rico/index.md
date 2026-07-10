@@ -4,10 +4,10 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Tapia Haus 103 | San Juan | from $1,280/mo | private | 30 nights (~1 month) | Permanent |
-| Outsite Aguadilla | Aguadilla | On request | private, shared | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Tapia Haus 103 | San Juan | from $1,390/mo | 4.3 (76) | private | 30 nights (~1 month) | Permanent |
+| Outsite Aguadilla | Aguadilla | On request | 4.1 (18) | private, shared | — | Permanent |
 
 ## Price distribution
 

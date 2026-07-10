@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Noma Collective — Athens | Athens | from $2,390 per event | — | — | Pop-up |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Noma Collective — Athens | Athens | from $2,390 per event | — | — | — | Pop-up |
 
 ## Upcoming pop-ups
 

@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €966/mo
 - **Price note:** Japanese dorm €966/28 days (spring); dorm from €39/night autumn
+- **Rating:** <a href="https://maps.google.com/?cid=8968250624006441913&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (78 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm, studio
 - **Dorm available:** Yes
 - **Minimum stay:** 14 nights (~2 weeks)
 - **Region:** Europe
 - **Tags:** mountain, ski, coworking, community
 - **Website:** https://cloudcitadel.co/
+- **Rating:** 4.9 from 78 Google reviews
 
 ## Rates
 
@@ -20,7 +22,7 @@
 | Per night | €52 | €39 |
 | Per month | €1,127 | €966 |
 
-No weekly rate is published by the operator. Rates are never derived from another duration.
+Cloud Citadel Coliving does not publish a weekly rate.
 
 ## About
 

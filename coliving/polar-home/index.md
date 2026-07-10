@@ -4,7 +4,7 @@
 
 - **Location:** Tulum, Mexico
 - **Type:** Permanent coliving
-- **Price:** from €199/mo
+- **Price:** from $650/mo
 - **Price note:** from BGN 392/mo (8-bed dorm)
 - **Room types:** dorm
 - **Dorm available:** Yes
@@ -12,6 +12,14 @@
 - **Region:** North America
 - **Tags:** beach, community
 - **Website:** https://coliving.com/spaces/ebojmcqe
+
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | $650 |
+
+Polar Home does not publish a nightly or weekly rate.
 
 ## About
 

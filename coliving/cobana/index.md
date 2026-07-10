@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €775/mo
 - **Price note:** €775/month private ensuite; ~€32/night
+- **Rating:** <a href="https://maps.google.com/?cid=1664438625427272389&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (18 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
 - **Tags:** mountain, rural, community, coworking, eco
 - **Website:** https://co-bana.co/
+- **Rating:** 5.0 from 18 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | €775 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Cobana does not publish a nightly or weekly rate.
 
 ## About
 

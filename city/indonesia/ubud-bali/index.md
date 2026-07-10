@@ -4,11 +4,11 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Outpost Ubud Penestanan | Ubud, Bali | from $849/mo | private, shared | 14 nights (~2 weeks) | Permanent |
-| Outpost Ubud Nyuh Kuning | Ubud, Bali | from $849/mo | private, shared | 14 nights (~2 weeks) | Permanent |
-| Parq Ubud | Ubud, Bali | On request | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Outpost Ubud Penestanan | Ubud, Bali | from $849/mo | 4.6 (321) | private, shared | 14 nights (~2 weeks) | Permanent |
+| Outpost Ubud Nyuh Kuning | Ubud, Bali | from $849/mo | 4.7 (320) | private, shared | 14 nights (~2 weeks) | Permanent |
+| Parq Ubud | Ubud, Bali | On request | 4.4 (1727) | private | — | Permanent |
 
 ## Price distribution
 

@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Noma Collective — Dahab | Dahab | from $1,890 per event | — | — | Pop-up |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Noma Collective — Dahab | Dahab | from $1,890 per event | — | — | — | Pop-up |
 
 ## Upcoming pop-ups
 

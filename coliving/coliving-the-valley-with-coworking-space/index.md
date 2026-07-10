@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €510/mo
 - **Price note:** €510/mo private (discounted from €1,680); from €48/night
+- **Rating:** <a href="https://maps.google.com/?cid=3961785019205520259&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (33 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 5 nights
 - **Region:** Europe
 - **Tags:** rural, mountain, coworking, community
 - **Website:** https://www.mapmelon.com/colivings/coliving-the-valley-with-coworking-space
+- **Rating:** 5.0 from 33 Google reviews
 
 ## Rates
 
@@ -20,7 +22,7 @@
 | Per night | €48 |
 | Per month | €510 |
 
-No weekly rate is published by the operator. Rates are never derived from another duration.
+Coliving The VALLEY with Coworking Space does not publish a weekly rate.
 
 ## About
 

@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Sende Coliving | Senderiz, Ourense, Galicia | from €850/mo | private, shared | 7 nights (~1 week) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Sende Coliving | Senderiz, Ourense, Galicia | from €850/mo | 5.0 (46) | private, shared | 7 nights (~1 week) | Permanent |
 
 ## Price distribution
 

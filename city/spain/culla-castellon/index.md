@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Ruralco Coliving | Culla, Castellón | from €550/mo | private, shared | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Ruralco Coliving | Culla, Castellón | from €550/mo | 4.9 (70) | private, shared | — | Permanent |
 
 ## Price distribution
 

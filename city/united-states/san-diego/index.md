@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Outsite San Diego - Golden Hill | San Diego | from $4,634/mo | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Outsite San Diego - Golden Hill | San Diego | from $4,634/mo | 4.3 (8) | private | — | Permanent |
 
 Source: https://colivingdb.com/city/united-states/san-diego/

@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €210/mo
 - **Price note:** dorm-based; nightly rates via booking platforms
+- **Rating:** <a href="https://maps.google.com/?cid=3180721786569099643&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (819 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** —
 - **Region:** Asia
 - **Tags:** city, coworking, community, startup
 - **Website:** https://draperstartuphouse.com/bangalore/
+- **Rating:** 4.6 from 819 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|---|
 | Per month | €700 | €210 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Draper Startup House Bangalore does not publish a nightly or weekly rate.
 
 ## About
 

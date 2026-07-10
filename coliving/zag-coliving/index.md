@@ -5,12 +5,14 @@
 - **Location:** Punta del Este, Uruguay
 - **Type:** Permanent coliving
 - **Price:** from $650/mo
+- **Rating:** <a href="https://maps.google.com/?cid=15076740598736436052&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.1 (129 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Tags:** beach, coworking, community
 - **Website:** https://www.zag.uy/
+- **Rating:** 4.1 from 129 Google reviews
 
 ## Rates
 
@@ -18,6 +20,6 @@
 |---|---|
 | Per month | $650 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+ZAG Coliving does not publish a nightly or weekly rate.
 
 Source: https://colivingdb.com/coliving/zag-coliving/

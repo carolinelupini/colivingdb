@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €420/mo
 - **Price note:** €420/mo (discounted from €600); €18/night, meals included
+- **Rating:** <a href="https://maps.google.com/?cid=6555437671161344699&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (18 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 6 nights
 - **Region:** Europe
 - **Tags:** rural, mountain, community, eco, coworking
 - **Website:** https://www.maysouanoste.com/
+- **Rating:** 4.8 from 18 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | €420 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Maysou A Noste does not publish a nightly or weekly rate.
 
 ## About
 

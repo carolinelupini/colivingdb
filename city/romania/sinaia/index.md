@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| The Better Neighbours — Sinaia | Sinaia | from €670/mo | — | — | Pop-up |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| The Better Neighbours — Sinaia | Sinaia | from €670/mo | — | — | — | Pop-up |
 
 ## Price distribution
 

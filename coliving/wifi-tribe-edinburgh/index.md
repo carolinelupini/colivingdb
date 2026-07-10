@@ -19,6 +19,6 @@
 |---|---|---|
 | Per month | $3,090 | $1,690 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+WiFi Tribe — Edinburgh does not publish a nightly or weekly rate.
 
 Source: https://colivingdb.com/coliving/wifi-tribe-edinburgh/

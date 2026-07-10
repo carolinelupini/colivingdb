@@ -4,10 +4,10 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| A ver o Mar 1 | Coliving & Coworking | Funchal, Madeira | Ponta do Sol | from €920/mo | private, dorm | 14 nights (~2 weeks) | Permanent |
-| Quinta do Cabeço Alto - Coliving & Coworking Retreat Venue - Madeira Island | Ponta do Sol | from €1,400/mo | private, shared | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| A ver o Mar 1 | Coliving & Coworking | Funchal, Madeira | Ponta do Sol | from €920/mo | 4.6 (51) | private, dorm | 14 nights (~2 weeks) | Permanent |
+| Quinta do Cabeço Alto - Coliving & Coworking Retreat Venue - Madeira Island | Ponta do Sol | from €1,400/mo | 5.0 (23) | private, shared | — | Permanent |
 
 ## Price distribution
 

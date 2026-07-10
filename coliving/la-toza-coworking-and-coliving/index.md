@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €870/mo
 - **Price note:** €870/month (discounted from €960); €32/night
+- **Rating:** <a href="https://maps.google.com/?cid=11904408966686221183&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (4 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 15 nights
 - **Region:** Europe
 - **Tags:** rural, mountain, eco, coworking, community
 - **Website:** https://www.mapmelon.com/colivings/la-toza-cowoking-coliving
+- **Rating:** 5.0 from 4 Google reviews
 
 ## Rates
 
@@ -20,7 +22,7 @@
 | Per night | €32 |
 | Per month | €870 |
 
-No weekly rate is published by the operator. Rates are never derived from another duration.
+La Toza Coworking & Coliving does not publish a weekly rate.
 
 ## About
 

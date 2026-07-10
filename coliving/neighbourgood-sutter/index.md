@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from $7,860/mo
 - **Price note:** est.; former Mansion on Sutter, nightly from ~$262
+- **Rating:** <a href="https://maps.google.com/?cid=3969824695504617731&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (192 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** North America
 - **Tags:** city, community
 - **Website:** https://www.neighbourgood.co
+- **Rating:** 4.6 from 192 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | $7,860 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Neighbourgood Sutter does not publish a nightly or weekly rate.
 
 ## About
 

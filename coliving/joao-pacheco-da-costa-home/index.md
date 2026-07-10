@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from BRL 1,400/mo
 - **Price note:** from BGN 465/mo (~€238) dorm bed
+- **Rating:** <a href="https://maps.google.com/?cid=13703675284766932758&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (1 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Latin America
 - **Tags:** beach, island, coworking, community
 - **Website:** https://coliving.com/spaces/vvyvpbfz
+- **Rating:** 5.0 from 1 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|---|
 | Per month | BRL 2,650 | BRL 1,400 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+João Pachêco Da Costa Home does not publish a nightly or weekly rate.
 
 ## About
 

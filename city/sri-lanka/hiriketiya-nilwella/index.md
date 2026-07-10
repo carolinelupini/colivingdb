@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Nomadico Coliving Hiriketiya | Hiriketiya (Nilwella) | from €668/mo | private | 7 nights (~1 week) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Nomadico Coliving Hiriketiya | Hiriketiya (Nilwella) | from €668/mo | — | private | 7 nights (~1 week) | Permanent |
 
 ## Price distribution
 

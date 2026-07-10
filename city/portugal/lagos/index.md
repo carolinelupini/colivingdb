@@ -4,10 +4,10 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| NomaVillage | Lagos | from €1,420/mo | private | 14 nights (~2 weeks) | Permanent |
-| Algarve Watersport Surf House Coliving | Lagos | On request | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| NomaVillage | Lagos | from €1,420/mo | 4.8 (18) | private | 14 nights (~2 weeks) | Permanent |
+| Algarve Watersport Surf House Coliving | Lagos | On request | 4.9 (697) | private | — | Permanent |
 
 ## Price distribution
 

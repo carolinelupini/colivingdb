@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Ikigai Coliving | Puerto de la Cruz, Tenerife | from €728/mo | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Ikigai Coliving | Puerto de la Cruz, Tenerife | from €728/mo | 4.9 (97) | private | — | Permanent |
 
 Source: https://colivingdb.com/city/spain/puerto-de-la-cruz-tenerife/

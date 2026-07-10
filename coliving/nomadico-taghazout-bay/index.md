@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €715/mo
 - **Price note:** from EUR 750/month
+- **Rating:** <a href="https://maps.google.com/?cid=9998611476335671694&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (86 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Africa
 - **Tags:** beach, surf, coworking, community
 - **Website:** https://nomadico.io
+- **Rating:** 4.9 from 86 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | €715 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Nomadico Taghazout Bay does not publish a nightly or weekly rate.
 
 ## About
 

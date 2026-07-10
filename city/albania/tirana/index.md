@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Nomad Island Coliving & Coworking | Tirana | from €700/mo | private, shared | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Nomad Island Coliving & Coworking | Tirana | from €700/mo | 5.0 (5) | private, shared | — | Permanent |
 
 ## Price distribution
 

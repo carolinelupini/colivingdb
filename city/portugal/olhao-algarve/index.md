@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Bela Vista Coliving and Retreat | Olhão (Algarve) | On request | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Bela Vista Coliving and Retreat | Olhão (Algarve) | On request | 4.7 (47) | private | — | Permanent |
 
 Source: https://colivingdb.com/city/portugal/olhao-algarve/

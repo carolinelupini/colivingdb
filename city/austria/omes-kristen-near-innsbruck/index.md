@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| LIBRAlab Alpine AI Hub | Omes (Kristen), near Innsbruck | from €890/mo | private | 28 nights (~4 weeks) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| LIBRAlab Alpine AI Hub | Omes (Kristen), near Innsbruck | from €890/mo | 4.2 (10) | private | 28 nights (~4 weeks) | Permanent |
 
 ## Price distribution
 

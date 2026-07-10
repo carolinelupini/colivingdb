@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| AfricaNomads Zanzibar | Jambiani, Zanzibar | On request | — | — | Pop-up |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| AfricaNomads Zanzibar | Jambiani, Zanzibar | On request | — | — | — | Pop-up |
 
 ## Upcoming pop-ups
 

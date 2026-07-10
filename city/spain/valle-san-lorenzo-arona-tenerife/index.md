@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Cactus Coliving | Valle San Lorenzo (Arona), Tenerife | from €686/mo | private, shared | 14 nights (~2 weeks) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Cactus Coliving | Valle San Lorenzo (Arona), Tenerife | from €686/mo | 4.9 (120) | private, shared | 14 nights (~2 weeks) | Permanent |
 
 ## Price distribution
 

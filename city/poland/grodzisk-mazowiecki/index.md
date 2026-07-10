@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| RAZAM | Grodzisk Mazowiecki | from €900/mo | — | 5 nights | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| RAZAM | Grodzisk Mazowiecki | from €900/mo | 4.6 (29) | — | 5 nights | Permanent |
 
 ## Price distribution
 

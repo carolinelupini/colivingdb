@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Tribal Bali | Pererenan | On request | private, dorm | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Tribal Bali | Pererenan | On request | 4.6 (675) | private, dorm | — | Permanent |
 
 Source: https://colivingdb.com/city/indonesia/pererenan/

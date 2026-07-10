@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Coliving Rural Els Masos d'en Coll | Llabià, Fontanilles (Girona) | On request | private, shared, apartment | 7 nights (~1 week) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Coliving Rural Els Masos d'en Coll | Llabià, Fontanilles (Girona) | On request | 4.6 (271) | private, shared, apartment | 7 nights (~1 week) | Permanent |
 
 Source: https://colivingdb.com/city/spain/llabia-fontanilles-girona/

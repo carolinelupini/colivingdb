@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from £1,625/mo
 - **Price note:** from £1625/month bills included, studio
+- **Rating:** <a href="https://maps.google.com/?cid=3295520278676856395&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (95 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
 - **Tags:** beach, surf, coworking, community
 - **Website:** https://sea.space/stay-with-us/digital-nomads
+- **Rating:** 4.8 from 95 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | £1,625 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+SeaSpace does not publish a nightly or weekly rate.
 
 ## About
 

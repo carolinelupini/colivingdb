@@ -19,7 +19,7 @@
 |---|---|
 | Per month | $440 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+The Independencia does not publish a nightly or weekly rate.
 
 ## About
 

@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €800/mo
 - **Price note:** from €800/month winter promo
+- **Rating:** <a href="https://maps.google.com/?cid=17092661379184055435&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (79 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
 - **Tags:** city, coworking, community
 - **Website:** https://www.outsite.co/locations/lisbon-cais-do-sodre
+- **Rating:** 4.4 from 79 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | €800 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Outsite Coliving Lisbon (Cais do Sodré) does not publish a nightly or weekly rate.
 
 ## About
 

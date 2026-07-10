@@ -5,21 +5,22 @@
 - **Location:** Auckland, New Zealand
 - **Type:** Permanent coliving
 - **Price:** from NZ$1,516/mo
+- **Rating:** <a href="https://maps.google.com/?cid=15868430693563452686&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (103 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 90 nights (~3 months)
 - **Region:** Oceania
 - **Tags:** community, city
 - **Website:** https://thecoh.co.nz/
+- **Rating:** 4.8 from 103 Google reviews
 
 ## Rates
 
-| Stay length | Private |
+| Stay length | From |
 |---|---|
-| Per week | NZ$350 |
-| Per month | — |
+| Per month | NZ$1,516 |
 
-No nightly rate is published by the operator. Rates are never derived from another duration.
+The Coh does not publish a nightly or weekly rate.
 
 ## About
 

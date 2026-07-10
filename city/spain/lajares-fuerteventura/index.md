@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Surfescape | Lajares, Fuerteventura | from €850/mo | private, shared, apartment | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Surfescape | Lajares, Fuerteventura | from €850/mo | 4.6 (1096) | private, shared, apartment | — | Permanent |
 
 ## Price distribution
 

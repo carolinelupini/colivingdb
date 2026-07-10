@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| The Plakias (Plakias Residence) | Plakias | from €1,350/mo | private | 180 nights (~6 months) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| The Plakias (Plakias Residence) | Plakias | from €1,350/mo | 4.8 (22) | private | 180 nights (~6 months) | Permanent |
 
 ## Price distribution
 

@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Nomads Hub | Cebu | On request | private, dorm | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Nomads Hub | Cebu | On request | 4.2 (142) | private, dorm | — | Permanent |
 
 Source: https://colivingdb.com/city/philippines/cebu/

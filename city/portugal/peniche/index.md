@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| WOT Peniche Social | Peniche | On request | private, dorm | 30 nights (~1 month) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| WOT Peniche Social | Peniche | On request | 4.5 (369) | private, dorm | 30 nights (~1 month) | Permanent |
 
 Source: https://colivingdb.com/city/portugal/peniche/

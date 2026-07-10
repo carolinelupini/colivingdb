@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €800/mo
 - **Price note:** €1,350/month private ensuite (€64/night)
+- **Rating:** <a href="https://maps.google.com/?cid=377701308364501702&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (41 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 28 nights (~4 weeks)
 - **Region:** Europe
 - **Tags:** surf, beach, rural, community, coworking, startup, eco
 - **Website:** https://tresbandeiras.co/
+- **Rating:** 4.5 from 41 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | €1,000 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Três Bandeiras Coliving does not publish a nightly or weekly rate.
 
 ## About
 

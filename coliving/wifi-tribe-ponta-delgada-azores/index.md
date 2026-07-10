@@ -19,6 +19,6 @@
 |---|---|---|
 | Per month | $2,890 | $1,590 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+WiFi Tribe — Ponta Delgada (Azores) does not publish a nightly or weekly rate.
 
 Source: https://colivingdb.com/coliving/wifi-tribe-ponta-delgada-azores/

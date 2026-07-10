@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Nine Coliving | La Orotava, Tenerife | from €900/mo | private, shared | 14 nights (~2 weeks) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Nine Coliving | La Orotava, Tenerife | from €900/mo | 4.9 (110) | private, shared | 14 nights (~2 weeks) | Permanent |
 
 ## Price distribution
 

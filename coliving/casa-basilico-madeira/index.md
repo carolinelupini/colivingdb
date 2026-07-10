@@ -19,6 +19,6 @@
 |---|---|
 | Per month | €2,249 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Casa Basilico — Madeira does not publish a nightly or weekly rate.
 
 Source: https://colivingdb.com/coliving/casa-basilico-madeira/

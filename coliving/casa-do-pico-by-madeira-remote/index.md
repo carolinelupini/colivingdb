@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €1,200/mo
 - **Price note:** from €44/night or €1,200/month
+- **Rating:** <a href="https://maps.google.com/?cid=13788590589298556186&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (32 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
 - **Tags:** island, coworking, community
 - **Website:** https://www.mapmelon.com/colivings/casa-do-pico-by-madeira-remote
+- **Rating:** 5.0 from 32 Google reviews
 
 ## Rates
 
@@ -20,7 +22,7 @@
 | Per night | €44 |
 | Per month | €1,200 |
 
-No weekly rate is published by the operator. Rates are never derived from another duration.
+Casa do Pico by Madeira Remote does not publish a weekly rate.
 
 ## About
 

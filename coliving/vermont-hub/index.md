@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** chapter pricing not published; book by season
+- **Rating:** <a href="https://maps.google.com/?cid=13801232407049238775&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (12 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
 - **Tags:** mountain, ski, coworking, community
 - **Website:** https://www.vermonthub.ch/coliving-chapters
+- **Rating:** 4.7 from 12 Google reviews
 
 ## About
 

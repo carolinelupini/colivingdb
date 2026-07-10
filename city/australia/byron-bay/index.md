@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Life in Byron | Byron Bay | On request | private, shared, dorm | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Life in Byron | Byron Bay | from A$200/wk | 4.6 (96) | private, shared, dorm | — | Permanent |
 
 Source: https://colivingdb.com/city/australia/byron-bay/

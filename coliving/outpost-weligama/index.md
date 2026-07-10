@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from $849/mo
 - **Price note:** Colive+ from $849/mo (~€780 est.)
+- **Rating:** <a href="https://maps.google.com/?cid=4194233091248175553&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (145 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Asia
 - **Tags:** beach, surf, coworking, community
 - **Website:** https://destinationoutpost.co
+- **Rating:** 4.7 from 145 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | $849 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Outpost Weligama does not publish a nightly or weekly rate.
 
 ## About
 

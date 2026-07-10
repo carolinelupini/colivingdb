@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Together Co-Living | Melbourne | On request | private, shared | 7 nights (~1 week) | Permanent |
-| UKO Melbourne Central | Melbourne | On request | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Together Co-Living | Melbourne | from A$640/wk | 3.1 (234) | private, shared | 7 nights (~1 week) | Permanent |
+| UKO Melbourne Central | Melbourne | On request | 4.8 (50) | private | — | Permanent |
 
 Source: https://colivingdb.com/city/australia/melbourne/

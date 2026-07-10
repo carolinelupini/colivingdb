@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €350/mo
 - **Price note:** from €300/mo dorm (€90/week)
+- **Rating:** <a href="https://maps.google.com/?cid=8200057763659014504&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (57 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Africa
 - **Tags:** surf, beach, coworking, community
 - **Website:** https://www.kasbari.com
+- **Rating:** 4.7 from 57 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|---|
 | Per month | €650 | €350 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Kasbari House does not publish a nightly or weekly rate.
 
 ## About
 

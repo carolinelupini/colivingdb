@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Vermont Hub | Leysin | On request | private, shared | 7 nights (~1 week) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Vermont Hub | Leysin | On request | 4.7 (12) | private, shared | 7 nights (~1 week) | Permanent |
 
 Source: https://colivingdb.com/city/switzerland/leysin/

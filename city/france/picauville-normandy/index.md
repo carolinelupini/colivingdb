@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Chateau Coliving | Picauville (Normandy) | from €1,320/mo | private, family apartment | 15 nights | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Chateau Coliving | Picauville (Normandy) | from €1,320/mo | 4.8 (128) | private, family apartment | 15 nights | Permanent |
 
 ## Price distribution
 

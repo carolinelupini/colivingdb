@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| FEM Coliving | Sant Joan de les Abadesses | from €690/mo | private | 30 nights (~1 month) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| FEM Coliving | Sant Joan de les Abadesses | from €690/mo | 5.0 (85) | private | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

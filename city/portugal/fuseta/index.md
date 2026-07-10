@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| POMAR Coliving - NA PRAIA | Fuseta | from €1,200/mo | private | 28 nights (~4 weeks) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| POMAR Coliving - NA PRAIA | Fuseta | from €1,200/mo | 5.0 (77) | private | 28 nights (~4 weeks) | Permanent |
 
 ## Price distribution
 

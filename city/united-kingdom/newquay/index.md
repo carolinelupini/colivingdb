@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| SeaSpace | Newquay | from £1,625/mo | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| SeaSpace | Newquay | from £1,625/mo | 4.8 (95) | private | — | Permanent |
 
 ## Price distribution
 

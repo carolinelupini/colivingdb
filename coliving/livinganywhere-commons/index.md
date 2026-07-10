@@ -18,6 +18,6 @@
 |---|---|
 | Per night | ¥6,600 |
 
-No weekly or monthly rate is published by the operator. Rates are never derived from another duration.
+LivingAnywhere Commons田川 does not publish a weekly or monthly rate.
 
 Source: https://colivingdb.com/coliving/livinganywhere-commons/

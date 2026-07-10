@@ -4,10 +4,10 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Nomadico Coliving Medellín | Medellín | from $955/mo | private | 7 nights (~1 week) | Permanent |
-| Kiin Living | Medellín | from €1,100/mo | private | 30 nights (~1 month) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Nomadico Coliving Medellín | Medellín | from $955/mo | 4.9 (66) | private | 7 nights (~1 week) | Permanent |
+| Kiin Living | Medellín | from €1,100/mo | 4.9 (167) | private | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

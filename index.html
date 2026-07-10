@@ -110,6 +110,10 @@
   .row.hl{border-color:var(--accent); box-shadow:0 0 0 2px var(--accent-soft);}
 
   .r-name .nm{font-size:.98rem; font-weight:650; line-height:1.2;}
+  .rating{display:inline-flex; align-items:center; gap:1px; font-size:.78rem; font-weight:600; color:#a15c00; background:#fdf3e2; border-radius:5px; padding:1px 6px; margin-left:6px; text-decoration:none; vertical-align:middle; white-space:nowrap;}
+  .rating .star{color:#e8a723; margin-right:2px;}
+  .rating small{font-weight:400; color:var(--muted);}
+  a.rating:hover{background:#f9e6c4;}
   .r-name .loc{color:var(--muted); font-size:.8rem; margin-top:2px;}
   .r-name .tags{display:flex; flex-wrap:wrap; gap:4px; margin-top:5px;}
   .r-name .dates{font-size:.76rem; color:var(--pop); background:var(--pop-bg); border-radius:6px; padding:3px 7px; margin-top:6px; line-height:1.35; display:inline-block;}
@@ -352,6 +356,15 @@ const toEur   = (a,cur)=> a==null?null:((cur==="EUR"||!cur)?a:(RATES[cur]?a/RATE
 const fromEur = (e,cur)=> e==null?null:((cur==="EUR"||!cur)?e:(RATES[cur]?e*RATES[cur]:null));
 function fmtMoney(a,cur){ try{ return new Intl.NumberFormat('en',{style:'currency',currency:cur,maximumFractionDigits:0,currencyDisplay:'narrowSymbol'}).format(a);}catch(e){ return cur+" "+Math.round(a).toLocaleString(); } }
 const nativeCurOf = x => x.nativeCurrency || "EUR";
+// Google Maps rating — display only, attributed + linked to Google (their terms). Never our schema.org.
+function ratingBadge(x){
+  if(!x.rating) return "";
+  const t = `${x.rating.toFixed(1)}★ from ${x.reviews||0} Google reviews`;
+  const inner = `<span class="star">★</span>${x.rating.toFixed(1)}${x.reviews?` <small>(${x.reviews})</small>`:""}`;
+  return x.ratingUrl
+    ? ` <a class="rating" href="${x.ratingUrl}" target="_blank" rel="noopener" title="${t}">${inner}</a>`
+    : ` <span class="rating" title="${t}">${inner}</span>`;
+}
 // label for a non-monthly price. "per cruise" reads better than "per event" on a cruise.
 function unitLabel(x){
   if(x.priceUnit==="week") return " per week";
@@ -681,7 +694,7 @@ function render(){
       const fill = x.format==="pop-up" ? "#e0894a" : (x.status!=="active" ? "#e0b04a" : "#0e7c66");
       const m=L.circleMarker([x.lat,x.lng],{radius:7,color:col,weight:2,fillColor:fill,fillOpacity:.55})
         .addTo(map)
-        .bindPopup(`<b>${x.name}</b><br>${x.city?x.city+", ":""}${x.country}${x.priceEurMonthly?`<br>from ~€${x.priceEurMonthly}/mo`:""}`);
+        .bindPopup(`<b>${x.name}</b>${x.rating?` <span style="color:#a15c00">★${x.rating.toFixed(1)}${x.reviews?` (${x.reviews})`:""}</span>`:""}<br>${x.city?x.city+", ":""}${x.country}${x.priceEurMonthly?`<br>from ~€${x.priceEurMonthly}/mo`:""}`);
       m.on("click",()=>focusRecord(idx));
       markers.push(m); withCoords.push(m); x.__m=m;
     } else { x.__m=null; }
@@ -699,7 +712,7 @@ function render(){
     const row=document.createElement("div"); row.className="row cols"; row.id="row-"+idx;
     row.innerHTML=`
       <div class="r-name">
-        <div class="nm">${x.name}</div>
+        <div class="nm">${x.name}${ratingBadge(x)}</div>
         <div class="loc">${loc} · ${x.region}</div>
         ${tagsHtml?`<div class="tags">${tagsHtml}</div>`:""}
         ${datesHtml}

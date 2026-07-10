@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €840/mo
 - **Price note:** from EUR28/night dorm bed, EUR50-55/night private
+- **Rating:** <a href="https://maps.google.com/?cid=7169270636620208468&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (81 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** —
 - **Region:** Europe
 - **Tags:** beach, surf, coworking, community, island
 - **Website:** https://cocosurfhouse.com/
+- **Rating:** 5.0 from 81 Google reviews
 
 ## Rates
 
@@ -20,7 +22,7 @@
 | Per night | €50 | — | €28 |
 | Per month | €1,500 | €840 | €840 |
 
-No weekly rate is published by the operator. Rates are never derived from another duration.
+Coco Surfhouse does not publish a weekly rate.
 
 ## About
 

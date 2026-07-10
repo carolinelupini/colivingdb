@@ -4,10 +4,10 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Mimos Coliving - Bogota | Bogotá | from €480/mo | private | 120 nights (~4 months) | Permanent |
-| The Milagro | Bogotá | from €615/mo | private | 30 nights (~1 month) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Mimos Coliving - Bogota | Bogotá | from €480/mo | 5.0 (7) | private | 120 nights (~4 months) | Permanent |
+| The Milagro | Bogotá | from €615/mo | 3.5 (8) | private | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| COLIWO TROIS - Kharadi Pune (Colive/Cowork/Hostel) | Pune | On request | — | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| COLIWO TROIS - Kharadi Pune (Colive/Cowork/Hostel) | Pune | On request | 4.4 (158) | — | — | Permanent |
 
 Source: https://colivingdb.com/city/india/pune/

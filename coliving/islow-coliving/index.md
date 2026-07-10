@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €70/night
 - **Price note:** from €32/night, est. monthly
+- **Rating:** <a href="https://maps.google.com/?cid=9197429182222288268&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (81 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
 - **Tags:** rural, beach, community, coworking
 - **Website:** https://islowcoliving.com/
+- **Rating:** 5.0 from 81 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per night | €70 |
 
-No weekly or monthly rate is published by the operator. Rates are never derived from another duration.
+iSlow Coliving does not publish a weekly or monthly rate.
 
 ## About
 

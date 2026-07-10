@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| The Balance Base | Wānaka | from €700/mo | private, shared | 7 nights (~1 week) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| The Balance Base | Wānaka | from €700/mo | 5.0 (26) | private, shared | 7 nights (~1 week) | Permanent |
 
 ## Price distribution
 

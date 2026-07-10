@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Green Room JBay Coliving | Jeffreys Bay | On request | private | 14 nights (~2 weeks) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Green Room JBay Coliving | Jeffreys Bay | On request | 5.0 (137) | private | 14 nights (~2 weeks) | Permanent |
 
 Source: https://colivingdb.com/city/south-africa/jeffreys-bay/

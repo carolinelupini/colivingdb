@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** rate not published in EUR; bookable via HafH/direct
+- **Rating:** <a href="https://maps.google.com/?cid=1422926492116238797&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (12 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Asia
 - **Tags:** island, coworking, community, rural
 - **Website:** https://www.instagram.com/thepiergoto/
+- **Rating:** 5.0 from 12 Google reviews
 
 ## About
 

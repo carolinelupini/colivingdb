@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Outsite Singapore (Alma House) | Singapore | from €1,800/mo | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Outsite Singapore (Alma House) | Singapore | from €1,800/mo | 4.2 (185) | private | — | Permanent |
 
 ## Price distribution
 

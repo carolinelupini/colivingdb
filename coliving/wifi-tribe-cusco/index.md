@@ -15,10 +15,10 @@
 
 ## Rates
 
-| Stay length | Private | Shared |
-|---|---|---|
-| Per month | $2,190 | $1,090 |
+| Stay length | From |
+|---|---|
+| Per month | $1,090 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+WiFi Tribe — Cusco does not publish a nightly or weekly rate.
 
 Source: https://colivingdb.com/coliving/wifi-tribe-cusco/

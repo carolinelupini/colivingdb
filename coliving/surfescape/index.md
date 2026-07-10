@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €850/mo
 - **Price note:** rooms from €850/month
+- **Rating:** <a href="https://maps.google.com/?cid=11122961150786496828&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (1096 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared, apartment
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
 - **Tags:** surf, beach, island, coworking, community
 - **Website:** https://www.surfescape.com
+- **Rating:** 4.6 from 1096 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | €850 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Surfescape does not publish a nightly or weekly rate.
 
 ## About
 

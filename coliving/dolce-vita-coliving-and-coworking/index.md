@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €599/mo
 - **Price note:** €750/month Mapmelon discounted rate (from €39/night; regular ~€1,380/mo)
+- **Rating:** <a href="https://maps.google.com/?cid=8698690295753212342&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (25 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
 - **Tags:** rural, mountain, coworking, community
 - **Website:** https://www.dolcevitacoliving.com/
+- **Rating:** 4.7 from 25 Google reviews
 
 ## Rates
 
@@ -20,7 +22,7 @@
 | Per week | €168 | €241 |
 | Per month | €599 | €900 |
 
-No nightly rate is published by the operator. Rates are never derived from another duration.
+Dolce Vita Coliving & Coworking does not publish a nightly rate.
 
 ## About
 

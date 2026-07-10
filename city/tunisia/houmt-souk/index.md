@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| CoZi - Coworking Space | Houmt Souk | On request | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| CoZi - Coworking Space | Houmt Souk | On request | 4.6 (47) | private | — | Permanent |
 
 Source: https://colivingdb.com/city/tunisia/houmt-souk/

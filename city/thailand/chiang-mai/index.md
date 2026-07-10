@@ -4,20 +4,20 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Hub53 Coworking & Coliving | Chiang Mai | from THB 9,000/mo | private | — | Permanent |
-| Taeparak Home | Chiang Mai | from BGN 554/mo | private, dorm | 30 nights (~1 month) | Permanent |
-| Socialer Coliving & Coworking Space | Chiang Mai | from €390/mo | dorm | 1 night | Permanent |
-| Alt Coliving | Chiang Mai | from €500/mo | private | 30 nights (~1 month) | Permanent |
-| Alt Chiang Mai | Chiang Mai | from €720/mo | private | 6 nights | Permanent |
-| THE SOCIAL CLUB | Chiang Mai | from $800/mo | private | — | Permanent |
-| The Chiang Mai-Lamphun | Chiang Mai | from €500/mo | private | 30 nights (~1 month) | Permanent |
-| Alt_PingRiver | Chiang Mai | from €810/mo | private | 29 nights | Permanent |
-| The Arak | Chiang Mai | from €811/mo | private | 30 nights (~1 month) | Permanent |
-| 4Seas Nimman Coliving Coworking Space | Chiang Mai | On request | — | — | Permanent |
-| Chiangmai Inn Guesthouse | Chiang Mai | On request | private | — | Permanent |
-| Villa Pattranid | Chiang Mai | On request | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Hub53 Coworking & Coliving | Chiang Mai | from THB 9,000/mo | 4.6 (187) | private | — | Permanent |
+| Taeparak Home | Chiang Mai | from BGN 554/mo | — | private, dorm | 30 nights (~1 month) | Permanent |
+| Socialer Coliving & Coworking Space | Chiang Mai | from €390/mo | 4.6 (70) | dorm | 1 night | Permanent |
+| Alt Coliving | Chiang Mai | from €500/mo | 4.9 (242) | private | 30 nights (~1 month) | Permanent |
+| Alt Chiang Mai | Chiang Mai | from €720/mo | 4.9 (242) | private | 6 nights | Permanent |
+| THE SOCIAL CLUB | Chiang Mai | from $800/mo | 4.9 (200) | private | — | Permanent |
+| The Chiang Mai-Lamphun | Chiang Mai | from €500/mo | — | private | 30 nights (~1 month) | Permanent |
+| Alt_PingRiver | Chiang Mai | from €810/mo | 4.8 (109) | private | 29 nights | Permanent |
+| The Arak | Chiang Mai | from €811/mo | 4.3 (87) | private | 30 nights (~1 month) | Permanent |
+| 4Seas Nimman Coliving Coworking Space | Chiang Mai | On request | 4.9 (148) | — | — | Permanent |
+| Chiangmai Inn Guesthouse | Chiang Mai | On request | 4.3 (107) | private | — | Permanent |
+| Villa Pattranid | Chiang Mai | On request | 5.0 (51) | private | — | Permanent |
 
 ## Price distribution
 

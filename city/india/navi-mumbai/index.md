@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Sector 23 Home | Navi Mumbai | from BGN 242/mo | dorm | 30 nights (~1 month) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Sector 23 Home | Navi Mumbai | from BGN 242/mo | — | dorm | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

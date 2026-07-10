@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Três Bandeiras Coliving | Carvoeira (near Ericeira) | from €800/mo | private | 28 nights (~4 weeks) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Três Bandeiras Coliving | Carvoeira (near Ericeira) | from €800/mo | 4.5 (41) | private | 28 nights (~4 weeks) | Permanent |
 
 ## Price distribution
 

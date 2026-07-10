@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €638/mo
 - **Price note:** EUR 42/night, EUR 840/month
+- **Rating:** <a href="https://maps.google.com/?cid=3266246530591464880&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (16 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
 - **Tags:** mountain, ski, coworking, community
 - **Website:** https://www.nomadico.io/bansko-coliving
+- **Rating:** 4.9 from 16 Google reviews
 
 ## Rates
 
@@ -20,7 +22,7 @@
 | Per week | €265 |
 | Per month | €638 |
 
-No nightly rate is published by the operator. Rates are never derived from another duration.
+Nomadico Coliving Bansko does not publish a nightly rate.
 
 ## About
 

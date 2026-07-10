@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €1,380/mo
 - **Price note:** from €1,380/month (€80/night private)
+- **Rating:** <a href="https://maps.google.com/?cid=6360831088542217689&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (75 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 1 night
 - **Region:** Latin America
 - **Tags:** beach, surf, coworking, community
 - **Website:** https://www.mapmelon.com/colivings/amplitude-coliving
+- **Rating:** 5.0 from 75 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | €1,380 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Amplitude Coliving does not publish a nightly or weekly rate.
 
 ## About
 

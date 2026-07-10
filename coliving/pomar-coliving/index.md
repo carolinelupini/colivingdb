@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €1,290/mo
 - **Price note:** see operator site
+- **Rating:** <a href="https://maps.google.com/?cid=238071114496075301&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (77 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
 - **Tags:** rural, coworking, community, eco
 - **Website:** https://pomar-coliving.com/
+- **Rating:** 5.0 from 77 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | €1,290 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Pomar Coliving does not publish a nightly or weekly rate.
 
 ## About
 

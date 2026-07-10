@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** price not published; 8-day experience blocks
+- **Rating:** <a href="https://maps.google.com/?cid=5284368454658763465&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (31 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 8 nights
 - **Region:** Europe
 - **Tags:** mountain, rural, coworking, community, eco
 - **Website:** https://wome.house/en/
+- **Rating:** 5.0 from 31 Google reviews
 
 ## About
 

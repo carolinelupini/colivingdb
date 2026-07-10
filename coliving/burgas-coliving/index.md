@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €1,400/mo
 - **Price note:** marketed as very affordable; pricing on request
+- **Rating:** <a href="https://maps.google.com/?cid=11758086755039516598&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (46 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
 - **Tags:** beach, city, coworking, community
 - **Website:** https://burgascoliving.com/
+- **Rating:** 4.9 from 46 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|---|
 | Per month | €2,100 | €1,400 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Burgas Coliving does not publish a nightly or weekly rate.
 
 ## About
 

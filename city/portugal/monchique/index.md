@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Wild Oasis Algarve | Monchique | from €650/mo | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Wild Oasis Algarve | Monchique | from €650/mo | 4.6 (73) | private | — | Permanent |
 
 ## Price distribution
 

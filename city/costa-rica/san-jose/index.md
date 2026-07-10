@@ -4,12 +4,12 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Stolas Coliving | San José | from $420/mo | private | — | Permanent |
-| Stolas Garden | San José | from $420/mo | private | — | Permanent |
-| Protopia Community | San José | On request | private, dorm | 14 nights (~2 weeks) | Permanent |
-| Unity Coliving | San José | from $330/mo | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Stolas Coliving | San José | from $420/mo | 4.7 (55) | private | — | Permanent |
+| Stolas Garden | San José | from $420/mo | 4.5 (2) | private | — | Permanent |
+| Protopia Community | San José | On request | 4.9 (18) | private, dorm | 14 nights (~2 weeks) | Permanent |
+| Unity Coliving | San José | from $330/mo | 4.6 (68) | private | — | Permanent |
 
 ## Price distribution
 

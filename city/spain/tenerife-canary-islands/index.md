@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Tursi Digital Nomads — Tenerife (Canary Islands) | Tenerife (Canary Islands) | from €400 per event | — | — | Pop-up |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Tursi Digital Nomads — Tenerife (Canary Islands) | Tenerife (Canary Islands) | from €400 per event | — | — | — | Pop-up |
 
 ## Upcoming pop-ups
 

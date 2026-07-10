@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** rates not published; monthly bookings only
+- **Rating:** <a href="https://maps.google.com/?cid=9550345403064005468&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (106 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
 - **Tags:** island, beach, surf, coworking, community
 - **Website:** https://conomad.es/en/coliving/
+- **Rating:** 4.7 from 106 Google reviews
 
 ## About
 

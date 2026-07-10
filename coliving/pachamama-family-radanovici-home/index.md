@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from BGN 1,643/mo
 - **Price note:** from BGN 1,643/mo incl. 3 meals/day
+- **Rating:** <a href="https://maps.google.com/?cid=15531930625782724444&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (229 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
 - **Tags:** rural, eco, community, family
 - **Website:** https://coliving.com/spaces/bn2ovnqc
+- **Rating:** 4.8 from 229 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|---|---|
 | Per month | BGN 1,643 | BGN 1,972 | BGN 1,972 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Pachamama Family (Radanovici Home) does not publish a nightly or weekly rate.
 
 ## About
 

@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Boundless Life Kamakura | Kamakura | from €2,600/mo | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Boundless Life Kamakura | Kamakura | from €2,600/mo | — | private | — | Permanent |
 
 ## Price distribution
 

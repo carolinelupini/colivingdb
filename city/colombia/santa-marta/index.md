@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Flamingo Coliving | Santa Marta | On request | private, dorm | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Flamingo Coliving | Santa Marta | from $362/mo | 4.3 (106) | private, dorm | — | Permanent |
 
 Source: https://colivingdb.com/city/colombia/santa-marta/

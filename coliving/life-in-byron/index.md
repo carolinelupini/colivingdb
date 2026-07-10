@@ -4,13 +4,23 @@
 
 - **Location:** Byron Bay, Australia
 - **Type:** Permanent coliving
-- **Price:** On request
+- **Price:** from A$200/wk
+- **Rating:** <a href="https://maps.google.com/?cid=11121161346045634233&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (96 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** —
 - **Region:** Oceania
 - **Tags:** beach, surf
 - **Website:** https://lifeinbyron.com.au/
+- **Rating:** 4.6 from 96 Google reviews
+
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per week | A$200 |
+
+Life in Byron does not publish a nightly or monthly rate.
 
 ## About
 

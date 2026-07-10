@@ -5,12 +5,14 @@
 - **Location:** Galle, Sri Lanka
 - **Type:** Permanent coliving
 - **Price:** from $25/night
+- **Rating:** <a href="https://maps.google.com/?cid=4330893061079356100&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (72 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** —
 - **Region:** Asia
 - **Tags:** surf, beach, coworking
 - **Website:** https://www.surfandzen.com/
+- **Rating:** 4.3 from 72 Google reviews
 
 ## Rates
 
@@ -18,6 +20,6 @@
 |---|---|---|
 | Per night | $65 | $25 |
 
-No weekly or monthly rate is published by the operator. Rates are never derived from another duration.
+Surf & Zen Coworking and Coliving does not publish a weekly or monthly rate.
 
 Source: https://colivingdb.com/coliving/surf-and-zen-coworking-and-coliving/

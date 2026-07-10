@@ -19,7 +19,7 @@
 |---|---|---|
 | Per month | £1,376 | £980 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Arctic Coworking Lodge does not publish a nightly or weekly rate.
 
 ## About
 

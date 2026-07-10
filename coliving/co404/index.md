@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from $362/mo
 - **Price note:** from $362/mo private room (Medellín); Oaxaca from $570
+- **Rating:** <a href="https://maps.google.com/?cid=7729065391284421933&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (162 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Tags:** city, community, coworking
 - **Website:** https://co404.com
+- **Rating:** 4.7 from 162 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | $362 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Co404 does not publish a nightly or weekly rate.
 
 ## About
 

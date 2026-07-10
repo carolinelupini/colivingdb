@@ -19,7 +19,7 @@
 |---|---|---|
 | Per month | BGN 5,574 | BGN 2,445 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+The Tasga Oudrar II does not publish a nightly or weekly rate.
 
 ## About
 

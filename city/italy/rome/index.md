@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Nesting Away - Coliving in Italy | Rome | from €41/night | private | 14 nights (~2 weeks) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Nesting Away - Coliving in Italy | Rome | from €41/night | 4.8 (51) | private | 14 nights (~2 weeks) | Permanent |
 
 Source: https://colivingdb.com/city/italy/rome/

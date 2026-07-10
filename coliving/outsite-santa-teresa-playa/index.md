@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from $2,154/mo
 - **Price note:** est.; fixed monthly rates promoted, exact behind date-select
+- **Rating:** <a href="https://maps.google.com/?cid=4739854609563625798&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (47 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Tags:** surf, beach, coworking, community
 - **Website:** https://www.outsite.co/locations/santa-teresa-playa
+- **Rating:** 4.8 from 47 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | $2,154 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Outsite Santa Teresa - Playa does not publish a nightly or weekly rate.
 
 ## About
 

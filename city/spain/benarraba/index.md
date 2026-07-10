@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Rooral Coliving | Benarrabá | from €810/mo | private | 1 night | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Rooral Coliving | Benarrabá | from €810/mo | 5.0 (105) | private | 1 night | Permanent |
 
 ## Price distribution
 

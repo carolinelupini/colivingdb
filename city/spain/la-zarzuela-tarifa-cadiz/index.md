@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Eco-living Finca La Palmera | La Zarzuela (Tarifa), Cádiz | from €930/mo | private | 30 nights (~1 month) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Eco-living Finca La Palmera | La Zarzuela (Tarifa), Cádiz | from €930/mo | 4.7 (88) | private | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

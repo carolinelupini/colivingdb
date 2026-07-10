@@ -19,7 +19,7 @@
 |---|---|
 | Per month | €2,600 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Boundless Life Kamakura does not publish a nightly or weekly rate.
 
 ## About
 

@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Boundless Life — Syros | Syros | from €2,300/mo | — | — | Pop-up |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Boundless Life — Syros | Syros | from €2,300/mo | — | — | — | Pop-up |
 
 ## Price distribution
 

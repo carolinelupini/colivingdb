@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| To Hani Coliving | Paramytha (Limassol) | On request | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| To Hani Coliving | Paramytha (Limassol) | On request | 5.0 (40) | private | — | Permanent |
 
 Source: https://colivingdb.com/city/cyprus/paramytha-limassol/

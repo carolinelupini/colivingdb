@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Flipco Málaga | Málaga | from €740/mo | private | 30 nights (~1 month) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Flipco Málaga | Málaga | from €740/mo | 2.1 (34) | private | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

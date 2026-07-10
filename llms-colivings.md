@@ -14,11 +14,11 @@
 | [Debed Coliving](/coliving/debed-coliving/index.md) | Debet | Armenia | from AMD 22,000/mo | 2 nights | Permanent |
 | [Bungalow Co](/coliving/bungalow-co/index.md) | Sydney | Australia | from A$866/mo | — | Permanent |
 | [CDA Coliving](/coliving/cda-coliving/index.md) | Sydney | Australia | from A$780/mo | 90 nights (~3 months) | Permanent |
-| [Life in Byron](/coliving/life-in-byron/index.md) | Byron Bay | Australia | On request | — | Permanent |
+| [Life in Byron](/coliving/life-in-byron/index.md) | Byron Bay | Australia | from A$200/wk | — | Permanent |
 | [Living High](/coliving/living-high/index.md) | Sydney | Australia | from A$1,472/mo | — | Permanent |
 | [NESTL](/coliving/nestl/index.md) | Sydney | Australia | from A$2,772/mo | — | Permanent |
 | [The Switch](/coliving/the-switch/index.md) | Sydney | Australia | from A$3,503/mo | — | Permanent |
-| [Together Co-Living](/coliving/together-co-living/index.md) | Melbourne | Australia | On request | 7 nights (~1 week) | Permanent |
+| [Together Co-Living](/coliving/together-co-living/index.md) | Melbourne | Australia | from A$640/wk | 7 nights (~1 week) | Permanent |
 | [Treehouse Toowong](/coliving/treehouse-toowong/index.md) | Brisbane | Australia | from A$1,333/mo | — | Permanent |
 | [UKO](/coliving/uko/index.md) | Sydney | Australia | On request | — | Permanent |
 | [UKO Melbourne Central](/coliving/uko-melbourne-central/index.md) | Melbourne | Australia | On request | — | Permanent |
@@ -63,20 +63,20 @@
 | [Noma Collective — Sao Vicente](/coliving/noma-collective-sao-vicente/index.md) | Sao Vicente | Cape Verde | from $2,290 per event | — | Pop-up |
 | [Draper Startup House Vina del Mar](/coliving/draper-startup-house-vina-del-mar/index.md) | Vina del Mar | Chile | On request | — | Permanent |
 | [Balu Coliving](/coliving/balu-coliving/index.md) | Medellín (Laureles) | Colombia | from €650/mo | — | Permanent |
-| [Bio Coliving TAYRONA](/coliving/bio-coliving-tayrona/index.md) | Santa Marta (near Tayrona Park) | Colombia | from COP 60,000/mo | 1 night | Permanent |
-| [Build it in Bogotá](/coliving/build-it-in-bogota/index.md) | Bogotá (El Virrey, Chapinero) | Colombia | from $1,320/mo | 30 nights (~1 month) | Permanent |
-| [Casa Kandamy](/coliving/casa-kandamy/index.md) | Tobia | Colombia | from $1,710/mo | — | Permanent |
+| [Bio Coliving TAYRONA](/coliving/bio-coliving-tayrona/index.md) | Santa Marta (near Tayrona Park) | Colombia | from €650/mo | 1 night | Permanent |
+| [Build it in Bogotá](/coliving/build-it-in-bogota/index.md) | Bogotá (El Virrey, Chapinero) | Colombia | from COP 60,000/night | 30 nights (~1 month) | Permanent |
+| [Casa Kandamy](/coliving/casa-kandamy/index.md) | Tobia | Colombia | from $1,320/mo | — | Permanent |
 | [Co.404 Medellin](/coliving/co-404-medellin/index.md) | Medellin | Colombia | from $362/mo | — | Permanent |
-| [Flamingo Coliving](/coliving/flamingo-coliving/index.md) | Santa Marta | Colombia | On request | — | Permanent |
+| [Flamingo Coliving](/coliving/flamingo-coliving/index.md) | Santa Marta | Colombia | from $362/mo | — | Permanent |
 | [Kiin Living](/coliving/kiin-living/index.md) | Medellín | Colombia | from €1,100/mo | 30 nights (~1 month) | Permanent |
 | [Mimos Coliving - Bogota](/coliving/mimos-coliving-bogota/index.md) | Bogotá | Colombia | from €480/mo | 120 nights (~4 months) | Permanent |
 | [Nomadico Coliving Medellín](/coliving/nomadico-coliving-medellin/index.md) | Medellín | Colombia | from $955/mo | 7 nights (~1 week) | Permanent |
 | [Nomadico Manizales](/coliving/nomadico-manizales/index.md) | Manizales | Colombia | from $630/mo | 7 nights (~1 week) | Permanent |
 | [Nomadico Medellin](/coliving/nomadico-medellin/index.md) | Medellin | Colombia | from $955/mo | 7 nights (~1 week) | Permanent |
-| [Outsite Medellin - El Poblado](/coliving/outsite-medellin-el-poblado/index.md) | Medellin | Colombia | from $35/night | — | Permanent |
-| [Outsite Medellin - Manila](/coliving/outsite-medellin-manila/index.md) | Medellin | Colombia | from $50/night | — | Permanent |
+| [Outsite Medellin - El Poblado](/coliving/outsite-medellin-el-poblado/index.md) | Medellin | Colombia | from $955/mo | — | Permanent |
+| [Outsite Medellin - Manila](/coliving/outsite-medellin-manila/index.md) | Medellin | Colombia | from $35/night | — | Permanent |
 | [Pranik Living](/coliving/pranik-living/index.md) | Medellín (Laureles) | Colombia | from $1,230/mo | 3 nights | Permanent |
-| [Riverside ecoliving](/coliving/riverside-ecoliving/index.md) | Jericó | Colombia | On request | 1 night | Permanent |
+| [Riverside ecoliving](/coliving/riverside-ecoliving/index.md) | Jericó | Colombia | from $284/wk | 1 night | Permanent |
 | [Rosales Residence](/coliving/rosales-residence/index.md) | Medellin | Colombia | from $943/mo | 30 nights (~1 month) | Permanent |
 | [Santa Marta Life Coliving](/coliving/santa-marta-life-coliving/index.md) | Santa Marta (El Rodadero) | Colombia | from $650/mo | — | Permanent |
 | [The Laureles](/coliving/the-laureles/index.md) | Medellin | Colombia | from €585/mo | 30 nights (~1 month) | Permanent |
@@ -249,32 +249,32 @@
 | [Casa Iris Coliving](/coliving/casa-iris-coliving/index.md) | Santiago de Querétaro | Mexico | On request | — | Permanent |
 | [Casa Luna by Terracotta MX](/coliving/casa-luna-by-terracotta-mx/index.md) | Mexico City | Mexico | On request | 7 nights (~1 week) | Permanent |
 | [Co.404 Oaxaca City](/coliving/co-404-oaxaca-city/index.md) | Oaxaca | Mexico | from $570/mo | 30 nights (~1 month) | Permanent |
-| [Coliving Chingon](/coliving/coliving-chingon/index.md) | Guadalajara | Mexico | from MXN 10,000/mo | — | Permanent |
+| [Coliving Chingon](/coliving/coliving-chingon/index.md) | Guadalajara | Mexico | On request | — | Permanent |
 | [Coliving Chingon Suites](/coliving/coliving-chingon-suites/index.md) | Guadalajara | Mexico | On request | — | Permanent |
-| [Coliving Condesa](/coliving/coliving-condesa/index.md) | Mexico City | Mexico | On request | — | Permanent |
+| [Coliving Condesa](/coliving/coliving-condesa/index.md) | Mexico City | Mexico | from MXN 10,000/mo | — | Permanent |
 | [Covive Casa Del Valle Norte](/coliving/covive-casa-del-valle-norte/index.md) | Mexico City | Mexico | from MXN 15,250/mo | 30 nights (~1 month) | Permanent |
 | [ETNYA Coliving](/coliving/etnya-coliving/index.md) | Mérida | Mexico | On request | — | Permanent |
-| [Humant Coliving - Cancún, México](/coliving/humant-coliving-cancun-mexico/index.md) | Cancún | Mexico | from $29/night | — | Permanent |
+| [Humant Coliving - Cancún, México](/coliving/humant-coliving-cancun-mexico/index.md) | Cancún | Mexico | from MXN 15,250/mo | — | Permanent |
 | [Iguana Co-living](/coliving/iguana-co-living/index.md) | Oaxaca City | Mexico | On request | — | Permanent |
-| [Leveli Coliving & Coworking](/coliving/leveli-coliving-and-coworking/index.md) | Guadalajara | Mexico | On request | — | Permanent |
+| [Leveli Coliving & Coworking](/coliving/leveli-coliving-and-coworking/index.md) | Guadalajara | Mexico | from $29/night | — | Permanent |
 | [Mi Casa Coliving](/coliving/mi-casa-coliving/index.md) | Puerto Escondido | Mexico | from €720/mo | 7 nights (~1 week) | Permanent |
 | [Mutuo Vive](/coliving/mutuo-vive/index.md) | Guadalajara | Mexico | On request | 1 night | Permanent |
 | [Niu Narvarte departamentos](/coliving/niu-narvarte-departamentos/index.md) | Mexico City | Mexico | On request | 1 night | Permanent |
 | [Niu WTC Departamentos](/coliving/niu-wtc-departamentos/index.md) | Mexico City | Mexico | On request | 1 night | Permanent |
 | [Nomadico Coliving Puerto Escondido](/coliving/nomadico-coliving-puerto-escondido/index.md) | Puerto Escondido | Mexico | from $749/mo | 7 nights (~1 week) | Permanent |
 | [Outsite Los Cabos](/coliving/outsite-los-cabos/index.md) | San Jose del Cabo | Mexico | On request | — | Permanent |
-| [Outsite Mexico City - Colonia San Miguel](/coliving/outsite-mexico-city-colonia-san-miguel/index.md) | Mexico City | Mexico | On request | — | Permanent |
+| [Outsite Mexico City - Colonia San Miguel](/coliving/outsite-mexico-city-colonia-san-miguel/index.md) | Mexico City | Mexico | from $749/mo | — | Permanent |
 | [Outsite Mexico City - Roma Sur](/coliving/outsite-mexico-city-roma-sur/index.md) | Mexico City | Mexico | from $53/mo | — | Permanent |
-| [Outsite Oaxaca City](/coliving/outsite-oaxaca-city/index.md) | Oaxaca | Mexico | from $60/night | — | Permanent |
-| [Polar Home](/coliving/polar-home/index.md) | Tulum | Mexico | from €199/mo | 30 nights (~1 month) | Permanent |
-| [Smart Coliving](/coliving/smart-coliving/index.md) | Mexico City | Mexico | On request | — | Permanent |
+| [Outsite Oaxaca City](/coliving/outsite-oaxaca-city/index.md) | Oaxaca | Mexico | On request | — | Permanent |
+| [Polar Home](/coliving/polar-home/index.md) | Tulum | Mexico | from $650/mo | 30 nights (~1 month) | Permanent |
+| [Smart Coliving](/coliving/smart-coliving/index.md) | Mexico City | Mexico | from $56/night | — | Permanent |
 | [The Polar II](/coliving/the-polar-ii/index.md) | Tulum | Mexico | from €499/mo | 30 nights (~1 month) | Permanent |
 | [The Sur II](/coliving/the-sur-ii/index.md) | Tulum | Mexico | from €844/mo | 30 nights (~1 month) | Permanent |
-| [Triver Coliving](/coliving/triver-coliving/index.md) | Mexico City | Mexico | On request | 1 night | Permanent |
+| [Triver Coliving](/coliving/triver-coliving/index.md) | Mexico City | Mexico | from $60/night | 1 night | Permanent |
 | [U-Co Roma Coliving](/coliving/u-co-roma-coliving/index.md) | Mexico City | Mexico | from €381/mo | — | Permanent |
 | [WiFi Tribe — Puerto Escondido](/coliving/wifi-tribe-puerto-escondido/index.md) | Puerto Escondido | Mexico | from $1,290/mo | — | Pop-up |
 | [co.404 Coliving Oaxaca](/coliving/co-404-coliving-oaxaca/index.md) | Oaxaca | Mexico | from $570/mo | — | Permanent |
-| [co.404 Coliving San Cristóbal](/coliving/co-404-coliving-san-cristobal/index.md) | San Cristóbal de las Casas | Mexico | from $396/mo | — | Permanent |
+| [co.404 Coliving San Cristóbal](/coliving/co-404-coliving-san-cristobal/index.md) | San Cristóbal de las Casas | Mexico | from $1,290/mo | — | Permanent |
 | [Boundless Life — Kotor](/coliving/boundless-life-kotor/index.md) | Kotor | Montenegro | from €1,700/mo | — | Pop-up |
 | [CO CO Coworking & Coliving](/coliving/co-co-coworking-and-coliving/index.md) | Kotor | Montenegro | On request | — | Permanent |
 | [Kotor Nest](/coliving/kotor-nest/index.md) | Kotor | Montenegro | from €650/mo | — | Permanent |
@@ -304,11 +304,11 @@
 | [Outpost](/coliving/outpost-2/index.md) | Multiple (Bali, Sri Lanka) | Multiple | from $849/mo | — | Permanent |
 | [Co404](/coliving/co404/index.md) | Multiple (Medellín; Oaxaca City; San Cristóbal) | Multiple (Colombia, Mexico) | from $362/mo | — | Permanent |
 | [Outsite Amsterdam (Zoku)](/coliving/outsite-amsterdam-zoku/index.md) | Amsterdam | Netherlands | On request | — | Permanent |
-| [The Arawa (Arawa Collective)](/coliving/the-arawa-arawa-collective/index.md) | Rotorua | New Zealand | from €815/mo | 30 nights (~1 month) | Permanent |
+| [The Arawa (Arawa Collective)](/coliving/the-arawa-arawa-collective/index.md) | Rotorua | New Zealand | from A$308/wk | 30 nights (~1 month) | Permanent |
 | [The Balance Base](/coliving/the-balance-base/index.md) | Wānaka | New Zealand | from €700/mo | 7 nights (~1 week) | Permanent |
 | [The Coh](/coliving/the-coh/index.md) | Auckland | New Zealand | from NZ$1,516/mo | 90 nights (~3 months) | Permanent |
-| [Outsite San Juan del Sur](/coliving/outsite-san-juan-del-sur/index.md) | San Juan del Sur | Nicaragua | from €1,300/mo | — | Permanent |
-| [Waves & Wifi](/coliving/waves-and-wifi/index.md) | Popoyo | Nicaragua | from $1,410/mo | — | Permanent |
+| [Outsite San Juan del Sur](/coliving/outsite-san-juan-del-sur/index.md) | San Juan del Sur | Nicaragua | from $570/mo | — | Permanent |
+| [Waves & Wifi](/coliving/waves-and-wifi/index.md) | Popoyo | Nicaragua | from $396/mo | — | Permanent |
 | [Seven Space: Coliving](/coliving/seven-space-coliving/index.md) | Lagos | Nigeria | from $30/night | 30 nights (~1 month) | Permanent |
 | [WiFi Tribe — Lake Ohrid](/coliving/wifi-tribe-lake-ohrid/index.md) | Lake Ohrid | North Macedonia | from $1,190/mo | — | Pop-up |
 | [Arctic Coliving](/coliving/arctic-coliving/index.md) | Voss (Mjolfjell) / Henningsvaer, Lofoten | Norway | On request | 7 nights (~1 week) | Permanent |
@@ -403,7 +403,7 @@
 | [samesame co-living](/coliving/samesame-co-living/index.md) | Lisbon | Portugal | from €800/mo | 8 nights | Permanent |
 | [samesame living](/coliving/samesame-living/index.md) | Lisbon | Portugal | from €1,320/mo | 8 nights | Permanent |
 | [Outsite Aguadilla](/coliving/outsite-aguadilla/index.md) | Aguadilla | Puerto Rico | On request | — | Permanent |
-| [Tapia Haus 103](/coliving/tapia-haus-103/index.md) | San Juan | Puerto Rico | from $1,280/mo | 30 nights (~1 month) | Permanent |
+| [Tapia Haus 103](/coliving/tapia-haus-103/index.md) | San Juan | Puerto Rico | from $1,390/mo | 30 nights (~1 month) | Permanent |
 | [Cobana](/coliving/cobana/index.md) | Zărnești | Romania | from €775/mo | 7 nights (~1 week) | Permanent |
 | [Cobana Coliving & Working Hub](/coliving/cobana-coliving-and-working-hub/index.md) | Zarnesti, Transylvania | Romania | from RON 2,940/mo | 7 nights (~1 week) | Permanent |
 | [The Better Neighbours — Sinaia](/coliving/the-better-neighbours-sinaia/index.md) | Sinaia | Romania | from €670/mo | — | Pop-up |
@@ -620,20 +620,20 @@
 | [Neighbourgood New Haven](/coliving/neighbourgood-new-haven/index.md) | New Haven | United States | On request | — | Permanent |
 | [Neighbourgood Sutter](/coliving/neighbourgood-sutter/index.md) | San Francisco | United States | from $7,860/mo | — | Permanent |
 | [Outsite Austin - Bouldin Creek](/coliving/outsite-austin-bouldin-creek/index.md) | Austin | United States | On request | — | Permanent |
-| [Outsite Austin - Travis Heights](/coliving/outsite-austin-travis-heights/index.md) | Austin | United States | from $95/night | — | Permanent |
+| [Outsite Austin - Travis Heights](/coliving/outsite-austin-travis-heights/index.md) | Austin | United States | from $995/mo | — | Permanent |
 | [Outsite Boulder - North Boulder](/coliving/outsite-boulder-north-boulder/index.md) | Boulder | United States | On request | — | Permanent |
-| [Outsite Los Angeles - Venice Beach Dell](/coliving/outsite-los-angeles-venice-beach-dell/index.md) | Los Angeles | United States | On request | — | Permanent |
-| [Outsite Los Angeles - Venice Beach Lincoln](/coliving/outsite-los-angeles-venice-beach-lincoln/index.md) | Los Angeles | United States | from $95/night | — | Permanent |
+| [Outsite Los Angeles - Venice Beach Dell](/coliving/outsite-los-angeles-venice-beach-dell/index.md) | Los Angeles | United States | from $95/night | — | Permanent |
+| [Outsite Los Angeles - Venice Beach Lincoln](/coliving/outsite-los-angeles-venice-beach-lincoln/index.md) | Los Angeles | United States | On request | — | Permanent |
 | [Outsite New York - Chelsea](/coliving/outsite-new-york-chelsea/index.md) | New York | United States | from $3,900/mo | — | Permanent |
 | [Outsite New York - Manhattan Midtown](/coliving/outsite-new-york-manhattan-midtown/index.md) | New York | United States | from $4,560/mo | — | Permanent |
 | [Outsite San Diego - Encinitas Avocado](/coliving/outsite-san-diego-encinitas-avocado/index.md) | Encinitas | United States | from $6,897/mo | — | Permanent |
 | [Outsite San Diego - Encinitas Grandview](/coliving/outsite-san-diego-encinitas-grandview/index.md) | Encinitas | United States | from $6,897/mo | — | Permanent |
 | [Outsite San Diego - Encinitas Ponto](/coliving/outsite-san-diego-encinitas-ponto/index.md) | Encinitas | United States | from $2,209/mo | — | Permanent |
 | [Outsite San Diego - Golden Hill](/coliving/outsite-san-diego-golden-hill/index.md) | San Diego | United States | from $4,634/mo | — | Permanent |
-| [Outsite San Francisco - Mission](/coliving/outsite-san-francisco-mission/index.md) | San Francisco | United States | from $1,160/wk | — | Permanent |
-| [Outsite San Francisco - Pacific Heights](/coliving/outsite-san-francisco-pacific-heights/index.md) | San Francisco | United States | from €2,200/mo | — | Permanent |
-| [Zeta House](/coliving/zeta-house/index.md) | Austin | United States | from €553/mo | — | Permanent |
-| [Boundless Life — La Barra](/coliving/boundless-life-la-barra/index.md) | La Barra | Uruguay | from €1,700/mo | — | Pop-up |
+| [Outsite San Francisco - Mission](/coliving/outsite-san-francisco-mission/index.md) | San Francisco | United States | from $146/night | — | Permanent |
+| [Outsite San Francisco - Pacific Heights](/coliving/outsite-san-francisco-pacific-heights/index.md) | San Francisco | United States | from $114/night | — | Permanent |
+| [Zeta House](/coliving/zeta-house/index.md) | Austin | United States | from $1,160/wk | — | Permanent |
+| [Boundless Life — La Barra](/coliving/boundless-life-la-barra/index.md) | La Barra | Uruguay | from $1,090/mo | — | Pop-up |
 | [Draper Startup House Punta del Este](/coliving/draper-startup-house-punta-del-este/index.md) | Punta del Este | Uruguay | On request | — | Permanent |
 | [Opta Coliving](/coliving/opta-coliving/index.md) | Montevideo | Uruguay | from $2,400/mo | — | Permanent |
 | [ZAG Coliving](/coliving/zag-coliving/index.md) | Punta del Este | Uruguay | from $650/mo | — | Permanent |

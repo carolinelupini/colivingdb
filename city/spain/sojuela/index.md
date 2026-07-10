@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Co-living Sojuela Joven | Sojuela | from €630/mo | private | 1 night | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Co-living Sojuela Joven | Sojuela | from €630/mo | 5.0 (25) | private | 1 night | Permanent |
 
 ## Price distribution
 

@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Boundless Life — La Barra | La Barra | from €1,700/mo | — | — | Pop-up |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Boundless Life — La Barra | La Barra | from $1,090/mo | — | — | — | Pop-up |
 
 ## Price distribution
 

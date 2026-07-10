@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Casa Capitán Coliving | Guargacho, Tenerife | from €960/mo | private | 1 night | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Casa Capitán Coliving | Guargacho, Tenerife | from €960/mo | 5.0 (18) | private | 1 night | Permanent |
 
 ## Price distribution
 

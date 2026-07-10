@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from £400/mo
 - **Price note:** rates on booking page; ~Chiang Mai-comparable
+- **Rating:** <a href="https://maps.google.com/?cid=12897437038564931951&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (33 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
 - **Tags:** city, coworking, community
 - **Website:** https://www.somewheredifferent.com/uk/
+- **Rating:** 4.6 from 33 Google reviews
 
 ## Rates
 
@@ -20,7 +22,7 @@
 | Per week | £200 |
 | Per month | £400 |
 
-No nightly rate is published by the operator. Rates are never derived from another duration.
+Somewhere Different does not publish a nightly rate.
 
 ## About
 

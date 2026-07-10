@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €950/mo
 - **Price note:** from EUR950/mo (Flatio); utilities, WiFi, weekly cleaning included
+- **Rating:** <a href="https://maps.google.com/?cid=10411099938047485869&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (145 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
 - **Tags:** island, coworking, community
 - **Website:** https://www.casa15azores.com/
+- **Rating:** 4.9 from 145 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | €950 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Casa15 Azores does not publish a nightly or weekly rate.
 
 ## About
 

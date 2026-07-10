@@ -4,10 +4,10 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Luis Cordero Residence | Quito | from €310/mo | private | 30 nights (~1 month) | Permanent |
-| Mariscal Sucre Residence | Quito | from €342/mo | private, shared | 30 nights (~1 month) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Luis Cordero Residence | Quito | from €310/mo | — | private | 30 nights (~1 month) | Permanent |
+| Mariscal Sucre Residence | Quito | from €342/mo | — | private, shared | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

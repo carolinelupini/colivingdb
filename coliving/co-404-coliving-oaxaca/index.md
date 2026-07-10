@@ -6,20 +6,22 @@
 - **Type:** Permanent coliving
 - **Price:** from $570/mo
 - **Price note:** from ~$570/month (~€530)
+- **Rating:** <a href="https://maps.google.com/?cid=7729065391284421933&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (162 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Tags:** city, coworking, community
 - **Website:** https://co404.com/oaxaca/
+- **Rating:** 4.7 from 162 Google reviews
 
 ## Rates
 
-| Stay length | From |
+| Stay length | Private |
 |---|---|
 | Per month | $570 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+co.404 Coliving Oaxaca does not publish a nightly or weekly rate.
 
 ## About
 

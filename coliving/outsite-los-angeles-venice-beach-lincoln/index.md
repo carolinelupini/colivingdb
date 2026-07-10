@@ -4,7 +4,7 @@
 
 - **Location:** Los Angeles, United States
 - **Type:** Permanent coliving
-- **Price:** from $95/night
+- **Price:** On request
 - **Price note:** pricing via date selection, members only
 - **Room types:** private
 - **Dorm available:** No
@@ -12,14 +12,6 @@
 - **Region:** North America
 - **Tags:** beach, city, coworking, community
 - **Website:** https://www.outsite.co/locations/los-angeles-venice-lincoln
-
-## Rates
-
-| Stay length | From |
-|---|---|
-| Per night | $95 |
-
-No weekly or monthly rate is published by the operator. Rates are never derived from another duration.
 
 ## About
 

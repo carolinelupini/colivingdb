@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €1,040/mo
 - **Price note:** EUR230/week, ~EUR920/mo on 3-mo stay
+- **Rating:** <a href="https://maps.google.com/?cid=15997334694397107264&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (47 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
 - **Tags:** surf, eco, rural, beach, coworking, community
 - **Website:** https://www.vivendafelicidade.org/coliving
+- **Rating:** 5.0 from 47 Google reviews
 
 ## Rates
 
@@ -20,7 +22,7 @@
 | Per week | €250 |
 | Per month | €1,040 |
 
-No nightly rate is published by the operator. Rates are never derived from another duration.
+VivendaFelicidade Regenerative Farm & Surf Coliving does not publish a nightly rate.
 
 ## About
 

@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €1,533/mo
 - **Price note:** from BGN 1,536/mo private ≈ €785
+- **Rating:** <a href="https://maps.google.com/?cid=16767292269131221328&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.0 (530 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
 - **Tags:** city, coworking, community, island
 - **Website:** https://coliving.com/spaces/pwyti9lo
+- **Rating:** 4.0 from 530 Google reviews
 
 ## About
 

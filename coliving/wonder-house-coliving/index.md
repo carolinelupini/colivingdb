@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €750/mo
 - **Price note:** from €750/month shared; private €1,200
+- **Rating:** <a href="https://maps.google.com/?cid=1213299780199342348&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (34 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
 - **Tags:** rural, mountain, coworking, community
 - **Website:** https://wonderhousecoliving.com/
+- **Rating:** 5.0 from 34 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | €750 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Wonder House Coliving does not publish a nightly or weekly rate.
 
 ## About
 

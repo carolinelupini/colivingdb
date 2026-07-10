@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €870/mo
 - **Price note:** from ~€29/night, est. €870/month
+- **Rating:** <a href="https://maps.google.com/?cid=15615792980859060786&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (134 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
 - **Tags:** city, island, coworking, beach
 - **Website:** https://coliving1907.com/en/
+- **Rating:** 4.8 from 134 Google reviews
 
 ## Rates
 
@@ -20,7 +22,7 @@
 | Per night | €30 | €29 |
 | Per month | €870 | — |
 
-No weekly rate is published by the operator. Rates are never derived from another duration.
+Coliving 1907 does not publish a weekly rate.
 
 ## About
 

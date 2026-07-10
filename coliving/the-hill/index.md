@@ -19,7 +19,7 @@
 |---|---|
 | Per month | BGN 2,383 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+The Hill does not publish a nightly or weekly rate.
 
 ## About
 

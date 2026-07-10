@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €600/mo
 - **Price note:** from €20/night, est. monthly
+- **Rating:** <a href="https://maps.google.com/?cid=11078413160578093255&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (70 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 5 nights
 - **Region:** Europe
 - **Tags:** rural, beach, coworking, community
 - **Website:** https://www.playworking.me/
+- **Rating:** 4.5 from 70 Google reviews
 
 ## About
 

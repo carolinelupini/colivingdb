@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Dwell Azores | Fenais da Luz, São Miguel, Azores | from €2,160/mo | private, shared | 28 nights (~4 weeks) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Dwell Azores | Fenais da Luz, São Miguel, Azores | from €2,160/mo | 5.0 (89) | private, shared | 28 nights (~4 weeks) | Permanent |
 
 ## Price distribution
 

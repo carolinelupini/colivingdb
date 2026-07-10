@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €270/mo
 - **Price note:** €270/mo (promo from €300); from €10/night
+- **Rating:** <a href="https://maps.google.com/?cid=3086301761505460501&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (27 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 1 night
 - **Region:** Latin America
 - **Tags:** beach, eco, community, coworking, rural
 - **Website:** https://infinicolivingbr.com/
+- **Rating:** 4.6 from 27 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | €270 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+INFINI Coliving does not publish a nightly or weekly rate.
 
 ## About
 

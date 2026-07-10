@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Amarilla Co-living | San Miguel de Abona, Tenerife | On request | private, shared | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Amarilla Co-living | San Miguel de Abona, Tenerife | On request | 4.6 (293) | private, shared | — | Permanent |
 
 Source: https://colivingdb.com/city/spain/san-miguel-de-abona-tenerife/

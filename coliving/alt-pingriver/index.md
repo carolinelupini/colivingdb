@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €810/mo
 - **Price note:** from €810/month (~€53/night)
+- **Rating:** <a href="https://maps.google.com/?cid=3140390344823200075&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (109 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 29 nights
 - **Region:** Asia
 - **Tags:** city, coworking, community
 - **Website:** https://www.mapmelon.com/colivings/alt-pingriver
+- **Rating:** 4.8 from 109 Google reviews
 
 ## Rates
 
@@ -20,7 +22,7 @@
 | Per night | €53 |
 | Per month | €810 |
 
-No weekly rate is published by the operator. Rates are never derived from another duration.
+Alt_PingRiver does not publish a weekly rate.
 
 ## About
 

@@ -19,7 +19,7 @@
 |---|---|---|
 | Per month | BRL 2,650 | BRL 1,400 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+The Manoel João Ferreira does not publish a nightly or weekly rate.
 
 ## About
 

@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €997/mo
 - **Price note:** from EUR997/mo; 7 pasta-named private rooms
+- **Rating:** <a href="https://maps.google.com/?cid=8226354413972776474&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (13 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
 - **Tags:** island, coworking, community
 - **Website:** https://pontadosolcoliving.com/
+- **Rating:** 4.3 from 13 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | €997 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Banana House (Ponta do Sol Coliving) does not publish a nightly or weekly rate.
 
 ## About
 

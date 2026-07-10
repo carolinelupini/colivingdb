@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Moritsgarden (Digital Nomad Norway) | Folkestad | from €700/mo | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Moritsgarden (Digital Nomad Norway) | Folkestad | from €700/mo | 4.8 (16) | private | — | Permanent |
 
 ## Price distribution
 

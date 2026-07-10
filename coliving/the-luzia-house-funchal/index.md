@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** rooms booked via Airbnb; monthly rate not published
+- **Rating:** <a href="https://maps.google.com/?cid=17360444985268529816&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (45 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
 - **Tags:** island, city, community
 - **Website:** https://luziahousemadeira.com/
+- **Rating:** 5.0 from 45 Google reviews
 
 ## About
 

@@ -19,7 +19,7 @@
 |---|---|
 | Per night | €12 |
 
-No weekly or monthly rate is published by the operator. Rates are never derived from another duration.
+Coworkerei Coliving does not publish a weekly or monthly rate.
 
 ## About
 

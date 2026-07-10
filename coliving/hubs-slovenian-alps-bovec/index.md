@@ -5,12 +5,14 @@
 - **Location:** Ljubljana, Slovenia
 - **Type:** Permanent coliving
 - **Price:** from €420/mo
+- **Rating:** <a href="https://maps.google.com/?cid=307906293147883647&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (5 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
 - **Tags:** mountain, coworking, community
 - **Website:** https://www.colivingcommunity.com/find-a-coliving/hubs-travel?src=deal&amp;dealId=cmkhtwi030000jp042z5dqxmt
+- **Rating:** 5.0 from 5 Google reviews
 
 ## Rates
 
@@ -18,6 +20,6 @@
 |---|---|
 | Per month | €420 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Hubs Slovenian Alps Bovec does not publish a nightly or weekly rate.
 
 Source: https://colivingdb.com/coliving/hubs-slovenian-alps-bovec/

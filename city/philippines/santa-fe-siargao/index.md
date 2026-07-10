@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Communal Coliving | Santa Fe, Siargao | from PHP 35,000/mo | dorm, shared, private | 6 nights | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Communal Coliving | Santa Fe, Siargao | from PHP 35,000/mo | 5.0 (33) | dorm, shared, private | 6 nights | Permanent |
 
 ## Price distribution
 

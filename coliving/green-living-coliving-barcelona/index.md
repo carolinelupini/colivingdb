@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** single room cheapest, price on request
+- **Rating:** <a href="https://maps.google.com/?cid=3491383813502121698&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (5 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
 - **Tags:** coworking, community, eco, city, beach
 - **Website:** https://greenlivingprojects.es/colivings/spain/coliving-barcelona
+- **Rating:** 5.0 from 5 Google reviews
 
 ## About
 

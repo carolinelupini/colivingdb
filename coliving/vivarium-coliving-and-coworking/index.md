@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €985/mo
 - **Price note:** from ~€985/mo (standard all-inclusive €1,150/mo with coworking desk)
+- **Rating:** <a href="https://maps.google.com/?cid=11022722937064317769&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (65 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 31 nights
 - **Region:** Europe
 - **Tags:** city, community, coworking
 - **Website:** https://www.vivariumcoliving.com/
+- **Rating:** 4.9 from 65 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | €985 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Vivarium Coliving & Coworking does not publish a nightly or weekly rate.
 
 ## About
 

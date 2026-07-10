@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Pomar Coliving | Moncarapacho (Algarve) | from €1,290/mo | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Pomar Coliving | Moncarapacho (Algarve) | from €1,290/mo | 5.0 (77) | private | — | Permanent |
 
 Source: https://colivingdb.com/city/portugal/moncarapacho-algarve/

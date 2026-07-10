@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €700/mo
 - **Price note:** not published; monthly stays via Airbnb/direct
+- **Rating:** <a href="https://maps.google.com/?cid=17286785615260854341&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (20 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
 - **Tags:** rural, coworking, community
 - **Website:** https://cocohub.io/europe/italy/citta-della-pieve/il-fornello
+- **Rating:** 4.4 from 20 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | €700 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Il Fornello does not publish a nightly or weekly rate.
 
 ## About
 

@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €882/mo
 - **Price note:** private ensuite from €882/month
+- **Rating:** <a href="https://maps.google.com/?cid=7425605936732552814&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (73 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 15 nights
 - **Region:** Europe
 - **Tags:** rural, coworking, community, eco
 - **Website:** https://anceu.com/
+- **Rating:** 4.9 from 73 Google reviews
 
 ## Rates
 
@@ -20,7 +22,7 @@
 | Per night | €45 |
 | Per month | €882 |
 
-No weekly rate is published by the operator. Rates are never derived from another duration.
+Anceu Coliving does not publish a weekly rate.
 
 ## About
 

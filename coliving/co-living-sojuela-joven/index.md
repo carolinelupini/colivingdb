@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €630/mo
 - **Price note:** €22/night, €630/mo with Mapmelon discount; breakfast+dinner included
+- **Rating:** <a href="https://maps.google.com/?cid=7041925690544981631&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (25 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 1 night
 - **Region:** Europe
 - **Tags:** rural, community, mountain
 - **Website:** https://www.mapmelon.com/colivings/co-living-sojuela-joven
+- **Rating:** 5.0 from 25 Google reviews
 
 ## Rates
 
@@ -20,7 +22,7 @@
 | Per night | €21 |
 | Per month | €630 |
 
-No weekly rate is published by the operator. Rates are never derived from another duration.
+Co-living Sojuela Joven does not publish a weekly rate.
 
 ## About
 

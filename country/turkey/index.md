@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Nest Digital Nomad House | Istanbul | from €435/mo | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Nest Digital Nomad House | Istanbul | from €435/mo | 4.4 (143) | private | — | Permanent |
 
 ## Price distribution
 

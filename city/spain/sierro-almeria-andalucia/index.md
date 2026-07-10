@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Hostel Kahlo | Sierro, Almeria (Andalucia) | On request | dorm, private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Hostel Kahlo | Sierro, Almeria (Andalucia) | On request | 3.7 (3) | dorm, private | — | Permanent |
 
 Source: https://colivingdb.com/city/spain/sierro-almeria-andalucia/

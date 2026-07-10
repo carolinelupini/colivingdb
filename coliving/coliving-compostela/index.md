@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €720/mo
 - **Price note:** from €27/night private ensuite (~€720/mo)
+- **Rating:** <a href="https://maps.google.com/?cid=17039230191227524177&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (91 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 15 nights
 - **Region:** Europe
 - **Tags:** city, coworking, community
 - **Website:** https://www.mapmelon.com/colivings/coliving-compostela
+- **Rating:** 4.7 from 91 Google reviews
 
 ## Rates
 
@@ -20,7 +22,7 @@
 | Per night | €27 |
 | Per month | €720 |
 
-No weekly rate is published by the operator. Rates are never derived from another duration.
+Coliving Compostela does not publish a weekly rate.
 
 ## About
 

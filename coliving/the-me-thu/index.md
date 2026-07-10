@@ -19,7 +19,7 @@
 |---|---|
 | Per month | VND 16,000,000 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+The Mẹ Thứ does not publish a nightly or weekly rate.
 
 ## About
 

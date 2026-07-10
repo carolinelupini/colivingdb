@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| INFINI Coliving | Jauá (Camaçari), near Salvador | from €270/mo | private | 1 night | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| INFINI Coliving | Jauá (Camaçari), near Salvador | from €270/mo | 4.6 (27) | private | 1 night | Permanent |
 
 ## Price distribution
 

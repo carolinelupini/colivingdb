@@ -19,7 +19,7 @@
 |---|---|---|
 | Per month | BGN 1,355 | BGN 949 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+The Maja (Maja Hub) does not publish a nightly or weekly rate.
 
 ## About
 

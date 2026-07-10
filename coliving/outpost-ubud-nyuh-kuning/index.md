@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from $849/mo
 - **Price note:** Colive+ from $849/mo (~€780 est.)
+- **Rating:** <a href="https://maps.google.com/?cid=7305650197426571912&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (320 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 14 nights (~2 weeks)
 - **Region:** Asia
 - **Tags:** coworking, community, city
 - **Website:** https://destinationoutpost.co
+- **Rating:** 4.7 from 320 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | $849 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Outpost Ubud Nyuh Kuning does not publish a nightly or weekly rate.
 
 ## About
 

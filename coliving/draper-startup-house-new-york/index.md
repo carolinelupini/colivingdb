@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** not published on site
+- **Rating:** <a href="https://maps.google.com/?cid=3068848425571161459&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (3 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** Yes
 - **Minimum stay:** —
 - **Region:** North America
 - **Tags:** city, coworking, community, startup
 - **Website:** https://draperstartuphouse.com/manhattan/
+- **Rating:** 5.0 from 3 Google reviews
 
 ## About
 

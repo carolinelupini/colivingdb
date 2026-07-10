@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Pipedream (Coworksurf Peniche) | Ferrel, Peniche | On request | private, shared | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Pipedream (Coworksurf Peniche) | Ferrel, Peniche | On request | 5.0 (32) | private, shared | — | Permanent |
 
 Source: https://colivingdb.com/city/portugal/ferrel-peniche/

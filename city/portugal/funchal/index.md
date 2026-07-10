@@ -4,10 +4,10 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| The Santa Luzia | Funchal | from BGN 2,914/mo | private | 30 nights (~1 month) | Permanent |
-| The Carreira | Funchal | from BGN 3,325/mo | private | 30 nights (~1 month) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| The Santa Luzia | Funchal | from BGN 2,914/mo | — | private | 30 nights (~1 month) | Permanent |
+| The Carreira | Funchal | from BGN 3,325/mo | 3.9 (691) | private | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

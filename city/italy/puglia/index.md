@@ -4,10 +4,10 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Masseria Olga Rural Coliving | Puglia | from €690/mo | private | 14 nights (~2 weeks) | Permanent |
-| Casa Basilico — Puglia | Puglia | from €1,247/mo | — | — | Pop-up |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Masseria Olga Rural Coliving | Puglia | from €690/mo | 4.7 (71) | private | 14 nights (~2 weeks) | Permanent |
+| Casa Basilico — Puglia | Puglia | from €1,247/mo | — | — | — | Pop-up |
 
 ## Price distribution
 

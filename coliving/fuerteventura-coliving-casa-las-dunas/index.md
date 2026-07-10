@@ -20,7 +20,7 @@
 | Per night | €25 |
 | Per month | €750 |
 
-No weekly rate is published by the operator. Rates are never derived from another duration.
+Fuerteventura Coliving (Casa las Dunas) does not publish a weekly rate.
 
 ## About
 

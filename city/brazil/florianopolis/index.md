@@ -4,13 +4,13 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| João Pachêco Da Costa Home | Florianópolis | from BRL 1,400/mo | private, dorm | 30 nights (~1 month) | Permanent |
-| Nomadico Coliving Florianópolis | Florianópolis | from $380/mo | private, shared | 7 nights (~1 week) | Permanent |
-| Manoel Pedro da Silveira Home | Florianópolis | from $465/mo | private, dorm | 30 nights (~1 month) | Permanent |
-| WiFi Tribe — Florianópolis | Florianópolis | from $1,290/mo | — | — | Pop-up |
-| Neighbor.HUB Hostel & Coliving - Floripa | Florianópolis | On request | private, shared, dorm | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| João Pachêco Da Costa Home | Florianópolis | from BRL 1,400/mo | 5.0 (1) | private, dorm | 30 nights (~1 month) | Permanent |
+| Nomadico Coliving Florianópolis | Florianópolis | from $380/mo | 5.0 (15) | private, shared | 7 nights (~1 week) | Permanent |
+| Manoel Pedro da Silveira Home | Florianópolis | from $465/mo | — | private, dorm | 30 nights (~1 month) | Permanent |
+| WiFi Tribe — Florianópolis | Florianópolis | from $1,290/mo | — | — | — | Pop-up |
+| Neighbor.HUB Hostel & Coliving - Floripa | Florianópolis | On request | 4.4 (45) | private, shared, dorm | — | Permanent |
 
 ## Price distribution
 

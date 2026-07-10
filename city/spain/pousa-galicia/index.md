@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Growth Coliving | Pousa, Galicia | from €475/mo | private | 16 nights | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Growth Coliving | Pousa, Galicia | from €475/mo | 4.8 (35) | private | 16 nights | Permanent |
 
 ## Price distribution
 

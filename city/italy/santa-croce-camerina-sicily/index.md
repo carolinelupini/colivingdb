@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Canestanco 18 Living | Santa Croce Camerina, Sicily | from €1,200/mo | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Canestanco 18 Living | Santa Croce Camerina, Sicily | from €1,200/mo | 5.0 (9) | private | — | Permanent |
 
 ## Price distribution
 

@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from $449/mo
 - **Price note:** from ~$350/month dorm bed incl. coworking
+- **Rating:** <a href="https://maps.google.com/?cid=12496671437472004522&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (223 reviews)</a> <small>· Google</small>
 - **Room types:** dorm, private
 - **Dorm available:** Yes
 - **Minimum stay:** —
 - **Region:** Asia
 - **Tags:** coworking, community, beach, city
 - **Website:** https://hubhoian.com/coliving/
+- **Rating:** 4.8 from 223 Google reviews
 
 ## Rates
 
@@ -20,7 +22,7 @@
 | Per week | $349 | $199 |
 | Per month | $789 | $449 |
 
-No nightly rate is published by the operator. Rates are never derived from another duration.
+Hub Hoi An does not publish a nightly rate.
 
 ## About
 

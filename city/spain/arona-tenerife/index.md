@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Zen Den Coliving | Arona (Tenerife) | On request | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Zen Den Coliving | Arona (Tenerife) | On request | 4.7 (12) | private | — | Permanent |
 
 Source: https://colivingdb.com/city/spain/arona-tenerife/

@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Noma Collective — Koh Lanta | Koh Lanta | from $3,190 per event | — | — | Pop-up |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Noma Collective — Koh Lanta | Koh Lanta | from $3,190 per event | — | — | — | Pop-up |
 
 ## Upcoming pop-ups
 

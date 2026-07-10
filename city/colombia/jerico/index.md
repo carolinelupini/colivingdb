@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Riverside ecoliving | Jericó | On request | — | 1 night | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Riverside ecoliving | Jericó | from $284/wk | 4.8 (100) | — | 1 night | Permanent |
 
 Source: https://colivingdb.com/city/colombia/jerico/

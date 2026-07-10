@@ -4,12 +4,12 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Banana House (Ponta do Sol Coliving) | Ponta do Sol, Madeira | from €997/mo | private | 30 nights (~1 month) | Permanent |
-| Outsite Madeira - Ponta do Sol | Ponta do Sol, Madeira | from €1,700/mo | private | — | Permanent |
-| Alvada Coliving (Baixo Beach Coliving) | Ponta do Sol, Madeira | On request | private | 90 nights (~3 months) | Permanent |
-| Colive Madeira | Ponta do Sol, Madeira | On request | private, shared | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Banana House (Ponta do Sol Coliving) | Ponta do Sol, Madeira | from €997/mo | 4.3 (13) | private | 30 nights (~1 month) | Permanent |
+| Outsite Madeira - Ponta do Sol | Ponta do Sol, Madeira | from €1,700/mo | 4.8 (119) | private | — | Permanent |
+| Alvada Coliving (Baixo Beach Coliving) | Ponta do Sol, Madeira | On request | — | private | 90 nights (~3 months) | Permanent |
+| Colive Madeira | Ponta do Sol, Madeira | On request | — | private, shared | — | Permanent |
 
 ## Price distribution
 

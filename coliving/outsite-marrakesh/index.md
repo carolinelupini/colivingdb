@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** est. from ~$47/night
+- **Rating:** <a href="https://maps.google.com/?cid=9988442975400267735&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (98 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Africa
 - **Tags:** city, coworking, community
 - **Website:** https://www.outsite.co/locations/marrakesh
+- **Rating:** 4.7 from 98 Google reviews
 
 ## About
 

@@ -4,14 +4,14 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Balai Polis Residence | Kuala Lumpur | from MYR 100/mo | private, dorm, shared | 30 nights (~1 month) | Permanent |
-| The Hatchery Place | Subang Jaya (Kuala Lumpur area) | from €240/mo | private | 8 nights | Permanent |
-| Fraser Home | Kuala Lumpur | from MYR 170/mo | private | 30 nights (~1 month) | Permanent |
-| The Seckchuan Collective | George Town | from MYR 177/mo | private | 30 nights (~1 month) | Permanent |
-| Digital Nomad House KL Bukit Bintang | Kuala Lumpur | On request | private | — | Permanent |
-| Nomad Shophouse | Kuala Lumpur | from MYR 2,700/mo | — | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Balai Polis Residence | Kuala Lumpur | from MYR 100/mo | 5.0 (3) | private, dorm, shared | 30 nights (~1 month) | Permanent |
+| The Hatchery Place | Subang Jaya (Kuala Lumpur area) | from €240/mo | 4.8 (25) | private | 8 nights | Permanent |
+| Fraser Home | Kuala Lumpur | from MYR 170/mo | — | private | 30 nights (~1 month) | Permanent |
+| The Seckchuan Collective | George Town | from MYR 177/mo | — | private | 30 nights (~1 month) | Permanent |
+| Digital Nomad House KL Bukit Bintang | Kuala Lumpur | On request | 4.3 (45) | private | — | Permanent |
+| Nomad Shophouse | Kuala Lumpur | from MYR 2,700/mo | 5.0 (26) | — | — | Permanent |
 
 ## Price distribution
 

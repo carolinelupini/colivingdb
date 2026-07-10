@@ -19,6 +19,6 @@
 |---|---|
 | Per month | €1,700 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Boundless Life — Kotor does not publish a nightly or weekly rate.
 
 Source: https://colivingdb.com/coliving/boundless-life-kotor/

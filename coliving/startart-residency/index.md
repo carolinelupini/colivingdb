@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €150/mo
 - **Price note:** €150/month regular (€60 with Mapmelon discount) — unusually low, may reflect residency/work-exchange model
+- **Rating:** <a href="https://maps.google.com/?cid=3607568290422296719&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (103 reviews)</a> <small>· Google</small>
 - **Room types:** shared
 - **Dorm available:** No
 - **Minimum stay:** 1 night
 - **Region:** Europe
 - **Tags:** rural, community, eco
 - **Website:** https://www.mapmelon.com/colivings/startart-residency
+- **Rating:** 5.0 from 103 Google reviews
 
 ## Rates
 
@@ -20,7 +22,7 @@
 | Per night | €5 |
 | Per month | €150 |
 
-No weekly rate is published by the operator. Rates are never derived from another duration.
+StartArt Residency does not publish a weekly rate.
 
 ## About
 

@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from $1,395/mo
 - **Price note:** studios from ~$1,395/mo at 2072 Mission St
+- **Rating:** <a href="https://maps.google.com/?cid=13031121197734911962&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.0 (8 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** North America
 - **Tags:** city, community
 - **Website:** https://www.neighbourgood.co
+- **Rating:** 4.0 from 8 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | $1,395 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Neighbourgood Mission does not publish a nightly or weekly rate.
 
 ## About
 

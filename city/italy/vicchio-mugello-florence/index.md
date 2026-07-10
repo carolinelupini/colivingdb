@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Tertulia Coliving | Vicchio (Mugello, Florence) | from €699/mo | private, shared | 14 nights (~2 weeks) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Tertulia Coliving | Vicchio (Mugello, Florence) | from €699/mo | 4.8 (84) | private, shared | 14 nights (~2 weeks) | Permanent |
 
 ## Price distribution
 

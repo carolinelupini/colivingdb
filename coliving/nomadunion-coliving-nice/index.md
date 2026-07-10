@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €900/mo
 - **Price note:** shared room from €900/month long-stay (€1140 standard); privates from €1350
+- **Rating:** <a href="https://maps.google.com/?cid=9074702164603577581&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (14 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
 - **Tags:** city, beach, coworking, community
 - **Website:** https://www.nomadunion.digital/coliving/apartment
+- **Rating:** 4.9 from 14 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|---|
 | Per month | €1,350 | €900 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+NomadUnion Coliving Nice does not publish a nightly or weekly rate.
 
 ## About
 

@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €1,350/mo
 - **Price note:** from €90/night (~€1,350/mo)
+- **Rating:** <a href="https://maps.google.com/?cid=2362483825494442196&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (127 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 1 night
 - **Region:** Europe
 - **Tags:** beach, surf, rural, coworking, community
 - **Website:** https://www.mapmelon.com/colivings/coliving-ericeira-by-barefoot-portugal
+- **Rating:** 4.9 from 127 Google reviews
 
 ## Rates
 
@@ -20,7 +22,7 @@
 | Per night | €90 |
 | Per month | €1,350 |
 
-No weekly rate is published by the operator. Rates are never derived from another duration.
+Coliving Ericeira by Barefoot Portugal does not publish a weekly rate.
 
 ## About
 

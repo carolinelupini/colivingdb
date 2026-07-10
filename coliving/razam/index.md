@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €900/mo
 - **Price note:** €900/month (from €1,050); €35/night
+- **Rating:** <a href="https://maps.google.com/?cid=17854339744470791277&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (29 reviews)</a> <small>· Google</small>
 - **Room types:** —
 - **Dorm available:** No
 - **Minimum stay:** 5 nights
 - **Region:** Europe
 - **Tags:** community, coworking
 - **Website:** https://www.mapmelon.com/colivings/razam
+- **Rating:** 4.6 from 29 Google reviews
 
 ## Rates
 
@@ -20,7 +22,7 @@
 | Per night | €35 |
 | Per month | €900 |
 
-No weekly rate is published by the operator. Rates are never derived from another duration.
+RAZAM does not publish a weekly rate.
 
 ## About
 

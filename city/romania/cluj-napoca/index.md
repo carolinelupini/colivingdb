@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| play:space cluj Spatiu Evenimente Coworking Coliving | Cluj-Napoca | from €100/wk | — | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| play:space cluj Spatiu Evenimente Coworking Coliving | Cluj-Napoca | from €100/wk | 5.0 (12) | — | — | Permanent |
 
 Source: https://colivingdb.com/city/romania/cluj-napoca/

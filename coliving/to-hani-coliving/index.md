@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** price on inquiry
+- **Rating:** <a href="https://maps.google.com/?cid=10958957810792068463&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (40 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
 - **Tags:** rural, community, coworking, eco
 - **Website:** https://tohanicoliving.co/
+- **Rating:** 5.0 from 40 Google reviews
 
 ## About
 

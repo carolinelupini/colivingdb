@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €630/mo
 - **Price note:** €630/month (discounted from €750); from €24/night
+- **Rating:** <a href="https://maps.google.com/?cid=17522959810626877865&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (4 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
 - **Tags:** rural, community, coworking
 - **Website:** https://www.mapmelon.com/colivings/la-loba-the-space
+- **Rating:** 5.0 from 4 Google reviews
 
 ## Rates
 
@@ -20,7 +22,7 @@
 | Per night | €24 |
 | Per month | €630 |
 
-No weekly rate is published by the operator. Rates are never derived from another duration.
+La Loba - The Space does not publish a weekly rate.
 
 ## About
 

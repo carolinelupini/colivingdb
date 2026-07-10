@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €430/mo
 - **Price note:** est. from €200/2 weeks shared room
+- **Rating:** <a href="https://maps.google.com/?cid=9637672062515665311&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (16 reviews)</a> <small>· Google</small>
 - **Room types:** shared, private
 - **Dorm available:** No
 - **Minimum stay:** 14 nights (~2 weeks)
 - **Region:** Europe
 - **Tags:** rural, community, eco
 - **Website:** https://sontacoliving.com/
+- **Rating:** 4.9 from 16 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | €430 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Sonta Coliving does not publish a nightly or weekly rate.
 
 ## About
 

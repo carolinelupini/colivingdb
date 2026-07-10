@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €1,297/mo
 - **Price note:** €1,097–1,372/month; 25% off stays 28+ nights
+- **Rating:** <a href="https://maps.google.com/?cid=6913317794548179327&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (151 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
 - **Tags:** island, mountain, coworking, community
 - **Website:** https://www.taorocoliving.com
+- **Rating:** 5.0 from 151 Google reviews
 
 ## Rates
 
@@ -20,7 +22,7 @@
 | Per week | €432 |
 | Per month | €1,297 |
 
-No nightly rate is published by the operator. Rates are never derived from another duration.
+Taoro Coliving does not publish a nightly rate.
 
 ## About
 

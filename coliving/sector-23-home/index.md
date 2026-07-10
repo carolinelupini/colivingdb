@@ -19,7 +19,7 @@
 |---|---|---|
 | Per month | BGN 242 | BGN 242 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Sector 23 Home does not publish a nightly or weekly rate.
 
 ## About
 

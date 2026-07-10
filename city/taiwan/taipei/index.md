@@ -4,11 +4,11 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Banana Coliving | Taipei | from TWD 4,400/mo | private, shared | 30 nights (~1 month) | Permanent |
-| Home Sweet Home Share House | Taipei | On request | private, shared | 30 nights (~1 month) | Permanent |
-| Rooms.Taipei | Taipei | On request | shared | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Banana Coliving | Taipei | from TWD 4,400/mo | 4.2 (46) | private, shared | 30 nights (~1 month) | Permanent |
+| Home Sweet Home Share House | Taipei | On request | 5.0 (33) | private, shared | 30 nights (~1 month) | Permanent |
+| Rooms.Taipei | Taipei | On request | — | shared | — | Permanent |
 
 ## Price distribution
 

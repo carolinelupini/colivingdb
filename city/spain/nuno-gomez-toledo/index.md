@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Hamlet's Friends | Nuño Gómez, Toledo | from €540/mo | private | 28 nights (~4 weeks) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Hamlet's Friends | Nuño Gómez, Toledo | from €540/mo | 5.0 (184) | private | 28 nights (~4 weeks) | Permanent |
 
 ## Price distribution
 

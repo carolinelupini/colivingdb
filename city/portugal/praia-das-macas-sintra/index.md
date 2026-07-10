@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| WOT Ocean Soul | Praia das Maçãs (Sintra) | On request | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| WOT Ocean Soul | Praia das Maçãs (Sintra) | On request | 4.0 (439) | private | — | Permanent |
 
 Source: https://colivingdb.com/city/portugal/praia-das-macas-sintra/

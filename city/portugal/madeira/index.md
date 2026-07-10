@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Casa Basilico — Madeira | Madeira | from €2,249/mo | — | — | Pop-up |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Casa Basilico — Madeira | Madeira | from €2,249/mo | — | — | — | Pop-up |
 
 ## Price distribution
 

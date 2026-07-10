@@ -19,7 +19,7 @@
 |---|---|
 | Per month | €780 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Kalima Beach Life does not publish a nightly or weekly rate.
 
 ## About
 

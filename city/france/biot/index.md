@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| NomadUnion Coliving (Villa) | Biot | from €1,200/mo | private, shared | 30 nights (~1 month) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| NomadUnion Coliving (Villa) | Biot | from €1,200/mo | 4.8 (45) | private, shared | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Onda Co-Living | Ferrel (Baleal), Peniche | from €1,470/mo | private | 14 nights (~2 weeks) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Onda Co-Living | Ferrel (Baleal), Peniche | from €1,470/mo | 5.0 (27) | private | 14 nights (~2 weeks) | Permanent |
 
 ## Price distribution
 

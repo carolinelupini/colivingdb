@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Coliving Cadiz | Cádiz | On request | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Coliving Cadiz | Cádiz | On request | 5.0 (28) | private | — | Permanent |
 
 Source: https://colivingdb.com/city/spain/cadiz/

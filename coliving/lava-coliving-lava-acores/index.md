@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €750/mo
 - **Price note:** from €25/night shared, €35/night private; ~€750/mo private w/ long-stay discount
+- **Rating:** <a href="https://maps.google.com/?cid=13609923248219951486&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (60 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
 - **Tags:** surf, beach, island, coworking, community
 - **Website:** https://www.lavacoliving.com/
+- **Rating:** 4.9 from 60 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|---|
 | Per month | €750 | €750 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Lava Coliving (LAVA Acores) does not publish a nightly or weekly rate.
 
 ## About
 

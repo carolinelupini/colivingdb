@@ -4,10 +4,10 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| The Ive Andrića (Sonta rural coliving) | Sonta | from BGN 581/mo | private, shared | 30 nights (~1 month) | Permanent |
-| Sonta Coliving | Sonta | from €430/mo | shared, private | 14 nights (~2 weeks) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| The Ive Andrića (Sonta rural coliving) | Sonta | from BGN 581/mo | 4.9 (16) | private, shared | 30 nights (~1 month) | Permanent |
+| Sonta Coliving | Sonta | from €430/mo | 4.9 (16) | shared, private | 14 nights (~2 weeks) | Permanent |
 
 ## Price distribution
 

@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Wolfhouse | Los Gigantes, Tenerife | from €1,350/mo | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Wolfhouse | Los Gigantes, Tenerife | from €1,350/mo | — | private | — | Permanent |
 
 ## Price distribution
 

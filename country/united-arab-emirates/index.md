@@ -4,10 +4,10 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Dot Coliv | Dubai | from AED 1,000/mo | shared, private | — | Permanent |
-| HIVE | Dubai | On request | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Dot Coliv | Dubai | from AED 1,000/mo | 4.4 (61) | shared, private | — | Permanent |
+| HIVE | Dubai | On request | 4.3 (54) | private | — | Permanent |
 
 ## Price distribution
 

@@ -4,10 +4,10 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| The Kotohira (Kotohira Residence) | Kotohira | from €378/mo | private, shared, dorm | 30 nights (~1 month) | Permanent |
-| Kotori Coworking & Hostel Kotohira | Kotohira | On request | private, dorm | 5 nights | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| The Kotohira (Kotohira Residence) | Kotohira | from €378/mo | — | private, shared, dorm | 30 nights (~1 month) | Permanent |
+| Kotori Coworking & Hostel Kotohira | Kotohira | On request | 4.9 (94) | private, dorm | 5 nights | Permanent |
 
 ## Price distribution
 

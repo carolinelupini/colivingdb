@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €695/mo
 - **Price note:** €810/month private ensuite (discounted from €885)
+- **Rating:** <a href="https://maps.google.com/?cid=3595143747378565394&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (27 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
 - **Tags:** island, city, coworking, community, surf
 - **Website:** https://blueparadisecoliving.com/
+- **Rating:** 4.5 from 27 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | €695 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Blue Paradise Coliving does not publish a nightly or weekly rate.
 
 ## About
 

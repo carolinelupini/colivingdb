@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| REC.ON Project Spain | Bolaimi (Sierra Maria-Los Velez, Almeria) | from €660/mo | private | 12 nights | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| REC.ON Project Spain | Bolaimi (Sierra Maria-Los Velez, Almeria) | from €660/mo | 4.9 (100) | private | 12 nights | Permanent |
 
 ## Price distribution
 

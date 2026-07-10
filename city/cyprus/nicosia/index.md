@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Ananke Home | Nicosia | from €1,800/mo | private, shared | 4 nights | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Ananke Home | Nicosia | from €1,800/mo | 4.8 (42) | private, shared | 4 nights | Permanent |
 
 ## Price distribution
 

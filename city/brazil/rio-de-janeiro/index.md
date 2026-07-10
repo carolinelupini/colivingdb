@@ -4,10 +4,10 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Vivére Coliving | Rio de Janeiro | from BRL 1,950/mo | private | — | Permanent |
-| Draper Startup House Rio de Janeiro | Rio de Janeiro | On request | private, shared, dorm | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Vivére Coliving | Rio de Janeiro | from BRL 1,950/mo | 4.4 (20) | private | — | Permanent |
+| Draper Startup House Rio de Janeiro | Rio de Janeiro | On request | — | private, shared, dorm | — | Permanent |
 
 ## Price distribution
 

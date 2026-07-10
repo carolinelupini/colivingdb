@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €850/mo
 - **Price note:** €850/mo shared, €960/mo private; €245-280/week
+- **Rating:** <a href="https://maps.google.com/?cid=3988840509198319102&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (46 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
 - **Tags:** rural, mountain, community, coworking
 - **Website:** https://www.sende.co/
+- **Rating:** 5.0 from 46 Google reviews
 
 ## Rates
 
@@ -20,7 +22,7 @@
 | Per week | €280 | €245 |
 | Per month | €960 | €850 |
 
-No nightly rate is published by the operator. Rates are never derived from another duration.
+Sende Coliving does not publish a nightly rate.
 
 ## About
 

@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Montino Coliving | Oggebbio, Lake Maggiore | from €750/mo | private, shared | 7 nights (~1 week) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Montino Coliving | Oggebbio, Lake Maggiore | from €750/mo | 4.3 (143) | private, shared | 7 nights (~1 week) | Permanent |
 
 ## Price distribution
 

@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** monthly rates on request; dorms and private apartments
+- **Rating:** <a href="https://maps.google.com/?cid=2049777534157839715&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (40 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** —
 - **Region:** Africa
 - **Tags:** island, beach, coworking, community, startup
 - **Website:** https://coziways.com/
+- **Rating:** 4.8 from 40 Google reviews
 
 ## About
 

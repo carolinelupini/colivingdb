@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| The Journey of a Dream · Enchanted Coliving | Charente-Maritime | On request | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| The Journey of a Dream · Enchanted Coliving | Charente-Maritime | On request | 5.0 (17) | private | — | Permanent |
 
 Source: https://colivingdb.com/city/france/charente-maritime/

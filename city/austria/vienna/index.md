@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Outsite Vienna (Zoku) | Vienna | from €1,700/mo | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Outsite Vienna (Zoku) | Vienna | from €1,700/mo | 4.6 (1764) | private | — | Permanent |
 
 ## Price distribution
 

@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €930/mo
 - **Price note:** from €31/night, one-month min stay
+- **Rating:** <a href="https://maps.google.com/?cid=8730210950366044496&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (88 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
 - **Tags:** rural, eco, community, beach, surf, coworking
 - **Website:** https://eco-living.org
+- **Rating:** 4.7 from 88 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | €930 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Eco-living Finca La Palmera does not publish a nightly or weekly rate.
 
 ## About
 

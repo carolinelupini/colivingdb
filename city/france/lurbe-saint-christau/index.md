@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Maysou A Noste | Lurbe-Saint-Christau | from €420/mo | private | 6 nights | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Maysou A Noste | Lurbe-Saint-Christau | from €420/mo | 4.8 (18) | private | 6 nights | Permanent |
 
 ## Price distribution
 

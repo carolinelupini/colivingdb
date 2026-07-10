@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €300/mo
 - **Price note:** est. from ~EUR 10/night dorm on Booking.com
+- **Rating:** <a href="https://maps.google.com/?cid=16997344999392392920&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (57 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** —
 - **Region:** Africa
 - **Tags:** surf, beach, community
 - **Website:** https://www.booking.com/hotel/ma/maghrib-nomads-surfcamp.html
+- **Rating:** 4.5 from 57 Google reviews
 
 ## About
 

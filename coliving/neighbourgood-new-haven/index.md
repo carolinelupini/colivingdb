@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** est.; monthly rate not published
+- **Rating:** <a href="https://maps.google.com/?cid=3808416801500546533&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (35 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** North America
 - **Tags:** city, community
 - **Website:** https://www.neighbourgood.co
+- **Rating:** 4.5 from 35 Google reviews
 
 ## About
 

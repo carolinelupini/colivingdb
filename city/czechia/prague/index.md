@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Coliving Prague | Prague | On request | — | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Coliving Prague | Prague | On request | 4.5 (2) | — | — | Permanent |
 
 Source: https://colivingdb.com/city/czechia/prague/

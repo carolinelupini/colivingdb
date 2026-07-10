@@ -16,10 +16,9 @@
 
 | Stay length | From |
 |---|---|
-| Per week | A$180 |
 | Per month | A$780 |
 
-No nightly rate is published by the operator. Rates are never derived from another duration.
+CDA Coliving does not publish a nightly or weekly rate.
 
 ## About
 

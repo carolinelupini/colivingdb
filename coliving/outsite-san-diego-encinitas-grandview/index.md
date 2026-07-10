@@ -20,7 +20,7 @@
 | Per night | — |
 | Per month | $6,897 |
 
-No weekly rate is published by the operator. Rates are never derived from another duration.
+Outsite San Diego - Encinitas Grandview does not publish a weekly rate.
 
 ## About
 

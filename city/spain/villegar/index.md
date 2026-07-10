@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| PAS Rural Coliving | Villegar | from €810/mo | private, shared | 15 nights | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| PAS Rural Coliving | Villegar | from €810/mo | 5.0 (50) | private, shared | 15 nights | Permanent |
 
 ## Price distribution
 

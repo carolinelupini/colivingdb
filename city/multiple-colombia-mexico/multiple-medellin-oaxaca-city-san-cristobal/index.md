@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Co404 | Multiple (Medellín; Oaxaca City; San Cristóbal) | from $362/mo | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Co404 | Multiple (Medellín; Oaxaca City; San Cristóbal) | from $362/mo | 4.7 (162) | private | — | Permanent |
 
 ## Price distribution
 

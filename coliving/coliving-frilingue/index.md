@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €500/mo
 - **Price note:** from €500/mo; workations from €650/2wk all-inclusive
+- **Rating:** <a href="https://maps.google.com/?cid=1119435585620632756&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (31 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** —
 - **Region:** Europe
 - **Tags:** mountain, ski, rural, community, coworking
 - **Website:** https://coliving.frilingue.ch
+- **Rating:** 5.0 from 31 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | €500 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Coliving Frilingue does not publish a nightly or weekly rate.
 
 ## About
 

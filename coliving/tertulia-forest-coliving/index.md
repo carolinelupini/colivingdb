@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €1,140/mo
 - **Price note:** EUR 870/month (discounted from EUR 1,140); from EUR 34/night
+- **Rating:** <a href="https://maps.google.com/?cid=14957281473726073955&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (84 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
 - **Tags:** rural, mountain, eco, coworking, community
 - **Website:** https://www.mapmelon.com/colivings/tertulia-forest-coliving
+- **Rating:** 4.8 from 84 Google reviews
 
 ## Rates
 
@@ -20,7 +22,7 @@
 | Per night | €38 |
 | Per month | €1,140 |
 
-No weekly rate is published by the operator. Rates are never derived from another duration.
+Tertulia Forest Coliving does not publish a weekly rate.
 
 ## About
 

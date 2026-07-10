@@ -21,7 +21,7 @@
 | Per night | €60 | €40 |
 | Per week | €420 | €280 |
 
-No monthly rate is published by the operator. Rates are never derived from another duration.
+Arctic Coliving does not publish a monthly rate.
 
 ## About
 

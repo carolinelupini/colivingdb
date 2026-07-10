@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Waves & Wifi | Popoyo | from $1,410/mo | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Waves & Wifi | Popoyo | from $396/mo | 4.9 (109) | private | — | Permanent |
 
 Source: https://colivingdb.com/city/nicaragua/popoyo/

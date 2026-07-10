@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** 29+ night rates on inquiry; 14-28 nights 35% off standard rates
+- **Rating:** <a href="https://maps.google.com/?cid=9413628200047518598&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (94 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** 5 nights
 - **Region:** Asia
 - **Tags:** rural, coworking, community
 - **Website:** https://www.kotori-japan.com/en/coliving/
+- **Rating:** 4.9 from 94 Google reviews
 
 ## About
 

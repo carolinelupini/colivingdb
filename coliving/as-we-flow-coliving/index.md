@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €1,350/mo
 - **Price note:** from €50/night / €1350/mo (Mapmelon)
+- **Rating:** <a href="https://maps.google.com/?cid=5544149478368288768&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (45 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 20 nights
 - **Region:** Europe
 - **Tags:** beach, community, coworking
 - **Website:** https://www.mapmelon.com/colivings/as-we-flow-coliving
+- **Rating:** 4.9 from 45 Google reviews
 
 ## Rates
 
@@ -20,7 +22,7 @@
 | Per night | €50 |
 | Per month | €1,350 |
 
-No weekly rate is published by the operator. Rates are never derived from another duration.
+As We Flow Coliving does not publish a weekly rate.
 
 ## About
 

@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Boundless Life Tuscany | Pistoia | from €2,100/mo | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Boundless Life Tuscany | Pistoia | from €2,100/mo | 5.0 (1) | private | — | Permanent |
 
 ## Price distribution
 

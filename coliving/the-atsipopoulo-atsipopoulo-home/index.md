@@ -19,7 +19,7 @@
 |---|---|
 | Per month | €6,530 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+The Atsipopoulo (Atsipopoulo Home) does not publish a nightly or weekly rate.
 
 ## About
 

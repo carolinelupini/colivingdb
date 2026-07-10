@@ -4,7 +4,7 @@
 
 - **Location:** Bogotá (El Virrey, Chapinero), Colombia
 - **Type:** Permanent coliving
-- **Price:** from $1,320/mo
+- **Price:** from COP 60,000/night
 - **Price note:** from $1,055 USD/month all-inclusive standard private room
 - **Room types:** private
 - **Dorm available:** No
@@ -17,9 +17,9 @@
 
 | Stay length | Private |
 |---|---|
-| Per month | $1,320 |
+| Per night | COP 60,000 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Build it in Bogotá does not publish a weekly or monthly rate.
 
 ## About
 

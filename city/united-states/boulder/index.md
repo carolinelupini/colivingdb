@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Outsite Boulder - North Boulder | Boulder | On request | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Outsite Boulder - North Boulder | Boulder | On request | — | private | — | Permanent |
 
 Source: https://colivingdb.com/city/united-states/boulder/

@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| La Vita Sukha | Roseto Valfortore | from €1,050/mo | private, dorm | 13 nights | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| La Vita Sukha | Roseto Valfortore | from €1,050/mo | 5.0 (29) | private, dorm | 13 nights | Permanent |
 
 ## Price distribution
 

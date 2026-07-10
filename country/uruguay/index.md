@@ -4,12 +4,12 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| ZAG Coliving | Punta del Este | from $650/mo | private | — | Permanent |
-| Boundless Life — La Barra | La Barra | from €1,700/mo | — | — | Pop-up |
-| Draper Startup House Punta del Este | Punta del Este | On request | private, shared | — | Permanent |
-| Opta Coliving | Montevideo | from $2,400/mo | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| ZAG Coliving | Punta del Este | from $650/mo | 4.1 (129) | private | — | Permanent |
+| Boundless Life — La Barra | La Barra | from $1,090/mo | — | — | — | Pop-up |
+| Draper Startup House Punta del Este | Punta del Este | On request | — | private, shared | — | Permanent |
+| Opta Coliving | Montevideo | from $2,400/mo | 4.3 (2266) | private | — | Permanent |
 
 ## Price distribution
 

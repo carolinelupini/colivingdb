@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Homeoffice Madeira | Santo da Serra, Santa Cruz (Madeira) | from €1,400/mo | private | 1 night | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Homeoffice Madeira | Santo da Serra, Santa Cruz (Madeira) | from €1,400/mo | 5.0 (243) | private | 1 night | Permanent |
 
 ## Price distribution
 

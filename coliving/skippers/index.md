@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €500/mo
 - **Price note:** est.; en-suite AC rooms, meal plans avail
+- **Rating:** <a href="https://maps.google.com/?cid=5180216401480882720&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (67 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Africa
 - **Tags:** beach, coworking, community, surf
 - **Website:** https://www.teamskippers.com/
+- **Rating:** 4.6 from 67 Google reviews
 
 ## Rates
 

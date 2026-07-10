@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Draper Startup House Vina del Mar | Vina del Mar | On request | private, shared | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Draper Startup House Vina del Mar | Vina del Mar | On request | — | private, shared | — | Permanent |
 
 Source: https://colivingdb.com/city/chile/vina-del-mar/

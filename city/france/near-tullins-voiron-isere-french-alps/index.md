@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Not Sorry Coliving | near Tullins/Voiron, Isère (French Alps) | On request | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Not Sorry Coliving | near Tullins/Voiron, Isère (French Alps) | On request | — | private | — | Permanent |
 
 Source: https://colivingdb.com/city/france/near-tullins-voiron-isere-french-alps/

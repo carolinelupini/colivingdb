@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| ETNYA Coliving | Mérida | On request | — | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| ETNYA Coliving | Mérida | On request | 4.9 (12) | — | — | Permanent |
 
 Source: https://colivingdb.com/city/mexico/merida/

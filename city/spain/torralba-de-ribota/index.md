@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| POSADA DE LA LUZ | Torralba de Ribota | from €450/mo | private | 15 nights | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| POSADA DE LA LUZ | Torralba de Ribota | from €450/mo | 5.0 (21) | private | 15 nights | Permanent |
 
 ## Price distribution
 

@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Hub Feenix | Mjolbolsta (Meltola), Raseborg | from €690/mo | private | 14 nights (~2 weeks) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Hub Feenix | Mjolbolsta (Meltola), Raseborg | from €690/mo | 4.5 (56) | private | 14 nights (~2 weeks) | Permanent |
 
 ## Price distribution
 

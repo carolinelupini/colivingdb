@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Locoworking Costa Rica | Sámara | from $680/mo | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Locoworking Costa Rica | Sámara | from $680/mo | 4.8 (55) | private | — | Permanent |
 
 Source: https://colivingdb.com/city/costa-rica/samara/

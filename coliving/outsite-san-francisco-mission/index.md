@@ -4,22 +4,24 @@
 
 - **Location:** San Francisco, United States
 - **Type:** Permanent coliving
-- **Price:** from $1,160/wk
+- **Price:** from $146/night
 - **Price note:** est.; members-only, prices behind date-select
+- **Rating:** <a href="https://maps.google.com/?cid=5488928398457861458&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.1 (47 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** North America
 - **Tags:** city, coworking, community
 - **Website:** https://www.outsite.co/locations/san-francisco-mission
+- **Rating:** 4.1 from 47 Google reviews
 
 ## Rates
 
 | Stay length | From |
 |---|---|
-| Per week | $1,160 |
+| Per night | $146 |
 
-No nightly or monthly rate is published by the operator. Rates are never derived from another duration.
+Outsite San Francisco - Mission does not publish a weekly or monthly rate.
 
 ## About
 

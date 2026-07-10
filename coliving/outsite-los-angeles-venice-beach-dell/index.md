@@ -4,7 +4,7 @@
 
 - **Location:** Los Angeles, United States
 - **Type:** Permanent coliving
-- **Price:** On request
+- **Price:** from $95/night
 - **Price note:** pricing via date selection
 - **Room types:** private
 - **Dorm available:** No
@@ -12,6 +12,14 @@
 - **Region:** North America
 - **Tags:** beach, city, coworking, community
 - **Website:** https://www.outsite.co/locations/los-angeles-venice-dell
+
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per night | $95 |
+
+Outsite Los Angeles - Venice Beach Dell does not publish a weekly or monthly rate.
 
 ## About
 

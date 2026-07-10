@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €750/mo
 - **Price note:** shared room from €750/month; private from €1000
+- **Rating:** <a href="https://maps.google.com/?cid=928591637754863054&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (143 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** Yes
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
 - **Tags:** mountain, rural, coworking, community
 - **Website:** https://www.montino.life/
+- **Rating:** 4.3 from 143 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|---|
 | Per month | €1,000 | €750 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Montino Coliving does not publish a nightly or weekly rate.
 
 ## About
 

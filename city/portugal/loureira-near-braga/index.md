@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| StartArt Residency | Loureira (near Braga) | from €150/mo | shared | 1 night | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| StartArt Residency | Loureira (near Braga) | from €150/mo | 5.0 (103) | shared | 1 night | Permanent |
 
 ## Price distribution
 

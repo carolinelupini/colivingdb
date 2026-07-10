@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** price not published; inquiry/booking via site
+- **Rating:** <a href="https://maps.google.com/?cid=784136680359382931&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (17 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
 - **Tags:** rural, community, eco
 - **Website:** https://enchantedcoliving.com/
+- **Rating:** 5.0 from 17 Google reviews
 
 ## About
 

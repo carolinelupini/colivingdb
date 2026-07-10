@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Boundless Life — Andalusia (Malaga area) | Andalusia (Malaga area) | from €2,600/mo | — | — | Pop-up |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Boundless Life — Andalusia (Malaga area) | Andalusia (Malaga area) | from €2,600/mo | — | — | — | Pop-up |
 
 ## Price distribution
 

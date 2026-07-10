@@ -4,8 +4,8 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Casa Netural Gorizia | Gorizia | On request | private | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Casa Netural Gorizia | Gorizia | On request | 5.0 (28) | private | — | Permanent |
 
 Source: https://colivingdb.com/city/italy/gorizia/

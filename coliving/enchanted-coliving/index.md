@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from €1,080/mo
 - **Price note:** €870/mo (10% off from €1,080); €32/night
+- **Rating:** <a href="https://maps.google.com/?cid=784136680359382931&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (17 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 14 nights (~2 weeks)
 - **Region:** Europe
 - **Tags:** rural, community, coworking
 - **Website:** https://www.mapmelon.com/colivings/enchanted-coliving
+- **Rating:** 5.0 from 17 Google reviews
 
 ## Rates
 
@@ -20,7 +22,7 @@
 | Per night | €36 |
 | Per month | €1,080 |
 
-No weekly rate is published by the operator. Rates are never derived from another duration.
+Enchanted Coliving does not publish a weekly rate.
 
 ## About
 

@@ -4,14 +4,14 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Ungsmaløya Residence | Nyksund | from BGN 974/mo | private | 30 nights (~1 month) | Permanent |
-| Bjørkedal Home | Volda | from BGN 1,233/mo | private | 30 nights (~1 month) | Permanent |
-| Moritsgarden (Digital Nomad Norway) | Folkestad | from €700/mo | private | — | Permanent |
-| Arctic Coworking Lodge | Bostad, Lofoten | from £980/mo | private, shared | — | Permanent |
-| WiFi Tribe — Molde | Molde | from $2,390/mo | — | — | Pop-up |
-| Arctic Coliving | Voss (Mjolfjell) / Henningsvaer, Lofoten | On request | shared, private | 7 nights (~1 week) | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Ungsmaløya Residence | Nyksund | from BGN 974/mo | — | private | 30 nights (~1 month) | Permanent |
+| Bjørkedal Home | Volda | from BGN 1,233/mo | — | private | 30 nights (~1 month) | Permanent |
+| Moritsgarden (Digital Nomad Norway) | Folkestad | from €700/mo | 4.8 (16) | private | — | Permanent |
+| Arctic Coworking Lodge | Bostad, Lofoten | from £980/mo | — | private, shared | — | Permanent |
+| WiFi Tribe — Molde | Molde | from $2,390/mo | — | — | — | Pop-up |
+| Arctic Coliving | Voss (Mjolfjell) / Henningsvaer, Lofoten | On request | 5.0 (16) | shared, private | 7 nights (~1 week) | Permanent |
 
 ## Price distribution
 

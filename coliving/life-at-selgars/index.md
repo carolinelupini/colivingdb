@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from £950/mo
 - **Price note:** €990/mo on Mapmelon; operator lists £1,200/mo (£700 for 2-week min)
+- **Rating:** <a href="https://maps.google.com/?cid=9989946247605293803&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (57 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 14 nights (~2 weeks)
 - **Region:** Europe
 - **Tags:** rural, community, eco
 - **Website:** https://www.selgars.org/lifeatselgars
+- **Rating:** 4.8 from 57 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|
 | Per month | £950 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+Life at Selgars does not publish a nightly or weekly rate.
 
 ## About
 

@@ -6,12 +6,14 @@
 - **Type:** Permanent coliving
 - **Price:** from BGN 581/mo
 - **Price note:** from BGN 583/mo shared 4-bed room; private from ~EUR 580
+- **Rating:** <a href="https://maps.google.com/?cid=9637672062515665311&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (16 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
 - **Tags:** rural, community, eco
 - **Website:** https://coliving.com/spaces/acuyx1jr
+- **Rating:** 4.9 from 16 Google reviews
 
 ## Rates
 
@@ -19,7 +21,7 @@
 |---|---|---|---|
 | Per month | BGN 1,135 | BGN 744 | BGN 581 |
 
-No nightly or weekly rate is published by the operator. Rates are never derived from another duration.
+The Ive Andrića (Sonta rural coliving) does not publish a nightly or weekly rate.
 
 ## About
 

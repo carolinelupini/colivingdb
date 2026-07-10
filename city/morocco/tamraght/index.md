@@ -4,9 +4,9 @@
 
 ## All colivings
 
-| Coliving | City | Price from | Rooms | Min stay | Type |
-|---|---|---|---|---|---|
-| Maghrib Nomads Surf House | Tamraght | from €300/mo | private, dorm | — | Permanent |
+| Coliving | City | Price from | Rating | Rooms | Min stay | Type |
+|---|---|---|---|---|---|---|
+| Maghrib Nomads Surf House | Tamraght | from €300/mo | 4.5 (57) | private, dorm | — | Permanent |
 
 ## Price distribution
 
