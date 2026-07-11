@@ -5,8 +5,9 @@
 - **Location:** Valencia, Spain
 - **Type:** Permanent coliving
 - **Price:** from €1,200/mo
-- **Room types:** —
+- **Room types:** private
 - **Dorm available:** No
+- **Community size:** 5 bedrooms (2 single, 3 double); accommodates five to eight colivers per 3-month seasonal cohort
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

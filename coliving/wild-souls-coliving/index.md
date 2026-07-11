@@ -6,7 +6,7 @@
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Rating:** <a href="https://maps.google.com/?cid=2843576997518348241&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (25 reviews)</a> <small>· Google</small>
-- **Room types:** —
+- **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe

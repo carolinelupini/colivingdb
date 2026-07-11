@@ -6,7 +6,7 @@
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Rating:** <a href="https://maps.google.com/?cid=3614198391613414377&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (12 reviews)</a> <small>· Google</small>
-- **Room types:** —
+- **Room types:** apartment
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Latin America

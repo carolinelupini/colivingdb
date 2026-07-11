@@ -6,7 +6,7 @@
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Rating:** <a href="https://maps.google.com/?cid=17062918061438028535&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (148 reviews)</a> <small>· Google</small>
-- **Room types:** —
+- **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Asia

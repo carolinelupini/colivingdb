@@ -6,6 +6,6 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| ETNYA Coliving | Mérida | On request | 4.9 (12) | — | — | Permanent |
+| ETNYA Coliving | Mérida | On request | 4.9 (12) | apartment | — | Permanent |
 
 Source: https://colivingdb.com/city/mexico/merida/

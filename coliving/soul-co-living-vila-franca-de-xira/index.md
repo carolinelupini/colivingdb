@@ -6,8 +6,9 @@
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Rating:** <a href="https://maps.google.com/?cid=6089961036629379460&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.2 (26 reviews)</a> <small>· Google</small>
-- **Room types:** —
+- **Room types:** private, apartment
 - **Dorm available:** No
+- **Community size:** Rooms accommodate 1-3 guests; apartment (Casa Passaro) accommodates up to 5 guests.
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>

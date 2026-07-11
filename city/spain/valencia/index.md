@@ -12,7 +12,7 @@
 | Cohausing Cabanyal | Valencia | from €930/mo | 4.8 (108) | private | 30 nights (~1 month) | Permanent |
 | Villa Huerta (Palma Coliving Valencia) | Valencia | from €960/mo | — | private | 30 nights (~1 month) | Permanent |
 | Vivarium Coliving & Coworking | Valencia | from €985/mo | 4.9 (65) | private | 31 nights | Permanent |
-| Casa Gori — Coliving, Art Studio & Gardens | Valencia | from €1,200/mo | — | — | — | Permanent |
+| Casa Gori — Coliving, Art Studio & Gardens | Valencia | from €1,200/mo | — | private | — | Permanent |
 | Folks Coliving | Valencia | from €1,500/mo | 4.9 (45) | private | 11 nights | Permanent |
 
 ## Price distribution

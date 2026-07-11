@@ -68,14 +68,14 @@
 | Quinta do Bom Despacho | Ponta Delgada | On request | 4.8 (141) | — | — | Permanent |
 | Satvana Conscious Co-living & Retreats | Alentejo | On request | 5.0 (6) | private, shared | — | Permanent |
 | Sea Urchin SurfHouse | Ericeira | On request | 4.8 (85) | shared, private | — | Permanent |
-| Soul Co-Living Vila Franca de Xira | Ericeira | On request | 4.2 (26) | — | — | Permanent |
+| Soul Co-Living Vila Franca de Xira | Ericeira | On request | 4.2 (26) | private, apartment | — | Permanent |
 | The Luzia House Funchal | Funchal, Madeira | On request | 5.0 (45) | private | — | Permanent |
 | The Spacious Valley | Ericeira | On request | — | — | — | Permanent |
 | Villa dos Irmaos (Coworksurf) | Ericeira | On request | — | private, dorm | — | Permanent |
 | WOT Lodge Soul | Ericeira | from €451/wk | 4.1 (123) | private, dorm | 30 nights (~1 month) | Permanent |
 | WOT Ocean Soul | Praia das Maçãs (Sintra) | On request | 4.0 (439) | private | — | Permanent |
 | WOT Peniche Social | Peniche | On request | 4.5 (369) | private, dorm | 30 nights (~1 month) | Permanent |
-| Wild Souls Coliving | Ericeira | On request | 5.0 (25) | — | — | Permanent |
+| Wild Souls Coliving | Ericeira | On request | 5.0 (25) | private | — | Permanent |
 
 ## Price distribution
 

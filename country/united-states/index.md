@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Zeta House | Austin | from $1,160/wk | 4.9 (10) | — | — | Permanent |
+| Zeta House | Austin | from $1,160/wk | 4.9 (10) | private | — | Permanent |
 | Outsite Austin - Travis Heights | Austin | from $995/mo | 5.0 (15) | private, shared | — | Permanent |
 | Haven Coliving | Venice, California | from $995/mo | 4.2 (20) | shared | 30 nights (~1 month) | Permanent |
 | Neighbourgood Mission | San Francisco | from $1,395/mo | 4.0 (8) | private | — | Permanent |

@@ -15,7 +15,7 @@
 | The Chiang Mai-Lamphun | Chiang Mai | from $842/mo | — | private | 30 nights (~1 month) | Permanent |
 | Alt_PingRiver | Chiang Mai | from €810/mo | 4.8 (109) | private | 29 nights | Permanent |
 | The Arak | Chiang Mai | from $929/mo | 4.3 (87) | private | 30 nights (~1 month) | Permanent |
-| 4Seas Nimman Coliving Coworking Space | Chiang Mai | On request | 4.9 (148) | — | — | Permanent |
+| 4Seas Nimman Coliving Coworking Space | Chiang Mai | On request | 4.9 (148) | private | — | Permanent |
 | Chiangmai Inn Guesthouse | Chiang Mai | On request | 4.3 (107) | private | — | Permanent |
 | Villa Pattranid | Chiang Mai | On request | 5.0 (51) | private | — | Permanent |
 

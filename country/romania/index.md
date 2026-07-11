@@ -10,7 +10,7 @@
 | Cobana | Zărnești | from €775/mo | 5.0 (18) | private | 7 nights (~1 week) | Permanent |
 | Cobana Coliving & Working Hub | Zarnesti, Transylvania | from RON 2,940/mo | 5.0 (18) | private | 7 nights (~1 week) | Permanent |
 | Transylvanian Coliving | Sibiu | On request | 5.0 (20) | private | — | Permanent |
-| play:space cluj Spatiu Evenimente Coworking Coliving | Cluj-Napoca | from €100/wk | 5.0 (12) | — | — | Permanent |
+| play:space cluj Spatiu Evenimente Coworking Coliving | Cluj-Napoca | from €100/wk | 5.0 (12) | private | — | Permanent |
 
 ## Price distribution
 

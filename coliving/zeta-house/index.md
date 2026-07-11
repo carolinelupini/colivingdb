@@ -6,8 +6,9 @@
 - **Type:** Permanent coliving
 - **Price:** from $1,160/wk
 - **Rating:** <a href="https://maps.google.com/?cid=15084291569146886748&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (10 reviews)</a> <small>· Google</small>
-- **Room types:** —
+- **Room types:** private
 - **Dorm available:** No
+- **Community size:** 6 spacious rooms total
 - **Minimum stay:** —
 - **Region:** North America
 - **Timezone:** GMT-6 winter / GMT-5 summer <small>· US East: full workday overlap · Central Europe: your mornings</small>

@@ -6,8 +6,9 @@
 - **Type:** Permanent coliving
 - **Price:** from €381/mo
 - **Rating:** <a href="https://maps.google.com/?cid=9611710269797198987&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (102 reviews)</a> <small>· Google</small>
-- **Room types:** —
+- **Room types:** private, studio
 - **Dorm available:** No
+- **Community size:** Platform lists multiple properties in the Roma/Condesa area, individual property capacities ranging from up to 4 to up to 33 guests
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>

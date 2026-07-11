@@ -74,7 +74,7 @@
 | Pitaya coliving | Arrecife | from €1,050/mo | 5.0 (64) | private | 10 nights | Permanent |
 | Taoro Coliving | Santa Úrsula, Tenerife | from €1,297/mo | 5.0 (151) | private | 7 nights (~1 week) | Permanent |
 | Tulia Community | Los Realejos, Tenerife | from €1,140/mo | 4.5 (22) | private, apartment | 6 nights | Permanent |
-| Casa Gori — Coliving, Art Studio & Gardens | Valencia | from €1,200/mo | — | — | — | Permanent |
+| Casa Gori — Coliving, Art Studio & Gardens | Valencia | from €1,200/mo | — | private | — | Permanent |
 | Folks Coliving | Valencia | from €1,500/mo | 4.9 (45) | private | 11 nights | Permanent |
 | Laberint Coliving | Palma de Mallorca | from €1,200/mo | 5.0 (8) | private | 32 nights | Permanent |
 | WiFi Tribe — Gran Canaria | Gran Canaria | from $1,390/mo | — | — | — | Pop-up |

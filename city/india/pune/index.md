@@ -6,6 +6,6 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| COLIWO TROIS - Kharadi Pune (Colive/Cowork/Hostel) | Pune | On request | 4.4 (158) | — | — | Permanent |
+| COLIWO TROIS - Kharadi Pune (Colive/Cowork/Hostel) | Pune | On request | 4.4 (158) | dorm, shared | — | Permanent |
 
 Source: https://colivingdb.com/city/india/pune/

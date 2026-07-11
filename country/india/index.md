@@ -15,7 +15,7 @@
 | NomadGao | Goa | from INR 35,000/mo | 4.8 (281) | private | 7 nights (~1 week) | Permanent |
 | Mazal Waddo Residence | Anjuna, Goa | from $577/mo | — | private | 30 nights (~1 month) | Permanent |
 | aColmeia | Candolim (Saipem), Goa | from €540/mo | 4.9 (93) | private | 8 nights | Permanent |
-| COLIWO TROIS - Kharadi Pune (Colive/Cowork/Hostel) | Pune | On request | 4.4 (158) | — | — | Permanent |
+| COLIWO TROIS - Kharadi Pune (Colive/Cowork/Hostel) | Pune | On request | 4.4 (158) | dorm, shared | — | Permanent |
 
 ## Price distribution
 
