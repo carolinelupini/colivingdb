@@ -9,7 +9,7 @@
 | Coliving Frilingue | Liddes | from €500/mo | 5.0 (31) | private, shared, dorm | — | Permanent |
 | Petit Velan Coliving | Bourg-Saint-Pierre | from CHF 500/mo | — | private, shared | 7 nights (~1 week) | Permanent |
 | Hubs Swiss Alps Lenk | Lenk | from CHF 633/mo | 4.9 (45) | private, studio, apartment | 30 nights (~1 month) | Permanent |
-| Swiss Alps Coliving | Liddes | from CHF 700/mo | — | private, shared | — | Permanent |
+| Swiss Alps Coliving | Liddes | from CHF 700/mo | — | private, shared | 7 nights (~1 week) | Permanent |
 | Fond de Ville Home II | Liddes | from $994/mo | — | private, shared | 30 nights (~1 month) | Permanent |
 | Swiss Escape | Grimentz | from CHF 990/mo | 5.0 (64) | private, shared | 7 nights (~1 week) | Permanent |
 | Alpiness Coliving | Evolène | from CHF 1,200/mo | 5.0 (54) | private, shared | 15 nights | Permanent |

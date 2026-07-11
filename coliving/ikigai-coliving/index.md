@@ -4,28 +4,20 @@
 
 - **Location:** Puerto de la Cruz, Tenerife, Spain
 - **Type:** Permanent coliving
-- **Price:** from €728/mo
+- **Price:** On request
 - **Price note:** rates on request/booking page
 - **Rating:** <a href="https://maps.google.com/?cid=2545024632256509310&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (97 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 1000 Mbps <small>· operator-reported</small>
 - **Vibe:** Great atmosphere where tenants often hang out together
-- **Minimum stay:** —
+- **Minimum stay:** 14 nights (~2 weeks)
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** island, coworking, community
 - **Nearest airports:** Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~22 km; Tenerife Sur Airport (TFS) ~41 km; La Palma Airport (SPC) ~120 km
 - **Website:** https://www.ikigaicoliving.com/
 - **Rating:** 4.9 from 97 Google reviews
-
-## Rates
-
-| Stay length | From |
-|---|---|
-| Per night | €36 |
-| Per week | €217 |
-| Per month | €728 |
 
 ## About
 

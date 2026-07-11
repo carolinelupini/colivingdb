@@ -11,7 +11,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 1000 Mbps <small>· operator-reported</small>
 - **Vibe:** Adventure and social — 'Unforgettable Weekends. Madeira keeps surprising you... Levadas through laurel forests, sunrises above the clouds.'
-- **Minimum stay:** —
+- **Minimum stay:** 14 nights (~2 weeks)
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Included:** Private room + weekly cleaning, Communal kitchen + shared dinners, Coworking space (2 min walk), Cooking classes, Two on-site community managers, Towels and linens

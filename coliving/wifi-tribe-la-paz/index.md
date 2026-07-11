@@ -11,7 +11,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 400 Mbps <small>· operator-reported</small>
 - **Vibe:** Peaceful mountain-retreat chapter in the Andes outside La Paz — slower rhythm, deep focused work during the week, big adventures (Uyuni salt flats, Death Road) on weekends.
-- **Minimum stay:** —
+- **Minimum stay:** 28 nights (~4 weeks)
 - **Region:** Europe
 - **Timezone:** GMT-4 <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Elevation:** 3,767 m — expect a few days of altitude adjustment

@@ -10,7 +10,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 100 Mbps <small>· operator-reported</small>
 - **Vibe:** Community and surf-culture focus — guests 'have new conversations, share passions and ideas, work together... get a taste of a new lifestyle' exploring Hossegor.
-- **Minimum stay:** —
+- **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** surf, beach, coworking, community

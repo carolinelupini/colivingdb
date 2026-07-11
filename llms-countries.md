@@ -1,13 +1,13 @@
 # colivingDB — all countries
 
-> 605 colivings across 83 countries. Last updated July 12, 2026.
+> 601 colivings across 83 countries. Last updated July 12, 2026.
 
 | Country | Colivings | From (EUR/mo) |
 |---|---|---|
-| [Spain](/country/spain/index.md) | 94 | €71 |
+| [Spain](/country/spain/index.md) | 93 | €71 |
 | [Portugal](/country/portugal/index.md) | 64 | €150 |
 | [Italy](/country/italy/index.md) | 31 | €40 |
-| [Mexico](/country/mexico/index.md) | 30 | €46 |
+| [Mexico](/country/mexico/index.md) | 29 | €46 |
 | [United States](/country/united-states/index.md) | 21 | €553 |
 | [Indonesia](/country/indonesia/index.md) | 20 | €363 |
 | [Colombia](/country/colombia/index.md) | 19 | €52 |
@@ -21,9 +21,9 @@
 | [Switzerland](/country/switzerland/index.md) | 12 | €500 |
 | [Bulgaria](/country/bulgaria/index.md) | 11 | €280 |
 | [Australia](/country/australia/index.md) | 10 | €473 |
-| [Montenegro](/country/montenegro/index.md) | 10 | €360 |
 | [India](/country/india/index.md) | 9 | €140 |
 | [Japan](/country/japan/index.md) | 9 | €378 |
+| [Montenegro](/country/montenegro/index.md) | 9 | €360 |
 | [Morocco](/country/morocco/index.md) | 8 | €61 |
 | [Vietnam](/country/vietnam/index.md) | 8 | €283 |
 | [Philippines](/country/philippines/index.md) | 7 | €525 |
@@ -42,7 +42,6 @@
 | [Belize](/country/belize/index.md) | 3 | — |
 | [Cyprus](/country/cyprus/index.md) | 3 | €1,160 |
 | [Georgia](/country/georgia/index.md) | 3 | €192 |
-| [New Zealand](/country/new-zealand/index.md) | 3 | €700 |
 | [Panama](/country/panama/index.md) | 3 | €595 |
 | [South Korea](/country/south-korea/index.md) | 3 | €524 |
 | [Taiwan](/country/taiwan/index.md) | 3 | €350 |
@@ -57,6 +56,7 @@
 | [Hungary](/country/hungary/index.md) | 2 | €900 |
 | [Lithuania](/country/lithuania/index.md) | 2 | €685 |
 | [Malawi](/country/malawi/index.md) | 2 | — |
+| [New Zealand](/country/new-zealand/index.md) | 2 | €763 |
 | [Nicaragua](/country/nicaragua/index.md) | 2 | €347 |
 | [Puerto Rico](/country/puerto-rico/index.md) | 2 | €2,184 |
 | [Tunisia](/country/tunisia/index.md) | 2 | — |
@@ -76,7 +76,7 @@
 | [La Réunion](/country/la-reunion/index.md) | 1 | — |
 | [Latvia](/country/latvia/index.md) | 1 | €697 |
 | [Multiple (Colombia, Mexico)](/country/multiple-colombia-mexico/index.md) | 1 | €337 |
-| [Netherlands](/country/netherlands/index.md) | 1 | — |
+| [Netherlands](/country/netherlands/index.md) | 1 | €1,700 |
 | [Nigeria](/country/nigeria/index.md) | 1 | — |
 | [North Macedonia](/country/north-macedonia/index.md) | 1 | €1,042 |
 | [Peru](/country/peru/index.md) | 1 | €954 |

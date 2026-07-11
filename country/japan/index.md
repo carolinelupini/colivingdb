@@ -8,7 +8,7 @@
 |---|---|---|---|---|---|---|
 | The Kotohira (Kotohira Residence) | Kotohira | from $431/mo | — | private, shared, dorm | 30 nights (~1 month) | Permanent |
 | The Miyanosawa (Miyanosawa Home) | Sapporo | from $573/mo | — | private | 30 nights (~1 month) | Permanent |
-| Tokyo Chapter | Tokyo | from ¥100,000/mo | 4.4 (25) | private | — | Permanent |
+| Tokyo Chapter | Tokyo | from ¥100,000/mo | 4.4 (25) | private | 30 nights (~1 month) | Permanent |
 | Boundless Life Kamakura | Kamakura | from €2,600/mo | — | private | — | Permanent |
 | COGO TENNOJI | Osaka | On request | 4.6 (580) | private, shared | — | Permanent |
 | Kotori Coworking & Hostel Kotohira | Kotohira | On request | 4.9 (94) | private, dorm | 5 nights | Permanent |

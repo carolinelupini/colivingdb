@@ -10,7 +10,7 @@
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** 'The community feels calm, creative, and homey, with roaming animals adding an exotic touch.'
-- **Minimum stay:** —
+- **Minimum stay:** 7 nights (~1 week)
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Elevation:** 1,542 m

@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Hoppin House | Seoul (Yeonnam/Hongdae) | from KRW 900,000/mo | 4.9 (77) | private, shared | — | Permanent |
+| Hoppin House | Seoul (Yeonnam/Hongdae) | from KRW 900,000/mo | 4.9 (77) | private, shared | 7 nights (~1 week) | Permanent |
 | Seoul Nooks Community Living | Seoul | from €990/mo | — | private | 14 nights (~2 weeks) | Permanent |
 | Noma Collective — Busan | Busan | from $3,490 per event | — | — | — | Pop-up |
 

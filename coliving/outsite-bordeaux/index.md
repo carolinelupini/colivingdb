@@ -11,7 +11,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 299 Mbps <small>· operator-reported</small>
 - **Vibe:** Work, sip, repeat — city charm meets vineyard trips
-- **Minimum stay:** —
+- **Minimum stay:** 2 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, coworking, community
@@ -21,7 +21,7 @@
 
 ## Rates
 
-| Stay length | From |
+| Stay length | Private |
 |---|---|
 | Per month | €1,000 |
 

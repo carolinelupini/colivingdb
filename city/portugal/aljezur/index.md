@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Birds of Paradise | Aljezur | from €1,260/mo | 5.0 (145) | private | 14 nights (~2 weeks) | Permanent |
+| Birds of Paradise | Aljezur | from €42/night | 5.0 (145) | private | 14 nights (~2 weeks) | Permanent |
 
 ## Price distribution
 

@@ -10,7 +10,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 141 Mbps <small>· operator-reported</small>
 - **Vibe:** A laid-back surf-town coliving in Encinitas billed as 'the ultimate surf retreat with an ocean view office,' blending beach culture with remote-work flexibility.
-- **Minimum stay:** —
+- **Minimum stay:** 2 nights
 - **Region:** North America
 - **Timezone:** GMT-8 winter / GMT-7 summer <small>· US East: good overlap · Central Europe: async only</small>
 - **Tags:** beach, surf, coworking, community
@@ -21,10 +21,9 @@
 
 | Stay length | Private |
 |---|---|
-| Per night | — |
 | Per month | $6,897 |
 
-Outsite San Diego - Encinitas Grandview does not publish a weekly rate.
+Outsite San Diego - Encinitas Grandview does not publish a nightly or weekly rate.
 
 ## About
 

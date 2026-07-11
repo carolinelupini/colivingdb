@@ -11,7 +11,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 1000 Mbps <small>· operator-reported</small>
 - **Vibe:** A hand-picked, dinner-party-style coliving in a Puglia masseria blending focused remote work with communal cooking, adventure, and genuine connection.
-- **Minimum stay:** —
+- **Minimum stay:** 14 nights (~2 weeks)
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Included:** Private room + weekly cleaning, Towels and linens, Coworking space + 2 meeting rooms, Communal kitchen + daily shared dinners, Cooking classes, Community manager, Local events/activities, Surprise weekend experience

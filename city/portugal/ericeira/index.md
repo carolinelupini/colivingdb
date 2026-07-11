@@ -11,10 +11,10 @@
 | Outsite Ericeira - Boavista | Ericeira | from €800/mo | — | private | — | Permanent |
 | Outsite Ericeira - Centro | Ericeira | from €800/mo | 4.7 (34) | private | — | Permanent |
 | Outsite Ericeira - Praia do Sul | Ericeira | from €1,000/mo | 4.8 (15) | private | — | Permanent |
+| The Spacious Valley | Ericeira | from €1,260/mo | — | private | 30 nights (~1 month) | Permanent |
 | Wild Souls Ericeira | Ericeira | from €1,800/mo | 5.0 (25) | private | 7 nights (~1 week) | Permanent |
 | Sea Urchin SurfHouse | Ericeira | On request | 4.8 (85) | shared, private | — | Permanent |
 | Soul Co-Living Vila Franca de Xira | Ericeira | On request | 4.2 (26) | private, apartment | — | Permanent |
-| The Spacious Valley | Ericeira | On request | — | — | — | Permanent |
 | Villa dos Irmaos (Coworksurf) | Ericeira | On request | — | private, dorm | — | Permanent |
 | WOT Lodge Soul | Ericeira | from €451/wk | 4.1 (123) | private, dorm | 30 nights (~1 month) | Permanent |
 | Wild Souls Coliving | Ericeira | On request | 5.0 (25) | private | — | Permanent |
@@ -26,6 +26,6 @@
 | 0–500 | 1 |
 | 500–800 | 1 |
 | 800–1200 | 3 |
-| 1200–2000 | 1 |
+| 1200–2000 | 2 |
 
 Source: https://colivingdb.com/city/portugal/ericeira/

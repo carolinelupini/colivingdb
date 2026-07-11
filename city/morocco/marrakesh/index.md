@@ -6,6 +6,6 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Outsite Marrakesh | Marrakesh | On request | 4.7 (98) | private | — | Permanent |
+| Outsite Marrakesh | Marrakesh | On request | 4.7 (98) | private | 2 nights | Permanent |
 
 Source: https://colivingdb.com/city/morocco/marrakesh/

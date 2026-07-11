@@ -19,6 +19,15 @@
 - **Website:** https://www.mapmelon.com/colivings/hamlet-s-friends
 - **Rating:** 5.0 from 184 Google reviews
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per night | €21 |
+| Per month | €540 |
+
+Hamlet's Friends does not publish a weekly rate.
+
 ## About
 
 Confirmed permanent property near Toledo (five wooden houses + five rooms); €540/mo private room price (Mapmelon-discounted from €701.10), 28-night minimum stay.

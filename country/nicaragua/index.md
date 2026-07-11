@@ -7,7 +7,7 @@
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
 | Waves & Wifi | Popoyo | from $396/mo | 4.9 (109) | private | — | Permanent |
-| Outsite San Juan del Sur | San Juan del Sur | from $570/mo | 4.8 (29) | private | — | Permanent |
+| Outsite San Juan del Sur | San Juan del Sur | from €1,300/mo | 4.8 (29) | private | 2 nights | Permanent |
 
 ## Price distribution
 

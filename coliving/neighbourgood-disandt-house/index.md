@@ -10,7 +10,7 @@
 - **Room types:** private, shared
 - **Dorm available:** Yes
 - **Vibe:** A refined, calm coastal boutique hotel designed for slow mornings and quiet corners to unwind
-- **Minimum stay:** —
+- **Minimum stay:** 90 nights (~3 months)
 - **Region:** Africa
 - **Timezone:** GMT+2 <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, coworking, community

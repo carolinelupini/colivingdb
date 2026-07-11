@@ -11,7 +11,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 70 Mbps <small>· operator-reported</small>
 - **Vibe:** Cultural immersion in a quintessential Berber riad
-- **Minimum stay:** —
+- **Minimum stay:** 2 nights
 - **Region:** Africa
 - **Timezone:** GMT+1 <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** city, coworking, community

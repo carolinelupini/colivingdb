@@ -11,7 +11,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 200 Mbps <small>· operator-reported</small>
 - **Vibe:** Down to earth, relaxing chill vibe for nomads
-- **Minimum stay:** —
+- **Minimum stay:** 28 nights (~4 weeks)
 - **Region:** Africa
 - **Timezone:** GMT+3 <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** beach, coworking, community, surf
@@ -23,9 +23,9 @@
 
 | Stay length | Private |
 |---|---|
-| Per night | €28 |
-| Per week | €196 |
 | Per month | €500 |
+
+Skippers does not publish a nightly or weekly rate.
 
 ## About
 

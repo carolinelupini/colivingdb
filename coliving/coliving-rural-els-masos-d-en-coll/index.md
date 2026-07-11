@@ -4,7 +4,7 @@
 
 - **Location:** Llabià, Fontanilles (Girona), Spain
 - **Type:** Permanent coliving
-- **Price:** On request
+- **Price:** from €1,000/mo
 - **Price note:** price on request; est. rural Catalonia rates
 - **Rating:** <a href="https://maps.google.com/?cid=12856863326046798496&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (271 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared, apartment
@@ -23,6 +23,15 @@
 - **Getting there:** Girona-Costa Brava Airport (GRO) is the closest, roughly ~20-30 min by car; Barcelona-El Prat (BCN) is ~1.5h.
 - **Website:** https://www.elsmasosdencoll.com/es/8823/COLIVING/-
 - **Rating:** 4.6 from 271 Google reviews
+
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per night | €50 |
+| Per month | €1,000 |
+
+Coliving Rural Els Masos d'en Coll does not publish a weekly rate.
 
 ## About
 

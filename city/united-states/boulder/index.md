@@ -6,6 +6,6 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Outsite Boulder - North Boulder | Boulder | On request | — | private | — | Permanent |
+| Outsite Boulder - North Boulder | Boulder | from $67/night | — | private | 2 nights | Permanent |
 
 Source: https://colivingdb.com/city/united-states/boulder/

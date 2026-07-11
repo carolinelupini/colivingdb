@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| NomadGao Vila Nova | Anjuna, Goa | from INR 35,000/mo | 4.8 (281) | private | — | Permanent |
+| NomadGao Vila Nova | Anjuna, Goa | from INR 35,000/mo | 4.8 (281) | private | 3 nights | Permanent |
 | Mazal Waddo Residence | Anjuna, Goa | from $577/mo | — | private | 30 nights (~1 month) | Permanent |
 
 ## Price distribution

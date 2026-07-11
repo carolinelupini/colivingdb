@@ -19,6 +19,15 @@
 - **Website:** https://www.mapmelon.com/colivings/mi-casa-coliving
 - **Rating:** 5.0 from 5 Google reviews
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per night | €30 |
+| Per month | €720 |
+
+Mi Casa Coliving does not publish a weekly rate.
+
 ## About
 
 Confirmed permanent Puerto Escondido coliving, run by Mexican women; €720/mo (discounted from €900), €30/night option; no dorm found.

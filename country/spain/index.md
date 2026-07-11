@@ -1,6 +1,6 @@
 # Coliving in Spain
 
-> 94 colivings in Spain, prices from €71 to €2,600 per month – last updated July 12, 2026.
+> 93 colivings in Spain, prices from €71 to €2,600 per month – last updated July 12, 2026.
 
 ## All colivings
 
@@ -27,7 +27,6 @@
 | FEM Coliving | Sant Joan de les Abadesses | from €690/mo | 5.0 (85) | private | 30 nights (~1 month) | Permanent |
 | Sun and Co. | Jávea | from €690/mo | — | private, shared | — | Permanent |
 | Coliving Compostela | Santiago de Compostela | from €720/mo | 4.7 (91) | private | 15 nights | Permanent |
-| Ikigai Coliving | Puerto de la Cruz, Tenerife | from €728/mo | 4.9 (97) | private | — | Permanent |
 | Nomadico Coliving Tarifa | Tarifa | from €737/mo | 5.0 (20) | private, shared | — | Permanent |
 | Flipco | Madrid | from €740/mo | 3.5 (46) | private | 30 nights (~1 month) | Permanent |
 | Flipco Málaga | Málaga | from €740/mo | 2.1 (34) | private | 30 nights (~1 month) | Permanent |
@@ -36,7 +35,6 @@
 | La Jabonería | 4wanders | Coliving & Experiences | Valencia | from €750/mo | 4.3 (19) | private | 20 nights | Permanent |
 | Wonder House Coliving | Sant Feliu de Buixalleu, Girona | from €750/mo | 5.0 (34) | private, shared | 30 nights (~1 month) | Permanent |
 | Macaw 25 Coliving | Las Palmas de Gran Canaria | from €754/mo | 4.7 (26) | private | — | Permanent |
-| Kalima Beach Life | Caldes d'Estrac (Barcelona) | from €780/mo | — | private | — | Permanent |
 | Savi Coliving | Náquera (Valencia) | from €800/mo | 4.9 (52) | private | — | Permanent |
 | Blue Paradise Coliving | Santa Cruz de Tenerife | from €695/mo | 4.5 (27) | private | 30 nights (~1 month) | Permanent |
 | PAS Rural Coliving | Villegar | from €810/mo | 5.0 (50) | private, shared | 15 nights | Permanent |
@@ -46,7 +44,7 @@
 | Oasis Coliving | Playa de las Americas, Tenerife | from €849/mo | 2.6 (188) | private | — | Permanent |
 | Sende Coliving | Senderiz, Ourense, Galicia | from €850/mo | 5.0 (46) | private, shared | 7 nights (~1 week) | Permanent |
 | Surfescape | Lajares, Fuerteventura | from €850/mo | 4.6 (1096) | private, shared, apartment | — | Permanent |
-| Coliving 1907 | Las Palmas, Gran Canaria | from €870/mo | 4.8 (134) | private | — | Permanent |
+| Coliving 1907 | Las Palmas, Gran Canaria | from €870/mo | 4.8 (134) | private | 7 nights (~1 week) | Permanent |
 | La Toza Coworking & Coliving | Cabrero | from €870/mo | 5.0 (4) | private | 15 nights | Permanent |
 | Repeople El Cabo Coliving | Agaete, Gran Canaria | from €870/mo | 4.9 (18) | private | 30 nights (~1 month) | Permanent |
 | Anceu Coliving | Ponte Caldelas, Galicia | from €882/mo | 4.9 (73) | private | 15 nights | Permanent |
@@ -60,34 +58,35 @@
 | Bedndesk | S'Arenal (Mallorca) | from €750/mo | 4.7 (68) | private | 30 nights (~1 month) | Permanent |
 | Circles House | Coliving & Coworking | Barcelona | from €950/mo | 4.7 (99) | private, dorm | — | Permanent |
 | Casa Capitán Coliving | Guargacho, Tenerife | from €960/mo | 5.0 (18) | private | 1 night | Permanent |
-| Nomadico Gran Canaria | Las Palmas de Gran Canaria | from €980/mo | — | private, shared | — | Permanent |
+| Nomadico Gran Canaria | Las Palmas de Gran Canaria | from €980/mo | — | private, shared | 7 nights (~1 week) | Permanent |
 | Vivarium Coliving & Coworking | Valencia | from €985/mo | 4.9 (65) | private | 31 nights | Permanent |
 | The Mozart | Las Palmas | from $2,058/mo | — | private | 30 nights (~1 month) | Permanent |
+| Coliving Rural Els Masos d'en Coll | Llabià, Fontanilles (Girona) | from €1,000/mo | 4.6 (271) | private, shared, apartment | 7 nights (~1 week) | Permanent |
 | Outsite Ibiza - Es Canar | Es Canar, Ibiza | from €1,000/mo | 4.2 (58) | private | — | Permanent |
 | VIU Sagrada Familia | Barcelona | from €1,000/mo | 4.9 (48) | private | 28 nights (~4 weeks) | Permanent |
 | Kalart | Montseny Valley, Catalonia | from €1,020/mo | 4.9 (69) | private | 30 nights (~1 month) | Permanent |
 | Pitaya coliving | Arrecife | from €1,050/mo | 5.0 (64) | private | 10 nights | Permanent |
 | Taoro Coliving | Santa Úrsula, Tenerife | from €1,297/mo | 5.0 (151) | private | 7 nights (~1 week) | Permanent |
 | Tulia Community | Los Realejos, Tenerife | from €1,140/mo | 4.5 (22) | private, apartment | 6 nights | Permanent |
-| Casa Gori — Coliving, Art Studio & Gardens | Valencia | from €1,200/mo | — | private | — | Permanent |
+| Casa Gori — Coliving, Art Studio & Gardens | Valencia | from €1,200/mo | — | private | 90 nights (~3 months) | Permanent |
 | Folks Coliving | Valencia | from €1,500/mo | 4.9 (45) | private | 11 nights | Permanent |
 | Laberint Coliving | Palma de Mallorca | from €1,200/mo | 5.0 (8) | private | 32 nights | Permanent |
-| WiFi Tribe — Gran Canaria | Gran Canaria | from $1,390/mo | — | — | — | Pop-up |
+| WiFi Tribe — Gran Canaria | Gran Canaria | from $1,390/mo | — | — | 30 nights (~1 month) | Pop-up |
 | Casa Turull (Palma Coliving Barcelona) | Barcelona | from €1,380/mo | 4.4 (54) | private | 30 nights (~1 month) | Permanent |
 | García Morato Home | Las Palmas | from $1,143/mo | 4.0 (530) | private | 30 nights (~1 month) | Permanent |
 | Repeople Casa Jardin Coliving | Las Palmas de Gran Canaria | from €1,677/mo | 4.0 (4) | private | — | Permanent |
 | Repeople Casa Vera Coliving | Las Palmas de Gran Canaria | from €1,677/mo | — | private | — | Permanent |
 | Repeople Casanova Coliving | Las Palmas de Gran Canaria | from €1,677/mo | 5.0 (2) | private | — | Permanent |
-| Outsite Barcelona - Gothic Quarter | Barcelona | from €1,700/mo | 4.8 (25) | private, shared | — | Permanent |
+| Outsite Barcelona - Gothic Quarter | Barcelona | from €1,700/mo | 4.8 (25) | private, shared | 2 nights | Permanent |
 | SOMOS Coliving Palma de Mallorca | Palma de Mallorca | from €1,800/mo | 5.0 (5) | private | 30 nights (~1 month) | Permanent |
 | Boundless Life — Andalusia (Malaga area) | Andalusia (Malaga area) | from €2,600/mo | — | — | — | Pop-up |
 | Amarilla Co-living | San Miguel de Abona, Tenerife | On request | 4.6 (293) | private, shared | — | Permanent |
 | CoNomad | Corralejo | On request | 4.7 (106) | private | 30 nights (~1 month) | Permanent |
 | Coliving Cadiz | Cádiz | On request | 5.0 (28) | private | — | Permanent |
-| Coliving Rural Els Masos d'en Coll | Llabià, Fontanilles (Girona) | On request | 4.6 (271) | private, shared, apartment | 7 nights (~1 week) | Permanent |
 | Coliving Tenerife - Villa La Laguna | Santa Cruz de Tenerife | On request | 4.9 (29) | private | — | Permanent |
 | Green Living Coliving Barcelona | Castelldefels | On request | 5.0 (5) | private, shared | — | Permanent |
 | Hostel Kahlo | Sierro, Almeria (Andalucia) | On request | 3.7 (3) | dorm, private | — | Permanent |
+| Ikigai Coliving | Puerto de la Cruz, Tenerife | On request | 4.9 (97) | private | 14 nights (~2 weeks) | Permanent |
 | La Casita Coliving | Costa Adeje, Tenerife | On request | 4.9 (40) | private, shared | — | Permanent |
 | La Meca Coliving | Los Caños de Meca | On request | 4.9 (43) | private | — | Permanent |
 | Mas Pujols | Sant Boi de Llucanes (Catalonia) | On request | 5.0 (1) | private | — | Permanent |
@@ -106,8 +105,8 @@
 | Band (EUR/mo) | Colivings |
 |---|---|
 | 0–500 | 6 |
-| 500–800 | 25 |
-| 800–1200 | 32 |
+| 500–800 | 23 |
+| 800–1200 | 33 |
 | 1200–2000 | 11 |
 | 2000–∞ | 1 |
 

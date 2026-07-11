@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Masseria Olga | Valle d'Itria (Puglia) | from €650/mo | 4.7 (71) | private | — | Permanent |
+| Masseria Olga | Valle d'Itria (Puglia) | from €650/mo | 4.7 (71) | private | 14 nights (~2 weeks) | Permanent |
 
 ## Price distribution
 

@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Outsite New York - Chelsea | New York | from $3,900/mo | 4.3 (85) | private | — | Permanent |
+| Outsite New York - Chelsea | New York | from $3,900/mo | 4.3 (85) | private | 2 nights | Permanent |
 | Outsite New York - Manhattan Midtown | New York | from $4,560/mo | 4.3 (85) | private | — | Permanent |
 | Draper Startup House New York | New York | On request | 5.0 (3) | private, shared | — | Permanent |
 

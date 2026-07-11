@@ -11,7 +11,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 600 Mbps <small>· operator-reported</small>
 - **Vibe:** welcoming, fun, productive tropical coworking oasis
-- **Minimum stay:** —
+- **Minimum stay:** 30 nights (~1 month)
 - **Region:** Asia
 - **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** island, beach, coworking, community

@@ -9,7 +9,7 @@
 | Enosta Space | Da Nang | from VND 8,500,000/mo | 4.7 (73) | private, dorm | — | Permanent |
 | The Cây Giá Hạ | Hoi An | from $418/mo | — | private | 30 nights (~1 month) | Permanent |
 | Kiệt Residence | Hoi An | from $449/mo | 4.5 (44) | private, dorm | 30 nights (~1 month) | Permanent |
-| Hub Hoi An | Hoi An | from $449/mo | 4.8 (223) | dorm, private | — | Permanent |
+| Hub Hoi An | Hoi An | from $449/mo | 4.8 (223) | dorm, private | 7 nights (~1 week) | Permanent |
 | Neighbours Co-living by Kolab | Ho Chi Minh City | from $600/mo | 5.0 (12) | private | 30 nights (~1 month) | Permanent |
 | The Mẹ Thứ | Hoi An | from $742/mo | — | private | 30 nights (~1 month) | Permanent |
 | Coworking Danang | Da Nang | from VND 25,000,000/mo | 4.9 (156) | private | 30 nights (~1 month) | Permanent |

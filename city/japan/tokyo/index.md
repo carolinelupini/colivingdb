@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Tokyo Chapter | Tokyo | from ¥100,000/mo | 4.4 (25) | private | — | Permanent |
+| Tokyo Chapter | Tokyo | from ¥100,000/mo | 4.4 (25) | private | 30 nights (~1 month) | Permanent |
 
 ## Price distribution
 

@@ -11,7 +11,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 400 Mbps <small>· operator-reported</small>
 - **Vibe:** A relaxed coastal coliving home themed "Wild Coast, Clear Focus," pairing a dramatic Atlantic setting and outdoor decks with a large workspace tuned for productivity and communal meals in a homey kitchen.
-- **Minimum stay:** —
+- **Minimum stay:** 2 nights
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** beach, surf, coworking, community
@@ -21,7 +21,7 @@
 
 ## Rates
 
-| Stay length | From |
+| Stay length | Private |
 |---|---|
 | Per month | €800 |
 

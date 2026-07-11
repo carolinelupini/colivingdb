@@ -12,7 +12,7 @@
 | Taeparak Home | Chiang Mai | from $324/mo | — | private, dorm | 30 nights (~1 month) | Permanent |
 | Socialer Coliving & Coworking Space | Chiang Mai | from €390/mo | 4.6 (70) | dorm | 1 night | Permanent |
 | The Capsule by UnionSPACE | bangkok | from THB 13,500/mo | 3.9 (24) | private | 1 night | Permanent |
-| KoHub | Ko Lanta | from THB 49,500/mo | 4.8 (175) | private | — | Permanent |
+| KoHub | Ko Lanta | from THB 49,500/mo | 4.8 (175) | private | 30 nights (~1 month) | Permanent |
 | HOMA Phuket Town | Phuket | from THB 18,000/mo | 4.7 (938) | private | — | Permanent |
 | Alt Coliving | Chiang Mai | from €500/mo | 4.9 (242) | private | 30 nights (~1 month) | Permanent |
 | THE SOCIAL CLUB | Chiang Mai | from $800/mo | 4.9 (200) | private | — | Permanent |

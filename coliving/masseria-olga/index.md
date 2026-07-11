@@ -10,7 +10,7 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Slow down, connect, and get things done in Puglia
-- **Minimum stay:** —
+- **Minimum stay:** 14 nights (~2 weeks)
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, coworking, community
@@ -22,10 +22,9 @@
 
 | Stay length | Private |
 |---|---|
-| Per week | €150 |
 | Per month | €650 |
 
-Masseria Olga does not publish a nightly rate.
+Masseria Olga does not publish a nightly or weekly rate.
 
 ## About
 

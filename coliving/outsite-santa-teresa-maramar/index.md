@@ -4,7 +4,7 @@
 
 - **Location:** Santa Teresa, Costa Rica
 - **Type:** Permanent coliving
-- **Price:** from €1,400/mo
+- **Price:** from $120/night
 - **Price note:** est.; prices behind date-select
 - **Room types:** private
 - **Dorm available:** No
@@ -16,6 +16,14 @@
 - **Tags:** surf, beach, coworking, community
 - **Nearest airports:** Nosara Airport (NOB) ~65 km; Juan Santamaría International Airport (SJO) ~112 km; La Fortuna Arenal Airport (FON) ~113 km
 - **Website:** https://www.outsite.co/locations/santa-teresa
+
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per night | $120 |
+
+Outsite Santa Teresa - Maramar does not publish a weekly or monthly rate.
 
 ## About
 

@@ -4,13 +4,13 @@
 
 - **Location:** Cape Town, South Africa
 - **Type:** Permanent coliving
-- **Price:** from €1,095/mo
+- **Price:** from €2,069/mo
 - **Price note:** from ~$850/mo (est. EUR)
 - **Rating:** <a href="https://maps.google.com/?cid=11459430011803667920&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (70 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Community-driven co-living in a favourite Cape Town villa
-- **Minimum stay:** —
+- **Minimum stay:** 7 nights (~1 week)
 - **Region:** Africa
 - **Timezone:** GMT+2 <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, coworking, community
@@ -20,12 +20,11 @@
 
 ## Rates
 
-| Stay length | From |
+| Stay length | Private |
 |---|---|
-| Per night | €44 |
-| Per month | €1,095 |
+| Per month | €2,190 |
 
-Cape Coliving does not publish a weekly rate.
+Cape Coliving does not publish a nightly or weekly rate.
 
 ## About
 

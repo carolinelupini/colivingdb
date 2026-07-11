@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Outsite Algarve - Sagres | Sagres | from €800/mo | 4.4 (23) | private | — | Permanent |
+| Outsite Algarve - Sagres | Sagres | from €800/mo | 4.4 (23) | private | 2 nights | Permanent |
 
 ## Price distribution
 

@@ -9,7 +9,7 @@
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** A warm mountain community for remote workers and adventurers, built around shared stories, meals, and learning among curious, creative people worldwide.
-- **Minimum stay:** —
+- **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Elevation:** 1,775 m
@@ -21,10 +21,9 @@
 
 | Stay length | Private | Shared |
 |---|---|---|
-| Per week | CHF 588 | CHF 275 |
 | Per month | CHF 1,500 | CHF 700 |
 
-Swiss Alps Coliving does not publish a nightly rate.
+Swiss Alps Coliving does not publish a nightly or weekly rate.
 
 ## About
 

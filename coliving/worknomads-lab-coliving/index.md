@@ -10,7 +10,7 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** flexible hotel-meets-coworking space for nomads
-- **Minimum stay:** —
+- **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, coworking, community
@@ -25,10 +25,9 @@
 
 | Stay length | Private |
 |---|---|
-| Per night | €70 |
 | Per month | €1,095 |
 
-WorkNomads LAB Coliving does not publish a weekly rate.
+WorkNomads LAB Coliving does not publish a nightly or weekly rate.
 
 ## About
 

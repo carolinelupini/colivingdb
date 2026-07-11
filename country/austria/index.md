@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Outsite Vienna (Zoku) | Vienna | from €1,700/mo | 4.6 (1764) | private | — | Permanent |
+| Outsite Vienna (Zoku) | Vienna | from €1,700/mo | 4.6 (1764) | private | 2 nights | Permanent |
 | Coworkerei Coliving | Mils / Innsbruck (Tyrol) | from €12/night | — | private, shared | — | Permanent |
 
 ## Price distribution

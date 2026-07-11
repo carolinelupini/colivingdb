@@ -9,7 +9,7 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** A dynamic coworking/coliving hub in Djerba designed to support creativity, collaboration, and startup incubation for a global, purpose-driven community of digital nomads, entrepreneurs, and creatives, with dedicated quiet zones for focused work.
-- **Minimum stay:** —
+- **Minimum stay:** 1 night
 - **Region:** Africa
 - **Timezone:** GMT+1 <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** beach, coworking, startup

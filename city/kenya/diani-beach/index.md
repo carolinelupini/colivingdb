@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Skippers | Diani Beach | from €500/mo | 4.6 (67) | private | — | Permanent |
+| Skippers | Diani Beach | from €500/mo | 4.6 (67) | private | 28 nights (~4 weeks) | Permanent |
 
 ## Price distribution
 

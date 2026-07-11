@@ -7,7 +7,7 @@
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
 | ZAG Coliving | Punta del Este | from $650/mo | 4.1 (129) | private | — | Permanent |
-| Boundless Life — La Barra | La Barra | from $1,090/mo | — | — | — | Pop-up |
+| Boundless Life — La Barra | La Barra | from $1,090/mo | — | — | 28 nights (~4 weeks) | Pop-up |
 | Opta Coliving | Montevideo | from $2,400/mo | 4.3 (2266) | private | — | Permanent |
 
 ## Price distribution

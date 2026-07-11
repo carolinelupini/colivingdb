@@ -8,7 +8,7 @@
 |---|---|---|---|---|---|---|
 | Outsite San Diego - Encinitas Ponto | Encinitas | from $2,209/mo | — | private, shared | — | Permanent |
 | Outsite San Diego - Encinitas Avocado | Encinitas | from $6,897/mo | 5.0 (1) | private | — | Permanent |
-| Outsite San Diego - Encinitas Grandview | Encinitas | from $6,897/mo | — | private, shared | — | Permanent |
+| Outsite San Diego - Encinitas Grandview | Encinitas | from $6,897/mo | — | private, shared | 2 nights | Permanent |
 
 ## Price distribution
 

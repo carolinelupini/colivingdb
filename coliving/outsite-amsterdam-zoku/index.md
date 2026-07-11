@@ -4,7 +4,7 @@
 
 - **Location:** Amsterdam, Netherlands
 - **Type:** Permanent coliving
-- **Price:** On request
+- **Price:** from €1,700/mo
 - **Price note:** add dates for price
 - **Rating:** <a href="https://maps.google.com/?cid=17097233625519653896&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (3073 reviews)</a> <small>· Google</small>
 - **Room types:** private
@@ -22,6 +22,14 @@
 - **Getting there:** Amsterdam Airport Schiphol (AMS) is about 22 minutes away.
 - **Website:** https://www.outsite.co/locations/amsterdam-zoku
 - **Rating:** 4.7 from 3073 Google reviews
+
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €1,700 |
+
+Outsite Amsterdam (Zoku) does not publish a nightly or weekly rate.
 
 ## About
 

@@ -10,7 +10,7 @@
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** 'Your office has ocean views, and your breaks come with boardshorts' — surf and adventure alongside remote work.
-- **Minimum stay:** —
+- **Minimum stay:** 2 nights
 - **Region:** North America
 - **Timezone:** GMT-4 <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Tags:** beach, surf, coworking, community

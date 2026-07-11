@@ -8,7 +8,7 @@
 |---|---|---|---|---|---|---|
 | J Startup House, Jaipur - C Scheme | Jaipur | from INR 400/night | 4.7 (298) | private, dorm | — | Permanent |
 | Sector 23 Home | Navi Mumbai | from $141/mo | — | dorm | 30 nights (~1 month) | Permanent |
-| NomadGao Vila Nova | Anjuna, Goa | from INR 35,000/mo | 4.8 (281) | private | — | Permanent |
+| NomadGao Vila Nova | Anjuna, Goa | from INR 35,000/mo | 4.8 (281) | private | 3 nights | Permanent |
 | Draper Startup House Hyderabad | Hyderabad | from €360/mo | 4.7 (521) | private, shared, dorm | — | Permanent |
 | Cotla Residence | Saligao, Goa | from $423/mo | — | private | 30 nights (~1 month) | Permanent |
 | NomadGao | Goa | from INR 35,000/mo | 4.8 (281) | private | 7 nights (~1 week) | Permanent |

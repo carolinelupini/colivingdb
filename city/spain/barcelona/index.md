@@ -10,7 +10,7 @@
 | Circles House | Coliving & Coworking | Barcelona | from €950/mo | 4.7 (99) | private, dorm | — | Permanent |
 | VIU Sagrada Familia | Barcelona | from €1,000/mo | 4.9 (48) | private | 28 nights (~4 weeks) | Permanent |
 | Casa Turull (Palma Coliving Barcelona) | Barcelona | from €1,380/mo | 4.4 (54) | private | 30 nights (~1 month) | Permanent |
-| Outsite Barcelona - Gothic Quarter | Barcelona | from €1,700/mo | 4.8 (25) | private, shared | — | Permanent |
+| Outsite Barcelona - Gothic Quarter | Barcelona | from €1,700/mo | 4.8 (25) | private, shared | 2 nights | Permanent |
 
 ## Price distribution
 

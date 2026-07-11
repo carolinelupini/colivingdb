@@ -6,6 +6,6 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Casa Iris Coliving | Santiago de Querétaro | On request | 4.9 (21) | private, shared | — | Permanent |
+| Casa Iris Coliving | Santiago de Querétaro | from $220/wk | 4.9 (21) | private, shared | — | Permanent |
 
 Source: https://colivingdb.com/city/mexico/santiago-de-queretaro/

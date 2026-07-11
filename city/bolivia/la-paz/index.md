@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| WiFi Tribe — La Paz | La Paz | from $1,190/mo | — | — | — | Pop-up |
+| WiFi Tribe — La Paz | La Paz | from $1,190/mo | — | — | 28 nights (~4 weeks) | Pop-up |
 
 ## Price distribution
 

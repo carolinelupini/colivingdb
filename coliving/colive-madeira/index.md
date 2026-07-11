@@ -4,7 +4,7 @@
 
 - **Location:** Ponta do Sol, Madeira, Portugal
 - **Type:** Permanent coliving
-- **Price:** On request
+- **Price:** from €900/mo
 - **Price note:** from ~$108/night (Mill House); all-in, books via Booking.com
 - **Room types:** private, shared
 - **Dorm available:** No
@@ -15,6 +15,14 @@
 - **Tags:** island, coworking, community
 - **Nearest airports:** Cristiano Ronaldo International Airport (FNC) ~31 km; Porto Santo Airport (PXO) ~83 km
 - **Website:** https://colivemadeira.com
+
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | €900 |
+
+Colive Madeira does not publish a nightly or weekly rate.
 
 ## About
 

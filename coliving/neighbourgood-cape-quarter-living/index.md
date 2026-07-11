@@ -10,7 +10,7 @@
 - **Room types:** private, shared
 - **Dorm available:** Yes
 - **Vibe:** chic urban living in a vibrant neighborhood
-- **Minimum stay:** —
+- **Minimum stay:** 1 night
 - **Region:** Africa
 - **Timezone:** GMT+2 <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, coworking, community

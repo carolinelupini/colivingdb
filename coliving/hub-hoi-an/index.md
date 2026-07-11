@@ -10,7 +10,7 @@
 - **Room types:** dorm, private
 - **Dorm available:** Yes
 - **Vibe:** social and events-heavy coworking, tight-knit core group
-- **Minimum stay:** —
+- **Minimum stay:** 7 nights (~1 week)
 - **Region:** Asia
 - **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** coworking, community, beach, city
@@ -25,12 +25,11 @@
 
 ## Rates
 
-| Stay length | Private | Dorm |
+| Stay length | Private | Shared |
 |---|---|---|
-| Per week | $349 | $199 |
 | Per month | $789 | $449 |
 
-Hub Hoi An does not publish a nightly rate.
+Hub Hoi An does not publish a nightly or weekly rate.
 
 ## About
 

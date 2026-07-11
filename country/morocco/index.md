@@ -13,7 +13,7 @@
 | SunDesk Coliving | Taghazout | from €885/mo | 4.9 (168) | private, shared | 10 nights | Permanent |
 | The Tasga Oudrar II | Taghazout | from $1,429/mo | — | private, dorm | 30 nights (~1 month) | Permanent |
 | Cowork & Live | Casablanca | On request | 4.8 (73) | private | — | Permanent |
-| Outsite Marrakesh | Marrakesh | On request | 4.7 (98) | private | — | Permanent |
+| Outsite Marrakesh | Marrakesh | On request | 4.7 (98) | private | 2 nights | Permanent |
 
 ## Price distribution
 

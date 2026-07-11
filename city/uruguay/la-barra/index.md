@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Boundless Life — La Barra | La Barra | from $1,090/mo | — | — | — | Pop-up |
+| Boundless Life — La Barra | La Barra | from $1,090/mo | — | — | 28 nights (~4 weeks) | Pop-up |
 
 ## Price distribution
 

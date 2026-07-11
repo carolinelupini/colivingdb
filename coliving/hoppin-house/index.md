@@ -10,7 +10,7 @@
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** International digital nomad community in tranquil Seoul neighborhood
-- **Minimum stay:** —
+- **Minimum stay:** 7 nights (~1 week)
 - **Region:** Asia
 - **Timezone:** GMT+9 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** city, community, coworking
@@ -20,7 +20,7 @@
 
 ## Rates
 
-| Stay length | From |
+| Stay length | Shared |
 |---|---|
 | Per month | KRW 900,000 |
 

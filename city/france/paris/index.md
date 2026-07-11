@@ -6,6 +6,6 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Outsite Paris (Zoku) | Paris | On request | 4.6 (884) | private, shared | — | Permanent |
+| Outsite Paris (Zoku) | Paris | On request | 4.6 (884) | private, shared | 2 nights | Permanent |
 
 Source: https://colivingdb.com/city/france/paris/

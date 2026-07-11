@@ -7,8 +7,8 @@
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
 | WiFi Tribe — Santa Teresa | Santa Teresa | from $1,390/mo | — | — | — | Pop-up |
-| Outsite Santa Teresa - Maramar | Santa Teresa | from €1,400/mo | — | private | — | Permanent |
-| Outsite Santa Teresa - Playa | Santa Teresa | from $2,154/mo | 4.8 (47) | private | — | Permanent |
+| Outsite Santa Teresa - Maramar | Santa Teresa | from $120/night | — | private | — | Permanent |
+| Outsite Santa Teresa - Playa | Santa Teresa | from $2,154/mo | 4.8 (47) | private | 2 nights | Permanent |
 
 ## Price distribution
 

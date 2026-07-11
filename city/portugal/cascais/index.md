@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Outsite Cascais - Guincho | Cascais | from €1,000/mo | 4.6 (34) | private | — | Permanent |
+| Outsite Cascais - Guincho | Cascais | from €1,000/mo | 4.6 (34) | private | 2 nights | Permanent |
 
 ## Price distribution
 

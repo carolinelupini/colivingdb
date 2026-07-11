@@ -10,7 +10,7 @@
 - **Dorm available:** No
 - **Vibe:** Life transitions with lightness, comfort, and community
 - **Community size:** 10-room house
-- **Minimum stay:** —
+- **Minimum stay:** 30 nights (~1 month)
 - **Region:** Latin America
 - **Timezone:** GMT-3 <small>· US East: full workday overlap · Central Europe: good overlap</small>
 - **Elevation:** 1,017 m

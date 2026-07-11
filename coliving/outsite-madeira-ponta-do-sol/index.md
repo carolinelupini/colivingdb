@@ -11,7 +11,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 101 Mbps <small>· operator-reported</small>
 - **Vibe:** Oceanfront coliving in Madeira's nomad village
-- **Minimum stay:** —
+- **Minimum stay:** 2 nights
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** beach, island, coworking, community
@@ -21,7 +21,7 @@
 
 ## Rates
 
-| Stay length | From |
+| Stay length | Private |
 |---|---|
 | Per month | €1,700 |
 

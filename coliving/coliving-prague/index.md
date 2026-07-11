@@ -9,7 +9,7 @@
 - **Room types:** —
 - **Dorm available:** No
 - **Vibe:** Work-life balance focused coliving with afternoon gigs/events, emphasizing networking with likeminded travelers over isolation.
-- **Minimum stay:** —
+- **Minimum stay:** 90 nights (~3 months)
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** community, coworking, city

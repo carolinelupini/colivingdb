@@ -1,6 +1,6 @@
 # Coliving in Montenegro
 
-> 10 colivings in Montenegro, prices from €360 to €1,700 per month – last updated July 12, 2026.
+> 9 colivings in Montenegro, prices from €360 to €1,700 per month – last updated July 12, 2026.
 
 ## All colivings
 
@@ -15,7 +15,6 @@
 | Pachamama Family (Radanovici Home) | Radanovici | from $960/mo | 4.8 (229) | private, shared, dorm | 30 nights (~1 month) | Permanent |
 | Zaselje Home | Presjeka, Nikšić | from $857/mo | — | private | 30 nights (~1 month) | Permanent |
 | Boundless Life — Kotor | Kotor | from €1,700/mo | — | — | — | Pop-up |
-| CO CO Coworking & Coliving | Kotor | On request | — | private, shared | — | Permanent |
 
 ## Price distribution
 

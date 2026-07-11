@@ -12,11 +12,11 @@
 | La Granja Residence | San Pedro, San José | from $521/mo | — | private | 30 nights (~1 month) | Permanent |
 | Locoworking Costa Rica | Sámara | from $680/mo | 4.8 (55) | private | — | Permanent |
 | WiFi Tribe — Santa Teresa | Santa Teresa | from $1,390/mo | — | — | — | Pop-up |
-| Outsite Santa Teresa - Maramar | Santa Teresa | from €1,400/mo | — | private | — | Permanent |
-| Outsite Santa Teresa - Playa | Santa Teresa | from $2,154/mo | 4.8 (47) | private | — | Permanent |
+| Outsite Santa Teresa - Maramar | Santa Teresa | from $120/night | — | private | — | Permanent |
+| Outsite Santa Teresa - Playa | Santa Teresa | from $2,154/mo | 4.8 (47) | private | 2 nights | Permanent |
 | Puntarenas Residence | Monteverde (Santa Elena) | from $4,574/mo | — | private | 30 nights (~1 month) | Permanent |
 | Noma Collective — Playa Grande | Playa Grande | from $1,590 per event | — | — | — | Pop-up |
-| Outsite Playa Grande | Playa Grande | On request | 4.8 (47) | private | — | Permanent |
+| Outsite Playa Grande | Playa Grande | On request | 4.8 (47) | private | 1 night | Permanent |
 | Protopia Community | San José | On request | 4.9 (18) | private, dorm | 14 nights (~2 weeks) | Permanent |
 
 ## Price distribution

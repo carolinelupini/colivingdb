@@ -10,7 +10,7 @@
 | Navitas Coliving | Civitanova Marche | from €540/mo | 4.9 (71) | private | 7 nights (~1 week) | Permanent |
 | Dolce Vita Coliving & Coworking | Vallo di Nera (Umbria) | from €599/mo | 4.7 (25) | private | 7 nights (~1 week) | Permanent |
 | La Vita Sukha | Roseto Valfortore | from €1,050/mo | 5.0 (29) | private, dorm | 13 nights | Permanent |
-| Masseria Olga | Valle d'Itria (Puglia) | from €650/mo | 4.7 (71) | private | — | Permanent |
+| Masseria Olga | Valle d'Itria (Puglia) | from €650/mo | 4.7 (71) | private | 14 nights (~2 weeks) | Permanent |
 | Masseria Olga Rural Coliving | Puglia | from €690/mo | 4.7 (71) | private | 14 nights (~2 weeks) | Permanent |
 | Tertulia Coliving | Vicchio (Mugello, Florence) | from €699/mo | 4.8 (84) | private, shared | 14 nights (~2 weeks) | Permanent |
 | Il Fornello | Citta della Pieve (Umbria/Tuscany border) | from €700/mo | 4.4 (20) | private | — | Permanent |
@@ -22,7 +22,7 @@
 | ecoVita | San Priamo, San Vito, Sardinia | from €1,140/mo | 4.9 (19) | private | 3 nights | Permanent |
 | Boundless Life Tuscany | Pistoia | from €2,100/mo | 5.0 (1) | private | — | Permanent |
 | Canestanco 18 Living | Santa Croce Camerina, Sicily | from €1,200/mo | 5.0 (9) | private | — | Permanent |
-| Casa Basilico — Puglia | Puglia | from €1,247/mo | — | — | — | Pop-up |
+| Casa Basilico — Puglia | Puglia | from €1,247/mo | — | — | 14 nights (~2 weeks) | Pop-up |
 | As We Flow Coliving | Porto Cervo, Sardinia | from €1,350/mo | 4.9 (45) | private | 20 nights | Permanent |
 | Galileo Galilei Home | Matera | from $857/mo | — | private, shared | 30 nights (~1 month) | Permanent |
 | franz&mathilde Coliving | Tisens, South Tyrol | from €1,620/mo | 5.0 (75) | private | 14 nights (~2 weeks) | Permanent |

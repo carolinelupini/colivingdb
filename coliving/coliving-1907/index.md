@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=15615792980859060786&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (134 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Minimum stay:** —
+- **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** city, island, coworking, beach
@@ -19,12 +19,11 @@
 
 ## Rates
 
-| Stay length | Private | Shared |
-|---|---|---|
-| Per night | €30 | €29 |
-| Per month | €870 | — |
+| Stay length | Private |
+|---|---|
+| Per month | €870 |
 
-Coliving 1907 does not publish a weekly rate.
+Coliving 1907 does not publish a nightly or weekly rate.
 
 ## About
 

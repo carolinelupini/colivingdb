@@ -6,16 +6,16 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Casa Kandamy | Tobia | from $1,320/mo | 5.0 (37) | private | — | Permanent |
+| Casa Kandamy | Tobia | from $1,320/mo | 5.0 (37) | private | 30 nights (~1 month) | Permanent |
 | Bio Coliving TAYRONA | Santa Marta (near Tayrona Park) | from €650/mo | 4.7 (48) | private | 1 night | Permanent |
 | Flamingo Coliving | Santa Marta | from $362/mo | 4.3 (106) | private, dorm | — | Permanent |
-| Co.404 Medellin | Medellin | from $362/mo | 4.8 (64) | private | — | Permanent |
+| Co.404 Medellin | Medellin | from $362/mo | 4.8 (64) | private | 7 nights (~1 week) | Permanent |
 | Mimos Coliving - Bogota | Bogotá | from €480/mo | 5.0 (7) | private | 120 nights (~4 months) | Permanent |
 | Nomadico Manizales | Manizales | from $630/mo | — | private, shared | 7 nights (~1 week) | Permanent |
 | The Laureles | Medellin | from $671/mo | — | private | 30 nights (~1 month) | Permanent |
 | Santa Marta Life Coliving | Santa Marta (El Rodadero) | from $650/mo | 5.0 (31) | private | — | Permanent |
 | The Milagro | Bogotá | from €615/mo | 3.5 (8) | private | 30 nights (~1 month) | Permanent |
-| Balu Coliving | Medellín (Laureles) | from €650/mo | 4.8 (45) | private | — | Permanent |
+| Balu Coliving | Medellín (Laureles) | from €650/mo | 4.8 (45) | private | 30 nights (~1 month) | Permanent |
 | Outsite Medellin - El Poblado | Medellin | from $955/mo | 2.6 (5) | private | — | Permanent |
 | Nomadico Coliving Medellín | Medellín | from $955/mo | 4.9 (66) | private | 7 nights (~1 week) | Permanent |
 | Rosales Residence | Medellin | from $992/mo | 4.6 (248) | private | 30 nights (~1 month) | Permanent |
@@ -23,7 +23,7 @@
 | Kiin Living | Medellín | from €1,100/mo | 4.9 (167) | private | 30 nights (~1 month) | Permanent |
 | Pranik Living | Medellín (Laureles) | from $1,230/mo | 4.9 (50) | private | 3 nights | Permanent |
 | The Laureles II | Medellin | from $1,931/mo | 4.5 (3574) | private | 30 nights (~1 month) | Permanent |
-| Outsite Medellin - Manila | Medellin | from $35/night | 4.7 (45) | private | — | Permanent |
+| Outsite Medellin - Manila | Medellin | On request | 4.7 (45) | private | 2 nights | Permanent |
 | Riverside ecoliving | Jericó | from $284/wk | 4.8 (100) | — | 1 night | Permanent |
 
 ## Price distribution
