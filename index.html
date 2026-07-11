@@ -127,7 +127,9 @@
   .list{max-width:var(--wrap); margin:0 auto; padding:16px 22px 0;}
   .cols{display:grid; grid-template-columns:minmax(0,2.4fr) 0.8fr 1.05fr 0.75fr 1.05fr auto; gap:14px; align-items:center;}
   .r-rating{font-size:.82rem;}
-  .list-head{padding:2px 18px 10px; font-size:.7rem; text-transform:uppercase; letter-spacing:.05em; color:var(--muted); border:1px solid transparent;}
+  /* sticky: the column labels stay visible while scrolling the list */
+  /* sticks just below the (also sticky) site header; --hdrh is measured in JS */
+  .list-head{position:sticky; top:var(--hdrh, 56px); z-index:500; background:var(--bg); padding:8px 18px 10px; font-size:.7rem; text-transform:uppercase; letter-spacing:.05em; color:var(--muted); border:1px solid transparent; border-bottom:1px solid var(--line);}
   .list-head .r-price, .row .r-price{text-align:right;}
   .list-head .hsort{cursor:pointer; user-select:none;}
   .list-head .hsort:hover{color:var(--accent);}
@@ -137,6 +139,7 @@
   .list-head .r-link{min-width:64px;}
   #rows{display:flex; flex-direction:column; gap:8px; scroll-margin-top:72px;}
   .row{padding:13px 18px; cursor:default; background:var(--card); border:1px solid var(--line); border-radius:10px; transition:border-color .12s, box-shadow .12s;}
+  .row.clickable{cursor:pointer;}
   .row:hover{border-color:var(--accent); box-shadow:0 2px 10px rgba(20,40,80,.06);}
   .row.hl{border-color:var(--accent); box-shadow:0 0 0 2px var(--accent-soft);}
 
@@ -334,7 +337,7 @@
 <div class="list" style="display:none">
   <div class="list-head cols">
     <div class="r-name">Coliving</div>
-    <div class="r-type">Type</div>
+    <div class="r-type">Format</div>
     <div class="r-rooms">Rooms</div>
     <div class="r-rating hsort" data-sort="rating">Rating<span class="ar"></span></div>
     <div class="r-price hsort" data-sort="price-asc">Price<span class="ar"></span></div>
@@ -443,9 +446,8 @@ function ratingBadge(x){
   if(!x.rating) return "";
   const t = `${x.rating.toFixed(1)}★ from ${x.reviews||0} Google reviews`;
   const inner = `<span class="star">★</span>${x.rating.toFixed(1)}${x.reviews?` <small>(${x.reviews})</small>`:""}`;
-  return x.ratingUrl
-    ? ` <a class="rating" href="${x.ratingUrl}" target="_blank" rel="noopener" title="${t}">${inner}</a>`
-    : ` <span class="rating" title="${t}">${inner}</span>`;
+  // cards never link out — the whole card goes to OUR detail page; the Google link lives there
+  return ` <span class="rating" title="${t}">${inner}</span>`;
 }
 // label for a non-monthly price. "per cruise" reads better than "per event" on a cruise.
 function unitLabel(x){
@@ -589,6 +591,10 @@ monthSel.onchange=e=>{state.month=e.target.value; render();};
 document.getElementById("minstay").onchange=e=>{state.minStay=e.target.value; render();};
 document.getElementById("minrating").onchange=e=>{state.minRating=e.target.value; render();};
 document.getElementById("sort").onchange=e=>{state.sort=e.target.value; render();};
+// measure the sticky site header so the list's column header can stick right below it
+const _siteHdr=document.querySelector("header");
+function _setHdrH(){ document.documentElement.style.setProperty("--hdrh", _siteHdr.offsetHeight+"px"); }
+_setHdrH(); addEventListener("resize", _setHdrH);
 // clickable column headers — Price toggles asc/desc, Rating sorts high->low; kept in sync w/ the dropdown
 document.querySelectorAll(".list-head .hsort").forEach(h=>{
   h.onclick=()=>{
@@ -918,6 +924,11 @@ function render(){
     if(x.__m){
       row.onmouseenter=()=>x.__m.setStyle({radius:10,fillOpacity:.9});
       row.onmouseleave=()=>x.__m.setStyle({radius:7,fillOpacity:.55});
+    }
+    // whole card clicks into the detail page (esimdb-style); inner links still work normally
+    if(detailUrl){
+      row.classList.add("clickable");
+      row.onclick=e=>{ if(!e.target.closest("a")) window.location.href=detailUrl; };
     }
     rowsEl.appendChild(row);
   });
