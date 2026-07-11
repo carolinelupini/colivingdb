@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Africa
+- **Timezone:** GMT+3 <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, community, eco, coworking
+- **Nearest airports:** Arusha Airport (ARK) ~6 km; Kilimanjaro International Airport (JRO) ~44 km
 - **Website:** https://backyardventures.co/co-live
 
 ## About

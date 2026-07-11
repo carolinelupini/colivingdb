@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Oceania
+- **Timezone:** GMT+11 winter / GMT+10 summer <small>· US East: async only · Central Europe: async only</small>
 - **Tags:** community, city
+- **Nearest airports:** Sydney Kingsford Smith International Airport (SYD) ~5 km
 - **Website:** https://www.nestl.com.au/
 - **Rating:** 5.0 from 10 Google reviews
 

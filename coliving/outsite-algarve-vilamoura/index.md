@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** beach, city, coworking, community
+- **Nearest airports:** Faro - Gago Coutinho International Airport (FAO) ~15 km
 - **Website:** https://www.outsite.co/locations/vilamoura
 - **Rating:** 4.7 from 15 Google reviews
 

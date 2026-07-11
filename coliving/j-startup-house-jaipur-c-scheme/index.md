@@ -10,7 +10,12 @@
 - **Dorm available:** Yes
 - **Minimum stay:** —
 - **Region:** Asia
+- **Timezone:** GMT+5:30 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** startup, coworking, community
+- **Included:** Work desk (private rooms), Fast wifi, Daily housekeeping (private rooms), Rooftop café access, Workshops, pitch nights, hackathons
+- **Area:** Central C-Scheme, Jaipur, described as having restaurants, metro access, and the local startup ecosystem within walking distance; positioned as a zero-commute live/work space.
+- **Nearest airports:** Jaipur International Airport (JAI) ~9 km
+- **Getting there:** Jaipur International (JAI) — approximate, not stated on site.
 - **Website:** https://www.jstartuphouse.com/
 - **Rating:** 4.7 from 298 Google reviews
 

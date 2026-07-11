@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** community, coworking, mountain
+- **Nearest airports:** Sofia Airport (SOF) ~95 km
 - **Website:** https://fourleafclover-bansko.com/
 - **Rating:** 5.0 from 6 Google reviews
 

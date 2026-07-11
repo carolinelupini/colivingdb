@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Second guest:** In a private room each guest pays the shared-room rate — a private room fits one or two people for the same total, so a couple pays the same as booking two shared spots. Solo travellers can book a private room at the private rate.
+- **Nearest airports:** Gran Canaria Airport (LPA) ~16 km
 - **Website:** https://wifitribe.co/gran-canaria-agaete/
 
 ## Rates

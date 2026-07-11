@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Second guest:** In a private room each guest pays the shared-room rate — a private room fits one or two people for the same total, so a couple pays the same as booking two shared spots. Solo travellers can book a private room at the private rate.
+- **Nearest airports:** Mykonos Island National Airport (JMK) ~42 km; Santorini International Airport (JTR) ~82 km
 - **Website:** https://wifitribe.co/chapter-greece-paros/
 
 ## Rates

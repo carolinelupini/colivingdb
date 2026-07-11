@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Oceania
+- **Timezone:** GMT+11 winter / GMT+10 summer <small>· US East: async only · Central Europe: async only</small>
 - **Tags:** community, city
+- **Nearest airports:** Melbourne Essendon Airport (MEB) ~10 km; Melbourne Airport (MEL) ~19 km
 - **Website:** https://www.uko.com.au/co-living
 - **Rating:** 4.8 from 50 Google reviews
 

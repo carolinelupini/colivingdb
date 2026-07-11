@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** mountain, rural, coworking, community
+- **Nearest airports:** Grenoble Alpes Isère Airport (GNB) ~19 km; Lyon Saint-Exupéry Airport (LYS) ~59 km
 - **Website:** https://www.hostelworld.com/hostels/p/338963/not-sorry-coliving-and-coworking-in-the-french-alps/
 
 ## About

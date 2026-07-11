@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Africa
+- **Timezone:** GMT+1 <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** beach, coworking, startup
+- **Nearest airports:** Djerba Zarzis International Airport (DJE) ~8 km
 - **Website:** http://cozi.tn/
 - **Rating:** 4.6 from 47 Google reviews
 

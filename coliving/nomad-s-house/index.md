@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** community, city
+- **Nearest airports:** Brussels Airport (BRU) ~11 km
 - **Website:** http://nomadshouse.be/
 - **Rating:** 5.0 from 67 Google reviews
 

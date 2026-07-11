@@ -11,6 +11,12 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
+- **Included:** Kids' education center (weekdays), All meals for enrolled kids, Biweekly cultural field trips, 24/7 coworking hub access, Local community manager, Weekly wellness activities, Welcome/farewell events, Airport transfers, Family apartment: utilities, weekly cleaning, kitchen amenities, linens
+- **Not included:** Extra fee for unenrolled teens/visiting guests
+- **Area:** Based in Pistoia, Tuscany; day trips to Florence (Uffizi, Duomo, Ponte Vecchio) and hikes on Monte Cimone; nearby thermal spa town Montecatini Terme and Romanesque-era cathedrals.
+- **Nearest airports:** Florence Airport, Peretola (FLR) ~40 km
+- **Getting there:** Florence Peretola (FLR), ~40 min; Pisa (PSA), ~1h15 — approximate, not stated on site.
 - **Website:** https://boundless.life/tuscany-italy
 
 ## Rates

@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 31 nights
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, community, coworking
+- **Nearest airports:** Valencia Airport (VLC) ~9 km
 - **Website:** https://www.vivariumcoliving.com/
 - **Rating:** 4.9 from 65 Google reviews
 

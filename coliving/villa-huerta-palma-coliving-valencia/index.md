@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, beach, community, coworking
+- **Nearest airports:** Valencia Airport (VLC) ~12 km
 - **Website:** https://palmacoliving.co/locations-valencia/
 
 ## Rates

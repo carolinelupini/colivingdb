@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Africa
+- **Timezone:** GMT+1 <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** city, coworking, community
+- **Nearest airports:** Marrakesh Menara Airport (RAK) ~5 km
 - **Website:** https://www.outsite.co/locations/marrakesh
 - **Rating:** 4.7 from 98 Google reviews
 

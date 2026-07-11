@@ -11,7 +11,14 @@
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** city, coworking, community, island
+- **Included:** High-speed wifi (300/200 Mbps), Shared workspace/coworking area, Weekly common-area and room cleaning, Bed linens, towels, toiletries, Two fully equipped kitchens, Utilities included in rent, Bicycles available, Parking (4 vehicles)
+- **Not included:** Meals, Pets
+- **Second guest:** Couples and friends are allowed in larger rooms for an additional charge; exact amount not specified.
+- **Area:** In a quiet, panoramic area of Las Palmas de Gran Canaria, near a supermarket (2 min), café (5 min), restaurant (9 min), and a business school (2 min).
+- **Nearest airports:** Gran Canaria Airport (LPA) ~20 km
+- **Getting there:** Gran Canaria (LPA), ~25–30 min drive — approximate, not stated on site.
 - **Website:** https://coliving.com/spaces/pwyti9lo
 - **Rating:** 4.0 from 530 Google reviews
 

@@ -10,7 +10,9 @@
 - **Dorm available:** Yes
 - **Minimum stay:** —
 - **Region:** Asia
+- **Timezone:** GMT+5:30 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** surf, beach, coworking
+- **Nearest airports:** Koggala Airport (KCT) ~1 km; Colombo Ratmalana International Airport (RML) ~103 km
 - **Website:** https://www.surfandzen.com/
 - **Rating:** 4.3 from 72 Google reviews
 

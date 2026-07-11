@@ -11,6 +11,12 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Africa
+- **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
+- **Included:** Free eSIM, Coworking space, On-site restaurant, Rooftop jacuzzi, Community manager, Airport transfer (SSH), Alumni network access
+- **Not included:** Travel/health insurance, Flights, Food & beverage, Diving/snorkeling (optional add-on)
+- **Area:** Dahab is a laid-back Red Sea dive town known for the Blue Hole and Eel Garden dive/snorkel sites, with easy access to Mount Sinai and Bedouin desert excursions.
+- **Nearest airports:** Sharm El Sheikh International Airport (SSH) ~59 km
+- **Getting there:** Sharm el-Sheikh (SSH) is the arrival airport, with transfers included; no specific drive time is stated on the site.
 - **Website:** https://www.noma-collective.com/editions/alumni-exclusive-egypt-nov-01-2026
 
 Source: https://colivingdb.com/coliving/noma-collective-dahab/

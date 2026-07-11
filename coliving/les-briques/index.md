@@ -11,7 +11,9 @@
 - **Dorm available:** Yes
 - **Minimum stay:** 6 nights
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** beach, rural, coworking, community
+- **Nearest airports:** Caen Carpiquet airport (CFR) ~17 km; Beauvais-Tillé airport (BVA) ~177 km
 - **Website:** https://lesbriques.co/en/
 - **Rating:** 4.9 from 106 Google reviews
 

@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, mountain, coworking, community
+- **Nearest airports:** Girona-Costa Brava Airport (GRO) ~20 km
 - **Website:** https://wonderhousecoliving.com/
 - **Rating:** 5.0 from 34 Google reviews
 

@@ -11,7 +11,11 @@
 - **Dorm available:** Yes
 - **Minimum stay:** —
 - **Region:** Africa
+- **Timezone:** GMT+2 <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, coworking, community
+- **Area:** Cape Town-wide, Neighbourgood positions its coliving/coworking locations for city access; a guest review of the 84 Harrington location notes proximity to restaurants and the wine tram, but East City-specific detail wasn't stated.
+- **Nearest airports:** Cape Town International Airport (CPT) ~18 km
+- **Getting there:** Cape Town International (CPT) is the nearest airport, roughly 20-30 minutes by car depending on the location.
 - **Website:** https://www.neighbourgood.co
 - **Rating:** 4.4 from 367 Google reviews
 

@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Asia
+- **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** city, community, coworking
+- **Nearest airports:** Taipei Songshan International Airport (TSA) ~4 km
 - **Website:** https://www.bananacoliving.com/en
 - **Rating:** 4.2 from 46 Google reviews
 

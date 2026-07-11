@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, coworking, community, eco
+- **Nearest airports:** Salamanca Airport (SLM) ~76 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~95 km
 - **Website:** https://openorbi.com
 
 ## About

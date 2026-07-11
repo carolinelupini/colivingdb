@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** community, coworking, mountain
+- **Nearest airports:** Sofia Airport (SOF) ~95 km
 - **Website:** https://www.coworkingbansko.com/
 - **Rating:** 4.4 from 112 Google reviews
 

@@ -11,6 +11,12 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
+- **Included:** Fully-equipped accommodation, Airport transfers, eSIM with data, High-speed wifi, Community Slack access, Onsite community manager, Curated community program, No extra membership fees
+- **Not included:** Travel/health insurance, Food & beverages, Flights, Excursions, Wellness activities
+- **Area:** Placencia sits on a narrow peninsula with the Caribbean on one side and a lagoon on the other. Near the Belize Barrier Reef (UNESCO) for snorkeling/diving and Cockscomb Basin Wildlife Sanctuary, a jaguar reserve with waterfalls.
+- **Nearest airports:** Placencia Airport (PLJ) ~2 km; Philip S. W. Goldson International Airport (BZE) ~114 km
+- **Getting there:** Placencia Airport (PLJ) is the local airstrip serving the town directly.
 - **Website:** https://www.noma-collective.com/editions/belize-placencia-2027
 
 Source: https://colivingdb.com/coliving/noma-collective-placencia-jan-2027/

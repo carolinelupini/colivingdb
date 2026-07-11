@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 1 night
 - **Region:** Latin America
+- **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Tags:** coworking, community, city
+- **Nearest airports:** Guadalajara International Airport (GDL) ~19 km
 - **Website:** https://mutuovive.mx/
 - **Rating:** 4.1 from 71 Google reviews
 

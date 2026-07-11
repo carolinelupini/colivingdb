@@ -10,7 +10,11 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Asia
+- **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** surf, coworking, community
+- **Area:** Uluwatu is world-famous for surfing, with waves ranging from advanced (main peak, Bingin) to beginner-friendly (Baby Padang), plus cliffside spots like Single Fin Beach Club; it has a more relaxed pace than Canggu or Seminyak and a spread-out layout best navigated by scooter.
+- **Nearest airports:** Denpasar I Gusti Ngurah Rai International Airport (DPS) ~13 km
+- **Getting there:** Ngurah Rai International (DPS) is about a one-hour drive to Uluwatu by taxi, Gojek, or Grab.
 - **Website:** https://www.coworksurf.com/uluwatu
 - **Rating:** 5.0 from 966 Google reviews
 

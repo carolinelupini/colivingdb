@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Asia
+- **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** coworking, community, city
+- **Nearest airports:** Denpasar I Gusti Ngurah Rai International Airport (DPS) ~30 km
 - **Website:** https://parqubud.com/
 - **Rating:** 4.4 from 1727 Google reviews
 

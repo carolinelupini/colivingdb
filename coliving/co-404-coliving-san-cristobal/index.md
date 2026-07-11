@@ -11,7 +11,9 @@
 - **Dorm available:** Yes
 - **Minimum stay:** —
 - **Region:** Latin America
+- **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Tags:** city, mountain, coworking, community
+- **Nearest airports:** Angel Albino Corzo International Airport (TGZ) ~46 km; Carlos Rovirosa Pérez International Airport (VSA) ~141 km
 - **Website:** https://co404.com/san-cristobal/
 - **Rating:** 4.8 from 81 Google reviews
 

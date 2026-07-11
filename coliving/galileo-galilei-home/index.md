@@ -10,7 +10,9 @@
 - **Dorm available:** Yes
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, coworking, community
+- **Nearest airports:** Bari Karol Wojtyła International Airport (BRI) ~53 km
 - **Website:** https://coliving.com/spaces/shsfpxa7
 
 ## Rates

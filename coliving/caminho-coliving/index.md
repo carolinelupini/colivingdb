@@ -11,7 +11,9 @@
 - **Dorm available:** Yes
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** city, coworking, community
+- **Nearest airports:** Francisco de Sá Carneiro Airport (OPO) ~2 km
 - **Website:** https://caminhocoliving.pt/
 - **Rating:** 4.9 from 9 Google reviews
 

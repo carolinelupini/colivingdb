@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 14 nights (~2 weeks)
 - **Region:** Asia
+- **Timezone:** GMT+9 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** city, community
+- **Nearest airports:** Seoul Gimpo International Airport (GMP) ~17 km
 - **Website:** https://www.mapmelon.com/colivings/seoul-nooks-community-living
 
 ## Rates

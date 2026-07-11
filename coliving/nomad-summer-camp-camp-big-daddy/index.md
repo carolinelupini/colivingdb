@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 3 nights
 - **Region:** Africa
+- **Timezone:** GMT+2 <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** community, rural
+- **Nearest airports:** Cape Town International Airport (CPT) ~18 km
 - **Website:** https://nomadsummercamp.com/
 
 ## About

@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 1 night
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, coworking, community
+- **Nearest airports:** Olsztyn-Mazury Airport (SZY) ~91 km; Gdańsk Lech Wałęsa Airport (GDN) ~113 km
 - **Website:** https://www.mapmelon.com/colivings/spotbase
 
 ## Rates

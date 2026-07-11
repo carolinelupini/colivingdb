@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 14 nights (~2 weeks)
 - **Region:** Europe
+- **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, community, coworking
+- **Nearest airports:** Helsinki Vantaa Airport (HEL) ~84 km
 - **Website:** https://hubfeenix.fi/
 - **Rating:** 4.5 from 56 Google reviews
 

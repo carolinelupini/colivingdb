@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** mountain, coworking, community
+- **Nearest airports:** Trieste Airport (TRS) ~57 km
 - **Website:** https://www.colivingcommunity.com/find-a-coliving/hubs-travel?src=deal&amp;dealId=cmkhtwi030000jp042z5dqxmt
 - **Rating:** 5.0 from 5 Google reviews
 

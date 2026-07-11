@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** North America
+- **Timezone:** GMT-6 winter / GMT-5 summer <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Tags:** city, coworking, community
+- **Nearest airports:** Austin Bergstrom International Airport (AUS) ~9 km
 - **Website:** https://www.outsite.co/locations/austin-travis-heights
 - **Rating:** 5.0 from 15 Google reviews
 

@@ -11,7 +11,13 @@
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
+- **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, coworking, community
+- **Included:** Private bathroom, Parking, Gym access, 24/7 coworking access, Weekly room cleaning
+- **Second guest:** A second person sharing the room stays free of charge.
+- **Area:** Sofia offers good public transport, mountain access, and shops/markets near the property; well known for a growing coworking/nomad scene and easy access to Vitosha Mountain.
+- **Nearest airports:** Sofia Airport (SOF) ~8 km
+- **Getting there:** Sofia Airport (SOF) is the nearest airport, roughly 20-30 minutes from the city center.
 - **Website:** https://www.mapmelon.com/colivings/worknomads
 - **Rating:** 4.5 from 480 Google reviews
 

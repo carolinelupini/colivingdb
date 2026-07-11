@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** city, beach, eco, community, island
+- **Nearest airports:** Gran Canaria Airport (LPA) ~25 km
 - **Website:** https://ecoisleta.com/en/
 - **Rating:** 4.9 from 58 Google reviews
 

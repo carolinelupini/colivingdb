@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Latin America
+- **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Tags:** city, coworking, community, startup
+- **Nearest airports:** El Dorado International Airport (BOG) ~11 km
 - **Website:** https://builditinbogota.com/
 
 ## Rates

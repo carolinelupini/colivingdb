@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Asia
+- **Timezone:** GMT+5:30 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** beach, surf, coworking
+- **Nearest airports:** Koggala Airport (KCT) ~15 km; Colombo Ratmalana International Airport (RML) ~113 km
 - **Website:** https://coliving.com/spaces/klomftm3
 - **Rating:** 4.7 from 58 Google reviews
 

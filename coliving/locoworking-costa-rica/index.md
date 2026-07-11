@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Latin America
+- **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Tags:** beach, coworking, community
+- **Nearest airports:** Nosara Airport (NOB) ~17 km; Daniel Oduber Quirós International Airport (LIR) ~79 km
 - **Website:** https://locoworkingcostarica.com
 - **Rating:** 4.8 from 55 Google reviews
 

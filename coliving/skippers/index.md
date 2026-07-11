@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Africa
+- **Timezone:** GMT+3 <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** beach, coworking, community, surf
+- **Nearest airports:** Moi International Airport (MBA) ~27 km
 - **Website:** https://www.teamskippers.com/
 - **Rating:** 4.6 from 67 Google reviews
 

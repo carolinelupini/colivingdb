@@ -11,7 +11,14 @@
 - **Dorm available:** Yes
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, eco, community, family
+- **Included:** Private or shared room, Three homemade meals a day, High-speed wifi (200/35 Mbps), Utilities included, Common area + room cleaning, Pool, yoga space, BBQ area, bicycles, Community activities (yoga, meditation, workshops, movie nights, outings), Access to a community 7-seater car
+- **Not included:** Pets (not allowed despite general pet-friendly note), Sauna (listed as coming soon)
+- **Second guest:** Couples are allowed, with couple-friendly private rooms available, though no specific extra charge is stated.
+- **Area:** In the village of Ukropci near Kotor Bay, with secret beaches a 6km walk/short drive away and Kotor and Budva Old Towns 15-20km away.
+- **Nearest airports:** Tivat Airport (TIV) ~8 km; Podgorica Airport / Podgorica Golubovci Airbase (TGD) ~41 km
+- **Getting there:** Tivat (TIV) is the nearest airport, roughly 20-30 minutes by car; Podgorica (TGD) is farther.
 - **Website:** https://coliving.com/spaces/bn2ovnqc
 - **Rating:** 4.8 from 229 Google reviews
 

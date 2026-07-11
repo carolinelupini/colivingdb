@@ -10,7 +10,9 @@
 - **Dorm available:** Yes
 - **Minimum stay:** —
 - **Region:** Asia
+- **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** community, coworking, city
+- **Nearest airports:** Mactan Cebu International Airport (CEB) ~10 km
 - **Website:** https://nomadshub.ph/
 - **Rating:** 4.2 from 142 Google reviews
 

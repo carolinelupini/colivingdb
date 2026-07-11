@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** coworking, community
+- **Nearest airports:** Chania International Airport (CHQ) ~33 km
 - **Website:** https://calergi.gr/
 - **Rating:** 4.6 from 85 Google reviews
 

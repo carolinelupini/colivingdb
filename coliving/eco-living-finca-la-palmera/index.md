@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, eco, community, beach, surf, coworking
+- **Nearest airports:** Gibraltar Airport (GIB) ~40 km
 - **Website:** https://eco-living.org
 - **Rating:** 4.7 from 88 Google reviews
 

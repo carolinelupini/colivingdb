@@ -10,7 +10,9 @@
 - **Dorm available:** Yes
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** mountain, ski, coworking, community, rural
+- **Nearest airports:** Annecy Meythet airport (NCY) ~84 km; Geneva International Airport (GVA) ~86 km
 - **Website:** https://swissalpscoliving.com/
 
 ## Rates

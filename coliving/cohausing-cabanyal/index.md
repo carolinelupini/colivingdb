@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** beach, community, city
+- **Nearest airports:** Valencia Airport (VLC) ~13 km
 - **Website:** http://www.cohausingvalencia.com/
 - **Rating:** 4.8 from 108 Google reviews
 

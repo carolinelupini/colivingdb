@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 29 nights
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** beach, city, coworking, community
+- **Nearest airports:** Faro - Gago Coutinho International Airport (FAO) ~31 km
 - **Website:** https://calcadaguesthouse.com/coliving/en.html
 - **Rating:** 4.9 from 90 Google reviews
 

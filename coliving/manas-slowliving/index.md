@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** beach, surf, coworking, community
+- **Nearest airports:** Portimão Airport (PRM) ~94 km; Lisbon Humberto Delgado Airport (LIS) ~94 km
 - **Website:** https://www.mapmelon.com/colivings/manas-slowliving
 - **Rating:** 4.9 from 27 Google reviews
 

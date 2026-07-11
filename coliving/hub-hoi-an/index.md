@@ -11,7 +11,14 @@
 - **Dorm available:** Yes
 - **Minimum stay:** —
 - **Region:** Asia
+- **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** coworking, community, beach, city
+- **Included:** Room with en-suite bathroom, balcony, desk, and office chair, Utilities: electricity, internet, water, drinking water, Pool and bicycle access, Weekly room service, Airport pickup, Full coworking membership, Community events at the coworking space (10-20/week), Self-serve tea and Vietnamese coffee
+- **Not included:** Food and other drinks (e.g. fridge beer, barista Italian coffee)
+- **Second guest:** Room rates already price for double occupancy — e.g. a Standard room runs $459-$1,099/week for two people — with no separate per-person surcharge stated.
+- **Area:** Set among rice-field views, close to Hoi An Ancient Town.
+- **Nearest airports:** Da Nang International Airport (DAD) ~22 km
+- **Getting there:** Da Nang International Airport (DAD); airport pickup is included in the stay.
 - **Website:** https://hubhoian.com/coliving/
 - **Rating:** 4.8 from 223 Google reviews
 

@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** beach, coworking, community
+- **Nearest airports:** Girona-Costa Brava Airport (GRO) ~42 km
 - **Website:** https://www.kalimabeachlife.com
 
 ## Rates

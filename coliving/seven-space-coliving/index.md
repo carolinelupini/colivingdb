@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Africa
+- **Timezone:** GMT+1 <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** community, coworking, city
+- **Nearest airports:** Murtala Muhammed International Airport (LOS) ~21 km
 - **Website:** https://sevenspace.ng/
 - **Rating:** 3.4 from 5 Google reviews
 

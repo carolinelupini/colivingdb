@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Latin America
+- **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Tags:** beach, surf, coworking, community
+- **Nearest airports:** Daniel Oduber Quirós International Airport (LIR) ~44 km
 - **Website:** https://www.outsite.co/locations/playa-grande
 - **Rating:** 4.8 from 47 Google reviews
 

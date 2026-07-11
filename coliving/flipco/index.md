@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** community, coworking, city
+- **Nearest airports:** Adolfo Suárez Madrid–Barajas Airport (MAD) ~11 km
 - **Website:** https://flipcoliving.com/
 - **Rating:** 3.5 from 46 Google reviews
 

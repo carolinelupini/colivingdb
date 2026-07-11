@@ -10,7 +10,9 @@
 - **Dorm available:** Yes
 - **Minimum stay:** 60 nights (~2 months)
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, coworking, community
+- **Nearest airports:** Kraków John Paul II International Airport (KRK) ~10 km
 - **Website:** https://coliving.com/spaces/mi0oqwfh
 
 ## Rates

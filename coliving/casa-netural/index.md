@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 1 night
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, coworking, community, eco
+- **Nearest airports:** Bari Karol Wojtyła International Airport (BRI) ~54 km
 - **Website:** https://www.benetural.com/en/
 - **Rating:** 4.9 from 139 Google reviews
 

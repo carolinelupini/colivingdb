@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Latin America
+- **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Tags:** city, coworking, community
+- **Nearest airports:** La Aurora International Airport (GUA) ~22 km
 - **Website:** https://nomadico.io
 - **Rating:** 5.0 from 1 Google reviews
 

@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Africa
+- **Timezone:** GMT+2 <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, coworking, community
+- **Nearest airports:** Cape Town International Airport (CPT) ~18 km
 - **Website:** https://nomadico.io
 - **Rating:** 5.0 from 6 Google reviews
 

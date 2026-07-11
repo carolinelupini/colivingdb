@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 4 nights
 - **Region:** Europe
+- **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, eco, community
+- **Nearest airports:** Ercan International Airport (ECN) ~13 km
 - **Website:** https://www.mapmelon.com/colivings/ananke-home
 - **Rating:** 4.8 from 42 Google reviews
 

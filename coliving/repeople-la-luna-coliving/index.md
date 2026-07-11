@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** city, island, coworking, community
+- **Nearest airports:** Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~9 km
 - **Website:** https://repeople.co
 - **Rating:** 4.5 from 22 Google reviews
 

@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
+- **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** island, coworking
+- **Nearest airports:** Chania International Airport (CHQ) ~32 km
 - **Website:** https://coliving.com/spaces/pkzmziji
 
 ## Rates

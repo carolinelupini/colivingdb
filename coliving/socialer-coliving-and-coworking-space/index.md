@@ -11,7 +11,9 @@
 - **Dorm available:** Yes
 - **Minimum stay:** 1 night
 - **Region:** Asia
+- **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** city, coworking, community
+- **Nearest airports:** Chiang Mai International Airport (CNX) ~4 km
 - **Website:** https://www.mapmelon.com/colivings/socialer-coliving-coworking-space
 - **Rating:** 4.6 from 70 Google reviews
 

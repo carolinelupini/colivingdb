@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** surf, beach, mountain, coworking, community
+- **Nearest airports:** Leknes Airport (LKN) ~12 km; Bodø Airport (BOO) ~111 km
 - **Website:** https://www.arcticcoworking.com
 
 ## Rates

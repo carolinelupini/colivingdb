@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 1 night
 - **Region:** Latin America
+- **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Tags:** coworking, city, community
+- **Nearest airports:** Mexico City Benito Juárez International Airport (MEX) ~10 km
 - **Website:** https://niu-coliving.com/es/narvarte/
 - **Rating:** 4.3 from 142 Google reviews
 

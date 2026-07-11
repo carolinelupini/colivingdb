@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 90 nights (~3 months)
 - **Region:** Oceania
+- **Timezone:** GMT+13 winter / GMT+12 summer <small>· US East: async only · Central Europe: async only</small>
 - **Tags:** community, city
+- **Nearest airports:** Auckland International Airport (AKL) ~17 km
 - **Website:** https://thecoh.co.nz/
 - **Rating:** 4.8 from 103 Google reviews
 

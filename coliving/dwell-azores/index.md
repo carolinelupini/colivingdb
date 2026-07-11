@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 28 nights (~4 weeks)
 - **Region:** Europe
+- **Timezone:** GMT-1 winter / GMT+0 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** island, surf, coworking, community
+- **Nearest airports:** João Paulo II Airport (PDL) ~10 km
 - **Website:** https://dwellazores.com/
 - **Rating:** 5.0 from 89 Google reviews
 

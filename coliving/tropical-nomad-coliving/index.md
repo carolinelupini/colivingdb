@@ -10,7 +10,12 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Asia
+- **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** coworking, community, surf
+- **Included:** En-suite bathroom, Shared kitchen access, Pool and gazebo garden, High-speed internet, Furnished private desk, Air-conditioned rooms, Weekly community events (BBQs, workshops, movie nights)
+- **Area:** Canggu, Bali; rooms overlook rice fields from balconies, with an onsite cafe/lounge area.
+- **Nearest airports:** Denpasar I Gusti Ngurah Rai International Airport (DPS) ~11 km
+- **Getting there:** Ngurah Rai/Denpasar (DPS), ~45–60 min drive depending on traffic — approximate, not stated on site.
 - **Website:** https://tropicalnomad.id/
 - **Rating:** 4.4 from 377 Google reviews
 

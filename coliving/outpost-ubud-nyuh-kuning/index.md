@@ -11,7 +11,12 @@
 - **Dorm available:** No
 - **Minimum stay:** 14 nights (~2 weeks)
 - **Region:** Asia
+- **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** coworking, community, city
+- **Included:** Private room and bathroom, Reliable internet, Regular cleaning service, 24/7 onsite staff support, Coworking access (high-speed wifi, ergonomic chairs, adjustable desks) via Colive+ tier
+- **Area:** Nyuh Kuning is a village near the Sacred Monkey Forest Sanctuary, within walking distance of central Ubud, and known for its rice paddies, yoga studios, and wellness/coworking scene.
+- **Nearest airports:** Denpasar I Gusti Ngurah Rai International Airport (DPS) ~26 km
+- **Getting there:** Ngurah Rai/Denpasar Airport (DPS) is roughly ~1-1.25h by car depending on traffic.
 - **Website:** https://destinationoutpost.co
 - **Rating:** 4.7 from 320 Google reviews
 

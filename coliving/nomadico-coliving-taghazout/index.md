@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Africa
+- **Timezone:** GMT+1 <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** beach, surf, coworking, community
+- **Nearest airports:** Al Massira Airport (AGA) ~38 km
 - **Website:** https://www.nomadico.io/
 - **Rating:** 4.9 from 86 Google reviews
 

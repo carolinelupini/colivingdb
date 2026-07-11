@@ -11,7 +11,9 @@
 - **Dorm available:** Yes
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** beach, coworking, community
+- **Nearest airports:** Tivat Airport (TIV) ~18 km; Dubrovnik Ruđer Bošković Airport (DBV) ~25 km
 - **Website:** https://coliving.com/spaces/wt14vzgy
 - **Rating:** 4.7 from 30 Google reviews
 

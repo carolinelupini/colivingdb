@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Oceania
+- **Timezone:** GMT+11 winter / GMT+10 summer <small>· US East: async only · Central Europe: async only</small>
 - **Tags:** community, city
+- **Nearest airports:** Sydney Kingsford Smith International Airport (SYD) ~9 km
 - **Website:** https://www.uko.com.au/co-living
 - **Rating:** 4.8 from 22 Google reviews
 

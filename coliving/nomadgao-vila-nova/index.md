@@ -11,7 +11,13 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Asia
+- **Timezone:** GMT+5:30 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** beach, coworking, community
+- **Included:** Coworking space, meeting and call rooms, Free coffee and tea, Community events, Linen and towel laundry, High-speed wifi (200+ Mbps with backup lines)
+- **Not included:** Room service (self-service F&B), Meals/breakfast (pre-ordered chef meals cost extra), Airport pickup/drop (billed separately)
+- **Area:** Set in a lush, green landscape close to nature in Anjuna, about 1km from the beach; scooter rental is recommended for getting around North Goa.
+- **Nearest airports:** Manohar International Airport (GOX) ~21 km
+- **Getting there:** Manohar International Airport, Mopa (GOX) is ~35-45 min by car; Dabolim/Goa International (GOI) is ~1-1.5h.
 - **Website:** https://nomadgao.com/coliving/
 - **Rating:** 4.8 from 281 Google reviews
 

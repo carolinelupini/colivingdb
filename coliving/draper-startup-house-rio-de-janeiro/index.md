@@ -10,7 +10,9 @@
 - **Dorm available:** Yes
 - **Minimum stay:** —
 - **Region:** Latin America
+- **Timezone:** GMT-3 <small>· US East: full workday overlap · Central Europe: good overlap</small>
 - **Tags:** beach, city, coworking, community, startup
+- **Nearest airports:** Santos Dumont Airport (SDU) ~1 km
 - **Website:** https://draperstartuphouse.com/brazil/
 
 ## About

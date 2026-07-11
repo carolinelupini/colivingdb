@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Latin America
+- **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Tags:** beach, community
+- **Nearest airports:** Cancún International Airport (CUN) ~13 km
 - **Website:** https://humantcoliving.com/
 - **Rating:** 4.9 from 178 Google reviews
 

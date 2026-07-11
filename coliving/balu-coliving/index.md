@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Latin America
+- **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Tags:** city, community
+- **Nearest airports:** Enrique Olaya Herrera Airport (EOH) ~2 km; Jose Maria Córdova International Airport (MDE) ~20 km
 - **Website:** https://coliving.community/at/balu
 - **Rating:** 4.8 from 45 Google reviews
 

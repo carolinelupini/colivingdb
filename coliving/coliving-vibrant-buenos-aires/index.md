@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Latin America
+- **Timezone:** GMT-3 <small>· US East: full workday overlap · Central Europe: good overlap</small>
 - **Tags:** community, city
+- **Nearest airports:** Aeroparque Jorge Newbery (AEP) ~7 km
 - **Website:** https://www.coliving.com.ar/
 - **Rating:** 4.7 from 44 Google reviews
 

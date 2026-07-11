@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** North America
+- **Timezone:** GMT-5 winter / GMT-4 summer <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Tags:** city, coworking, community
+- **Nearest airports:** LaGuardia Airport (LGA) ~10 km
 - **Website:** https://www.outsite.co/locations/manhattan-midtown
 - **Rating:** 4.3 from 85 Google reviews
 

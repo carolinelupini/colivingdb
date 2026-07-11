@@ -10,7 +10,9 @@
 - **Dorm available:** Yes
 - **Minimum stay:** —
 - **Region:** Oceania
+- **Timezone:** GMT+11 winter / GMT+10 summer <small>· US East: async only · Central Europe: async only</small>
 - **Tags:** beach, surf
+- **Nearest airports:** Ballina Byron Gateway Airport (BNK) ~21 km; Gold Coast Airport (OOL) ~55 km
 - **Website:** https://lifeinbyron.com.au/
 - **Rating:** 4.6 from 96 Google reviews
 

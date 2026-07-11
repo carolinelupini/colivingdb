@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, coworking, community
+- **Nearest airports:** Perugia San Francesco d'Assisi – Umbria International Airport (PEG) ~45 km
 - **Website:** https://cocohub.io/europe/italy/citta-della-pieve/il-fornello
 - **Rating:** 4.4 from 20 Google reviews
 

@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Asia
+- **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** coworking, community, surf
+- **Nearest airports:** Denpasar I Gusti Ngurah Rai International Airport (DPS) ~11 km
 - **Website:** https://www.matrabali.com/coliving-and-coworking-space
 - **Rating:** 4.3 from 122 Google reviews
 

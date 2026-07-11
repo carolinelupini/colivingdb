@@ -11,6 +11,11 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
+- **Included:** Kids' education center (5 days/week, ages 1.5-14, meals included), 24/7 coworking hub access, Community manager support, Weekly wellness activities, Welcome and farewell events, Airport transfers, Furnished apartment, Utilities (electricity, water, internet), Weekly housecleaning, Linens and kitchen amenities
+- **Area:** Kotor is a UNESCO-listed Old Town with Venetian-era streets and medieval walls on the Bay of Kotor. Nearby: Castle of San Giovanni for bay views, boat tours to Perast and Our Lady of the Rocks, kayaking in Boka Bay, hiking toward Mount Lovćen, and Verige Beach.
+- **Nearest airports:** Tivat Airport (TIV) ~4 km; Podgorica Airport / Podgorica Golubovci Airbase (TGD) ~40 km
+- **Getting there:** Tivat Airport (TIV) is ~20-30 min by car; Podgorica Airport (TGD) is ~1-1.5h.
 - **Website:** https://boundless.life/kotor-montenegro
 
 ## Rates

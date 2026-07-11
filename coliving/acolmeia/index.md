@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 8 nights
 - **Region:** Asia
+- **Timezone:** GMT+5:30 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** beach, rural, coworking, community
+- **Nearest airports:** Goa Dabolim International Airport (GOI) ~17 km
 - **Website:** https://www.acolmeia.live/candolim
 - **Rating:** 4.9 from 93 Google reviews
 

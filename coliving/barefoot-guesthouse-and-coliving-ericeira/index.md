@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** surf, coworking, community
+- **Nearest airports:** Cascais Airport (CAT) ~30 km; Lisbon Humberto Delgado Airport (LIS) ~33 km
 - **Website:** http://www.barefootportugal.com/
 - **Rating:** 4.9 from 127 Google reviews
 

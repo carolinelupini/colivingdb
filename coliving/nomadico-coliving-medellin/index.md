@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Latin America
+- **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Tags:** city, coworking, community
+- **Nearest airports:** Enrique Olaya Herrera Airport (EOH) ~4 km; Jose Maria Córdova International Airport (MDE) ~20 km
 - **Website:** https://www.nomadico.io/medellin-coliving
 - **Rating:** 4.9 from 66 Google reviews
 

@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** rural, eco, community
+- **Nearest airports:** Portimão Airport (PRM) ~53 km; Faro - Gago Coutinho International Airport (FAO) ~75 km
 - **Website:** https://satvana.org/
 - **Rating:** 5.0 from 6 Google reviews
 

@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
+- **Timezone:** GMT+4 <small>· US East: async only · Central Europe: full workday overlap</small>
 - **Tags:** rural, mountain, eco, community, coworking
+- **Nearest airports:** Tbilisi International Airport (TBS) ~51 km
 - **Website:** https://coliving.com/spaces/zxctqeib
 
 ## Rates

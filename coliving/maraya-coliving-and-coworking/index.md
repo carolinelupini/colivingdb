@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** coworking, community, surf, island, beach
+- **Nearest airports:** Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~15 km
 - **Website:** https://www.marayacoliving.com
 - **Rating:** 4.9 from 98 Google reviews
 

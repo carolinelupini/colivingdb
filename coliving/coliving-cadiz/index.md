@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** beach, rural, coworking, community
+- **Nearest airports:** Jerez Airport (XRY) ~31 km; Gibraltar Airport (GIB) ~94 km
 - **Website:** https://coliving.com/company/coliving-cadiz
 - **Rating:** 5.0 from 28 Google reviews
 

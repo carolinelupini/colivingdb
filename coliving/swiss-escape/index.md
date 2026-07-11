@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** mountain, ski, coworking, community
+- **Nearest airports:** Bern Airport (BRN) ~83 km; Milan Malpensa International Airport (MXP) ~108 km
 - **Website:** https://www.ourescape.co/swiss-escape
 - **Rating:** 5.0 from 64 Google reviews
 

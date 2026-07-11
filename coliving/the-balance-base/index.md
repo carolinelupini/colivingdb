@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Oceania
+- **Timezone:** GMT+13 winter / GMT+12 summer <small>· US East: async only · Central Europe: async only</small>
 - **Tags:** mountain, ski, coworking, community
+- **Nearest airports:** Wanaka Airport (WKA) ~10 km; Queenstown Airport (ZQN) ~47 km
 - **Website:** https://www.balancebase.nz/
 - **Rating:** 5.0 from 26 Google reviews
 

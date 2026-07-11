@@ -9,7 +9,9 @@
 - **Dorm available:** Yes
 - **Minimum stay:** 1 night
 - **Region:** Asia
+- **Timezone:** GMT+9 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** community, coworking, rural
+- **Nearest airports:** Fukuoka Airport (FUK) ~31 km
 - **Website:** https://livinganywherecommons.com/base/tagawa/
 
 ## Rates

@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Asia
+- **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** city, coworking, community
+- **Nearest airports:** Chiang Mai International Airport (CNX) ~3 km
 - **Website:** https://coliving.com/spaces/09arwz6c
 - **Rating:** 4.3 from 87 Google reviews
 

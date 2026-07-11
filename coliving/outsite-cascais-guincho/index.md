@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** beach, surf, coworking, community
+- **Nearest airports:** Cascais Airport (CAT) ~10 km; Lisbon Humberto Delgado Airport (LIS) ~30 km
 - **Website:** https://www.outsite.co/locations/cascais-guincho
 - **Rating:** 4.6 from 34 Google reviews
 

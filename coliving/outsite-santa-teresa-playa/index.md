@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Latin America
+- **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Tags:** surf, beach, coworking, community
+- **Nearest airports:** Nosara Airport (NOB) ~65 km; Juan Santamaría International Airport (SJO) ~112 km
 - **Website:** https://www.outsite.co/locations/santa-teresa-playa
 - **Rating:** 4.8 from 47 Google reviews
 

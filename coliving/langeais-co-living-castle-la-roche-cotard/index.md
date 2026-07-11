@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** coworking, community, rural
+- **Nearest airports:** Tours Val de Loire Airport (TUF) ~26 km; Paris-Orly Airport (ORY) ~213 km
 - **Website:** https://www.larochecotard.com/en/home/
 - **Rating:** 5.0 from 16 Google reviews
 

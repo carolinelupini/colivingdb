@@ -10,7 +10,9 @@
 - **Dorm available:** Yes
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Latin America
+- **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Tags:** beach, island, coworking, community
+- **Nearest airports:** Bocas del Toro "Isla Colón" International Airport (BOC) ~8 km; Juan Santamaría International Airport (SJO) ~234 km
 - **Website:** https://coliving.com/spaces/6usgx1td
 
 ## Rates

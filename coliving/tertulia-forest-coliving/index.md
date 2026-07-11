@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, mountain, eco, coworking, community
+- **Nearest airports:** Florence Airport, Peretola (FLR) ~28 km
 - **Website:** https://www.mapmelon.com/colivings/tertulia-forest-coliving
 - **Rating:** 4.8 from 84 Google reviews
 

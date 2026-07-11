@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 10 nights
 - **Region:** Africa
+- **Timezone:** GMT+1 <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** beach, surf, coworking, community
+- **Nearest airports:** Al Massira Airport (AGA) ~38 km
 - **Website:** https://sun-desk.com/
 - **Rating:** 4.9 from 168 Google reviews
 

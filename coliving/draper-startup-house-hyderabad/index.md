@@ -11,7 +11,12 @@
 - **Dorm available:** Yes
 - **Minimum stay:** —
 - **Region:** Asia
+- **Timezone:** GMT+5:30 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** city, coworking, community, startup
+- **Included:** Private room or dorm bed, Focus/quiet coworking room + casual coworking access, High-speed wifi, Terrace cafeteria, Bed linens, lockers, consistent water, Occasional community events, podcast room
+- **Area:** Located in Gachibowli, about 2km from HITEC City, in the heart of Hyderabad's startup ecosystem.
+- **Nearest airports:** Rajiv Gandhi International Airport (HYD) ~25 km
+- **Getting there:** Rajiv Gandhi International Airport (HYD) is ~25-35 min from Gachibowli by car.
 - **Website:** https://draperstartuphouse.com/hyderabad/
 - **Rating:** 4.7 from 521 Google reviews
 

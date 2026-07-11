@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Latin America
+- **Timezone:** GMT-4 <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Tags:** city, coworking, community
+- **Nearest airports:** Fernando Luis Ribas Dominicci Airport (SIG) ~5 km; Luis Munoz Marin International Airport (SJU) ~5 km
 - **Website:** https://coliving.com/spaces/taja3hel
 - **Rating:** 4.3 from 76 Google reviews
 

@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, coworking, community
+- **Nearest airports:** Malta International Airport (MLA) ~8 km
 - **Website:** https://www.sc-club-village.com/coliving/
 - **Rating:** 3.2 from 83 Google reviews
 

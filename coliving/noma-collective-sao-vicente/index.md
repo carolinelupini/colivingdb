@@ -11,6 +11,12 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT-1 <small>· US East: good overlap · Central Europe: good overlap</small>
+- **Included:** Preloaded eSIM, Onsite community manager, Laundry, AC, fans, pool, Onsite bar, restaurant, beach club, Apartment workspace, Airport transfers, Alumni network access
+- **Not included:** Travel/health insurance, Excursions (coming soon), Flights, Food & beverage
+- **Area:** Mindelo area, described as Cape Verde's cultural hub with Laginha Beach and a lively music/nightlife scene; nearby volcanic caves, rock pools, Pedra de Lume salt flats, and Pico do Fogo hiking; dry volcanic landscape.
+- **Nearest airports:** Cesaria Evora International Airport (VXE) ~6 km
+- **Getting there:** Cesária Évora Airport (VXE); transfers included.
 - **Website:** https://www.noma-collective.com/editions/sao-vicente-cape-verde-nov-29-2026
 
 Source: https://colivingdb.com/coliving/noma-collective-sao-vicente/

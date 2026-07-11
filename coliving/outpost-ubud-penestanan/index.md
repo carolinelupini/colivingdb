@@ -11,7 +11,13 @@
 - **Dorm available:** No
 - **Minimum stay:** 14 nights (~2 weeks)
 - **Region:** Asia
+- **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** coworking, community, city
+- **Included:** Private room with en-suite bathroom, Air conditioning, Fast wifi, Shared kitchen access, Swimming pool, Onsite coworking space, Lounge/meeting areas, Rooftop yoga deck
+- **Not included:** Pets, Cowork pass add-on (separate purchase), Private booth hours/meeting room access beyond base plan
+- **Area:** Penestanan, an artists' village since the 1930s within Ubud, known for rice fields, quiet back streets, and cafes; adjacent to Alchemy restaurant and near The Yoga Barn and Sacred Monkey Forest; ~5 min scooter ride to downtown Ubud, ~10 min to rice terraces and coffee plantations.
+- **Nearest airports:** Denpasar I Gusti Ngurah Rai International Airport (DPS) ~28 km
+- **Getting there:** I Gusti Ngurah Rai International (DPS), ~28 km away; paid airport shuttle offered — approximate, per third-party listing, not confirmed on Outpost's own page.
 - **Website:** https://destinationoutpost.co
 - **Rating:** 4.6 from 321 Google reviews
 

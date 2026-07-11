@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Asia
+- **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** community, coworking, rural
+- **Nearest airports:** Da Nang International Airport (DAD) ~24 km
 - **Website:** https://coliving.com/spaces/upqaehgu
 
 ## Rates

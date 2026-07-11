@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** coworking, island, community
+- **Nearest airports:** Cristiano Ronaldo International Airport (FNC) ~5 km
 - **Website:** https://cabecoalto.com/
 - **Rating:** 5.0 from 23 Google reviews
 

@@ -10,7 +10,9 @@
 - **Dorm available:** Yes
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** beach, coworking, community
+- **Nearest airports:** Tenerife Sur Airport (TFS) ~9 km
 - **Website:** https://coliving.com/spaces/gt8k38o6
 
 ## Rates

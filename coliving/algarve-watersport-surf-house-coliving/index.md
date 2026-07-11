@@ -11,7 +11,13 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** surf, beach, coworking, community
+- **Included:** 500 Mbps wifi, Coworking space (meeting/breakout rooms, desks, equipment), Free coffee in coworking space, Private room with desk/chair, Fully equipped communal kitchen, Parking, Community events, Rooftop terrace access
+- **Not included:** Cleaning service, Meals, Surf lessons (booked separately), Surfboard/wetsuit rental (booked separately)
+- **Area:** The site (property name Off the Hook) states this location is in Sagres, not Lagos as listed — the Algarve's western tip, walking distance to 3 beaches with reliable surf on two coasts (gentler south-coast waves, bigger west-coast winter swells); nearby shops, cafes, and nightlife.
+- **Nearest airports:** Portimão Airport (PRM) ~10 km; Faro - Gago Coutinho International Airport (FAO) ~64 km
+- **Getting there:** Faro (FAO), roughly 1.5–2h drive from Sagres — approximate, not stated on site.
 - **Website:** https://www.coworksurf.com/lagos/algarve-watersport-surf-house-coliving
 - **Rating:** 4.9 from 697 Google reviews
 

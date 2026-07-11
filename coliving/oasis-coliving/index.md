@@ -11,7 +11,12 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** beach, city, coworking, community
+- **Included:** Furnished room, Fast wifi (600 Mbps), Equipped kitchen, Desk and office chair, Balcony access, Swimming pool access, Weekly cleaning, Free external monitors, Nomad community access
+- **Area:** Located in Playa de las Americas, Tenerife South, in the city center and about 5 minutes from the beach; supermarket, gym, restaurants, and surf spots nearby.
+- **Nearest airports:** Tenerife Sur Airport (TFS) ~15 km
+- **Getting there:** Tenerife South Airport (TFS) is ~15-20 min by car.
 - **Website:** https://digitaltenerife.es/
 - **Rating:** 2.6 from 188 Google reviews
 

@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 5 nights
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** community, coworking
+- **Nearest airports:** Warsaw Chopin Airport (WAW) ~24 km
 - **Website:** https://www.mapmelon.com/colivings/razam
 - **Rating:** 4.6 from 29 Google reviews
 

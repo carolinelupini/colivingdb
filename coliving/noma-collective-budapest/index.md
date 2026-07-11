@@ -11,6 +11,12 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
+- **Included:** Airport transfers, Fully-equipped accommodation, eSIM with data, Community Slack access, High-speed wifi, Onsite community manager, Curated community program, No extra membership fees
+- **Not included:** Travel/health insurance, Food & beverage, Flights, Excursions, Wellness activities
+- **Area:** Józsefváros (District VIII), near Corvin Plaza and Corvin-negyed metro; walkable to thermal baths, Parliament, Chain Bridge, and the ruin bar district of converted derelict buildings.
+- **Nearest airports:** Budapest Liszt Ferenc International Airport (BUD) ~18 km
+- **Getting there:** Budapest Ferenc Liszt International (BUD).
 - **Website:** https://www.noma-collective.com/editions/hungary-budapest-2027
 
 Source: https://colivingdb.com/coliving/noma-collective-budapest/

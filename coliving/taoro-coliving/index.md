@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** island, mountain, coworking, community
+- **Nearest airports:** Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~16 km
 - **Website:** https://www.taorocoliving.com
 - **Rating:** 5.0 from 151 Google reviews
 

@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Latin America
+- **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Tags:** coworking, community, city
+- **Nearest airports:** Mexico City Benito Juárez International Airport (MEX) ~13 km
 - **Website:** http://www.smartcoliving.site/
 - **Rating:** 4.2 from 86 Google reviews
 

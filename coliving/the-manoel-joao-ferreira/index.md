@@ -10,7 +10,9 @@
 - **Dorm available:** Yes
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Latin America
+- **Timezone:** GMT-3 <small>· US East: full workday overlap · Central Europe: good overlap</small>
 - **Tags:** beach, surf, island, community, coworking
+- **Nearest airports:** Hercílio Luz International Airport (FLN) ~16 km
 - **Website:** https://coliving.com/spaces/muoezyav
 
 ## Rates

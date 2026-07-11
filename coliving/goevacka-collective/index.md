@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** mountain, rural, community, coworking
+- **Nearest airports:** Morava Airport (KVO) ~58 km; Belgrade Nikola Tesla Airport (BEG) ~83 km
 - **Website:** https://coliving.com/spaces/pmj6tcwm
 
 ## Rates

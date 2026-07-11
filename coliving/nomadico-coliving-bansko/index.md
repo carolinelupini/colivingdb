@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
+- **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** mountain, ski, coworking, community
+- **Nearest airports:** Sofia Airport (SOF) ~95 km
 - **Website:** https://www.nomadico.io/bansko-coliving
 - **Rating:** 4.9 from 16 Google reviews
 

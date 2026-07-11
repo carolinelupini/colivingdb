@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** island, coworking, community, eco
+- **Nearest airports:** Tenerife Sur Airport (TFS) ~3 km
 - **Website:** https://remoters.net/colivings/buddha-coliving/
 - **Rating:** 3.8 from 12 Google reviews
 

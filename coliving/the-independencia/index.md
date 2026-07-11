@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Latin America
+- **Timezone:** GMT-3 <small>· US East: full workday overlap · Central Europe: good overlap</small>
 - **Tags:** city, community, coworking
+- **Nearest airports:** Aeroparque Jorge Newbery (AEP) ~7 km
 - **Website:** https://coliving.com/spaces/qio9u0xs
 
 ## Rates

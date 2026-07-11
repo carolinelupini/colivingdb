@@ -11,7 +11,13 @@
 - **Dorm available:** No
 - **Minimum stay:** 14 nights (~2 weeks)
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** community, coworking, mountain
+- **Included:** Room accommodation, Communal area access, Heating, Coworking access, Internet, Airport pickup, Community events
+- **Not included:** Guided activities/excursions (purchased separately)
+- **Area:** Longyearbyen, the world's northernmost year-round settlement, in the Arctic archipelago of Svalbard; local guided excursions (e.g. snowmobiling, glacier/wildlife tours) are available but booked separately.
+- **Nearest airports:** Svalbard Airport, Longyear (LYR) ~5 km
+- **Getting there:** Svalbard Airport (LYR) is essentially in Longyearbyen itself, ~5–10 min transfer; airport pickup is included.
 - **Website:** https://arctic-coliving.com/prices/
 
 ## Rates

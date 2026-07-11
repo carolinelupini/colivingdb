@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 5 nights
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** rural, mountain, coworking, community
+- **Nearest airports:** Aerodromo Goncalves Lobato (Viseu Airport) (VSE) ~44 km; Francisco de Sá Carneiro Airport (OPO) ~51 km
 - **Website:** https://www.mapmelon.com/colivings/coliving-the-valley-with-coworking-space
 - **Rating:** 5.0 from 33 Google reviews
 

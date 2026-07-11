@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** community, coworking, city
+- **Nearest airports:** Francisco de Sá Carneiro Airport (OPO) ~10 km
 - **Website:** https://livcolife.com/
 - **Rating:** 3.9 from 54 Google reviews
 

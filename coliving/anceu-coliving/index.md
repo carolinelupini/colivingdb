@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 15 nights
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, coworking, community, eco
+- **Nearest airports:** Vigo Airport (VGO) ~25 km; Santiago-Rosalía de Castro Airport (SCQ) ~55 km
 - **Website:** https://anceu.com/
 - **Rating:** 4.9 from 73 Google reviews
 

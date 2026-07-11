@@ -11,6 +11,13 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
+- **Included:** Private room + weekly cleaning, Communal kitchen + shared dinners, Coworking space (2 min walk), Cooking classes, Two on-site community managers, Towels and linens
+- **Not included:** Flights and travel insurance, Food and personal expenses, Optional excursions and weekend activities
+- **Second guest:** A Double Twin Beds room can be split between two people at roughly €1,125 each for a 2-week stay (out of a €2,249/month total).
+- **Area:** Located in Ponta do Sol, 5 minutes from the beach, with levada hikes through laurel forests, whale/dolphin boat trips, volcanic pools, and the village's Purple Friday party.
+- **Nearest airports:** Cristiano Ronaldo International Airport (FNC) ~14 km
+- **Getting there:** Cristiano Ronaldo International Airport (FNC) is around a 30-minute drive from Ponta do Sol.
 - **Website:** https://casabasilico.com/locations/madeira-2026
 
 ## Rates

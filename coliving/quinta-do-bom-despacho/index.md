@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT-1 winter / GMT+0 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** eco, rural, community
+- **Nearest airports:** João Paulo II Airport (PDL) ~1 km
 - **Website:** https://quintadobomdespacho.com/en/
 - **Rating:** 4.8 from 141 Google reviews
 

@@ -11,7 +11,12 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** beach, surf
+- **Included:** Private bathrooms, Free wifi, Shared lounge access, Pet-friendly
+- **Area:** Located at Praia das Maçãs in Sintra, near Azenhas do Mar and the UNESCO Sintra center, with beach access for surfing and bodyboarding, plus nearby Monserrate Palace and Moorish Castle.
+- **Nearest airports:** Cascais Airport (CAT) ~15 km; Lisbon Humberto Delgado Airport (LIS) ~29 km
+- **Getting there:** Lisbon Portela (LIS) is the nearest airport, roughly 35-45 minutes by car.
 - **Website:** https://www.wotsoul.com/en/our-hotels/wot-ocean-soul/
 - **Rating:** 4.0 from 439 Google reviews
 

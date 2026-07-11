@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** city, beach, coworking, community
+- **Nearest airports:** Gran Canaria Airport (LPA) ~22 km
 - **Website:** https://coliving.com/spaces/dgbue4kn
 
 ## Rates

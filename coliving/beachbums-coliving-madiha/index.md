@@ -10,7 +10,9 @@
 - **Dorm available:** Yes
 - **Minimum stay:** —
 - **Region:** Asia
+- **Timezone:** GMT+5:30 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** surf, beach, coworking
+- **Nearest airports:** Koggala Airport (KCT) ~23 km; Colombo Ratmalana International Airport (RML) ~121 km
 - **Website:** http://www.beachbumssrilanka.com/
 - **Rating:** 5.0 from 7 Google reviews
 

@@ -9,7 +9,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Asia
+- **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** community, city
+- **Nearest airports:** Taipei Songshan International Airport (TSA) ~4 km
 - **Website:** https://www.rooms.taipei/
 
 ## About

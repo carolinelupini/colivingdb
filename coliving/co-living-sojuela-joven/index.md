@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 1 night
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, community, mountain
+- **Nearest airports:** Vitoria Airport (VIT) ~60 km; Bilbao Airport (BIO) ~109 km
 - **Website:** https://www.mapmelon.com/colivings/co-living-sojuela-joven
 - **Rating:** 5.0 from 25 Google reviews
 

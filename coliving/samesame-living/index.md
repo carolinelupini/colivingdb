@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 8 nights
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** city, community, coworking, surf
+- **Nearest airports:** Lisbon Humberto Delgado Airport (LIS) ~7 km
 - **Website:** https://www.mapmelon.com/colivings/samesame-living
 - **Rating:** 4.8 from 84 Google reviews
 

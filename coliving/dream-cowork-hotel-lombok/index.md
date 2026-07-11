@@ -10,7 +10,12 @@
 - **Dorm available:** Yes
 - **Minimum stay:** —
 - **Region:** Asia
+- **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** coworking, surf, beach
+- **Included:** Private bungalow or shared dorm accommodation, High-speed wifi, Coworking space, Meals with local ingredients
+- **Area:** Kuta Lombok, near Mandalika Beach for running, recreation, and surfing; close to the town center and supermarkets.
+- **Nearest airports:** Lombok International Airport (LOP) ~16 km
+- **Getting there:** Lombok International (LOP), ~35–45 min drive — approximate, not stated on site.
 - **Website:** https://dreamcoworkhotels.com/
 - **Rating:** 4.1 from 402 Google reviews
 

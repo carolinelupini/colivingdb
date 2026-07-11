@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 1 night
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** beach, surf, rural, coworking, community
+- **Nearest airports:** Cascais Airport (CAT) ~30 km; Lisbon Humberto Delgado Airport (LIS) ~33 km
 - **Website:** https://www.mapmelon.com/colivings/coliving-ericeira-by-barefoot-portugal
 - **Rating:** 4.9 from 127 Google reviews
 

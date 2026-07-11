@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Latin America
+- **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Tags:** beach, rural, coworking, community
+- **Nearest airports:** Ian Fleming International Airport (OCJ) ~3 km; Norman Manley International Airport (KIN) ~55 km
 - **Website:** https://coliving.com/spaces/i21dbbci
 
 ## Rates

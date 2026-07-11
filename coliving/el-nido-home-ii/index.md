@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Asia
+- **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** beach, eco, coworking, community
+- **Nearest airports:** Francisco B. Reyes (Busuanga) Airport (USU) ~127 km; Puerto Princesa International Airport / PAF Antonio Bautista Air Base (PPS) ~176 km
 - **Website:** https://coliving.com/spaces/h6uiwcuq
 - **Rating:** 4.0 from 1 Google reviews
 

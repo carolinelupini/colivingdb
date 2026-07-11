@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** community, coworking, city
+- **Nearest airports:** Seville Airport (SVQ) ~10 km
 - **Website:** http://www.almansa11.com/
 - **Rating:** 4.6 from 27 Google reviews
 

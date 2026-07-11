@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, mountain, community, eco, coworking
+- **Nearest airports:** Girona-Costa Brava Airport (GRO) ~34 km
 - **Website:** https://www.kalart.org
 - **Rating:** 4.9 from 69 Google reviews
 

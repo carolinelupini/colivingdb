@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 14 nights (~2 weeks)
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, community, coworking
+- **Nearest airports:** La Rochelle Île de Ré Airport (LRH) ~47 km; Bordeaux–Mérignac Airport (BOD) ~134 km
 - **Website:** https://www.mapmelon.com/colivings/enchanted-coliving
 - **Rating:** 5.0 from 17 Google reviews
 

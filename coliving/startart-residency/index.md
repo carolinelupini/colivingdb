@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 1 night
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** rural, community, eco
+- **Nearest airports:** Francisco de Sá Carneiro Airport (OPO) ~40 km
 - **Website:** https://www.mapmelon.com/colivings/startart-residency
 - **Rating:** 5.0 from 103 Google reviews
 

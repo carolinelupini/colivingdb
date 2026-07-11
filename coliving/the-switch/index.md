@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Oceania
+- **Timezone:** GMT+11 winter / GMT+10 summer <small>· US East: async only · Central Europe: async only</small>
 - **Tags:** coworking, city
+- **Nearest airports:** Sydney Kingsford Smith International Airport (SYD) ~6 km
 - **Website:** https://www.switchliving.com.au/
 - **Rating:** 4.8 from 81 Google reviews
 

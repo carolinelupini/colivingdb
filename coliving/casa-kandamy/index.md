@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Latin America
+- **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Tags:** mountain, rural, community, coworking
+- **Nearest airports:** El Dorado International Airport (BOG) ~57 km
 - **Website:** https://www.casakandamy.com/
 - **Rating:** 5.0 from 37 Google reviews
 

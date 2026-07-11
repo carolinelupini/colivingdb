@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Latin America
+- **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Tags:** eco, coworking, community
+- **Nearest airports:** Querétaro Intercontinental Airport (QRO) ~21 km
 - **Website:** https://www.smartnomad.space/casa-iris
 - **Rating:** 4.9 from 21 Google reviews
 

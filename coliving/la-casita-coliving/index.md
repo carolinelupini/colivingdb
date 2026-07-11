@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** island, beach, community, coworking
+- **Nearest airports:** Tenerife Sur Airport (TFS) ~16 km
 - **Website:** https://www.xmiletenerife.com/
 - **Rating:** 4.9 from 40 Google reviews
 

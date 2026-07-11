@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Africa
+- **Timezone:** GMT+2 <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, coworking, community
+- **Nearest airports:** Cape Town International Airport (CPT) ~20 km
 - **Website:** https://capecoliving.com/
 - **Rating:** 5.0 from 70 Google reviews
 

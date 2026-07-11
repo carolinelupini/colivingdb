@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** coworking, community, beach, city
+- **Nearest airports:** Tivat Airport (TIV) ~3 km; Dubrovnik Ruđer Bošković Airport (DBV) ~39 km
 - **Website:** https://livenomio.com
 - **Rating:** 5.0 from 11 Google reviews
 

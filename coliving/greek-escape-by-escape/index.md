@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
+- **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** coworking, community, rural
+- **Nearest airports:** Chania International Airport (CHQ) ~39 km
 - **Website:** https://www.ourescape.co/greek-escape
 - **Rating:** 4.5 from 6 Google reviews
 

@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Latin America
+- **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Tags:** community, coworking, city
+- **Nearest airports:** Mexico City Benito Juárez International Airport (MEX) ~10 km
 - **Website:** https://u-co.co/
 - **Rating:** 4.3 from 102 Google reviews
 

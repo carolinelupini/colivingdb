@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 1 night
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** island, coworking, community, beach, rural
+- **Nearest airports:** Tenerife Sur Airport (TFS) ~6 km
 - **Website:** https://www.mapmelon.com/colivings/casa-capitan-coliving
 - **Rating:** 5.0 from 18 Google reviews
 

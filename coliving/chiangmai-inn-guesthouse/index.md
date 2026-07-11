@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Asia
+- **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** coworking, community, city
+- **Nearest airports:** Chiang Mai International Airport (CNX) ~4 km
 - **Website:** https://www.chiangmai-inn.com/
 - **Rating:** 4.3 from 107 Google reviews
 

@@ -10,7 +10,11 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Asia
+- **Timezone:** GMT+5:30 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** beach, surf
+- **Area:** A beachfront property in Weligama, Sri Lanka's most famous beginner surf town.
+- **Nearest airports:** Koggala Airport (KCT) ~11 km; Colombo Ratmalana International Airport (RML) ~112 km
+- **Getting there:** Mattala Rajapaksa International (HRI) is geographically closer but has limited flights; most travelers use Colombo Bandaranaike (CMB), roughly 2.5-3 hours by car.
 - **Website:** https://oceanblissbysugar.com/
 - **Rating:** 4.6 from 269 Google reviews
 

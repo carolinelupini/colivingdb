@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 28 nights (~4 weeks)
 - **Region:** North America
+- **Timezone:** GMT-5 winter / GMT-4 summer <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Tags:** city, community, coworking
+- **Nearest airports:** Billy Bishop Toronto City Airport (YTZ) ~5 km; Toronto Pearson International Airport (YYZ) ~18 km
 - **Website:** https://mimoscoliving.com/
 - **Rating:** 4.9 from 17 Google reviews
 

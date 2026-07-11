@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 15 nights
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** island, coworking, community, rural
+- **Nearest airports:** Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~16 km
 - **Website:** https://bencomocoliving.com/en
 - **Rating:** 4.9 from 36 Google reviews
 

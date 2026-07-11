@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Asia
+- **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** community, coworking, city
+- **Nearest airports:** Taipei Songshan International Airport (TSA) ~4 km
 - **Website:** https://en.hshsharehouse.com/
 - **Rating:** 5.0 from 33 Google reviews
 

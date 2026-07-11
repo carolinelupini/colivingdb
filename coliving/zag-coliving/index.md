@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Latin America
+- **Timezone:** GMT-3 <small>· US East: full workday overlap · Central Europe: good overlap</small>
 - **Tags:** beach, coworking, community
+- **Nearest airports:** Capitan Corbeta CA Curbelo International Airport (PDP) ~18 km; Carrasco General Cesáreo L. Berisso International Airport (MVD) ~99 km
 - **Website:** https://www.zag.uy/
 - **Rating:** 4.1 from 129 Google reviews
 

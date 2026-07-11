@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Latin America
+- **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Tags:** city, community, coworking
+- **Nearest airports:** Xoxocotlán International Airport (OAX) ~8 km
 - **Website:** https://co404.com
 - **Rating:** 4.7 from 162 Google reviews
 

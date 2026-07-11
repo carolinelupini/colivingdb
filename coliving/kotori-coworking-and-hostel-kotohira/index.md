@@ -11,7 +11,9 @@
 - **Dorm available:** Yes
 - **Minimum stay:** 5 nights
 - **Region:** Asia
+- **Timezone:** GMT+9 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** rural, coworking, community
+- **Nearest airports:** Takamatsu Airport (TAK) ~18 km
 - **Website:** https://www.kotori-japan.com/en/coliving/
 - **Rating:** 4.9 from 94 Google reviews
 

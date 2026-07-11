@@ -11,7 +11,14 @@
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, eco, community, coworking
+- **Included:** Basic utilities: electricity, water, heating, cooling, internet (1 Gb fiber), Weekly room cleaning with towel/bedding changes and toiletries, Shared kitchen and dining areas, Coworking room, Pool, garden, laundry, Parking
+- **Not included:** Breakfast service, Meal/restaurant service beyond kitchen access
+- **Second guest:** Shared rooms require a matched roommate; if none is found, the solo rate applies until one is (per the site's Spanish-language terms).
+- **Area:** Located in the Empordà countryside near Llabià/Fontanilles, Girona, described as a peaceful rural spot with hiking and cycling routes and farm/garden activities.
+- **Nearest airports:** Girona-Costa Brava Airport (GRO) ~33 km
+- **Getting there:** Girona-Costa Brava Airport (GRO) is the closest, roughly ~20-30 min by car; Barcelona-El Prat (BCN) is ~1.5h.
 - **Website:** https://www.elsmasosdencoll.com/es/8823/COLIVING/-
 - **Rating:** 4.6 from 271 Google reviews
 

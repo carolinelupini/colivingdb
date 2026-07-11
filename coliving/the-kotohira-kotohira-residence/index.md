@@ -10,7 +10,9 @@
 - **Dorm available:** Yes
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Asia
+- **Timezone:** GMT+9 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** rural, coworking, community
+- **Nearest airports:** Takamatsu Airport (TAK) ~18 km
 - **Website:** https://coliving.com/spaces/t3me7pha
 
 ## Rates

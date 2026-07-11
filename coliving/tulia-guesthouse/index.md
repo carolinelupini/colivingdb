@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** community, coworking, island, rural
+- **Nearest airports:** Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~26 km
 - **Website:** https://tuliaguesthouse.com
 - **Rating:** 4.5 from 22 Google reviews
 

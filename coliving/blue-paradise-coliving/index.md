@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** island, city, coworking, community, surf
+- **Nearest airports:** Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~9 km
 - **Website:** https://blueparadisecoliving.com/
 - **Rating:** 4.5 from 27 Google reviews
 

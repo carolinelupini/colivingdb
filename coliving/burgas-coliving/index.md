@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** beach, city, coworking, community
+- **Nearest airports:** Burgas Airport (BOJ) ~9 km
 - **Website:** https://burgascoliving.com/
 - **Rating:** 4.9 from 46 Google reviews
 

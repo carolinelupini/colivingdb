@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 90 nights (~3 months)
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** island, beach, community, rural
+- **Nearest airports:** Cristiano Ronaldo International Airport (FNC) ~31 km
 - **Website:** https://www.alvadamadeira.com/
 
 ## About

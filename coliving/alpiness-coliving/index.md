@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 15 nights
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** mountain, ski, rural, community, coworking
+- **Nearest airports:** Bern Airport (BRN) ~89 km; Turin Airport (TRN) ~102 km
 - **Website:** https://www.mapmelon.com/colivings/alpiness-coliving
 - **Rating:** 5.0 from 54 Google reviews
 

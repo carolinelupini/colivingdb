@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 31 nights
 - **Region:** Europe
+- **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** ski, mountain, coworking, community
+- **Nearest airports:** Sofia Airport (SOF) ~95 km
 - **Website:** https://avalonhotelbansko.com/avalon-coliving-coworking-bansko/
 - **Rating:** 4.7 from 125 Google reviews
 

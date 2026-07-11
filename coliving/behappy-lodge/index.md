@@ -11,7 +11,12 @@
 - **Dorm available:** Yes
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** surf, beach, coworking, community
+- **Included:** Kitchen, living room, co-work space, terrace access, Super-fast wifi in coworking space, Breakfast (described in testimonials as 'really good')
+- **Area:** One minute from the ocean in Esmoriz, a beach town with a fishing and cooperage tradition, known for surfing and surrounded by parks and forest. Activities include surf, yoga, biking, and SUP tours on the Douro River. It's about 30 minutes from Porto by train or car.
+- **Nearest airports:** Francisco de Sá Carneiro Airport (OPO) ~32 km
+- **Getting there:** Porto/Francisco Sá Carneiro Airport (OPO) is roughly ~35-40 min by car (Porto itself is ~30 min away).
 - **Website:** https://behappylodge.com/en/co-living/
 - **Rating:** 4.9 from 338 Google reviews
 

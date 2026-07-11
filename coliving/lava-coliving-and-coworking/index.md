@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
+- **Timezone:** GMT-1 winter / GMT+0 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** island, surf, beach, mountain, coworking, community
+- **Nearest airports:** João Paulo II Airport (PDL) ~18 km
 - **Website:** https://www.lavacoliving.com/
 - **Rating:** 4.9 from 60 Google reviews
 

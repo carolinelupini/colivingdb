@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 16 nights
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, community, coworking
+- **Nearest airports:** Vigo Airport (VGO) ~15 km; Santiago-Rosalía de Castro Airport (SCQ) ~63 km
 - **Website:** https://www.mapmelon.com/colivings/growth-coliving
 - **Rating:** 4.8 from 35 Google reviews
 

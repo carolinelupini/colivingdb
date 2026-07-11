@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Latin America
+- **Timezone:** GMT-3 <small>· US East: full workday overlap · Central Europe: good overlap</small>
 - **Tags:** coworking, community, city
+- **Nearest airports:** Santos Dumont Airport (SDU) ~7 km
 - **Website:** https://covivere.com.br/
 - **Rating:** 4.4 from 20 Google reviews
 

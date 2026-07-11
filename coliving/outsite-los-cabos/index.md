@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Latin America
+- **Timezone:** GMT-7 <small>· US East: good overlap · Central Europe: async only</small>
 - **Tags:** beach, coworking, community
+- **Nearest airports:** Los Cabos International Airport (SJD) ~10 km
 - **Website:** https://www.outsite.co/locations/los-cabos
 - **Rating:** 4.7 from 52 Google reviews
 

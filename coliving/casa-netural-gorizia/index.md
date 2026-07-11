@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, coworking, community
+- **Nearest airports:** Trieste Airport (TRS) ~17 km
 - **Website:** https://www.benetural.com/en/coliving/coliving-gorizia/
 - **Rating:** 5.0 from 28 Google reviews
 

@@ -11,7 +11,14 @@
 - **Dorm available:** Yes
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Africa
+- **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** beach, coworking, community
+- **Included:** Breakfast, High-speed wifi, Workspace and meeting rooms, Common-area and room cleaning, AC and heating, Pool and yoga space access, Community events (cultural outings, movie nights, workshops)
+- **Not included:** Airport transfers (available separately for $15/way), Private parties
+- **Second guest:** Couples are allowed with prior approval; specific dual-occupancy rate not stated.
+- **Area:** On the Red Sea coast, described as peaceful and secluded with direct shore-diving access in front of the lodge; nearby SOHO Square, Nabq Bay, Shark's Bay Beach, Naama Bay, and the Old Market are 10–30 min drives.
+- **Nearest airports:** Sharm El Sheikh International Airport (SSH) ~2 km
+- **Getting there:** Sharm El-Sheikh Airport (SSH), ~20 min drive; transfer available for $15/direction.
 - **Website:** https://coliving.com/spaces/2d1tbk1k
 - **Rating:** 4.3 from 210 Google reviews
 

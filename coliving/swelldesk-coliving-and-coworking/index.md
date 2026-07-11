@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** surf, beach, coworking, community
+- **Nearest airports:** Lisbon Humberto Delgado Airport (LIS) ~68 km
 - **Website:** https://www.swelldesk.com/
 - **Rating:** 4.9 from 20 Google reviews
 

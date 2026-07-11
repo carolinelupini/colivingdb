@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 180 nights (~6 months)
 - **Region:** Europe
+- **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** beach, community, rural
+- **Nearest airports:** Chania International Airport (CHQ) ~43 km
 - **Website:** https://coliving.com/spaces/fptwoxym
 - **Rating:** 4.8 from 22 Google reviews
 

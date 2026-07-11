@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Latin America
+- **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Tags:** community, coworking, city
+- **Nearest airports:** Manuel Crescencio Rejón International Airport (MID) ~9 km
 - **Website:** http://www.etnya.com.mx/
 - **Rating:** 4.9 from 12 Google reviews
 

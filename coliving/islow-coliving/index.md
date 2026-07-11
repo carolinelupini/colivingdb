@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, beach, community, coworking
+- **Nearest airports:** A Coruña Airport (LCG) ~51 km; Santiago-Rosalía de Castro Airport (SCQ) ~60 km
 - **Website:** https://islowcoliving.com/
 - **Rating:** 5.0 from 81 Google reviews
 

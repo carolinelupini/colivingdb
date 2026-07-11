@@ -11,7 +11,9 @@
 - **Dorm available:** Yes
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** rural, mountain, island, coworking, community
+- **Nearest airports:** Cristiano Ronaldo International Airport (FNC) ~5 km
 - **Website:** https://coliving.com/spaces/qsj4tmqi
 - **Rating:** 5.0 from 23 Google reviews
 

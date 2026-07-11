@@ -10,7 +10,12 @@
 - **Dorm available:** Yes
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Asia
+- **Timezone:** GMT+5:30 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** surf, beach, coworking
+- **Included:** Free wifi throughout (300 Mbps in coworking area), Coworking space access, Room desk + power outlets, Social activities and day trips
+- **Area:** Weligama is Sri Lanka's most famous beginner surf town; the hostel sits about 100 meters from the surf point.
+- **Nearest airports:** Koggala Airport (KCT) ~13 km; Colombo Ratmalana International Airport (RML) ~113 km
+- **Getting there:** Mattala Rajapaksa International (HRI) is geographically closer but has limited flights; most travelers use Colombo Bandaranaike (CMB), roughly 2.5-3 hours by car.
 - **Website:** https://sugarhostel.com/
 - **Rating:** 4.5 from 337 Google reviews
 

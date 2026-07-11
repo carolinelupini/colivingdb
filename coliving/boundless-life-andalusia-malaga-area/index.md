@@ -11,6 +11,12 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
+- **Included:** Kids' education center (weekdays), All meals for enrolled kids, Biweekly cultural field trips, 24/7 coworking hub access, Local community manager, Weekly wellness activities, Welcome/farewell events, Airport transfers, Family apartment: utilities, weekly cleaning, kitchen amenities, linens
+- **Not included:** Extra fee for unenrolled teens/visiting guests
+- **Area:** Based in Estepona, with Blue Flag beaches and a car-free old town of tapas cafes; hiking in Parque Natural Sierra de Estepona and day trips to Seville and Granada.
+- **Nearest airports:** Málaga-Costa del Sol Airport (AGP) ~9 km
+- **Getting there:** Málaga (AGP), ~45–60 min drive — approximate, not stated on site.
 - **Website:** https://boundless.life/andalusia-spain
 
 ## Rates

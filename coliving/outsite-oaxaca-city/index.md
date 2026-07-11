@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Latin America
+- **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Tags:** city, coworking, community
+- **Nearest airports:** Xoxocotlán International Airport (OAX) ~8 km
 - **Website:** https://www.outsite.co/locations/oaxaca
 - **Rating:** 4.9 from 72 Google reviews
 

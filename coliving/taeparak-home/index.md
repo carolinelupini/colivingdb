@@ -10,7 +10,9 @@
 - **Dorm available:** Yes
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Asia
+- **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** city, coworking, community
+- **Nearest airports:** Chiang Mai International Airport (CNX) ~4 km
 - **Website:** https://coliving.com/spaces/kshbupak
 
 ## Rates

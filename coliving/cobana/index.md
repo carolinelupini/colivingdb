@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
+- **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** mountain, rural, community, coworking, eco
+- **Nearest airports:** Brașov-Ghimbav International Airport (GHV) ~21 km
 - **Website:** https://co-bana.co/
 - **Rating:** 5.0 from 18 Google reviews
 

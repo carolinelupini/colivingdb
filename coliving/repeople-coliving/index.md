@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** city, beach, island, coworking, community
+- **Nearest airports:** Gran Canaria Airport (LPA) ~22 km
 - **Website:** https://repeople.co
 - **Rating:** 4.0 from 4 Google reviews
 

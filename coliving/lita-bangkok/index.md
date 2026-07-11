@@ -10,7 +10,9 @@
 - **Dorm available:** Yes
 - **Minimum stay:** —
 - **Region:** Asia
+- **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** coworking, community, city
+- **Nearest airports:** Don Mueang International Airport (DMK) ~18 km
 - **Website:** http://www.litabangkok.com/
 - **Rating:** 4.7 from 174 Google reviews
 

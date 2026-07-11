@@ -9,7 +9,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Asia
+- **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** surf, coworking, community
+- **Nearest airports:** Lombok International Airport (LOP) ~16 km
 - **Website:** https://www.coworksurf.com/kuta-lombok
 
 ## About

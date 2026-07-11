@@ -10,7 +10,9 @@
 - **Dorm available:** Yes
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** surf, beach, coworking, community
+- **Nearest airports:** Cascais Airport (CAT) ~29 km; Lisbon Humberto Delgado Airport (LIS) ~32 km
 - **Website:** https://www.coworksurf.com/ericeira/ericeira-portugal-coliving-coworking
 
 ## About

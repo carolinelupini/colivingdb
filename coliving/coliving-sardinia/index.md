@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 14 nights (~2 weeks)
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** beach, island, coworking, community
+- **Nearest airports:** Olbia Costa Smeralda Airport (OLB) ~27 km
 - **Website:** https://colivingcompass.com/region/italy/coliving-sardinia/
 
 ## Rates

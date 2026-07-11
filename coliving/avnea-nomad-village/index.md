@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
+- **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** community, mountain, rural, coworking
+- **Nearest airports:** Heraklion International Nikos Kazantzakis Airport (HER) ~34 km
 - **Website:** https://www.avnea.com/crete
 
 ## Rates

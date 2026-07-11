@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** community, coworking, surf, mountain
+- **Nearest airports:** Abruzzo Airport (PSR) ~63 km
 - **Website:** https://nomadico.io
 
 ## Rates

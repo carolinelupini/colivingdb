@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** surf, beach, coworking, community
+- **Nearest airports:** Fuerteventura Airport (FUE) ~31 km
 - **Website:** https://hubfuerteventura.co
 - **Rating:** 4.5 from 30 Google reviews
 

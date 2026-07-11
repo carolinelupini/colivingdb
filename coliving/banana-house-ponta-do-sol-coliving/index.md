@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** island, coworking, community
+- **Nearest airports:** Cristiano Ronaldo International Airport (FNC) ~31 km
 - **Website:** https://pontadosolcoliving.com/
 - **Rating:** 4.3 from 13 Google reviews
 

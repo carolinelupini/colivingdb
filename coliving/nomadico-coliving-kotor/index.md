@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** mountain, coworking, community, city
+- **Nearest airports:** Tivat Airport (TIV) ~4 km; Podgorica Airport / Podgorica Golubovci Airbase (TGD) ~40 km
 - **Website:** https://www.nomadico.io/kotor-coliving
 - **Rating:** 4.5 from 4 Google reviews
 

@@ -11,7 +11,12 @@
 - **Dorm available:** Yes
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, community, coworking
+- **Included:** High-speed wifi, Coworking spaces/work zones, Room cleaning, 3 meals/day (homemade), Community events and social activities, Gym, yoga, bike rentals, Furnished rooms with linens/toiletries, Utilities included
+- **Area:** An Austro-Hungarian-era village on Serbia's Pannonian plain; walking distance to a sports hall, restaurants, cafes, and shops in a calm rural setting.
+- **Nearest airports:** Arad International Airport (ARW) ~71 km; Timișoara Traian Vuia International Airport (TSR) ~72 km
+- **Getting there:** Within roughly 2h of three airports: Budapest (BUD), Belgrade (BEG), and Timișoara (TSR); the property arranges transfers.
 - **Website:** https://coliving.com/spaces/uvcl3xdi
 - **Rating:** 4.8 from 369 Google reviews
 

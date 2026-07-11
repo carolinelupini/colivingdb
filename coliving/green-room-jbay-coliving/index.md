@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 14 nights (~2 weeks)
 - **Region:** Africa
+- **Timezone:** GMT+2 <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** surf, beach, coworking, community
+- **Nearest airports:** Chief Dawid Stuurman International Airport (PLZ) ~64 km
 - **Website:** https://jbaycoliving.com/
 - **Rating:** 5.0 from 137 Google reviews
 

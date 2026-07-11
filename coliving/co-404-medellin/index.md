@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Latin America
+- **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Tags:** city, coworking, community
+- **Nearest airports:** Enrique Olaya Herrera Airport (EOH) ~3 km; Jose Maria Córdova International Airport (MDE) ~17 km
 - **Website:** https://co404.com
 - **Rating:** 4.8 from 64 Google reviews
 

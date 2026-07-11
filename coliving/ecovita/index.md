@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 3 nights
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, eco, island, community
+- **Nearest airports:** Cagliari Elmas Airport (CAG) ~44 km
 - **Website:** https://www.ecovitaexperience.com/en/
 - **Rating:** 4.9 from 19 Google reviews
 

@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Latin America
+- **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Tags:** city, community, eco, coworking
+- **Nearest airports:** Tobías Bolaños International Airport (SYQ) ~8 km; Juan Santamaría International Airport (SJO) ~17 km
 - **Website:** https://unitycoliving.com
 - **Rating:** 4.6 from 68 Google reviews
 

@@ -10,7 +10,9 @@
 - **Dorm available:** Yes
 - **Minimum stay:** —
 - **Region:** Asia
+- **Timezone:** GMT+9 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** city, coworking, community, startup
+- **Nearest airports:** Seoul Gimpo International Airport (GMP) ~21 km
 - **Website:** https://draperstartuphouse.com/korea/
 
 ## About

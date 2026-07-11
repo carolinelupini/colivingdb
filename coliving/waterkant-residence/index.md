@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Africa
+- **Timezone:** GMT+2 <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, coworking, community
+- **Nearest airports:** Cape Town International Airport (CPT) ~18 km
 - **Website:** https://coliving.com/spaces/cjg0vc6x
 - **Rating:** 4.3 from 70 Google reviews
 

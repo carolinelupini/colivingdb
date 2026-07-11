@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** beach, coworking, community
+- **Nearest airports:** Zadar Airport (ZAD) ~24 km
 - **Website:** https://coliving.com/spaces/ty46jyef
 - **Rating:** 4.5 from 52 Google reviews
 

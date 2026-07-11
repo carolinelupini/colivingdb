@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Latin America
+- **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Tags:** city, coworking, community
+- **Nearest airports:** Mexico City Benito Juárez International Airport (MEX) ~13 km
 - **Website:** https://www.outsite.co/locations/mexico-city-colonia-san-miguel
 
 ## Rates

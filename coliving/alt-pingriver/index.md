@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 29 nights
 - **Region:** Asia
+- **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** city, coworking, community
+- **Nearest airports:** Chiang Mai International Airport (CNX) ~5 km
 - **Website:** https://www.mapmelon.com/colivings/alt-pingriver
 - **Rating:** 4.8 from 109 Google reviews
 

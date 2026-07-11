@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, coworking, community
+- **Nearest airports:** Marche Airport (AOI) ~46 km; Perugia San Francesco d'Assisi – Umbria International Airport (PEG) ~101 km
 - **Website:** https://navitascoliving.com/en/
 - **Rating:** 4.9 from 71 Google reviews
 

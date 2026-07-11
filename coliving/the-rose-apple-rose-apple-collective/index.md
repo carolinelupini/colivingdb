@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Asia
+- **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** city, community, coworking
+- **Nearest airports:** Siem Reap-Angkor International Airport (SAI) ~40 km
 - **Website:** https://coliving.com/spaces/l2fgaieh
 - **Rating:** 4.8 from 95 Google reviews
 

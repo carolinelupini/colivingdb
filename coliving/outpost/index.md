@@ -11,7 +11,11 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Asia
+- **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** beach, surf, coworking, community
+- **Area:** Canggu is a surf and coworking hub on Bali's west coast with beach breaks (Batu Bolong, Echo Beach, Berawa) and a dense cluster of cafes and coworking spaces.
+- **Nearest airports:** Denpasar I Gusti Ngurah Rai International Airport (DPS) ~11 km
+- **Getting there:** Ngurah Rai International (DPS) is roughly 30-45 minutes by car depending on traffic.
 - **Website:** https://destinationoutpost.co/
 - **Rating:** 4.7 from 320 Google reviews
 

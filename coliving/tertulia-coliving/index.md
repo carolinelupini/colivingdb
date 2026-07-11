@@ -11,7 +11,9 @@
 - **Dorm available:** Yes
 - **Minimum stay:** 14 nights (~2 weeks)
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, coworking, community, eco, mountain
+- **Nearest airports:** Florence Airport, Peretola (FLR) ~30 km
 - **Website:** https://tertulia.farm/
 - **Rating:** 4.8 from 84 Google reviews
 

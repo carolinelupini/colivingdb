@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Africa
+- **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** beach, coworking, community
+- **Nearest airports:** Hurghada International Airport (HRG) ~10 km
 - **Website:** https://coliving.com/spaces/iyyt0bxc
 - **Rating:** 4.8 from 58 Google reviews
 

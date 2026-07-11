@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Asia
+- **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** community, coworking, city
+- **Nearest airports:** Tan Son Nhat International Airport (SGN) ~5 km
 - **Website:** http://kolabliving.com/
 - **Rating:** 5.0 from 12 Google reviews
 

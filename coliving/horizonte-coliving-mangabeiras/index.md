@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Latin America
+- **Timezone:** GMT-3 <small>· US East: full workday overlap · Central Europe: good overlap</small>
 - **Tags:** community, coworking, rural
+- **Nearest airports:** Tancredo Neves International Airport (CNF) ~35 km
 - **Website:** https://www.horizontecoliving.com/
 - **Rating:** 5.0 from 44 Google reviews
 

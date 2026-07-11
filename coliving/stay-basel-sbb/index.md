@@ -10,7 +10,12 @@
 - **Dorm available:** Yes
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** coworking, city, community
+- **Included:** Shared kitchen, Hangout area, bar and café, Patio, Coworking desks, Free wifi throughout
+- **Area:** In Basel's Gundeli district, a five-minute walk from Basel SBB main train station.
+- **Nearest airports:** EuroAirport Basel–Mulhouse–Freiburg (BSL) ~8 km
+- **Getting there:** EuroAirport Basel-Mulhouse-Freiburg (BSL) connects via Bus 50, free with the guest BaselCard.
 - **Website:** http://www.hyve.ch/
 - **Rating:** 4.3 from 196 Google reviews
 

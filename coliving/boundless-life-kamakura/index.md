@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Asia
+- **Timezone:** GMT+9 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** beach, family, coworking, community
+- **Nearest airports:** Tokyo Haneda International Airport (HND) ~33 km
 - **Website:** https://www.boundless.life/kamakura-japan-boundless-life-destinations
 
 ## Rates

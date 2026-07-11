@@ -11,7 +11,11 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Africa
+- **Timezone:** GMT+2 <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, coworking, community
+- **Area:** In Cape Town's East City near restaurants and the City Sightseeing wine tram, per guest reviews; described as having a great, walkable location.
+- **Nearest airports:** Cape Town International Airport (CPT) ~18 km
+- **Getting there:** Cape Town International (CPT) is the nearest airport, roughly 20-30 minutes by car.
 - **Website:** https://www.neighbourgood.co/84-harrington
 - **Rating:** 4.7 from 277 Google reviews
 

@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Latin America
+- **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Tags:** coworking, eco, community
+- **Nearest airports:** Xoxocotlán International Airport (OAX) ~8 km
 - **Website:** https://iguanahostel.com/co-living/
 - **Rating:** 4.6 from 7 Google reviews
 

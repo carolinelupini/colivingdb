@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Asia
+- **Timezone:** GMT+9 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** island, coworking, community, rural
+- **Nearest airports:** Fukue Airport (FUJ) ~4 km; Nagasaki Airport (NGS) ~103 km
 - **Website:** https://www.instagram.com/thepiergoto/
 - **Rating:** 5.0 from 12 Google reviews
 

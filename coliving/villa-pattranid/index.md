@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Asia
+- **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** community
+- **Nearest airports:** Chiang Mai International Airport (CNX) ~4 km
 - **Website:** http://www.villapattranid.com/
 - **Rating:** 5.0 from 51 Google reviews
 

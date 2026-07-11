@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Latin America
+- **Timezone:** GMT-3 winter / GMT-4 summer <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Tags:** beach, city, coworking, community, startup
+- **Nearest airports:** Comodoro Arturo Merino Benítez International Airport (SCL) ~82 km
 - **Website:** https://draperstartuphouse.com/chile/
 
 ## About

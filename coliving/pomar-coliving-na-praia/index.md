@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 28 nights (~4 weeks)
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** beach, surf, coworking, community
+- **Nearest airports:** Faro - Gago Coutinho International Airport (FAO) ~21 km
 - **Website:** https://pomar-coliving.com/
 - **Rating:** 5.0 from 77 Google reviews
 

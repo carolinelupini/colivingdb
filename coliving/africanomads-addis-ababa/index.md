@@ -11,8 +11,10 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Africa
+- **Timezone:** GMT+3 <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Included:** Private room in an AfricaNomads home, Reliable WiFi & Starlink, Local SIM card loaded with data + backup power, Weekly communal dinner, Optional weekend activities, Hosts & activity organizers, Access to coworking, A community of remote workers
 - **Second guest:** An extra person sharing a room pays 35% of the rate.
+- **Nearest airports:** Addis Ababa Bole International Airport (ADD) ~9 km
 - **Website:** https://www.africanomads.co/digital-nomads-ethiopia
 
 Source: https://colivingdb.com/coliving/africanomads-addis-ababa/

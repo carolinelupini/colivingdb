@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** North America
+- **Timezone:** GMT-7 winter / GMT-6 summer <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Tags:** mountain, city, coworking, community
+- **Nearest airports:** Rocky Mountain Metropolitan Airport (BJC) ~22 km; Denver International Airport (DEN) ~56 km
 - **Website:** https://www.outsite.co/locations/boulder-north-boulder
 
 ## About

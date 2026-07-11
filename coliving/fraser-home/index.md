@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Asia
+- **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** city, community, coworking
+- **Nearest airports:** Sultan Abdul Aziz Shah International Airport (SZB) ~18 km
 - **Website:** https://coliving.com/spaces/8tzcwxu6
 
 ## Rates

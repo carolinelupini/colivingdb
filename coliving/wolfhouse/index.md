@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** island, coworking, community
+- **Nearest airports:** Tenerife Sur Airport (TFS) ~35 km
 - **Website:** https://wolfhouse.co
 
 ## About

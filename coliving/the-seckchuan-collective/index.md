@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Asia
+- **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** city, community, coworking
+- **Nearest airports:** Penang International Airport (PEN) ~15 km
 - **Website:** https://coliving.com/spaces/tf1r9stf
 
 ## Rates

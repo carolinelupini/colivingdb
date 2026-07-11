@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, coworking, community
+- **Nearest airports:** Bari Karol Wojtyła International Airport (BRI) ~56 km
 - **Website:** https://masseriaolga.com/coliving/
 - **Rating:** 4.7 from 71 Google reviews
 

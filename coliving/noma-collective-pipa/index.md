@@ -11,6 +11,12 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Latin America
+- **Timezone:** GMT-3 <small>· US East: full workday overlap · Central Europe: good overlap</small>
+- **Included:** 5-min walk to beach, Communal kitchen (some private), Two co-working spaces, Wifi + local SIM, Community manager, Airport transfer (NAT), Alumni network access
+- **Not included:** Travel/health insurance, Gym access, Equipment rentals (surf/kayak), Activities (surf lessons, tours), Flights, Food & beverage
+- **Area:** Pipa is a small surf town on Brazil's northeast coast with 11 beaches, jungle-adjacent lodging, year-round surf conditions, and a nightlife/festival scene including Bossa & Jazz.
+- **Nearest airports:** Rio Grande do Norte/São Gonçalo do Amarante–Governador Aluízio Alves International Airport (NAT) ~62 km
+- **Getting there:** Natal Airport (NAT) is the nearest airport, with transfers included; no specific drive time stated.
 - **Website:** https://www.noma-collective.com/editions/pipa-brazil-oct-03-2026
 
 Source: https://colivingdb.com/coliving/noma-collective-pipa/

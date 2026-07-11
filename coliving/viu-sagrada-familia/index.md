@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 28 nights (~4 weeks)
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, community, coworking, eco
+- **Nearest airports:** Josep Tarradellas Barcelona-El Prat Airport (BCN) ~14 km
 - **Website:** https://www.mapmelon.com/colivings/viu-sagrada-familia
 - **Rating:** 4.9 from 48 Google reviews
 

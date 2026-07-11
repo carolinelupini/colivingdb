@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 150 nights (~5 months)
 - **Region:** Europe
+- **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, coworking, community
+- **Nearest airports:** Riga International Airport (RIX) ~7 km
 - **Website:** https://coliving.com/spaces/gpxkzpxl
 
 ## Rates

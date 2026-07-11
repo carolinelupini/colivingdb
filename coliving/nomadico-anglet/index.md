@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** beach, surf, coworking, community
+- **Nearest airports:** Biarritz Pays Basque airport (BIQ) ~1 km; Bilbao Airport (BIO) ~114 km
 - **Website:** https://nomadico.io
 
 ## Rates

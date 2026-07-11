@@ -10,7 +10,9 @@
 - **Dorm available:** Yes
 - **Minimum stay:** —
 - **Region:** Latin America
+- **Timezone:** GMT-3 <small>· US East: full workday overlap · Central Europe: good overlap</small>
 - **Tags:** city, coworking, community, startup
+- **Nearest airports:** Aeroparque Jorge Newbery (AEP) ~6 km
 - **Website:** https://draperstartuphouse.com/argentina/
 
 ## About

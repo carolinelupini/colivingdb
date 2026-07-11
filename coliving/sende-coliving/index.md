@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, mountain, community, coworking
+- **Nearest airports:** Vigo Airport (VGO) ~60 km; Francisco de Sá Carneiro Airport (OPO) ~95 km
 - **Website:** https://www.sende.co/
 - **Rating:** 5.0 from 46 Google reviews
 

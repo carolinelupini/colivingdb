@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 14 nights (~2 weeks)
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, community, eco
+- **Nearest airports:** Osijek Airport (OSI) ~27 km; Pécs-Pogány International Airport (PEV) ~79 km
 - **Website:** https://sontacoliving.com/
 - **Rating:** 4.9 from 16 Google reviews
 

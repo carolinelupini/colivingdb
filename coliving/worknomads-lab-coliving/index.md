@@ -11,7 +11,12 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, coworking, community
+- **Included:** Breakfast (hotel tier), Coworking access, Gym access, Weekly cleaning (coliving tier), Communal kitchens, Restaurant discount (coliving tier)
+- **Area:** Rooftop bar with Vitosha mountain views; hiking/backpacking on Vitosha mountain is a nearby activity.
+- **Nearest airports:** Sofia Airport (SOF) ~8 km
+- **Getting there:** Sofia Airport (SOF); a guest review cites ~15 min from the airport — not confirmed on the official site.
 - **Website:** https://www.worknomadshotel.com/
 - **Rating:** 4.5 from 480 Google reviews
 

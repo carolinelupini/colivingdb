@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** North America
+- **Timezone:** GMT-8 winter / GMT-7 summer <small>· US East: good overlap · Central Europe: async only</small>
 - **Tags:** city, community
+- **Nearest airports:** San Francisco International Airport (SFO) ~17 km
 - **Website:** https://www.neighbourgood.co
 
 ## About

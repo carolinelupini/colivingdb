@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Latin America
+- **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Tags:** beach, surf, coworking, community
+- **Nearest airports:** Puerto Escondido International Airport (PXM) ~9 km; Bahías de Huatulco International Airport (HUX) ~82 km
 - **Website:** https://www.mapmelon.com/colivings/mi-casa-coliving
 - **Rating:** 5.0 from 5 Google reviews
 

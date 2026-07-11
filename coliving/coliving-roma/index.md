@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Latin America
+- **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Tags:** coworking, community, city
+- **Nearest airports:** Mexico City Benito Juárez International Airport (MEX) ~11 km
 - **Website:** https://www.colivingcondesa.com/
 - **Rating:** 4.8 from 25 Google reviews
 

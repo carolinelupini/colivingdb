@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, coworking, community
+- **Nearest airports:** Cagliari Elmas Airport (CAG) ~67 km
 - **Website:** https://treballu.com/
 - **Rating:** 4.6 from 19 Google reviews
 

@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** surf, coworking, community
+- **Nearest airports:** Cascais Airport (CAT) ~33 km; Lisbon Humberto Delgado Airport (LIS) ~36 km
 - **Website:** https://wildsoulscoliving.com/
 - **Rating:** 5.0 from 25 Google reviews
 

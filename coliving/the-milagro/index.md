@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Latin America
+- **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Tags:** city, community, coworking
+- **Nearest airports:** El Dorado International Airport (BOG) ~11 km
 - **Website:** https://themilagro.co
 - **Rating:** 3.5 from 8 Google reviews
 

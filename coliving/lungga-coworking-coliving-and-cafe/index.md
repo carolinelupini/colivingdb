@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Asia
+- **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** island, surf, coworking, community, eco
+- **Nearest airports:** Surigao Airport (SUG) ~75 km; Laguindingan International Airport (CGY) ~228 km
 - **Website:** https://lungga.ph/
 - **Rating:** 5.0 from 38 Google reviews
 

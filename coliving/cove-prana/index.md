@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Asia
+- **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** community, beach, surf
+- **Nearest airports:** Denpasar I Gusti Ngurah Rai International Airport (DPS) ~13 km
 - **Website:** https://cove.id/en/properties/cove-prana
 - **Rating:** 4.4 from 173 Google reviews
 

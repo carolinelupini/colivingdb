@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Africa
+- **Timezone:** GMT+1 <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** community, coworking, startup
+- **Nearest airports:** Marrakesh Menara Airport (RAK) ~13 km
 - **Website:** http://www.chateaunougat.com/
 - **Rating:** 5.0 from 6 Google reviews
 

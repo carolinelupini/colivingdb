@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, island, coworking, community
+- **Nearest airports:** Palma de Mallorca Airport (PMI) ~31 km
 - **Website:** https://www.nomadico.io/mallorca-coliving
 - **Rating:** 5.0 from 30 Google reviews
 

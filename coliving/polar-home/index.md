@@ -10,7 +10,9 @@
 - **Dorm available:** Yes
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** North America
+- **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Tags:** beach, community
+- **Nearest airports:** Felipe Carrillo Puerto International Airport Tulum (TQO) ~21 km
 - **Website:** https://coliving.com/spaces/ebojmcqe
 
 ## Rates

@@ -9,7 +9,9 @@
 - **Dorm available:** Yes
 - **Minimum stay:** —
 - **Region:** Asia
+- **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** surf, coworking, island
+- **Nearest airports:** Surigao Airport (SUG) ~63 km; Laguindingan International Airport (CGY) ~223 km
 - **Website:** https://www.coworksurf.com/siargao/coliving-coworking-siargao-philippines
 
 ## About

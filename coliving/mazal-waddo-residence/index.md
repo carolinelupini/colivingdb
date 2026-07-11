@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Asia
+- **Timezone:** GMT+5:30 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** beach, coworking, community
+- **Nearest airports:** Manohar International Airport (GOX) ~22 km
 - **Website:** https://coliving.com/spaces/gjs8clrm
 
 ## Rates

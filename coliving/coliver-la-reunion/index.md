@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Africa
+- **Timezone:** GMT+4 <small>· US East: async only · Central Europe: full workday overlap</small>
 - **Tags:** island, coworking, community
+- **Nearest airports:** Saint-Pierre Pierrefonds Airport (ZSE) ~7 km
 - **Website:** https://www.coliver.re/
 - **Rating:** 5.0 from 68 Google reviews
 

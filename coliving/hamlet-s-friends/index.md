@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 28 nights (~4 weeks)
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, mountain, community, coworking
+- **Nearest airports:** Adolfo Suárez Madrid–Barajas Airport (MAD) ~102 km
 - **Website:** https://www.mapmelon.com/colivings/hamlet-s-friends
 - **Rating:** 5.0 from 184 Google reviews
 

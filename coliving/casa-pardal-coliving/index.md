@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 14 nights (~2 weeks)
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, coworking, community
+- **Nearest airports:** Josep Tarradellas Barcelona-El Prat Airport (BCN) ~68 km
 - **Website:** https://casapardal.com/
 
 ## Rates

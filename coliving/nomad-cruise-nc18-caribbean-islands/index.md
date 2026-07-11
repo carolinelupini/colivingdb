@@ -11,7 +11,12 @@
 - **Dorm available:** No
 - **Minimum stay:** 14 nights (~2 weeks)
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** community, coworking, island
+- **Included:** Cabin accommodation, Starlink wifi, Gourmet dining, Talks, workshops, and masterminds, Themed dinners and parties, Entertainment (improv theatre, salsa lessons, talent show), Wellness activities, Access to ship bars, pools, spa, and gym
+- **Area:** NC18 sails Barcelona to the Caribbean, November 2-16, 2026, calling at four Caribbean islands (not yet named on the site), with around 300 passengers aboard.
+- **Nearest airports:** Josep Tarradellas Barcelona-El Prat Airport (BCN) ~13 km
+- **Getting there:** Barcelona-El Prat Airport (BCN) is the departure-port airport.
 - **Website:** https://www.nomadcruise.com/
 
 ## About

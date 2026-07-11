@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Africa
+- **Timezone:** GMT+2 <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, coworking, community
+- **Nearest airports:** Cape Town International Airport (CPT) ~19 km
 - **Website:** https://www.neighbourgood.co
 - **Rating:** 5.0 from 2 Google reviews
 

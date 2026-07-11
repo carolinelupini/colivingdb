@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** mountain, ski, coworking, community
+- **Nearest airports:** Sofia Airport (SOF) ~95 km
 - **Website:** https://valentinabansko.com/
 - **Rating:** 4.7 from 106 Google reviews
 

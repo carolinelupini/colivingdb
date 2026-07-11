@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Asia
+- **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** island, beach, coworking, community
+- **Nearest airports:** Krabi International Airport (KBV) ~58 km
 - **Website:** https://kohub.org/
 - **Rating:** 4.8 from 175 Google reviews
 

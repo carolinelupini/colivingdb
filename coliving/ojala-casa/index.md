@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** island, beach, coworking, community
+- **Nearest airports:** Tenerife Sur Airport (TFS) ~21 km
 - **Website:** https://ojala.casa/
 - **Rating:** 5.0 from 1 Google reviews
 

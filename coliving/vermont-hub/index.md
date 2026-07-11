@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** mountain, ski, coworking, community
+- **Nearest airports:** Geneva International Airport (GVA) ~70 km
 - **Website:** https://www.vermonthub.ch/coliving-chapters
 - **Rating:** 4.7 from 12 Google reviews
 

@@ -10,7 +10,9 @@
 - **Dorm available:** Yes
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
+- **Timezone:** GMT+4 <small>· US East: async only · Central Europe: full workday overlap</small>
 - **Tags:** rural, mountain, coworking, community
+- **Nearest airports:** David the Builder Kutaisi International Airport (KUT) ~53 km
 - **Website:** https://coliving.com/spaces/qny0gdxj
 
 ## Rates

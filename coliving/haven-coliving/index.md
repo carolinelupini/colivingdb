@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** North America
+- **Timezone:** GMT-8 winter / GMT-7 summer <small>· US East: good overlap · Central Europe: async only</small>
 - **Tags:** beach, city, community
+- **Nearest airports:** Los Angeles International Airport (LAX) ~7 km
 - **Website:** https://havencoliving.com/
 - **Rating:** 4.2 from 20 Google reviews
 

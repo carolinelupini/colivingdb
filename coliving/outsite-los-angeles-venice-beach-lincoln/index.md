@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** North America
+- **Timezone:** GMT-8 winter / GMT-7 summer <small>· US East: good overlap · Central Europe: async only</small>
 - **Tags:** beach, city, coworking, community
+- **Nearest airports:** Los Angeles International Airport (LAX) ~7 km
 - **Website:** https://www.outsite.co/locations/los-angeles-venice-lincoln
 
 ## About

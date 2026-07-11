@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Asia
+- **Timezone:** GMT+5:30 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** surf, beach, coworking, community
+- **Nearest airports:** Koggala Airport (KCT) ~12 km; Colombo Ratmalana International Airport (RML) ~112 km
 - **Website:** http://laislasl.com
 - **Rating:** 4.3 from 13 Google reviews
 

@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Asia
+- **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** city, coworking, community
+- **Nearest airports:** Sultan Abdul Aziz Shah International Airport (SZB) ~18 km
 - **Website:** https://kl.digital-nomad.asia/
 - **Rating:** 4.3 from 45 Google reviews
 

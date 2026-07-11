@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** city, coworking, community
+- **Nearest airports:** Lisbon Humberto Delgado Airport (LIS) ~7 km
 - **Website:** https://www.outsite.co/locations/lisbon-intendente
 - **Rating:** 4.4 from 35 Google reviews
 

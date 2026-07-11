@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Asia
+- **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** community, rural, coworking
+- **Nearest airports:** Denpasar I Gusti Ngurah Rai International Airport (DPS) ~26 km
 - **Website:** https://coliving.com/spaces/7eq4qcbw
 - **Rating:** 5.0 from 131 Google reviews
 

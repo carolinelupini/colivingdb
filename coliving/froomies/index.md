@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 14 nights (~2 weeks)
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** rural, community, coworking
+- **Nearest airports:** Cornwall Airport Newquay (NQY) ~23 km; Cardiff International Airport (CWL) ~144 km
 - **Website:** https://froomies.org/
 - **Rating:** 5.0 from 12 Google reviews
 

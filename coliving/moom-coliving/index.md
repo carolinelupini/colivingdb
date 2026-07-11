@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, community, coworking, eco
+- **Nearest airports:** Sønderborg Airport (SGD) ~74 km; Hamburg Helmut Schmidt Airport (HAM) ~77 km
 - **Website:** https://moom.space/en/home/
 
 ## Rates

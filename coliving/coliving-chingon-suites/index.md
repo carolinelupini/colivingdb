@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Latin America
+- **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Tags:** coworking, community, city
+- **Nearest airports:** Guadalajara International Airport (GDL) ~18 km
 - **Website:** https://colivingchingon.com/
 - **Rating:** 4.2 from 69 Google reviews
 

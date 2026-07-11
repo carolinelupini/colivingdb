@@ -11,6 +11,12 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
+- **Included:** Kids' education program, Coworking hub access, Furnished housing + utilities, Weekly housecleaning, Airport transfers, Welcome/farewell events, Weekly wellness activities
+- **Not included:** One-time enrollment fee per child, Extra fees for unenrolled teens/guests
+- **Area:** Sintra is a UNESCO World Heritage hill town of palaces (Pena Palace, Quinta da Regaleira, Monserrate) and forested hiking trails, with surf breaks at Praia das Maçãs and Praia Grande and Lisbon's coastline a short drive away.
+- **Nearest airports:** Cascais Airport (CAT) ~9 km; Lisbon Humberto Delgado Airport (LIS) ~22 km
+- **Getting there:** Lisbon Portela (LIS) is the nearest airport, roughly 35-45 minutes by car from Sintra.
 - **Website:** https://boundless.life/sintra-portugal
 
 ## Rates

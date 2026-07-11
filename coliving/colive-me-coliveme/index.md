@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 3 nights
 - **Region:** Asia
+- **Timezone:** GMT+5:30 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** beach, surf, coworking, community
+- **Nearest airports:** Koggala Airport (KCT) ~5 km; Colombo Ratmalana International Airport (RML) ~108 km
 - **Website:** https://www.colive.me/
 - **Rating:** 4.9 from 109 Google reviews
 

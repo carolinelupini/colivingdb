@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Latin America
+- **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Tags:** city, coworking, community, eco
+- **Nearest airports:** Tobías Bolaños International Airport (SYQ) ~10 km; Juan Santamaría International Airport (SJO) ~19 km
 - **Website:** https://coliving.com/spaces/rwhdalyd
 
 ## Rates

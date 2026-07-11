@@ -11,7 +11,9 @@
 - **Dorm available:** Yes
 - **Minimum stay:** 13 nights
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, mountain, eco, community, coworking
+- **Nearest airports:** Foggia Gino Lisa Airport (FOG) ~37 km; Naples International Airport (NAP) ~87 km
 - **Website:** https://www.mapmelon.com/colivings/la-vita-sukha
 - **Rating:** 5.0 from 29 Google reviews
 

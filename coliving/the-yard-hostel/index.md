@@ -10,7 +10,13 @@
 - **Dorm available:** Yes
 - **Minimum stay:** —
 - **Region:** Asia
+- **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** community, coworking, city
+- **Included:** Wifi, Free filtered water, coffee, toast, and fruit yogurt every morning, Air conditioning, Access to common/outdoor areas
+- **Second guest:** Private Lofts/Rooms accommodate 1-2 adults (queen bed or split bunks), but no extra per-guest pricing is stated.
+- **Area:** Located in Ari, described as Bangkok's top-ranked neighborhood for hip cafes and street food; a 7-minute walk to Ari BTS station, ~10 minutes by train to downtown Bangkok.
+- **Nearest airports:** Don Mueang International Airport (DMK) ~16 km
+- **Getting there:** Don Mueang (DMK) is ~20-25 min by car from Ari; Suvarnabhumi (BKK) is ~45 min-1h depending on traffic.
 - **Website:** https://www.theyardhostels.com/
 - **Rating:** 4.7 from 811 Google reviews
 

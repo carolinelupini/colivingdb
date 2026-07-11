@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 8 nights
 - **Region:** Asia
+- **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** city, coworking, community
+- **Nearest airports:** Sultan Abdul Aziz Shah International Airport (SZB) ~10 km
 - **Website:** https://www.thehatcheryplace.com/
 - **Rating:** 4.8 from 25 Google reviews
 

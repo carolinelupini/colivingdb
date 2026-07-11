@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** surf, beach, community
+- **Nearest airports:** Gran Canaria Airport (LPA) ~23 km
 - **Website:** http://www.thewavetemple.com/
 - **Rating:** 4.9 from 55 Google reviews
 

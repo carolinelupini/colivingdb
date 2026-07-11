@@ -11,6 +11,12 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
+- **Included:** Private double room at partner property, Coworking and co-cooking space access, Gym/spa access (sauna, steam room, jacuzzi, pool) at Hotel Sinaia, 25% off partner restaurants (Nomad Pass), Romanian language classes (availability-dependent), Biweekly room cleaning, High-speed wifi at Hotel Sinaia coworking space, Organized castle visits and hikes, All-inclusive add-on (870 EUR): package plus daily breakfast buffet
+- **Not included:** Meals beyond the all-inclusive breakfast option, Airport transfers, Personal travel expenses
+- **Area:** Mountain town a 20-min walk from Peleș Castle, with hiking access to the Bucegi Mountains (Omu Peak, the Sphinx rock formation), a bear sanctuary, and day trips to Brașov and Bucharest.
+- **Nearest airports:** Brașov-Ghimbav International Airport (GHV) ~40 km
+- **Getting there:** Bucharest Henri Coandă (OTP), roughly 1.5–2h drive — approximate, not stated on site.
 - **Website:** https://thebetterneighbors.com/romania
 
 ## Rates

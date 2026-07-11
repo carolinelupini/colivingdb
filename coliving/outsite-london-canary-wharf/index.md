@@ -11,7 +11,12 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** city, coworking, community
+- **Included:** High-speed wifi, Self check-in, Dedicated workspaces, Weekly community events, Fully equipped kitchens, Gym, cinema, café-bar, rooftop terrace, laundry access
+- **Area:** Isle of Dogs within the Canary Wharf estate, East London; modern architecture and riverside parks along the Thames, with dining from street food markets to rooftop bars.
+- **Nearest airports:** London City Airport (LCY) ~5 km; London Heathrow Airport (LHR) ~31 km
+- **Getting there:** London City (LCY), ~24 min.
 - **Website:** https://www.outsite.co/locations/canary-wharf-ark
 - **Rating:** 4.7 from 357 Google reviews
 

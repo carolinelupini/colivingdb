@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 1 night
 - **Region:** Asia
+- **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** coworking, community, city
+- **Nearest airports:** Suvarnabhumi Airport (BKK) ~19 km
 - **Website:** http://unionspace.co.th/coliving-bangkok.php
 - **Rating:** 3.9 from 24 Google reviews
 

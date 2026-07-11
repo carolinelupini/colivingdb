@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, mountain, coworking, community
+- **Nearest airports:** Sofia Airport (SOF) ~8 km
 - **Website:** https://www.outsite.co/locations/sofia-bulgaria
 
 ## About

@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 14 nights (~2 weeks)
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** beach, surf, coworking, community
+- **Nearest airports:** Lisbon Humberto Delgado Airport (LIS) ~68 km
 - **Website:** https://www.mapmelon.com/colivings/onda-co-living
 - **Rating:** 5.0 from 27 Google reviews
 

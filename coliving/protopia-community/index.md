@@ -10,7 +10,9 @@
 - **Dorm available:** Yes
 - **Minimum stay:** 14 nights (~2 weeks)
 - **Region:** Latin America
+- **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Tags:** community, eco, rural
+- **Nearest airports:** La Fortuna Arenal Airport (FON) ~32 km; Daniel Oduber Quirós International Airport (LIR) ~77 km
 - **Website:** https://www.protopia.community/
 - **Rating:** 4.9 from 18 Google reviews
 

@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** island, coworking, community
+- **Nearest airports:** Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~22 km
 - **Website:** https://www.ikigaicoliving.com/
 - **Rating:** 4.9 from 97 Google reviews
 

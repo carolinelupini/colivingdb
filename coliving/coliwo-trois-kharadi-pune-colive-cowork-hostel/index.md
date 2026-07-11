@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Asia
+- **Timezone:** GMT+5:30 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** coworking, community, city
+- **Nearest airports:** Pune International Airport (PNQ) ~3 km
 - **Website:** https://www.coliwo.in/
 - **Rating:** 4.4 from 158 Google reviews
 

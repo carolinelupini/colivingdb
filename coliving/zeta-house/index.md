@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** North America
+- **Timezone:** GMT-6 winter / GMT-5 summer <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Tags:** startup, coworking, community
+- **Nearest airports:** Austin Bergstrom International Airport (AUS) ~10 km
 - **Website:** https://zeta.house/
 - **Rating:** 4.9 from 10 Google reviews
 

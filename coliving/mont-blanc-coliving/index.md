@@ -11,7 +11,9 @@
 - **Dorm available:** Yes
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** mountain, ski, rural, coworking, community, family
+- **Nearest airports:** Geneva International Airport (GVA) ~65 km
 - **Website:** https://www.mont-blanc-coliving.com/
 - **Rating:** 4.0 from 1 Google reviews
 

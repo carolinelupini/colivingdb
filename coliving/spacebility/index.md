@@ -11,7 +11,11 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, coworking, community
+- **Area:** In the Cagliari region of Sardinia; site highlights sea activities, mountain activities, eco tours, and food/wine tastings, with staff recommending nearby beaches and local spots.
+- **Nearest airports:** Cagliari Elmas Airport (CAG) ~7 km
+- **Getting there:** Cagliari Elmas (CAG) — approximate, not stated on site.
 - **Website:** https://spacebility.com/
 - **Rating:** 4.9 from 628 Google reviews
 

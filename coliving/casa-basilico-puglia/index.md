@@ -11,6 +11,12 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
+- **Included:** Private room + weekly cleaning, Towels and linens, Coworking space + 2 meeting rooms, Communal kitchen + daily shared dinners, Cooking classes, Community manager, Local events/activities, Surprise weekend experience
+- **Not included:** Flights and travel insurance, Food and personal expenses, Optional excursions
+- **Area:** Based in Putignano in the Puglia countryside, near Alberobello's trulli, the white town of Ostuni, cliff diving in Polignano, and hidden Adriatic coves; beach access is about 30 minutes by car.
+- **Nearest airports:** Brindisi Airport (BDS) ~51 km
+- **Getting there:** Bari Airport is nearest, reached by shuttle (~30 min, €5) or train (~20 min, €5.30) to Bari Centrale, then onward transport to Putignano.
 - **Website:** https://casabasilico.com/locations/puglia-italy
 
 ## Rates

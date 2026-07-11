@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Asia
+- **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** beach, coworking, island
+- **Nearest airports:** Samui International Airport (USM) ~24 km
 - **Website:** https://beachub.org/
 - **Rating:** 4.2 from 145 Google reviews
 

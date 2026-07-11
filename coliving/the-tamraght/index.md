@@ -10,7 +10,9 @@
 - **Dorm available:** Yes
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Africa
+- **Timezone:** GMT+1 <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** beach, surf, community, coworking
+- **Nearest airports:** Al Massira Airport (AGA) ~34 km
 - **Website:** https://coliving.com/spaces/bfygsnjv
 
 ## Rates
