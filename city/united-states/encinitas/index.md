@@ -1,6 +1,6 @@
 # Coliving in Encinitas, United States
 
-> 3 colivings in Encinitas, United States, prices from €2,000 to €6,034 per month – last updated July 11, 2026.
+> 3 colivings in Encinitas, United States, prices from €2,000 to €6,039 per month – last updated July 11, 2026.
 
 ## All colivings
 

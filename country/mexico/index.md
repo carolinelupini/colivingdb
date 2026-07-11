@@ -10,8 +10,8 @@
 | Polar Home | Tulum | from $228/mo | — | dorm | 30 nights (~1 month) | Permanent |
 | co.404 Coliving San Cristóbal | San Cristóbal de las Casas | from $1,290/mo | 4.8 (81) | private, dorm | — | Permanent |
 | U-Co Roma Coliving | Mexico City | from €381/mo | 4.3 (102) | — | — | Permanent |
-| Coliving Condesa | Mexico City | from MXN 10,000/mo | 4.9 (47) | — | — | Permanent |
 | The Polar II | Tulum | from $570/mo | 3.8 (76) | private | 30 nights (~1 month) | Permanent |
+| Coliving Condesa | Mexico City | from MXN 10,000/mo | 4.9 (47) | — | — | Permanent |
 | Co.404 Oaxaca City | Oaxaca | from $570/mo | 4.7 (162) | private | 30 nights (~1 month) | Permanent |
 | co.404 Coliving Oaxaca | Oaxaca | from $570/mo | 4.7 (162) | private, dorm | — | Permanent |
 | Outsite Mexico City - Colonia San Miguel | Mexico City | from $749/mo | — | private | — | Permanent |
@@ -42,8 +42,8 @@
 
 | Band (EUR/mo) | Colivings |
 |---|---|
-| 0–500 | 6 |
-| 500–800 | 6 |
+| 0–500 | 5 |
+| 500–800 | 7 |
 | 800–1200 | 3 |
 | 1200–2000 | 1 |
 

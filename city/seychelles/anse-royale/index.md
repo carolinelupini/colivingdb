@@ -1,6 +1,6 @@
 # Coliving in Anse Royale, Seychelles
 
-> 1 colivings in Anse Royale, Seychelles, prices from €1,391 to €1,391 per month – last updated July 11, 2026.
+> 1 colivings in Anse Royale, Seychelles, prices from €1,392 to €1,392 per month – last updated July 11, 2026.
 
 ## All colivings
 

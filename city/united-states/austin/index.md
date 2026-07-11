@@ -1,6 +1,6 @@
 # Coliving in Austin, United States
 
-> 3 colivings in Austin, United States, prices from €553 to €870 per month – last updated July 11, 2026.
+> 3 colivings in Austin, United States, prices from €553 to €871 per month – last updated July 11, 2026.
 
 ## All colivings
 

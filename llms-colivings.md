@@ -224,8 +224,8 @@
 | [The Pier | Goto Nagasaki](/coliving/the-pier-goto-nagasaki/index.md) | Goto (Fukue), Nagasaki | Japan | On request | — | Permanent |
 | [Tokyo Chapter](/coliving/tokyo-chapter/index.md) | Tokyo | Japan | from ¥100,000/mo | — | Permanent |
 | [AfricaNomads — Lamu Island](/coliving/africanomads-lamu-island/index.md) | Lamu Island | Kenya | On request | — | Pop-up |
-| [AfricaNomads — Nairobi (Jul 2026)](/coliving/africanomads-nairobi-jul-2026/index.md) | Nairobi | Kenya | On request | — | Pop-up |
-| [AfricaNomads — Nairobi (Nov 2026)](/coliving/africanomads-nairobi-nov-2026/index.md) | Nairobi | Kenya | On request | — | Pop-up |
+| [AfricaNomads — Nairobi (Jul 2026)](/coliving/africanomads-nairobi-jul-2026/index.md) | Nairobi | Kenya | from $1,760/mo | — | Pop-up |
+| [AfricaNomads — Nairobi (Nov 2026)](/coliving/africanomads-nairobi-nov-2026/index.md) | Nairobi | Kenya | from $1,760/mo | — | Pop-up |
 | [Skippers](/coliving/skippers/index.md) | Diani Beach | Kenya | from €500/mo | — | Permanent |
 | [Coliver - La Réunion](/coliving/coliver-la-reunion/index.md) | Saint Pierre | La Réunion | On request | — | Permanent |
 | [The Jelgavas Iela (Jelgavas Iela Hub)](/coliving/the-jelgavas-iela-jelgavas-iela-hub/index.md) | Riga | Latvia | from $760/mo | 150 nights (~5 months) | Permanent |

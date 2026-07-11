@@ -5,12 +5,20 @@
 - **Location:** Nairobi, Kenya
 - **Type:** Pop-up / dated edition
 - **Dates:** Nov 22 - Dec 13, 2026
-- **Price:** On request
-- **Price note:** Brand-wide: stays start from $440/week depending on destination, 2-week minimum (long-stay rates from 2 months). Per-edition pricing is not published — request it from AfricaNomads.
+- **Price:** from $1,760/mo
+- **Price note:** From $1,760/mo (Standard tier). Also: D+Work $1,840/mo, Master $1,980/mo. Book 2+ months → $100 off each. Includes: private room, WiFi & Starlink, local SIM w/ data, weekly communal dinner, weekend activities, hosts + community.
 - **Room types:** —
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Africa
 - **Website:** https://www.africanomads.co/nairobi-november
+
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | $1,760 |
+
+AfricaNomads — Nairobi (Nov 2026) does not publish a nightly or weekly rate.
 
 Source: https://colivingdb.com/coliving/africanomads-nairobi-nov-2026/

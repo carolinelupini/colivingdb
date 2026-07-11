@@ -19,9 +19,10 @@
 
 | Stay length | From |
 |---|---|
+| Per week | $214 |
 | Per month | $1,037 |
 
-The Arawa (Arawa Collective) does not publish a nightly or weekly rate.
+The Arawa (Arawa Collective) does not publish a nightly rate.
 
 ## About
 

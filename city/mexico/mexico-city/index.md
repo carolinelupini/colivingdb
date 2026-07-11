@@ -22,8 +22,8 @@
 
 | Band (EUR/mo) | Colivings |
 |---|---|
-| 0–500 | 3 |
-| 500–800 | 1 |
+| 0–500 | 2 |
+| 500–800 | 2 |
 | 800–1200 | 1 |
 
 Source: https://colivingdb.com/city/mexico/mexico-city/

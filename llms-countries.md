@@ -35,11 +35,11 @@
 | [Malta](/country/malta/index.md) | 5 | €420 |
 | [Romania](/country/romania/index.md) | 5 | €670 |
 | [Serbia](/country/serbia/index.md) | 5 | €297 |
-| [Tanzania](/country/tanzania/index.md) | 5 | €1,216 |
+| [Tanzania](/country/tanzania/index.md) | 5 | €1,217 |
 | [Egypt](/country/egypt/index.md) | 4 | €167 |
 | [Kenya](/country/kenya/index.md) | 4 | €500 |
 | [Poland](/country/poland/index.md) | 4 | €513 |
-| [South Korea](/country/south-korea/index.md) | 4 | €522 |
+| [South Korea](/country/south-korea/index.md) | 4 | €524 |
 | [Uruguay](/country/uruguay/index.md) | 4 | €569 |
 | [Austria](/country/austria/index.md) | 3 | €990 |
 | [Belize](/country/belize/index.md) | 3 | — |
@@ -57,13 +57,13 @@
 | [Hungary](/country/hungary/index.md) | 2 | €900 |
 | [Lithuania](/country/lithuania/index.md) | 2 | €685 |
 | [Malawi](/country/malawi/index.md) | 2 | — |
-| [Nicaragua](/country/nicaragua/index.md) | 2 | €346 |
+| [Nicaragua](/country/nicaragua/index.md) | 2 | €347 |
 | [Puerto Rico](/country/puerto-rico/index.md) | 2 | €2,184 |
 | [Tunisia](/country/tunisia/index.md) | 2 | — |
 | [United Arab Emirates](/country/united-arab-emirates/index.md) | 2 | €238 |
 | [Albania](/country/albania/index.md) | 1 | €700 |
 | [Armenia](/country/armenia/index.md) | 1 | €450 |
-| [Bolivia](/country/bolivia/index.md) | 1 | €1,041 |
+| [Bolivia](/country/bolivia/index.md) | 1 | €1,042 |
 | [Cape Verde](/country/cape-verde/index.md) | 1 | — |
 | [Chile](/country/chile/index.md) | 1 | — |
 | [Czechia](/country/czechia/index.md) | 1 | — |
@@ -78,10 +78,10 @@
 | [Multiple (Colombia, Mexico)](/country/multiple-colombia-mexico/index.md) | 1 | €337 |
 | [Netherlands](/country/netherlands/index.md) | 1 | — |
 | [Nigeria](/country/nigeria/index.md) | 1 | — |
-| [North Macedonia](/country/north-macedonia/index.md) | 1 | €1,041 |
+| [North Macedonia](/country/north-macedonia/index.md) | 1 | €1,042 |
 | [Peru](/country/peru/index.md) | 1 | €954 |
-| [Scotland (UK)](/country/scotland-uk/index.md) | 1 | €1,478 |
-| [Seychelles](/country/seychelles/index.md) | 1 | €1,391 |
+| [Scotland (UK)](/country/scotland-uk/index.md) | 1 | €1,480 |
+| [Seychelles](/country/seychelles/index.md) | 1 | €1,392 |
 | [Singapore](/country/singapore/index.md) | 1 | €1,800 |
 | [Slovenia](/country/slovenia/index.md) | 1 | €420 |
 | [Svalbard (Norway)](/country/svalbard-norway/index.md) | 1 | — |

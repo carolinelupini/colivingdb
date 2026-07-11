@@ -7,7 +7,7 @@ colivingDB is built and maintained by Caroline Lupini, a full-time digital nomad
 Key facts:
 - 641 colivings, 83 countries
 - 68 dated pop-up editions (traveling programs, cruises, camps)
-- Prices from €40 to €6,876 per month
+- Prices from €40 to €6,882 per month
 - Filters: country, city, room type, minimum stay, price, pop-up month, currency
 
 ## Indexes

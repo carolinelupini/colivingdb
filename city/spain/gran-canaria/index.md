@@ -1,6 +1,6 @@
 # Coliving in Gran Canaria, Spain
 
-> 1 colivings in Gran Canaria, Spain, prices from €1,216 to €1,216 per month – last updated July 11, 2026.
+> 1 colivings in Gran Canaria, Spain, prices from €1,217 to €1,217 per month – last updated July 11, 2026.
 
 ## All colivings
 
