@@ -1,6 +1,6 @@
 # Satvana Conscious Co-living & Retreats
 
-> Coliving in Alentejo, Portugal. Last updated July 11, 2026.
+> Coliving in Alentejo, Portugal. Last updated July 12, 2026.
 
 - **Location:** Alentejo, Portugal
 - **Type:** Permanent coliving
@@ -9,6 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=10490577631420821259&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (6 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
+- **Vibe:** A gently restored off-grid sanctuary in Alentejo where silence, nature, and community support inner work and transformation for writers, artists, digital nomads, and healers seeking presence away from noise and screens.
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>

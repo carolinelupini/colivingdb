@@ -1,6 +1,6 @@
 # The Maja (Maja Hub)
 
-> Coliving in Krakow, Poland. Last updated July 11, 2026.
+> Coliving in Krakow, Poland. Last updated July 12, 2026.
 
 - **Location:** Krakow, Poland
 - **Type:** Permanent coliving
@@ -8,6 +8,8 @@
 - **Price note:** from BGN 955/mo shared (~€488); private ~€697
 - **Room types:** private, shared
 - **Dorm available:** Yes
+- **Wi-Fi (on-site):** 100 Mbps <small>· operator-reported</small>
+- **Vibe:** Community-focused living for professionals and remote workers, emphasizing networking, cultural exchange, and personal growth in thoughtfully designed common areas.
 - **Minimum stay:** 60 nights (~2 months)
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

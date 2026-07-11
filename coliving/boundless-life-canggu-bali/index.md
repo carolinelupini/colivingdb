@@ -1,6 +1,6 @@
 # Boundless Life — Canggu, Bali
 
-> Coliving in Canggu, Bali, Indonesia. Last updated July 11, 2026.
+> Coliving in Canggu, Bali, Indonesia. Last updated July 12, 2026.
 
 - **Location:** Canggu, Bali, Indonesia
 - **Type:** Pop-up / dated edition
@@ -9,6 +9,7 @@
 - **Price note:** children's education (5 days/wk, ages 1.5-14), all meals, 24/7 coworking, community activities, furnished apartment + utilities
 - **Room types:** —
 - **Dorm available:** No
+- **Vibe:** Family-oriented, adventure- and wellness-focused community for globally minded families blending remote work, homeschooling, and Balinese cultural immersion.
 - **Minimum stay:** —
 - **Region:** Asia
 - **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>

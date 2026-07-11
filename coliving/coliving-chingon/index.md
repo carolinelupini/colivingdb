@@ -1,6 +1,6 @@
 # Coliving Chingon
 
-> Coliving in Guadalajara, Mexico. Last updated July 11, 2026.
+> Coliving in Guadalajara, Mexico. Last updated July 12, 2026.
 
 - **Location:** Guadalajara, Mexico
 - **Type:** Permanent coliving

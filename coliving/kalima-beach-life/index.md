@@ -1,6 +1,6 @@
 # Kalima Beach Life
 
-> Coliving in Caldes d'Estrac (Barcelona), Spain. Last updated July 11, 2026.
+> Coliving in Caldes d'Estrac (Barcelona), Spain. Last updated July 12, 2026.
 
 - **Location:** Caldes d'Estrac (Barcelona), Spain
 - **Type:** Permanent coliving
@@ -8,6 +8,8 @@
 - **Price note:** single room €26/night at monthly rate (~€780/mo)
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 94 Mbps <small>· operator-reported</small>
+- **Vibe:** An intimate, beachfront coliving and social hub in Caldes d'Estrac with a lively community built around beach yoga, paddle surfing, DJ sets, and jam sessions.
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

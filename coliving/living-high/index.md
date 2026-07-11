@@ -1,12 +1,13 @@
 # Living High
 
-> Coliving in Sydney, Australia. Last updated July 11, 2026.
+> Coliving in Sydney, Australia. Last updated July 12, 2026.
 
 - **Location:** Sydney, Australia
 - **Type:** Permanent coliving
 - **Price:** from A$1,472/mo
 - **Room types:** private, shared
 - **Dorm available:** No
+- **Vibe:** A no-frills, affordable inner-city coliving operator in Sydney for students and young professionals, prioritizing community, low cost, and convenient central locations.
 - **Minimum stay:** —
 - **Region:** Oceania
 - **Timezone:** GMT+11 winter / GMT+10 summer <small>· US East: async only · Central Europe: async only</small>

@@ -1,6 +1,6 @@
 # Caminho Coliving
 
-> Coliving in Moreira, Maia (Porto area), Portugal. Last updated July 11, 2026.
+> Coliving in Moreira, Maia (Porto area), Portugal. Last updated July 12, 2026.
 
 - **Location:** Moreira, Maia (Porto area), Portugal
 - **Type:** Permanent coliving
@@ -9,6 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=4467505648201827228&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (9 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
+- **Vibe:** 'A space for those who make remote work a way of life, but seek balance, presence and true connections' — welcoming common spaces and a genuinely communal atmosphere for digital nomads and creative minds.
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>

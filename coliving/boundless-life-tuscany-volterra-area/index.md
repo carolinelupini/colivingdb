@@ -1,6 +1,6 @@
 # Boundless Life — Tuscany (Volterra area)
 
-> Coliving in Tuscany (Volterra area), Italy. Last updated July 11, 2026.
+> Coliving in Tuscany (Volterra area), Italy. Last updated July 12, 2026.
 
 - **Location:** Tuscany (Volterra area), Italy
 - **Type:** Pop-up / dated edition
@@ -9,6 +9,7 @@
 - **Price note:** children's education (5 days/wk, ages 1.5-14), all meals, 24/7 coworking, community activities, furnished apartment + utilities
 - **Room types:** —
 - **Dorm available:** No
+- **Vibe:** Positioned around 'a way of living that actually felt good' for families abroad, set against Tuscan landscapes, art, and cuisine.
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

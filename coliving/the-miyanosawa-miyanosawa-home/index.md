@@ -1,6 +1,6 @@
 # The Miyanosawa (Miyanosawa Home)
 
-> Coliving in Sapporo, Japan. Last updated July 11, 2026.
+> Coliving in Sapporo, Japan. Last updated July 12, 2026.
 
 - **Location:** Sapporo, Japan
 - **Type:** Permanent coliving
@@ -8,6 +8,8 @@
 - **Price note:** from BGN 983/mo private (~€503)
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 44 Mbps <small>· operator-reported</small>
+- **Vibe:** Slow, locally-integrated coliving for digital nomads, remote workers, and skiers, with communal dinners, game nights, and a yoga-equipped tatami room.
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Asia
 - **Timezone:** GMT+9 <small>· US East: async only · Central Europe: your evenings</small>

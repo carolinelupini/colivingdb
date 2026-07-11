@@ -1,13 +1,12 @@
 # Coliving in Rio de Janeiro, Brazil
 
-> 2 colivings in Rio de Janeiro, Brazil, prices from €332 to €332 per month – last updated July 11, 2026.
+> 1 colivings in Rio de Janeiro, Brazil, prices from €332 to €332 per month – last updated July 12, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
 | Vivére Coliving | Rio de Janeiro | from BRL 1,950/mo | 4.4 (20) | private | — | Permanent |
-| Draper Startup House Rio de Janeiro | Rio de Janeiro | On request | — | private, shared, dorm | — | Permanent |
 
 ## Price distribution
 

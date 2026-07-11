@@ -1,6 +1,6 @@
 # WiFi Tribe — Santa Teresa
 
-> Coliving in Santa Teresa, Costa Rica. Last updated July 11, 2026.
+> Coliving in Santa Teresa, Costa Rica. Last updated July 12, 2026.
 
 - **Location:** Santa Teresa, Costa Rica
 - **Type:** Pop-up / dated edition
@@ -9,6 +9,8 @@
 - **Price note:** coliving accommodation (shared room, Veteran tier) for the month-long chapter
 - **Room types:** —
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 170 Mbps <small>· operator-reported</small>
+- **Vibe:** Laid-back surf-town chapter blending productive mornings and coworking with a thriving wellness scene (yoga, breathwork) and weekend adventures
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>

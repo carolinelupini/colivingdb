@@ -1,6 +1,6 @@
 # Casa Netural
 
-> Coliving in Matera, Italy. Last updated July 11, 2026.
+> Coliving in Matera, Italy. Last updated July 12, 2026.
 
 - **Location:** Matera, Italy
 - **Type:** Permanent coliving
@@ -9,6 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=3232151842898735556&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (139 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** Creative, community-focused space for remote work, cultural exchange, and inspiration in Matera
 - **Minimum stay:** 1 night
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

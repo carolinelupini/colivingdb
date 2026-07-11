@@ -1,6 +1,6 @@
 # Repeople Casa Vera Coliving
 
-> Coliving in Las Palmas de Gran Canaria, Spain. Last updated July 11, 2026.
+> Coliving in Las Palmas de Gran Canaria, Spain. Last updated July 12, 2026.
 
 - **Location:** Las Palmas de Gran Canaria, Spain
 - **Type:** Permanent coliving
@@ -8,6 +8,7 @@
 - **Price note:** per-house rate not listed; network from ~EUR390/week
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** A restored Canarian townhouse designed for remote professionals to live and work collaboratively in the historic center of Las Palmas
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>

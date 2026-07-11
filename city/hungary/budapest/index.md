@@ -1,6 +1,6 @@
 # Coliving in Budapest, Hungary
 
-> 1 colivings in Budapest, Hungary – last updated July 11, 2026.
+> 1 colivings in Budapest, Hungary – last updated July 12, 2026.
 
 ## All colivings
 

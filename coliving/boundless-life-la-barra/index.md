@@ -1,6 +1,6 @@
 # Boundless Life — La Barra
 
-> Coliving in La Barra, Uruguay. Last updated July 11, 2026.
+> Coliving in La Barra, Uruguay. Last updated July 12, 2026.
 
 - **Location:** La Barra, Uruguay
 - **Type:** Pop-up / dated edition
@@ -9,6 +9,7 @@
 - **Price note:** children's education (5 days/wk, ages 1.5-14), all meals, 24/7 coworking, community activities, furnished apartment + utilities
 - **Room types:** —
 - **Dorm available:** No
+- **Vibe:** A family-focused remote-work community in Punta del Este's La Barra blending coworking with cultural immersion, arts, and daily social connection for globally-minded families.
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Timezone:** GMT-3 <small>· US East: full workday overlap · Central Europe: good overlap</small>

@@ -1,6 +1,6 @@
 # WiFi Tribe — Bariloche
 
-> Coliving in Bariloche, Argentina. Last updated July 11, 2026.
+> Coliving in Bariloche, Argentina. Last updated July 12, 2026.
 
 - **Location:** Bariloche, Argentina
 - **Type:** Pop-up / dated edition
@@ -9,6 +9,7 @@
 - **Price note:** coliving home accommodation (shared room, Veteran tier) + coworking + shared dinners + weekend adventures for the month-long chapter
 - **Room types:** —
 - **Dorm available:** No
+- **Vibe:** A monthly coliving chapter of 15-25 values-vetted remote professionals in cozy Patagonian mountain cabins overlooking Nahuel Huapi Lake, centered on weekend adventures like paragliding, kayaking, and hiking.
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Timezone:** GMT-3 <small>· US East: full workday overlap · Central Europe: good overlap</small>

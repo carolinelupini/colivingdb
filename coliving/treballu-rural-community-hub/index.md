@@ -1,6 +1,6 @@
 # Treballu Rural Community Hub
 
-> Coliving in Laconi (Sardinia), Italy. Last updated July 11, 2026.
+> Coliving in Laconi (Sardinia), Italy. Last updated July 12, 2026.
 
 - **Location:** Laconi (Sardinia), Italy
 - **Type:** Permanent coliving
@@ -9,6 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=11468059881500840447&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (19 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
+- **Vibe:** Rural community experiment blending residency, creative collaboration, and village-life immersion — 'part residency, part community experiment, part festival-building'
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

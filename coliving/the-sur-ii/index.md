@@ -1,6 +1,6 @@
 # The Sur II
 
-> Coliving in Tulum, Mexico. Last updated July 11, 2026.
+> Coliving in Tulum, Mexico. Last updated July 12, 2026.
 
 - **Location:** Tulum, Mexico
 - **Type:** Permanent coliving
@@ -8,6 +8,8 @@
 - **Price note:** from BGN 1,650/month studio (~€844)
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 160 Mbps <small>· operator-reported</small>
+- **Vibe:** 'A sanctuary for digital nomads, entrepreneurs, artists and creatives' blending music, art, nature and technology, with live music, DJ sessions and art workshops.
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** North America
 - **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>

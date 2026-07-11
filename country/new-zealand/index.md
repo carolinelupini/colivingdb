@@ -1,6 +1,6 @@
 # Coliving in New Zealand
 
-> 3 colivings in New Zealand, prices from €700 to €815 per month – last updated July 11, 2026.
+> 3 colivings in New Zealand, prices from €700 to €815 per month – last updated July 12, 2026.
 
 ## All colivings
 

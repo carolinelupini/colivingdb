@@ -1,6 +1,6 @@
 # Coliving Condesa
 
-> Coliving in Mexico City, Mexico. Last updated July 11, 2026.
+> Coliving in Mexico City, Mexico. Last updated July 12, 2026.
 
 - **Location:** Mexico City, Mexico
 - **Type:** Permanent coliving
@@ -8,6 +8,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=8663276679112088254&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (47 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** 'Conecta, Comparte y Convive para sentirte como en CASA' (Connect, Share, and Live Together to feel at home) — a 'tranquil and professional' ambiance aimed at students near La Salle university.
 - **Community size:** 7 private rooms total (Master Suite sleeps 3, Junior Suite sleeps 2)
 - **Minimum stay:** —
 - **Region:** Latin America

@@ -1,6 +1,6 @@
 # Coliving in Cape Town, South Africa
 
-> 18 colivings in Cape Town, South Africa, prices from €170 to €3,506 per month – last updated July 11, 2026.
+> 17 colivings in Cape Town, South Africa, prices from €170 to €3,506 per month – last updated July 12, 2026.
 
 ## All colivings
 
@@ -8,7 +8,6 @@
 |---|---|---|---|---|---|---|
 | Neighbourgood East City | Cape Town | from R10,000/mo | 4.4 (367) | private, shared, dorm | — | Permanent |
 | Neighbourgood 113 Loop | Cape Town | from €345/mo | 4.6 (63) | private, shared | — | Permanent |
-| Neighbourgood | Cape Town | from R10,000/mo | 4.4 (367) | private | — | Permanent |
 | Nomadico Cape Town | Cape Town | from €609/mo | 5.0 (6) | private, shared | — | Permanent |
 | Neighbourgood Cape Quarter Living | Cape Town | from €749/mo | 4.4 (182) | private, shared | — | Permanent |
 | Neighbourgood Disandt House | Cape Town | from R13,000/mo | 4.9 (32) | private, shared | — | Permanent |
@@ -30,7 +29,7 @@
 | Band (EUR/mo) | Colivings |
 |---|---|
 | 0–500 | 2 |
-| 500–800 | 10 |
+| 500–800 | 9 |
 | 800–1200 | 1 |
 | 1200–2000 | 1 |
 | 2000–∞ | 2 |

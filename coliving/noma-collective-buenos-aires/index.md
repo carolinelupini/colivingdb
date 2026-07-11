@@ -1,6 +1,6 @@
 # Noma Collective — Buenos Aires
 
-> Coliving in Buenos Aires, Argentina. Last updated July 11, 2026.
+> Coliving in Buenos Aires, Argentina. Last updated July 12, 2026.
 
 - **Location:** Buenos Aires, Argentina
 - **Type:** Pop-up / dated edition
@@ -9,6 +9,7 @@
 - **Price note:** pp, all fees and taxes included
 - **Room types:** —
 - **Dorm available:** No
+- **Vibe:** Energetic, culture-rich urban edition for city lovers wanting Buenos Aires' fast pace, food scene, nightlife, architecture, and art.
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Timezone:** GMT-3 <small>· US East: full workday overlap · Central Europe: good overlap</small>

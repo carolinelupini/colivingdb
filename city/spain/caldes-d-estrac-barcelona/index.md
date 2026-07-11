@@ -1,6 +1,6 @@
 # Coliving in Caldes d'Estrac (Barcelona), Spain
 
-> 1 colivings in Caldes d'Estrac (Barcelona), Spain, prices from €780 to €780 per month – last updated July 11, 2026.
+> 1 colivings in Caldes d'Estrac (Barcelona), Spain, prices from €780 to €780 per month – last updated July 12, 2026.
 
 ## All colivings
 

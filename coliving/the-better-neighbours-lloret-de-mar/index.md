@@ -1,6 +1,6 @@
 # The Better Neighbours — Lloret de Mar
 
-> Coliving in Lloret de Mar, Spain. Last updated July 11, 2026.
+> Coliving in Lloret de Mar, Spain. Last updated July 12, 2026.
 
 - **Location:** Lloret de Mar, Spain
 - **Type:** Pop-up / dated edition
@@ -9,6 +9,7 @@
 - **Price note:** private double room w/ bathroom at Hotel Robson, coworking + shared kitchen + laundry, rooftop yoga, Spanish classes (subject to availability), day trips (Girona, Figueres, Barcelona) and local excursions.
 - **Room types:** —
 - **Dorm available:** No
+- **Vibe:** Retreat-style stay prioritizing privacy ('engage as much—or as little—as you wish') with optional community activities: rooftop yoga, coastal hikes, and participant-led workshops.
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

@@ -1,6 +1,6 @@
 # Colive Madeira
 
-> Coliving in Ponta do Sol, Madeira, Portugal. Last updated July 11, 2026.
+> Coliving in Ponta do Sol, Madeira, Portugal. Last updated July 12, 2026.
 
 - **Location:** Ponta do Sol, Madeira, Portugal
 - **Type:** Permanent coliving
@@ -8,6 +8,7 @@
 - **Price note:** from ~$108/night (Mill House); all-in, books via Booking.com
 - **Room types:** private, shared
 - **Dorm available:** No
+- **Vibe:** An adventure- and leisure-oriented coliving space in Ponta do Sol, right next to one of the island's best-rated hiking trails, with a covered outdoor lounge and large terrace for relaxing.
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>

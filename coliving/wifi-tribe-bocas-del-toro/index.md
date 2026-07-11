@@ -1,6 +1,6 @@
 # WiFi Tribe — Bocas del Toro
 
-> Coliving in Bocas del Toro, Panama. Last updated July 11, 2026.
+> Coliving in Bocas del Toro, Panama. Last updated July 12, 2026.
 
 - **Location:** Bocas del Toro, Panama
 - **Type:** Pop-up / dated edition
@@ -9,6 +9,8 @@
 - **Price note:** coliving accommodation (couples-sharing room, Veteran tier) for the month-long chapter
 - **Room types:** —
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 360 Mbps <small>· operator-reported</small>
+- **Vibe:** Waterfront island-archipelago chapter with a 'split personality' — peaceful, chill beach life by day balanced with backpacker party culture (including the 'infamous Filthy Friday').
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>

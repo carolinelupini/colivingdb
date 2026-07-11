@@ -1,6 +1,6 @@
 # AfricaNomads — Nairobi (Nov 2026)
 
-> Coliving in Nairobi, Kenya. Last updated July 11, 2026.
+> Coliving in Nairobi, Kenya. Last updated July 12, 2026.
 
 - **Location:** Nairobi, Kenya
 - **Type:** Pop-up / dated edition
@@ -9,6 +9,7 @@
 - **Price note:** From $1,760/mo (Standard tier). Also: D+Work $1,840/mo, Master $1,980/mo. Book 2+ months → $100 off each. Includes: private room, WiFi & Starlink, local SIM w/ data, weekly communal dinner, weekend activities, hosts + community.
 - **Room types:** —
 - **Dorm available:** No
+- **Vibe:** A community- and adventure-oriented space blending private rooms with shared living, weekly communal dinners, and a coworking area for remote workers exploring Nairobi's wildlife, markets, and culture.
 - **Minimum stay:** —
 - **Region:** Africa
 - **Timezone:** GMT+3 <small>· US East: your evenings · Central Europe: full workday overlap</small>

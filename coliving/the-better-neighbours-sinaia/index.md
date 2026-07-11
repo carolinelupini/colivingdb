@@ -1,6 +1,6 @@
 # The Better Neighbours — Sinaia
 
-> Coliving in Sinaia, Romania. Last updated July 11, 2026.
+> Coliving in Sinaia, Romania. Last updated July 12, 2026.
 
 - **Location:** Sinaia, Romania
 - **Type:** Pop-up / dated edition
@@ -9,6 +9,7 @@
 - **Price note:** private double room, coworking + cooking spaces, gym + spa access, nomad pass w/ restaurant discounts, Romanian language classes (subject to availability). Also offered: €180/wk, or a €870 all-inclusive tier adding daily breakfast buffet at Hotel Sinaia.
 - **Room types:** —
 - **Dorm available:** No
+- **Vibe:** A retreat blending a creative shared studio with community engagement — participant-led workshops, cultural and professional sessions (AI/wellness talks, public speaking, artist talks), local language classes, and a social art auction.
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

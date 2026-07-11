@@ -1,6 +1,6 @@
 # WiFi Tribe — Lake Ohrid
 
-> Coliving in Lake Ohrid, North Macedonia. Last updated July 11, 2026.
+> Coliving in Lake Ohrid, North Macedonia. Last updated July 12, 2026.
 
 - **Location:** Lake Ohrid, North Macedonia
 - **Type:** Pop-up / dated edition
@@ -9,6 +9,7 @@
 - **Price note:** coliving accommodation (shared room, Veteran tier) for the month-long chapter
 - **Room types:** —
 - **Dorm available:** No
+- **Vibe:** Monthly coliving/coworking chapter of 15-25 values-vetted remote professionals in the UNESCO World Heritage lakeside town of Ohrid, emphasizing tight-knit community.
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

@@ -1,6 +1,6 @@
 # Outsite Ericeira - Praia do Sul
 
-> Coliving in Ericeira, Portugal. Last updated July 11, 2026.
+> Coliving in Ericeira, Portugal. Last updated July 12, 2026.
 
 - **Location:** Ericeira, Portugal
 - **Type:** Permanent coliving
@@ -9,6 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=3232610378806428563&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (15 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** Surf-focused, adventure-oriented — 'Slow down in Ericeira,' positioned for 'digital nomads, surf travelers, and groups.'
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>

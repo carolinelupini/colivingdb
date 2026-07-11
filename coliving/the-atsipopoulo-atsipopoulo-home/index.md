@@ -1,6 +1,6 @@
 # The Atsipopoulo (Atsipopoulo Home)
 
-> Coliving in Atsipopoulo, Greece. Last updated July 11, 2026.
+> Coliving in Atsipopoulo, Greece. Last updated July 12, 2026.
 
 - **Location:** Atsipopoulo, Greece
 - **Type:** Permanent coliving
@@ -8,6 +8,7 @@
 - **Price note:** est. ~$640/mo cheapest studio; listing BGN figures inconsistent
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** Community-living concept for like-minded people to live, work, and play together, with traditional Greek hospitality
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

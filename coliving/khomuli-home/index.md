@@ -1,6 +1,6 @@
 # Khomuli Home
 
-> Coliving in Khomuli, Georgia. Last updated July 11, 2026.
+> Coliving in Khomuli, Georgia. Last updated July 12, 2026.
 
 - **Location:** Khomuli, Georgia
 - **Type:** Permanent coliving
@@ -8,6 +8,8 @@
 - **Price note:** from BGN 376/mo (~€192) shared room
 - **Room types:** private, shared
 - **Dorm available:** Yes
+- **Wi-Fi (on-site):** 80 Mbps <small>· operator-reported</small>
+- **Vibe:** Eco-coliving in Georgian nature balancing productivity and relaxation, with campfire evenings and nomad meetups
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
 - **Timezone:** GMT+4 <small>· US East: async only · Central Europe: full workday overlap</small>

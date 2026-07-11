@@ -1,6 +1,6 @@
 # Petit Velan Coliving
 
-> Coliving in Bourg-Saint-Pierre, Switzerland. Last updated July 11, 2026.
+> Coliving in Bourg-Saint-Pierre, Switzerland. Last updated July 12, 2026.
 
 - **Location:** Bourg-Saint-Pierre, Switzerland
 - **Type:** Permanent coliving
@@ -8,6 +8,7 @@
 - **Price note:** shared room 500 CHF/28 nights off-season (winter 600 CHF); private 800–1200 CHF/28 nights
 - **Room types:** private, shared
 - **Dorm available:** No
+- **Vibe:** Alpine coliving blending adventure (ski-touring weeks, hiking weeks, yoga weeks) with an open, international, community-centered atmosphere for digital nomads and workation guests
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

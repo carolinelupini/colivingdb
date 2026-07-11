@@ -1,6 +1,6 @@
 # Swiss Alps Coliving
 
-> Coliving in Liddes, Switzerland. Last updated July 11, 2026.
+> Coliving in Liddes, Switzerland. Last updated July 12, 2026.
 
 - **Location:** Liddes, Switzerland
 - **Type:** Permanent coliving
@@ -8,6 +8,7 @@
 - **Price note:** from €500/month shared; ~€226/week rooms
 - **Room types:** private, shared
 - **Dorm available:** No
+- **Vibe:** A warm mountain community for remote workers and adventurers, built around shared stories, meals, and learning among curious, creative people worldwide.
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

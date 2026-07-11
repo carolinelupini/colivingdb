@@ -1,6 +1,6 @@
 # Kaya Connections — General Luna, Siargao
 
-> Coliving in General Luna, Siargao, Philippines. Last updated July 11, 2026.
+> Coliving in General Luna, Siargao, Philippines. Last updated July 12, 2026.
 
 - **Location:** General Luna, Siargao, Philippines
 - **Type:** Pop-up / dated edition

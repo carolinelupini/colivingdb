@@ -1,6 +1,6 @@
 # Draper Startup House Buenos Aires
 
-> Coliving in Buenos Aires, Argentina. Last updated July 11, 2026.
+> Coliving in Buenos Aires, Argentina. Last updated July 12, 2026.
 
 - **Location:** Buenos Aires, Argentina
 - **Type:** Permanent coliving
@@ -8,6 +8,7 @@
 - **Price note:** not published on site
 - **Room types:** private, shared, dorm
 - **Dorm available:** Yes
+- **Vibe:** A global coworking/coliving platform for entrepreneurs, remote workers, and digital nomads set in San Telmo, with a rooftop terrace, ping pong, movie screenings, barbecues, and Spanish classes contributing to a fantastic community vibe.
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Timezone:** GMT-3 <small>· US East: full workday overlap · Central Europe: good overlap</small>

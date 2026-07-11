@@ -1,6 +1,6 @@
 # Coliving in Langeais, France
 
-> 1 colivings in Langeais, France, prices from €655 to €655 per month – last updated July 11, 2026.
+> 1 colivings in Langeais, France, prices from €655 to €655 per month – last updated July 12, 2026.
 
 ## All colivings
 

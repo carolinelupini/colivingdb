@@ -1,6 +1,6 @@
 # Draper Startup House Hyderabad
 
-> Coliving in Hyderabad, India. Last updated July 11, 2026.
+> Coliving in Hyderabad, India. Last updated July 12, 2026.
 
 - **Location:** Hyderabad, India
 - **Type:** Permanent coliving
@@ -9,6 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=2963118552657843424&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (521 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared, dorm
 - **Dorm available:** Yes
+- **Vibe:** Entrepreneur-focused startup coliving/coworking community built for founders, innovators, and investors to collaborate.
 - **Minimum stay:** —
 - **Region:** Asia
 - **Timezone:** GMT+5:30 <small>· US East: async only · Central Europe: good overlap</small>

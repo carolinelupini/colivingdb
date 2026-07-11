@@ -1,6 +1,6 @@
 # Sun and Co.
 
-> Coliving in Jávea, Spain. Last updated July 11, 2026.
+> Coliving in Jávea, Spain. Last updated July 12, 2026.
 
 - **Location:** Jávea, Spain
 - **Type:** Permanent coliving
@@ -8,6 +8,7 @@
 - **Price note:** from €23/night shared, €40/night private
 - **Room types:** private, shared
 - **Dorm available:** No
+- **Vibe:** Diverse, inclusive community of location-independent professionals in Jávea's old town, sharing meals and deep conversation in a relaxed, creative, slow-living atmosphere.
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

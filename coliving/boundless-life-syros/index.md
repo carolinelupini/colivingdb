@@ -1,6 +1,6 @@
 # Boundless Life — Syros
 
-> Coliving in Syros, Greece. Last updated July 11, 2026.
+> Coliving in Syros, Greece. Last updated July 12, 2026.
 
 - **Location:** Syros, Greece
 - **Type:** Pop-up / dated edition
@@ -9,6 +9,7 @@
 - **Price note:** children's education (5 days/wk, ages 1.5-14), all meals, 24/7 coworking, community activities, furnished apartment + utilities
 - **Room types:** —
 - **Dorm available:** No
+- **Vibe:** Family-focused remote-work community in Syros combining coworking infrastructure with adventure, culture, and daily social meetups for parents and kids.
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

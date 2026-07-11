@@ -1,6 +1,6 @@
 # Taeparak Home
 
-> Coliving in Chiang Mai, Thailand. Last updated July 11, 2026.
+> Coliving in Chiang Mai, Thailand. Last updated July 12, 2026.
 
 - **Location:** Chiang Mai, Thailand
 - **Type:** Permanent coliving
@@ -8,6 +8,8 @@
 - **Price note:** from BGN 554/mo dorm ≈ €283; private ~€551
 - **Room types:** private, dorm
 - **Dorm available:** Yes
+- **Wi-Fi (on-site):** 1000 Mbps <small>· operator-reported</small>
+- **Vibe:** 'Built for nomads, by nomads' — a friendly, respectful, interactive community with skill-sharing and group activities.
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Asia
 - **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>

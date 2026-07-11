@@ -1,6 +1,6 @@
 # Coliving in Italy
 
-> 32 colivings in Italy, prices from €40 to €2,100 per month – last updated July 11, 2026.
+> 31 colivings in Italy, prices from €40 to €2,100 per month – last updated July 12, 2026.
 
 ## All colivings
 
@@ -35,7 +35,6 @@
 | Nesting Away - Coliving in Italy | Rome | from €41/night | 4.8 (51) | private | 14 nights (~2 weeks) | Permanent |
 | Spacebility | Cagliari (Sardinia) | On request | 4.9 (628) | private | — | Permanent |
 | Taste Remote | Civita Castellana | from €690 per event | — | private, shared | 7 nights (~1 week) | Pop-up |
-| Treballu Rural Coliving | Laconi | On request | 4.6 (19) | private, shared | — | Permanent |
 | Treballu Rural Community Hub | Laconi (Sardinia) | On request | 4.6 (19) | private, shared | — | Permanent |
 | Wome coliving | Campo Tartano (Val Tartano) | On request | 5.0 (31) | private, shared | 8 nights | Permanent |
 

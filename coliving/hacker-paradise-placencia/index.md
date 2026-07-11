@@ -1,6 +1,6 @@
 # Hacker Paradise — Placencia
 
-> Coliving in Placencia, Belize. Last updated July 11, 2026.
+> Coliving in Placencia, Belize. Last updated July 12, 2026.
 
 - **Location:** Placencia, Belize
 - **Type:** Pop-up / dated edition
@@ -9,6 +9,7 @@
 - **Price note:** beachfront accommodation, coworking space, wifi + local SIM, airport transfers, community manager; flights/food/insurance not included
 - **Room types:** —
 - **Dorm available:** No
+- **Vibe:** Laid-back Caribbean coastal edition blending adventure (diving, jungle, Mayan ruins) with community activities and calm evenings
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>

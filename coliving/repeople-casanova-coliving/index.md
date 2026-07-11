@@ -1,6 +1,6 @@
 # Repeople Casanova Coliving
 
-> Coliving in Las Palmas de Gran Canaria, Spain. Last updated July 11, 2026.
+> Coliving in Las Palmas de Gran Canaria, Spain. Last updated July 12, 2026.
 
 - **Location:** Las Palmas de Gran Canaria, Spain
 - **Type:** Permanent coliving
@@ -9,6 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=18133329006221814077&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (2 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** A community-oriented, work-focused coliving space in Ciudad Jardín with outdoor areas to enjoy Gran Canaria's climate, part of the broader Repeople brand emphasis on living with like-minded people and exploring collaborations while working remotely.
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>

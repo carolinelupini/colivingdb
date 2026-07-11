@@ -1,6 +1,6 @@
 # Hacker Paradise — Porto
 
-> Coliving in Porto, Portugal. Last updated July 11, 2026.
+> Coliving in Porto, Portugal. Last updated July 12, 2026.
 
 - **Location:** Porto, Portugal
 - **Type:** Pop-up / dated edition

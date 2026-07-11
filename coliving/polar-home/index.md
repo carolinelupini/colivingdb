@@ -1,6 +1,6 @@
 # Polar Home
 
-> Coliving in Tulum, Mexico. Last updated July 11, 2026.
+> Coliving in Tulum, Mexico. Last updated July 12, 2026.
 
 - **Location:** Tulum, Mexico
 - **Type:** Permanent coliving
@@ -8,6 +8,8 @@
 - **Price note:** from BGN 392/mo (8-bed dorm)
 - **Room types:** dorm
 - **Dorm available:** Yes
+- **Wi-Fi (on-site):** 5 Mbps <small>· operator-reported</small>
+- **Vibe:** Lively, social Tulum coliving for digital nomads, surfers, and young professionals, with a terrace bar, nightlife outings, community dinners, and skill-sharing workshops.
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** North America
 - **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>

@@ -1,6 +1,6 @@
 # Noma Collective — Hoi An
 
-> Coliving in Hoi An, Vietnam. Last updated July 11, 2026.
+> Coliving in Hoi An, Vietnam. Last updated July 12, 2026.
 
 - **Location:** Hoi An, Vietnam
 - **Type:** Pop-up / dated edition
@@ -9,6 +9,7 @@
 - **Price note:** pp, all fees and taxes included
 - **Room types:** —
 - **Dorm available:** No
+- **Vibe:** Serene, slow-living travel-coliving edition set among rice fields near Hoi An's UNESCO heritage town, blending rural tranquility with curated group culture.
 - **Minimum stay:** —
 - **Region:** Asia
 - **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>

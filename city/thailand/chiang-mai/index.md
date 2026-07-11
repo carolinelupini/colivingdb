@@ -1,6 +1,6 @@
 # Coliving in Chiang Mai, Thailand
 
-> 12 colivings in Chiang Mai, Thailand, prices from €242 to €811 per month – last updated July 11, 2026.
+> 11 colivings in Chiang Mai, Thailand, prices from €242 to €811 per month – last updated July 12, 2026.
 
 ## All colivings
 
@@ -10,7 +10,6 @@
 | Taeparak Home | Chiang Mai | from $324/mo | — | private, dorm | 30 nights (~1 month) | Permanent |
 | Socialer Coliving & Coworking Space | Chiang Mai | from €390/mo | 4.6 (70) | dorm | 1 night | Permanent |
 | Alt Coliving | Chiang Mai | from €500/mo | 4.9 (242) | private | 30 nights (~1 month) | Permanent |
-| Alt Chiang Mai | Chiang Mai | from €720/mo | 4.9 (242) | private | 6 nights | Permanent |
 | THE SOCIAL CLUB | Chiang Mai | from $800/mo | 4.9 (200) | private | — | Permanent |
 | The Chiang Mai-Lamphun | Chiang Mai | from $842/mo | — | private | 30 nights (~1 month) | Permanent |
 | Alt_PingRiver | Chiang Mai | from €810/mo | 4.8 (109) | private | 29 nights | Permanent |
@@ -24,7 +23,7 @@
 | Band (EUR/mo) | Colivings |
 |---|---|
 | 0–500 | 3 |
-| 500–800 | 4 |
+| 500–800 | 3 |
 | 800–1200 | 2 |
 
 Source: https://colivingdb.com/city/thailand/chiang-mai/

@@ -1,6 +1,6 @@
 # Noma Collective — Playa Grande
 
-> Coliving in Playa Grande, Costa Rica. Last updated July 11, 2026.
+> Coliving in Playa Grande, Costa Rica. Last updated July 12, 2026.
 
 - **Location:** Playa Grande, Costa Rica
 - **Type:** Pop-up / dated edition
@@ -9,6 +9,7 @@
 - **Price note:** pp, + fees and taxes (not included)
 - **Room types:** —
 - **Dorm available:** No
+- **Vibe:** A social, high-energy retreat blending the community feel of a hostel with hotel comforts in a laid-back surf town wrapped in nature — casual, beach-house style stays centered on surfing, beach access, and group bonding.
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>

@@ -1,6 +1,6 @@
 # The Bolesławiecka (Bolesławiecka Home)
 
-> Coliving in Wrocław, Poland. Last updated July 11, 2026.
+> Coliving in Wrocław, Poland. Last updated July 12, 2026.
 
 - **Location:** Wrocław, Poland
 - **Type:** Permanent coliving
@@ -8,6 +8,8 @@
 - **Price note:** from BGN 1,260/mo private (~€644)
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 300 Mbps <small>· operator-reported</small>
+- **Vibe:** A homey, intimate coliving space shared with just two other rooms, run by a slow traveler for like-minded digital nomads, professionals, and students, with community dinners, movie nights, and social mixers in a relaxingly peaceful, central location.
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

@@ -1,6 +1,6 @@
 # Coliving in New York, United States
 
-> 3 colivings in New York, United States, prices from €3,415 to €3,993 per month – last updated July 11, 2026.
+> 3 colivings in New York, United States, prices from €3,415 to €3,993 per month – last updated July 12, 2026.
 
 ## All colivings
 

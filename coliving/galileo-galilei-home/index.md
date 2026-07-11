@@ -1,6 +1,6 @@
 # Galileo Galilei Home
 
-> Coliving in Matera, Italy. Last updated July 11, 2026.
+> Coliving in Matera, Italy. Last updated July 12, 2026.
 
 - **Location:** Matera, Italy
 - **Type:** Permanent coliving
@@ -8,6 +8,8 @@
 - **Price note:** from BGN 1,467/mo (~€750) 4-bed shared room
 - **Room types:** private, shared
 - **Dorm available:** Yes
+- **Wi-Fi (on-site):** 100 Mbps <small>· operator-reported</small>
+- **Vibe:** 'A collaborative community without boundaries (multicultural, multi-ethnic, multigenerational, and lgbtqia+)' focused on cultural exchange.
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

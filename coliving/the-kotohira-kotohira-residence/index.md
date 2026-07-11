@@ -1,6 +1,6 @@
 # The Kotohira (Kotohira Residence)
 
-> Coliving in Kotohira, Japan. Last updated July 11, 2026.
+> Coliving in Kotohira, Japan. Last updated July 12, 2026.
 
 - **Location:** Kotohira, Japan
 - **Type:** Permanent coliving
@@ -8,6 +8,8 @@
 - **Price note:** from BGN 740/mo dorm (~€378); private ~€632
 - **Room types:** private, shared, dorm
 - **Dorm available:** Yes
+- **Wi-Fi (on-site):** 496 Mbps <small>· operator-reported</small>
+- **Vibe:** Positioned as "the perfect blend of work and travel," attracting a vibrant, welcoming mix of digital nomads, remote workers, creatives, and entrepreneurs focused on building meaningful connections.
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Asia
 - **Timezone:** GMT+9 <small>· US East: async only · Central Europe: your evenings</small>

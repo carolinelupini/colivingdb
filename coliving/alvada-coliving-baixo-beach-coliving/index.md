@@ -1,6 +1,6 @@
 # Alvada Coliving (Baixo Beach Coliving)
 
-> Coliving in Ponta do Sol, Madeira, Portugal. Last updated July 11, 2026.
+> Coliving in Ponta do Sol, Madeira, Portugal. Last updated July 12, 2026.
 
 - **Location:** Ponta do Sol, Madeira, Portugal
 - **Type:** Permanent coliving

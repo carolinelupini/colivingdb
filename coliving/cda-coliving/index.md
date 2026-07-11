@@ -1,12 +1,13 @@
 # CDA Coliving
 
-> Coliving in Sydney, Australia. Last updated July 11, 2026.
+> Coliving in Sydney, Australia. Last updated July 12, 2026.
 
 - **Location:** Sydney, Australia
 - **Type:** Permanent coliving
 - **Price:** from A$780/mo
 - **Room types:** private, shared
 - **Dorm available:** No
+- **Vibe:** 'Flexible, stress-free living with everything included' — practical comfort rather than a strong social or party identity.
 - **Minimum stay:** 90 nights (~3 months)
 - **Region:** Oceania
 - **Timezone:** GMT+11 winter / GMT+10 summer <small>· US East: async only · Central Europe: async only</small>

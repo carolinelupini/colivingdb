@@ -1,6 +1,6 @@
 # La Jabonería | 4wanders | Coliving & Experiences
 
-> Coliving in Valencia, Spain. Last updated July 11, 2026.
+> Coliving in Valencia, Spain. Last updated July 12, 2026.
 
 - **Location:** Valencia, Spain
 - **Type:** Permanent coliving
@@ -8,6 +8,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=706018323695231720&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (19 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** Collaborative, community-driven coliving in Valencia for digital nomads seeking a free, flexible lifestyle open to other cultures, built on shared projects and ideas.
 - **Minimum stay:** 20 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

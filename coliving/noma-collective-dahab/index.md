@@ -1,6 +1,6 @@
 # Noma Collective — Dahab
 
-> Coliving in Dahab, Egypt. Last updated July 11, 2026.
+> Coliving in Dahab, Egypt. Last updated July 12, 2026.
 
 - **Location:** Dahab, Egypt
 - **Type:** Pop-up / dated edition
@@ -9,6 +9,7 @@
 - **Price note:** pp, plus fees and taxes
 - **Room types:** —
 - **Dorm available:** No
+- **Vibe:** Laid-back, bohemian dive-town retreat built around diving, desert exploration, Bedouin culture, and slow living rather than productivity.
 - **Minimum stay:** —
 - **Region:** Africa
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

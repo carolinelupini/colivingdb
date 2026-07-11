@@ -1,6 +1,6 @@
 # Circles House Barcelona
 
-> Coliving in Barcelona, Spain. Last updated July 11, 2026.
+> Coliving in Barcelona, Spain. Last updated July 12, 2026.
 
 - **Location:** Barcelona, Spain
 - **Type:** Permanent coliving

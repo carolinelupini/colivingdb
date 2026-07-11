@@ -1,6 +1,6 @@
 # Tursi Digital Nomads — Parga
 
-> Coliving in Parga, Greece. Last updated July 11, 2026.
+> Coliving in Parga, Greece. Last updated July 12, 2026.
 
 - **Location:** Parga, Greece
 - **Type:** Pop-up / dated edition
@@ -9,6 +9,7 @@
 - **Price note:** shared studio, per person, 3-week program; workspace, high-speed internet, utilities, community management
 - **Room types:** —
 - **Dorm available:** No
+- **Vibe:** Coastal Greek retreat balancing work with creativity-fostering activities, bonding trips, and slow sunsets.
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

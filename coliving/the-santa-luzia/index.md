@@ -1,6 +1,6 @@
 # The Santa Luzia
 
-> Coliving in Funchal, Portugal. Last updated July 11, 2026.
+> Coliving in Funchal, Portugal. Last updated July 12, 2026.
 
 - **Location:** Funchal, Portugal
 - **Type:** Permanent coliving
@@ -8,6 +8,8 @@
 - **Price note:** from BGN 2,915/mo private room
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 760 Mbps <small>· operator-reported</small>
+- **Vibe:** 'The atmosphere is social but respectful, with a strong focus on quiet work hours during the day.'
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>

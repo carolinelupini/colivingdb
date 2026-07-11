@@ -1,6 +1,6 @@
 # Coliving in Portugal
 
-> 70 colivings in Portugal, prices from €150 to €2,249 per month – last updated July 11, 2026.
+> 64 colivings in Portugal, prices from €150 to €2,249 per month – last updated July 12, 2026.
 
 ## All colivings
 
@@ -11,16 +11,13 @@
 | Coliving The VALLEY with Coworking Space | Rogé, Vale de Cambra | from €510/mo | 5.0 (33) | private | 5 nights | Permanent |
 | Quinta Da Carvalheira | Soure | from €510/mo | 5.0 (14) | — | 1 night | Permanent |
 | Nomadico Coliving Ericeira | Ericeira | from €542/mo | 4.9 (28) | private, shared | 7 nights (~1 week) | Permanent |
-| Nomadico Ericeira (Sea View Hub) | Ericeira | from €542/mo | 4.9 (28) | private, shared | 7 nights (~1 week) | Permanent |
 | Caminho Coliving | Moreira, Maia (Porto area) | from €595/mo | 4.9 (9) | private, dorm | — | Permanent |
 | LIV Colife - Coliving | Porto | from €660/mo | 3.9 (54) | private | — | Permanent |
 | Wild Oasis Algarve | Monchique | from €650/mo | 4.6 (73) | private | — | Permanent |
 | Novovento | Ginetes, São Miguel, Azores | from €300/mo | 4.8 (48) | private | 7 nights (~1 week) | Permanent |
 | Lava Coliving & Coworking | Ribeira Grande, São Miguel | from €25/night | 4.9 (60) | private, shared | 7 nights (~1 week) | Permanent |
-| Lava Coliving (LAVA Acores) | Ribeira Grande, Sao Miguel, Azores | from €750/mo | 4.9 (60) | private, shared | — | Permanent |
 | Calcada Coliving (Calçada Guesthouse) | Tavira | from €780/mo | 4.9 (90) | private | 29 nights | Permanent |
 | Outsite Algarve - Sagres | Sagres | from €800/mo | 4.4 (23) | private | — | Permanent |
-| Outsite Coliving Lisbon (Cais do Sodré) | Lisbon | from €800/mo | 4.4 (79) | private | — | Permanent |
 | Outsite Ericeira - Boavista | Ericeira | from €800/mo | — | private | — | Permanent |
 | Outsite Ericeira - Centro | Ericeira | from €800/mo | 4.7 (34) | private | — | Permanent |
 | Outsite Lisbon - Cais do Sodre | Lisbon | from €800/mo | 4.5 (175) | private | — | Permanent |
@@ -39,12 +36,9 @@
 | Três Bandeiras Coliving | Carvoeira (near Ericeira) | from €800/mo | 4.5 (41) | private | 28 nights (~4 weeks) | Permanent |
 | VivendaFelicidade Regenerative Farm & Surf Coliving | Sintra (Tojeira) | from €1,040/mo | 5.0 (47) | private | 7 nights (~1 week) | Permanent |
 | Casa do Pico | Funchal, Madeira | from €1,050/mo | 5.0 (32) | private, shared | — | Permanent |
-| Casa do Pico by Madeira Remote | Funchal, Madeira | from €1,200/mo | 5.0 (32) | private | 7 nights (~1 week) | Permanent |
 | POMAR Coliving - NA PRAIA | Fuseta | from €1,200/mo | 5.0 (77) | private | 28 nights (~4 weeks) | Permanent |
 | Birds of Paradise | Aljezur | from €1,260/mo | 5.0 (145) | private | 14 nights (~2 weeks) | Permanent |
 | Pomar Coliving | Moncarapacho (Algarve) | from €1,290/mo | 5.0 (77) | private | — | Permanent |
-| samesame living | Lisbon | from €1,320/mo | 4.8 (84) | private | 8 nights | Permanent |
-| Coliving Ericeira by Barefoot Portugal | Ericeira (Santo Isidoro) | from €1,350/mo | 4.9 (127) | private | 1 night | Permanent |
 | WiFi Tribe — Ponta Delgada (Azores) | Ponta Delgada (Azores) | from $1,590/mo | — | — | — | Pop-up |
 | Quinta do Cabeço Alto - Coliving & Coworking Retreat Venue - Madeira Island | Ponta do Sol | from €1,400/mo | 5.0 (23) | private, shared | — | Permanent |
 | NomaVillage | Lagos | from €1,420/mo | 4.8 (18) | private | 14 nights (~2 weeks) | Permanent |
@@ -82,9 +76,9 @@
 | Band (EUR/mo) | Colivings |
 |---|---|
 | 0–500 | 2 |
-| 500–800 | 11 |
-| 800–1200 | 19 |
-| 1200–2000 | 16 |
+| 500–800 | 9 |
+| 800–1200 | 18 |
+| 1200–2000 | 13 |
 | 2000–∞ | 3 |
 
 ## Upcoming pop-ups

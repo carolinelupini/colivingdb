@@ -1,6 +1,6 @@
 # Noma Collective — Athens
 
-> Coliving in Athens, Greece. Last updated July 11, 2026.
+> Coliving in Athens, Greece. Last updated July 12, 2026.
 
 - **Location:** Athens, Greece
 - **Type:** Pop-up / dated edition
@@ -9,6 +9,7 @@
 - **Price note:** pp, all fees and taxes included
 - **Room types:** —
 - **Dorm available:** No
+- **Vibe:** Historically immersive travel-coliving edition blending ancient landmarks and modern Mediterranean nightlife for culturally curious remote workers.
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

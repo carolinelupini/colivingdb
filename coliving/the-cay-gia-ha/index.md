@@ -1,6 +1,6 @@
 # The Cây Giá Hạ
 
-> Coliving in Hoi An, Vietnam. Last updated July 11, 2026.
+> Coliving in Hoi An, Vietnam. Last updated July 12, 2026.
 
 - **Location:** Hoi An, Vietnam
 - **Type:** Permanent coliving
@@ -8,6 +8,8 @@
 - **Price note:** from BGN 718/month private (~€367)
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 129 Mbps <small>· operator-reported</small>
+- **Vibe:** Peaceful countryside retreat for digital nomads and entrepreneurs seeking quiet, dedicated work space over a social scene
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Asia
 - **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>

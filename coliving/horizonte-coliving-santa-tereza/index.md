@@ -1,6 +1,6 @@
 # Horizonte Coliving - Santa Tereza
 
-> Coliving in Belo Horizonte, Brazil. Last updated July 11, 2026.
+> Coliving in Belo Horizonte, Brazil. Last updated July 12, 2026.
 
 - **Location:** Belo Horizonte, Brazil
 - **Type:** Permanent coliving
@@ -8,6 +8,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=9499867819293009548&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (25 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** A bohemian Santa Tereza coliving space for those navigating life transitions with lightness, comfort, and a sense of community — mural-covered houses, live music events, shared meals, and kitchen conversations that turn into meaningful encounters.
 - **Community size:** At least 8-room house
 - **Minimum stay:** —
 - **Region:** Latin America

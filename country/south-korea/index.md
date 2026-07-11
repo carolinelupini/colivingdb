@@ -1,6 +1,6 @@
 # Coliving in South Korea
 
-> 4 colivings in South Korea, prices from €524 to €990 per month – last updated July 11, 2026.
+> 3 colivings in South Korea, prices from €524 to €990 per month – last updated July 12, 2026.
 
 ## All colivings
 
@@ -8,7 +8,6 @@
 |---|---|---|---|---|---|---|
 | Hoppin House | Seoul (Yeonnam/Hongdae) | from KRW 900,000/mo | 4.9 (77) | private, shared | — | Permanent |
 | Seoul Nooks Community Living | Seoul | from €990/mo | — | private | 14 nights (~2 weeks) | Permanent |
-| Draper Startup House Seoul | Seoul | On request | — | private, shared | — | Permanent |
 | Noma Collective — Busan | Busan | from $3,490 per event | — | — | — | Pop-up |
 
 ## Price distribution

@@ -1,6 +1,6 @@
 # Hiriketiya Home
 
-> Coliving in Hiriketiya (Dickwella), Matara, Sri Lanka. Last updated July 11, 2026.
+> Coliving in Hiriketiya (Dickwella), Matara, Sri Lanka. Last updated July 12, 2026.
 
 - **Location:** Hiriketiya (Dickwella), Matara, Sri Lanka
 - **Type:** Permanent coliving
@@ -9,6 +9,8 @@
 - **Rating:** <a href="https://maps.google.com/?cid=5904124968667354870&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (18 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** Yes
+- **Wi-Fi (on-site):** 120 Mbps <small>· operator-reported</small>
+- **Vibe:** Calm, comfy jungle-side beach villa built by former guests, centered on surf, wellness and jungle exploration — 'come for a week, stay for a season.'
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Asia
 - **Timezone:** GMT+5:30 <small>· US East: async only · Central Europe: good overlap</small>

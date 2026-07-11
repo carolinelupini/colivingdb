@@ -1,6 +1,6 @@
 # The Hill
 
-> Coliving in Cape Town, South Africa. Last updated July 11, 2026.
+> Coliving in Cape Town, South Africa. Last updated July 12, 2026.
 
 - **Location:** Cape Town, South Africa
 - **Type:** Permanent coliving
@@ -8,6 +8,8 @@
 - **Price note:** from BGN 2,375/mo
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 125 Mbps <small>· operator-reported</small>
+- **Vibe:** Warm, vibrant community blending wellness (yoga, pool, garden) with social and collaborative work culture
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Africa
 - **Timezone:** GMT+2 <small>· US East: your evenings · Central Europe: full workday overlap</small>

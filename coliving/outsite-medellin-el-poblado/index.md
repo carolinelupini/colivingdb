@@ -1,6 +1,6 @@
 # Outsite Medellin - El Poblado
 
-> Coliving in Medellin, Colombia. Last updated July 11, 2026.
+> Coliving in Medellin, Colombia. Last updated July 12, 2026.
 
 - **Location:** Medellin, Colombia
 - **Type:** Permanent coliving
@@ -9,6 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=15930307732693635066&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 2.6 (5 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** 'Bright, airy living in a leafy neighborhood,' blending modern design with greenery — 'the perfect mix of urban convenience and tropical calm' in Medellín's most social neighborhood.
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>

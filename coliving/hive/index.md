@@ -1,6 +1,6 @@
 # HIVE
 
-> Coliving in Dubai, United Arab Emirates. Last updated July 11, 2026.
+> Coliving in Dubai, United Arab Emirates. Last updated July 12, 2026.
 
 - **Location:** Dubai, United Arab Emirates
 - **Type:** Permanent coliving
@@ -8,6 +8,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=7769259054890055199&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (54 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** 'A Living Collective' — community-driven residential spaces with programming (art shows, talks) designed for shared experience and connection.
 - **Minimum stay:** —
 - **Region:** Asia
 - **Timezone:** GMT+4 <small>· US East: async only · Central Europe: full workday overlap</small>

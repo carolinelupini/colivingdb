@@ -1,6 +1,6 @@
 # Coliving in Nyksund, Norway
 
-> 1 colivings in Nyksund, Norway, prices from €522 to €522 per month – last updated July 11, 2026.
+> 1 colivings in Nyksund, Norway, prices from €522 to €522 per month – last updated July 12, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Outsite Barcelona - Gothic Quarter
 
-> Coliving in Barcelona, Spain. Last updated July 11, 2026.
+> Coliving in Barcelona, Spain. Last updated July 12, 2026.
 
 - **Location:** Barcelona, Spain
 - **Type:** Permanent coliving
@@ -9,6 +9,8 @@
 - **Rating:** <a href="https://maps.google.com/?cid=18326668496720726155&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (25 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 800 Mbps <small>· operator-reported</small>
+- **Vibe:** A "Slow City Living" coliving space in a historic, thoughtfully renovated Gothic Quarter building, positioned as a "Creative Old Town" retreat steps from indie cafés, pintxos bars, and centuries-old alleyways for leisurely exploration.
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

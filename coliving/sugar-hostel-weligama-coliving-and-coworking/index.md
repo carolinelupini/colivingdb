@@ -1,6 +1,6 @@
 # Sugar Hostel Weligama - Coliving & Coworking
 
-> Coliving in Weligama, Sri Lanka. Last updated July 11, 2026.
+> Coliving in Weligama, Sri Lanka. Last updated July 12, 2026.
 
 - **Location:** Weligama, Sri Lanka
 - **Type:** Permanent coliving
@@ -8,6 +8,8 @@
 - **Rating:** <a href="https://maps.google.com/?cid=13848112196484054190&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (337 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
+- **Wi-Fi (on-site):** 300 Mbps <small>· operator-reported</small>
+- **Vibe:** A boho-charm hostel/coliving space with a chill yet productive vibe, 100 meters from the surf point, blending a co-working cafe with a friendly, laid-back community of travelers, surfers, and digital nomads (self-described as not a party hostel).
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Asia
 - **Timezone:** GMT+5:30 <small>· US East: async only · Central Europe: good overlap</small>

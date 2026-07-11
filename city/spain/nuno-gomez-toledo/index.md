@@ -1,6 +1,6 @@
 # Coliving in Nuño Gómez, Toledo, Spain
 
-> 1 colivings in Nuño Gómez, Toledo, Spain, prices from €540 to €540 per month – last updated July 11, 2026.
+> 1 colivings in Nuño Gómez, Toledo, Spain, prices from €540 to €540 per month – last updated July 12, 2026.
 
 ## All colivings
 

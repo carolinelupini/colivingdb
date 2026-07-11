@@ -1,6 +1,6 @@
 # Macaw 25 Coliving
 
-> Coliving in Las Palmas de Gran Canaria, Spain. Last updated July 11, 2026.
+> Coliving in Las Palmas de Gran Canaria, Spain. Last updated July 12, 2026.
 
 - **Location:** Las Palmas de Gran Canaria, Spain
 - **Type:** Permanent coliving
@@ -8,6 +8,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=4649714622742678022&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (26 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** 'Live, work, connect' — a professional coworking space for remote workers and digital nomads balancing productivity with community
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>

@@ -1,6 +1,6 @@
 # The Chile
 
-> Coliving in Buenos Aires, Argentina. Last updated July 11, 2026.
+> Coliving in Buenos Aires, Argentina. Last updated July 12, 2026.
 
 - **Location:** Buenos Aires, Argentina
 - **Type:** Permanent coliving
@@ -8,6 +8,8 @@
 - **Price note:** from BGN 1,167/month private (~€597)
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 200 Mbps <small>· operator-reported</small>
+- **Vibe:** 'A warm and international community of remote workers, creatives, and long-term travelers' who value connection, comfort, and shared experiences.
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Latin America
 - **Timezone:** GMT-3 <small>· US East: full workday overlap · Central Europe: good overlap</small>

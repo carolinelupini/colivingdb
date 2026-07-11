@@ -1,6 +1,6 @@
 # Banana House (Ponta do Sol Coliving)
 
-> Coliving in Ponta do Sol, Madeira, Portugal. Last updated July 11, 2026.
+> Coliving in Ponta do Sol, Madeira, Portugal. Last updated July 12, 2026.
 
 - **Location:** Ponta do Sol, Madeira, Portugal
 - **Type:** Permanent coliving
@@ -9,6 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=8226354413972776474&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (13 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** 'We let you actually focus during the day, so your manager doesn't kick you out of your job. When the laptops close, pasta, wine, and sunsets take over.'
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>

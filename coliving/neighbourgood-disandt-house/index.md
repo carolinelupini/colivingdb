@@ -1,6 +1,6 @@
 # Neighbourgood Disandt House
 
-> Coliving in Cape Town, South Africa. Last updated July 11, 2026.
+> Coliving in Cape Town, South Africa. Last updated July 12, 2026.
 
 - **Location:** Cape Town, South Africa
 - **Type:** Permanent coliving
@@ -9,6 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=4551697731371283063&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (32 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** Yes
+- **Vibe:** A refined, calm coastal boutique hotel designed for slow mornings and quiet corners to unwind
 - **Minimum stay:** —
 - **Region:** Africa
 - **Timezone:** GMT+2 <small>· US East: your evenings · Central Europe: full workday overlap</small>

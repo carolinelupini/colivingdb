@@ -1,6 +1,6 @@
 # Hacker Paradise — Palermo
 
-> Coliving in Palermo, Italy. Last updated July 11, 2026.
+> Coliving in Palermo, Italy. Last updated July 12, 2026.
 
 - **Location:** Palermo, Italy
 - **Type:** Pop-up / dated edition
@@ -8,6 +8,7 @@
 - **Price:** On request
 - **Room types:** —
 - **Dorm available:** No
+- **Vibe:** Itinerant coliving/coworking trip for developers, designers, and entrepreneurs based in central Palermo, blending remote work infrastructure with immersive local Sicilian life.
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

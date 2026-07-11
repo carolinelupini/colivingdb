@@ -1,6 +1,6 @@
 # Outsite San Diego - Encinitas Grandview
 
-> Coliving in Encinitas, United States. Last updated July 11, 2026.
+> Coliving in Encinitas, United States. Last updated July 12, 2026.
 
 - **Location:** Encinitas, United States
 - **Type:** Permanent coliving
@@ -8,6 +8,8 @@
 - **Price note:** nightly ~$229.90 comparable; members only
 - **Room types:** private, shared
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 141 Mbps <small>· operator-reported</small>
+- **Vibe:** A laid-back surf-town coliving in Encinitas billed as 'the ultimate surf retreat with an ocean view office,' blending beach culture with remote-work flexibility.
 - **Minimum stay:** —
 - **Region:** North America
 - **Timezone:** GMT-8 winter / GMT-7 summer <small>· US East: good overlap · Central Europe: async only</small>

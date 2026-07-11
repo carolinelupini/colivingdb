@@ -1,6 +1,6 @@
 # Not Sorry Coliving
 
-> Coliving in near Tullins/Voiron, Isère (French Alps), France. Last updated July 11, 2026.
+> Coliving in near Tullins/Voiron, Isère (French Alps), France. Last updated July 12, 2026.
 
 - **Location:** near Tullins/Voiron, Isère (French Alps), France
 - **Type:** Permanent coliving
@@ -8,6 +8,7 @@
 - **Price note:** not published; bookable via Hostelworld
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** 'Living together is about sharing experiences and stories more than just a roof. We value respect and authentic connection,' aimed at digital nomads, remote workers and aspiring entrepreneurs.
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

@@ -1,6 +1,6 @@
 # Las Terrenas Home
 
-> Coliving in Las Terrenas, Dominican Republic. Last updated July 11, 2026.
+> Coliving in Las Terrenas, Dominican Republic. Last updated July 12, 2026.
 
 - **Location:** Las Terrenas, Dominican Republic
 - **Type:** Permanent coliving
@@ -8,6 +8,8 @@
 - **Price note:** from BGN 1,712/mo room; whole villa wing ~BGN 6,004/mo
 - **Room types:** private, shared
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 36 Mbps <small>· operator-reported</small>
+- **Vibe:** A peaceful home with two private freshwater pools and sea/nature views, positioned for digital nomads, seasoned professionals, visionary entrepreneurs, and students bound by a shared zest for life who enjoy each other's company.
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Latin America
 - **Timezone:** GMT-4 <small>· US East: full workday overlap · Central Europe: your mornings</small>

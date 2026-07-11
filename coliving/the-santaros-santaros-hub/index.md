@@ -1,6 +1,6 @@
 # The Santaros (Santaros Hub)
 
-> Coliving in Vilnius, Lithuania. Last updated July 11, 2026.
+> Coliving in Vilnius, Lithuania. Last updated July 12, 2026.
 
 - **Location:** Vilnius, Lithuania
 - **Type:** Permanent coliving
@@ -8,6 +8,8 @@
 - **Price note:** from BGN 1,340/mo studio (~€685)
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 100 Mbps <small>· operator-reported</small>
+- **Vibe:** Modern minimalist coliving hub in Vilnius blending independent living with curated social events for digital nomads, entrepreneurs, and students from 40+ countries.
 - **Minimum stay:** 150 nights (~5 months)
 - **Region:** Europe
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

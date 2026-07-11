@@ -1,6 +1,6 @@
 # Noma Collective — Osaka
 
-> Coliving in Osaka, Japan. Last updated July 11, 2026.
+> Coliving in Osaka, Japan. Last updated July 12, 2026.
 
 - **Location:** Osaka, Japan
 - **Type:** Pop-up / dated edition
@@ -9,6 +9,7 @@
 - **Price note:** pp, all fees and taxes included
 - **Room types:** —
 - **Dorm available:** No
+- **Vibe:** Social, high-energy 'City & Culture' edition centered on food, nightlife, and cultural exploration over intense work focus
 - **Minimum stay:** —
 - **Region:** Asia
 - **Timezone:** GMT+9 <small>· US East: async only · Central Europe: your evenings</small>

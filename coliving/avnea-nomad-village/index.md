@@ -1,6 +1,6 @@
 # Avnea Nomad Village
 
-> Coliving in Zaros, Crete, Greece. Last updated July 11, 2026.
+> Coliving in Zaros, Crete, Greece. Last updated July 12, 2026.
 
 - **Location:** Zaros, Crete, Greece
 - **Type:** Permanent coliving
@@ -8,6 +8,7 @@
 - **Price note:** not published; ~30-day cohort program
 - **Room types:** private, shared
 - **Dorm available:** No
+- **Vibe:** 'Combine remote work with village life, community and personal growth,' with 'mindful morning activities like hikes, yoga, meditation.'
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

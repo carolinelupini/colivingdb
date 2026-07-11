@@ -1,6 +1,6 @@
 # Coworkerei Coliving
 
-> Coliving in Mils / Innsbruck (Tyrol), Austria. Last updated July 11, 2026.
+> Coliving in Mils / Innsbruck (Tyrol), Austria. Last updated July 12, 2026.
 
 - **Location:** Mils / Innsbruck (Tyrol), Austria
 - **Type:** Permanent coliving
@@ -8,6 +8,7 @@
 - **Price note:** coliving price not published; coworking from EUR59/mo
 - **Room types:** private, shared
 - **Dorm available:** No
+- **Vibe:** 'A fascinating location to work, network and plan in a pleasant atmosphere,' with a lounge for relaxing/exchanging and a community focused on collaboration and business growth.
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

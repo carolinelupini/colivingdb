@@ -1,6 +1,6 @@
 # NESTL
 
-> Coliving in Sydney, Australia. Last updated July 11, 2026.
+> Coliving in Sydney, Australia. Last updated July 12, 2026.
 
 - **Location:** Sydney, Australia
 - **Type:** Permanent coliving
@@ -8,6 +8,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=14373157124002144871&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (10 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
+- **Vibe:** 'Community First' coliving emphasizing immediate social integration and creative inner-city energy for students and young professionals
 - **Minimum stay:** —
 - **Region:** Oceania
 - **Timezone:** GMT+11 winter / GMT+10 summer <small>· US East: async only · Central Europe: async only</small>

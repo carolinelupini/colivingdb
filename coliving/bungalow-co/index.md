@@ -1,6 +1,6 @@
 # Bungalow Co
 
-> Coliving in Sydney, Australia. Last updated July 11, 2026.
+> Coliving in Sydney, Australia. Last updated July 12, 2026.
 
 - **Location:** Sydney, Australia
 - **Type:** Permanent coliving
@@ -8,6 +8,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=7276888973599131542&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (11 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** 'Affordable coliving' where you can 'connect with your housemates as much or as little as you like,' emphasizing optional, pressure-free social engagement and personal space.
 - **Minimum stay:** —
 - **Region:** Oceania
 - **Timezone:** GMT+11 winter / GMT+10 summer <small>· US East: async only · Central Europe: async only</small>

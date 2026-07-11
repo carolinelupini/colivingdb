@@ -1,6 +1,6 @@
 # Savi Coliving
 
-> Coliving in Náquera (Valencia), Spain. Last updated July 11, 2026.
+> Coliving in Náquera (Valencia), Spain. Last updated July 12, 2026.
 
 - **Location:** Náquera (Valencia), Spain
 - **Type:** Permanent coliving
@@ -9,6 +9,8 @@
 - **Rating:** <a href="https://maps.google.com/?cid=8220068475405040602&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (52 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 500 Mbps <small>· operator-reported</small>
+- **Vibe:** Sober, curated villa community for founders, creatives, and remote workers — weekly accountability, skill-shares, and a quiet, focused, alcohol-free environment
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

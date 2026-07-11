@@ -1,6 +1,6 @@
 # The Manoel João Ferreira
 
-> Coliving in Florianópolis (Barra da Lagoa), Brazil. Last updated July 11, 2026.
+> Coliving in Florianópolis (Barra da Lagoa), Brazil. Last updated July 12, 2026.
 
 - **Location:** Florianópolis (Barra da Lagoa), Brazil
 - **Type:** Permanent coliving
@@ -8,6 +8,8 @@
 - **Price note:** from BGN 465/mo (~€238) bed in 6-bed female dorm
 - **Room types:** private, shared
 - **Dorm available:** Yes
+- **Wi-Fi (on-site):** 80 Mbps <small>· operator-reported</small>
+- **Vibe:** Coliving/coworking in Florianópolis balancing quiet work space with a sense of belonging among digital nomads, remote workers, and independent professionals.
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Latin America
 - **Timezone:** GMT-3 <small>· US East: full workday overlap · Central Europe: good overlap</small>

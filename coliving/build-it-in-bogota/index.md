@@ -1,6 +1,6 @@
 # Build it in Bogotá
 
-> Coliving in Bogotá (El Virrey, Chapinero), Colombia. Last updated July 11, 2026.
+> Coliving in Bogotá (El Virrey, Chapinero), Colombia. Last updated July 12, 2026.
 
 - **Location:** Bogotá (El Virrey, Chapinero), Colombia
 - **Type:** Permanent coliving
@@ -8,6 +8,8 @@
 - **Price note:** from $1,055 USD/month all-inclusive standard private room
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 900 Mbps <small>· operator-reported</small>
+- **Vibe:** Modern coliving blending focused private work with weekly social events, kitchen nights, and rooftop gatherings for remote professionals and expats
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Latin America
 - **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>

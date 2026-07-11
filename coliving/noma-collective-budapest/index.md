@@ -1,6 +1,6 @@
 # Noma Collective — Budapest
 
-> Coliving in Budapest, Hungary. Last updated July 11, 2026.
+> Coliving in Budapest, Hungary. Last updated July 12, 2026.
 
 - **Location:** Budapest, Hungary
 - **Type:** Pop-up / dated edition
@@ -9,6 +9,7 @@
 - **Price note:** pp, all fees and taxes included
 - **Room types:** —
 - **Dorm available:** No
+- **Vibe:** Vibrant, culturally immersive travel-coliving edition centered on Budapest's architecture, thermal spas, and nightlife for social, adventurous remote workers.
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

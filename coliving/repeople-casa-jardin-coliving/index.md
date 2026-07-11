@@ -1,6 +1,6 @@
 # Repeople Casa Jardin Coliving
 
-> Coliving in Las Palmas de Gran Canaria, Spain. Last updated July 11, 2026.
+> Coliving in Las Palmas de Gran Canaria, Spain. Last updated July 12, 2026.
 
 - **Location:** Las Palmas de Gran Canaria, Spain
 - **Type:** Permanent coliving
@@ -9,6 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=9574294835105037032&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.0 (4 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** A vibrant, cosmopolitan Canary Islands coliving brand blending professional coworking with a relaxed 'paradise' island lifestyle for individuals, families, and teams.
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>

@@ -1,6 +1,6 @@
 # Batteuse Home
 
-> Coliving in Grimentz, Switzerland. Last updated July 11, 2026.
+> Coliving in Grimentz, Switzerland. Last updated July 12, 2026.
 
 - **Location:** Grimentz, Switzerland
 - **Type:** Permanent coliving
@@ -8,6 +8,8 @@
 - **Price note:** from ~€2,196/mo private twin
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 100 Mbps <small>· operator-reported</small>
+- **Vibe:** 'Our community is intended for freelancers, remote workers, or business owners who can work remotely and are looking for a community of like-minded people,' with regular activities and mountain adventures.
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

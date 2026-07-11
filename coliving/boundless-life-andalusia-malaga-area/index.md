@@ -1,6 +1,6 @@
 # Boundless Life — Andalusia (Malaga area)
 
-> Coliving in Andalusia (Malaga area), Spain. Last updated July 11, 2026.
+> Coliving in Andalusia (Malaga area), Spain. Last updated July 12, 2026.
 
 - **Location:** Andalusia (Malaga area), Spain
 - **Type:** Pop-up / dated edition
@@ -9,6 +9,7 @@
 - **Price note:** children's education (5 days/wk, ages 1.5-14), all meals, 24/7 coworking, community activities, furnished apartment + utilities
 - **Room types:** —
 - **Dorm available:** No
+- **Vibe:** 'Timeless Andalusia,' an all-year slow-travel family experience where 'kids will be captivated by historical sites' while 'parents can relax under the warm Spanish sun.'
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

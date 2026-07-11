@@ -1,6 +1,6 @@
 # WiFi Tribe — Puerto Escondido
 
-> Coliving in Puerto Escondido, Mexico. Last updated July 11, 2026.
+> Coliving in Puerto Escondido, Mexico. Last updated July 12, 2026.
 
 - **Location:** Puerto Escondido, Mexico
 - **Type:** Pop-up / dated edition
@@ -9,6 +9,8 @@
 - **Price note:** coliving accommodation (shared room, Veteran tier) for the month-long chapter
 - **Room types:** —
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 95 Mbps <small>· operator-reported</small>
+- **Vibe:** Laidback Pacific surf-town chapter blending beachfront coworking with surf, wellness activities, and nightly community sunset rituals
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>

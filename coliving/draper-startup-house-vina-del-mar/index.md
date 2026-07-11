@@ -1,6 +1,6 @@
 # Draper Startup House Vina del Mar
 
-> Coliving in Vina del Mar, Chile. Last updated July 11, 2026.
+> Coliving in Vina del Mar, Chile. Last updated July 12, 2026.
 
 - **Location:** Vina del Mar, Chile
 - **Type:** Permanent coliving
@@ -8,6 +8,7 @@
 - **Price note:** not published on site
 - **Room types:** private, shared
 - **Dorm available:** No
+- **Vibe:** An entrepreneur-focused Startup House in a Viña del Mar innovation district blending housing, coworking, networking events, and startup acceleration programs with surfing and yoga.
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Timezone:** GMT-3 winter / GMT-4 summer <small>· US East: full workday overlap · Central Europe: your mornings</small>

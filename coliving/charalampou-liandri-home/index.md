@@ -1,6 +1,6 @@
 # Charalampou Liandri Home
 
-> Coliving in Atsipopoulo, Greece. Last updated July 11, 2026.
+> Coliving in Atsipopoulo, Greece. Last updated July 12, 2026.
 
 - **Location:** Atsipopoulo, Greece
 - **Type:** Permanent coliving
@@ -8,6 +8,8 @@
 - **Price note:** listing shows BGN 11,305/mo (~EUR 5,780), likely a pricing error
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 90 Mbps <small>· operator-reported</small>
+- **Vibe:** A carefree, elegant retreat maintaining the spirit of traditional Greek hospitality, oriented toward digital nomads, entrepreneurs, and remote workers seeking connection through organized social events.
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

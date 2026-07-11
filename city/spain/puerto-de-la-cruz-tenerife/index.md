@@ -1,6 +1,6 @@
 # Coliving in Puerto de la Cruz, Tenerife, Spain
 
-> 1 colivings in Puerto de la Cruz, Tenerife, Spain, prices from €728 to €728 per month – last updated July 11, 2026.
+> 1 colivings in Puerto de la Cruz, Tenerife, Spain, prices from €728 to €728 per month – last updated July 12, 2026.
 
 ## All colivings
 

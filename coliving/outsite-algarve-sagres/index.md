@@ -1,6 +1,6 @@
 # Outsite Algarve - Sagres
 
-> Coliving in Sagres, Portugal. Last updated July 11, 2026.
+> Coliving in Sagres, Portugal. Last updated July 12, 2026.
 
 - **Location:** Sagres, Portugal
 - **Type:** Permanent coliving
@@ -9,6 +9,8 @@
 - **Rating:** <a href="https://maps.google.com/?cid=3354911249333557472&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (23 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 400 Mbps <small>· operator-reported</small>
+- **Vibe:** A relaxed coastal coliving home themed "Wild Coast, Clear Focus," pairing a dramatic Atlantic setting and outdoor decks with a large workspace tuned for productivity and communal meals in a homey kitchen.
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>

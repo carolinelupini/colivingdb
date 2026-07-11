@@ -1,6 +1,6 @@
 # Neighbourgood East City
 
-> Coliving in Cape Town, South Africa. Last updated July 11, 2026.
+> Coliving in Cape Town, South Africa. Last updated July 12, 2026.
 
 - **Location:** Cape Town, South Africa
 - **Type:** Permanent coliving
@@ -9,6 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=9329984901720326076&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (367 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared, dorm
 - **Dorm available:** Yes
+- **Vibe:** Community-focused coliving/coworking positioned as a productive home away from home for travellers and digital nomads, with a shared lounge for connecting with like-minded residents while preserving independence.
 - **Minimum stay:** —
 - **Region:** Africa
 - **Timezone:** GMT+2 <small>· US East: your evenings · Central Europe: full workday overlap</small>

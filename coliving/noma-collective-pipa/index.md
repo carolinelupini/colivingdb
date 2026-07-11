@@ -1,6 +1,6 @@
 # Noma Collective — Pipa
 
-> Coliving in Pipa, Brazil. Last updated July 11, 2026.
+> Coliving in Pipa, Brazil. Last updated July 12, 2026.
 
 - **Location:** Pipa, Brazil
 - **Type:** Pop-up / dated edition
@@ -9,6 +9,7 @@
 - **Price note:** pp, + fees and taxes (not included)
 - **Room types:** —
 - **Dorm available:** No
+- **Vibe:** A laid-back, surf-and-jungle travel-coliving edition on Brazil's Pipa coast blending beach and watersports adventure with wellness and a vibrant community.
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Timezone:** GMT-3 <small>· US East: full workday overlap · Central Europe: good overlap</small>

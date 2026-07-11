@@ -1,6 +1,6 @@
 # Outsite San Diego - Golden Hill
 
-> Coliving in San Diego, United States. Last updated July 11, 2026.
+> Coliving in San Diego, United States. Last updated July 12, 2026.
 
 - **Location:** San Diego, United States
 - **Type:** Permanent coliving
@@ -9,6 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=10478319696536920192&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (8 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** A comfortable, community-oriented home designed for both productivity and downtime, blending inner-city convenience with a leafy, charming neighborhood, outdoor terrace, and warm-weather outdoor access.
 - **Minimum stay:** —
 - **Region:** North America
 - **Timezone:** GMT-8 winter / GMT-7 summer <small>· US East: good overlap · Central Europe: async only</small>

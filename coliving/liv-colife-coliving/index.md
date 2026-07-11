@@ -1,6 +1,6 @@
 # LIV Colife - Coliving
 
-> Coliving in Porto, Portugal. Last updated July 11, 2026.
+> Coliving in Porto, Portugal. Last updated July 12, 2026.
 
 - **Location:** Porto, Portugal
 - **Type:** Permanent coliving
@@ -8,7 +8,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=2596967054479631116&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 3.9 (54 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Vibe:** Furnished coliving for young professionals and digital nomads in Porto
+- **Vibe:** New Porto accommodation aimed at young remote workers, project-starters and city explorers, built around joining the 'LIV CoLife community' and its events.
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>

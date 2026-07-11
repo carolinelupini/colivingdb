@@ -1,6 +1,6 @@
 # The Ive Andrića (Sonta rural coliving)
 
-> Coliving in Sonta, Serbia. Last updated July 11, 2026.
+> Coliving in Sonta, Serbia. Last updated July 12, 2026.
 
 - **Location:** Sonta, Serbia
 - **Type:** Permanent coliving
@@ -9,6 +9,8 @@
 - **Rating:** <a href="https://maps.google.com/?cid=9637672062515665311&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (16 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 40 Mbps <small>· operator-reported</small>
+- **Vibe:** A quiet rural coliving space away from city crowds, bringing together digital nomads, remote workers, NGO activists, and artists around agricultural life (growing fruit, producing wine and brandy) and intercultural reconciliation projects in a multicultural border village.
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

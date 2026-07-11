@@ -1,6 +1,6 @@
 # Noma Collective — Koh Lanta
 
-> Coliving in Koh Lanta, Thailand. Last updated July 11, 2026.
+> Coliving in Koh Lanta, Thailand. Last updated July 12, 2026.
 
 - **Location:** Koh Lanta, Thailand
 - **Type:** Pop-up / dated edition
@@ -9,6 +9,7 @@
 - **Price note:** pp, + fees and taxes (not included)
 - **Room types:** —
 - **Dorm available:** No
+- **Vibe:** Tranquil, low-key island edition — 'time to slow down and settle into paradise,' better for unwinding than partying.
 - **Minimum stay:** —
 - **Region:** Asia
 - **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>

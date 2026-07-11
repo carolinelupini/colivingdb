@@ -1,6 +1,6 @@
 # Shali Home
 
-> Coliving in Siwa, Egypt. Last updated July 11, 2026.
+> Coliving in Siwa, Egypt. Last updated July 12, 2026.
 
 - **Location:** Siwa, Egypt
 - **Type:** Permanent coliving
@@ -9,6 +9,8 @@
 - **Rating:** <a href="https://maps.google.com/?cid=10395165816309968410&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (1 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** Yes
+- **Wi-Fi (on-site):** 37 Mbps <small>· operator-reported</small>
+- **Vibe:** Work-focused coliving where weekdays are for productivity and weekends for exploring Siwa oasis culture; explicitly framed as 'not a hotel vibe.'
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Africa
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

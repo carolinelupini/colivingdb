@@ -1,6 +1,6 @@
 # Haven Coliving
 
-> Coliving in Venice, California, United States. Last updated July 11, 2026.
+> Coliving in Venice, California, United States. Last updated July 12, 2026.
 
 - **Location:** Venice, California, United States
 - **Type:** Permanent coliving
@@ -9,6 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=11203409329430449803&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.2 (20 reviews)</a> <small>· Google</small>
 - **Room types:** shared
 - **Dorm available:** No
+- **Vibe:** Intentional-living community blending wellness practices (yoga, meditation) with entrepreneurial networking and creative collaboration
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** North America
 - **Timezone:** GMT-8 winter / GMT-7 summer <small>· US East: good overlap · Central Europe: async only</small>

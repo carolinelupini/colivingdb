@@ -1,6 +1,6 @@
 # Tursi Digital Nomads — Tenerife (Canary Islands)
 
-> Coliving in Tenerife (Canary Islands), Spain. Last updated July 11, 2026.
+> Coliving in Tenerife (Canary Islands), Spain. Last updated July 12, 2026.
 
 - **Location:** Tenerife (Canary Islands), Spain
 - **Type:** Pop-up / dated edition
@@ -9,6 +9,7 @@
 - **Price note:** shared dorm, per person, 2-week program; 50% prepayment required to reserve
 - **Room types:** —
 - **Dorm available:** No
+- **Vibe:** 'A place where work, nature, and energy coexist' — an exclusive, curated coliving prioritizing its Alumni network, meaningful relationships, and shared growth.
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>

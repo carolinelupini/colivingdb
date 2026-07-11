@@ -1,6 +1,6 @@
 # The Pirin
 
-> Coliving in Bansko, Bulgaria. Last updated July 11, 2026.
+> Coliving in Bansko, Bulgaria. Last updated July 12, 2026.
 
 - **Location:** Bansko, Bulgaria
 - **Type:** Pop-up / dated edition
@@ -9,6 +9,7 @@
 - **Price note:** private room (shared bathroom, queen bed — lowest tier), coworking/workspace, high-speed wifi, kitchen, outdoor space, community events (dinners, mixers, workshops); bills included; 1-month minimum stay.
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** Mountain digital-nomad hub in Bansko emphasizing affordability, authentic local experiences, and a community manager facilitating connection.
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

@@ -1,6 +1,6 @@
 # Coliving in Ferrel, Peniche, Portugal
 
-> 1 colivings in Ferrel, Peniche, Portugal – last updated July 11, 2026.
+> 1 colivings in Ferrel, Peniche, Portugal – last updated July 12, 2026.
 
 ## All colivings
 

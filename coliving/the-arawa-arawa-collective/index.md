@@ -1,6 +1,6 @@
 # The Arawa (Arawa Collective)
 
-> Coliving in Rotorua, New Zealand. Last updated July 11, 2026.
+> Coliving in Rotorua, New Zealand. Last updated July 12, 2026.
 
 - **Location:** Rotorua, New Zealand
 - **Type:** Permanent coliving
@@ -9,6 +9,8 @@
 - **Rating:** <a href="https://maps.google.com/?cid=3315123624337555190&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (13 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 250 Mbps <small>· operator-reported</small>
+- **Vibe:** 'A vibrant, inclusive, and digitally savvy travel community' spanning solo adventurers and digital nomads to families and social travelers.
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Oceania
 - **Timezone:** GMT+13 winter / GMT+12 summer <small>· US East: async only · Central Europe: async only</small>

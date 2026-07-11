@@ -1,6 +1,6 @@
 # The Mẹ Thứ
 
-> Coliving in Hoi An, Vietnam. Last updated July 11, 2026.
+> Coliving in Hoi An, Vietnam. Last updated July 12, 2026.
 
 - **Location:** Hoi An, Vietnam
 - **Type:** Permanent coliving
@@ -8,6 +8,8 @@
 - **Price note:** from 16M VND/month private, utilities incl.
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 87 Mbps <small>· operator-reported</small>
+- **Vibe:** A warm, respectful, easygoing home explicitly "not a party hostel," favoring a balance between social connection and personal quiet time, close to nature and the beach in Hoi An.
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Asia
 - **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>

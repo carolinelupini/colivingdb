@@ -1,6 +1,6 @@
 # Casa Iris Coliving
 
-> Coliving in Santiago de Querétaro, Mexico. Last updated July 11, 2026.
+> Coliving in Santiago de Querétaro, Mexico. Last updated July 12, 2026.
 
 - **Location:** Santiago de Querétaro, Mexico
 - **Type:** Permanent coliving
@@ -8,6 +8,8 @@
 - **Rating:** <a href="https://maps.google.com/?cid=14143703219242689519&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (21 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 300 Mbps <small>· operator-reported</small>
+- **Vibe:** A quiet coliving on a dead-end street in Querétaro's historic center, offering colonial-architecture charm for those wanting a calm, low-key setting.
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>

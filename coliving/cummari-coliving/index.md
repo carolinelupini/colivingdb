@@ -1,6 +1,6 @@
 # Cummari Coliving
 
-> Coliving in Riposto, Sicily, Italy. Last updated July 11, 2026.
+> Coliving in Riposto, Sicily, Italy. Last updated July 12, 2026.
 
 - **Location:** Riposto, Sicily, Italy
 - **Type:** Permanent coliving
@@ -8,6 +8,7 @@
 - **Price note:** pricing not published; books out 1-2 months ahead
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** An inspirational, matriarchal retreat space designed exclusively for well-travelled women seeking comfort, slow travel, and soulful, intentional interiors.
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

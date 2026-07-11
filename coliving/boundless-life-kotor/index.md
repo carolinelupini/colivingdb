@@ -1,6 +1,6 @@
 # Boundless Life — Kotor
 
-> Coliving in Kotor, Montenegro. Last updated July 11, 2026.
+> Coliving in Kotor, Montenegro. Last updated July 12, 2026.
 
 - **Location:** Kotor, Montenegro
 - **Type:** Pop-up / dated edition
@@ -9,6 +9,7 @@
 - **Price note:** children's education (5 days/wk, ages 1.5-14), all meals, 24/7 coworking, community activities, furnished apartment + utilities
 - **Room types:** —
 - **Dorm available:** No
+- **Vibe:** Family-focused community in a UNESCO-listed coastal town where parents work remotely while kids learn through adventure and culture; welcoming, intentional community is the core draw.
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

@@ -1,6 +1,6 @@
 # Neighbor.HUB Hostel & Coliving - Floripa
 
-> Coliving in Florianópolis, Brazil. Last updated July 11, 2026.
+> Coliving in Florianópolis, Brazil. Last updated July 12, 2026.
 
 - **Location:** Florianópolis, Brazil
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # Outsite Santa Teresa - Maramar
 
-> Coliving in Santa Teresa, Costa Rica. Last updated July 11, 2026.
+> Coliving in Santa Teresa, Costa Rica. Last updated July 12, 2026.
 
 - **Location:** Santa Teresa, Costa Rica
 - **Type:** Permanent coliving
@@ -8,6 +8,8 @@
 - **Price note:** est.; prices behind date-select
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 40 Mbps <small>· operator-reported</small>
+- **Vibe:** Ocean-view jungle villa above a sleepy Pacific surf town, offering barefoot living, elevated open-air coworking, and a balance of focus and downtime.
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>

@@ -1,12 +1,14 @@
 # Coworksurf Siargao (Lexias)
 
-> Coliving in Siargao, Philippines. Last updated July 11, 2026.
+> Coliving in Siargao, Philippines. Last updated July 12, 2026.
 
 - **Location:** Siargao, Philippines
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Room types:** private, dorm
 - **Dorm available:** Yes
+- **Wi-Fi (on-site):** 100 Mbps <small>· operator-reported</small>
+- **Vibe:** Pool-centered social hub balancing productive coworking with surf adventure and community gatherings
 - **Minimum stay:** —
 - **Region:** Asia
 - **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>

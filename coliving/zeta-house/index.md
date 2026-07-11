@@ -1,6 +1,6 @@
 # Zeta House
 
-> Coliving in Austin, United States. Last updated July 11, 2026.
+> Coliving in Austin, United States. Last updated July 12, 2026.
 
 - **Location:** Austin, United States
 - **Type:** Permanent coliving
@@ -8,6 +8,8 @@
 - **Rating:** <a href="https://maps.google.com/?cid=15084291569146886748&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (10 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 1000 Mbps <small>· operator-reported</small>
+- **Vibe:** East Austin creative-energy coliving for entrepreneurs, freelancers, and creatives, with outdoor deck/backyard spaces built for networking, collaborating, and unwinding.
 - **Community size:** 6 spacious rooms total
 - **Minimum stay:** —
 - **Region:** North America

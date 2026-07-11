@@ -1,6 +1,6 @@
 # Coliving in Habaraduwa, Galle, Sri Lanka
 
-> 1 colivings in Habaraduwa, Galle, Sri Lanka, prices from €741 to €741 per month – last updated July 11, 2026.
+> 1 colivings in Habaraduwa, Galle, Sri Lanka, prices from €741 to €741 per month – last updated July 12, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Casa15 Azores
 
-> Coliving in Sao Miguel, Azores, Portugal. Last updated July 11, 2026.
+> Coliving in Sao Miguel, Azores, Portugal. Last updated July 12, 2026.
 
 - **Location:** Sao Miguel, Azores, Portugal
 - **Type:** Permanent coliving
@@ -8,6 +8,7 @@
 - **Price note:** from EUR950/mo (Flatio); utilities, WiFi, weekly cleaning included
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** Self-directed nature retreat for remote workers and creatives who want to disconnect from urban environments and explore at their own pace
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT-1 winter / GMT+0 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>

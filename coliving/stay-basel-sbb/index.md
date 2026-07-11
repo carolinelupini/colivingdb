@@ -1,6 +1,6 @@
 # STAY@Basel SBB
 
-> Coliving in Basel, Switzerland. Last updated July 11, 2026.
+> Coliving in Basel, Switzerland. Last updated July 12, 2026.
 
 - **Location:** Basel, Switzerland
 - **Type:** Permanent coliving
@@ -8,6 +8,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=15701228802699598601&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (196 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
+- **Vibe:** A social hostel/hotel in Basel's Gundeli neighborhood combining dorms, capsules, private rooms, and apartments with a bar, café, coworking space, and a community worth joining.
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

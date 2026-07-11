@@ -1,6 +1,6 @@
 # The Chiang Mai-Lamphun
 
-> Coliving in Chiang Mai, Thailand. Last updated July 11, 2026.
+> Coliving in Chiang Mai, Thailand. Last updated July 12, 2026.
 
 - **Location:** Chiang Mai, Thailand
 - **Type:** Permanent coliving
@@ -8,6 +8,8 @@
 - **Price note:** from BGN 1,517/mo ensuite, breakfast + weekly housekeeping incl.
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 200 Mbps <small>· operator-reported</small>
+- **Vibe:** Work-focused digital nomad community with 24/7 coworking access balanced by social activities like game nights and skill-sharing
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Asia
 - **Tags:** city, coworking, community

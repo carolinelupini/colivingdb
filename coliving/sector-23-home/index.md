@@ -1,6 +1,6 @@
 # Sector 23 Home
 
-> Coliving in Navi Mumbai, India. Last updated July 11, 2026.
+> Coliving in Navi Mumbai, India. Last updated July 12, 2026.
 
 - **Location:** Navi Mumbai, India
 - **Type:** Permanent coliving
@@ -8,6 +8,8 @@
 - **Price note:** from BGN 242/mo (bunk bed)
 - **Room types:** dorm
 - **Dorm available:** Yes
+- **Wi-Fi (on-site):** 82 Mbps <small>· operator-reported</small>
+- **Vibe:** An affordably priced, clean and vibrant coliving space building a community of working professionals and students through community dinners, social mixers, and wellness sessions.
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Asia
 - **Timezone:** GMT+5:30 <small>· US East: async only · Central Europe: good overlap</small>

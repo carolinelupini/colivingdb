@@ -1,6 +1,6 @@
 # Doctor Yordan Yosifov Collective
 
-> Coliving in Sofia, Bulgaria. Last updated July 11, 2026.
+> Coliving in Sofia, Bulgaria. Last updated July 12, 2026.
 
 - **Location:** Sofia, Bulgaria
 - **Type:** Permanent coliving
@@ -8,6 +8,7 @@
 - **Price note:** from BGN 2,142/mo ≈ €1,095
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** Vibrant coliving-coworking collective for globally-minded remote workers, with frequent community dinners, game nights, and wellness sessions.
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

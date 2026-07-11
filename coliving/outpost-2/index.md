@@ -1,6 +1,6 @@
 # Outpost
 
-> Coliving in Multiple (Bali, Sri Lanka). Last updated July 11, 2026.
+> Coliving in Multiple (Bali, Sri Lanka). Last updated July 12, 2026.
 
 - **Location:** Multiple (Bali, Sri Lanka)
 - **Type:** Permanent coliving
@@ -8,6 +8,7 @@
 - **Price note:** Colive+ from ~$849/month
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** Community-centered coliving/coworking network for curious, adventurous remote workers seeking connection, weekend trips, and genuine friendships.
 - **Minimum stay:** —
 - **Region:** Asia
 - **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>

@@ -1,6 +1,6 @@
 # Coliving in Briançon, France
 
-> 1 colivings in Briançon, France, prices from €966 to €966 per month – last updated July 11, 2026.
+> 1 colivings in Briançon, France, prices from €966 to €966 per month – last updated July 12, 2026.
 
 ## All colivings
 

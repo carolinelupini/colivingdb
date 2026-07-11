@@ -1,6 +1,6 @@
 # Coliving in Atsipopoulo, Greece
 
-> 2 colivings in Atsipopoulo, Greece, prices from €825 to €5,786 per month – last updated July 11, 2026.
+> 2 colivings in Atsipopoulo, Greece, prices from €825 to €5,786 per month – last updated July 12, 2026.
 
 ## All colivings
 

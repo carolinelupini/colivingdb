@@ -1,6 +1,6 @@
 # Coliving in Olhão (Algarve), Portugal
 
-> 1 colivings in Olhão (Algarve), Portugal – last updated July 11, 2026.
+> 1 colivings in Olhão (Algarve), Portugal – last updated July 12, 2026.
 
 ## All colivings
 

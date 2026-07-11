@@ -1,6 +1,6 @@
 # Luis Cordero Residence
 
-> Coliving in Quito, Ecuador. Last updated July 11, 2026.
+> Coliving in Quito, Ecuador. Last updated July 12, 2026.
 
 - **Location:** Quito, Ecuador
 - **Type:** Permanent coliving
@@ -8,6 +8,8 @@
 - **Price note:** from BGN 515/mo private room w/ ensuite
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 625 Mbps <small>· operator-reported</small>
+- **Vibe:** A vetted, social Quito coliving welcoming digital nomads, mountaineers, professionals, entrepreneurs, and students to unwind and mingle in shared lounge and garden spaces.
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Latin America
 - **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>

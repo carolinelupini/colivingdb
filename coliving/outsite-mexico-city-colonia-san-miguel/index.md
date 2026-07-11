@@ -1,6 +1,6 @@
 # Outsite Mexico City - Colonia San Miguel
 
-> Coliving in Mexico City, Mexico. Last updated July 11, 2026.
+> Coliving in Mexico City, Mexico. Last updated July 12, 2026.
 
 - **Location:** Mexico City, Mexico
 - **Type:** Permanent coliving
@@ -8,6 +8,8 @@
 - **Price note:** est. from ~$52/night; members-only, up to 40% off
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 100 Mbps <small>· operator-reported</small>
+- **Vibe:** 'A calm, modern retreat' with a 'quiet, local neighborhood feel,' balancing work amenities with community events.
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>

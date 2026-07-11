@@ -1,6 +1,6 @@
 # Coliving in Sant Boi de Llucanes (Catalonia), Spain
 
-> 1 colivings in Sant Boi de Llucanes (Catalonia), Spain – last updated July 11, 2026.
+> 1 colivings in Sant Boi de Llucanes (Catalonia), Spain – last updated July 12, 2026.
 
 ## All colivings
 

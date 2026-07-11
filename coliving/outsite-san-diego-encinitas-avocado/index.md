@@ -1,6 +1,6 @@
 # Outsite San Diego - Encinitas Avocado
 
-> Coliving in Encinitas, United States. Last updated July 11, 2026.
+> Coliving in Encinitas, United States. Last updated July 12, 2026.
 
 - **Location:** Encinitas, United States
 - **Type:** Permanent coliving
@@ -9,6 +9,8 @@
 - **Rating:** <a href="https://maps.google.com/?cid=17779685540083248768&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (1 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 141 Mbps <small>· operator-reported</small>
+- **Vibe:** 'A calm, comfortable 3-bedroom duplex designed for easy coastal living' for members 'who prefer a quieter setting,' also positioned as an 'ultimate surf retreat.'
 - **Minimum stay:** —
 - **Region:** North America
 - **Timezone:** GMT-8 winter / GMT-7 summer <small>· US East: good overlap · Central Europe: async only</small>

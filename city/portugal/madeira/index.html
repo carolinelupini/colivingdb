@@ -29,14 +29,19 @@ tr:last-child td{border-bottom:none}
 .facts dl>:nth-last-child(-n+2){border-bottom:none}
 .pill{display:inline-block;background:#eef6f3;color:#0e7c66;border-radius:999px;padding:2px 10px;font-size:.78rem;margin:0 5px 5px 0}
 .tagrow{margin:0 0 10px}
+.heroimg{margin:14px 0 18px}
+.heroimg img{width:100%;max-width:720px;max-height:380px;object-fit:cover;border-radius:14px;border:1px solid #e5e9f0;display:block}
+.heroimg figcaption{font-size:.72rem;color:#9aa3b2;margin-top:4px}
+.visabox{background:#fff;border:1px solid #e5e9f0;border-radius:10px;padding:11px 15px;margin:0 0 14px;font-size:.9rem;line-height:1.55}
+.visabox .muted{font-size:.82rem}
+.ppsel{margin-top:8px;padding-top:8px;border-top:1px solid #eef1f6;font-size:.88rem}
+.ppsel select{padding:4px 8px;border:1px solid #e5e9f0;border-radius:8px;background:#fff;font-size:.85rem;margin:0 6px 0 2px}
+.ppsel b{color:#0e7c66}
 .pfgrid{display:grid;grid-template-columns:repeat(var(--pfc,4),minmax(0,1fr));gap:10px;margin:8px 0 22px}
 @media(max-width:680px){.pfgrid{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:400px){.pfgrid{grid-template-columns:1fr}}
-.minimap{display:block;position:relative;border:1px solid #e5e9f0;border-radius:12px;overflow:hidden;margin:0 0 22px;max-width:768px}
-.mm-tiles{display:flex;position:relative;filter:saturate(.9);width:768px;margin-left:calc(50% - 384px)}
-.mm-tiles img{display:block;flex:0 0 256px}
-.mm-dot{position:absolute;width:14px;height:14px;margin:-7px 0 0 -7px;border-radius:50%;background:#0e7c66;border:2.5px solid #fff;box-shadow:0 1px 4px rgba(20,40,80,.45)}
-.mm-attr{position:absolute;right:6px;bottom:4px;font-size:.64rem;color:#4b5563;background:rgba(255,255,255,.75);padding:1px 5px;border-radius:4px}
+.lmap{height:300px;max-width:720px;border:1px solid #e5e9f0;border-radius:12px;margin:0 0 4px;z-index:1}
+.mm-links{margin:0 0 22px}
 .tdwhy{margin:6px 0 18px;font-size:.96rem}
 .tdgroup{margin:0 0 14px;padding-bottom:13px;border-bottom:1px solid #eef1f6}
 .tdgroup:last-of-type{border-bottom:none}
@@ -120,7 +125,7 @@ header.site select{margin-left:auto;font:inherit;font-size:.84rem;padding:6px 9p
 <div class="wrap">
 <nav class="crumb"><a href="/">colivingDB</a> › <a href="/countries/">Countries</a> › <a href="/country/portugal/">Portugal</a> › Madeira</nav>
 <h1>Coliving in Madeira, Portugal</h1>
-<p class="lede">1 coliving space in Madeira, from €2,249 per month. Updated July 11, 2026.</p>
+<p class="lede">1 coliving space in Madeira, from €2,249 per month. Updated July 12, 2026.</p>
 <div class="hubsignup compact"><div class="sg-txt"><h3>New colivings in your inbox</h3><p>New spaces + upcoming pop-ups, monthly.</p></div><iframe src="https://subscribe-forms.beehiiv.com/e2050a21-3afe-41f0-a9de-132528b8cda6?utm_source=colivingdb&amp;utm_medium=seo&amp;utm_campaign=city-portugal-madeira" title="Subscribe to colivingDB" loading="lazy" scrolling="no"></iframe></div>
 <div class="hubctl"><input type="search" id="hubq" placeholder="Filter by name or city…" aria-label="Filter listings"><select id="hubroom" aria-label="Room type"><option value="">Any room</option><option value="private">Private</option><option value="shared">Shared</option><option value="dorm">Dorm</option></select><span class="hubcount" id="hubcount"></span></div><div class="tw"><table id="hubtable"><thead><tr><th data-k="name">Coliving<span class="ar"></span></th><th>City</th><th data-k="eur">Price from<span class="ar"></span></th><th data-k="rating">Rating<span class="ar"></span></th><th>Rooms</th><th data-k="stay">Min stay<span class="ar"></span></th><th>Type</th></tr></thead><tbody id="hubbody"><tr data-name="casa basilico — madeira madeira" data-rooms="" data-eur="2249" data-rating="" data-stay=""><td><a href="/coliving/casa-basilico-madeira/">Casa Basilico — Madeira</a><br><span class="muted">Jun 1 - Jul 31, 2026</span></td><td>Madeira</td><td>from <span class="m" data-a="2249" data-c="EUR">€2,249</span><small>/mo</small></td><td>—</td><td>—</td><td>—</td><td>Pop-up</td></tr></tbody></table></div><script>
 (function(){
@@ -187,8 +192,8 @@ function rf(btn,toIn){
 <p><a href="/country/portugal/">← All colivings in Portugal</a></p>
 </div>
 <footer class="site"><div class="wrap">
-<a href="/">← Back to the map</a> · <a href="/countries/">All countries</a> · <a href="/llms.txt">llms.txt</a><br>
-<span class="muted">Prices are approximate and shown in each coliving's own local currency unless you switch it above. Data last updated July 11, 2026. Some outbound links are affiliate links — colivingDB may earn a commission at no extra cost to you.</span>
+<a href="/">← Back to the map</a> · <a href="/countries/">All countries</a> · <a href="/methodology/">How we verify data</a> · <a href="/llms.txt">llms.txt</a><br>
+<span class="muted">Prices are approximate and shown in each coliving's own local currency unless you switch it above. Data last updated July 12, 2026. Some outbound links are affiliate links — colivingDB may earn a commission at no extra cost to you.</span>
 </div></footer>
 <script>
 // Client-side currency switch. The HTML always ships the operator's NATIVE figure (that's what

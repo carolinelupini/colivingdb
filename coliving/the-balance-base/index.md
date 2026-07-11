@@ -1,6 +1,6 @@
 # The Balance Base
 
-> Coliving in Wānaka, New Zealand. Last updated July 11, 2026.
+> Coliving in Wānaka, New Zealand. Last updated July 12, 2026.
 
 - **Location:** Wānaka, New Zealand
 - **Type:** Permanent coliving
@@ -9,6 +9,8 @@
 - **Rating:** <a href="https://maps.google.com/?cid=3243474131227755862&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (26 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 1000 Mbps <small>· operator-reported</small>
+- **Vibe:** 'Find your perfect mix of adventure, wellness, and community,' spanning skiing, hiking, and mountain biking to yoga and sauna use.
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Oceania
 - **Timezone:** GMT+13 winter / GMT+12 summer <small>· US East: async only · Central Europe: async only</small>

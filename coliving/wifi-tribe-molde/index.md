@@ -1,6 +1,6 @@
 # WiFi Tribe — Molde
 
-> Coliving in Molde, Norway. Last updated July 11, 2026.
+> Coliving in Molde, Norway. Last updated July 12, 2026.
 
 - **Location:** Molde, Norway
 - **Type:** Pop-up / dated edition
@@ -9,6 +9,7 @@
 - **Price note:** private room in shared apartment (Veteran tier; no shared-room option offered) + gym/canteen access for the month-long chapter
 - **Room types:** —
 - **Dorm available:** No
+- **Vibe:** Summer coliving chapter in Norway's fjord town of Molde for values-vetted remote professionals and entrepreneurs, pairing daytime coworking with kayaking, climbing, and fjord adventures.
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

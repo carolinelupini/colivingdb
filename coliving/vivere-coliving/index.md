@@ -1,6 +1,6 @@
 # Vivére Coliving
 
-> Coliving in Rio de Janeiro, Brazil. Last updated July 11, 2026.
+> Coliving in Rio de Janeiro, Brazil. Last updated July 12, 2026.
 
 - **Location:** Rio de Janeiro, Brazil
 - **Type:** Permanent coliving
@@ -8,6 +8,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=17030811228371511975&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (20 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** Student-housing-style coliving combining private apartments with communal spaces to 'live well, work, study and make friends,' built on 'acolhimento e confiança' (welcome and trust).
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Timezone:** GMT-3 <small>· US East: full workday overlap · Central Europe: good overlap</small>

@@ -1,6 +1,6 @@
 # Ungsmaløya Residence
 
-> Coliving in Nyksund, Norway. Last updated July 11, 2026.
+> Coliving in Nyksund, Norway. Last updated July 12, 2026.
 
 - **Location:** Nyksund, Norway
 - **Type:** Permanent coliving
@@ -8,6 +8,8 @@
 - **Price note:** from ~€494/mo private (Fishermen Style, shared bath)
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 10 Mbps <small>· operator-reported</small>
+- **Vibe:** 'Our guests do not come to us to live in a 4-star hotel, but to get closer to nature and to concentrate on the essentials in life.'
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

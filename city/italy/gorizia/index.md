@@ -1,6 +1,6 @@
 # Coliving in Gorizia, Italy
 
-> 1 colivings in Gorizia, Italy – last updated July 11, 2026.
+> 1 colivings in Gorizia, Italy – last updated July 12, 2026.
 
 ## All colivings
 

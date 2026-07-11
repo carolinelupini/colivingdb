@@ -1,6 +1,6 @@
 # Coliving in Busan, South Korea
 
-> 1 colivings in Busan, South Korea – last updated July 11, 2026.
+> 1 colivings in Busan, South Korea – last updated July 12, 2026.
 
 ## All colivings
 

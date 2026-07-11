@@ -1,6 +1,6 @@
 # Ocean Bliss by Sugar Coliving - Beachfront Hotel in Weligama
 
-> Coliving in Weligama, Sri Lanka. Last updated July 11, 2026.
+> Coliving in Weligama, Sri Lanka. Last updated July 12, 2026.
 
 - **Location:** Weligama, Sri Lanka
 - **Type:** Permanent coliving
@@ -8,6 +8,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=14279152447742056620&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (269 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** Boho beachfront coliving with in-house surf and yoga lessons, ocean views, and a vibrant community atmosphere.
 - **Minimum stay:** —
 - **Region:** Asia
 - **Timezone:** GMT+5:30 <small>· US East: async only · Central Europe: good overlap</small>

@@ -1,6 +1,6 @@
 # Maraya Coliving & Coworking
 
-> Coliving in Candelaria, Tenerife, Spain. Last updated July 11, 2026.
+> Coliving in Candelaria, Tenerife, Spain. Last updated July 12, 2026.
 
 - **Location:** Candelaria, Tenerife, Spain
 - **Type:** Permanent coliving
@@ -9,6 +9,8 @@
 - **Rating:** <a href="https://maps.google.com/?cid=307747229006359696&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (98 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 200 Mbps <small>· operator-reported</small>
+- **Vibe:** A community-centric surf-and-coliving house founded by five friends who share a passion for surfing and remote work, between the ocean and mountains in Tenerife North, with daily yoga, family dinners, a pool, and an outdoor cinema fostering an active, welcoming atmosphere.
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>

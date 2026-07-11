@@ -1,6 +1,6 @@
 # Mazal Waddo Residence
 
-> Coliving in Anjuna, Goa, India. Last updated July 11, 2026.
+> Coliving in Anjuna, Goa, India. Last updated July 12, 2026.
 
 - **Location:** Anjuna, Goa, India
 - **Type:** Permanent coliving
@@ -8,6 +8,8 @@
 - **Price note:** from BGN 852/mo private queen (~€436)
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 100 Mbps <small>· operator-reported</small>
+- **Vibe:** Work-friendly coliving with a strong social community — weekly karaoke, games nights, communal dinners
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Asia
 - **Timezone:** GMT+5:30 <small>· US East: async only · Central Europe: good overlap</small>

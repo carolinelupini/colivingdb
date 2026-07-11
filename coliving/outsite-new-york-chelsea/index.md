@@ -1,6 +1,6 @@
 # Outsite New York - Chelsea
 
-> Coliving in New York, United States. Last updated July 11, 2026.
+> Coliving in New York, United States. Last updated July 12, 2026.
 
 - **Location:** New York, United States
 - **Type:** Permanent coliving

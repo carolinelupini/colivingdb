@@ -1,6 +1,6 @@
 # Coliving in Santa Marta (near Tayrona Park), Colombia
 
-> 1 colivings in Santa Marta (near Tayrona Park), Colombia, prices from €150 to €150 per month – last updated July 11, 2026.
+> 1 colivings in Santa Marta (near Tayrona Park), Colombia, prices from €150 to €150 per month – last updated July 12, 2026.
 
 ## All colivings
 

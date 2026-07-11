@@ -1,6 +1,6 @@
 # 4Seas Nimman Coliving Coworking Space
 
-> Coliving in Chiang Mai, Thailand. Last updated July 11, 2026.
+> Coliving in Chiang Mai, Thailand. Last updated July 12, 2026.
 
 - **Location:** Chiang Mai, Thailand
 - **Type:** Permanent coliving
@@ -8,6 +8,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=17062918061438028535&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (148 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** Crypto/Zuzalu-rooted cultural hub blending coliving, coworking, and community experimentation for builders and entrepreneurs
 - **Minimum stay:** —
 - **Region:** Asia
 - **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>

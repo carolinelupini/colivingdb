@@ -1,6 +1,6 @@
 # Maysou A Noste
 
-> Coliving in Lurbe-Saint-Christau, France. Last updated July 11, 2026.
+> Coliving in Lurbe-Saint-Christau, France. Last updated July 12, 2026.
 
 - **Location:** Lurbe-Saint-Christau, France
 - **Type:** Permanent coliving
@@ -9,6 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=6555437671161344699&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (18 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** A community- and wellness-oriented coliving space centered on meaningful connection — shared meals, workshops, creative exchange, and personal/spiritual growth — while living close to nature and growing its own food.
 - **Minimum stay:** 6 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

@@ -1,6 +1,6 @@
 # Alt Coliving
 
-> Coliving in Chiang Mai, Thailand. Last updated July 11, 2026.
+> Coliving in Chiang Mai, Thailand. Last updated July 12, 2026.
 
 - **Location:** Chiang Mai, Thailand
 - **Type:** Permanent coliving
@@ -8,6 +8,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=12211908088202749556&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (242 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** A calm, well-designed coworking and coliving community for remote workers, digital nomads, and creative minds, with an events calendar including yoga, ice baths, and social outings across its Old City and Ping River properties.
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Asia
 - **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>

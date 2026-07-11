@@ -1,6 +1,6 @@
 # CoworkSurf
 
-> Coliving in Multiple (Ericeira, Canggu, others). Last updated July 11, 2026.
+> Coliving in Multiple (Ericeira, Canggu, others). Last updated July 12, 2026.
 
 - **Location:** Multiple (Ericeira, Canggu, others)
 - **Type:** Permanent coliving
@@ -8,6 +8,7 @@
 - **Price note:** varies by property; not shown on homepage
 - **Room types:** private, shared, dorm
 - **Dorm available:** Yes
+- **Vibe:** A surf-and-coworking network connecting remote workers who love surfing into a global community of 3,500+ nomads, blending dedicated coworking infrastructure with surf access, yoga, and slow-living, adventure-oriented lifestyle.
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>

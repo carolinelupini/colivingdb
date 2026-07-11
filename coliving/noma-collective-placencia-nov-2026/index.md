@@ -1,6 +1,6 @@
 # Noma Collective — Placencia (Nov 2026)
 
-> Coliving in Placencia, Belize. Last updated July 11, 2026.
+> Coliving in Placencia, Belize. Last updated July 12, 2026.
 
 - **Location:** Placencia, Belize
 - **Type:** Pop-up / dated edition
@@ -9,6 +9,7 @@
 - **Price note:** pp, all fees and taxes included
 - **Room types:** —
 - **Dorm available:** No
+- **Vibe:** Unhurried coastal Belize retreat balancing deep work and genuine rest, emphasizing slower pace, nature immersion, and community connection.
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>

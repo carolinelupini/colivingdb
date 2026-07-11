@@ -1,6 +1,6 @@
 # WiFi Tribe — La Paz
 
-> Coliving in La Paz, Bolivia. Last updated July 11, 2026.
+> Coliving in La Paz, Bolivia. Last updated July 12, 2026.
 
 - **Location:** La Paz, Bolivia
 - **Type:** Pop-up / dated edition
@@ -9,6 +9,8 @@
 - **Price note:** coliving accommodation (shared room, Veteran tier) for the month-long chapter
 - **Room types:** —
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 400 Mbps <small>· operator-reported</small>
+- **Vibe:** Peaceful mountain-retreat chapter in the Andes outside La Paz — slower rhythm, deep focused work during the week, big adventures (Uyuni salt flats, Death Road) on weekends.
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT-4 <small>· US East: full workday overlap · Central Europe: your mornings</small>

@@ -1,6 +1,6 @@
 # The Mozart
 
-> Coliving in Las Palmas, Spain. Last updated July 11, 2026.
+> Coliving in Las Palmas, Spain. Last updated July 12, 2026.
 
 - **Location:** Las Palmas, Spain
 - **Type:** Permanent coliving
@@ -8,6 +8,8 @@
 - **Price note:** from BGN 3,111/mo, double ensuite
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 600 Mbps <small>· operator-reported</small>
+- **Vibe:** A historic, beachfront coliving in Las Palmas with an 'everybody knows your name' community feel, organized dinners, fitness classes, and game nights for digital nomads and entrepreneurs.
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>

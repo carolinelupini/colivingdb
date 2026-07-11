@@ -1,6 +1,6 @@
 # Co.404 Medellin
 
-> Coliving in Medellin, Colombia. Last updated July 11, 2026.
+> Coliving in Medellin, Colombia. Last updated July 12, 2026.
 
 - **Location:** Medellin, Colombia
 - **Type:** Permanent coliving

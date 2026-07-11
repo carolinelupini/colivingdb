@@ -1,6 +1,6 @@
 # Bela Vista Coliving and Retreat
 
-> Coliving in Olhão (Algarve), Portugal. Last updated July 11, 2026.
+> Coliving in Olhão (Algarve), Portugal. Last updated July 12, 2026.
 
 - **Location:** Olhão (Algarve), Portugal
 - **Type:** Permanent coliving
@@ -9,6 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=1554863558132117065&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (47 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** Family-run, sea-view coliving and kitesurfing retreat in the Algarve blending coworking with watersports, nature adventures, and shared community dinners.
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>

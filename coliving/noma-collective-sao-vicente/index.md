@@ -1,6 +1,6 @@
 # Noma Collective — Sao Vicente
 
-> Coliving in Sao Vicente, Cape Verde. Last updated July 11, 2026.
+> Coliving in Sao Vicente, Cape Verde. Last updated July 12, 2026.
 
 - **Location:** Sao Vicente, Cape Verde
 - **Type:** Pop-up / dated edition
@@ -9,6 +9,7 @@
 - **Price note:** pp, + fees and taxes (not included)
 - **Room types:** —
 - **Dorm available:** No
+- **Vibe:** Vibrant, culturally immersive travel-coliving edition centered on Cape Verde's music scene, volcano hikes, and authentic island discovery.
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT-1 <small>· US East: good overlap · Central Europe: good overlap</small>

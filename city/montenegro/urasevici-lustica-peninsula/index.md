@@ -1,6 +1,6 @@
 # Coliving in Đuraševići, Luštica Peninsula, Montenegro
 
-> 1 colivings in Đuraševići, Luštica Peninsula, Montenegro, prices from €600 to €600 per month – last updated July 11, 2026.
+> 1 colivings in Đuraševići, Luštica Peninsula, Montenegro, prices from €600 to €600 per month – last updated July 12, 2026.
 
 ## All colivings
 

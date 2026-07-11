@@ -1,6 +1,6 @@
 # Smart Coliving
 
-> Coliving in Mexico City, Mexico. Last updated July 11, 2026.
+> Coliving in Mexico City, Mexico. Last updated July 12, 2026.
 
 - **Location:** Mexico City, Mexico
 - **Type:** Permanent coliving
@@ -8,6 +8,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=3645225865144324501&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.2 (86 reviews)</a> <small>· Google</small>
 - **Room types:** —
 - **Dorm available:** No
+- **Vibe:** A modern, efficiency-focused coliving in Mexico City's Bellavista/South Zone with coworking, gym, and bar/restaurant amenities, positioned around guest happiness and good value.
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>

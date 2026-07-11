@@ -1,12 +1,13 @@
 # The Spacious Valley
 
-> Coliving in Ericeira, Portugal. Last updated July 11, 2026.
+> Coliving in Ericeira, Portugal. Last updated July 12, 2026.
 
 - **Location:** Ericeira, Portugal
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Room types:** —
 - **Dorm available:** No
+- **Vibe:** Laid-back, unpretentious digital nomad housing and coworking in coastal Ericeira, pairing casual seaside comfort with practical remote-work infrastructure.
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>

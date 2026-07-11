@@ -1,6 +1,6 @@
 # Fraser Home
 
-> Coliving in Kuala Lumpur, Malaysia. Last updated July 11, 2026.
+> Coliving in Kuala Lumpur, Malaysia. Last updated July 12, 2026.
 
 - **Location:** Kuala Lumpur, Malaysia
 - **Type:** Permanent coliving
@@ -8,6 +8,8 @@
 - **Price note:** from BGN 631/mo (~€323) private en-suite
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 50 Mbps <small>· operator-reported</small>
+- **Vibe:** A welcoming, affordable community for students, young professionals, and digital nomads, with community dinners, coworking sessions, networking events, and social mixers.
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Asia
 - **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>

@@ -1,6 +1,6 @@
 # Four Leaf Clover Bansko - Coliving
 
-> Coliving in Bansko, Bulgaria. Last updated July 11, 2026.
+> Coliving in Bansko, Bulgaria. Last updated July 12, 2026.
 
 - **Location:** Bansko, Bulgaria
 - **Type:** Permanent coliving
@@ -8,6 +8,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=9342879820444473159&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (6 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** Warm, welcoming community of digital nomads, tourists, and expats built to enrich residents' social life
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

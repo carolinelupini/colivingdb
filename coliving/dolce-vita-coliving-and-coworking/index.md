@@ -1,6 +1,6 @@
 # Dolce Vita Coliving & Coworking
 
-> Coliving in Vallo di Nera (Umbria), Italy. Last updated July 11, 2026.
+> Coliving in Vallo di Nera (Umbria), Italy. Last updated July 12, 2026.
 
 - **Location:** Vallo di Nera (Umbria), Italy
 - **Type:** Permanent coliving
@@ -9,6 +9,8 @@
 - **Rating:** <a href="https://maps.google.com/?cid=8698690295753212342&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (25 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 10000 Mbps <small>· operator-reported</small>
+- **Vibe:** 'Live Like a Local' in a restored medieval hill-town village — sustainable, inclusive, pet-friendly community with shared pasta nights and sunset hikes.
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

@@ -1,12 +1,13 @@
 # Casa Gori — Coliving, Art Studio & Gardens
 
-> Coliving in Valencia, Spain. Last updated July 11, 2026.
+> Coliving in Valencia, Spain. Last updated July 12, 2026.
 
 - **Location:** Valencia, Spain
 - **Type:** Permanent coliving
 - **Price:** from €1,200/mo
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** An 'ecosystem for living' blending art-studio creativity, nomadic entrepreneurship, regenerative gardens, and intentional community
 - **Community size:** 5 bedrooms (2 single, 3 double); accommodates five to eight colivers per 3-month seasonal cohort
 - **Minimum stay:** —
 - **Region:** Europe

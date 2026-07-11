@@ -1,6 +1,6 @@
 # Flamingo Coliving
 
-> Coliving in Santa Marta, Colombia. Last updated July 11, 2026.
+> Coliving in Santa Marta, Colombia. Last updated July 12, 2026.
 
 - **Location:** Santa Marta, Colombia
 - **Type:** Permanent coliving

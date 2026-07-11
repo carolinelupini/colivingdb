@@ -1,6 +1,6 @@
 # The Fernando Salazar Gonzalez
 
-> Coliving in Las Galletas, Spain. Last updated July 11, 2026.
+> Coliving in Las Galletas, Spain. Last updated July 12, 2026.
 
 - **Location:** Las Galletas, Spain
 - **Type:** Permanent coliving
@@ -8,6 +8,8 @@
 - **Price note:** from BGN 1,467/mo for bed in 6-bed shared room
 - **Room types:** private, shared
 - **Dorm available:** Yes
+- **Wi-Fi (on-site):** 39 Mbps <small>· operator-reported</small>
+- **Vibe:** 'We're building a community of digital nomads and travelers eager to connect,' with activities that help 'residents quickly form friendships, share meals, and enjoy spontaneous activities that create a familial sense of belonging.'
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>

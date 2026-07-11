@@ -1,6 +1,6 @@
 # Greek Escape (by ESCAPE)
 
-> Coliving in Gerani (Crete), Greece. Last updated July 11, 2026.
+> Coliving in Gerani (Crete), Greece. Last updated July 12, 2026.
 
 - **Location:** Gerani (Crete), Greece
 - **Type:** Permanent coliving
@@ -9,6 +9,8 @@
 - **Rating:** <a href="https://maps.google.com/?cid=17862374320645359690&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (6 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 100 Mbps <small>· operator-reported</small>
+- **Vibe:** Entrepreneur and community focused, for people 'launching a product, consulting clients, or creating art,' balancing 'focus, community, and relaxation.'
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

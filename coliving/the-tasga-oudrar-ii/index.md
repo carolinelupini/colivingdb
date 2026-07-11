@@ -1,6 +1,6 @@
 # The Tasga Oudrar II
 
-> Coliving in Taghazout, Morocco. Last updated July 11, 2026.
+> Coliving in Taghazout, Morocco. Last updated July 12, 2026.
 
 - **Location:** Taghazout, Morocco
 - **Type:** Permanent coliving
@@ -8,6 +8,8 @@
 - **Price note:** from BGN 2,445/month dorm (~€1,250); private from ~€2,850
 - **Room types:** private, dorm
 - **Dorm available:** Yes
+- **Wi-Fi (on-site):** 200 Mbps <small>· operator-reported</small>
+- **Vibe:** Surf-and-yoga camp combining coworking for entrepreneurs and startups with wellness activities and beach lifestyle.
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Africa
 - **Timezone:** GMT+1 <small>· US East: good overlap · Central Europe: full workday overlap</small>

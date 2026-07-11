@@ -1,6 +1,6 @@
 # Nomadico
 
-> Coliving in Multiple. Last updated July 11, 2026.
+> Coliving in Multiple. Last updated July 12, 2026.
 
 - **Location:** Multiple
 - **Type:** Permanent coliving
@@ -8,6 +8,7 @@
 - **Price note:** from ~$630/month (Manizales); most €609-980/mo
 - **Room types:** private, shared
 - **Dorm available:** No
+- **Vibe:** Brand tagline 'Live Globally, Connect Locally' — 'Community is our secret sauce... connect everyone via events and adventures.'
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

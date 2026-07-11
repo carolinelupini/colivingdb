@@ -1,6 +1,6 @@
 # AfricaNomads — Lamu Island
 
-> Coliving in Lamu Island, Kenya. Last updated July 11, 2026.
+> Coliving in Lamu Island, Kenya. Last updated July 12, 2026.
 
 - **Location:** Lamu Island, Kenya
 - **Type:** Pop-up / dated edition
@@ -9,6 +9,7 @@
 - **Price note:** Brand-wide: stays start from $440/week depending on destination, 2-week minimum (long-stay rates from 2 months). Per-edition pricing is not published — request it from AfricaNomads.
 - **Room types:** —
 - **Dorm available:** No
+- **Vibe:** A laid-back wellness-and-adventure retreat blending remote work with immersive island culture, yoga, and conservation.
 - **Minimum stay:** —
 - **Region:** Africa
 - **Timezone:** GMT+3 <small>· US East: your evenings · Central Europe: full workday overlap</small>

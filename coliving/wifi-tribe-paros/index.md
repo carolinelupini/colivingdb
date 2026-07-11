@@ -1,6 +1,6 @@
 # WiFi Tribe — Paros
 
-> Coliving in Paros, Greece. Last updated July 11, 2026.
+> Coliving in Paros, Greece. Last updated July 12, 2026.
 
 - **Location:** Paros, Greece
 - **Type:** Pop-up / dated edition
@@ -9,6 +9,8 @@
 - **Price note:** boutique hotel accommodation (shared room, Veteran tier) + coworking + community activities for the month-long chapter
 - **Room types:** —
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 80 Mbps <small>· operator-reported</small>
+- **Vibe:** Boutique-hotel takeover in the fishing village of Piso Livadi — calm, authentic village feel with beach days, boat trips, and island-hopping on weekends.
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

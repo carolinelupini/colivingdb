@@ -1,6 +1,6 @@
 # The Jelgavas Iela (Jelgavas Iela Hub)
 
-> Coliving in Riga, Latvia. Last updated July 11, 2026.
+> Coliving in Riga, Latvia. Last updated July 12, 2026.
 
 - **Location:** Riga, Latvia
 - **Type:** Permanent coliving
@@ -8,6 +8,8 @@
 - **Price note:** from BGN 1,301/mo studio (~€665)
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 100 Mbps <small>· operator-reported</small>
+- **Vibe:** Modern, comfortable coliving 'in the heart of Riga' for digital nomads, interns, students, young professionals and creatives, with shared spaces 'perfect for socializing and collaborating.'
 - **Minimum stay:** 150 nights (~5 months)
 - **Region:** Europe
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

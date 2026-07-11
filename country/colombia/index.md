@@ -1,6 +1,6 @@
 # Coliving in Colombia
 
-> 20 colivings in Colombia, prices from €52 to €1,567 per month – last updated July 11, 2026.
+> 19 colivings in Colombia, prices from €52 to €1,567 per month – last updated July 12, 2026.
 
 ## All colivings
 
@@ -18,7 +18,6 @@
 | Balu Coliving | Medellín (Laureles) | from €650/mo | 4.8 (45) | private | — | Permanent |
 | Outsite Medellin - El Poblado | Medellin | from $955/mo | 2.6 (5) | private | — | Permanent |
 | Nomadico Coliving Medellín | Medellín | from $955/mo | 4.9 (66) | private | 7 nights (~1 week) | Permanent |
-| Nomadico Medellin | Medellin | from $955/mo | 4.9 (66) | private, shared | 7 nights (~1 week) | Permanent |
 | Rosales Residence | Medellin | from $992/mo | 4.6 (248) | private | 30 nights (~1 month) | Permanent |
 | Build it in Bogotá | Bogotá (El Virrey, Chapinero) | from COP 60,000/night | — | private | 30 nights (~1 month) | Permanent |
 | Kiin Living | Medellín | from €1,100/mo | 4.9 (167) | private | 30 nights (~1 month) | Permanent |
@@ -33,7 +32,7 @@
 |---|---|
 | 0–500 | 5 |
 | 500–800 | 5 |
-| 800–1200 | 7 |
+| 800–1200 | 6 |
 | 1200–2000 | 1 |
 
 Source: https://colivingdb.com/country/colombia/

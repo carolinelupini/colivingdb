@@ -1,12 +1,13 @@
 # Rooms.Taipei
 
-> Coliving in Taipei, Taiwan. Last updated July 11, 2026.
+> Coliving in Taipei, Taiwan. Last updated July 12, 2026.
 
 - **Location:** Taipei, Taiwan
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Room types:** shared
 - **Dorm available:** No
+- **Vibe:** Community-focused, budget-friendly coliving for young travelers seeking social integration and 'tribe-building' over a corporate rental feel.
 - **Minimum stay:** —
 - **Region:** Asia
 - **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>

@@ -1,6 +1,6 @@
 # WiFi Tribe — Weligama
 
-> Coliving in Weligama, Sri Lanka. Last updated July 11, 2026.
+> Coliving in Weligama, Sri Lanka. Last updated July 12, 2026.
 
 - **Location:** Weligama, Sri Lanka
 - **Type:** Pop-up / dated edition
@@ -9,6 +9,8 @@
 - **Price note:** beachfront coliving accommodation (shared room, Veteran tier) + coworking + pool + communal kitchen for the month-long chapter
 - **Room types:** —
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 240 Mbps <small>· operator-reported</small>
+- **Vibe:** Month-long beachfront surf coliving chapter — 'relaxed seaside vibe,' close-knit tribe energy, deep work on weekdays with daily hangouts and weekend adventures.
 - **Minimum stay:** —
 - **Region:** Asia
 - **Timezone:** GMT+5:30 <small>· US East: async only · Central Europe: good overlap</small>

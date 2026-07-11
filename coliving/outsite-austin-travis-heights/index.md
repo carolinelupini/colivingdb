@@ -1,6 +1,6 @@
 # Outsite Austin - Travis Heights
 
-> Coliving in Austin, United States. Last updated July 11, 2026.
+> Coliving in Austin, United States. Last updated July 12, 2026.
 
 - **Location:** Austin, United States
 - **Type:** Permanent coliving
@@ -9,6 +9,8 @@
 - **Rating:** <a href="https://maps.google.com/?cid=18060894129745264272&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (15 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 327 Mbps <small>· operator-reported</small>
+- **Vibe:** Classic Austin home blending creative/remote-work productivity with weekly community activities in a relaxed, eclectic neighborhood
 - **Minimum stay:** —
 - **Region:** North America
 - **Timezone:** GMT-6 winter / GMT-5 summer <small>· US East: full workday overlap · Central Europe: your mornings</small>

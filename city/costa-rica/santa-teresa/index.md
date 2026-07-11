@@ -1,6 +1,6 @@
 # Coliving in Santa Teresa, Costa Rica
 
-> 3 colivings in Santa Teresa, Costa Rica, prices from €1,217 to €1,400 per month – last updated July 11, 2026.
+> 3 colivings in Santa Teresa, Costa Rica, prices from €1,217 to €1,400 per month – last updated July 12, 2026.
 
 ## All colivings
 

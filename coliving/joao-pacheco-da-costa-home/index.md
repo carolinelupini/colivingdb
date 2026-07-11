@@ -1,6 +1,6 @@
 # João Pachêco Da Costa Home
 
-> Coliving in Florianópolis, Brazil. Last updated July 11, 2026.
+> Coliving in Florianópolis, Brazil. Last updated July 12, 2026.
 
 - **Location:** Florianópolis, Brazil
 - **Type:** Permanent coliving
@@ -9,6 +9,8 @@
 - **Rating:** <a href="https://maps.google.com/?cid=13703675284766932758&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (1 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
+- **Wi-Fi (on-site):** 800 Mbps <small>· operator-reported</small>
+- **Vibe:** Coliving, hostel, coworking and community combined — 'the perfect balance between a quiet space to do your work and, at the same time, a sense of belonging to a community.'
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Latin America
 - **Timezone:** GMT-3 <small>· US East: full workday overlap · Central Europe: good overlap</small>

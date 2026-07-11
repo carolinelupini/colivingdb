@@ -1,6 +1,6 @@
 # WiFi Tribe — Zanzibar City
 
-> Coliving in Zanzibar City, Tanzania. Last updated July 11, 2026.
+> Coliving in Zanzibar City, Tanzania. Last updated July 12, 2026.
 
 - **Location:** Zanzibar City, Tanzania
 - **Type:** Pop-up / dated edition
@@ -9,6 +9,8 @@
 - **Price note:** coliving accommodation (shared room, Veteran tier, lowest tier) + coworking + community activities for the month-long chapter
 - **Room types:** —
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 5 Mbps <small>· operator-reported</small>
+- **Vibe:** Month-long coliving chapter mixing productive work sprints with daily hangouts, beach adventures, and communal dinners
 - **Minimum stay:** —
 - **Region:** Africa
 - **Timezone:** GMT+3 <small>· US East: your evenings · Central Europe: full workday overlap</small>

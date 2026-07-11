@@ -1,6 +1,6 @@
 # CoZi - Coworking Space
 
-> Coliving in Houmt Souk, Tunisia. Last updated July 11, 2026.
+> Coliving in Houmt Souk, Tunisia. Last updated July 12, 2026.
 
 - **Location:** Houmt Souk, Tunisia
 - **Type:** Permanent coliving
@@ -8,6 +8,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=4826209786673195277&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (47 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** A dynamic coworking/coliving hub in Djerba designed to support creativity, collaboration, and startup incubation for a global, purpose-driven community of digital nomads, entrepreneurs, and creatives, with dedicated quiet zones for focused work.
 - **Minimum stay:** —
 - **Region:** Africa
 - **Timezone:** GMT+1 <small>· US East: good overlap · Central Europe: full workday overlap</small>

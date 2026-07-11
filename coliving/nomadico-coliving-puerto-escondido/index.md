@@ -1,6 +1,6 @@
 # Nomadico Coliving Puerto Escondido
 
-> Coliving in Puerto Escondido, Mexico. Last updated July 11, 2026.
+> Coliving in Puerto Escondido, Mexico. Last updated July 12, 2026.
 
 - **Location:** Puerto Escondido, Mexico
 - **Type:** Permanent coliving
@@ -9,6 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=2257094445319845272&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (22 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** 'Barefoot beach life' at the Zicatela house — surfboards against café walls, unhurried sunset plans; the Centro house is 'close enough to the action, far enough to still hear the birds.'
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>

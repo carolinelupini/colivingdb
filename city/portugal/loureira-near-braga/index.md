@@ -1,6 +1,6 @@
 # Coliving in Loureira (near Braga), Portugal
 
-> 1 colivings in Loureira (near Braga), Portugal, prices from €150 to €150 per month – last updated July 11, 2026.
+> 1 colivings in Loureira (near Braga), Portugal, prices from €150 to €150 per month – last updated July 12, 2026.
 
 ## All colivings
 

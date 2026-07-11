@@ -1,6 +1,6 @@
 # WiFi Tribe — Antigua
 
-> Coliving in Antigua, Guatemala. Last updated July 11, 2026.
+> Coliving in Antigua, Guatemala. Last updated July 12, 2026.
 
 - **Location:** Antigua, Guatemala
 - **Type:** Pop-up / dated edition
@@ -9,6 +9,7 @@
 - **Price note:** coliving accommodation (shared room, Veteran tier) + coworking + communal meals + community activities for the month-long chapter
 - **Room types:** —
 - **Dorm available:** No
+- **Vibe:** A curated, small monthly coliving chapter (10-26 people) in colonial Antigua among volcanoes and coffee culture, co-created by values-vetted remote professionals.
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>

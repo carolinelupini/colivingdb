@@ -1,6 +1,6 @@
 # The Independencia
 
-> Coliving in Buenos Aires, Argentina. Last updated July 11, 2026.
+> Coliving in Buenos Aires, Argentina. Last updated July 12, 2026.
 
 - **Location:** Buenos Aires, Argentina
 - **Type:** Permanent coliving
@@ -8,6 +8,8 @@
 - **Price note:** from BGN 944/month studio (~€483)
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 211 Mbps <small>· operator-reported</small>
+- **Vibe:** 'We welcome people from all around the world who wish to live their lives to the utmost,' combining coworking infrastructure with social connection.
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Latin America
 - **Timezone:** GMT-3 <small>· US East: full workday overlap · Central Europe: good overlap</small>

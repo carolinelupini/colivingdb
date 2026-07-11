@@ -1,6 +1,6 @@
 # The Plakias (Plakias Residence)
 
-> Coliving in Plakias, Greece. Last updated July 11, 2026.
+> Coliving in Plakias, Greece. Last updated July 12, 2026.
 
 - **Location:** Plakias, Greece
 - **Type:** Permanent coliving
@@ -9,6 +9,8 @@
 - **Rating:** <a href="https://maps.google.com/?cid=9837078619700085684&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (22 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 200 Mbps <small>· operator-reported</small>
+- **Vibe:** A vibrant community balancing individuality and connection, positioned between mountains and sea as a source of inspiration and rejuvenation for digital nomads and creative professionals looking to learn, grow, and connect.
 - **Minimum stay:** 180 nights (~6 months)
 - **Region:** Europe
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

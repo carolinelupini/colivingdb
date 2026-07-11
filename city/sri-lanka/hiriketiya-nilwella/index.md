@@ -1,6 +1,6 @@
 # Coliving in Hiriketiya (Nilwella), Sri Lanka
 
-> 1 colivings in Hiriketiya (Nilwella), Sri Lanka, prices from €490 to €490 per month – last updated July 11, 2026.
+> 1 colivings in Hiriketiya (Nilwella), Sri Lanka, prices from €490 to €490 per month – last updated July 12, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Casa Basilico — Madeira
 
-> Coliving in Madeira, Portugal. Last updated July 11, 2026.
+> Coliving in Madeira, Portugal. Last updated July 12, 2026.
 
 - **Location:** Madeira, Portugal
 - **Type:** Pop-up / dated edition
@@ -9,6 +9,8 @@
 - **Price note:** private double room, wifi, weekly cleaning, shared kitchen & coworking, 2 on-site community managers, shared dinners & cooking classes
 - **Room types:** —
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 1000 Mbps <small>· operator-reported</small>
+- **Vibe:** Adventure and social — 'Unforgettable Weekends. Madeira keeps surprising you... Levadas through laurel forests, sunrises above the clouds.'
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>

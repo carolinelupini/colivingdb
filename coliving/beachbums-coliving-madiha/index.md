@@ -1,6 +1,6 @@
 # Beachbums Coliving Madiha
 
-> Coliving in Weligama, Sri Lanka. Last updated July 11, 2026.
+> Coliving in Weligama, Sri Lanka. Last updated July 12, 2026.
 
 - **Location:** Weligama, Sri Lanka
 - **Type:** Permanent coliving
@@ -8,6 +8,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=13124233967003048190&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (7 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
+- **Vibe:** A laid-back, surf-culture coliving community for travellers, digital nomads, and surfers built around a slow, sunny rhythm, adventure, and beach lifestyle, with coworking access for remote work.
 - **Minimum stay:** —
 - **Region:** Asia
 - **Timezone:** GMT+5:30 <small>· US East: async only · Central Europe: good overlap</small>

@@ -1,6 +1,6 @@
 # colivingDB — all colivings
 
-> 638 listings. Last updated July 11, 2026.
+> 605 listings. Last updated July 12, 2026.
 
 | Coliving | City | Country | Price from | Min stay | Type |
 |---|---|---|---|---|---|
@@ -23,7 +23,6 @@
 | [UKO](/coliving/uko/index.md) | Sydney | Australia | On request | — | Permanent |
 | [UKO Melbourne Central](/coliving/uko-melbourne-central/index.md) | Melbourne | Australia | On request | — | Permanent |
 | [Coworkerei Coliving](/coliving/coworkerei-coliving/index.md) | Mils / Innsbruck (Tyrol) | Austria | from €12/night | — | Permanent |
-| [LIBRAlab Alpine AI Hub](/coliving/libralab-alpine-ai-hub/index.md) | Omes (Kristen), near Innsbruck | Austria | from €890/mo | 28 nights (~4 weeks) | Permanent |
 | [Outsite Vienna (Zoku)](/coliving/outsite-vienna-zoku/index.md) | Vienna | Austria | from €1,700/mo | — | Permanent |
 | [Bord de Meuse](/coliving/bord-de-meuse/index.md) | Hermalle-sous-Argenteau (Liège) | Belgium | On request | — | Permanent |
 | [Nomad's House](/coliving/nomad-s-house/index.md) | Brussels | Belgium | from €690/mo | — | Permanent |
@@ -31,7 +30,6 @@
 | [Noma Collective — Placencia (Jan 2027)](/coliving/noma-collective-placencia-jan-2027/index.md) | Placencia | Belize | from $2,590 per event | — | Pop-up |
 | [Noma Collective — Placencia (Nov 2026)](/coliving/noma-collective-placencia-nov-2026/index.md) | Placencia | Belize | from $2,590 per event | — | Pop-up |
 | [WiFi Tribe — La Paz](/coliving/wifi-tribe-la-paz/index.md) | La Paz | Bolivia | from $1,190/mo | — | Pop-up |
-| [Draper Startup House Rio de Janeiro](/coliving/draper-startup-house-rio-de-janeiro/index.md) | Rio de Janeiro | Brazil | On request | — | Permanent |
 | [Horizonte Coliving - Mangabeiras](/coliving/horizonte-coliving-mangabeiras/index.md) | Belo Horizonte | Brazil | from BRL 1,600/mo | — | Permanent |
 | [Horizonte Coliving - Santa Tereza](/coliving/horizonte-coliving-santa-tereza/index.md) | Belo Horizonte | Brazil | On request | — | Permanent |
 | [INFINI Coliving](/coliving/infini-coliving/index.md) | Jauá (Camaçari), near Salvador | Brazil | from €270/mo | 1 night | Permanent |
@@ -54,7 +52,6 @@
 | [Outsite Sofia](/coliving/outsite-sofia/index.md) | Sofia | Bulgaria | from €1,095/mo | — | Permanent |
 | [The Pirin](/coliving/the-pirin/index.md) | Bansko | Bulgaria | from $832/mo | 30 nights (~1 month) | Pop-up |
 | [The Yavor](/coliving/the-yavor/index.md) | Bansko | Bulgaria | from $343/mo | 30 nights (~1 month) | Permanent |
-| [WorkNomads](/coliving/worknomads/index.md) | Sofia | Bulgaria | from €1,095/mo | 30 nights (~1 month) | Permanent |
 | [WorkNomads LAB Coliving](/coliving/worknomads-lab-coliving/index.md) | Sofia | Bulgaria | from €1,095/mo | — | Permanent |
 | [Commune](/coliving/commune/index.md) | Siem Reap | Cambodia | from $734/mo | — | Permanent |
 | [The Rose Apple (Rose Apple Collective)](/coliving/the-rose-apple-rose-apple-collective/index.md) | Siem Reap | Cambodia | from $1,725/mo | 30 nights (~1 month) | Permanent |
@@ -72,7 +69,6 @@
 | [Mimos Coliving - Bogota](/coliving/mimos-coliving-bogota/index.md) | Bogotá | Colombia | from €480/mo | 120 nights (~4 months) | Permanent |
 | [Nomadico Coliving Medellín](/coliving/nomadico-coliving-medellin/index.md) | Medellín | Colombia | from $955/mo | 7 nights (~1 week) | Permanent |
 | [Nomadico Manizales](/coliving/nomadico-manizales/index.md) | Manizales | Colombia | from $630/mo | 7 nights (~1 week) | Permanent |
-| [Nomadico Medellin](/coliving/nomadico-medellin/index.md) | Medellin | Colombia | from $955/mo | 7 nights (~1 week) | Permanent |
 | [Outsite Medellin - El Poblado](/coliving/outsite-medellin-el-poblado/index.md) | Medellin | Colombia | from $955/mo | — | Permanent |
 | [Outsite Medellin - Manila](/coliving/outsite-medellin-manila/index.md) | Medellin | Colombia | from $35/night | — | Permanent |
 | [Pranik Living](/coliving/pranik-living/index.md) | Medellín (Laureles) | Colombia | from $1,230/mo | 3 nights | Permanent |
@@ -152,7 +148,6 @@
 | [Portus Home Coliving](/coliving/portus-home-coliving/index.md) | Vászoly | Hungary | from HUF 750,000/mo | 5 nights | Permanent |
 | [COLIWO TROIS - Kharadi Pune (Colive/Cowork/Hostel)](/coliving/coliwo-trois-kharadi-pune-colive-cowork-hostel/index.md) | Pune | India | On request | — | Permanent |
 | [Cotla Residence](/coliving/cotla-residence/index.md) | Saligao, Goa | India | from $423/mo | 30 nights (~1 month) | Permanent |
-| [Draper Startup House Bangalore](/coliving/draper-startup-house-bangalore/index.md) | Bengaluru | India | from €210/mo | — | Permanent |
 | [Draper Startup House Hyderabad](/coliving/draper-startup-house-hyderabad/index.md) | Hyderabad | India | from €360/mo | — | Permanent |
 | [J Startup House, Jaipur - C Scheme](/coliving/j-startup-house-jaipur-c-scheme/index.md) | Jaipur | India | from INR 400/night | — | Permanent |
 | [Mazal Waddo Residence](/coliving/mazal-waddo-residence/index.md) | Anjuna, Goa | India | from $577/mo | 30 nights (~1 month) | Permanent |
@@ -207,7 +202,6 @@
 | [Taste Remote](/coliving/taste-remote/index.md) | Civita Castellana | Italy | from €690 per event | 7 nights (~1 week) | Pop-up |
 | [Tertulia Coliving](/coliving/tertulia-coliving/index.md) | Vicchio (Mugello, Florence) | Italy | from €699/mo | 14 nights (~2 weeks) | Permanent |
 | [Tertulia Forest Coliving](/coliving/tertulia-forest-coliving/index.md) | Mugello, Tuscany | Italy | from €1,140/mo | 7 nights (~1 week) | Permanent |
-| [Treballu Rural Coliving](/coliving/treballu-rural-coliving/index.md) | Laconi | Italy | On request | — | Permanent |
 | [Treballu Rural Community Hub](/coliving/treballu-rural-community-hub/index.md) | Laconi (Sardinia) | Italy | On request | — | Permanent |
 | [Wome coliving](/coliving/wome-coliving/index.md) | Campo Tartano (Val Tartano) | Italy | On request | 8 nights | Permanent |
 | [ecoVita](/coliving/ecovita/index.md) | San Priamo, San Vito, Sardinia | Italy | from €1,140/mo | 3 nights | Permanent |
@@ -233,7 +227,6 @@
 | [AfricaNomads — Malawi (Lake Malawi) (Jun 2026)](/coliving/africanomads-malawi-lake-malawi-jun-2026/index.md) | Malawi (Lake Malawi) | Malawi | On request | — | Pop-up |
 | [AfricaNomads — Malawi (Lake Malawi) (Oct 2026)](/coliving/africanomads-malawi-lake-malawi-oct-2026/index.md) | Malawi (Lake Malawi) | Malawi | On request | — | Pop-up |
 | [Balai Polis Residence](/coliving/balai-polis-residence/index.md) | Kuala Lumpur | Malaysia | from $196/mo | 30 nights (~1 month) | Permanent |
-| [Digital Nomad House KL Bukit Bintang](/coliving/digital-nomad-house-kl-bukit-bintang/index.md) | Kuala Lumpur | Malaysia | On request | — | Permanent |
 | [Fraser Home](/coliving/fraser-home/index.md) | Kuala Lumpur | Malaysia | from $368/mo | 30 nights (~1 month) | Permanent |
 | [Nomad Shophouse](/coliving/nomad-shophouse/index.md) | Kuala Lumpur | Malaysia | from MYR 2,700/mo | — | Permanent |
 | [The Hatchery Place](/coliving/the-hatchery-place/index.md) | Subang Jaya (Kuala Lumpur area) | Malaysia | from €240/mo | 8 nights | Permanent |
@@ -272,7 +265,6 @@
 | [Triver Coliving](/coliving/triver-coliving/index.md) | Mexico City | Mexico | from $60/night | 1 night | Permanent |
 | [U-Co Roma Coliving](/coliving/u-co-roma-coliving/index.md) | Mexico City | Mexico | from €381/mo | — | Permanent |
 | [WiFi Tribe — Puerto Escondido](/coliving/wifi-tribe-puerto-escondido/index.md) | Puerto Escondido | Mexico | from $1,290/mo | — | Pop-up |
-| [co.404 Coliving Oaxaca](/coliving/co-404-coliving-oaxaca/index.md) | Oaxaca | Mexico | from $570/mo | — | Permanent |
 | [co.404 Coliving San Cristóbal](/coliving/co-404-coliving-san-cristobal/index.md) | San Cristóbal de las Casas | Mexico | from $1,290/mo | — | Permanent |
 | [Boundless Life — Kotor](/coliving/boundless-life-kotor/index.md) | Kotor | Montenegro | from €1,700/mo | — | Pop-up |
 | [CO CO Coworking & Coliving](/coliving/co-co-coworking-and-coliving/index.md) | Kotor | Montenegro | On request | — | Permanent |
@@ -285,15 +277,11 @@
 | [Playworking Coliving](/coliving/playworking-coliving/index.md) | Đuraševići, Luštica Peninsula | Montenegro | from €600/mo | 5 nights | Permanent |
 | [Zaselje Home](/coliving/zaselje-home/index.md) | Presjeka, Nikšić | Montenegro | from $857/mo | 30 nights (~1 month) | Permanent |
 | [Adventurekeys](/coliving/adventurekeys/index.md) | Taghazout | Morocco | from €420/mo | 2 nights | Permanent |
-| [Chateau Nougat Marrakech](/coliving/chateau-nougat-marrakech/index.md) | Marrakech | Morocco | On request | — | Permanent |
 | [Cowork & Live](/coliving/cowork-and-live/index.md) | Casablanca | Morocco | On request | — | Permanent |
 | [Kasbari House](/coliving/kasbari-house/index.md) | Tamraght (near Taghazout/Agadir) | Morocco | from €350/mo | 7 nights (~1 week) | Permanent |
-| [Maghrib Nomads Surf House](/coliving/maghrib-nomads-surf-house/index.md) | Tamraght | Morocco | from €300/mo | — | Permanent |
 | [Nomadico Coliving Taghazout](/coliving/nomadico-coliving-taghazout/index.md) | Taghazout | Morocco | from €715/mo | — | Permanent |
-| [Nomadico Taghazout Bay](/coliving/nomadico-taghazout-bay/index.md) | Taghazout | Morocco | from €715/mo | 7 nights (~1 week) | Permanent |
 | [Outsite Marrakesh](/coliving/outsite-marrakesh/index.md) | Marrakesh | Morocco | On request | — | Permanent |
 | [SunDesk Coliving](/coliving/sundesk-coliving/index.md) | Taghazout | Morocco | from €885/mo | 10 nights | Permanent |
-| [Tamachat Muay Thai](/coliving/tamachat-muay-thai/index.md) | Agafay | Morocco | from €2,400/mo | — | Permanent |
 | [The Tamraght](/coliving/the-tamraght/index.md) | Agadir | Morocco | from $697/mo | 30 nights (~1 month) | Permanent |
 | [The Tasga Oudrar II](/coliving/the-tasga-oudrar-ii/index.md) | Taghazout | Morocco | from $1,429/mo | 30 nights (~1 month) | Permanent |
 | [CoworkSurf](/coliving/coworksurf/index.md) | Multiple (Ericeira, Canggu, others) | Multiple | On request | — | Permanent |
@@ -311,7 +299,6 @@
 | [Seven Space: Coliving](/coliving/seven-space-coliving/index.md) | Lagos | Nigeria | from $30/night | 30 nights (~1 month) | Permanent |
 | [WiFi Tribe — Lake Ohrid](/coliving/wifi-tribe-lake-ohrid/index.md) | Lake Ohrid | North Macedonia | from $1,190/mo | — | Pop-up |
 | [Arctic Coliving](/coliving/arctic-coliving/index.md) | Voss (Mjolfjell) / Henningsvaer, Lofoten | Norway | On request | 7 nights (~1 week) | Permanent |
-| [Arctic Coworking Lodge](/coliving/arctic-coworking-lodge/index.md) | Bostad, Lofoten | Norway | from £980/mo | — | Permanent |
 | [Bjørkedal Home](/coliving/bjrkedal-home/index.md) | Volda | Norway | from $720/mo | 30 nights (~1 month) | Permanent |
 | [Moritsgarden (Digital Nomad Norway)](/coliving/moritsgarden-digital-nomad-norway/index.md) | Folkestad | Norway | from €700/mo | — | Permanent |
 | [Ungsmaløya Residence](/coliving/ungsmalya-residence/index.md) | Nyksund | Norway | from $569/mo | 30 nights (~1 month) | Permanent |
@@ -345,28 +332,23 @@
 | [Caminho Coliving](/coliving/caminho-coliving/index.md) | Moreira, Maia (Porto area) | Portugal | from €595/mo | — | Permanent |
 | [Casa Basilico — Madeira](/coliving/casa-basilico-madeira/index.md) | Madeira | Portugal | from €2,249/mo | — | Pop-up |
 | [Casa do Pico](/coliving/casa-do-pico/index.md) | Funchal, Madeira | Portugal | from €1,050/mo | — | Permanent |
-| [Casa do Pico by Madeira Remote](/coliving/casa-do-pico-by-madeira-remote/index.md) | Funchal, Madeira | Portugal | from €1,200/mo | 7 nights (~1 week) | Permanent |
 | [Casa15 Azores](/coliving/casa15-azores/index.md) | Sao Miguel, Azores | Portugal | from €950/mo | — | Permanent |
 | [Colive Madeira](/coliving/colive-madeira/index.md) | Ponta do Sol, Madeira | Portugal | On request | — | Permanent |
-| [Coliving Ericeira by Barefoot Portugal](/coliving/coliving-ericeira-by-barefoot-portugal/index.md) | Ericeira (Santo Isidoro) | Portugal | from €1,350/mo | 1 night | Permanent |
 | [Coliving The VALLEY with Coworking Space](/coliving/coliving-the-valley-with-coworking-space/index.md) | Rogé, Vale de Cambra | Portugal | from €510/mo | 5 nights | Permanent |
 | [Dwell Azores](/coliving/dwell-azores/index.md) | Fenais da Luz, São Miguel, Azores | Portugal | from €2,160/mo | 28 nights (~4 weeks) | Permanent |
 | [Hacker Paradise — Porto](/coliving/hacker-paradise-porto/index.md) | Porto | Portugal | On request | — | Pop-up |
 | [Homeoffice Madeira](/coliving/homeoffice-madeira/index.md) | Santo da Serra, Santa Cruz (Madeira) | Portugal | from €1,400/mo | 1 night | Permanent |
 | [LIV Colife - Coliving](/coliving/liv-colife-coliving/index.md) | Porto | Portugal | from €660/mo | — | Permanent |
 | [Lava Coliving & Coworking](/coliving/lava-coliving-and-coworking/index.md) | Ribeira Grande, São Miguel | Portugal | from €25/night | 7 nights (~1 week) | Permanent |
-| [Lava Coliving (LAVA Acores)](/coliving/lava-coliving-lava-acores/index.md) | Ribeira Grande, Sao Miguel, Azores | Portugal | from €750/mo | — | Permanent |
 | [Lemon Bros Coliving](/coliving/lemon-bros-coliving/index.md) | Ribeira Grande, São Miguel | Portugal | On request | 14 nights (~2 weeks) | Permanent |
 | [Manas Slowliving](/coliving/manas-slowliving/index.md) | Sines | Portugal | from €1,050/mo | 7 nights (~1 week) | Permanent |
 | [NomaVillage](/coliving/nomavillage/index.md) | Lagos | Portugal | from €1,420/mo | 14 nights (~2 weeks) | Permanent |
 | [Nomadico Coliving Ericeira](/coliving/nomadico-coliving-ericeira/index.md) | Ericeira | Portugal | from €542/mo | 7 nights (~1 week) | Permanent |
-| [Nomadico Ericeira (Sea View Hub)](/coliving/nomadico-ericeira-sea-view-hub/index.md) | Ericeira | Portugal | from €542/mo | 7 nights (~1 week) | Permanent |
 | [Novovento](/coliving/novovento/index.md) | Ginetes, São Miguel, Azores | Portugal | from €300/mo | 7 nights (~1 week) | Permanent |
 | [Onda Co-Living](/coliving/onda-co-living/index.md) | Ferrel (Baleal), Peniche | Portugal | from €1,470/mo | 14 nights (~2 weeks) | Permanent |
 | [Outsite Algarve - Sagres](/coliving/outsite-algarve-sagres/index.md) | Sagres | Portugal | from €800/mo | — | Permanent |
 | [Outsite Algarve - Vilamoura](/coliving/outsite-algarve-vilamoura/index.md) | Vilamoura | Portugal | from €1,000/mo | — | Permanent |
 | [Outsite Cascais - Guincho](/coliving/outsite-cascais-guincho/index.md) | Cascais | Portugal | from €1,000/mo | — | Permanent |
-| [Outsite Coliving Lisbon (Cais do Sodré)](/coliving/outsite-coliving-lisbon-cais-do-sodre/index.md) | Lisbon | Portugal | from €800/mo | — | Permanent |
 | [Outsite Ericeira - Boavista](/coliving/outsite-ericeira-boavista/index.md) | Ericeira | Portugal | from €800/mo | — | Permanent |
 | [Outsite Ericeira - Centro](/coliving/outsite-ericeira-centro/index.md) | Ericeira | Portugal | from €800/mo | — | Permanent |
 | [Outsite Ericeira - Praia do Sul](/coliving/outsite-ericeira-praia-do-sul/index.md) | Ericeira | Portugal | from €1,000/mo | — | Permanent |
@@ -400,11 +382,9 @@
 | [Wild Souls Coliving](/coliving/wild-souls-coliving/index.md) | Ericeira | Portugal | On request | — | Permanent |
 | [Wild Souls Ericeira](/coliving/wild-souls-ericeira/index.md) | Ericeira | Portugal | from €1,800/mo | 7 nights (~1 week) | Permanent |
 | [samesame co-living](/coliving/samesame-co-living/index.md) | Lisbon | Portugal | from €800/mo | 8 nights | Permanent |
-| [samesame living](/coliving/samesame-living/index.md) | Lisbon | Portugal | from €1,320/mo | 8 nights | Permanent |
 | [Outsite Aguadilla](/coliving/outsite-aguadilla/index.md) | Aguadilla | Puerto Rico | On request | — | Permanent |
 | [Tapia Haus 103](/coliving/tapia-haus-103/index.md) | San Juan | Puerto Rico | from $2,500/mo | 30 nights (~1 month) | Permanent |
 | [Cobana](/coliving/cobana/index.md) | Zărnești | Romania | from €775/mo | 7 nights (~1 week) | Permanent |
-| [Cobana Coliving & Working Hub](/coliving/cobana-coliving-and-working-hub/index.md) | Zarnesti, Transylvania | Romania | from RON 2,940/mo | 7 nights (~1 week) | Permanent |
 | [The Better Neighbours — Sinaia](/coliving/the-better-neighbours-sinaia/index.md) | Sinaia | Romania | from €670/mo | — | Pop-up |
 | [Transylvanian Coliving](/coliving/transylvanian-coliving/index.md) | Sibiu | Romania | On request | — | Permanent |
 | [play:space cluj Spatiu Evenimente Coworking Coliving](/coliving/play-space-cluj-spatiu-evenimente-coworking-coliving/index.md) | Cluj-Napoca | Romania | from €100/wk | — | Permanent |
@@ -420,7 +400,6 @@
 | [Cape Coliving](/coliving/cape-coliving/index.md) | Cape Town | South Africa | from €1,095/mo | — | Permanent |
 | [Green Room JBay Coliving](/coliving/green-room-jbay-coliving/index.md) | Jeffreys Bay | South Africa | On request | 14 nights (~2 weeks) | Permanent |
 | [Ideas Cartel at The Old Foundry](/coliving/ideas-cartel-at-the-old-foundry/index.md) | Cape Town | South Africa | On request | — | Permanent |
-| [Neighbourgood](/coliving/neighbourgood/index.md) | Cape Town | South Africa | from R10,000/mo | — | Permanent |
 | [Neighbourgood 113 Loop](/coliving/neighbourgood-113-loop/index.md) | Cape Town | South Africa | from €345/mo | — | Permanent |
 | [Neighbourgood 84 Harrington](/coliving/neighbourgood-84-harrington/index.md) | Cape Town | South Africa | from R24,170/mo | — | Permanent |
 | [Neighbourgood Cape Quarter Living](/coliving/neighbourgood-cape-quarter-living/index.md) | Cape Town | South Africa | from €749/mo | — | Permanent |
@@ -437,15 +416,12 @@
 | [The Hill](/coliving/the-hill/index.md) | Cape Town | South Africa | from $1,103/mo | 30 nights (~1 month) | Permanent |
 | [The Romney](/coliving/the-romney/index.md) | Cape Town | South Africa | from $2,145/mo | 30 nights (~1 month) | Permanent |
 | [Waterkant Residence](/coliving/waterkant-residence/index.md) | Cape Town | South Africa | from $2,343/mo | 30 nights (~1 month) | Permanent |
-| [Draper Startup House Seoul](/coliving/draper-startup-house-seoul/index.md) | Seoul | South Korea | On request | — | Permanent |
 | [Hoppin House](/coliving/hoppin-house/index.md) | Seoul (Yeonnam/Hongdae) | South Korea | from KRW 900,000/mo | — | Permanent |
 | [Noma Collective — Busan](/coliving/noma-collective-busan/index.md) | Busan | South Korea | from $3,490 per event | — | Pop-up |
 | [Seoul Nooks Community Living](/coliving/seoul-nooks-community-living/index.md) | Seoul | South Korea | from €990/mo | 14 nights (~2 weeks) | Permanent |
-| [4wanders | Coliving & Experiences](/coliving/4wanders-coliving-and-experiences/index.md) | Valencia | Spain | from €750/mo | 20 nights | Permanent |
 | [ALMANSA 11 APARTAMENTOS COLIVING](/coliving/almansa-11-apartamentos-coliving/index.md) | Sevilla | Spain | from €550/mo | 7 nights (~1 week) | Permanent |
 | [Amarilla Co-living](/coliving/amarilla-co-living/index.md) | San Miguel de Abona, Tenerife | Spain | On request | — | Permanent |
 | [Anceu Coliving](/coliving/anceu-coliving/index.md) | Ponte Caldelas, Galicia | Spain | from €882/mo | 15 nights | Permanent |
-| [Banama Coliving](/coliving/banama-coliving/index.md) | Corralejo, Fuerteventura | Spain | from €882/mo | — | Permanent |
 | [Banama Surfhouse - Coliving Coworking & Yoga](/coliving/banama-surfhouse-coliving-coworking-and-yoga/index.md) | Corralejo, Fuerteventura | Spain | from €499/mo | — | Permanent |
 | [Bedndesk](/coliving/bedndesk/index.md) | S'Arenal (Mallorca) | Spain | from €750/mo | 30 nights (~1 month) | Permanent |
 | [Bencomo Coliving](/coliving/bencomo-coliving/index.md) | Santa Úrsula, Tenerife | Spain | from €37/night | 15 nights | Permanent |
@@ -512,7 +488,6 @@
 | [Repeople Casa Jardin Coliving](/coliving/repeople-casa-jardin-coliving/index.md) | Las Palmas de Gran Canaria | Spain | from €1,677/mo | — | Permanent |
 | [Repeople Casa Vera Coliving](/coliving/repeople-casa-vera-coliving/index.md) | Las Palmas de Gran Canaria | Spain | from €1,677/mo | — | Permanent |
 | [Repeople Casanova Coliving](/coliving/repeople-casanova-coliving/index.md) | Las Palmas de Gran Canaria | Spain | from €1,677/mo | — | Permanent |
-| [Repeople Coliving](/coliving/repeople-coliving/index.md) | Las Palmas de Gran Canaria | Spain | from €1,677/mo | — | Permanent |
 | [Repeople El Cabo Coliving](/coliving/repeople-el-cabo-coliving/index.md) | Agaete, Gran Canaria | Spain | from €870/mo | 30 nights (~1 month) | Permanent |
 | [Repeople La Luna Coliving](/coliving/repeople-la-luna-coliving/index.md) | Santa Cruz de Tenerife | Spain | from €390/mo | — | Permanent |
 | [Rooral Coliving](/coliving/rooral-coliving/index.md) | Benarrabá | Spain | from €810/mo | 1 night | Permanent |
@@ -529,15 +504,12 @@
 | [The Fernando Salazar Gonzalez](/coliving/the-fernando-salazar-gonzalez/index.md) | Las Galletas | Spain | from $857/mo | 30 nights (~1 month) | Permanent |
 | [The Mozart](/coliving/the-mozart/index.md) | Las Palmas | Spain | from $2,058/mo | 30 nights (~1 month) | Permanent |
 | [The Wave Temple | Surfhouse, Coliving](/coliving/the-wave-temple-surfhouse-coliving/index.md) | Las Palmas de Gran Canaria | Spain | On request | — | Permanent |
-| [Town House Gomila - Palma Coliving Mallorca](/coliving/town-house-gomila-palma-coliving-mallorca/index.md) | Palma de Mallorca | Spain | from €1,650/mo | — | Permanent |
 | [Tulia Community](/coliving/tulia-community/index.md) | Los Realejos, Tenerife | Spain | from €1,140/mo | 6 nights | Permanent |
 | [Tulia Guesthouse](/coliving/tulia-guesthouse/index.md) | Los Realejos | Spain | On request | — | Permanent |
 | [Tursi Digital Nomads — Tenerife (Canary Islands)](/coliving/tursi-digital-nomads-tenerife-canary-islands/index.md) | Tenerife (Canary Islands) | Spain | from €400 per event | — | Pop-up |
 | [VIU Sagrada Familia](/coliving/viu-sagrada-familia/index.md) | Barcelona | Spain | from €1,000/mo | 28 nights (~4 weeks) | Permanent |
-| [Villa Huerta (Palma Coliving Valencia)](/coliving/villa-huerta-palma-coliving-valencia/index.md) | Valencia | Spain | from €960/mo | 30 nights (~1 month) | Permanent |
 | [Vivarium Coliving & Coworking](/coliving/vivarium-coliving-and-coworking/index.md) | Valencia | Spain | from €985/mo | 31 nights | Permanent |
 | [WiFi Tribe — Gran Canaria](/coliving/wifi-tribe-gran-canaria/index.md) | Gran Canaria | Spain | from $1,390/mo | — | Pop-up |
-| [Wolfhouse](/coliving/wolfhouse/index.md) | Los Gigantes, Tenerife | Spain | from €1,350/mo | — | Permanent |
 | [Wonder House Coliving](/coliving/wonder-house-coliving/index.md) | Sant Feliu de Buixalleu, Girona | Spain | from €750/mo | 30 nights (~1 month) | Permanent |
 | [Zen Den Coliving](/coliving/zen-den-coliving/index.md) | Arona (Tenerife) | Spain | On request | — | Permanent |
 | [iSlow Coliving](/coliving/islow-coliving/index.md) | Laxe, A Coruña, Galicia | Spain | from €70/night | 7 nights (~1 week) | Permanent |
@@ -566,7 +538,6 @@
 | [Petit Velan Coliving](/coliving/petit-velan-coliving/index.md) | Bourg-Saint-Pierre | Switzerland | from CHF 500/mo | 7 nights (~1 week) | Permanent |
 | [STAY@Basel SBB](/coliving/stay-basel-sbb/index.md) | Basel | Switzerland | On request | — | Permanent |
 | [Swiss Alps Coliving](/coliving/swiss-alps-coliving/index.md) | Liddes | Switzerland | from CHF 700/mo | — | Permanent |
-| [Swiss Alps Coliving (by Frilingue)](/coliving/swiss-alps-coliving-by-frilingue/index.md) | Liddes (Valais) | Switzerland | from CHF 700/mo | 7 nights (~1 week) | Permanent |
 | [Swiss Escape](/coliving/swiss-escape/index.md) | Grimentz | Switzerland | from CHF 990/mo | 7 nights (~1 week) | Permanent |
 | [Vermont Hub](/coliving/vermont-hub/index.md) | Leysin | Switzerland | On request | 7 nights (~1 week) | Permanent |
 | [Banana Coliving](/coliving/banana-coliving/index.md) | Taipei | Taiwan | from TWD 4,400/mo | 30 nights (~1 month) | Permanent |
@@ -578,14 +549,12 @@
 | [Backyard Ventures](/coliving/backyard-ventures/index.md) | Arusha | Tanzania | from $2,750 per event | 30 nights (~1 month) | Pop-up |
 | [WiFi Tribe — Zanzibar City](/coliving/wifi-tribe-zanzibar-city/index.md) | Zanzibar City | Tanzania | from $1,390/mo | — | Pop-up |
 | [4Seas Nimman Coliving Coworking Space](/coliving/4seas-nimman-coliving-coworking-space/index.md) | Chiang Mai | Thailand | On request | — | Permanent |
-| [Alt Chiang Mai](/coliving/alt-chiang-mai/index.md) | Chiang Mai | Thailand | from €720/mo | 6 nights | Permanent |
 | [Alt Coliving](/coliving/alt-coliving/index.md) | Chiang Mai | Thailand | from €500/mo | 30 nights (~1 month) | Permanent |
 | [Alt_PingRiver](/coliving/alt-pingriver/index.md) | Chiang Mai | Thailand | from €810/mo | 29 nights | Permanent |
 | [Chiangmai Inn Guesthouse](/coliving/chiangmai-inn-guesthouse/index.md) | Chiang Mai | Thailand | On request | — | Permanent |
 | [Digital Nomad Adventures](/coliving/digital-nomad-adventures/index.md) | Koh Phangan | Thailand | from $695/mo | 7 nights (~1 week) | Permanent |
 | [HOMA Phuket Town](/coliving/homa-phuket-town/index.md) | Phuket | Thailand | from THB 18,000/mo | — | Permanent |
 | [Hub53 Coworking & Coliving](/coliving/hub53-coworking-and-coliving/index.md) | Chiang Mai | Thailand | from THB 9,000/mo | — | Permanent |
-| [Hub53 Coworking and Coliving Space](/coliving/hub53-coworking-and-coliving-space/index.md) | Chiang Mai (Nimman) | Thailand | from THB 9,000/mo | — | Permanent |
 | [KoHub](/coliving/kohub/index.md) | Ko Lanta | Thailand | from THB 49,500/mo | — | Permanent |
 | [LITA Bangkok](/coliving/lita-bangkok/index.md) | bangkok | Thailand | On request | — | Permanent |
 | [Noma Collective — Koh Lanta](/coliving/noma-collective-koh-lanta/index.md) | Koh Lanta | Thailand | from $3,190 per event | — | Pop-up |
@@ -608,7 +577,6 @@
 | [Outsite London - Canary Wharf](/coliving/outsite-london-canary-wharf/index.md) | London | United Kingdom | On request | — | Permanent |
 | [SeaSpace](/coliving/seaspace/index.md) | Newquay | United Kingdom | from £1,625/mo | — | Permanent |
 | [Somewhere Different](/coliving/somewhere-different/index.md) | Blackpool | United Kingdom | from £400/mo | — | Permanent |
-| [Somewhere Different UK](/coliving/somewhere-different-uk/index.md) | Blackpool | United Kingdom | from £300/mo | — | Permanent |
 | [Draper Startup House New York](/coliving/draper-startup-house-new-york/index.md) | New York | United States | On request | — | Permanent |
 | [Haven Coliving](/coliving/haven-coliving/index.md) | Venice, California | United States | from $995/mo | 30 nights (~1 month) | Permanent |
 | [Neighbourgood 15th Street](/coliving/neighbourgood-15th-street/index.md) | San Francisco | United States | On request | — | Permanent |
@@ -631,7 +599,6 @@
 | [Outsite San Francisco - Pacific Heights](/coliving/outsite-san-francisco-pacific-heights/index.md) | San Francisco | United States | from $114/night | — | Permanent |
 | [Zeta House](/coliving/zeta-house/index.md) | Austin | United States | from $1,160/wk | — | Permanent |
 | [Boundless Life — La Barra](/coliving/boundless-life-la-barra/index.md) | La Barra | Uruguay | from $1,090/mo | — | Pop-up |
-| [Draper Startup House Punta del Este](/coliving/draper-startup-house-punta-del-este/index.md) | Punta del Este | Uruguay | On request | — | Permanent |
 | [Opta Coliving](/coliving/opta-coliving/index.md) | Montevideo | Uruguay | from $2,400/mo | — | Permanent |
 | [ZAG Coliving](/coliving/zag-coliving/index.md) | Punta del Este | Uruguay | from $650/mo | — | Permanent |
 | [Coworking Danang](/coliving/coworking-danang/index.md) | Da Nang | Vietnam | from VND 25,000,000/mo | 30 nights (~1 month) | Permanent |

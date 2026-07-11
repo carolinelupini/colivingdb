@@ -1,6 +1,6 @@
 # Nomadico Gran Canaria
 
-> Coliving in Las Palmas de Gran Canaria, Spain. Last updated July 11, 2026.
+> Coliving in Las Palmas de Gran Canaria, Spain. Last updated July 12, 2026.
 
 - **Location:** Las Palmas de Gran Canaria, Spain
 - **Type:** Permanent coliving
@@ -8,6 +8,7 @@
 - **Price note:** from EUR980/month
 - **Room types:** private, shared
 - **Dorm available:** No
+- **Vibe:** 'Our Coliving blends blue and white coastal charm with a relaxed fishing village feel and a rooftop rhythm.'
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>

@@ -1,6 +1,6 @@
 # WiFi Tribe — Ponta Delgada (Azores)
 
-> Coliving in Ponta Delgada (Azores), Portugal. Last updated July 11, 2026.
+> Coliving in Ponta Delgada (Azores), Portugal. Last updated July 12, 2026.
 
 - **Location:** Ponta Delgada (Azores), Portugal
 - **Type:** Pop-up / dated edition
@@ -9,6 +9,7 @@
 - **Price note:** guesthouse accommodation (shared room, Veteran tier) + coworking + community activities for the month-long chapter
 - **Room types:** —
 - **Dorm available:** No
+- **Vibe:** A month-long coliving/coworking chapter of 15-25 remote professionals and entrepreneurs balanced across genders, nationalities, and experience levels, mixing productive work weeks with weekend adventures — hiking to crater lakes, chasing waterfalls, and soaking in thermal baths.
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT-1 winter / GMT+0 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>

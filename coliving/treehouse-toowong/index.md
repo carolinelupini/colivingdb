@@ -1,6 +1,6 @@
 # Treehouse Toowong
 
-> Coliving in Brisbane, Australia. Last updated July 11, 2026.
+> Coliving in Brisbane, Australia. Last updated July 12, 2026.
 
 - **Location:** Brisbane, Australia
 - **Type:** Permanent coliving
@@ -8,6 +8,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=8937728641687268928&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (26 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** A relaxed, respectful, friendly community built to "work smarter, relax fully, and connect effortlessly," combining a co-working hub and study areas with a rooftop lounge, outdoor cinema, games, and communal dining.
 - **Minimum stay:** —
 - **Region:** Oceania
 - **Timezone:** GMT+10 <small>· US East: async only · Central Europe: async only</small>

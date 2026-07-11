@@ -1,6 +1,6 @@
 # Canestanco 18 Living
 
-> Coliving in Santa Croce Camerina, Sicily, Italy. Last updated July 11, 2026.
+> Coliving in Santa Croce Camerina, Sicily, Italy. Last updated July 12, 2026.
 
 - **Location:** Santa Croce Camerina, Sicily, Italy
 - **Type:** Permanent coliving
@@ -9,6 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=17982696188886216662&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (9 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** 'Peace, nature, and a true sense of community—without sacrificing productivity,' on an eco-conscious farm setting.
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

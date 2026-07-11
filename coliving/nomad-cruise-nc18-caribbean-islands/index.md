@@ -1,6 +1,6 @@
 # Nomad Cruise — NC18 Caribbean Islands
 
-> Coliving in Barcelona → Caribbean. Last updated July 11, 2026.
+> Coliving in Barcelona → Caribbean. Last updated July 12, 2026.
 
 - **Location:** Barcelona → Caribbean
 - **Type:** Pop-up / dated edition
@@ -9,6 +9,7 @@
 - **Price note:** Cabin price not published; a €500 deposit secures a cabin. Ticket covers cabin, all onboard meals, wifi and the full programme.
 - **Room types:** private, shared
 - **Dorm available:** No
+- **Vibe:** 'The world's largest workation at sea' — self-described as part cruise, part conference, part party, bringing together freelancers, entrepreneurs and remote workers.
 - **Minimum stay:** 14 nights (~2 weeks)
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

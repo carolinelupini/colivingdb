@@ -1,6 +1,6 @@
 # Coliving in Mexico
 
-> 31 colivings in Mexico, prices from €46 to €1,380 per month – last updated July 11, 2026.
+> 30 colivings in Mexico, prices from €46 to €1,380 per month – last updated July 12, 2026.
 
 ## All colivings
 
@@ -13,7 +13,6 @@
 | The Polar II | Tulum | from $570/mo | 3.8 (76) | private | 30 nights (~1 month) | Permanent |
 | Coliving Condesa | Mexico City | from MXN 10,000/mo | 4.9 (47) | private | — | Permanent |
 | Co.404 Oaxaca City | Oaxaca | from $570/mo | 4.7 (162) | private | 30 nights (~1 month) | Permanent |
-| co.404 Coliving Oaxaca | Oaxaca | from $570/mo | 4.7 (162) | private, dorm | — | Permanent |
 | Outsite Mexico City - Colonia San Miguel | Mexico City | from $749/mo | — | private | — | Permanent |
 | Nomadico Coliving Puerto Escondido | Puerto Escondido | from $749/mo | 5.0 (22) | private | 7 nights (~1 week) | Permanent |
 | Mi Casa Coliving | Puerto Escondido | from €720/mo | 5.0 (5) | private | 7 nights (~1 week) | Permanent |
@@ -43,7 +42,7 @@
 | Band (EUR/mo) | Colivings |
 |---|---|
 | 0–500 | 5 |
-| 500–800 | 7 |
+| 500–800 | 6 |
 | 800–1200 | 3 |
 | 1200–2000 | 1 |
 

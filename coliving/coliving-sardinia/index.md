@@ -1,6 +1,6 @@
 # Coliving Sardinia
 
-> Coliving in Porto Cervo, Sardinia, Italy. Last updated July 11, 2026.
+> Coliving in Porto Cervo, Sardinia, Italy. Last updated July 12, 2026.
 
 - **Location:** Porto Cervo, Sardinia, Italy
 - **Type:** Permanent coliving
@@ -8,6 +8,8 @@
 - **Price note:** from €40/night single; monthly from €950
 - **Room types:** private, shared
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 100 Mbps <small>· operator-reported</small>
+- **Vibe:** A Mediterranean home for movement, exploration, and meaningful connections — morning yoga by the sea, bouldering on granite rocks, and diving in crystal-clear waters — balancing productivity with relaxation at one's own pace.
 - **Minimum stay:** 14 nights (~2 weeks)
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

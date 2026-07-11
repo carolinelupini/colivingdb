@@ -1,6 +1,6 @@
 # Outsite Sofia
 
-> Coliving in Sofia, Bulgaria. Last updated July 11, 2026.
+> Coliving in Sofia, Bulgaria. Last updated July 12, 2026.
 
 - **Location:** Sofia, Bulgaria
 - **Type:** Permanent coliving
@@ -8,6 +8,7 @@
 - **Price note:** est.; Outsite Curated (WorkNomads Hotel)
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** Bulgaria's first nomad hotel blending private comfort-focused rooms with shared community spaces, a laid-back vibe, and slow-travel culture.
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

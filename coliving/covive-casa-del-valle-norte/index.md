@@ -1,6 +1,6 @@
 # Covive Casa Del Valle Norte
 
-> Coliving in Mexico City, Mexico. Last updated July 11, 2026.
+> Coliving in Mexico City, Mexico. Last updated July 12, 2026.
 
 - **Location:** Mexico City, Mexico
 - **Type:** Permanent coliving
@@ -9,6 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=14137048940801511251&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.1 (28 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** A vibrant, design-forward coliving in Mexico City for international young professionals, blending shared coworking and social spaces with a warm, community-building ethos.
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>

@@ -1,6 +1,6 @@
 # Soul Co-Living Vila Franca de Xira
 
-> Coliving in Ericeira, Portugal. Last updated July 11, 2026.
+> Coliving in Ericeira, Portugal. Last updated July 12, 2026.
 
 - **Location:** Ericeira, Portugal
 - **Type:** Permanent coliving
@@ -8,6 +8,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=6089961036629379460&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.2 (26 reviews)</a> <small>· Google</small>
 - **Room types:** private, apartment
 - **Dorm available:** No
+- **Vibe:** A reset-focused co-living space for artists, entrepreneurs, and nomads, set in a timeless village, blending art, work, and well-being.
 - **Community size:** Rooms accommodate 1-3 guests; apartment (Casa Passaro) accommodates up to 5 guests.
 - **Minimum stay:** —
 - **Region:** Europe

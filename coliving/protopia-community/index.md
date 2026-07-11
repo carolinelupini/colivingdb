@@ -1,6 +1,6 @@
 # Protopia Community
 
-> Coliving in San José, Costa Rica. Last updated July 11, 2026.
+> Coliving in San José, Costa Rica. Last updated July 12, 2026.
 
 - **Location:** San José, Costa Rica
 - **Type:** Permanent coliving
@@ -8,6 +8,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=12822643989564394108&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (18 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
+- **Vibe:** 'A unique jungle space where artists, entrepreneurs, activists, and digital nomads live, work, play and explore together' — proving 'comfort and sustainability can share the same roof.'
 - **Minimum stay:** 14 nights (~2 weeks)
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>

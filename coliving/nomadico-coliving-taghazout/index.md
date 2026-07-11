@@ -1,6 +1,6 @@
 # Nomadico Coliving Taghazout
 
-> Coliving in Taghazout, Morocco. Last updated July 11, 2026.
+> Coliving in Taghazout, Morocco. Last updated July 12, 2026.
 
 - **Location:** Taghazout, Morocco
 - **Type:** Permanent coliving
@@ -9,6 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=9998611476335671694&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (86 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
+- **Vibe:** Community-driven digital nomad hub pairing remote-work infrastructure with authentic local adventure and cultural immersion
 - **Minimum stay:** —
 - **Region:** Africa
 - **Timezone:** GMT+1 <small>· US East: good overlap · Central Europe: full workday overlap</small>

@@ -1,6 +1,6 @@
 # Outsite Ericeira - Boavista
 
-> Coliving in Ericeira, Portugal. Last updated July 11, 2026.
+> Coliving in Ericeira, Portugal. Last updated July 12, 2026.
 
 - **Location:** Ericeira, Portugal
 - **Type:** Permanent coliving
@@ -8,6 +8,7 @@
 - **Price note:** nightly private, add dates for rate
 - **Room types:** private
 - **Dorm available:** Yes
+- **Vibe:** 'A surf lodge above the Atlantic' built for both focus and downtime, in Ericeira's creative hub for surfers, digital nomads, and remote workers.
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>

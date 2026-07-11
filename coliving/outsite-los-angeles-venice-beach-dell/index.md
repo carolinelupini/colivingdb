@@ -1,6 +1,6 @@
 # Outsite Los Angeles - Venice Beach Dell
 
-> Coliving in Los Angeles, United States. Last updated July 11, 2026.
+> Coliving in Los Angeles, United States. Last updated July 12, 2026.
 
 - **Location:** Los Angeles, United States
 - **Type:** Permanent coliving
@@ -8,6 +8,8 @@
 - **Price note:** pricing via date selection
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 302 Mbps <small>· operator-reported</small>
+- **Vibe:** An "Urban Garden Oasis" modern coastal home geared toward startups, sunshine, and beach life, offering a spacious live-work area and calm outdoor spots to unwind.
 - **Minimum stay:** —
 - **Region:** North America
 - **Timezone:** GMT-8 winter / GMT-7 summer <small>· US East: good overlap · Central Europe: async only</small>

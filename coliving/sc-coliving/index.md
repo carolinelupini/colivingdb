@@ -1,6 +1,6 @@
 # SC Coliving
 
-> Coliving in St Julian's, Malta. Last updated July 11, 2026.
+> Coliving in St Julian's, Malta. Last updated July 12, 2026.
 
 - **Location:** St Julian's, Malta
 - **Type:** Permanent coliving
@@ -8,6 +8,7 @@
 - **Price note:** from €14/day
 - **Room types:** private, shared
 - **Dorm available:** No
+- **Vibe:** Creative, entrepreneurial networking hub where 'work feels like a vacation every day,' geared toward digital nomads, freelancers, and startups
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

@@ -1,12 +1,13 @@
 # Coworksurf Kuta Lombok
 
-> Coliving in Kuta Lombok, Indonesia. Last updated July 11, 2026.
+> Coliving in Kuta Lombok, Indonesia. Last updated July 12, 2026.
 
 - **Location:** Kuta Lombok, Indonesia
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** Markets Kuta Lombok as 'the main hub for surfers, digital nomads, and travelers alike.'
 - **Minimum stay:** —
 - **Region:** Asia
 - **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>

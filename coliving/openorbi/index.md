@@ -1,6 +1,6 @@
 # OPENORBI
 
-> Coliving in Ávila area (rural, ~2hrs from Madrid), Spain. Last updated July 11, 2026.
+> Coliving in Ávila area (rural, ~2hrs from Madrid), Spain. Last updated July 12, 2026.
 
 - **Location:** Ávila area (rural, ~2hrs from Madrid), Spain
 - **Type:** Pop-up / dated edition
@@ -9,6 +9,7 @@
 - **Price note:** shared room, coworking access, coffee/tea, fruit, community kitchen, community car, bonfire
 - **Room types:** —
 - **Dorm available:** No
+- **Vibe:** A rural, holistic retreat near Ávila for entrepreneurs and remote workers blending meditation, yoga, bonfire nights, and starry-sky nature immersion.
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

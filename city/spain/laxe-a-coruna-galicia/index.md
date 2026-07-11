@@ -1,6 +1,6 @@
 # Coliving in Laxe, A Coruña, Galicia, Spain
 
-> 1 colivings in Laxe, A Coruña, Galicia, Spain – last updated July 11, 2026.
+> 1 colivings in Laxe, A Coruña, Galicia, Spain – last updated July 12, 2026.
 
 ## All colivings
 

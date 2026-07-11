@@ -1,6 +1,6 @@
 # Boundless Life — Sintra
 
-> Coliving in Sintra, Portugal. Last updated July 11, 2026.
+> Coliving in Sintra, Portugal. Last updated July 12, 2026.
 
 - **Location:** Sintra, Portugal
 - **Type:** Pop-up / dated edition
@@ -9,6 +9,7 @@
 - **Price note:** children's education (5 days/wk, ages 1.5-14), all meals, 24/7 coworking, community activities, furnished apartment + utilities
 - **Room types:** —
 - **Dorm available:** No
+- **Vibe:** A nature-immersed, family-oriented learning and remote-work community with outdoor recreational features (climbing structures, garden, mud kitchen) where families form deep, genuine friendships and support one another.
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>

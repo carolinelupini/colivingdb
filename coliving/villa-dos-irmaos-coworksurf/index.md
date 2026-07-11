@@ -1,6 +1,6 @@
 # Villa dos Irmaos (Coworksurf)
 
-> Coliving in Ericeira, Portugal. Last updated July 11, 2026.
+> Coliving in Ericeira, Portugal. Last updated July 12, 2026.
 
 - **Location:** Ericeira, Portugal
 - **Type:** Permanent coliving
@@ -8,6 +8,8 @@
 - **Price note:** pricing only via booking dates
 - **Room types:** private, dorm
 - **Dorm available:** Yes
+- **Wi-Fi (on-site):** 500 Mbps <small>· operator-reported</small>
+- **Vibe:** Homely coliving vibe blending entrepreneurial remote work with surf lifestyle and community activities like beach volleyball and jam nights
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
