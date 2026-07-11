@@ -14,7 +14,7 @@
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
-- **Tags:** rural, eco, community, family
+- **Tags:** rural, eco, community
 - **Included:** Private or shared room, Three homemade meals a day, High-speed wifi (200/35 Mbps), Utilities included, Common area + room cleaning, Pool, yoga space, BBQ area, bicycles, Community activities (yoga, meditation, workshops, movie nights, outings), Access to a community 7-seater car
 - **Not included:** Pets (not allowed despite general pet-friendly note), Sauna (listed as coming soon)
 - **Second guest:** Couples are allowed, with couple-friendly private rooms available, though no specific extra charge is stated.
