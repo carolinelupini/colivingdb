@@ -29,7 +29,17 @@ tr:last-child td{border-bottom:none}
 .facts dl>:nth-last-child(-n+2){border-bottom:none}
 .pill{display:inline-block;background:#eef6f3;color:#0e7c66;border-radius:999px;padding:2px 10px;font-size:.78rem;margin:0 5px 5px 0}
 .tagrow{margin:0 0 10px}
-.pfgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:10px;margin:8px 0 22px}
+.pfgrid{display:grid;grid-template-columns:repeat(var(--pfc,4),minmax(0,1fr));gap:10px;margin:8px 0 22px}
+@media(max-width:680px){.pfgrid{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:400px){.pfgrid{grid-template-columns:1fr}}
+.tdwhy{margin:6px 0 14px}
+.tdgroup{margin:0 0 12px}
+.tdlab{display:block;font-size:.72rem;text-transform:uppercase;letter-spacing:.04em;color:#6b7280;margin-bottom:5px}
+.tdchip{display:inline-block;background:#fff;border:1px solid #e5e9f0;border-radius:8px;padding:4px 11px;margin:0 6px 6px 0;font-size:.86rem}
+.tdfood{margin:12px 0 4px}
+.tdcta{margin:14px 0 6px}
+.tdcta a{color:#0e7c66;font-weight:600;text-decoration:none}
+.tdcta a:hover{text-decoration:underline}
 .pf{background:#fff;border:1px solid #e5e9f0;border-radius:10px;padding:9px 13px}
 .pf span{display:block;font-size:.72rem;color:#6b7280;text-transform:uppercase;letter-spacing:.04em}
 .pf b{font-size:.9rem;font-weight:600}

@@ -29,7 +29,17 @@ tr:last-child td{border-bottom:none}
 .facts dl>:nth-last-child(-n+2){border-bottom:none}
 .pill{display:inline-block;background:#eef6f3;color:#0e7c66;border-radius:999px;padding:2px 10px;font-size:.78rem;margin:0 5px 5px 0}
 .tagrow{margin:0 0 10px}
-.pfgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:10px;margin:8px 0 22px}
+.pfgrid{display:grid;grid-template-columns:repeat(var(--pfc,4),minmax(0,1fr));gap:10px;margin:8px 0 22px}
+@media(max-width:680px){.pfgrid{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:400px){.pfgrid{grid-template-columns:1fr}}
+.tdwhy{margin:6px 0 14px}
+.tdgroup{margin:0 0 12px}
+.tdlab{display:block;font-size:.72rem;text-transform:uppercase;letter-spacing:.04em;color:#6b7280;margin-bottom:5px}
+.tdchip{display:inline-block;background:#fff;border:1px solid #e5e9f0;border-radius:8px;padding:4px 11px;margin:0 6px 6px 0;font-size:.86rem}
+.tdfood{margin:12px 0 4px}
+.tdcta{margin:14px 0 6px}
+.tdcta a{color:#0e7c66;font-weight:600;text-decoration:none}
+.tdcta a:hover{text-decoration:underline}
 .pf{background:#fff;border:1px solid #e5e9f0;border-radius:10px;padding:9px 13px}
 .pf span{display:block;font-size:.72rem;color:#6b7280;text-transform:uppercase;letter-spacing:.04em}
 .pf b{font-size:.9rem;font-weight:600}
@@ -103,6 +113,7 @@ header.site select{margin-left:auto;font:inherit;font-size:.84rem;padding:6px 9p
 <div class="tagrow"></div>
 <a class="cta" href="https://www.noma-collective.com/editions/sao-vicente-cape-verde-nov-29-2026" target="_blank" rel="nofollow noopener">Visit Noma Collective — Sao Vicente →</a>
 <div class="facts"><dl><dt>Location</dt><dd>Sao Vicente, Cape Verde</dd><dt>Type</dt><dd>Pop-up / dated edition</dd><dt>Dates</dt><dd>Nov 29 - Dec 20, 2026</dd><dt>Price</dt><dd>from <span class="m" data-a="2290" data-c="USD">$2,290</span> per event</dd><dt>Price note</dt><dd>pp, + fees and taxes (not included)</dd><dt>Room types</dt><dd>—</dd><dt>Dorm available</dt><dd>No</dd><dt>Minimum stay</dt><dd>—</dd><dt>Region</dt><dd>Europe</dd><dt>Timezone</dt><dd>GMT-1 <small>· US East: good overlap · Central Europe: good overlap</small></dd></dl></div>
+<div class="hubsignup compact"><div class="sg-txt"><h3>New colivings in your inbox</h3><p>New spaces + upcoming pop-ups, monthly.</p></div><iframe src="https://subscribe-forms.beehiiv.com/e2050a21-3afe-41f0-a9de-132528b8cda6?utm_source=colivingdb&amp;utm_medium=seo&amp;utm_campaign=coliving-noma-collective-sao-vicente" title="Subscribe to colivingDB" loading="lazy" scrolling="no"></iframe></div>
 
 <h2>What’s included</h2><ul class="inclist"><li>Preloaded eSIM</li><li>Onsite community manager</li><li>Laundry, AC, fans, pool</li><li>Onsite bar, restaurant, beach club</li><li>Apartment workspace</li><li>Airport transfers</li><li>Alumni network access</li></ul>
 <h2>Not included</h2><ul class="exclist"><li>Travel/health insurance</li><li>Excursions (coming soon)</li><li>Flights</li><li>Food &amp; beverage</li></ul>
@@ -119,8 +130,7 @@ function cf(btn,toF){
 </script>
 
 <h2>Getting there</h2><ul class="aplist"><li><b>Cesaria Evora International Airport</b> (VXE) <span class="apkm">~6 km</span><small>Nearest airport · <a href="https://www.flightconnections.com/flights-to-vxe" target="_blank" rel="noopener">nonstop routes →</a></small></li><li><b>Amílcar Cabral International Airport</b> (SID) <span class="apkm">~219 km</span><small>Major international hub · <a href="https://www.flightconnections.com/flights-to-sid" target="_blank" rel="noopener">nonstop routes →</a></small></li><li><b>Preguiça Airport</b> (SNE) <span class="apkm">~82 km</span><small>Also consider · <a href="https://www.flightconnections.com/flights-to-sne" target="_blank" rel="noopener">nonstop routes →</a></small></li></ul><p>Cesária Évora Airport (VXE); transfers included.</p>
-<h2>Practical facts — Cape Verde</h2><div class="pfgrid"><div class="pf"><span>Currency</span><b>Cape Verdean escudo</b></div><div class="pf"><span>Languages</span><b>Portuguese, Cape Verdean Creole</b></div><div class="pf"><span>Plugs</span><b>Type C (Europlug), Type F (Schuko)</b></div><div class="pf"><span>Voltage</span><b>220 V</b></div><div class="pf"><span>Driving side</span><b>right</b></div><div class="pf"><span>Calling code</span><b>+238</b></div><div class="pf"><span>Emergency</span><b>130, 131, 132</b></div></div>
-<div class="hubsignup compact"><div class="sg-txt"><h3>New colivings in your inbox</h3><p>New spaces + upcoming pop-ups, monthly.</p></div><iframe src="https://subscribe-forms.beehiiv.com/e2050a21-3afe-41f0-a9de-132528b8cda6?utm_source=colivingdb&amp;utm_medium=seo&amp;utm_campaign=coliving-noma-collective-sao-vicente" title="Subscribe to colivingDB" loading="lazy" scrolling="no"></iframe></div>
+<h2>Practical facts — Cape Verde</h2><div class="pfgrid" style="--pfc:4"><div class="pf"><span>Currency</span><b>Cape Verdean escudo</b></div><div class="pf"><span>Languages</span><b>Portuguese, Cape Verdean Creole</b></div><div class="pf"><span>Plugs</span><b>Type C (Europlug), Type F (Schuko)</b></div><div class="pf"><span>Voltage</span><b>220 V</b></div><div class="pf"><span>Driving side</span><b>right</b></div><div class="pf"><span>Calling code</span><b>+238</b></div><div class="pf"><span>Emergency</span><b>130, 131, 132</b></div></div>
 <h2>Before you go</h2><ul class="bglist"><li><a href="https://genki.world/with/cl" target="_blank" rel="sponsored noopener">Genki</a> — health insurance built for nomads and long-term travelers</li><li><a href="https://roamless.com/" target="_blank" rel="sponsored noopener">Roamless</a> — global eSIM that works across borders, code <b>CAROLINBFL</b> for $5 credit</li></ul><p class="muted">Affiliate links — colivingDB may earn a commission, at no extra cost to you.</p>
 
 
