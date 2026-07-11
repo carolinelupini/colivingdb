@@ -183,6 +183,9 @@
   .listsignup .signup-form{flex:1 1 240px; max-width:340px; height:44px; margin:0;}
   .empty{padding:40px 22px; text-align:center; color:var(--muted);}
   footer{max-width:var(--wrap); margin:24px auto 0; padding:18px 22px 40px; color:var(--muted); font-size:.78rem; line-height:1.6; border-top:1px solid var(--line);}
+  .fmtchecks{display:inline-flex; align-items:center; gap:12px; padding:0 4px;}
+  .fmtchk{display:inline-flex; align-items:center; gap:5px; font-size:.85rem; color:var(--ink); cursor:pointer; white-space:nowrap;}
+  .fmtchk input{accent-color:var(--accent); cursor:pointer; margin:0;}
   .seg{display:inline-flex; border:1px solid var(--line); border-radius:8px; overflow:hidden; background:#fff;}
   .seg button{border:none; background:none; font:inherit; font-size:.8rem; padding:6px 11px; cursor:pointer; color:var(--muted); border-right:1px solid var(--line);}
   .seg button:last-child{border-right:none;}
@@ -251,11 +254,10 @@
         <option value="shared">Shared room</option>
         <option value="dorm">Dorm available</option>
       </select>
-      <select id="format" autocomplete="off">
-        <option value="">All types</option>
-        <option value="permanent">Permanent</option>
-        <option value="pop-up">Pop-ups</option>
-      </select>
+      <span class="fmtchecks" role="group" aria-label="Show which types">
+        <label class="fmtchk"><input type="checkbox" id="fPerm" checked>Permanent</label>
+        <label class="fmtchk"><input type="checkbox" id="fPop" checked>Pop-ups</label>
+      </span>
       <select id="month" autocomplete="off" title="Pop-ups running in a given month (permanents always shown)"><option value="">Any month</option></select>
       <select id="minstay" autocomplete="off" title="Shortest stay a place will accept">
         <option value="">Any stay length</option>
@@ -311,7 +313,7 @@
 <div id="landing">
   <div class="browse-h">Browse by region</div>
   <div class="cards-grid" id="regionCards"></div>
-  <div class="browse-h">Browse by type</div>
+  <div class="browse-h">Browse by interest</div>
   <div class="cards-grid types" id="typeCards"></div>
   <div class="signup">
     <div class="signup-inner">
@@ -399,7 +401,7 @@ const TAGS = Object.keys(tagFreq).sort((a,b)=>tagFreq[b]-tagFreq[a]);
 // order interleaves warm/cool so the look-alike pairs never sit next to each other
 const TYPE_ORDER = ["community","beach","family","island","coworking","eco","rural","startup","surf","mountain","ski","city"];
 
-const state = {region:"All", country:"", room:"", format:"", month:"", minStay:"", minRating:"", sort:"", tags:new Set(), priceMin:0, priceMax:null, q:"", showAll:false, currency:"", unit:"month"};
+const state = {region:"All", country:"", room:"", showPerm:true, showPop:true, month:"", minStay:"", minRating:"", sort:"", tags:new Set(), priceMin:0, priceMax:null, q:"", showAll:false, currency:"", unit:"month"};
 
 // ---- pop-up month coverage: turn a popupDates string into the set of YYYY-MM it spans ----
 const MONTH_IDX={jan:1,feb:2,mar:3,apr:4,may:5,jun:6,jul:7,aug:8,sep:9,sept:9,oct:10,nov:11,dec:12,
@@ -572,7 +574,9 @@ const countrySel=document.getElementById("country");
 });
 countrySel.onchange=e=>{state.country=e.target.value; render();};
 document.getElementById("room").onchange=e=>{state.room=e.target.value; render();};
-document.getElementById("format").onchange=e=>{state.format=e.target.value; render();};
+// type is now two checkboxes (both checked = show all, incl. any programs). Unchecking hides that type.
+document.getElementById("fPerm").onchange=e=>{state.showPerm=e.target.checked; render();};
+document.getElementById("fPop").onchange=e=>{state.showPop=e.target.checked; render();};
 // month dropdown: every month any live pop-up covers, from this month forward
 const monthSel=document.getElementById("month");
 { const nowKey=(()=>{const d=new Date();return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0");})();
@@ -663,10 +667,11 @@ document.addEventListener("keydown",e=>{ if(e.key==="Escape" && formModal.style.
 // clear every filter to default. `toBrowse` = also return to the browse landing (Back / logo);
 // otherwise stay on the current list view with the map + filters and all colivings shown (Reset).
 function resetFilters(toBrowse){
-  Object.assign(state,{region:"All",country:"",room:"",format:"",month:"",minStay:"",minRating:"",sort:"",priceMin:0,priceMax:null,q:"",unit:"month"});
+  Object.assign(state,{region:"All",country:"",room:"",showPerm:true,showPop:true,month:"",minStay:"",minRating:"",sort:"",priceMin:0,priceMax:null,q:"",unit:"month"});
   state.tags.clear();
   state.showAll = (toBrowse === true) ? false : true;
-  ["country","room","format","month","minstay","minrating","sort"].forEach(id=>document.getElementById(id).value="");
+  ["country","room","month","minstay","minrating","sort"].forEach(id=>document.getElementById(id).value="");
+  document.getElementById("fPerm").checked=true; document.getElementById("fPop").checked=true;
   document.querySelectorAll("#unitSeg button").forEach(b=>b.classList.toggle("on", b.dataset.unit==="month"));
   priceSliderInit();
   document.getElementById("search").value="";
@@ -695,7 +700,7 @@ window.addEventListener("resize", () => map.invalidateSize());
 let markers=[];
 
 function isBrowse(){
-  return state.region==="All" && !state.country && !state.room && !state.format && !state.month && !state.minStay && !state.minRating
+  return state.region==="All" && !state.country && !state.room && state.showPerm && state.showPop && !state.month && !state.minStay && !state.minRating
     && !state.tags.size && priceIsDefault() && !state.q && !state.showAll;
 }
 function hasRoom(x, room){
@@ -707,7 +712,7 @@ function filtered(){
     (state.region==="All"||x.region===state.region) &&
     (!state.country||x.country===state.country) &&
     (!state.room||hasRoom(x,state.room)) &&
-    (!state.format||x.format===state.format) &&
+    (x.format==="permanent" ? state.showPerm : x.format==="pop-up" ? state.showPop : true) &&
     (!state.month||x.format!=="pop-up"||popupMonths(x.popupDates).has(state.month)) &&
     (!state.minStay||(x.minStayNights&&x.minStayNights<=+state.minStay)) &&
     (!state.minRating||(x.rating&&x.rating>=+state.minRating)) &&
@@ -912,7 +917,7 @@ function render(){
   });
 
   if(withCoords.length){
-    const tight = !browse && (state.region!=="All"||state.country||state.room||state.format||state.month||state.minStay||state.minRating||state.q||state.tags.size||!priceIsDefault());
+    const tight = !browse && (state.region!=="All"||state.country||state.room||!state.showPerm||!state.showPop||state.month||state.minStay||state.minRating||state.q||state.tags.size||!priceIsDefault());
     map.fitBounds(L.featureGroup(withCoords).getBounds().pad(tight?0.25:0.02),{maxZoom:tight?9:5});
   }
 }
