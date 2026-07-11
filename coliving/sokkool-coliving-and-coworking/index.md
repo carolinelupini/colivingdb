@@ -9,6 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=11358701192485460034&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (177 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** surf, share, and connect; productivity meets paradise
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Asia
 - **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>

@@ -9,6 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=15531930625782724444&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (229 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
+- **Vibe:** calm, community-rooted farmstay retreat
 - **Minimum stay:** 14 nights (~2 weeks)
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

@@ -8,6 +8,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=7912511014941946427&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (580 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
+- **Vibe:** coliving hotel blending focused work and rest
 - **Minimum stay:** —
 - **Region:** Asia
 - **Timezone:** GMT+9 <small>· US East: async only · Central Europe: your evenings</small>

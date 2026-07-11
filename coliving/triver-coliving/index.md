@@ -8,6 +8,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=17056257750135072155&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (272 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
+- **Vibe:** vibrant community, live, create, and connect
 - **Minimum stay:** 1 night
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>

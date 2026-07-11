@@ -9,6 +9,8 @@
 - **Rating:** <a href="https://maps.google.com/?cid=4026406133675743664&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (1764 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 100 Mbps <small>· operator-reported</small>
+- **Vibe:** modern lofts, productivity and community focused
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

@@ -8,6 +8,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=10990434807176680687&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 3.1 (234 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
+- **Vibe:** design-led, community and interactivity focused
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Oceania
 - **Timezone:** GMT+11 winter / GMT+10 summer <small>· US East: async only · Central Europe: async only</small>

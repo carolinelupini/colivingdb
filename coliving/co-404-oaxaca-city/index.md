@@ -9,6 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=7729065391284421933&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (162 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** hostel, hotel, and coworking combined, community-driven
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>

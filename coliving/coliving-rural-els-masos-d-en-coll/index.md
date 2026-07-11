@@ -9,6 +9,8 @@
 - **Rating:** <a href="https://maps.google.com/?cid=12856863326046798496&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (271 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared, apartment
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 1000 Mbps <small>· operator-reported</small>
+- **Vibe:** quiet rural retreat, calm and simplicity
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

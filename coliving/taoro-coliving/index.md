@@ -9,6 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=6913317794548179327&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (151 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** nurturing, family-like community, rest and connection
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>

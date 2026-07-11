@@ -9,6 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=1348794687952722576&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (277 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** modern elegance meets creative urban energy
 - **Minimum stay:** —
 - **Region:** Africa
 - **Timezone:** GMT+2 <small>· US East: your evenings · Central Europe: full workday overlap</small>

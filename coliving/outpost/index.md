@@ -9,6 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=7305650197426571912&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (320 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
+- **Vibe:** community-driven coliving with cowork spaces
 - **Minimum stay:** —
 - **Region:** Asia
 - **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>

@@ -8,6 +8,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=4548592767634898507&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (156 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** good vibes, community dinners, local adventures
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Asia
 - **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>

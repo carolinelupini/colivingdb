@@ -9,6 +9,8 @@
 - **Rating:** <a href="https://maps.google.com/?cid=14977108501707291652&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (3574 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 600 Mbps <small>· operator-reported</small>
+- **Vibe:** boutique wellness coliving, calm and intentional
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Latin America
 - **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>

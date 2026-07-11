@@ -8,6 +8,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=3494988553046733784&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (158 reviews)</a> <small>· Google</small>
 - **Room types:** dorm, shared
 - **Dorm available:** Yes
+- **Vibe:** vibrant community fostering collaboration and creativity
 - **Community size:** 16 bookable units — 4 container rooms (max 2 occupants each), 3 mixed-dorm rooms, 3 female-dorm rooms (6-person dorms)
 - **Minimum stay:** —
 - **Region:** Asia

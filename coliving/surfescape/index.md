@@ -9,6 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=11122961150786496828&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (1096 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared, apartment
 - **Dorm available:** No
+- **Vibe:** boutique surf-lifestyle, design and connection
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>

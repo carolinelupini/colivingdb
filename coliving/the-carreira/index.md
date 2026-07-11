@@ -9,6 +9,8 @@
 - **Rating:** <a href="https://maps.google.com/?cid=8628061308985100487&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 3.9 (691 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 600 Mbps <small>· operator-reported</small>
+- **Vibe:** quiet, focused coliving for professionals
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>

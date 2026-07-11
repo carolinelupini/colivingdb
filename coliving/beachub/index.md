@@ -8,6 +8,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=2904307983258154729&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.2 (145 reviews)</a> <small>· Google</small>
 - **Room types:** shared
 - **Dorm available:** No
+- **Vibe:** the world's chillest coworking space, ocean breeze relaxation
 - **Minimum stay:** —
 - **Region:** Asia
 - **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>

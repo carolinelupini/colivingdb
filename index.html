@@ -71,6 +71,11 @@
   .chip:hover{border-color:var(--accent);}
   .chip.on{background:var(--accent); border-color:var(--accent); color:#fff;}
   .chip.tag.on{background:var(--accent-soft); color:var(--accent); border-color:var(--accent);}
+  /* vibe chips — a distinct dimension from interest tags (violet vs green) */
+  .chip.vibe{border-style:dashed;}
+  .chip.vibe.on{background:#efeaff; color:#5b4bc4; border-color:#7c6ce0; border-style:solid;}
+  .vibeline{align-items:center; gap:8px;}
+  .vibe-lbl{font-size:.8rem; color:var(--muted); font-weight:600;}
   .sep{width:1px; height:22px; background:var(--line);}
   select{padding:6px 10px; border:1px solid var(--line); border-radius:8px; font-size:.83rem; background:var(--card); color:var(--ink);}
   label.toggle{font-size:.82rem; color:var(--muted); display:flex; align-items:center; gap:6px; cursor:pointer;}
@@ -316,6 +321,10 @@
     <div class="frow tags" id="tags"></div>
     <button id="reset">Reset filters</button>
   </div>
+  <div class="frline vibeline" id="vibeRow" style="display:none">
+    <span class="vibe-lbl">Vibe</span>
+    <div class="frow vibes" id="vibes"></div>
+  </div>
 </div>
 
 <div id="landing">
@@ -409,7 +418,7 @@ const TAGS = Object.keys(tagFreq).sort((a,b)=>tagFreq[b]-tagFreq[a]);
 // order interleaves warm/cool so the look-alike pairs never sit next to each other
 const TYPE_ORDER = ["community","beach","family","island","coworking","eco","rural","startup","surf","mountain","ski","city"];
 
-const state = {region:"All", country:"", room:"", showPerm:true, showPop:true, month:"", minStay:"", minRating:"", sort:"", tags:new Set(), priceMin:0, priceMax:null, q:"", showAll:false, currency:"", unit:"month"};
+const state = {region:"All", country:"", room:"", showPerm:true, showPop:true, month:"", minStay:"", minRating:"", sort:"", tags:new Set(), vibes:new Set(), priceMin:0, priceMax:null, q:"", showAll:false, currency:"", unit:"month"};
 
 // ---- pop-up month coverage: turn a popupDates string into the set of YYYY-MM it spans ----
 const MONTH_IDX={jan:1,feb:2,mar:3,apr:4,may:5,jun:6,jul:7,aug:8,sep:9,sept:9,oct:10,nov:11,dec:12,
@@ -574,6 +583,19 @@ TAGS.forEach(t=>{
   b.onclick=()=>{state.tags.has(t)?state.tags.delete(t):state.tags.add(t); render();};
   tagsEl.appendChild(b);
 });
+// vibe chips — a SEPARATE dimension from interests (what it's like, not what you do). Only the
+// vibe tags present in the data show, in a fixed sensible order. Partial coverage by design.
+const VIBE_VOCAB = ["social","quiet","party","wellness","focused","luxury","budget","family-friendly","adventure","creative","surf","fitness"];
+const vibeFreq = {};
+C.forEach(x => ((x.details||{}).vibeTags||[]).forEach(v => vibeFreq[v]=(vibeFreq[v]||0)+1));
+const VIBES = VIBE_VOCAB.filter(v=>vibeFreq[v]);
+const vibesEl = document.getElementById("vibes");
+VIBES.forEach(v=>{
+  const b=document.createElement("button"); b.className="chip vibe"; b.textContent=v;
+  b.onclick=()=>{state.vibes.has(v)?state.vibes.delete(v):state.vibes.add(v); render();};
+  vibesEl.appendChild(b);
+});
+if(VIBES.length) document.getElementById("vibeRow").style.display="";
 // country dropdown ("Multiple" excluded — not a real country)
 const countrySel=document.getElementById("country");
 [...new Set(C.map(x=>x.country))].filter(k=>k!=="Multiple").sort().forEach(k=>{
@@ -679,7 +701,7 @@ document.addEventListener("keydown",e=>{ if(e.key==="Escape" && formModal.style.
 // otherwise stay on the current list view with the map + filters and all colivings shown (Reset).
 function resetFilters(toBrowse){
   Object.assign(state,{region:"All",country:"",room:"",showPerm:true,showPop:true,month:"",minStay:"",minRating:"",sort:"",priceMin:0,priceMax:null,q:"",unit:"month"});
-  state.tags.clear();
+  state.tags.clear(); state.vibes.clear();
   state.showAll = (toBrowse === true) ? false : true;
   ["country","room","month","minstay","minrating","sort"].forEach(id=>document.getElementById(id).value="");
   document.getElementById("fPerm").checked=true; document.getElementById("fPop").checked=true;
@@ -712,7 +734,7 @@ let markers=[];
 
 function isBrowse(){
   return state.region==="All" && !state.country && !state.room && state.showPerm && state.showPop && !state.month && !state.minStay && !state.minRating
-    && !state.tags.size && priceIsDefault() && !state.q && !state.showAll;
+    && !state.tags.size && !state.vibes.size && priceIsDefault() && !state.q && !state.showAll;
 }
 function hasRoom(x, room){
   if(room==="dorm") return x.dormAvailable || (x.roomTypes||[]).includes("dorm");
@@ -733,6 +755,8 @@ function filtered(){
        if(e===Infinity) return false; return e>=lo && (hi>=ceil || e<=hi); })()) &&
     // interest chips use OR: someone into surf OR ski wants either, not only places that are both
     (!state.tags.size||[...state.tags].some(t=>(x.tags||[]).includes(t))) &&
+    // vibe is a separate AND dimension: "surf places that are also quiet" = interest AND vibe
+    (!state.vibes.size||[...state.vibes].some(v=>((x.details||{}).vibeTags||[]).includes(v))) &&
     // search also matches tags so typing "surf" (or "coworking", etc.) returns results
     (!state.q||((x.name+" "+(x.city||"")+" "+x.country+" "+(x.tags||[]).join(" ")).toLowerCase().includes(state.q)))
   );
@@ -865,6 +889,7 @@ function sortForDisplay(list){
 function render(){
   document.querySelectorAll("#regions .chip").forEach(b=>b.classList.toggle("on",b.textContent===state.region));
   document.querySelectorAll("#tags .chip").forEach(b=>b.classList.toggle("on",state.tags.has(b.textContent)));
+  document.querySelectorAll("#vibes .chip").forEach(b=>b.classList.toggle("on",state.vibes.has(b.textContent)));
   // reflect the active sort as an arrow on the clickable column headers
   document.querySelectorAll(".list-head .hsort").forEach(h=>{
     h.classList.remove("asc","desc");
@@ -937,7 +962,7 @@ function render(){
   });
 
   if(withCoords.length){
-    const tight = !browse && (state.region!=="All"||state.country||state.room||!state.showPerm||!state.showPop||state.month||state.minStay||state.minRating||state.q||state.tags.size||!priceIsDefault());
+    const tight = !browse && (state.region!=="All"||state.country||state.room||!state.showPerm||!state.showPop||state.month||state.minStay||state.minRating||state.q||state.tags.size||state.vibes.size||!priceIsDefault());
     map.fitBounds(L.featureGroup(withCoords).getBounds().pad(tight?0.25:0.02),{maxZoom:tight?9:5});
   }
 }

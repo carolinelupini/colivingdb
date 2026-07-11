@@ -9,6 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=13602404376892886786&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (281 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** Yes
+- **Vibe:** live-work-play digital nomad community in nature
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Asia
 - **Timezone:** GMT+5:30 <small>· US East: async only · Central Europe: good overlap</small>

@@ -9,6 +9,8 @@
 - **Rating:** <a href="https://maps.google.com/?cid=755009539911775306&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (398 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
+- **Wi-Fi (on-site):** 200 Mbps <small>· operator-reported</small>
+- **Vibe:** lively surf hostel for remote workers
 - **Minimum stay:** 2 nights
 - **Region:** Africa
 - **Timezone:** GMT+1 <small>· US East: good overlap · Central Europe: full workday overlap</small>

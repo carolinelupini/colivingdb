@@ -9,6 +9,8 @@
 - **Rating:** <a href="https://maps.google.com/?cid=11504420508262308759&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (1503 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 100 Mbps <small>· operator-reported</small>
+- **Vibe:** modern, minimalist Scandinavian live-work-play space
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

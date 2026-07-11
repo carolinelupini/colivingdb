@@ -9,6 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=928591637754863054&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (143 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** Yes
+- **Vibe:** slow living, meaningful connection, focused work in nature
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

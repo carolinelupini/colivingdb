@@ -9,6 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=12990142167726034090&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (321 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
+- **Vibe:** community-focused coliving for digital nomads
 - **Minimum stay:** 14 nights (~2 weeks)
 - **Region:** Asia
 - **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>

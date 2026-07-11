@@ -9,6 +9,8 @@
 - **Rating:** <a href="https://maps.google.com/?cid=12211908088202749556&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (242 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 150 Mbps <small>· operator-reported</small>
+- **Vibe:** lively, friendly community for remote workers
 - **Minimum stay:** 6 nights
 - **Region:** Asia
 - **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>

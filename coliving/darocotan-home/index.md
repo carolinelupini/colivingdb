@@ -9,6 +9,8 @@
 - **Rating:** <a href="https://maps.google.com/?cid=8106103287525242766&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (307 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 150 Mbps <small>· operator-reported</small>
+- **Vibe:** island paradise balancing productivity and relaxation
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Asia
 - **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
