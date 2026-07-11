@@ -12,7 +12,7 @@
 - **Region:** Latin America
 - **Timezone:** GMT-3 <small>· US East: full workday overlap · Central Europe: good overlap</small>
 - **Tags:** city, community, coworking
-- **Nearest airports:** Aeroparque Jorge Newbery (AEP) ~7 km
+- **Nearest airports:** Aeroparque Jorge Newbery (AEP) ~7 km; Ezeiza International Airport - Ministro Pistarini (EZE) ~26 km
 - **Website:** https://coliving.com/spaces/qio9u0xs
 
 ## Rates

@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, mountain, community, eco, coworking
-- **Nearest airports:** Girona-Costa Brava Airport (GRO) ~34 km
+- **Nearest airports:** Girona-Costa Brava Airport (GRO) ~34 km; Josep Tarradellas Barcelona-El Prat Airport (BCN) ~59 km; Pirineus - la Seu d'Urgel Airport (LEU) ~103 km
 - **Website:** https://www.kalart.org
 - **Rating:** 4.9 from 69 Google reviews
 

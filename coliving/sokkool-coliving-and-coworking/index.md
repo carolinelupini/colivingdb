@@ -13,7 +13,7 @@
 - **Region:** Asia
 - **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** beach, surf, coworking, community
-- **Nearest airports:** Denpasar I Gusti Ngurah Rai International Airport (DPS) ~11 km
+- **Nearest airports:** Denpasar I Gusti Ngurah Rai International Airport (DPS) ~11 km; Lombok International Airport (LOP) ~125 km
 - **Website:** https://sokkool.com/
 - **Rating:** 4.9 from 177 Google reviews
 

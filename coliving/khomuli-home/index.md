@@ -11,8 +11,9 @@
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
 - **Timezone:** GMT+4 <small>· US East: async only · Central Europe: full workday overlap</small>
+- **Elevation:** 1,634 m
 - **Tags:** rural, mountain, coworking, community
-- **Nearest airports:** David the Builder Kutaisi International Airport (KUT) ~53 km
+- **Nearest airports:** David the Builder Kutaisi International Airport (KUT) ~53 km; Tbilisi International Airport (TBS) ~243 km; Vladislav Ardzinba Sukhum International Airport (SUI) ~100 km
 - **Website:** https://coliving.com/spaces/qny0gdxj
 
 ## Rates

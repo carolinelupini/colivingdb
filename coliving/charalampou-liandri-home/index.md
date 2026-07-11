@@ -12,7 +12,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** island, coworking
-- **Nearest airports:** Chania International Airport (CHQ) ~32 km
+- **Nearest airports:** Chania International Airport (CHQ) ~32 km; Athens Eleftherios Venizelos International Airport (ATH) ~291 km; Heraklion International Nikos Kazantzakis Airport (HER) ~68 km
 - **Website:** https://coliving.com/spaces/pkzmziji
 
 ## Rates

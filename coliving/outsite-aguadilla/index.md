@@ -13,7 +13,7 @@
 - **Region:** North America
 - **Timezone:** GMT-4 <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Tags:** beach, surf, coworking, community
-- **Nearest airports:** Rafael Hernández International Airport (BQN) ~8 km; Luis Munoz Marin International Airport (SJU) ~121 km
+- **Nearest airports:** Rafael Hernández International Airport (BQN) ~8 km; Luis Munoz Marin International Airport (SJU) ~121 km; Eugenio Maria De Hostos Airport (MAZ) ~19 km
 - **Website:** https://www.outsite.co/locations/puerto-rico-aguadilla
 - **Rating:** 4.1 from 18 Google reviews
 

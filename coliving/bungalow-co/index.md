@@ -12,7 +12,7 @@
 - **Region:** Oceania
 - **Timezone:** GMT+11 winter / GMT+10 summer <small>· US East: async only · Central Europe: async only</small>
 - **Tags:** community, city
-- **Nearest airports:** Sydney Kingsford Smith International Airport (SYD) ~9 km
+- **Nearest airports:** Sydney Kingsford Smith International Airport (SYD) ~9 km; Nancy Bird Walton, Western Sydney International Airport (WSI) ~46 km; Shellharbour Airport (WOL) ~86 km
 - **Website:** https://bungalowco.com.au/
 - **Rating:** 4.6 from 11 Google reviews
 

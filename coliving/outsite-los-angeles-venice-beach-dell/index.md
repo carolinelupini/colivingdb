@@ -12,7 +12,7 @@
 - **Region:** North America
 - **Timezone:** GMT-8 winter / GMT-7 summer <small>· US East: good overlap · Central Europe: async only</small>
 - **Tags:** beach, city, coworking, community
-- **Nearest airports:** Los Angeles International Airport (LAX) ~8 km
+- **Nearest airports:** Los Angeles International Airport (LAX) ~8 km; Jack Northrop Field Hawthorne Municipal Airport (HHR) ~15 km; Hollywood Burbank/Bob Hope Airport (BUR) ~26 km
 - **Website:** https://www.outsite.co/locations/los-angeles-venice-dell
 
 ## Rates

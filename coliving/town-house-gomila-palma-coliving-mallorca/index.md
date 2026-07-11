@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, island, coworking, community
-- **Nearest airports:** Palma de Mallorca Airport (PMI) ~9 km
+- **Nearest airports:** Palma de Mallorca Airport (PMI) ~9 km; Ibiza Airport (IBZ) ~133 km; Menorca Airport (MAH) ~139 km
 - **Website:** https://palmacoliving.co/booking/town-house-gomila-mallorca-coliving-spain/
 - **Rating:** 4.5 from 53 Google reviews
 

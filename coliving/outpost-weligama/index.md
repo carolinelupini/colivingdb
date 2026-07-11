@@ -13,7 +13,7 @@
 - **Region:** Asia
 - **Timezone:** GMT+5:30 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** beach, surf, coworking, community
-- **Nearest airports:** Koggala Airport (KCT) ~12 km; Colombo Ratmalana International Airport (RML) ~112 km
+- **Nearest airports:** Koggala Airport (KCT) ~12 km; Bandaranaike International Colombo Airport (CMB) ~148 km; Mattala Rajapaksa International Airport (HRI) ~84 km
 - **Website:** https://destinationoutpost.co
 - **Rating:** 4.7 from 145 Google reviews
 

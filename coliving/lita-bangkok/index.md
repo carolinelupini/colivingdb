@@ -12,7 +12,7 @@
 - **Region:** Asia
 - **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** coworking, community, city
-- **Nearest airports:** Don Mueang International Airport (DMK) ~18 km
+- **Nearest airports:** Don Mueang International Airport (DMK) ~18 km; Suvarnabhumi Airport (BKK) ~22 km; U-Tapao–Rayong–Pattaya International Airport (UTP) ~129 km
 - **Website:** http://www.litabangkok.com/
 - **Rating:** 4.7 from 174 Google reviews
 

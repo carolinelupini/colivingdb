@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, mountain, eco, coworking, community
-- **Nearest airports:** Salamanca Airport (SLM) ~104 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~200 km
+- **Nearest airports:** Salamanca Airport (SLM) ~104 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~200 km; Badajoz Airport (BJZ) ~154 km
 - **Website:** https://www.mapmelon.com/colivings/la-toza-cowoking-coliving
 - **Rating:** 5.0 from 4 Google reviews
 

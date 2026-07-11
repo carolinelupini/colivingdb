@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, community, eco
-- **Nearest airports:** La Rochelle Île de Ré Airport (LRH) ~65 km; Bordeaux–Mérignac Airport (BOD) ~103 km
+- **Nearest airports:** La Rochelle Île de Ré Airport (LRH) ~65 km; Charles de Gaulle International Airport (CDG) ~434 km; Bordeaux–Mérignac Airport (BOD) ~103 km
 - **Website:** https://enchantedcoliving.com/
 - **Rating:** 5.0 from 17 Google reviews
 

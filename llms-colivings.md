@@ -11,7 +11,7 @@
 | [The Chile](/coliving/the-chile/index.md) | Buenos Aires | Argentina | from $680/mo | 30 nights (~1 month) | Permanent |
 | [The Independencia](/coliving/the-independencia/index.md) | Buenos Aires | Argentina | from $550/mo | 30 nights (~1 month) | Permanent |
 | [WiFi Tribe — Bariloche](/coliving/wifi-tribe-bariloche/index.md) | Bariloche | Argentina | from $1,290/mo | — | Pop-up |
-| [Debed Coliving](/coliving/debed-coliving/index.md) | Debet | Armenia | from AMD 22,000/mo | 2 nights | Permanent |
+| [Debed Coliving](/coliving/debed-coliving/index.md) | Debet | Armenia | from AMD 22,000/night | 2 nights | Permanent |
 | [Bungalow Co](/coliving/bungalow-co/index.md) | Sydney | Australia | from A$866/mo | — | Permanent |
 | [CDA Coliving](/coliving/cda-coliving/index.md) | Sydney | Australia | from A$780/mo | 90 nights (~3 months) | Permanent |
 | [Life in Byron](/coliving/life-in-byron/index.md) | Byron Bay | Australia | from A$200/wk | — | Permanent |

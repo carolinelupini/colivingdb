@@ -12,7 +12,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** surf, beach, coworking, community
-- **Nearest airports:** Biarritz Pays Basque airport (BIQ) ~24 km; Bilbao Airport (BIO) ~128 km
+- **Nearest airports:** Biarritz Pays Basque airport (BIQ) ~24 km; Bordeaux–Mérignac Airport (BOD) ~141 km; San Sebastián Airport (EAS) ~46 km
 - **Website:** https://www.coworksurf.com/hossegor/coworking-coliving-hossegor-france
 
 ## About

@@ -13,7 +13,7 @@
 - **Region:** Asia
 - **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** city, coworking, community
-- **Nearest airports:** Siem Reap-Angkor International Airport (SAI) ~39 km
+- **Nearest airports:** Siem Reap-Angkor International Airport (SAI) ~39 km; Sihanouk International Airport (KOS) ~310 km; Battambang Airport (BBM) ~74 km
 - **Website:** https://www.nomadstays.com/stay/Commune-at-Rose-Apple-Square
 - **Rating:** 3.9 from 19 Google reviews
 

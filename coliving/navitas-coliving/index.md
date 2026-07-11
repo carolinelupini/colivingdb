@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, coworking, community
-- **Nearest airports:** Marche Airport (AOI) ~46 km; Perugia San Francesco d'Assisi – Umbria International Airport (PEG) ~101 km
+- **Nearest airports:** Marche Airport (AOI) ~46 km; Rome–Fiumicino Leonardo da Vinci International Airport (FCO) ~206 km; Perugia San Francesco d'Assisi – Umbria International Airport (PEG) ~101 km
 - **Website:** https://navitascoliving.com/en/
 - **Rating:** 4.9 from 71 Google reviews
 

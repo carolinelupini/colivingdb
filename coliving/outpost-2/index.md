@@ -14,7 +14,7 @@
 - **Tags:** surf, community, coworking, beach
 - **Included:** Private bathroom, Communal areas, High-speed wifi, Regular cleaning, 24/7 onsite staff, Coworking: air-con zones, meeting rooms, ergonomic desks, Discounted pricing for 2+ week stays
 - **Area:** Locations in Ubud Nyuh Kuning and Ubud Penestanan (Bali) and Weligama (Sri Lanka), set in walkable/bikeable neighborhoods with organized mountain treks, farm/vineyard visits, and weekend trips.
-- **Nearest airports:** Denpasar I Gusti Ngurah Rai International Airport (DPS) ~28 km
+- **Nearest airports:** Denpasar I Gusti Ngurah Rai International Airport (DPS) ~28 km; Lombok International Airport (LOP) ~115 km
 - **Website:** https://destinationoutpost.co
 
 ## Rates

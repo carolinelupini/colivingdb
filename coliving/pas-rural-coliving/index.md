@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, mountain, coworking, community
-- **Nearest airports:** Seve Ballesteros-Santander Airport (SDR) ~23 km; Bilbao Airport (BIO) ~84 km
+- **Nearest airports:** Seve Ballesteros-Santander Airport (SDR) ~23 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~307 km; Bilbao Airport (BIO) ~84 km
 - **Website:** https://www.mapmelon.com/colivings/pas-rural-coliving
 - **Rating:** 5.0 from 50 Google reviews
 

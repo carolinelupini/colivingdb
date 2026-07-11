@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** island, community, coworking
-- **Nearest airports:** Malta International Airport (MLA) ~15 km
+- **Nearest airports:** Malta International Airport (MLA) ~15 km; Comiso Airport (CIY) ~119 km
 - **Website:** https://evolvecoliving.io
 - **Rating:** 4.7 from 111 Google reviews
 

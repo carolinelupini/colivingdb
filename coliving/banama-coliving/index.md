@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** beach, surf, island, coworking, community
-- **Nearest airports:** Fuerteventura Airport (FUE) ~32 km
+- **Nearest airports:** Fuerteventura Airport (FUE) ~32 km; César Manrique-Lanzarote Airport (ACE) ~34 km
 - **Website:** https://www.banamacoliving.com/en
 - **Rating:** 4.9 from 137 Google reviews
 

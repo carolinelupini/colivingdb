@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** beach, rural, island, coworking, community
-- **Nearest airports:** Chania International Airport (CHQ) ~30 km
+- **Nearest airports:** Chania International Airport (CHQ) ~30 km; Athens Eleftherios Venizelos International Airport (ATH) ~289 km; Heraklion International Nikos Kazantzakis Airport (HER) ~71 km
 - **Website:** https://ourescape.co
 - **Rating:** 4.5 from 6 Google reviews
 

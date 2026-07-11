@@ -15,7 +15,7 @@
 - **Included:** Fully-equipped accommodation, Airport transfers, eSIM with data, High-speed wifi, Community Slack access, Onsite community manager, Curated community program, No extra membership fees
 - **Not included:** Travel/health insurance, Food & beverages, Flights, Excursions, Wellness activities
 - **Area:** Central Athens, near Acropolis and Parthenon; local cuisine includes gyros, moussaka, spanakopita. Ferries reach the Saronic, Cycladic, Ionian, and Northern Aegean islands.
-- **Nearest airports:** Athens Eleftherios Venizelos International Airport (ATH) ~19 km
+- **Nearest airports:** Athens Eleftherios Venizelos International Airport (ATH) ~19 km; Skiathos Island National Airport (JSI) ~135 km
 - **Getting there:** Athens International Airport (ATH).
 - **Website:** https://www.noma-collective.com/editions/greece-athens-2027
 

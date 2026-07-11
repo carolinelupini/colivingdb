@@ -28,6 +28,21 @@ tr:last-child td{border-bottom:none}
 .facts dd{margin:0;padding:10px 0;border-bottom:1px solid #f1f4f8;font-weight:500}
 .facts dl>:nth-last-child(-n+2){border-bottom:none}
 .pill{display:inline-block;background:#eef6f3;color:#0e7c66;border-radius:999px;padding:2px 10px;font-size:.78rem;margin:0 5px 5px 0}
+.tagrow{margin:0 0 10px}
+.pfgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:10px;margin:8px 0 22px}
+.pf{background:#fff;border:1px solid #e5e9f0;border-radius:10px;padding:9px 13px}
+.pf span{display:block;font-size:.72rem;color:#6b7280;text-transform:uppercase;letter-spacing:.04em}
+.pf b{font-size:.9rem;font-weight:600}
+.aplist{list-style:none;padding:0;margin:8px 0 22px;display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:10px}
+.aplist li{background:#fff;border:1px solid #e5e9f0;border-radius:10px;padding:10px 14px}
+.aplist small{color:#6b7280;display:block;margin-top:2px}
+.aplist .apkm{color:#6b7280;font-weight:400}
+.cf{margin-left:10px;font-size:.72rem;vertical-align:middle}
+.cf button{border:1px solid #e5e9f0;background:#fff;padding:2px 8px;cursor:pointer;color:#6b7280}
+.cf button:first-child{border-radius:6px 0 0 6px}
+.cf button:last-child{border-radius:0 6px 6px 0}
+.cf button.on{background:#0e7c66;border-color:#0e7c66;color:#fff}
+.cm-p{font-size:.62rem;color:#6b7280}
 .clim{display:flex;gap:4px;margin:10px 0 4px;max-width:560px}
 .cm{flex:1;display:flex;flex-direction:column;align-items:center;gap:3px}
 .cm-m{font-size:.68rem;color:#6b7280}
@@ -128,7 +143,16 @@ header.site select{margin-left:auto;font:inherit;font-size:.84rem;padding:6px 9p
   apply();
 })();
 </script>
-
+<h2>When to go <span class="cf"><button class="on" onclick="cf(this,false)">°C</button><button onclick="cf(this,true)">°F</button></span></h2><div class="clim"><div class="cm"><span class="cm-m">J</span><span class="cm-t" data-c="13.4" style="background:hsl(159 62% 84%);color:hsl(159 55% 30%)">13°</span><span class="cm-r" title="~16 mm rain"><i style="height:2px"></i></span><span class="cm-p">16</span></div><div class="cm"><span class="cm-m">F</span><span class="cm-t" data-c="14.7" style="background:hsl(151 62% 84%);color:hsl(151 55% 30%)">15°</span><span class="cm-r" title="~39 mm rain"><i style="height:4px"></i></span><span class="cm-p">39</span></div><div class="cm"><span class="cm-m">M</span><span class="cm-t" data-c="15.8" style="background:hsl(144 62% 84%);color:hsl(144 55% 30%)">16°</span><span class="cm-r" title="~80 mm rain"><i style="height:9px"></i></span><span class="cm-p">80</span></div><div class="cm"><span class="cm-m">A</span><span class="cm-t" data-c="17.9" style="background:hsl(131 62% 84%);color:hsl(131 55% 30%)">18°</span><span class="cm-r" title="~74 mm rain"><i style="height:8px"></i></span><span class="cm-p">74</span></div><div class="cm"><span class="cm-m">M</span><span class="cm-t" data-c="21.6" style="background:hsl(100 62% 84%);color:hsl(100 55% 30%)">22°</span><span class="cm-r" title="~48 mm rain"><i style="height:5px"></i></span><span class="cm-p">48</span></div><div class="cm"><span class="cm-m">J</span><span class="cm-t" data-c="26.0" style="background:hsl(66 62% 84%);color:hsl(66 55% 30%)">26°</span><span class="cm-r" title="~52 mm rain"><i style="height:6px"></i></span><span class="cm-p">52</span></div><div class="cm"><span class="cm-m">J</span><span class="cm-t" data-c="28.9" style="background:hsl(46 62% 84%);color:hsl(46 55% 30%)">29°</span><span class="cm-r" title="~14 mm rain"><i style="height:2px"></i></span><span class="cm-p">14</span></div><div class="cm"><span class="cm-m">A</span><span class="cm-t" data-c="29.7" style="background:hsl(41 62% 84%);color:hsl(41 55% 30%)">30°</span><span class="cm-r" title="~52 mm rain"><i style="height:6px"></i></span><span class="cm-p">52</span></div><div class="cm"><span class="cm-m">S</span><span class="cm-t" data-c="25.3" style="background:hsl(71 62% 84%);color:hsl(71 55% 30%)">25°</span><span class="cm-r" title="~87 mm rain"><i style="height:10px"></i></span><span class="cm-p">87</span></div><div class="cm"><span class="cm-m">O</span><span class="cm-t" data-c="22.8" style="background:hsl(90 62% 84%);color:hsl(90 55% 30%)">23°</span><span class="cm-r" title="~72 mm rain"><i style="height:8px"></i></span><span class="cm-p">72</span></div><div class="cm"><span class="cm-m">N</span><span class="cm-t" data-c="18.0" style="background:hsl(130 62% 84%);color:hsl(130 55% 30%)">18°</span><span class="cm-r" title="~50 mm rain"><i style="height:6px"></i></span><span class="cm-p">50</span></div><div class="cm"><span class="cm-m">D</span><span class="cm-t" data-c="14.8" style="background:hsl(150 62% 84%);color:hsl(150 55% 30%)">15°</span><span class="cm-r" title="~42 mm rain"><i style="height:5px"></i></span><span class="cm-p">42</span></div></div><p class="muted">Average daily high and monthly rainfall (mm), 2022–2024.</p><script>
+function cf(btn,toF){
+  document.querySelectorAll('.cm-t').forEach(function(el){
+    var c=parseFloat(el.getAttribute('data-c'));
+    el.firstChild.nodeValue=(toF?Math.round(c*9/5+32):Math.round(c))+'\u00b0';
+  });
+  document.querySelectorAll('.cf button').forEach(function(b){b.className=''});
+  btn.className='on';
+}
+</script>
 
 <h2>Frequently asked</h2><dl class="faq"><dt>How much does coliving in Lloret de Mar, Spain cost?</dt><dd>Across 1 colivings in Lloret de Mar, Spain, listed prices start at €925 per month and run to €925 per month. 1 of them publish a price.</dd><dt>Are there pop-up colivings in Lloret de Mar, Spain?</dt><dd>Yes — 1 dated pop-up edition currently listed: The Better Neighbours — Lloret de Mar (Oct 1 - Nov 30, 2026 (Autumn)).</dd><dt>Which colivings in Lloret de Mar, Spain have dorms?</dt><dd>None of the 1 colivings listed in Lloret de Mar, Spain offer dorm beds.</dd></dl>
 <p><a href="/country/spain/">← All colivings in Spain</a></p>

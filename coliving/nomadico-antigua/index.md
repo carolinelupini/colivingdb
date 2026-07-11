@@ -12,8 +12,9 @@
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
+- **Elevation:** 1,542 m
 - **Tags:** city, coworking, community
-- **Nearest airports:** La Aurora International Airport (GUA) ~22 km
+- **Nearest airports:** La Aurora International Airport (GUA) ~22 km; Retalhuleu Airport (RER) ~104 km
 - **Website:** https://nomadico.io
 - **Rating:** 5.0 from 1 Google reviews
 

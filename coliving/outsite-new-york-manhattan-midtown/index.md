@@ -13,7 +13,7 @@
 - **Region:** North America
 - **Timezone:** GMT-5 winter / GMT-4 summer <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Tags:** city, coworking, community
-- **Nearest airports:** LaGuardia Airport (LGA) ~10 km
+- **Nearest airports:** LaGuardia Airport (LGA) ~10 km; Teterboro Airport (TEB) ~13 km; Newark Liberty International Airport (EWR) ~17 km
 - **Website:** https://www.outsite.co/locations/manhattan-midtown
 - **Rating:** 4.3 from 85 Google reviews
 

@@ -12,7 +12,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** community, coworking, city
-- **Nearest airports:** Valencia Airport (VLC) ~13 km
+- **Nearest airports:** Valencia Airport (VLC) ~13 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~298 km; Castellón-Costa Azahar Airport (CDT) ~91 km
 - **Website:** https://4wanders.com/
 - **Rating:** 3.7 from 13 Google reviews
 

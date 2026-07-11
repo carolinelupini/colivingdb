@@ -15,7 +15,7 @@
 - **Tags:** city, coworking, community
 - **Included:** Breakfast (hotel tier), Coworking access, Gym access, Weekly cleaning (coliving tier), Communal kitchens, Restaurant discount (coliving tier)
 - **Area:** Rooftop bar with Vitosha mountain views; hiking/backpacking on Vitosha mountain is a nearby activity.
-- **Nearest airports:** Sofia Airport (SOF) ~8 km
+- **Nearest airports:** Sofia Airport (SOF) ~8 km; Niš Constantine the Great Airport (INI) ~138 km; Plovdiv International Airport (PDV) ~144 km
 - **Getting there:** Sofia Airport (SOF); a guest review cites ~15 min from the airport — not confirmed on the official site.
 - **Website:** https://www.worknomadshotel.com/
 - **Rating:** 4.5 from 480 Google reviews

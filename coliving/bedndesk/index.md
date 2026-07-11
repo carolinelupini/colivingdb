@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** beach, island, coworking, community
-- **Nearest airports:** Palma de Mallorca Airport (PMI) ~5 km
+- **Nearest airports:** Palma de Mallorca Airport (PMI) ~5 km; Menorca Airport (MAH) ~132 km; Ibiza Airport (IBZ) ~138 km
 - **Website:** https://www.bedndesk.com
 - **Rating:** 4.7 from 68 Google reviews
 

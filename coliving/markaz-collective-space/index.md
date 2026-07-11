@@ -12,7 +12,7 @@
 - **Region:** Asia
 - **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** coworking, community
-- **Nearest airports:** Husein Sastranegara International Airport (BDO) ~4 km; Halim Perdanakusuma International Airport (HLP) ~104 km
+- **Nearest airports:** Husein Sastranegara International Airport (BDO) ~4 km; Soekarno-Hatta International Airport (CGK) ~134 km; Kertajati International Airport (KJT) ~68 km
 - **Website:** https://www.markaz.space/
 - **Rating:** 4.7 from 96 Google reviews
 

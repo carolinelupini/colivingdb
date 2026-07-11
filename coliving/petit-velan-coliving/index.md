@@ -11,8 +11,9 @@
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
+- **Elevation:** 1,659 m
 - **Tags:** mountain, ski, rural, coworking, community
-- **Nearest airports:** Annecy Meythet airport (NCY) ~86 km; Turin Airport (TRN) ~90 km
+- **Nearest airports:** Annecy Meythet airport (NCY) ~86 km; Zürich Airport (ZRH) ~196 km; Turin Airport (TRN) ~90 km
 - **Website:** https://coliving-petitvelan.ch/
 
 ## Rates

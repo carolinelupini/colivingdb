@@ -12,7 +12,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** community, coworking, surf, mountain
-- **Nearest airports:** Abruzzo Airport (PSR) ~63 km
+- **Nearest airports:** Abruzzo Airport (PSR) ~63 km; Perugia San Francesco d'Assisi – Umbria International Airport (PEG) ~92 km; Marche Airport (AOI) ~102 km
 - **Website:** https://nomadico.io
 
 ## Rates

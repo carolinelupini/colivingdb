@@ -12,7 +12,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** community, coworking, startup
-- **Nearest airports:** Stuttgart Airport (STR) ~8 km
+- **Nearest airports:** Stuttgart Airport (STR) ~8 km; Frankfurt Main Airport (FRA) ~153 km; Karlsruhe Baden-Baden Airport (FKB) ~89 km
 - **Website:** https://www.cowocoli.de/
 - **Rating:** 4.2 from 5 Google reviews
 

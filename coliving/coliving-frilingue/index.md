@@ -12,8 +12,9 @@
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
+- **Elevation:** 1,358 m
 - **Tags:** mountain, ski, rural, community, coworking
-- **Nearest airports:** Annecy Meythet airport (NCY) ~84 km; Geneva International Airport (GVA) ~87 km
+- **Nearest airports:** Annecy Meythet airport (NCY) ~84 km; Zürich Airport (ZRH) ~193 km; Geneva International Airport (GVA) ~87 km
 - **Website:** https://coliving.frilingue.ch
 - **Rating:** 5.0 from 31 Google reviews
 

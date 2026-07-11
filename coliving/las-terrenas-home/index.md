@@ -12,7 +12,7 @@
 - **Region:** Latin America
 - **Timezone:** GMT-4 <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Tags:** beach, coworking, community
-- **Nearest airports:** Samaná El Catey International Airport (AZS) ~19 km; Las Américas International Airport (SDQ) ~97 km
+- **Nearest airports:** Samaná El Catey International Airport (AZS) ~19 km; Punta Cana International Airport (PUJ) ~150 km; La Isabela International Airport (JBQ) ~92 km
 - **Website:** https://coliving.com/spaces/oq48pgpe
 
 ## Rates

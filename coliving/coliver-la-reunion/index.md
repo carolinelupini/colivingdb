@@ -12,7 +12,7 @@
 - **Region:** Africa
 - **Timezone:** GMT+4 <small>· US East: async only · Central Europe: full workday overlap</small>
 - **Tags:** island, coworking, community
-- **Nearest airports:** Saint-Pierre Pierrefonds Airport (ZSE) ~7 km
+- **Nearest airports:** Saint-Pierre Pierrefonds Airport (ZSE) ~7 km; Roland Garros Airport (RUN) ~44 km
 - **Website:** https://www.coliver.re/
 - **Rating:** 5.0 from 68 Google reviews
 

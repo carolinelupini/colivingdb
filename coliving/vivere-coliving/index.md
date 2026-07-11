@@ -12,7 +12,7 @@
 - **Region:** Latin America
 - **Timezone:** GMT-3 <small>· US East: full workday overlap · Central Europe: good overlap</small>
 - **Tags:** coworking, community, city
-- **Nearest airports:** Santos Dumont Airport (SDU) ~7 km
+- **Nearest airports:** Santos Dumont Airport (SDU) ~7 km; São Paulo/Guarulhos–Governor André Franco Montoro International Airport (GRU) ~338 km; Rio Galeão – Tom Jobim International Airport (GIG) ~17 km
 - **Website:** https://covivere.com.br/
 - **Rating:** 4.4 from 20 Google reviews
 

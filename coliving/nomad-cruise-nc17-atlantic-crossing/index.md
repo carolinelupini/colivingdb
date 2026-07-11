@@ -14,7 +14,7 @@
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** community, coworking
 - **Area:** AI Edition (19–26 September 2026), crossing the Atlantic from Southampton to New York aboard the Queen Mary 2 with roughly 150 founders and digital nomads, workshops, networking, and Starlink wifi onboard.
-- **Nearest airports:** Southampton Airport (SOU) ~5 km; London Gatwick Airport (LGW) ~89 km
+- **Nearest airports:** Southampton Airport (SOU) ~5 km; London Gatwick Airport (LGW) ~89 km; Bournemouth Airport (BOH) ~34 km
 - **Getting there:** Southampton: London Heathrow (LHR)/Gatwick (LGW), ~1.5–2h — approximate. New York: JFK or LaGuardia (LGA), ~30–45 min from the Brooklyn cruise terminal — approximate, not stated on site.
 - **Website:** https://www.nomadcruise.com/
 

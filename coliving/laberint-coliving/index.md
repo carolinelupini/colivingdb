@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, island, coworking, community
-- **Nearest airports:** Palma de Mallorca Airport (PMI) ~8 km
+- **Nearest airports:** Palma de Mallorca Airport (PMI) ~8 km; Ibiza Airport (IBZ) ~135 km; Menorca Airport (MAH) ~138 km
 - **Website:** https://www.mapmelon.com/colivings/laberint-coliving-palma-de-mallorca
 - **Rating:** 5.0 from 8 Google reviews
 

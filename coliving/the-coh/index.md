@@ -12,7 +12,7 @@
 - **Region:** Oceania
 - **Timezone:** GMT+13 winter / GMT+12 summer <small>· US East: async only · Central Europe: async only</small>
 - **Tags:** community, city
-- **Nearest airports:** Auckland International Airport (AKL) ~17 km
+- **Nearest airports:** Auckland International Airport (AKL) ~17 km; Hamilton International Airport (HLZ) ~123 km; Whangarei Airport (WRE) ~126 km
 - **Website:** https://thecoh.co.nz/
 - **Rating:** 4.8 from 103 Google reviews
 

@@ -12,7 +12,7 @@
 - **Region:** Africa
 - **Timezone:** GMT+1 <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** beach, coworking, startup
-- **Nearest airports:** Djerba Zarzis International Airport (DJE) ~8 km
+- **Nearest airports:** Djerba Zarzis International Airport (DJE) ~8 km; Tunis Carthage International Airport (TUN) ~334 km; Gabès Matmata International Airport (GAE) ~89 km
 - **Website:** http://cozi.tn/
 - **Rating:** 4.6 from 47 Google reviews
 

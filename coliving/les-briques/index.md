@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** beach, rural, coworking, community
-- **Nearest airports:** Caen Carpiquet airport (CFR) ~17 km; Beauvais-Tillé airport (BVA) ~177 km
+- **Nearest airports:** Caen Carpiquet airport (CFR) ~17 km; Charles de Gaulle International Airport (CDG) ~211 km; Deauville Normandie airport (DOL) ~35 km
 - **Website:** https://lesbriques.co/en/
 - **Rating:** 4.9 from 106 Google reviews
 

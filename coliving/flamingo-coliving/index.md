@@ -13,7 +13,7 @@
 - **Region:** Latin America
 - **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Tags:** coworking, community, beach, city
-- **Nearest airports:** Simón Bolívar International Airport (SMR) ~14 km; Ernesto Cortissoz International Airport (BAQ) ~73 km
+- **Nearest airports:** Simón Bolívar International Airport (SMR) ~14 km; Ernesto Cortissoz International Airport (BAQ) ~73 km; Alfonso López Pumarejo Airport (VUP) ~138 km
 - **Website:** https://flamingocoworking.com/
 - **Rating:** 4.3 from 106 Google reviews
 

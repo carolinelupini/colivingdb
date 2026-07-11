@@ -13,7 +13,7 @@
 - **Region:** North America
 - **Timezone:** GMT-8 winter / GMT-7 summer <small>· US East: good overlap · Central Europe: async only</small>
 - **Tags:** city, coworking, community
-- **Nearest airports:** San Francisco International Airport (SFO) ~20 km
+- **Nearest airports:** San Francisco International Airport (SFO) ~20 km; Oakland San Francisco Bay Airport (OAK) ~21 km; San Carlos Airport (SQL) ~35 km
 - **Website:** https://www.outsite.co/locations/san-francisco-pacific-heights
 - **Rating:** 4.9 from 54 Google reviews
 

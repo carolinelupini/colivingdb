@@ -13,7 +13,7 @@
 - **Region:** Asia
 - **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** beach, surf, coworking, community
-- **Nearest airports:** Denpasar I Gusti Ngurah Rai International Airport (DPS) ~13 km
+- **Nearest airports:** Denpasar I Gusti Ngurah Rai International Airport (DPS) ~13 km; Lombok International Airport (LOP) ~128 km
 - **Website:** https://www.outsite.co/locations/bali-pererenan
 - **Rating:** 4.4 from 80 Google reviews
 

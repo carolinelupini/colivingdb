@@ -13,7 +13,7 @@
 - **Region:** Latin America
 - **Timezone:** GMT-3 <small>· US East: full workday overlap · Central Europe: good overlap</small>
 - **Tags:** beach, island, coworking, community
-- **Nearest airports:** Hercílio Luz International Airport (FLN) ~11 km
+- **Nearest airports:** Hercílio Luz International Airport (FLN) ~11 km; Ministro Victor Konder International Airport (NVT) ~82 km
 - **Website:** https://coliving.com/spaces/vvyvpbfz
 - **Rating:** 5.0 from 1 Google reviews
 

@@ -13,7 +13,7 @@
 - **Region:** Latin America
 - **Timezone:** GMT-3 <small>· US East: full workday overlap · Central Europe: good overlap</small>
 - **Tags:** beach, eco, community, coworking, rural
-- **Nearest airports:** Deputado Luiz Eduardo Magalhães International Airport (SSA) ~20 km
+- **Nearest airports:** Deputado Luiz Eduardo Magalhães International Airport (SSA) ~20 km; João Durval Carneiro Airport (FEC) ~102 km
 - **Website:** https://infinicolivingbr.com/
 - **Rating:** 4.6 from 27 Google reviews
 

@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, mountain, community, coworking
-- **Nearest airports:** Adolfo Suárez Madrid–Barajas Airport (MAD) ~102 km
+- **Nearest airports:** Adolfo Suárez Madrid–Barajas Airport (MAD) ~102 km; Salamanca Airport (SLM) ~124 km; Valladolid Airport (VLL) ~184 km
 - **Website:** https://www.mapmelon.com/colivings/hamlet-s-friends
 - **Rating:** 5.0 from 184 Google reviews
 

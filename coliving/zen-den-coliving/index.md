@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** island, coworking, community
-- **Nearest airports:** Tenerife Sur Airport (TFS) ~12 km
+- **Nearest airports:** Tenerife Sur Airport (TFS) ~12 km; Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~54 km; La Palma Airport (SPC) ~120 km
 - **Website:** https://zendentenerife.com/
 - **Rating:** 4.7 from 12 Google reviews
 

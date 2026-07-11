@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** beach, city, coworking, community
-- **Nearest airports:** Faro - Gago Coutinho International Airport (FAO) ~15 km
+- **Nearest airports:** Faro - Gago Coutinho International Airport (FAO) ~15 km; Lisbon Humberto Delgado Airport (LIS) ~209 km; Portimão Airport (PRM) ~42 km
 - **Website:** https://www.outsite.co/locations/vilamoura
 - **Rating:** 4.7 from 15 Google reviews
 

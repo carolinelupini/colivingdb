@@ -13,7 +13,7 @@
 - **Region:** Latin America
 - **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Tags:** island, eco, community
-- **Nearest airports:** Bocas del Toro "Isla Colón" International Airport (BOC) ~7 km; Juan Santamaría International Airport (SJO) ~227 km
+- **Nearest airports:** Bocas del Toro "Isla Colón" International Airport (BOC) ~7 km; Tocumen International Airport (PTY) ~318 km; Changuinola Captain Manuel Niño International Airport (CHX) ~33 km
 - **Website:** https://cocovivo.com
 - **Rating:** 4.8 from 96 Google reviews
 

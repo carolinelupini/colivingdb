@@ -17,7 +17,7 @@
 - **Not included:** Electricity (prepaid system), Laundry (IDR 25k/kg), Meal plans (optional add-on packages)
 - **Second guest:** A second guest raises the monthly rate — e.g. the Deluxe room runs ~8.7M IDR for 1 pax vs ~9.8M IDR for 2 pax.
 - **Area:** Located in Legian, about a 10-minute walk to the beach.
-- **Nearest airports:** Denpasar I Gusti Ngurah Rai International Airport (DPS) ~4 km
+- **Nearest airports:** Denpasar I Gusti Ngurah Rai International Airport (DPS) ~4 km; Lombok International Airport (LOP) ~122 km
 - **Getting there:** Ngurah Rai/Denpasar Airport (DPS) is ~20-25 min from Legian by car.
 - **Website:** https://balibustle.com/
 - **Rating:** 4.6 from 462 Google reviews

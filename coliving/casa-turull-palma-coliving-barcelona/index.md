@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, community, coworking
-- **Nearest airports:** Josep Tarradellas Barcelona-El Prat Airport (BCN) ~15 km
+- **Nearest airports:** Josep Tarradellas Barcelona-El Prat Airport (BCN) ~15 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~491 km; Girona-Costa Brava Airport (GRO) ~74 km
 - **Website:** https://palmacoliving.co/locations-barcelona/
 - **Rating:** 4.4 from 54 Google reviews
 

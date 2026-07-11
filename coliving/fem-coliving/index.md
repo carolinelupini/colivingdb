@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** mountain, rural, community, coworking
-- **Nearest airports:** Girona-Costa Brava Airport (GRO) ~53 km
+- **Nearest airports:** Girona-Costa Brava Airport (GRO) ~53 km; Pirineus - la Seu d'Urgel Airport (LEU) ~73 km; Perpignan-Rivesaltes (Llabanère) Airport (PGF) ~74 km
 - **Website:** https://www.mapmelon.com/colivings/fem-coliving
 - **Rating:** 5.0 from 85 Google reviews
 

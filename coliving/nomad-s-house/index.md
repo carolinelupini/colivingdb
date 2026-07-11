@@ -12,7 +12,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** community, city
-- **Nearest airports:** Brussels Airport (BRU) ~11 km
+- **Nearest airports:** Brussels Airport (BRU) ~11 km; Antwerp International Airport (Deurne) (ANR) ~41 km; Brussels South Charleroi Airport (CRL) ~41 km
 - **Website:** http://nomadshouse.be/
 - **Rating:** 5.0 from 67 Google reviews
 

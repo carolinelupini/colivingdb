@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** beach, surf, coworking, community
-- **Nearest airports:** Portimão Airport (PRM) ~35 km; Faro - Gago Coutinho International Airport (FAO) ~86 km
+- **Nearest airports:** Portimão Airport (PRM) ~35 km; Lisbon Humberto Delgado Airport (LIS) ~198 km; Faro - Gago Coutinho International Airport (FAO) ~86 km
 - **Website:** https://www.outsite.co/locations/sagres
 - **Rating:** 4.4 from 23 Google reviews
 

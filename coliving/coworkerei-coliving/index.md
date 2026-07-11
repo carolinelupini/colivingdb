@@ -12,7 +12,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** mountain, coworking, city, community
-- **Nearest airports:** Innsbruck Airport (INN) ~16 km
+- **Nearest airports:** Innsbruck Airport (INN) ~16 km; Vienna International Airport (VIE) ~387 km; Bolzano Airport (BZO) ~93 km
 - **Website:** https://www.coworkerei.at/
 
 ## Rates

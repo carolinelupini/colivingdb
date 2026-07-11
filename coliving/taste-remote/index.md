@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, community, coworking
-- **Nearest airports:** Rome–Fiumicino Leonardo da Vinci International Airport (FCO) ~56 km
+- **Nearest airports:** Rome–Fiumicino Leonardo da Vinci International Airport (FCO) ~56 km; Ciampino–G. B. Pastine International Airport (CIA) ~57 km; Perugia San Francesco d'Assisi – Umbria International Airport (PEG) ~90 km
 - **Website:** https://www.tasteremote.com/nomadvillage
 
 ## About

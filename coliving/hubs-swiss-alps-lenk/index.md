@@ -12,8 +12,9 @@
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
+- **Elevation:** 1,075 m
 - **Tags:** mountain, ski, coworking, community
-- **Nearest airports:** Bern Airport (BRN) ~51 km; Geneva International Airport (GVA) ~105 km
+- **Nearest airports:** Bern Airport (BRN) ~51 km; Zürich Airport (ZRH) ~139 km; Geneva International Airport (GVA) ~105 km
 - **Website:** https://www.hubs.travel/destinations/swiss-alps-lenk
 - **Rating:** 4.9 from 45 Google reviews
 

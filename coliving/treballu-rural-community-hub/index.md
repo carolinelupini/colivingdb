@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, coworking, community
-- **Nearest airports:** Cagliari Elmas Airport (CAG) ~67 km
+- **Nearest airports:** Cagliari Elmas Airport (CAG) ~67 km; Rome–Fiumicino Leonardo da Vinci International Airport (FCO) ~346 km; Alghero-Fertilia Airport (AHO) ~108 km
 - **Website:** https://treballu.com/
 - **Rating:** 4.6 from 19 Google reviews
 

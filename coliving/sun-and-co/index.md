@@ -12,7 +12,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** beach, community, coworking, city
-- **Nearest airports:** Alicante-Elche Miguel Hernández Airport (ALC) ~85 km
+- **Nearest airports:** Alicante-Elche Miguel Hernández Airport (ALC) ~85 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~372 km; Valencia Airport (VLC) ~96 km
 - **Website:** https://sun-and-co.com
 
 ## Rates

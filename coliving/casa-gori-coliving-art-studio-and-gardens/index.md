@@ -11,7 +11,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, eco, community
-- **Nearest airports:** Valencia Airport (VLC) ~12 km
+- **Nearest airports:** Valencia Airport (VLC) ~12 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~297 km; Castellón-Costa Azahar Airport (CDT) ~88 km
 - **Website:** https://www.casagori.co/
 
 ## Rates

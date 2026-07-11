@@ -12,7 +12,7 @@
 - **Region:** Africa
 - **Timezone:** GMT+1 <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** rural, coworking, community
-- **Nearest airports:** Marrakesh Menara Airport (RAK) ~22 km
+- **Nearest airports:** Marrakesh Menara Airport (RAK) ~22 km; Mohammed V International Airport (CMN) ~221 km; Ouarzazate International Airport (OZZ) ~131 km
 - **Website:** https://remoters.net/tamachat-muay-thai/
 
 ## Rates

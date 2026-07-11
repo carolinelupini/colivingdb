@@ -14,7 +14,7 @@
 - **Tags:** coworking, surf, beach
 - **Included:** Private bungalow or shared dorm accommodation, High-speed wifi, Coworking space, Meals with local ingredients
 - **Area:** Kuta Lombok, near Mandalika Beach for running, recreation, and surfing; close to the town center and supermarkets.
-- **Nearest airports:** Lombok International Airport (LOP) ~16 km
+- **Nearest airports:** Lombok International Airport (LOP) ~16 km; Denpasar I Gusti Ngurah Rai International Airport (DPS) ~123 km
 - **Getting there:** Lombok International (LOP), ~35–45 min drive — approximate, not stated on site.
 - **Website:** https://dreamcoworkhotels.com/
 - **Rating:** 4.1 from 402 Google reviews

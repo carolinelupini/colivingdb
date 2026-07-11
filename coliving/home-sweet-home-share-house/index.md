@@ -12,7 +12,7 @@
 - **Region:** Asia
 - **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** community, coworking, city
-- **Nearest airports:** Taipei Songshan International Airport (TSA) ~4 km
+- **Nearest airports:** Taipei Songshan International Airport (TSA) ~4 km; Taiwan Taoyuan International Airport (TPE) ~29 km; Hualien Chiashan Airport (HUN) ~115 km
 - **Website:** https://en.hshsharehouse.com/
 - **Rating:** 5.0 from 33 Google reviews
 

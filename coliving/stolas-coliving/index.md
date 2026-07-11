@@ -11,8 +11,9 @@
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
+- **Elevation:** 1,188 m
 - **Tags:** community, coworking, city
-- **Nearest airports:** Tobías Bolaños International Airport (SYQ) ~9 km; Juan Santamaría International Airport (SJO) ~18 km
+- **Nearest airports:** Tobías Bolaños International Airport (SYQ) ~9 km; Juan Santamaría International Airport (SJO) ~18 km; Quepos Managua Airport (XQP) ~55 km
 - **Website:** https://www.stolascr.com/
 - **Rating:** 4.7 from 55 Google reviews
 

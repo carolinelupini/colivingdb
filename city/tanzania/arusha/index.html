@@ -28,6 +28,21 @@ tr:last-child td{border-bottom:none}
 .facts dd{margin:0;padding:10px 0;border-bottom:1px solid #f1f4f8;font-weight:500}
 .facts dl>:nth-last-child(-n+2){border-bottom:none}
 .pill{display:inline-block;background:#eef6f3;color:#0e7c66;border-radius:999px;padding:2px 10px;font-size:.78rem;margin:0 5px 5px 0}
+.tagrow{margin:0 0 10px}
+.pfgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:10px;margin:8px 0 22px}
+.pf{background:#fff;border:1px solid #e5e9f0;border-radius:10px;padding:9px 13px}
+.pf span{display:block;font-size:.72rem;color:#6b7280;text-transform:uppercase;letter-spacing:.04em}
+.pf b{font-size:.9rem;font-weight:600}
+.aplist{list-style:none;padding:0;margin:8px 0 22px;display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:10px}
+.aplist li{background:#fff;border:1px solid #e5e9f0;border-radius:10px;padding:10px 14px}
+.aplist small{color:#6b7280;display:block;margin-top:2px}
+.aplist .apkm{color:#6b7280;font-weight:400}
+.cf{margin-left:10px;font-size:.72rem;vertical-align:middle}
+.cf button{border:1px solid #e5e9f0;background:#fff;padding:2px 8px;cursor:pointer;color:#6b7280}
+.cf button:first-child{border-radius:6px 0 0 6px}
+.cf button:last-child{border-radius:0 6px 6px 0}
+.cf button.on{background:#0e7c66;border-color:#0e7c66;color:#fff}
+.cm-p{font-size:.62rem;color:#6b7280}
 .clim{display:flex;gap:4px;margin:10px 0 4px;max-width:560px}
 .cm{flex:1;display:flex;flex-direction:column;align-items:center;gap:3px}
 .cm-m{font-size:.68rem;color:#6b7280}
@@ -128,7 +143,16 @@ header.site select{margin-left:auto;font:inherit;font-size:.84rem;padding:6px 9p
   apply();
 })();
 </script>
-
+<h2>When to go <span class="cf"><button class="on" onclick="cf(this,false)">°C</button><button onclick="cf(this,true)">°F</button></span></h2><div class="clim"><div class="cm"><span class="cm-m">J</span><span class="cm-t" data-c="27.4" style="background:hsl(56 62% 84%);color:hsl(56 55% 30%)">27°</span><span class="cm-r" title="~121 mm rain"><i style="height:13px"></i></span><span class="cm-p">121</span></div><div class="cm"><span class="cm-m">F</span><span class="cm-t" data-c="28.2" style="background:hsl(51 62% 84%);color:hsl(51 55% 30%)">28°</span><span class="cm-r" title="~102 mm rain"><i style="height:11px"></i></span><span class="cm-p">102</span></div><div class="cm"><span class="cm-m">M</span><span class="cm-t" data-c="27.8" style="background:hsl(53 62% 84%);color:hsl(53 55% 30%)">28°</span><span class="cm-r" title="~137 mm rain"><i style="height:15px"></i></span><span class="cm-p">137</span></div><div class="cm"><span class="cm-m">A</span><span class="cm-t" data-c="24.9" style="background:hsl(74 62% 84%);color:hsl(74 55% 30%)">25°</span><span class="cm-r" title="~159 mm rain"><i style="height:18px"></i></span><span class="cm-p">159</span></div><div class="cm"><span class="cm-m">M</span><span class="cm-t" data-c="23.9" style="background:hsl(81 62% 84%);color:hsl(81 55% 30%)">24°</span><span class="cm-r" title="~56 mm rain"><i style="height:6px"></i></span><span class="cm-p">56</span></div><div class="cm"><span class="cm-m">J</span><span class="cm-t" data-c="22.2" style="background:hsl(95 62% 84%);color:hsl(95 55% 30%)">22°</span><span class="cm-r" title="~50 mm rain"><i style="height:6px"></i></span><span class="cm-p">50</span></div><div class="cm"><span class="cm-m">J</span><span class="cm-t" data-c="22.1" style="background:hsl(96 62% 84%);color:hsl(96 55% 30%)">22°</span><span class="cm-r" title="~32 mm rain"><i style="height:4px"></i></span><span class="cm-p">32</span></div><div class="cm"><span class="cm-m">A</span><span class="cm-t" data-c="23.3" style="background:hsl(86 62% 84%);color:hsl(86 55% 30%)">23°</span><span class="cm-r" title="~36 mm rain"><i style="height:4px"></i></span><span class="cm-p">36</span></div><div class="cm"><span class="cm-m">S</span><span class="cm-t" data-c="25.7" style="background:hsl(68 62% 84%);color:hsl(68 55% 30%)">26°</span><span class="cm-r" title="~24 mm rain"><i style="height:3px"></i></span><span class="cm-p">24</span></div><div class="cm"><span class="cm-m">O</span><span class="cm-t" data-c="27.3" style="background:hsl(57 62% 84%);color:hsl(57 55% 30%)">27°</span><span class="cm-r" title="~40 mm rain"><i style="height:4px"></i></span><span class="cm-p">40</span></div><div class="cm"><span class="cm-m">N</span><span class="cm-t" data-c="26.1" style="background:hsl(65 62% 84%);color:hsl(65 55% 30%)">26°</span><span class="cm-r" title="~158 mm rain"><i style="height:18px"></i></span><span class="cm-p">158</span></div><div class="cm"><span class="cm-m">D</span><span class="cm-t" data-c="26.2" style="background:hsl(65 62% 84%);color:hsl(65 55% 30%)">26°</span><span class="cm-r" title="~208 mm rain"><i style="height:23px"></i></span><span class="cm-p">208</span></div></div><p class="muted">Average daily high and monthly rainfall (mm), 2022–2024.</p><script>
+function cf(btn,toF){
+  document.querySelectorAll('.cm-t').forEach(function(el){
+    var c=parseFloat(el.getAttribute('data-c'));
+    el.firstChild.nodeValue=(toF?Math.round(c*9/5+32):Math.round(c))+'\u00b0';
+  });
+  document.querySelectorAll('.cf button').forEach(function(b){b.className=''});
+  btn.className='on';
+}
+</script>
 
 <h2>Frequently asked</h2><dl class="faq"><dt>What is the shortest stay you can book in Arusha, Tanzania?</dt><dd>The shortest minimum stay is 30 nights; the most common requirement is 30 nights.</dd><dt>Are there pop-up colivings in Arusha, Tanzania?</dt><dd>Yes — 1 dated pop-up edition currently listed: Backyard Ventures (~late September - late October (annual dry-season program; last confirmed Sept 27 - Oct 26, 2025); 2026 dates not yet published).</dd><dt>Which colivings in Arusha, Tanzania have dorms?</dt><dd>None of the 1 colivings listed in Arusha, Tanzania offer dorm beds.</dd></dl>
 <p><a href="/country/tanzania/">← All colivings in Tanzania</a></p>

@@ -12,7 +12,7 @@
 - **Region:** Latin America
 - **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Tags:** beach, rural, coworking, community
-- **Nearest airports:** Ian Fleming International Airport (OCJ) ~3 km; Norman Manley International Airport (KIN) ~55 km
+- **Nearest airports:** Ian Fleming International Airport (OCJ) ~3 km; Sangster International Airport (MBJ) ~103 km; Tinson Pen Airport (KTP) ~48 km
 - **Website:** https://coliving.com/spaces/i21dbbci
 
 ## Rates

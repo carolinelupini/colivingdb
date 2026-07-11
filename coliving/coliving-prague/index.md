@@ -12,7 +12,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** community, coworking, city
-- **Nearest airports:** Václav Havel Airport Prague (PRG) ~13 km
+- **Nearest airports:** Václav Havel Airport Prague (PRG) ~13 km; Pardubice Airport (PED) ~93 km; Karlovy Vary Airport (KLV) ~110 km
 - **Website:** https://colivingprague.com/
 - **Rating:** 4.5 from 2 Google reviews
 

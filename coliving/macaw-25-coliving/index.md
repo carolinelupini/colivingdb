@@ -12,7 +12,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** beach, coworking, community
-- **Nearest airports:** Gran Canaria Airport (LPA) ~21 km
+- **Nearest airports:** Gran Canaria Airport (LPA) ~21 km; Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~98 km; Tenerife Sur Airport (TFS) ~112 km
 - **Website:** https://www.macaw25.com/
 - **Rating:** 4.7 from 26 Google reviews
 

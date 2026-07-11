@@ -12,7 +12,7 @@
 - **Region:** Latin America
 - **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Tags:** beach, community
-- **Nearest airports:** Cancún International Airport (CUN) ~13 km
+- **Nearest airports:** Cancún International Airport (CUN) ~13 km; Cozumel International Airport (CZM) ~72 km; Felipe Carrillo Puerto International Airport Tulum (TQO) ~138 km
 - **Website:** https://humantcoliving.com/
 - **Rating:** 4.9 from 178 Google reviews
 

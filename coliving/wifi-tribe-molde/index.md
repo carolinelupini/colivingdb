@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Second guest:** In a private room each guest pays the shared-room rate — a private room fits one or two people for the same total, so a couple pays the same as booking two shared spots. Solo travellers can book a private room at the private rate.
-- **Nearest airports:** Molde Airport, Årø (MOL) ~5 km; Ålesund Airport (AES) ~57 km
+- **Nearest airports:** Molde Airport, Årø (MOL) ~5 km; Oslo-Gardermoen International Airport (OSL) ~352 km; Kristiansund Airport, Kvernberget (KSU) ~53 km
 - **Website:** https://wifitribe.co/chapter-norway-molde/
 
 ## Rates

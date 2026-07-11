@@ -13,7 +13,7 @@
 - **Region:** Asia
 - **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** beach, island, coworking, community
-- **Nearest airports:** Samui International Airport (USM) ~21 km
+- **Nearest airports:** Samui International Airport (USM) ~21 km; Suvarnabhumi Airport (BKK) ~446 km; Surat Thani Airport (URT) ~118 km
 - **Website:** https://digitalnomadadventures.com/co-living/
 - **Rating:** 4.7 from 39 Google reviews
 

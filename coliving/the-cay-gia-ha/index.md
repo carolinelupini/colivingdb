@@ -12,7 +12,7 @@
 - **Region:** Asia
 - **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** community, coworking, rural
-- **Nearest airports:** Da Nang International Airport (DAD) ~24 km
+- **Nearest airports:** Da Nang International Airport (DAD) ~24 km; Phu Bai International Airport (HUI) ~90 km
 - **Website:** https://coliving.com/spaces/upqaehgu
 
 ## Rates

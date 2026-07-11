@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, island, coworking, community
-- **Nearest airports:** Palma de Mallorca Airport (PMI) ~31 km
+- **Nearest airports:** Palma de Mallorca Airport (PMI) ~31 km; Menorca Airport (MAH) ~106 km
 - **Website:** https://www.nomadico.io/mallorca-coliving
 - **Rating:** 5.0 from 30 Google reviews
 

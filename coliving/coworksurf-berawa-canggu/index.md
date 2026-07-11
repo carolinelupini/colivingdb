@@ -12,7 +12,7 @@
 - **Region:** Asia
 - **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** surf, coworking, beach
-- **Nearest airports:** Denpasar I Gusti Ngurah Rai International Airport (DPS) ~10 km
+- **Nearest airports:** Denpasar I Gusti Ngurah Rai International Airport (DPS) ~10 km; Lombok International Airport (LOP) ~126 km
 - **Website:** https://www.coworksurf.com/canggu/coliving-coworking-berawa-canggu
 - **Rating:** 4.3 from 20 Google reviews
 

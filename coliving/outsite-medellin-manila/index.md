@@ -12,8 +12,9 @@
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
+- **Elevation:** 1,534 m
 - **Tags:** city, coworking, community
-- **Nearest airports:** Enrique Olaya Herrera Airport (EOH) ~3 km; Jose Maria Córdova International Airport (MDE) ~17 km
+- **Nearest airports:** Enrique Olaya Herrera Airport (EOH) ~3 km; El Dorado International Airport (BOG) ~230 km; Jose Maria Córdova International Airport (MDE) ~17 km
 - **Website:** https://www.outsite.co/locations/medellin-manila
 - **Rating:** 4.7 from 45 Google reviews
 

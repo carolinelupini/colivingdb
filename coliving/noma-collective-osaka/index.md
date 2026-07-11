@@ -15,7 +15,7 @@
 - **Included:** Fully-equipped accommodation, eSIM with data, Community Slack access, High-speed wifi, Onsite community manager, Curated community program, No extra membership fees
 - **Not included:** Travel/health insurance, Food & beverage, Flights, Excursions, Wellness activities, Airport transfers
 - **Area:** In Higashi-Shinsaibashi, a lively Osaka neighborhood near Shinsaibashi and Dotonbori with wide dining and bar options; walkable to Osaka Castle and known for its nightlife.
-- **Nearest airports:** Osaka Itami International Airport (ITM) ~11 km
+- **Nearest airports:** Osaka Itami International Airport (ITM) ~11 km; Tokyo Haneda International Airport (HND) ~401 km; Kobe Airport (UKB) ~26 km
 - **Getting there:** Kansai International (KIX); pickup point is Namba Station via public transit rather than direct airport transfer.
 - **Website:** https://www.noma-collective.com/editions/japan-osaka-2027
 

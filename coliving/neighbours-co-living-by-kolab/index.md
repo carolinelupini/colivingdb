@@ -12,7 +12,7 @@
 - **Region:** Asia
 - **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** community, coworking, city
-- **Nearest airports:** Tan Son Nhat International Airport (SGN) ~5 km
+- **Nearest airports:** Tan Son Nhat International Airport (SGN) ~5 km; Can Tho International Airport (VCA) ~133 km
 - **Website:** http://kolabliving.com/
 - **Rating:** 5.0 from 12 Google reviews
 

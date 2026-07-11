@@ -12,7 +12,7 @@
 - **Region:** Latin America
 - **Timezone:** GMT-3 <small>· US East: full workday overlap · Central Europe: good overlap</small>
 - **Tags:** beach, city, coworking, community, startup
-- **Nearest airports:** Santos Dumont Airport (SDU) ~1 km
+- **Nearest airports:** Santos Dumont Airport (SDU) ~1 km; São Paulo/Guarulhos–Governor André Franco Montoro International Airport (GRU) ~342 km; Rio Galeão – Tom Jobim International Airport (GIG) ~14 km
 - **Website:** https://draperstartuphouse.com/brazil/
 
 ## About

@@ -12,7 +12,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** coworking, island, community
-- **Nearest airports:** Cristiano Ronaldo International Airport (FNC) ~14 km
+- **Nearest airports:** Cristiano Ronaldo International Airport (FNC) ~14 km; Porto Santo Airport (PXO) ~70 km
 - **Website:** https://www.averomar.pt/
 - **Rating:** 4.6 from 51 Google reviews
 

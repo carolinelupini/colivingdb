@@ -12,7 +12,7 @@
 - **Region:** Oceania
 - **Timezone:** GMT+11 winter / GMT+10 summer <small>· US East: async only · Central Europe: async only</small>
 - **Tags:** community, city
-- **Nearest airports:** Sydney Kingsford Smith International Airport (SYD) ~5 km
+- **Nearest airports:** Sydney Kingsford Smith International Airport (SYD) ~5 km; Nancy Bird Walton, Western Sydney International Airport (WSI) ~43 km; Shellharbour Airport (WOL) ~82 km
 - **Website:** https://www.nestl.com.au/
 - **Rating:** 5.0 from 10 Google reviews
 

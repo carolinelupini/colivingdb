@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, island, community, coworking
-- **Nearest airports:** Palma de Mallorca Airport (PMI) ~8 km
+- **Nearest airports:** Palma de Mallorca Airport (PMI) ~8 km; Ibiza Airport (IBZ) ~135 km; Menorca Airport (MAH) ~138 km
 - **Website:** https://palmacoliving.co/locations-mallorca/
 - **Rating:** 4.7 from 114 Google reviews
 

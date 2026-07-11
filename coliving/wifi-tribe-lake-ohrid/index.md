@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Second guest:** In a private room each guest pays the shared-room rate — a private room fits one or two people for the same total, so a couple pays the same as booking two shared spots. Solo travellers can book a private room at the private rate.
-- **Nearest airports:** Ohrid St. Paul the Apostle Airport (OHD) ~8 km
+- **Nearest airports:** Ohrid St. Paul the Apostle Airport (OHD) ~8 km; Skopje International Airport (SKP) ~116 km; Tirana International Airport Mother Teresa (TIA) ~96 km
 - **Website:** https://wifitribe.co/chapter-north-macedonia-lake-ohrid-2/
 
 ## Rates

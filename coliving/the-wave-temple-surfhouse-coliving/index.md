@@ -12,7 +12,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** surf, beach, community
-- **Nearest airports:** Gran Canaria Airport (LPA) ~23 km
+- **Nearest airports:** Gran Canaria Airport (LPA) ~23 km; Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~97 km; Tenerife Sur Airport (TFS) ~112 km
 - **Website:** http://www.thewavetemple.com/
 - **Rating:** 4.9 from 55 Google reviews
 

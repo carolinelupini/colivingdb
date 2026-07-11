@@ -13,7 +13,7 @@
 - **Region:** North America
 - **Timezone:** GMT-5 winter / GMT-4 summer <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Tags:** city, coworking, community
-- **Nearest airports:** Montréal / Saint-Hubert Metropolitan Airport (YHU) ~12 km; Montreal / Pierre Elliott Trudeau International Airport (YUL) ~14 km
+- **Nearest airports:** Montréal / Saint-Hubert Metropolitan Airport (YHU) ~12 km; Montreal / Pierre Elliott Trudeau International Airport (YUL) ~14 km; Montreal Mirabel International Airport (YMX) ~42 km
 - **Website:** https://www.nomadcoliving.com/
 - **Rating:** 4.9 from 33 Google reviews
 

@@ -12,7 +12,7 @@
 - **Region:** Asia
 - **Timezone:** GMT+9 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** beach, family, coworking, community
-- **Nearest airports:** Tokyo Haneda International Airport (HND) ~33 km
+- **Nearest airports:** Tokyo Haneda International Airport (HND) ~33 km; Oshima Airport (OIM) ~62 km; Narita International Airport (NRT) ~91 km
 - **Website:** https://www.boundless.life/kamakura-japan-boundless-life-destinations
 
 ## Rates

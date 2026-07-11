@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** community, coworking, family, rural
-- **Nearest airports:** Florence Airport, Peretola (FLR) ~26 km
+- **Nearest airports:** Florence Airport, Peretola (FLR) ~26 km; Rome–Fiumicino Leonardo da Vinci International Airport (FCO) ~260 km; Pisa International Airport (PSA) ~50 km
 - **Website:** https://www.boundless.life
 - **Rating:** 5.0 from 1 Google reviews
 

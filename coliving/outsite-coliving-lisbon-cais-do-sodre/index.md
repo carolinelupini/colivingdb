@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** city, coworking, community
-- **Nearest airports:** Lisbon Humberto Delgado Airport (LIS) ~8 km
+- **Nearest airports:** Lisbon Humberto Delgado Airport (LIS) ~8 km; Cascais Airport (CAT) ~19 km
 - **Website:** https://www.outsite.co/locations/lisbon-cais-do-sodre
 - **Rating:** 4.4 from 79 Google reviews
 

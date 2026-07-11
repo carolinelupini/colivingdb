@@ -12,7 +12,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, coworking, community
-- **Nearest airports:** Kraków John Paul II International Airport (KRK) ~10 km
+- **Nearest airports:** Kraków John Paul II International Airport (KRK) ~10 km; Warsaw Chopin Airport (WAW) ~243 km; Katowice Wojciech Korfanty International Airport (KTW) ~74 km
 - **Website:** https://coliving.com/spaces/mi0oqwfh
 
 ## Rates

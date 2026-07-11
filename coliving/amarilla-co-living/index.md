@@ -16,7 +16,7 @@
 - **Included:** High-speed wifi in rooms and community spaces, Coworking facility access, Community activities (surf/yoga classes, talks, meetups, dinners), Discounts on excursions/experiences, Swimming pool, Local support
 - **Not included:** Cleaning and chef services (offered separately, hireable add-ons)
 - **Area:** Located in San Miguel de Abona/Golf del Sur, south Tenerife; the site cites sandy beaches nearby, a black volcanic beach a 3-minute walk from the coworking space, golf courses, and hiking trails.
-- **Nearest airports:** Tenerife Sur Airport (TFS) ~8 km
+- **Nearest airports:** Tenerife Sur Airport (TFS) ~8 km; Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~51 km; Gran Canaria Airport (LPA) ~123 km
 - **Getting there:** Tenerife South Airport (TFS) is close by, roughly ~10-15 min by car.
 - **Website:** https://amarilla-co.com/
 - **Rating:** 4.6 from 293 Google reviews

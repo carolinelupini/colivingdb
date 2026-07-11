@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, community, coworking
-- **Nearest airports:** Sibiu International Airport (SBZ) ~4 km
+- **Nearest airports:** Sibiu International Airport (SBZ) ~4 km; Bucharest Henri Coandă International Airport (OTP) ~206 km; Târgu Mureş Transilvania International Airport (TGM) ~77 km
 - **Website:** https://www.transylvaniancoliving.com/
 - **Rating:** 5.0 from 20 Google reviews
 

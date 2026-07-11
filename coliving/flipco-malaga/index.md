@@ -12,7 +12,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** community, coworking, city
-- **Nearest airports:** Málaga-Costa del Sol Airport (AGP) ~9 km
+- **Nearest airports:** Málaga-Costa del Sol Airport (AGP) ~9 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~426 km; F.G.L. Airport Granada-Jaén Airport (GRX) ~77 km
 - **Website:** https://flipcoliving.com/
 - **Rating:** 2.1 from 34 Google reviews
 

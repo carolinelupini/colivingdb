@@ -12,7 +12,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** community, coworking, city
-- **Nearest airports:** Falcone–Borsellino Airport (PMO) ~24 km
+- **Nearest airports:** Falcone–Borsellino Airport (PMO) ~24 km; Rome–Fiumicino Leonardo da Vinci International Airport (FCO) ~420 km; Vincenzo Florio Airport Trapani-Birgi (TPS) ~80 km
 - **Website:** https://mojocohouse.com/
 - **Rating:** 4.7 from 51 Google reviews
 

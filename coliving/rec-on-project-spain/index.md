@@ -12,8 +12,9 @@
 - **Minimum stay:** 12 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
+- **Elevation:** 1,207 m
 - **Tags:** mountain, rural, coworking, community
-- **Nearest airports:** Region of Murcia International Airport (RMU) ~92 km
+- **Nearest airports:** Region of Murcia International Airport (RMU) ~92 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~333 km; Almería Airport (LEI) ~98 km
 - **Website:** https://www.mapmelon.com/colivings/rec-on-project-spain
 - **Rating:** 4.9 from 100 Google reviews
 

@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** rural, community, eco
-- **Nearest airports:** Aerodromo Goncalves Lobato (Viseu Airport) (VSE) ~97 km; Francisco de Sá Carneiro Airport (OPO) ~132 km
+- **Nearest airports:** Aerodromo Goncalves Lobato (Viseu Airport) (VSE) ~97 km; Lisbon Humberto Delgado Airport (LIS) ~149 km; Francisco de Sá Carneiro Airport (OPO) ~132 km
 - **Website:** https://www.mapmelon.com/colivings/quinta-da-carvalheira
 - **Rating:** 5.0 from 14 Google reviews
 

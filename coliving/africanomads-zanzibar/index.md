@@ -12,7 +12,7 @@
 - **Minimum stay:** —
 - **Region:** Africa
 - **Timezone:** GMT+3 <small>· US East: your evenings · Central Europe: full workday overlap</small>
-- **Nearest airports:** Abeid Amani Karume International Airport (ZNZ) ~40 km
+- **Nearest airports:** Abeid Amani Karume International Airport (ZNZ) ~40 km; Julius Nyerere International Airport (DAR) ~60 km
 - **Website:** https://www.africanomads.co/digital-nomads-zanzibar-2027
 
 Source: https://colivingdb.com/coliving/africanomads-zanzibar/

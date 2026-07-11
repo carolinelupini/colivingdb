@@ -12,7 +12,7 @@
 - **Region:** Africa
 - **Timezone:** GMT+1 <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** community, coworking, startup
-- **Nearest airports:** Marrakesh Menara Airport (RAK) ~13 km
+- **Nearest airports:** Marrakesh Menara Airport (RAK) ~13 km; Mohammed V International Airport (CMN) ~213 km; Ouarzazate International Airport (OZZ) ~129 km
 - **Website:** http://www.chateaunougat.com/
 - **Rating:** 5.0 from 6 Google reviews
 

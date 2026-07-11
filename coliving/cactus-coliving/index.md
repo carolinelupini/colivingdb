@@ -12,8 +12,9 @@
 - **Minimum stay:** 14 nights (~2 weeks)
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
+- **Elevation:** 1,266 m
 - **Tags:** island, mountain, rural, community, coworking
-- **Nearest airports:** Tenerife Sur Airport (TFS) ~14 km
+- **Nearest airports:** Tenerife Sur Airport (TFS) ~14 km; Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~49 km; La Palma Airport (SPC) ~120 km
 - **Website:** https://www.cactuscoliving.com/
 - **Rating:** 4.9 from 120 Google reviews
 

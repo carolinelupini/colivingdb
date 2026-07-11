@@ -11,8 +11,9 @@
 - **Minimum stay:** 1 night
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
+- **Elevation:** 2,241 m
 - **Tags:** coworking, city, community
-- **Nearest airports:** Mexico City Benito Juárez International Airport (MEX) ~11 km
+- **Nearest airports:** Mexico City Benito Juárez International Airport (MEX) ~11 km; Felipe Ángeles International Airport (NLU) ~42 km; Adolfo López Mateos International Airport (TLC) ~42 km
 - **Website:** https://niu-coliving.com/es/wtc-napoles/
 - **Rating:** 4.8 from 30 Google reviews
 

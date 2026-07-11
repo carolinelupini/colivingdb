@@ -12,7 +12,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** community, coworking
-- **Nearest airports:** Rome–Fiumicino Leonardo da Vinci International Airport (FCO) ~73 km
+- **Nearest airports:** Rome–Fiumicino Leonardo da Vinci International Airport (FCO) ~73 km; Perugia San Francesco d'Assisi – Umbria International Airport (PEG) ~73 km; Ciampino–G. B. Pastine International Airport (CIA) ~75 km
 - **Website:** https://www.nestingaway.com/
 - **Rating:** 4.8 from 51 Google reviews
 

@@ -12,7 +12,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** community, city, beach
-- **Nearest airports:** Catania-Fontanarossa Airport (CTA) ~32 km
+- **Nearest airports:** Catania-Fontanarossa Airport (CTA) ~32 km; Reggio Calabria Airport (REG) ~55 km; Comiso Airport (CIY) ~97 km
 - **Website:** https://www.cummari.com/
 
 ## About

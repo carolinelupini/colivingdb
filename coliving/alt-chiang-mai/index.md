@@ -15,7 +15,7 @@
 - **Tags:** city, coworking, community
 - **Included:** 24/7 coworking access, Weekly activities, Weekly room cleaning, Free tea and local coffee
 - **Area:** In Chiang Mai, near waterfalls and a buzzing coffee shop scene, with yoga and workshop programming for a hiking/food/entrepreneurship-minded community.
-- **Nearest airports:** Chiang Mai International Airport (CNX) ~4 km
+- **Nearest airports:** Chiang Mai International Airport (CNX) ~4 km; Lampang Airport (LPT) ~79 km; Mae Hong Son Airport (HGN) ~121 km
 - **Getting there:** Chiang Mai International (CNX) is about a 10-minute taxi or Grab ride.
 - **Website:** https://www.mapmelon.com/colivings/alt-chiang-mai
 - **Rating:** 4.9 from 242 Google reviews

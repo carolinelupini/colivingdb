@@ -12,7 +12,7 @@
 - **Region:** Asia
 - **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** coworking, community, city
-- **Nearest airports:** Suvarnabhumi Airport (BKK) ~19 km
+- **Nearest airports:** Suvarnabhumi Airport (BKK) ~19 km; Don Mueang International Airport (DMK) ~22 km; U-Tapao–Rayong–Pattaya International Airport (UTP) ~124 km
 - **Website:** http://unionspace.co.th/coliving-bangkok.php
 - **Rating:** 3.9 from 24 Google reviews
 

@@ -12,7 +12,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, mountain, coworking, community
-- **Nearest airports:** Sofia Airport (SOF) ~8 km
+- **Nearest airports:** Sofia Airport (SOF) ~8 km; Niš Constantine the Great Airport (INI) ~138 km; Plovdiv International Airport (PDV) ~144 km
 - **Website:** https://www.outsite.co/locations/sofia-bulgaria
 
 ## About

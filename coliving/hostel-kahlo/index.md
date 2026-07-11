@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, mountain, community
-- **Nearest airports:** Almería Airport (LEI) ~55 km; Region of Murcia International Airport (RMU) ~124 km
+- **Nearest airports:** Almería Airport (LEI) ~55 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~365 km; F.G.L. Airport Granada-Jaén Airport (GRX) ~123 km
 - **Website:** https://www.hostelworld.com/es/albergues/p/334001/hostel-kahlo/
 - **Rating:** 3.7 from 3 Google reviews
 

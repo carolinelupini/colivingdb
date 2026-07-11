@@ -11,8 +11,9 @@
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
+- **Elevation:** 1,797 m
 - **Tags:** mountain, ski, coworking, community
-- **Nearest airports:** Bern Airport (BRN) ~82 km; Milan Malpensa International Airport (MXP) ~108 km
+- **Nearest airports:** Bern Airport (BRN) ~82 km; Zürich Airport (ZRH) ~160 km; Lugano Airport (LUG) ~105 km
 - **Website:** https://coliving.com/spaces/zt3bgmte
 
 ## Rates

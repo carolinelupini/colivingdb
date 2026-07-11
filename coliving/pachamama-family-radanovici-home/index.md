@@ -17,7 +17,7 @@
 - **Not included:** Pets (not allowed despite general pet-friendly note), Sauna (listed as coming soon)
 - **Second guest:** Couples are allowed, with couple-friendly private rooms available, though no specific extra charge is stated.
 - **Area:** In the village of Ukropci near Kotor Bay, with secret beaches a 6km walk/short drive away and Kotor and Budva Old Towns 15-20km away.
-- **Nearest airports:** Tivat Airport (TIV) ~8 km; Podgorica Airport / Podgorica Golubovci Airbase (TGD) ~41 km
+- **Nearest airports:** Tivat Airport (TIV) ~8 km; Podgorica Airport / Podgorica Golubovci Airbase (TGD) ~41 km; Dubrovnik Ruđer Bošković Airport (DBV) ~47 km
 - **Getting there:** Tivat (TIV) is the nearest airport, roughly 20-30 minutes by car; Podgorica (TGD) is farther.
 - **Website:** https://coliving.com/spaces/bn2ovnqc
 - **Rating:** 4.8 from 229 Google reviews

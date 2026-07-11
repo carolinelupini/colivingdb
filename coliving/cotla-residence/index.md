@@ -12,7 +12,7 @@
 - **Region:** Asia
 - **Timezone:** GMT+5:30 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** coworking, community
-- **Nearest airports:** Goa Dabolim International Airport (GOI) ~19 km
+- **Nearest airports:** Goa Dabolim International Airport (GOI) ~19 km; Manohar International Airport (GOX) ~23 km; Sindhudurg Airport (SDW) ~58 km
 - **Website:** https://coliving.com/spaces/emvqvfhd
 
 ## Rates

@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** island, coworking, community, eco
-- **Nearest airports:** Tenerife Sur Airport (TFS) ~3 km
+- **Nearest airports:** Tenerife Sur Airport (TFS) ~3 km; Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~51 km; Gran Canaria Airport (LPA) ~116 km
 - **Website:** https://remoters.net/colivings/buddha-coliving/
 - **Rating:** 3.8 from 12 Google reviews
 

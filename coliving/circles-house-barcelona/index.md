@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, community, coworking, startup
-- **Nearest airports:** Josep Tarradellas Barcelona-El Prat Airport (BCN) ~13 km
+- **Nearest airports:** Josep Tarradellas Barcelona-El Prat Airport (BCN) ~13 km; Girona-Costa Brava Airport (GRO) ~75 km; Reus Airport (REU) ~88 km
 - **Website:** https://www.mapmelon.com/colivings/circles-house-barcelona
 - **Rating:** 4.7 from 99 Google reviews
 

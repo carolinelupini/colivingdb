@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** mountain, rural, startup, coworking, community
-- **Nearest airports:** Innsbruck Airport (INN) ~6 km
+- **Nearest airports:** Innsbruck Airport (INN) ~6 km; Vienna International Airport (VIE) ~408 km; Bolzano Airport (BZO) ~86 km
 - **Website:** https://epic.libralab.ai/
 - **Rating:** 4.2 from 10 Google reviews
 

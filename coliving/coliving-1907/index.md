@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** city, island, coworking, beach
-- **Nearest airports:** Gran Canaria Airport (LPA) ~22 km
+- **Nearest airports:** Gran Canaria Airport (LPA) ~22 km; Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~97 km; Tenerife Sur Airport (TFS) ~111 km
 - **Website:** https://coliving1907.com/en/
 - **Rating:** 4.8 from 134 Google reviews
 

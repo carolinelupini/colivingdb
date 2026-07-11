@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, coworking, community, eco, mountain
-- **Nearest airports:** Florence Airport, Peretola (FLR) ~30 km
+- **Nearest airports:** Florence Airport, Peretola (FLR) ~30 km; Rome–Fiumicino Leonardo da Vinci International Airport (FCO) ~246 km; Forlì-Luigi Ridolfi International Airport (FRL) ~52 km
 - **Website:** https://tertulia.farm/
 - **Rating:** 4.8 from 84 Google reviews
 

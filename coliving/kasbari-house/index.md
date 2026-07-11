@@ -13,7 +13,7 @@
 - **Region:** Africa
 - **Timezone:** GMT+1 <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** surf, beach, coworking, community
-- **Nearest airports:** Al Massira Airport (AGA) ~32 km
+- **Nearest airports:** Al Massira Airport (AGA) ~32 km; Mohammed V International Airport (CMN) ~375 km; Essaouira-Mogador Airport (ESU) ~100 km
 - **Website:** https://www.kasbari.com
 - **Rating:** 4.7 from 57 Google reviews
 

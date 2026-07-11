@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** island, community, coworking
-- **Nearest airports:** Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~20 km
+- **Nearest airports:** Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~20 km; Tenerife Sur Airport (TFS) ~39 km; Gran Canaria Airport (LPA) ~122 km
 - **Website:** https://www.ninecoliving.com/
 - **Rating:** 4.9 from 110 Google reviews
 

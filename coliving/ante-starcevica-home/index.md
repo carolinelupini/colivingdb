@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** beach, community
-- **Nearest airports:** Zadar Airport (ZAD) ~41 km
+- **Nearest airports:** Zadar Airport (ZAD) ~41 km; Zagreb Franjo Tuđman International Airport (ZAG) ~205 km; Split Saint Jerome Airport (SPU) ~57 km
 - **Website:** https://coliving.com/spaces/kir2txmg
 
 ## Rates

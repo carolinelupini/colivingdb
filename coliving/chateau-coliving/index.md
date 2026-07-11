@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, community, coworking, family, eco
-- **Nearest airports:** Jersey Airport (JER) ~61 km; London Gatwick Airport (LGW) ~214 km
+- **Nearest airports:** Jersey Airport (JER) ~61 km; Charles de Gaulle International Airport (CDG) ~290 km; Alderney Airport (ACI) ~68 km
 - **Website:** https://chateaucoliving.com/
 - **Rating:** 4.8 from 128 Google reviews
 

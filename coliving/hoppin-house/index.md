@@ -13,7 +13,7 @@
 - **Region:** Asia
 - **Timezone:** GMT+9 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** city, community, coworking
-- **Nearest airports:** Seoul Gimpo International Airport (GMP) ~11 km
+- **Nearest airports:** Seoul Gimpo International Airport (GMP) ~11 km; Jeju International Airport (CJU) ~452 km; Incheon International Airport (ICN) ~43 km
 - **Website:** https://www.hoppin.life/hoppinhouse
 - **Rating:** 4.9 from 77 Google reviews
 

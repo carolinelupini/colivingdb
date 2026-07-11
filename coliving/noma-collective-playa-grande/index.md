@@ -15,7 +15,7 @@
 - **Included:** Pool and beach access, Beer Garden meals, Coworking area with wifi + local SIM, Onsite community manager, Airport transfers, Alumni network access
 - **Not included:** Travel/health insurance, Surfboard/bike rentals, Jungle treks, surf lessons, waterfall visits, Flights, Food & beverage beyond Beer Garden, Gym access, Laundry
 - **Area:** Laidback surf town, 3-minute walk to the beach, with surf lessons and ATV jungle tours; the wider region spans beaches, jungle, rainforest, mangroves, and coral reefs across roughly a dozen ecosystems.
-- **Nearest airports:** Nosara Airport (NOB) ~44 km; Daniel Oduber Quirós International Airport (LIR) ~45 km
+- **Nearest airports:** Nosara Airport (NOB) ~44 km; Juan Santamaría International Airport (SJO) ~183 km; Daniel Oduber Quirós International Airport (LIR) ~45 km
 - **Getting there:** Liberia (LIR) or San José (SJO); transfers included from both.
 - **Website:** https://www.noma-collective.com/editions/playa-grande-costa-rica-aug-16-2026
 

@@ -16,7 +16,7 @@
 - **Included:** Continental breakfast, High-quality wifi, AC in all rooms, 24-hour reception, Access to citywide community events
 - **Not included:** Parking (extra fee, on request), Pool, Onsite restaurant/café (not yet operational), Communal kitchen, Self-service laundry
 - **Area:** Lower Pacific Heights, San Francisco, between Japantown, Pacific Heights, and Hayes Valley; near Japantown dining, Hayes Valley galleries, Polk Street live music, City Hall, and the Fillmore, with strong Muni/BART transit access.
-- **Nearest airports:** Oakland San Francisco Bay Airport (OAK) ~19 km
+- **Nearest airports:** Oakland San Francisco Bay Airport (OAK) ~19 km; San Francisco International Airport (SFO) ~19 km; San Carlos Airport (SQL) ~34 km
 - **Getting there:** San Francisco International (SFO) — approximate, not stated on site.
 - **Website:** https://www.neighbourgood.co
 - **Rating:** 4.6 from 192 Google reviews

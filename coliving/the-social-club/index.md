@@ -15,7 +15,7 @@
 - **Tags:** city, coworking, community
 - **Included:** Private room (21 sqm) with balcony and bathroom, In-room workstation and fridge, Fiber optic internet with Wi-Fi 6, Indoor/outdoor coworking space, 2 quiet rooms, phone rooms, Community events: family dinners, game/movie nights, group outings, hikes, yoga, ice baths
 - **Area:** Sits inside the Chiang Mai Old Town walls, walking distance to Nimman; a gym, Muay Thai facility, vegan restaurant, Starbucks, and numerous restaurants/cafes/bars are within a 5-minute walk.
-- **Nearest airports:** Chiang Mai International Airport (CNX) ~4 km
+- **Nearest airports:** Chiang Mai International Airport (CNX) ~4 km; Lampang Airport (LPT) ~79 km; Mae Hong Son Airport (HGN) ~121 km
 - **Getting there:** Chiang Mai International Airport (CNX) is ~10-15 min by car from the Old Town.
 - **Website:** https://www.thesocialclub.asia/
 - **Rating:** 4.9 from 200 Google reviews

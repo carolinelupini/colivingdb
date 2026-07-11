@@ -16,7 +16,7 @@
 - **Included:** Private bathroom, Parking, Gym access, 24/7 coworking access, Weekly room cleaning
 - **Second guest:** A second person sharing the room stays free of charge.
 - **Area:** Sofia offers good public transport, mountain access, and shops/markets near the property; well known for a growing coworking/nomad scene and easy access to Vitosha Mountain.
-- **Nearest airports:** Sofia Airport (SOF) ~8 km
+- **Nearest airports:** Sofia Airport (SOF) ~8 km; Niš Constantine the Great Airport (INI) ~138 km; Plovdiv International Airport (PDV) ~144 km
 - **Getting there:** Sofia Airport (SOF) is the nearest airport, roughly 20-30 minutes from the city center.
 - **Website:** https://www.mapmelon.com/colivings/worknomads
 - **Rating:** 4.5 from 480 Google reviews

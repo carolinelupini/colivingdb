@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** rural, community, coworking
-- **Nearest airports:** Cornwall Airport Newquay (NQY) ~23 km; Cardiff International Airport (CWL) ~144 km
+- **Nearest airports:** Cornwall Airport Newquay (NQY) ~23 km; London Heathrow Airport (LHR) ~318 km; Exeter International Airport (EXT) ~96 km
 - **Website:** https://froomies.org/
 - **Rating:** 5.0 from 12 Google reviews
 

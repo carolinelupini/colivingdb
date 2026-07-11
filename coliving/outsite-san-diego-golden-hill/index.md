@@ -13,7 +13,7 @@
 - **Region:** North America
 - **Timezone:** GMT-8 winter / GMT-7 summer <small>· US East: good overlap · Central Europe: async only</small>
 - **Tags:** city, coworking, community
-- **Nearest airports:** San Diego International Airport (SAN) ~6 km
+- **Nearest airports:** San Diego International Airport (SAN) ~6 km; General Abelardo L. Rodriguez International Airport (TIJ) ~25 km; McClellan-Palomar Airport (CLD) ~48 km
 - **Website:** https://www.outsite.co/locations/san-diego-golden-hill
 - **Rating:** 4.3 from 8 Google reviews
 

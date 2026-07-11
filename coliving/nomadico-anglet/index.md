@@ -12,7 +12,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** beach, surf, coworking, community
-- **Nearest airports:** Biarritz Pays Basque airport (BIQ) ~1 km; Bilbao Airport (BIO) ~114 km
+- **Nearest airports:** Biarritz Pays Basque airport (BIQ) ~1 km; Bordeaux–Mérignac Airport (BOD) ~163 km; San Sebastián Airport (EAS) ~26 km
 - **Website:** https://nomadico.io
 
 ## Rates

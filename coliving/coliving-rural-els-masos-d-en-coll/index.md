@@ -17,7 +17,7 @@
 - **Not included:** Breakfast service, Meal/restaurant service beyond kitchen access
 - **Second guest:** Shared rooms require a matched roommate; if none is found, the solo rate applies until one is (per the site's Spanish-language terms).
 - **Area:** Located in the Empordà countryside near Llabià/Fontanilles, Girona, described as a peaceful rural spot with hiking and cycling routes and farm/garden activities.
-- **Nearest airports:** Girona-Costa Brava Airport (GRO) ~33 km
+- **Nearest airports:** Girona-Costa Brava Airport (GRO) ~33 km; Perpignan-Rivesaltes (Llabanère) Airport (PGF) ~83 km; Josep Tarradellas Barcelona-El Prat Airport (BCN) ~119 km
 - **Getting there:** Girona-Costa Brava Airport (GRO) is the closest, roughly ~20-30 min by car; Barcelona-El Prat (BCN) is ~1.5h.
 - **Website:** https://www.elsmasosdencoll.com/es/8823/COLIVING/-
 - **Rating:** 4.6 from 271 Google reviews

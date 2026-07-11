@@ -15,7 +15,7 @@
 - **Tags:** coworking, community, city
 - **Included:** Furnished apartment with services, Pool, gym, sauna, playrooms, Restaurant access, Yoga sessions and cooking classes, Coworking space, Community activities, Single consolidated billing
 - **Area:** Located in Punta Carretas, a well-regarded Montevideo neighborhood within a 15-min walk/bike of the Rambla waterfront, a shopping center, and restaurants.
-- **Nearest airports:** Carrasco General Cesáreo L. Berisso International Airport (MVD) ~15 km
+- **Nearest airports:** Carrasco General Cesáreo L. Berisso International Airport (MVD) ~15 km; Capitan Corbeta CA Curbelo International Airport (PDP) ~97 km
 - **Getting there:** Carrasco International (MVD), roughly 20–25 min drive — approximate, not stated on site.
 - **Website:** https://www.opta.com.uy
 - **Rating:** 4.3 from 2266 Google reviews

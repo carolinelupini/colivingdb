@@ -13,7 +13,7 @@
 - **Region:** Africa
 - **Timezone:** GMT+1 <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** city, coworking, community
-- **Nearest airports:** Marrakesh Menara Airport (RAK) ~5 km
+- **Nearest airports:** Marrakesh Menara Airport (RAK) ~5 km; Mohammed V International Airport (CMN) ~197 km; Ouarzazate International Airport (OZZ) ~128 km
 - **Website:** https://www.outsite.co/locations/marrakesh
 - **Rating:** 4.7 from 98 Google reviews
 

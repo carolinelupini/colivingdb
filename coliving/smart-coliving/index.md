@@ -11,8 +11,9 @@
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
+- **Elevation:** 2,267 m
 - **Tags:** coworking, community, city
-- **Nearest airports:** Mexico City Benito Juárez International Airport (MEX) ~13 km
+- **Nearest airports:** Mexico City Benito Juárez International Airport (MEX) ~13 km; Adolfo López Mateos International Airport (TLC) ~40 km; Felipe Ángeles International Airport (NLU) ~42 km
 - **Website:** http://www.smartcoliving.site/
 - **Rating:** 4.2 from 86 Google reviews
 

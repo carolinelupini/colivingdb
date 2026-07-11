@@ -15,7 +15,7 @@
 - **Tags:** beach, city, coworking, community
 - **Included:** Furnished room, Fast wifi (600 Mbps), Equipped kitchen, Desk and office chair, Balcony access, Swimming pool access, Weekly cleaning, Free external monitors, Nomad community access
 - **Area:** Located in Playa de las Americas, Tenerife South, in the city center and about 5 minutes from the beach; supermarket, gym, restaurants, and surf spots nearby.
-- **Nearest airports:** Tenerife Sur Airport (TFS) ~15 km
+- **Nearest airports:** Tenerife Sur Airport (TFS) ~15 km; Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~60 km; El Hierro Airport (VDE) ~118 km
 - **Getting there:** Tenerife South Airport (TFS) is ~15-20 min by car.
 - **Website:** https://digitaltenerife.es/
 - **Rating:** 2.6 from 188 Google reviews

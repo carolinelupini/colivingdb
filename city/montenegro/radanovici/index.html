@@ -28,6 +28,21 @@ tr:last-child td{border-bottom:none}
 .facts dd{margin:0;padding:10px 0;border-bottom:1px solid #f1f4f8;font-weight:500}
 .facts dl>:nth-last-child(-n+2){border-bottom:none}
 .pill{display:inline-block;background:#eef6f3;color:#0e7c66;border-radius:999px;padding:2px 10px;font-size:.78rem;margin:0 5px 5px 0}
+.tagrow{margin:0 0 10px}
+.pfgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:10px;margin:8px 0 22px}
+.pf{background:#fff;border:1px solid #e5e9f0;border-radius:10px;padding:9px 13px}
+.pf span{display:block;font-size:.72rem;color:#6b7280;text-transform:uppercase;letter-spacing:.04em}
+.pf b{font-size:.9rem;font-weight:600}
+.aplist{list-style:none;padding:0;margin:8px 0 22px;display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:10px}
+.aplist li{background:#fff;border:1px solid #e5e9f0;border-radius:10px;padding:10px 14px}
+.aplist small{color:#6b7280;display:block;margin-top:2px}
+.aplist .apkm{color:#6b7280;font-weight:400}
+.cf{margin-left:10px;font-size:.72rem;vertical-align:middle}
+.cf button{border:1px solid #e5e9f0;background:#fff;padding:2px 8px;cursor:pointer;color:#6b7280}
+.cf button:first-child{border-radius:6px 0 0 6px}
+.cf button:last-child{border-radius:0 6px 6px 0}
+.cf button.on{background:#0e7c66;border-color:#0e7c66;color:#fff}
+.cm-p{font-size:.62rem;color:#6b7280}
 .clim{display:flex;gap:4px;margin:10px 0 4px;max-width:560px}
 .cm{flex:1;display:flex;flex-direction:column;align-items:center;gap:3px}
 .cm-m{font-size:.68rem;color:#6b7280}
@@ -128,7 +143,16 @@ header.site select{margin-left:auto;font:inherit;font-size:.84rem;padding:6px 9p
   apply();
 })();
 </script>
-
+<h2>When to go <span class="cf"><button class="on" onclick="cf(this,false)">°C</button><button onclick="cf(this,true)">°F</button></span></h2><div class="clim"><div class="cm"><span class="cm-m">J</span><span class="cm-t" data-c="9.9" style="background:hsl(180 62% 84%);color:hsl(180 55% 30%)">10°</span><span class="cm-r" title="~253 mm rain"><i style="height:28px"></i></span><span class="cm-p">253</span></div><div class="cm"><span class="cm-m">F</span><span class="cm-t" data-c="10.9" style="background:hsl(174 62% 84%);color:hsl(174 55% 30%)">11°</span><span class="cm-r" title="~185 mm rain"><i style="height:21px"></i></span><span class="cm-p">185</span></div><div class="cm"><span class="cm-m">M</span><span class="cm-t" data-c="12.1" style="background:hsl(167 62% 84%);color:hsl(167 55% 30%)">12°</span><span class="cm-r" title="~182 mm rain"><i style="height:20px"></i></span><span class="cm-p">182</span></div><div class="cm"><span class="cm-m">A</span><span class="cm-t" data-c="15.1" style="background:hsl(148 62% 84%);color:hsl(148 55% 30%)">15°</span><span class="cm-r" title="~190 mm rain"><i style="height:21px"></i></span><span class="cm-p">190</span></div><div class="cm"><span class="cm-m">M</span><span class="cm-t" data-c="20.3" style="background:hsl(111 62% 84%);color:hsl(111 55% 30%)">20°</span><span class="cm-r" title="~181 mm rain"><i style="height:20px"></i></span><span class="cm-p">181</span></div><div class="cm"><span class="cm-m">J</span><span class="cm-t" data-c="25.1" style="background:hsl(72 62% 84%);color:hsl(72 55% 30%)">25°</span><span class="cm-r" title="~107 mm rain"><i style="height:12px"></i></span><span class="cm-p">107</span></div><div class="cm"><span class="cm-m">J</span><span class="cm-t" data-c="28.6" style="background:hsl(48 62% 84%);color:hsl(48 55% 30%)">29°</span><span class="cm-r" title="~31 mm rain"><i style="height:3px"></i></span><span class="cm-p">31</span></div><div class="cm"><span class="cm-m">A</span><span class="cm-t" data-c="28.1" style="background:hsl(51 62% 84%);color:hsl(51 55% 30%)">28°</span><span class="cm-r" title="~76 mm rain"><i style="height:8px"></i></span><span class="cm-p">76</span></div><div class="cm"><span class="cm-m">S</span><span class="cm-t" data-c="23.2" style="background:hsl(87 62% 84%);color:hsl(87 55% 30%)">23°</span><span class="cm-r" title="~225 mm rain"><i style="height:25px"></i></span><span class="cm-p">225</span></div><div class="cm"><span class="cm-m">O</span><span class="cm-t" data-c="20.0" style="background:hsl(113 62% 84%);color:hsl(113 55% 30%)">20°</span><span class="cm-r" title="~203 mm rain"><i style="height:23px"></i></span><span class="cm-p">203</span></div><div class="cm"><span class="cm-m">N</span><span class="cm-t" data-c="14.6" style="background:hsl(151 62% 84%);color:hsl(151 55% 30%)">15°</span><span class="cm-r" title="~378 mm rain"><i style="height:30px"></i></span><span class="cm-p">378</span></div><div class="cm"><span class="cm-m">D</span><span class="cm-t" data-c="11.8" style="background:hsl(169 62% 84%);color:hsl(169 55% 30%)">12°</span><span class="cm-r" title="~254 mm rain"><i style="height:28px"></i></span><span class="cm-p">254</span></div></div><p class="muted">Average daily high and monthly rainfall (mm), 2022–2024.</p><script>
+function cf(btn,toF){
+  document.querySelectorAll('.cm-t').forEach(function(el){
+    var c=parseFloat(el.getAttribute('data-c'));
+    el.firstChild.nodeValue=(toF?Math.round(c*9/5+32):Math.round(c))+'\u00b0';
+  });
+  document.querySelectorAll('.cf button').forEach(function(b){b.className=''});
+  btn.className='on';
+}
+</script>
 
 <h2>Frequently asked</h2><dl class="faq"><dt>How much does coliving in Radanovici, Montenegro cost?</dt><dd>Across 1 colivings in Radanovici, Montenegro, listed prices start at €838 per month and run to €838 per month. 1 of them publish a price.</dd><dt>What is the shortest stay you can book in Radanovici, Montenegro?</dt><dd>The shortest minimum stay is 30 nights; the most common requirement is 30 nights.</dd><dt>Are there pop-up colivings in Radanovici, Montenegro?</dt><dd>No dated pop-up editions are listed in Radanovici, Montenegro right now — all 1 are permanent colivings.</dd><dt>Which colivings in Radanovici, Montenegro have dorms?</dt><dd>1 of 1 offer a dorm bed.</dd></dl>
 <p><a href="/country/montenegro/">← All colivings in Montenegro</a></p>

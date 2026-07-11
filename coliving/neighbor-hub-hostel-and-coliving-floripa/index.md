@@ -12,7 +12,7 @@
 - **Region:** Latin America
 - **Timezone:** GMT-3 <small>· US East: full workday overlap · Central Europe: good overlap</small>
 - **Tags:** coworking, community
-- **Nearest airports:** Hercílio Luz International Airport (FLN) ~9 km
+- **Nearest airports:** Hercílio Luz International Airport (FLN) ~9 km; Ministro Victor Konder International Airport (NVT) ~80 km
 - **Website:** https://www.nbhub.com.br/
 - **Rating:** 4.4 from 45 Google reviews
 

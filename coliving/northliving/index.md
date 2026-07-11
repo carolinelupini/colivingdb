@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, beach, coworking, community
-- **Nearest airports:** Sundsvall-Härnösand Airport (SDL) ~22 km; Umeå Airport (UME) ~182 km
+- **Nearest airports:** Sundsvall-Härnösand Airport (SDL) ~22 km; Stockholm-Arlanda Airport (ARN) ~326 km; Kramfors-Sollefteå Höga Kusten Airport (KRF) ~52 km
 - **Website:** https://www.mapmelon.com/colivings/northliving
 - **Rating:** 5.0 from 9 Google reviews
 

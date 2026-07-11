@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, coworking, community
-- **Nearest airports:** Josep Tarradellas Barcelona-El Prat Airport (BCN) ~13 km
+- **Nearest airports:** Josep Tarradellas Barcelona-El Prat Airport (BCN) ~13 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~493 km; Girona-Costa Brava Airport (GRO) ~76 km
 - **Website:** https://www.outsite.co/locations/barcelona
 - **Rating:** 4.8 from 25 Google reviews
 

@@ -12,7 +12,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** island, rural, coworking, community
-- **Nearest airports:** Stokmarknes Airport, Skagen (SKN) ~47 km; Harstad/Narvik Airport (EVE) ~88 km
+- **Nearest airports:** Stokmarknes Airport, Skagen (SKN) ~47 km; Harstad/Narvik Airport (EVE) ~88 km; Andøya Airport, Andenes (ANX) ~55 km
 - **Website:** https://coliving.com/spaces/daihvsyl
 
 ## Rates

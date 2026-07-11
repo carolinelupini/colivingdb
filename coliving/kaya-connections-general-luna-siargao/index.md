@@ -11,7 +11,7 @@
 - **Minimum stay:** —
 - **Region:** Asia
 - **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
-- **Nearest airports:** Surigao Airport (SUG) ~73 km; Laguindingan International Airport (CGY) ~227 km
+- **Nearest airports:** Surigao Airport (SUG) ~73 km; Laguindingan International Airport (CGY) ~227 km; Bancasi Airport (BXU) ~118 km
 - **Website:** https://kayaconnections.com
 
 Source: https://colivingdb.com/coliving/kaya-connections-general-luna-siargao/

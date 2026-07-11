@@ -12,7 +12,7 @@
 - **Region:** Africa
 - **Timezone:** GMT+1 <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** beach, surf, community, coworking
-- **Nearest airports:** Al Massira Airport (AGA) ~34 km
+- **Nearest airports:** Al Massira Airport (AGA) ~34 km; Mohammed V International Airport (CMN) ~373 km; Essaouira-Mogador Airport (ESU) ~98 km
 - **Website:** https://coliving.com/spaces/bfygsnjv
 
 ## Rates

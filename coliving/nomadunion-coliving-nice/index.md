@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, beach, coworking, community
-- **Nearest airports:** Nice-Côte d'Azur Airport (NCE) ~7 km
+- **Nearest airports:** Nice-Côte d'Azur Airport (NCE) ~7 km; Cuneo International Airport (CUF) ~98 km; Toulon-Hyères Airport (TLN) ~113 km
 - **Website:** https://www.nomadunion.digital/coliving/apartment
 - **Rating:** 4.9 from 14 Google reviews
 

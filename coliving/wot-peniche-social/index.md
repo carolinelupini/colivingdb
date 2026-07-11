@@ -15,7 +15,7 @@
 - **Tags:** surf, beach, community
 - **Included:** Fast, stable wifi, All expenses/utilities included (site describes 'no surprises' all-in rent), Flatmate matching for shared units
 - **Area:** Within walking distance of the beach, surf spots, and seafood restaurants in Peniche; Supertubos beach is about a 40-minute walk, Nazare's big-wave break is ~50 minutes away, and Óbidos is a ~30-minute drive.
-- **Nearest airports:** Lisbon Humberto Delgado Airport (LIS) ~68 km
+- **Nearest airports:** Lisbon Humberto Delgado Airport (LIS) ~68 km; Cascais Airport (CAT) ~71 km
 - **Getting there:** Lisbon Airport (LIS) is about a 1-hour drive.
 - **Website:** https://www.wotsocial.com/en/
 - **Rating:** 4.5 from 369 Google reviews

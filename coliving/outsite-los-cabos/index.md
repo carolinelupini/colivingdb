@@ -13,7 +13,7 @@
 - **Region:** Latin America
 - **Timezone:** GMT-7 <small>· US East: good overlap · Central Europe: async only</small>
 - **Tags:** beach, coworking, community
-- **Nearest airports:** Los Cabos International Airport (SJD) ~10 km
+- **Nearest airports:** Los Cabos International Airport (SJD) ~10 km; Cabo San Lucas International Airport (CSW) ~27 km; Manuel Márquez de León International Airport (LAP) ~131 km
 - **Website:** https://www.outsite.co/locations/los-cabos
 - **Rating:** 4.7 from 52 Google reviews
 

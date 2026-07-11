@@ -12,12 +12,13 @@
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Latin America
 - **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
+- **Elevation:** 1,492 m
 - **Tags:** city, coworking, community
 - **Included:** High-speed wifi, Coworking floor with ergonomic seating and meeting rooms, Weekly room cleaning with bed changes, Common-area cleaning 3+ times/week, Welcome treats, Weekly social events, weekend trips, cooking and salsa classes, Utilities, Toiletries, towels, linens, Weekly laundry facilities
 - **Not included:** Meals (beyond welcome treats), Cleaning beyond the weekly service, Laundry fees beyond the included allotment, Some outside events
 - **Second guest:** Rent can be split with a partner or friend sharing the room; extra fees may apply for additional occupants, exact amount not specified.
 - **Area:** Belén/Laureles neighborhood, described as a chill, centrally located residential area near Pueblito Paisa and Parque de Belén; nightlife on 'La 70,' plus organized Comuna 13 street art tours and Guatapé day trips.
-- **Nearest airports:** Enrique Olaya Herrera Airport (EOH) ~2 km; Jose Maria Córdova International Airport (MDE) ~20 km
+- **Nearest airports:** Enrique Olaya Herrera Airport (EOH) ~2 km; El Dorado International Airport (BOG) ~234 km; Jose Maria Córdova International Airport (MDE) ~20 km
 - **Getting there:** José María Córdova International (MDE), ~45 min; Olaya Herrera domestic airport (EOH), under 15 min. Airport pickup available on booking.
 - **Website:** https://coliving.com/spaces/syb1zbe8
 - **Rating:** 4.6 from 248 Google reviews

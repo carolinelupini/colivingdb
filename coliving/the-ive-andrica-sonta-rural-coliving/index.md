@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, community, eco
-- **Nearest airports:** Osijek Airport (OSI) ~28 km; Pécs-Pogány International Airport (PEV) ~80 km
+- **Nearest airports:** Osijek Airport (OSI) ~28 km; Belgrade Nikola Tesla Airport (BEG) ~128 km; Pécs-Pogány International Airport (PEV) ~80 km
 - **Website:** https://coliving.com/spaces/acuyx1jr
 - **Rating:** 4.9 from 16 Google reviews
 

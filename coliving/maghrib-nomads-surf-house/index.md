@@ -13,7 +13,7 @@
 - **Region:** Africa
 - **Timezone:** GMT+1 <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** surf, beach, community
-- **Nearest airports:** Al Massira Airport (AGA) ~33 km
+- **Nearest airports:** Al Massira Airport (AGA) ~33 km; Mohammed V International Airport (CMN) ~374 km; Essaouira-Mogador Airport (ESU) ~99 km
 - **Website:** https://www.booking.com/hotel/ma/maghrib-nomads-surfcamp.html
 - **Rating:** 4.5 from 57 Google reviews
 

@@ -13,7 +13,7 @@
 - **Region:** Oceania
 - **Timezone:** GMT+13 winter / GMT+12 summer <small>· US East: async only · Central Europe: async only</small>
 - **Tags:** city, coworking, community
-- **Nearest airports:** Rotorua Regional Airport (ROT) ~7 km; Auckland International Airport (AKL) ~180 km
+- **Nearest airports:** Rotorua Regional Airport (ROT) ~7 km; Auckland International Airport (AKL) ~180 km; Tauranga Airport (TRG) ~52 km
 - **Website:** https://coliving.com/spaces/midqremj
 - **Rating:** 4.4 from 13 Google reviews
 

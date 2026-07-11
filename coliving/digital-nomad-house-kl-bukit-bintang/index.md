@@ -13,7 +13,7 @@
 - **Region:** Asia
 - **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** city, coworking, community
-- **Nearest airports:** Sultan Abdul Aziz Shah International Airport (SZB) ~18 km
+- **Nearest airports:** Sultan Abdul Aziz Shah International Airport (SZB) ~18 km; Kuala Lumpur International Airport (KUL) ~45 km; Malacca International Airport (MKZ) ~115 km
 - **Website:** https://kl.digital-nomad.asia/
 - **Rating:** 4.3 from 45 Google reviews
 

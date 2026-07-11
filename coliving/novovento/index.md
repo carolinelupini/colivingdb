@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT-1 winter / GMT+0 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** island, rural, surf, coworking, community
-- **Nearest airports:** João Paulo II Airport (PDL) ~19 km
+- **Nearest airports:** João Paulo II Airport (PDL) ~19 km; Santa Maria Airport (SMA) ~115 km; Lajes Airport (TER) ~148 km
 - **Website:** https://www.mapmelon.com/colivings/novovento
 - **Rating:** 4.8 from 48 Google reviews
 

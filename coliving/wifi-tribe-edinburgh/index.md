@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Second guest:** In a private room each guest pays the shared-room rate — a private room fits one or two people for the same total, so a couple pays the same as booking two shared spots. Solo travellers can book a private room at the private rate.
-- **Nearest airports:** Edinburgh Airport (EDI) ~11 km
+- **Nearest airports:** Edinburgh Airport (EDI) ~11 km; Dundee Airport (DND) ~57 km; Glasgow Airport (GLA) ~78 km
 - **Website:** https://wifitribe.co/scotland-edinburgh/
 
 ## Rates

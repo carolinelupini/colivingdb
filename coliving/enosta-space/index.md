@@ -12,7 +12,7 @@
 - **Region:** Asia
 - **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** community, coworking, city
-- **Nearest airports:** Da Nang International Airport (DAD) ~1 km
+- **Nearest airports:** Da Nang International Airport (DAD) ~1 km; Phu Bai International Airport (HUI) ~66 km
 - **Website:** https://enostaspace.com/
 - **Rating:** 4.7 from 73 Google reviews
 

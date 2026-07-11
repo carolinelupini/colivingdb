@@ -12,7 +12,7 @@
 - **Region:** Asia
 - **Timezone:** GMT+9 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** city, community
-- **Nearest airports:** Sapporo Okadama Airport (OKD) ~9 km; New Chitose Airport (CTS) ~47 km
+- **Nearest airports:** Sapporo Okadama Airport (OKD) ~9 km; New Chitose Airport (CTS) ~47 km; Asahikawa Airport (AKJ) ~114 km
 - **Website:** https://coliving.com/spaces/plfogsdm
 
 ## Rates

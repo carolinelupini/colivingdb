@@ -13,7 +13,7 @@
 - **Region:** North America
 - **Timezone:** GMT-8 winter / GMT-7 summer <small>· US East: good overlap · Central Europe: async only</small>
 - **Tags:** city, community
-- **Nearest airports:** San Francisco International Airport (SFO) ~16 km
+- **Nearest airports:** San Francisco International Airport (SFO) ~16 km; Oakland San Francisco Bay Airport (OAK) ~18 km; San Carlos Airport (SQL) ~31 km
 - **Website:** https://www.neighbourgood.co
 - **Rating:** 4.0 from 8 Google reviews
 

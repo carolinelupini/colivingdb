@@ -15,7 +15,7 @@
 - **Tags:** city, coworking, community
 - **Included:** High-speed wifi (100 Mbps), Dedicated workspaces, Fully equipped kitchens, Community events, Private en-suite room with AC, Rooftop terrace access
 - **Area:** In the 'New Bahru' pocket of River Valley, near Orchard Road and Robertson Quay, with leafy streets, cafes, and riverside paths; Fort Canning Park and Clarke Quay nightlife are nearby, with several MRT stations minutes away.
-- **Nearest airports:** Seletar Airport (XSP) ~14 km; Singapore Changi Airport (SIN) ~18 km
+- **Nearest airports:** Seletar Airport (XSP) ~14 km; Singapore Changi Airport (SIN) ~18 km; Hang Nadim International Airport (BTH) ~36 km
 - **Getting there:** Singapore Changi Airport (SIN) is ~24 min away.
 - **Website:** https://www.outsite.co/locations/singapore-alma-house
 - **Rating:** 4.2 from 185 Google reviews

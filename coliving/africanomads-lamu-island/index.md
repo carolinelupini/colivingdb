@@ -14,7 +14,7 @@
 - **Timezone:** GMT+3 <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Included:** Private room in an AfricaNomads home, Reliable WiFi & Starlink, Local SIM card loaded with data + backup power, Weekly communal dinner, Optional weekend activities, Hosts & activity organizers, Access to coworking, A community of remote workers
 - **Second guest:** An extra person sharing a room pays 35% of the rate.
-- **Nearest airports:** Manda Airport (LAU) ~2 km; Moi International Airport (MBA) ~244 km
+- **Nearest airports:** Manda Airport (LAU) ~2 km; Jomo Kenyatta International Airport (NBO) ~454 km; Malindi International Airport (MYD) ~139 km
 - **Website:** https://www.africanomads.co/lamu-island
 
 Source: https://colivingdb.com/coliving/africanomads-lamu-island/

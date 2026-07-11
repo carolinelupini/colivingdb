@@ -11,7 +11,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** coworking, beach, community
-- **Nearest airports:** Burgas Airport (BOJ) ~15 km
+- **Nearest airports:** Burgas Airport (BOJ) ~15 km; Varna Airport (VAR) ~66 km
 - **Website:** http://www.cococoworking.com/
 
 Source: https://colivingdb.com/coliving/co-co-coworking-and-coliving/

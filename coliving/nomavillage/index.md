@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** beach, surf, rural, coworking, community, family
-- **Nearest airports:** Portimão Airport (PRM) ~9 km; Faro - Gago Coutinho International Airport (FAO) ~63 km
+- **Nearest airports:** Portimão Airport (PRM) ~9 km; Lisbon Humberto Delgado Airport (LIS) ~191 km; Faro - Gago Coutinho International Airport (FAO) ~63 km
 - **Website:** https://nomavillage.com/
 - **Rating:** 4.8 from 18 Google reviews
 

@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** rural, community, eco
-- **Nearest airports:** Exeter International Airport (EXT) ~20 km; Cardiff International Airport (CWL) ~54 km
+- **Nearest airports:** Exeter International Airport (EXT) ~20 km; London Heathrow Airport (LHR) ~209 km; Cardiff International Airport (CWL) ~54 km
 - **Website:** https://www.selgars.org/lifeatselgars
 - **Rating:** 4.8 from 57 Google reviews
 

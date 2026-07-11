@@ -12,7 +12,7 @@
 - **Region:** Asia
 - **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** community, rural, coworking
-- **Nearest airports:** Denpasar I Gusti Ngurah Rai International Airport (DPS) ~26 km
+- **Nearest airports:** Denpasar I Gusti Ngurah Rai International Airport (DPS) ~26 km; Lombok International Airport (LOP) ~115 km
 - **Website:** https://coliving.com/spaces/7eq4qcbw
 - **Rating:** 5.0 from 131 Google reviews
 

@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** island, city, coworking, community, eco
-- **Nearest airports:** Cristiano Ronaldo International Airport (FNC) ~14 km
+- **Nearest airports:** Cristiano Ronaldo International Airport (FNC) ~14 km; Porto Santo Airport (PXO) ~70 km
 - **Website:** https://madeiraremote.com/casa-do-pico
 - **Rating:** 5.0 from 32 Google reviews
 

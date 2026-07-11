@@ -11,7 +11,7 @@
 - **Region:** Asia
 - **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** surf, coworking, community
-- **Nearest airports:** Lombok International Airport (LOP) ~16 km
+- **Nearest airports:** Lombok International Airport (LOP) ~16 km; Denpasar I Gusti Ngurah Rai International Airport (DPS) ~123 km
 - **Website:** https://www.coworksurf.com/kuta-lombok
 
 ## About

@@ -12,7 +12,7 @@
 - **Region:** Asia
 - **Timezone:** GMT+4 <small>· US East: async only · Central Europe: full workday overlap</small>
 - **Tags:** community, city
-- **Nearest airports:** Dubai International Airport (DXB) ~4 km
+- **Nearest airports:** Dubai International Airport (DXB) ~4 km; Sharjah International Airport (SHJ) ~15 km; Al Maktoum International Airport (DWC) ~49 km
 - **Website:** https://dotcoliv.com/
 - **Rating:** 4.4 from 61 Google reviews
 

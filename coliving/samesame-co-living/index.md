@@ -12,7 +12,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** community, coworking, city
-- **Nearest airports:** Lisbon Humberto Delgado Airport (LIS) ~8 km
+- **Nearest airports:** Lisbon Humberto Delgado Airport (LIS) ~8 km; Cascais Airport (CAT) ~19 km
 - **Website:** http://www.samesameliving.com/
 - **Rating:** 4.8 from 84 Google reviews
 

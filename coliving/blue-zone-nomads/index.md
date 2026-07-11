@@ -12,7 +12,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** beach, coworking, community
-- **Nearest airports:** Cagliari Elmas Airport (CAG) ~26 km
+- **Nearest airports:** Cagliari Elmas Airport (CAG) ~26 km; Rome–Fiumicino Leonardo da Vinci International Airport (FCO) ~380 km
 - **Website:** https://www.bluezonenomads.com
 
 ## About

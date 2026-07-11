@@ -11,8 +11,9 @@
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Latin America
 - **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
+- **Elevation:** 1,492 m
 - **Tags:** city, coworking, community
-- **Nearest airports:** Enrique Olaya Herrera Airport (EOH) ~2 km; Jose Maria Córdova International Airport (MDE) ~20 km
+- **Nearest airports:** Enrique Olaya Herrera Airport (EOH) ~2 km; El Dorado International Airport (BOG) ~234 km; Jose Maria Córdova International Airport (MDE) ~20 km
 - **Website:** https://coliving.com/spaces/yyblqgb4
 
 ## Rates

@@ -12,7 +12,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** city, island, coworking, community
-- **Nearest airports:** Gran Canaria Airport (LPA) ~19 km
+- **Nearest airports:** Gran Canaria Airport (LPA) ~19 km; Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~101 km; Tenerife Sur Airport (TFS) ~114 km
 - **Website:** https://repeople.co
 
 ## Rates

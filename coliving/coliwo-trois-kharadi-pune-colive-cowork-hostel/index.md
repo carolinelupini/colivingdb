@@ -12,7 +12,7 @@
 - **Region:** Asia
 - **Timezone:** GMT+5:30 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** coworking, community, city
-- **Nearest airports:** Pune International Airport (PNQ) ~3 km
+- **Nearest airports:** Pune International Airport (PNQ) ~3 km; Navi Mumbai International Airport (NMI) ~104 km; Chhatrapati Shivaji Maharaj International Airport (BOM) ~128 km
 - **Website:** https://www.coliwo.in/
 - **Rating:** 4.4 from 158 Google reviews
 

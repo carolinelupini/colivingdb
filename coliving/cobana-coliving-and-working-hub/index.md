@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** mountain, rural, coworking, community, eco
-- **Nearest airports:** Brașov-Ghimbav International Airport (GHV) ~23 km
+- **Nearest airports:** Brașov-Ghimbav International Airport (GHV) ~23 km; Bucharest Henri Coandă International Airport (OTP) ~126 km; Sibiu International Airport (SBZ) ~99 km
 - **Website:** https://co-bana.co
 - **Rating:** 5.0 from 18 Google reviews
 

@@ -12,12 +12,13 @@
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Latin America
 - **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
+- **Elevation:** 1,486 m
 - **Tags:** city, coworking, community
 - **Included:** High-speed wifi, Coworking space with phone booths, Common area and room cleaning, Utilities/bills, Sauna, cold plunge, jacuzzi, Weekly events (yoga, breathwork, community dinners), Furnished private room with ensuite bathroom
 - **Not included:** Laundry (paid)
 - **Second guest:** Couples and friends are allowed in bigger rooms, but the site notes extra fees may apply (amount not specified).
 - **Area:** Laureles is a walkable, charming Medellin neighborhood with cafes, artisan bakeries, yoga studios, restaurants, malls, and parks within walking distance.
-- **Nearest airports:** Enrique Olaya Herrera Airport (EOH) ~3 km; Jose Maria Córdova International Airport (MDE) ~21 km
+- **Nearest airports:** Enrique Olaya Herrera Airport (EOH) ~3 km; El Dorado International Airport (BOG) ~235 km; Jose Maria Córdova International Airport (MDE) ~21 km
 - **Getting there:** Olaya Herrera (EOH), the city airport, is ~15 min away; José María Córdova International (MDE) is ~35-45 min by car.
 - **Website:** https://coliving.com/spaces/rgxjdwme
 - **Rating:** 4.5 from 3574 Google reviews

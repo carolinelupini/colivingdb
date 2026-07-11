@@ -15,7 +15,7 @@
 - **Tags:** city, coworking, community
 - **Included:** High-speed wifi (100 Mbps), Dedicated workspaces, Fully equipped kitchens, Weekly community events, Private loft or private room accommodation, 1 free breakfast/week for 14+ night stays; breakfast + lunch weekly for 28+ night stays
 - **Area:** Located in the 17th arrondissement, a leafy residential area near Parc Monceau and the bohemian Batignolles district, with boutiques and restaurants nearby. Montmartre/Sacré-Cœur is about 20 minutes away.
-- **Nearest airports:** Paris-Le Bourget International Airport (LBG) ~12 km
+- **Nearest airports:** Paris-Le Bourget International Airport (LBG) ~12 km; Charles de Gaulle International Airport (CDG) ~22 km; Paris-Orly Airport (ORY) ~18 km
 - **Getting there:** Charles de Gaulle (CDG) is ~27 minutes away.
 - **Website:** https://www.outsite.co/locations/paris-zoku
 - **Rating:** 4.6 from 884 Google reviews

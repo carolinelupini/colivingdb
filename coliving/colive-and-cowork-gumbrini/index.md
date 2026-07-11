@@ -12,7 +12,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+4 <small>· US East: async only · Central Europe: full workday overlap</small>
 - **Tags:** eco, rural, coworking
-- **Nearest airports:** David the Builder Kutaisi International Airport (KUT) ~14 km
+- **Nearest airports:** David the Builder Kutaisi International Airport (KUT) ~14 km; Tbilisi International Airport (TBS) ~206 km; Alexander Kartveli Batumi International Airport (BUS) ~111 km
 - **Website:** https://www.colivingnewlevel.su/
 - **Rating:** 4.9 from 51 Google reviews
 

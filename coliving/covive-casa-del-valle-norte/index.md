@@ -12,8 +12,9 @@
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
+- **Elevation:** 2,245 m
 - **Tags:** city, coworking, community
-- **Nearest airports:** Mexico City Benito Juárez International Airport (MEX) ~12 km
+- **Nearest airports:** Mexico City Benito Juárez International Airport (MEX) ~12 km; Adolfo López Mateos International Airport (TLC) ~42 km; Felipe Ángeles International Airport (NLU) ~43 km
 - **Website:** https://covive.mx/en/casa/del-valle-norte/
 - **Rating:** 4.1 from 28 Google reviews
 

@@ -12,8 +12,9 @@
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
+- **Elevation:** 2,235 m
 - **Tags:** city, coworking, community
-- **Nearest airports:** Mexico City Benito Juárez International Airport (MEX) ~10 km
+- **Nearest airports:** Mexico City Benito Juárez International Airport (MEX) ~10 km; Felipe Ángeles International Airport (NLU) ~40 km; Adolfo López Mateos International Airport (TLC) ~43 km
 - **Website:** https://www.outsite.co/locations/mexico-city-roma-sur
 - **Rating:** 4.4 from 79 Google reviews
 

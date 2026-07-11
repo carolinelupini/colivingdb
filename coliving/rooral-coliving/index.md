@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, mountain, community, coworking
-- **Nearest airports:** Gibraltar Airport (GIB) ~45 km
+- **Nearest airports:** Gibraltar Airport (GIB) ~45 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~463 km; Málaga-Costa del Sol Airport (AGP) ~71 km
 - **Website:** https://www.mapmelon.com/colivings/rooral-coliving
 - **Rating:** 5.0 from 105 Google reviews
 

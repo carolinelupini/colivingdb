@@ -12,7 +12,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** beach, community, city
-- **Nearest airports:** Valencia Airport (VLC) ~13 km
+- **Nearest airports:** Valencia Airport (VLC) ~13 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~299 km; Castellón-Costa Azahar Airport (CDT) ~90 km
 - **Website:** http://www.cohausingvalencia.com/
 - **Rating:** 4.8 from 108 Google reviews
 

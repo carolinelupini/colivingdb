@@ -12,7 +12,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, community
-- **Nearest airports:** Copernicus Wrocław Airport (WRO) ~10 km
+- **Nearest airports:** Copernicus Wrocław Airport (WRO) ~10 km; Warsaw Chopin Airport (WAW) ~296 km; Zielona Góra-Babimost Airport (IEG) ~141 km
 - **Website:** https://coliving.com/spaces/gzedydaz
 
 ## Rates

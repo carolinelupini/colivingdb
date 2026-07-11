@@ -11,8 +11,9 @@
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Timezone:** GMT-3 <small>· US East: full workday overlap · Central Europe: good overlap</small>
+- **Elevation:** 1,017 m
 - **Tags:** community, coworking, rural
-- **Nearest airports:** Tancredo Neves International Airport (CNF) ~35 km
+- **Nearest airports:** Tancredo Neves International Airport (CNF) ~35 km; São Paulo/Guarulhos–Governor André Franco Montoro International Airport (GRU) ~468 km
 - **Website:** https://www.horizontecoliving.com/
 - **Rating:** 5.0 from 44 Google reviews
 

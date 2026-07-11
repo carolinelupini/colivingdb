@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** beach, surf, coworking, community
-- **Nearest airports:** Gibraltar Airport (GIB) ~28 km
+- **Nearest airports:** Gibraltar Airport (GIB) ~28 km; Tangier Ibn Battuta Airport (TNG) ~42 km; Sania Ramel Airport (TTU) ~53 km
 - **Website:** https://www.nomadico.io/
 - **Rating:** 5.0 from 20 Google reviews
 

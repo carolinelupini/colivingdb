@@ -12,7 +12,7 @@
 - **Region:** Asia
 - **Timezone:** GMT+9 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** rural, coworking, community
-- **Nearest airports:** Takamatsu Airport (TAK) ~18 km
+- **Nearest airports:** Takamatsu Airport (TAK) ~18 km; Okayama Momotaro Airport (OKJ) ~63 km; Tokushima Awaodori Airport / JMSDF Tokushima Air Base (TKS) ~73 km
 - **Website:** https://coliving.com/spaces/t3me7pha
 
 ## Rates

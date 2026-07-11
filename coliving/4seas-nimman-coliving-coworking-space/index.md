@@ -12,7 +12,7 @@
 - **Region:** Asia
 - **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** coworking, community, startup
-- **Nearest airports:** Chiang Mai International Airport (CNX) ~4 km
+- **Nearest airports:** Chiang Mai International Airport (CNX) ~4 km; Lampang Airport (LPT) ~81 km; Mae Hong Son Airport (HGN) ~118 km
 - **Website:** https://4seas.xyz/
 - **Rating:** 4.9 from 148 Google reviews
 

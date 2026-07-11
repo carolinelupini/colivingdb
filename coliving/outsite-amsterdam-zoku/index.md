@@ -16,7 +16,7 @@
 - **Included:** High-speed wifi (100 Mbps), Fully equipped kitchen, Dedicated workspace/desk, Weekly community events, Coworking space access, Restaurant and bar access, Meeting rooms, Rooftop terrace + greenhouse, Laundry facilities, Private loft living room
 - **Not included:** Cleaning/housekeeping, Meals (except member perks for 14+/28+ night stays)
 - **Area:** In Amsterdam's Eastern Canal District, walkable to De Pijp and Central Station, with canals, cafes, museums, shopping, nightlife at Rembrandtplein, and Amstel River biking.
-- **Nearest airports:** Amsterdam Airport Schiphol (AMS) ~11 km
+- **Nearest airports:** Amsterdam Airport Schiphol (AMS) ~11 km; Rotterdam The Hague Airport (RTM) ~55 km; Eindhoven Airport (EIN) ~106 km
 - **Getting there:** Amsterdam Airport Schiphol (AMS) is about 22 minutes away.
 - **Website:** https://www.outsite.co/locations/amsterdam-zoku
 - **Rating:** 4.7 from 3073 Google reviews

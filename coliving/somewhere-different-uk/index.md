@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** beach, city, coworking, community
-- **Nearest airports:** Liverpool John Lennon Airport (LPL) ~55 km
+- **Nearest airports:** Liverpool John Lennon Airport (LPL) ~55 km; London Heathrow Airport (LHR) ~314 km; Manchester Airport (MAN) ~73 km
 - **Website:** https://www.somewheredifferent.com/uk/
 - **Rating:** 4.6 from 33 Google reviews
 

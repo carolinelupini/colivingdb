@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, coworking, community
-- **Nearest airports:** Tirana International Airport Mother Teresa (TIA) ~13 km
+- **Nearest airports:** Tirana International Airport Mother Teresa (TIA) ~13 km; Ohrid St. Paul the Apostle Airport (OHD) ~79 km; Podgorica Airport / Podgorica Golubovci Airbase (TGD) ~124 km
 - **Website:** https://www.colivingtirana.com/
 - **Rating:** 5.0 from 5 Google reviews
 

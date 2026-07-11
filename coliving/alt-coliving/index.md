@@ -15,7 +15,7 @@
 - **Included:** 24/7 coworking desk access, High-speed wifi (100+ Mbps fiber), Weekly housekeeping, Community cafe (organic coffee, snacks), Sauna, steam room, sun terrace, Free bicycle use
 - **Not included:** Meals (self-catering in equipped shared kitchen)
 - **Area:** Chiang Mai, Thailand; a wellness-oriented coliving space with an onsite cafe, sauna, and bikes for getting around the city.
-- **Nearest airports:** Chiang Mai International Airport (CNX) ~4 km
+- **Nearest airports:** Chiang Mai International Airport (CNX) ~4 km; Lampang Airport (LPT) ~79 km; Mae Hong Son Airport (HGN) ~121 km
 - **Getting there:** Chiang Mai International (CNX) — approximate, not stated on site (site itself was not directly fetchable; sourced via search aggregation of booking/coliving listing sites).
 - **Website:** https://www.altcoliving.com/
 - **Rating:** 4.9 from 242 Google reviews

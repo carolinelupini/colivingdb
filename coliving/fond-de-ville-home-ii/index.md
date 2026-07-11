@@ -11,8 +11,9 @@
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
+- **Elevation:** 1,452 m
 - **Tags:** mountain, ski, rural, coworking, community
-- **Nearest airports:** Annecy Meythet airport (NCY) ~85 km; Geneva International Airport (GVA) ~88 km
+- **Nearest airports:** Annecy Meythet airport (NCY) ~85 km; Zürich Airport (ZRH) ~193 km; Geneva International Airport (GVA) ~88 km
 - **Website:** https://coliving.com/spaces/eyozbjpo
 
 ## Rates

@@ -11,8 +11,9 @@
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
+- **Elevation:** 1,746 m
 - **Tags:** mountain, ski, coworking, community, rural
-- **Nearest airports:** Annecy Meythet airport (NCY) ~84 km; Geneva International Airport (GVA) ~86 km
+- **Nearest airports:** Annecy Meythet airport (NCY) ~84 km; Zürich Airport (ZRH) ~191 km; Geneva International Airport (GVA) ~86 km
 - **Website:** https://swissalpscoliving.com/
 
 ## Rates

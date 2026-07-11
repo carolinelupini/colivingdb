@@ -17,7 +17,7 @@
 - **Not included:** Individual cooking (shared kitchen only), Private bathroom in some room types, Sauna (coming soon)
 - **Second guest:** Additional adult sharing a room costs €29/night in low season or €40/night in high season; children are priced separately by age.
 - **Area:** Set in a quiet natural setting above Kotor Bay; nearest beach ~6 km away, with the towns of Kotor, Tivat, and Budva 12–18 km distant for old-town exploring, hiking, padel, and tennis.
-- **Nearest airports:** Tivat Airport (TIV) ~5 km; Dubrovnik Ruđer Bošković Airport (DBV) ~39 km
+- **Nearest airports:** Tivat Airport (TIV) ~5 km; Podgorica Airport / Podgorica Golubovci Airbase (TGD) ~45 km; Dubrovnik Ruđer Bošković Airport (DBV) ~39 km
 - **Getting there:** Tivat Airport (TIV), the closest to Kotor Bay — approximate, not stated on site.
 - **Website:** https://pachamamaretreat.me/coliving-coworking-farmstay
 - **Rating:** 4.8 from 229 Google reviews

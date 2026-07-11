@@ -17,7 +17,7 @@
 - **Not included:** Meals, Pets
 - **Second guest:** Couples and friends are allowed in larger rooms for an additional charge; exact amount not specified.
 - **Area:** In a quiet, panoramic area of Las Palmas de Gran Canaria, near a supermarket (2 min), café (5 min), restaurant (9 min), and a business school (2 min).
-- **Nearest airports:** Gran Canaria Airport (LPA) ~20 km
+- **Nearest airports:** Gran Canaria Airport (LPA) ~20 km; Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~98 km; Tenerife Sur Airport (TFS) ~112 km
 - **Getting there:** Gran Canaria (LPA), ~25–30 min drive — approximate, not stated on site.
 - **Website:** https://coliving.com/spaces/pwyti9lo
 - **Rating:** 4.0 from 530 Google reviews

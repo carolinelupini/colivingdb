@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** rural, mountain, community, eco
-- **Nearest airports:** Portimão Airport (PRM) ~19 km; Faro - Gago Coutinho International Airport (FAO) ~61 km
+- **Nearest airports:** Portimão Airport (PRM) ~19 km; Lisbon Humberto Delgado Airport (LIS) ~170 km; Faro - Gago Coutinho International Airport (FAO) ~61 km
 - **Website:** https://coliving.community/at/wild-oasis
 - **Rating:** 4.6 from 73 Google reviews
 

@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** mountain, rural, coworking, community, startup
-- **Nearest airports:** Valencia Airport (VLC) ~20 km
+- **Nearest airports:** Valencia Airport (VLC) ~20 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~285 km; Castellón-Costa Azahar Airport (CDT) ~74 km
 - **Website:** https://savicoliving.com/
 - **Rating:** 4.9 from 52 Google reviews
 

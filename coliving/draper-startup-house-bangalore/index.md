@@ -15,7 +15,7 @@
 - **Tags:** city, coworking, community, startup
 - **Included:** High-speed wifi, 24/7 coworking space, Rooftop terrace, Common area/library, Dedicated event space, Shared kitchen, Housekeeping, 24-hour front desk/security, Free onsite parking
 - **Area:** Flagship location in Koramangala, a centrally located Bangalore neighborhood in India's startup hub, 5-min walk from Nexus Mall (formerly Forum Mall).
-- **Nearest airports:** Kempegowda International Airport Bengaluru (BLR) ~30 km
+- **Nearest airports:** Kempegowda International Airport Bengaluru (BLR) ~30 km; Mysore Airport (MYQ) ~131 km
 - **Getting there:** Kempegowda International (BLR), ~45–60 min drive depending on traffic — approximate, not stated on site.
 - **Website:** https://draperstartuphouse.com/bangalore/
 - **Rating:** 4.6 from 819 Google reviews

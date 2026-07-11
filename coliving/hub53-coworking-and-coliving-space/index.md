@@ -17,7 +17,7 @@
 - **Not included:** Meals (self-catering), Monthly-stay utility fees: flat 500 Baht/month water + 7 Baht/unit electricity
 - **Second guest:** Extra occupant costs 300 Baht/day, 1,500 Baht/week, or 3,000 Baht/month, with the same community and coworking privileges as the primary member.
 - **Area:** Nimman area of Chiang Mai, between Maya mall and Chiang Mai University; walking distance to temples, local Thai food, and shopping.
-- **Nearest airports:** Chiang Mai International Airport (CNX) ~4 km
+- **Nearest airports:** Chiang Mai International Airport (CNX) ~4 km; Lampang Airport (LPT) ~81 km; Mae Hong Son Airport (HGN) ~118 km
 - **Getting there:** Chiang Mai International (CNX) — approximate, not stated on site.
 - **Website:** https://www.hub53.com/coliving-1
 - **Rating:** 4.6 from 187 Google reviews

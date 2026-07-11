@@ -12,7 +12,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** beach, coworking, community
-- **Nearest airports:** Girona-Costa Brava Airport (GRO) ~42 km
+- **Nearest airports:** Girona-Costa Brava Airport (GRO) ~42 km; Josep Tarradellas Barcelona-El Prat Airport (BCN) ~48 km; Reus Airport (REU) ~123 km
 - **Website:** https://www.kalimabeachlife.com
 
 ## Rates

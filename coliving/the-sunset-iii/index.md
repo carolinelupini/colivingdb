@@ -13,7 +13,7 @@
 - **Region:** Asia
 - **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** beach, island, coworking, community
-- **Nearest airports:** Denpasar I Gusti Ngurah Rai International Airport (DPS) ~4 km
+- **Nearest airports:** Denpasar I Gusti Ngurah Rai International Airport (DPS) ~4 km; Lombok International Airport (LOP) ~122 km
 - **Website:** https://coliving.com/spaces/tjvbozco
 - **Rating:** 4.8 from 104 Google reviews
 

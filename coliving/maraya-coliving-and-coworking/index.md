@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** coworking, community, surf, island, beach
-- **Nearest airports:** Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~15 km
+- **Nearest airports:** Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~15 km; Tenerife Sur Airport (TFS) ~39 km; Gran Canaria Airport (LPA) ~107 km
 - **Website:** https://www.marayacoliving.com
 - **Rating:** 4.9 from 98 Google reviews
 

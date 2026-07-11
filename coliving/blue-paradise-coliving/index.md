@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** island, city, coworking, community, surf
-- **Nearest airports:** Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~9 km
+- **Nearest airports:** Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~9 km; Tenerife Sur Airport (TFS) ~57 km; Gran Canaria Airport (LPA) ~104 km
 - **Website:** https://blueparadisecoliving.com/
 - **Rating:** 4.5 from 27 Google reviews
 

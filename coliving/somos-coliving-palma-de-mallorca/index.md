@@ -12,7 +12,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** community, coworking, city
-- **Nearest airports:** Palma de Mallorca Airport (PMI) ~7 km
+- **Nearest airports:** Palma de Mallorca Airport (PMI) ~7 km; Ibiza Airport (IBZ) ~136 km; Menorca Airport (MAH) ~137 km
 - **Website:** https://www.colivingcommunity.com/find-a-coliving/somos-coliving?src=deal&amp;dealId=cml6gjccq0001kz049qa9o64c
 - **Rating:** 5.0 from 5 Google reviews
 

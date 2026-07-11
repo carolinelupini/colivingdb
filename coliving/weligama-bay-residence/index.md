@@ -13,7 +13,7 @@
 - **Region:** Asia
 - **Timezone:** GMT+5:30 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** beach, surf, coworking
-- **Nearest airports:** Koggala Airport (KCT) ~15 km; Colombo Ratmalana International Airport (RML) ~113 km
+- **Nearest airports:** Koggala Airport (KCT) ~15 km; Bandaranaike International Colombo Airport (CMB) ~148 km; Mattala Rajapaksa International Airport (HRI) ~82 km
 - **Website:** https://coliving.com/spaces/klomftm3
 - **Rating:** 4.7 from 58 Google reviews
 

@@ -14,7 +14,7 @@
 - **Timezone:** GMT+5:30 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** beach, coworking, community
 - **Area:** Anjuna, Goa; described as a quiet workation setting with mango-tree-shaded rooftops and a garden/indoor 'Zenspace,' aimed at solo nomads and team retreats.
-- **Nearest airports:** Manohar International Airport (GOX) ~23 km
+- **Nearest airports:** Manohar International Airport (GOX) ~23 km; Goa Dabolim International Airport (GOI) ~23 km; Sindhudurg Airport (SDW) ~53 km
 - **Getting there:** Goa (Dabolim/Manohar International, GOI) — approximate, not stated on site.
 - **Website:** https://nomadgao.com
 - **Rating:** 4.8 from 281 Google reviews

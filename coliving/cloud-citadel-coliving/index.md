@@ -12,8 +12,9 @@
 - **Minimum stay:** 14 nights (~2 weeks)
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
+- **Elevation:** 1,299 m
 - **Tags:** mountain, ski, coworking, community
-- **Nearest airports:** Turin Airport (TRN) ~86 km
+- **Nearest airports:** Turin Airport (TRN) ~86 km; Cuneo International Airport (CUF) ~87 km; Chambéry Aix les Bains airport (CMF) ~101 km
 - **Website:** https://cloudcitadel.co/
 - **Rating:** 4.9 from 78 Google reviews
 

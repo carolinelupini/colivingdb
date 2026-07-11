@@ -12,8 +12,9 @@
 - **Minimum stay:** 120 nights (~4 months)
 - **Region:** Latin America
 - **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
+- **Elevation:** 2,582 m — expect a few days of altitude adjustment
 - **Tags:** city, community
-- **Nearest airports:** El Dorado International Airport (BOG) ~11 km
+- **Nearest airports:** El Dorado International Airport (BOG) ~11 km; Vanguardia Airport (VVC) ~73 km; Perales Airport (IBE) ~122 km
 - **Website:** https://mimoscoliving.com/
 - **Rating:** 5.0 from 7 Google reviews
 

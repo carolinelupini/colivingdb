@@ -16,7 +16,7 @@
 - **Included:** Room in a 400m² villa (9 rooms, 7 bathrooms), Desk and ergonomic chair in each room, High-speed fiber internet (>350 Mbps), Coworking space, garden, and balcony access, Shared dinners and group activities, Access to shared rental cars
 - **Not included:** Monitors (available for a small extra fee)
 - **Area:** Near Santo da Serra with a 5,000 sqm garden; nearby activities include hiking, surfing, paragliding, canyoning, mountain biking, boat tours, and whale watching.
-- **Nearest airports:** Cristiano Ronaldo International Airport (FNC) ~5 km
+- **Nearest airports:** Cristiano Ronaldo International Airport (FNC) ~5 km; Porto Santo Airport (PXO) ~59 km
 - **Getting there:** Madeira Airport (FNC) is about 15 minutes away (taxi ~€17.50).
 - **Website:** https://en.homeoffice-madeira.com/
 - **Rating:** 5.0 from 243 Google reviews

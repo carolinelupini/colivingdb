@@ -12,7 +12,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** mountain, ski, coworking, community
-- **Nearest airports:** Sofia Airport (SOF) ~95 km
+- **Nearest airports:** Sofia Airport (SOF) ~95 km; Plovdiv International Airport (PDV) ~116 km; Kavala Alexander the Great International Airport (KVA) ~140 km
 - **Website:** https://coliving.com/spaces/6agtubyz
 
 ## Rates

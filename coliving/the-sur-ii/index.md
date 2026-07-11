@@ -12,7 +12,7 @@
 - **Region:** North America
 - **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Tags:** beach, community, coworking
-- **Nearest airports:** Felipe Carrillo Puerto International Airport Tulum (TQO) ~20 km
+- **Nearest airports:** Felipe Carrillo Puerto International Airport Tulum (TQO) ~20 km; Cozumel International Airport (CZM) ~66 km; Cancún International Airport (CUN) ~112 km
 - **Website:** https://coliving.com/spaces/rknakzef
 
 ## Rates

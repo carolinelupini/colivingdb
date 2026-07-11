@@ -13,7 +13,7 @@
 - **Region:** Africa
 - **Timezone:** GMT+1 <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** island, beach, coworking, community, startup
-- **Nearest airports:** Djerba Zarzis International Airport (DJE) ~20 km
+- **Nearest airports:** Djerba Zarzis International Airport (DJE) ~20 km; Tunis Carthage International Airport (TUN) ~343 km; Gabès Matmata International Airport (GAE) ~100 km
 - **Website:** https://coziways.com/
 - **Rating:** 4.8 from 40 Google reviews
 

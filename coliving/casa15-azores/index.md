@@ -12,7 +12,7 @@
 - **Region:** Europe
 - **Timezone:** GMT-1 winter / GMT+0 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** island, coworking, community
-- **Nearest airports:** João Paulo II Airport (PDL) ~2 km
+- **Nearest airports:** João Paulo II Airport (PDL) ~2 km; Santa Maria Airport (SMA) ~96 km
 - **Website:** https://www.casa15azores.com/
 
 ## Rates

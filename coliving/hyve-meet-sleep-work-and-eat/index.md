@@ -14,7 +14,7 @@
 - **Tags:** coworking, city, community
 - **Included:** Shared kitchen, Hangout area, bar and café, Patio, Coworking desks, Free wifi throughout
 - **Area:** Hyve is in Basel's Gundeli district, a five-minute walk from Basel SBB main train station, one of the easiest addresses in the city to reach without a car.
-- **Nearest airports:** EuroAirport Basel–Mulhouse–Freiburg (BSL) ~8 km
+- **Nearest airports:** EuroAirport Basel–Mulhouse–Freiburg (BSL) ~8 km; Zürich Airport (ZRH) ~73 km; Bern Airport (BRN) ~70 km
 - **Getting there:** EuroAirport Basel-Mulhouse-Freiburg (BSL) connects via Bus 50, which is free with the BaselCard given to guests.
 - **Website:** http://www.hyve.ch/
 - **Rating:** 4.4 from 857 Google reviews

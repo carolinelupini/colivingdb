@@ -15,7 +15,7 @@
 - **Tags:** rural, coworking, community, family
 - **Included:** Three homemade meals per day, Desk + bed, Coworking space access, Pool, gym, hammocks, bicycles, library, game room, Community events and social activities, Yoga lessons, Soccer courtyard
 - **Area:** Mokrin House is a rural coworking/coliving estate in Serbia's north Banat region, near Kikinda, close to the Romanian border.
-- **Nearest airports:** Arad International Airport (ARW) ~71 km; Timișoara Traian Vuia International Airport (TSR) ~73 km
+- **Nearest airports:** Arad International Airport (ARW) ~71 km; Belgrade Nikola Tesla Airport (BEG) ~124 km; Timișoara Traian Vuia International Airport (TSR) ~73 km
 - **Getting there:** Belgrade Nikola Tesla (BEG) is the nearest major international airport, roughly 2-2.5 hours by car.
 - **Website:** https://www.mokrinhouse.com
 - **Rating:** 4.8 from 369 Google reviews

@@ -11,8 +11,9 @@
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
+- **Elevation:** 2,244 m
 - **Tags:** coworking, community, city
-- **Nearest airports:** Mexico City Benito Juárez International Airport (MEX) ~12 km
+- **Nearest airports:** Mexico City Benito Juárez International Airport (MEX) ~12 km; Felipe Ángeles International Airport (NLU) ~41 km; Adolfo López Mateos International Airport (TLC) ~41 km
 - **Website:** http://www.colivingcondesa.com/
 - **Rating:** 4.9 from 47 Google reviews
 

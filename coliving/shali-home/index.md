@@ -13,7 +13,7 @@
 - **Region:** Africa
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, community, eco
-- **Nearest airports:** Mersa Matruh International Airport (MUH) ~287 km
+- **Nearest airports:** Mersa Matruh International Airport (MUH) ~287 km; El Alamein International Airport (DBB) ~342 km; Alexandria International Airport (HBE) ~446 km
 - **Website:** https://coliving.com/spaces/gcgi4sat
 - **Rating:** 5.0 from 1 Google reviews
 

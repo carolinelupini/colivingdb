@@ -14,7 +14,7 @@
 - **Timezone:** GMT+3 <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Included:** Private room in an AfricaNomads home, Reliable WiFi & Starlink, Local SIM card loaded with data + backup power, Weekly communal dinner, Optional weekend activities, Hosts & activity organizers, Access to coworking, A community of remote workers
 - **Second guest:** An extra person sharing a room pays 35% of the rate.
-- **Nearest airports:** Kilimanjaro International Airport (JRO) ~30 km
+- **Nearest airports:** Kilimanjaro International Airport (JRO) ~30 km; Julius Nyerere International Airport (DAR) ~445 km; Amboseli Airport (ASV) ~77 km
 - **Website:** https://www.africanomads.co/digital-nomads-kilimanjaro
 
 Source: https://colivingdb.com/coliving/africanomads-kilimanjaro-moshi/

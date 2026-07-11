@@ -12,7 +12,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, coworking, community
-- **Nearest airports:** Vilnius International Airport (VNO) ~4 km
+- **Nearest airports:** Vilnius International Airport (VNO) ~4 km; Kaunas International Airport (KUN) ~83 km
 - **Website:** https://coliving.com/spaces/t4plhpwe
 
 ## Rates

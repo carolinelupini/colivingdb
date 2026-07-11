@@ -12,7 +12,7 @@
 - **Region:** Africa
 - **Timezone:** GMT+1 <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** coworking, startup, city
-- **Nearest airports:** Mohammed V International Airport (CMN) ~26 km
+- **Nearest airports:** Mohammed V International Airport (CMN) ~26 km; Rabat-Salé Airport (RBA) ~95 km
 - **Website:** https://www.coworklive.ma/
 - **Rating:** 4.8 from 73 Google reviews
 

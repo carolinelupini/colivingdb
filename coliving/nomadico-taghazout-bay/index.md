@@ -13,7 +13,7 @@
 - **Region:** Africa
 - **Timezone:** GMT+1 <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** beach, surf, coworking, community
-- **Nearest airports:** Al Massira Airport (AGA) ~37 km
+- **Nearest airports:** Al Massira Airport (AGA) ~37 km; Mohammed V International Airport (CMN) ~373 km; Essaouira-Mogador Airport (ESU) ~95 km
 - **Website:** https://nomadico.io
 - **Rating:** 4.9 from 86 Google reviews
 

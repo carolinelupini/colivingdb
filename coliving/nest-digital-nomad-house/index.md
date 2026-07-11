@@ -12,7 +12,7 @@
 - **Region:** Asia
 - **Timezone:** GMT+3 <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** community, coworking, city
-- **Nearest airports:** Istanbul Sabiha Gökçen International Airport (SAW) ~26 km
+- **Nearest airports:** Istanbul Sabiha Gökçen International Airport (SAW) ~26 km; İstanbul Airport (IST) ~40 km; Bursa Yenişehir Airport (YEI) ~93 km
 - **Website:** https://www.nestdigitalnomad.com/
 - **Rating:** 4.4 from 143 Google reviews
 

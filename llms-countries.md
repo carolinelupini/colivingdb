@@ -62,7 +62,7 @@
 | [Tunisia](/country/tunisia/index.md) | 2 | — |
 | [United Arab Emirates](/country/united-arab-emirates/index.md) | 2 | €238 |
 | [Albania](/country/albania/index.md) | 1 | €700 |
-| [Armenia](/country/armenia/index.md) | 1 | €450 |
+| [Armenia](/country/armenia/index.md) | 1 | — |
 | [Bolivia](/country/bolivia/index.md) | 1 | €1,042 |
 | [Cape Verde](/country/cape-verde/index.md) | 1 | — |
 | [Chile](/country/chile/index.md) | 1 | — |

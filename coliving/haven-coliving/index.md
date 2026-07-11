@@ -13,7 +13,7 @@
 - **Region:** North America
 - **Timezone:** GMT-8 winter / GMT-7 summer <small>· US East: good overlap · Central Europe: async only</small>
 - **Tags:** beach, city, community
-- **Nearest airports:** Los Angeles International Airport (LAX) ~7 km
+- **Nearest airports:** Los Angeles International Airport (LAX) ~7 km; Jack Northrop Field Hawthorne Municipal Airport (HHR) ~14 km; Hollywood Burbank/Bob Hope Airport (BUR) ~25 km
 - **Website:** https://havencoliving.com/
 - **Rating:** 4.2 from 20 Google reviews
 

@@ -14,7 +14,7 @@
 - **Tags:** startup, coworking, community
 - **Included:** Work desk (private rooms), Fast wifi, Daily housekeeping (private rooms), Rooftop café access, Workshops, pitch nights, hackathons
 - **Area:** Central C-Scheme, Jaipur, described as having restaurants, metro access, and the local startup ecosystem within walking distance; positioned as a zero-commute live/work space.
-- **Nearest airports:** Jaipur International Airport (JAI) ~9 km
+- **Nearest airports:** Jaipur International Airport (JAI) ~9 km; Indira Gandhi International Airport (DEL) ~224 km; Kishangarh Airport Ajmer (KQH) ~103 km
 - **Getting there:** Jaipur International (JAI) — approximate, not stated on site.
 - **Website:** https://www.jstartuphouse.com/
 - **Rating:** 4.7 from 298 Google reviews

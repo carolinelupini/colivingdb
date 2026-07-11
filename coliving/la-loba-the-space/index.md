@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, community, coworking
-- **Nearest airports:** Santiago-Rosalía de Castro Airport (SCQ) ~22 km
+- **Nearest airports:** Santiago-Rosalía de Castro Airport (SCQ) ~22 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~470 km; Vigo Airport (VGO) ~55 km
 - **Website:** https://www.mapmelon.com/colivings/la-loba-the-space
 - **Rating:** 5.0 from 4 Google reviews
 

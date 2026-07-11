@@ -11,7 +11,7 @@
 - **Region:** Asia
 - **Timezone:** GMT+9 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** community, coworking, rural
-- **Nearest airports:** Fukuoka Airport (FUK) ~31 km
+- **Nearest airports:** Fukuoka Airport (FUK) ~31 km; Kitakyushu Airport (KKJ) ~36 km; Yamaguchi Ube Airport (UBJ) ~58 km
 - **Website:** https://livinganywherecommons.com/base/tagawa/
 
 ## Rates

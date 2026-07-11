@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, mountain, coworking, community
-- **Nearest airports:** Zaragoza Airport (ZAZ) ~64 km
+- **Nearest airports:** Zaragoza Airport (ZAZ) ~64 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~185 km
 - **Website:** https://www.mapmelon.com/colivings/posada-de-la-luz
 - **Rating:** 5.0 from 21 Google reviews
 

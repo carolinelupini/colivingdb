@@ -13,7 +13,7 @@
 - **Region:** Asia
 - **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** island, surf, beach, coworking, community, eco
-- **Nearest airports:** Surigao Airport (SUG) ~62 km; Laguindingan International Airport (CGY) ~222 km
+- **Nearest airports:** Surigao Airport (SUG) ~62 km; Laguindingan International Airport (CGY) ~222 km; Bancasi Airport (BXU) ~118 km
 - **Website:** https://www.communalcoliving.com/
 - **Rating:** 5.0 from 33 Google reviews
 

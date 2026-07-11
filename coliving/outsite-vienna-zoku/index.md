@@ -15,7 +15,7 @@
 - **Tags:** city, coworking, community
 - **Included:** High-speed wifi (100 Mbps), Dedicated workspaces, Fully equipped kitchens, Weekly community events, Coworking space, restaurant/bar, meeting rooms, rooftop terrace, greenhouse, gym, laundry, 1 free breakfast/week for 14+ night stays; breakfast + lunch weekly for 28+ night stays
 - **Area:** Located in Leopoldstadt (2nd district), known for coffee-house culture and green space. Prater Park is a 5-minute walk; Hundertwasserhaus is ~15 minutes; the rooftop has views toward the Prater.
-- **Nearest airports:** Vienna International Airport (VIE) ~18 km
+- **Nearest airports:** Vienna International Airport (VIE) ~18 km; M. R. Štefánik Airport (BTS) ~60 km; Brno-Tuřany Airport (BRQ) ~106 km
 - **Getting there:** Vienna International Airport (VIE) is ~28 minutes away.
 - **Website:** https://www.outsite.co/locations/vienna-zoku
 - **Rating:** 4.6 from 1764 Google reviews

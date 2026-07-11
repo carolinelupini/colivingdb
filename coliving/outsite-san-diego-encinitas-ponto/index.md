@@ -12,7 +12,7 @@
 - **Region:** North America
 - **Timezone:** GMT-8 winter / GMT-7 summer <small>· US East: good overlap · Central Europe: async only</small>
 - **Tags:** beach, surf, coworking, community
-- **Nearest airports:** McClellan-Palomar Airport (CLD) ~5 km; San Diego International Airport (SAN) ~41 km
+- **Nearest airports:** McClellan-Palomar Airport (CLD) ~5 km; San Diego International Airport (SAN) ~41 km; General Abelardo L. Rodriguez International Airport (TIJ) ~69 km
 - **Website:** https://www.outsite.co/locations/san-diego-ponto-house
 
 ## Rates

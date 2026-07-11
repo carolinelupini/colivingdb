@@ -15,7 +15,7 @@
 - **Included:** Private studio accommodation, Airport transfers, eSIM with data, High-speed wifi, Community Slack access, Onsite community manager, Curated community program, No extra membership fees
 - **Not included:** Travel/health insurance, Food & beverages, Flights, Excursions, Wellness activities
 - **Area:** Based in Palermo, walkable to restaurants, bars, and cafes near Plaza Serrano and the Lagos de Palermo. Tango in San Telmo and Recoleta Cemetery are highlighted nearby experiences.
-- **Nearest airports:** Aeroparque Jorge Newbery (AEP) ~6 km
+- **Nearest airports:** Aeroparque Jorge Newbery (AEP) ~6 km; Ezeiza International Airport - Ministro Pistarini (EZE) ~29 km
 - **Getting there:** Ezeiza/Ministro Pistarini (EZE, international) or Aeroparque/Jorge Newbery (AEP, domestic/regional) both serve Buenos Aires.
 - **Website:** https://www.noma-collective.com/editions/argentina-buenos-aires-2027
 

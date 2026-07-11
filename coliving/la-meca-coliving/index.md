@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** beach, surf, rural, coworking, community
-- **Nearest airports:** Tangier Ibn Battuta Airport (TNG) ~52 km
+- **Nearest airports:** Tangier Ibn Battuta Airport (TNG) ~52 km; Gibraltar Airport (GIB) ~60 km; Jerez Airport (XRY) ~62 km
 - **Website:** https://lamecacoworking.com/en/coliving-near-el-palmar/
 - **Rating:** 4.9 from 43 Google reviews
 

@@ -17,7 +17,7 @@
 - **Not included:** Food and other drinks (e.g. fridge beer, barista Italian coffee)
 - **Second guest:** Room rates already price for double occupancy — e.g. a Standard room runs $459-$1,099/week for two people — with no separate per-person surcharge stated.
 - **Area:** Set among rice-field views, close to Hoi An Ancient Town.
-- **Nearest airports:** Da Nang International Airport (DAD) ~22 km
+- **Nearest airports:** Da Nang International Airport (DAD) ~22 km; Phu Bai International Airport (HUI) ~88 km
 - **Getting there:** Da Nang International Airport (DAD); airport pickup is included in the stay.
 - **Website:** https://hubhoian.com/coliving/
 - **Rating:** 4.8 from 223 Google reviews

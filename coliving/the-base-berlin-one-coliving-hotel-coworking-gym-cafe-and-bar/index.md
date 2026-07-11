@@ -14,7 +14,7 @@
 - **Tags:** community, coworking, city
 - **Included:** Fully equipped apartment with kitchenette and bathroom, 24/7 coworking + private offices, Free gym access, Cleaning twice monthly, Washing machines/dryers (bookable via WeWash), Community spaces (cinema, games room, library), Regular community events, Breakfast and coffee bar with terrace, Registration (Anmeldung) assistance
 - **Area:** Located in Pankow (Prenzlauer Berg), described as central, quiet, and safe.
-- **Nearest airports:** Berlin Brandenburg Airport (BER) ~24 km
+- **Nearest airports:** Berlin Brandenburg Airport (BER) ~24 km; Frankfurt Main Airport (FRA) ~439 km
 - **Getting there:** Berlin Brandenburg (BER) is the nearest airport, roughly 45-60 minutes by car or public transit from Pankow.
 - **Website:** https://www.jointhebase.co/location
 - **Rating:** 4.4 from 569 Google reviews

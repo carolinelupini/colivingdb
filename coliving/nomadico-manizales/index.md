@@ -11,8 +11,9 @@
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Latin America
 - **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
+- **Elevation:** 2,087 m
 - **Tags:** mountain, city, coworking, community
-- **Nearest airports:** La Nubia Airport (MZL) ~7 km; Jose Maria Córdova International Airport (MDE) ~122 km
+- **Nearest airports:** La Nubia Airport (MZL) ~7 km; El Dorado International Airport (BOG) ~156 km; Matecaña International Airport (PEI) ~38 km
 - **Website:** https://nomadico.io
 
 ## Rates

@@ -11,8 +11,9 @@
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
+- **Elevation:** 1,560 m
 - **Tags:** coworking, eco, community
-- **Nearest airports:** Xoxocotlán International Airport (OAX) ~8 km
+- **Nearest airports:** Xoxocotlán International Airport (OAX) ~8 km; Mexico City Benito Juárez International Airport (MEX) ~362 km; Puerto Escondido International Airport (PXM) ~138 km
 - **Website:** https://iguanahostel.com/co-living/
 - **Rating:** 4.6 from 7 Google reviews
 

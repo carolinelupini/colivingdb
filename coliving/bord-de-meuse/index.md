@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** coworking, community
-- **Nearest airports:** Liège Airport (LGG) ~19 km; Maastricht Aachen Airport (MST) ~22 km
+- **Nearest airports:** Liège Airport (LGG) ~19 km; Brussels Airport (BRU) ~86 km; Maastricht Aachen Airport (MST) ~22 km
 - **Website:** https://borddemeuse.com/
 - **Rating:** 4.5 from 8 Google reviews
 

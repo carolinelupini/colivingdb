@@ -16,7 +16,7 @@
 - **Included:** Laundry, Breakfast, lunch, dinner (vegetarian/vegan options), 200 Mbps internet, 24hr in-building coworking space
 - **Not included:** Pets not allowed (no other exclusions stated)
 - **Area:** Located in Taghazout, a former fishing village on Morocco's southwest coast, 19km from Agadir. Known for surf breaks; also offers hiking and yoga, with small grocery stores nearby.
-- **Nearest airports:** Al Massira Airport (AGA) ~38 km
+- **Nearest airports:** Al Massira Airport (AGA) ~38 km; Mohammed V International Airport (CMN) ~372 km; Essaouira-Mogador Airport (ESU) ~94 km
 - **Getting there:** Agadir Al Massira Airport (AGA) is ~25-30 min away, roughly matching the stated 19km distance.
 - **Website:** https://www.mapmelon.com/colivings/adventurekeys
 - **Rating:** 4.5 from 398 Google reviews

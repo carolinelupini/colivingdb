@@ -11,8 +11,9 @@
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
+- **Elevation:** 2,285 m
 - **Tags:** community, city
-- **Nearest airports:** Mexico City Benito Juárez International Airport (MEX) ~16 km
+- **Nearest airports:** Mexico City Benito Juárez International Airport (MEX) ~16 km; Adolfo López Mateos International Airport (TLC) ~39 km; Felipe Ángeles International Airport (NLU) ~49 km
 - **Website:** https://www.terracottamx.com/
 - **Rating:** 5.0 from 2 Google reviews
 

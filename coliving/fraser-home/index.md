@@ -12,7 +12,7 @@
 - **Region:** Asia
 - **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** city, community, coworking
-- **Nearest airports:** Sultan Abdul Aziz Shah International Airport (SZB) ~18 km
+- **Nearest airports:** Sultan Abdul Aziz Shah International Airport (SZB) ~18 km; Kuala Lumpur International Airport (KUL) ~43 km; Malacca International Airport (MKZ) ~113 km
 - **Website:** https://coliving.com/spaces/8tzcwxu6
 
 ## Rates

@@ -13,7 +13,7 @@
 - **Region:** Asia
 - **Timezone:** GMT+9 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** city, coworking, community
-- **Nearest airports:** Tokyo Haneda International Airport (HND) ~13 km
+- **Nearest airports:** Tokyo Haneda International Airport (HND) ~13 km; Narita International Airport (NRT) ~59 km; Ibaraki Airport (IBR) ~83 km
 - **Website:** https://tokyochapter.com
 - **Rating:** 4.4 from 25 Google reviews
 

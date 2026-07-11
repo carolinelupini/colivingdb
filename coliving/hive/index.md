@@ -12,7 +12,7 @@
 - **Region:** Asia
 - **Timezone:** GMT+4 <small>· US East: async only · Central Europe: full workday overlap</small>
 - **Tags:** community, coworking, city
-- **Nearest airports:** Al Maktoum International Airport (DWC) ~20 km
+- **Nearest airports:** Al Maktoum International Airport (DWC) ~20 km; Dubai International Airport (DXB) ~26 km; Sharjah International Airport (SHJ) ~42 km
 - **Website:** https://cometohive.com/
 - **Rating:** 4.3 from 54 Google reviews
 

@@ -15,7 +15,7 @@
 - **Included:** Kids' education program, Coworking hub access, Furnished housing + utilities, Weekly housecleaning, Airport transfers, Welcome/farewell events, Weekly wellness activities
 - **Not included:** One-time enrollment fee per child, Extra fees for unenrolled teens/guests
 - **Area:** Syros's capital Ermoupoli is a pastel neoclassical port town on the Aegean, with swimming beaches (Agathopes, Kini, Komito, Ampela), pottery and Greek cooking classes, and the historic Apollon Theatre.
-- **Nearest airports:** Mykonos Island National Airport (JMK) ~36 km; Athens Eleftherios Venizelos International Airport (ATH) ~103 km
+- **Nearest airports:** Mykonos Island National Airport (JMK) ~36 km; Athens Eleftherios Venizelos International Airport (ATH) ~103 km; Santorini International Airport (JTR) ~126 km
 - **Getting there:** Syros has a small regional airport (JSY) with limited flights; most visitors arrive by ferry from Athens's Piraeus port (~4h).
 - **Website:** https://boundless.life/syros-greece
 

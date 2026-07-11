@@ -15,7 +15,7 @@
 - **Included:** Private A/C room with balcony, 24/7 coworking space, Pool + ocean access, On-site restaurant, Free eSIM, Community manager, Airport transfer (KBV), Alumni network access
 - **Not included:** Travel/health insurance, Excursions, Flights, Food & beverage
 - **Area:** Koh Lanta is a quieter, less touristy Thai island with island-hopping to Koh Mook, Koh Ngai, and Koh Ma for snorkeling, plus Lanta Old Town's wooden shophouses and markets.
-- **Nearest airports:** Krabi International Airport (KBV) ~53 km
+- **Nearest airports:** Krabi International Airport (KBV) ~53 km; Trang Airport (TST) ~66 km; Phuket International Airport (HKT) ~96 km
 - **Getting there:** Krabi (KBV) is the nearest airport, with transfers included; no specific drive time given.
 - **Website:** https://www.noma-collective.com/editions/koh-lanta-thailand-nov-01-2026
 

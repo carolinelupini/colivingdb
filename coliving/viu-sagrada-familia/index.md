@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, community, coworking, eco
-- **Nearest airports:** Josep Tarradellas Barcelona-El Prat Airport (BCN) ~14 km
+- **Nearest airports:** Josep Tarradellas Barcelona-El Prat Airport (BCN) ~14 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~493 km; Girona-Costa Brava Airport (GRO) ~75 km
 - **Website:** https://www.mapmelon.com/colivings/viu-sagrada-familia
 - **Rating:** 4.9 from 48 Google reviews
 

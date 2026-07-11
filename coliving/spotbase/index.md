@@ -12,7 +12,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, coworking, community
-- **Nearest airports:** Olsztyn-Mazury Airport (SZY) ~91 km; Gdańsk Lech Wałęsa Airport (GDN) ~113 km
+- **Nearest airports:** Olsztyn-Mazury Airport (SZY) ~91 km; Warsaw Chopin Airport (WAW) ~185 km; Gdańsk Lech Wałęsa Airport (GDN) ~113 km
 - **Website:** https://www.mapmelon.com/colivings/spotbase
 
 ## Rates

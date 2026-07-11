@@ -13,7 +13,7 @@
 - **Region:** Asia
 - **Timezone:** GMT+5:30 <small>· US East: async only · Central Europe: good overlap</small>
 - **Second guest:** In a private room each guest pays the shared-room rate — a private room fits one or two people for the same total, so a couple pays the same as booking two shared spots. Solo travellers can book a private room at the private rate.
-- **Nearest airports:** Koggala Airport (KCT) ~12 km; Colombo Ratmalana International Airport (RML) ~112 km
+- **Nearest airports:** Koggala Airport (KCT) ~12 km; Bandaranaike International Colombo Airport (CMB) ~148 km; Mattala Rajapaksa International Airport (HRI) ~84 km
 - **Website:** https://wifitribe.co/sri-lanka-weligama/
 
 ## Rates

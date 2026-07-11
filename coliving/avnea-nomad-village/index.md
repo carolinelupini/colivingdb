@@ -12,7 +12,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** community, mountain, rural, coworking
-- **Nearest airports:** Heraklion International Nikos Kazantzakis Airport (HER) ~34 km
+- **Nearest airports:** Heraklion International Nikos Kazantzakis Airport (HER) ~34 km; Athens Eleftherios Venizelos International Airport (ATH) ~324 km; Chania International Airport (CHQ) ~82 km
 - **Website:** https://www.avnea.com/crete
 
 ## Rates

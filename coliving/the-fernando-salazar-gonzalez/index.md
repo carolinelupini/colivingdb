@@ -12,7 +12,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** beach, coworking, community
-- **Nearest airports:** Tenerife Sur Airport (TFS) ~9 km
+- **Nearest airports:** Tenerife Sur Airport (TFS) ~9 km; Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~61 km; El Hierro Airport (VDE) ~123 km
 - **Website:** https://coliving.com/spaces/gt8k38o6
 
 ## Rates

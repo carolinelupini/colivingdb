@@ -15,7 +15,7 @@
 - **Included:** Coworking access included with room booking (1pm-11:30am), Wifi
 - **Second guest:** A private double room for 1-2 people starts from €30, with no stated extra charge for the second guest.
 - **Area:** Located in the heart of Tarifa's historic old town, close to kitesurf and surf schools (partner Lost Elementos), with rooftop views toward Morocco.
-- **Nearest airports:** Gibraltar Airport (GIB) ~27 km
+- **Nearest airports:** Gibraltar Airport (GIB) ~27 km; Tangier Ibn Battuta Airport (TNG) ~42 km; Sania Ramel Airport (TTU) ~53 km
 - **Getting there:** Gibraltar (GIB) is the nearest airport (~45 min); Jerez (XRY, ~1h) and Málaga (AGP, ~2h) are alternatives.
 - **Website:** http://lacocotera.com/
 - **Rating:** 4.4 from 282 Google reviews

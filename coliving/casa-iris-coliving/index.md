@@ -11,8 +11,9 @@
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
+- **Elevation:** 1,821 m
 - **Tags:** eco, coworking, community
-- **Nearest airports:** Querétaro Intercontinental Airport (QRO) ~21 km
+- **Nearest airports:** Querétaro Intercontinental Airport (QRO) ~21 km; Mexico City Benito Juárez International Airport (MEX) ~188 km; General Francisco J. Mujica International Airport (MLM) ~106 km
 - **Website:** https://www.smartnomad.space/casa-iris
 - **Rating:** 4.9 from 21 Google reviews
 

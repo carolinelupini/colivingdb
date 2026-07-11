@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, community, coworking
-- **Nearest airports:** Helsinki Vantaa Airport (HEL) ~84 km
+- **Nearest airports:** Helsinki Vantaa Airport (HEL) ~84 km; Turku Airport (TKU) ~88 km; Lennart Meri Tallinn Airport (TLL) ~101 km
 - **Website:** https://hubfeenix.fi/
 - **Rating:** 4.5 from 56 Google reviews
 
