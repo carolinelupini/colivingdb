@@ -1,6 +1,6 @@
 # INFINI Coliving
 
-> Coliving in Jauá (Camaçari), near Salvador, Brazil. Last updated July 10, 2026.
+> Coliving in Jauá (Camaçari), near Salvador, Brazil. Last updated July 11, 2026.
 
 - **Location:** Jauá (Camaçari), near Salvador, Brazil
 - **Type:** Permanent coliving

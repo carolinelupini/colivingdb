@@ -1,6 +1,6 @@
 # Tamachat Muay Thai
 
-> Coliving in Agafay, Morocco. Last updated July 10, 2026.
+> Coliving in Agafay, Morocco. Last updated July 11, 2026.
 
 - **Location:** Agafay, Morocco
 - **Type:** Permanent coliving

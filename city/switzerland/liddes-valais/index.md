@@ -1,6 +1,6 @@
 # Coliving in Liddes (Valais), Switzerland
 
-> 1 colivings in Liddes (Valais), Switzerland, prices from €675 to €675 per month – last updated July 10, 2026.
+> 1 colivings in Liddes (Valais), Switzerland, prices from €675 to €675 per month – last updated July 11, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Coliving in Albania
 
-> 1 colivings in Albania, prices from €700 to €700 per month – last updated July 10, 2026.
+> 1 colivings in Albania, prices from €700 to €700 per month – last updated July 11, 2026.
 
 ## All colivings
 

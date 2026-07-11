@@ -1,6 +1,6 @@
 # Coliving in Funchal, Portugal
 
-> 2 colivings in Funchal, Portugal, prices from €1,470 to €1,700 per month – last updated July 10, 2026.
+> 2 colivings in Funchal, Portugal, prices from €1,470 to €1,700 per month – last updated July 11, 2026.
 
 ## All colivings
 

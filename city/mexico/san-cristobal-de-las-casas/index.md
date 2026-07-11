@@ -1,6 +1,6 @@
 # Coliving in San Cristóbal de las Casas, Mexico
 
-> 1 colivings in San Cristóbal de las Casas, Mexico, prices from €368 to €368 per month – last updated July 10, 2026.
+> 1 colivings in San Cristóbal de las Casas, Mexico, prices from €368 to €368 per month – last updated July 11, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Coliving in Nairobi, Kenya
 
-> 2 colivings in Nairobi, Kenya – last updated July 10, 2026.
+> 2 colivings in Nairobi, Kenya – last updated July 11, 2026.
 
 ## All colivings
 

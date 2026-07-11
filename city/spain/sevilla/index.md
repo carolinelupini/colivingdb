@@ -1,6 +1,6 @@
 # Coliving in Sevilla, Spain
 
-> 1 colivings in Sevilla, Spain, prices from €600 to €600 per month – last updated July 10, 2026.
+> 1 colivings in Sevilla, Spain, prices from €600 to €600 per month – last updated July 11, 2026.
 
 ## All colivings
 

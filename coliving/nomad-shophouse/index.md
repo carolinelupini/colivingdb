@@ -1,6 +1,6 @@
 # Nomad Shophouse
 
-> Coliving in Kuala Lumpur, Malaysia. Last updated July 10, 2026.
+> Coliving in Kuala Lumpur, Malaysia. Last updated July 11, 2026.
 
 - **Location:** Kuala Lumpur, Malaysia
 - **Type:** Permanent coliving

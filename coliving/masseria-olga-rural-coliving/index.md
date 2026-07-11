@@ -1,6 +1,6 @@
 # Masseria Olga Rural Coliving
 
-> Coliving in Puglia, Italy. Last updated July 10, 2026.
+> Coliving in Puglia, Italy. Last updated July 11, 2026.
 
 - **Location:** Puglia, Italy
 - **Type:** Permanent coliving

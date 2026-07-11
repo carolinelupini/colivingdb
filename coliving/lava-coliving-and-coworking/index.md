@@ -1,6 +1,6 @@
 # Lava Coliving & Coworking
 
-> Coliving in Ribeira Grande, São Miguel, Portugal. Last updated July 10, 2026.
+> Coliving in Ribeira Grande, São Miguel, Portugal. Last updated July 11, 2026.
 
 - **Location:** Ribeira Grande, São Miguel, Portugal
 - **Type:** Permanent coliving

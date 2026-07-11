@@ -1,6 +1,6 @@
 # Coliving in Mokrin, Serbia
 
-> 2 colivings in Mokrin, Serbia, prices from €993 to €2,100 per month – last updated July 10, 2026.
+> 2 colivings in Mokrin, Serbia, prices from €993 to €2,100 per month – last updated July 11, 2026.
 
 ## All colivings
 

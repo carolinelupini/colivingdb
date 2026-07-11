@@ -1,6 +1,6 @@
 # Kalima Beach Life
 
-> Coliving in Caldes d'Estrac (Barcelona), Spain. Last updated July 10, 2026.
+> Coliving in Caldes d'Estrac (Barcelona), Spain. Last updated July 11, 2026.
 
 - **Location:** Caldes d'Estrac (Barcelona), Spain
 - **Type:** Permanent coliving

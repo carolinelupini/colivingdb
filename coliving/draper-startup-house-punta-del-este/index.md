@@ -1,6 +1,6 @@
 # Draper Startup House Punta del Este
 
-> Coliving in Punta del Este, Uruguay. Last updated July 10, 2026.
+> Coliving in Punta del Este, Uruguay. Last updated July 11, 2026.
 
 - **Location:** Punta del Este, Uruguay
 - **Type:** Permanent coliving

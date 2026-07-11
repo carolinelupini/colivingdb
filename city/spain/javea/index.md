@@ -1,6 +1,6 @@
 # Coliving in Jávea, Spain
 
-> 1 colivings in Jávea, Spain, prices from €690 to €690 per month – last updated July 10, 2026.
+> 1 colivings in Jávea, Spain, prices from €690 to €690 per month – last updated July 11, 2026.
 
 ## All colivings
 

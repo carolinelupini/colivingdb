@@ -1,6 +1,6 @@
 # Coliving in Dominican Republic
 
-> 1 colivings in Dominican Republic, prices from €880 to €880 per month – last updated July 10, 2026.
+> 1 colivings in Dominican Republic, prices from €880 to €880 per month – last updated July 11, 2026.
 
 ## All colivings
 

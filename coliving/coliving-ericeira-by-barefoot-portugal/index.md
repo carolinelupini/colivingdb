@@ -1,6 +1,6 @@
 # Coliving Ericeira by Barefoot Portugal
 
-> Coliving in Ericeira (Santo Isidoro), Portugal. Last updated July 10, 2026.
+> Coliving in Ericeira (Santo Isidoro), Portugal. Last updated July 11, 2026.
 
 - **Location:** Ericeira (Santo Isidoro), Portugal
 - **Type:** Permanent coliving

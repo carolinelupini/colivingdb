@@ -1,6 +1,6 @@
 # Coliving in Uruguay
 
-> 4 colivings in Uruguay, prices from €569 to €2,100 per month – last updated July 10, 2026.
+> 4 colivings in Uruguay, prices from €569 to €2,100 per month – last updated July 11, 2026.
 
 ## All colivings
 

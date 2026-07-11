@@ -1,6 +1,6 @@
 # Birds of Paradise
 
-> Coliving in Aljezur, Portugal. Last updated July 10, 2026.
+> Coliving in Aljezur, Portugal. Last updated July 11, 2026.
 
 - **Location:** Aljezur, Portugal
 - **Type:** Permanent coliving

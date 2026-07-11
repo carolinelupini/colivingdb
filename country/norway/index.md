@@ -1,6 +1,6 @@
 # Coliving in Norway
 
-> 6 colivings in Norway, prices from €522 to €2,091 per month – last updated July 10, 2026.
+> 6 colivings in Norway, prices from €522 to €2,091 per month – last updated July 11, 2026.
 
 ## All colivings
 

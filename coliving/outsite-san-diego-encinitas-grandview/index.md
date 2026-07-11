@@ -1,6 +1,6 @@
 # Outsite San Diego - Encinitas Grandview
 
-> Coliving in Encinitas, United States. Last updated July 10, 2026.
+> Coliving in Encinitas, United States. Last updated July 11, 2026.
 
 - **Location:** Encinitas, United States
 - **Type:** Permanent coliving

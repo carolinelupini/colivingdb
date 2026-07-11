@@ -1,6 +1,6 @@
 # Três Bandeiras Coliving
 
-> Coliving in Carvoeira (near Ericeira), Portugal. Last updated July 10, 2026.
+> Coliving in Carvoeira (near Ericeira), Portugal. Last updated July 11, 2026.
 
 - **Location:** Carvoeira (near Ericeira), Portugal
 - **Type:** Permanent coliving

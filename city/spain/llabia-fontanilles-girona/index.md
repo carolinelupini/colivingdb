@@ -1,6 +1,6 @@
 # Coliving in Llabià, Fontanilles (Girona), Spain
 
-> 1 colivings in Llabià, Fontanilles (Girona), Spain – last updated July 10, 2026.
+> 1 colivings in Llabià, Fontanilles (Girona), Spain – last updated July 11, 2026.
 
 ## All colivings
 

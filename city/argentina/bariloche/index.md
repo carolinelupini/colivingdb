@@ -1,6 +1,6 @@
 # Coliving in Bariloche, Argentina
 
-> 1 colivings in Bariloche, Argentina, prices from €1,129 to €1,129 per month – last updated July 10, 2026.
+> 1 colivings in Bariloche, Argentina, prices from €1,129 to €1,129 per month – last updated July 11, 2026.
 
 ## All colivings
 

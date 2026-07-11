@@ -1,6 +1,6 @@
 # Las Terrenas Home
 
-> Coliving in Las Terrenas, Dominican Republic. Last updated July 10, 2026.
+> Coliving in Las Terrenas, Dominican Republic. Last updated July 11, 2026.
 
 - **Location:** Las Terrenas, Dominican Republic
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # Nomadico Antigua
 
-> Coliving in Antigua Guatemala, Guatemala. Last updated July 10, 2026.
+> Coliving in Antigua Guatemala, Guatemala. Last updated July 11, 2026.
 
 - **Location:** Antigua Guatemala, Guatemala
 - **Type:** Permanent coliving

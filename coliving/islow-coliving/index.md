@@ -1,6 +1,6 @@
 # iSlow Coliving
 
-> Coliving in Laxe, A Coruña, Galicia, Spain. Last updated July 10, 2026.
+> Coliving in Laxe, A Coruña, Galicia, Spain. Last updated July 11, 2026.
 
 - **Location:** Laxe, A Coruña, Galicia, Spain
 - **Type:** Permanent coliving

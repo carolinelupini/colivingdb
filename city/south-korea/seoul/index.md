@@ -1,6 +1,6 @@
 # Coliving in Seoul, South Korea
 
-> 2 colivings in Seoul, South Korea, prices from €990 to €990 per month – last updated July 10, 2026.
+> 2 colivings in Seoul, South Korea, prices from €990 to €990 per month – last updated July 11, 2026.
 
 ## All colivings
 

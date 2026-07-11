@@ -1,6 +1,6 @@
 # Coliving in United Kingdom
 
-> 6 colivings in United Kingdom, prices from €350 to €1,885 per month – last updated July 10, 2026.
+> 6 colivings in United Kingdom, prices from €350 to €1,885 per month – last updated July 11, 2026.
 
 ## All colivings
 

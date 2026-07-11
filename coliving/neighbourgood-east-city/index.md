@@ -1,6 +1,6 @@
 # Neighbourgood East City
 
-> Coliving in Cape Town, South Africa. Last updated July 10, 2026.
+> Coliving in Cape Town, South Africa. Last updated July 11, 2026.
 
 - **Location:** Cape Town, South Africa
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # WOT Ocean Soul
 
-> Coliving in Praia das Maçãs (Sintra), Portugal. Last updated July 10, 2026.
+> Coliving in Praia das Maçãs (Sintra), Portugal. Last updated July 11, 2026.
 
 - **Location:** Praia das Maçãs (Sintra), Portugal
 - **Type:** Permanent coliving

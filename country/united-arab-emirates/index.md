@@ -1,6 +1,6 @@
 # Coliving in United Arab Emirates
 
-> 2 colivings in United Arab Emirates, prices from €238 to €238 per month – last updated July 10, 2026.
+> 2 colivings in United Arab Emirates, prices from €238 to €238 per month – last updated July 11, 2026.
 
 ## All colivings
 

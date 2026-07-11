@@ -1,6 +1,6 @@
 # Tursi Digital Nomads — Tenerife (Canary Islands)
 
-> Coliving in Tenerife (Canary Islands), Spain. Last updated July 10, 2026.
+> Coliving in Tenerife (Canary Islands), Spain. Last updated July 11, 2026.
 
 - **Location:** Tenerife (Canary Islands), Spain
 - **Type:** Pop-up / dated edition

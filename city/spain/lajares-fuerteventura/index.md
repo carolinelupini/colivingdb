@@ -1,6 +1,6 @@
 # Coliving in Lajares, Fuerteventura, Spain
 
-> 1 colivings in Lajares, Fuerteventura, Spain, prices from €850 to €850 per month – last updated July 10, 2026.
+> 1 colivings in Lajares, Fuerteventura, Spain, prices from €850 to €850 per month – last updated July 11, 2026.
 
 ## All colivings
 

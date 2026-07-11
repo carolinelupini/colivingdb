@@ -1,6 +1,6 @@
 # Sugar Hostel Weligama - Coliving & Coworking
 
-> Coliving in Weligama, Sri Lanka. Last updated July 10, 2026.
+> Coliving in Weligama, Sri Lanka. Last updated July 11, 2026.
 
 - **Location:** Weligama, Sri Lanka
 - **Type:** Permanent coliving

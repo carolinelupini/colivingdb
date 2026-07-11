@@ -1,6 +1,6 @@
 # Coliving in Ko Lanta, Thailand
 
-> 1 colivings in Ko Lanta, Thailand, prices from €460 to €460 per month – last updated July 10, 2026.
+> 1 colivings in Ko Lanta, Thailand, prices from €460 to €460 per month – last updated July 11, 2026.
 
 ## All colivings
 

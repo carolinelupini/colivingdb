@@ -1,6 +1,6 @@
 # Gođevačka Collective
 
-> Coliving in Divcibare, Serbia. Last updated July 10, 2026.
+> Coliving in Divcibare, Serbia. Last updated July 11, 2026.
 
 - **Location:** Divcibare, Serbia
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # Coliving in Chiang Mai (Nimman), Thailand
 
-> 1 colivings in Chiang Mai (Nimman), Thailand, prices from €178 to €178 per month – last updated July 10, 2026.
+> 1 colivings in Chiang Mai (Nimman), Thailand, prices from €178 to €178 per month – last updated July 11, 2026.
 
 ## All colivings
 

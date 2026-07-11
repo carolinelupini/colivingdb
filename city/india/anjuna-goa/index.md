@@ -1,6 +1,6 @@
 # Coliving in Anjuna, Goa, India
 
-> 2 colivings in Anjuna, Goa, India, prices from €321 to €435 per month – last updated July 10, 2026.
+> 2 colivings in Anjuna, Goa, India, prices from €321 to €435 per month – last updated July 11, 2026.
 
 ## All colivings
 

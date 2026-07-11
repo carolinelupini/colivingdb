@@ -1,6 +1,6 @@
 # Hub53 Coworking and Coliving Space
 
-> Coliving in Chiang Mai (Nimman), Thailand. Last updated July 10, 2026.
+> Coliving in Chiang Mai (Nimman), Thailand. Last updated July 11, 2026.
 
 - **Location:** Chiang Mai (Nimman), Thailand
 - **Type:** Permanent coliving

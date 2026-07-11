@@ -1,6 +1,6 @@
 # Co404
 
-> Coliving in Multiple (Medellín; Oaxaca City; San Cristóbal), Multiple (Colombia, Mexico). Last updated July 10, 2026.
+> Coliving in Multiple (Medellín; Oaxaca City; San Cristóbal), Multiple (Colombia, Mexico). Last updated July 11, 2026.
 
 - **Location:** Multiple (Medellín; Oaxaca City; San Cristóbal), Multiple (Colombia, Mexico)
 - **Type:** Permanent coliving

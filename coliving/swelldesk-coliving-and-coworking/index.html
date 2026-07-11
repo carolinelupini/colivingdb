@@ -36,7 +36,20 @@ h2{font-size:1.15rem;margin:30px 0 10px}
 footer.site{border-top:1px solid #e5e9f0;margin-top:40px;padding:24px 0 50px;color:#6b7280;font-size:.85rem;background:#fff}
 .muted{color:#6b7280;font-size:.85rem}
 header.site select{margin-left:auto;font:inherit;font-size:.84rem;padding:6px 9px;border:1px solid #e5e9f0;border-radius:8px;background:#fff;color:#1a2333;cursor:pointer}
-.facts dd small,td small{color:#6b7280;font-weight:400}</style>
+.facts dd small,td small{color:#6b7280;font-weight:400}
+.hubctl{display:flex;flex-wrap:wrap;gap:8px 10px;align-items:center;margin:0 0 12px}
+.hubctl input,.hubctl select{font:inherit;font-size:.9rem;padding:8px 11px;border:1px solid #e5e9f0;border-radius:8px;background:#fff}
+.hubctl input{flex:1 1 220px;min-width:0}
+.hubcount{margin-left:auto;color:#6b7280;font-size:.85rem;white-space:nowrap}
+#hubtable th[data-k]{cursor:pointer;user-select:none;white-space:nowrap}
+#hubtable th[data-k]:hover{color:#0e7c66}
+#hubtable th .ar{opacity:.35;font-size:.85em}
+#hubtable th.asc .ar::after{content:" \2191";opacity:1}
+#hubtable th.desc .ar::after{content:" \2193";opacity:1}
+.hubsignup{background:#eef6f3;border:1px solid #cfe6df;border-radius:14px;padding:20px 22px;margin:30px 0;text-align:center}
+.hubsignup h3{margin:0 0 4px;font-size:1.05rem}
+.hubsignup p{margin:0 0 12px;color:#4b5563;font-size:.9rem}
+.hubsignup iframe{width:100%;max-width:400px;height:48px;border:none}</style>
 <script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@context": "https://schema.org", "@type": "LodgingBusiness", "name": "Swelldesk Coliving & Coworking", "url": "https://colivingdb.com/coliving/swelldesk-coliving-and-coworking/", "address": {"@type": "PostalAddress", "addressLocality": "Baleal, Peniche", "addressCountry": "Portugal"}, "geo": {"@type": "GeoCoordinates", "latitude": 39.3711, "longitude": -9.3339}, "priceRange": "from €960/month", "sameAs": "https://www.swelldesk.com/"}, {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "colivingDB", "item": "https://colivingdb.com/"}, {"@type": "ListItem", "position": 2, "name": "Portugal", "item": "https://colivingdb.com/country/portugal/"}, {"@type": "ListItem", "position": 3, "name": "Baleal, Peniche", "item": "https://colivingdb.com/city/portugal/baleal-peniche/"}, {"@type": "ListItem", "position": 4, "name": "Swelldesk Coliving & Coworking"}]}]}</script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-GBDMVK7LWL"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-GBDMVK7LWL');</script>
@@ -57,7 +70,7 @@ header.site select{margin-left:auto;font:inherit;font-size:.84rem;padding:6px 9p
 </div>
 <footer class="site"><div class="wrap">
 <a href="/">← Back to the map</a> · <a href="/countries/">All countries</a> · <a href="/llms.txt">llms.txt</a><br>
-<span class="muted">Prices are approximate and shown in each coliving's own local currency unless you switch it above. Data last updated July 10, 2026. Some outbound links are affiliate links.</span>
+<span class="muted">Prices are approximate and shown in each coliving's own local currency unless you switch it above. Data last updated July 11, 2026. Some outbound links are affiliate links.</span>
 </div></footer>
 <script>
 // Client-side currency switch. The HTML always ships the operator's NATIVE figure (that's what

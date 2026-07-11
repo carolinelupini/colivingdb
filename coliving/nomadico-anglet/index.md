@@ -1,6 +1,6 @@
 # Nomadico Anglet
 
-> Coliving in Anglet, France. Last updated July 10, 2026.
+> Coliving in Anglet, France. Last updated July 11, 2026.
 
 - **Location:** Anglet, France
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # The Rose Apple (Rose Apple Collective)
 
-> Coliving in Siem Reap, Cambodia. Last updated July 10, 2026.
+> Coliving in Siem Reap, Cambodia. Last updated July 11, 2026.
 
 - **Location:** Siem Reap, Cambodia
 - **Type:** Permanent coliving

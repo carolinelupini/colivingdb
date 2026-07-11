@@ -1,6 +1,6 @@
 # Coliving in Stuttgart, Germany
 
-> 1 colivings in Stuttgart, Germany, prices from €645 to €645 per month – last updated July 10, 2026.
+> 1 colivings in Stuttgart, Germany, prices from €645 to €645 per month – last updated July 11, 2026.
 
 ## All colivings
 

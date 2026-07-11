@@ -1,6 +1,6 @@
 # Canestanco 18 Living
 
-> Coliving in Santa Croce Camerina, Sicily, Italy. Last updated July 10, 2026.
+> Coliving in Santa Croce Camerina, Sicily, Italy. Last updated July 11, 2026.
 
 - **Location:** Santa Croce Camerina, Sicily, Italy
 - **Type:** Permanent coliving

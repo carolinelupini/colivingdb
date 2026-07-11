@@ -1,6 +1,6 @@
 # Chateau Nougat Marrakech
 
-> Coliving in Marrakech, Morocco. Last updated July 10, 2026.
+> Coliving in Marrakech, Morocco. Last updated July 11, 2026.
 
 - **Location:** Marrakech, Morocco
 - **Type:** Permanent coliving

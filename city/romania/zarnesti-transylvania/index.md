@@ -1,6 +1,6 @@
 # Coliving in Zarnesti, Transylvania, Romania
 
-> 1 colivings in Zarnesti, Transylvania, Romania, prices from €775 to €775 per month – last updated July 10, 2026.
+> 1 colivings in Zarnesti, Transylvania, Romania, prices from €775 to €775 per month – last updated July 11, 2026.
 
 ## All colivings
 

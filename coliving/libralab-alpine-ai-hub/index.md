@@ -1,6 +1,6 @@
 # LIBRAlab Alpine AI Hub
 
-> Coliving in Omes (Kristen), near Innsbruck, Austria. Last updated July 10, 2026.
+> Coliving in Omes (Kristen), near Innsbruck, Austria. Last updated July 11, 2026.
 
 - **Location:** Omes (Kristen), near Innsbruck, Austria
 - **Type:** Permanent coliving

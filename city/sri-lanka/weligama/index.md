@@ -1,6 +1,6 @@
 # Coliving in Weligama, Sri Lanka
 
-> 8 colivings in Weligama, Sri Lanka, prices from €87 to €2,003 per month – last updated July 10, 2026.
+> 8 colivings in Weligama, Sri Lanka, prices from €87 to €2,003 per month – last updated July 11, 2026.
 
 ## All colivings
 

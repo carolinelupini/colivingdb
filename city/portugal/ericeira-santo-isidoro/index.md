@@ -1,6 +1,6 @@
 # Coliving in Ericeira (Santo Isidoro), Portugal
 
-> 1 colivings in Ericeira (Santo Isidoro), Portugal, prices from €1,350 to €1,350 per month – last updated July 10, 2026.
+> 1 colivings in Ericeira (Santo Isidoro), Portugal, prices from €1,350 to €1,350 per month – last updated July 11, 2026.
 
 ## All colivings
 

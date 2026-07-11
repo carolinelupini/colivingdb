@@ -1,6 +1,6 @@
 # Greek Escape (by ESCAPE)
 
-> Coliving in Gerani (Crete), Greece. Last updated July 10, 2026.
+> Coliving in Gerani (Crete), Greece. Last updated July 11, 2026.
 
 - **Location:** Gerani (Crete), Greece
 - **Type:** Permanent coliving

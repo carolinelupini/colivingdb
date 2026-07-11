@@ -1,6 +1,6 @@
 # The Balance Base
 
-> Coliving in Wānaka, New Zealand. Last updated July 10, 2026.
+> Coliving in Wānaka, New Zealand. Last updated July 11, 2026.
 
 - **Location:** Wānaka, New Zealand
 - **Type:** Permanent coliving

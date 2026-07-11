@@ -1,6 +1,6 @@
 # Coliving in Bostad, Lofoten, Norway
 
-> 1 colivings in Bostad, Lofoten, Norway, prices from €799 to €799 per month – last updated July 10, 2026.
+> 1 colivings in Bostad, Lofoten, Norway, prices from €799 to €799 per month – last updated July 11, 2026.
 
 ## All colivings
 

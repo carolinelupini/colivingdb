@@ -1,6 +1,6 @@
 # Town House Gomila - Palma Coliving Mallorca
 
-> Coliving in Palma de Mallorca, Spain. Last updated July 10, 2026.
+> Coliving in Palma de Mallorca, Spain. Last updated July 11, 2026.
 
 - **Location:** Palma de Mallorca, Spain
 - **Type:** Permanent coliving

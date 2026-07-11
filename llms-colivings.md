@@ -1,6 +1,6 @@
 # colivingDB — all colivings
 
-> 641 listings. Last updated July 10, 2026.
+> 641 listings. Last updated July 11, 2026.
 
 | Coliving | City | Country | Price from | Min stay | Type |
 |---|---|---|---|---|---|

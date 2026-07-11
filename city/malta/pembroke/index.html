@@ -36,7 +36,20 @@ h2{font-size:1.15rem;margin:30px 0 10px}
 footer.site{border-top:1px solid #e5e9f0;margin-top:40px;padding:24px 0 50px;color:#6b7280;font-size:.85rem;background:#fff}
 .muted{color:#6b7280;font-size:.85rem}
 header.site select{margin-left:auto;font:inherit;font-size:.84rem;padding:6px 9px;border:1px solid #e5e9f0;border-radius:8px;background:#fff;color:#1a2333;cursor:pointer}
-.facts dd small,td small{color:#6b7280;font-weight:400}</style>
+.facts dd small,td small{color:#6b7280;font-weight:400}
+.hubctl{display:flex;flex-wrap:wrap;gap:8px 10px;align-items:center;margin:0 0 12px}
+.hubctl input,.hubctl select{font:inherit;font-size:.9rem;padding:8px 11px;border:1px solid #e5e9f0;border-radius:8px;background:#fff}
+.hubctl input{flex:1 1 220px;min-width:0}
+.hubcount{margin-left:auto;color:#6b7280;font-size:.85rem;white-space:nowrap}
+#hubtable th[data-k]{cursor:pointer;user-select:none;white-space:nowrap}
+#hubtable th[data-k]:hover{color:#0e7c66}
+#hubtable th .ar{opacity:.35;font-size:.85em}
+#hubtable th.asc .ar::after{content:" \2191";opacity:1}
+#hubtable th.desc .ar::after{content:" \2193";opacity:1}
+.hubsignup{background:#eef6f3;border:1px solid #cfe6df;border-radius:14px;padding:20px 22px;margin:30px 0;text-align:center}
+.hubsignup h3{margin:0 0 4px;font-size:1.05rem}
+.hubsignup p{margin:0 0 12px;color:#4b5563;font-size:.9rem}
+.hubsignup iframe{width:100%;max-width:400px;height:48px;border:none}</style>
 <script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@context": "https://schema.org", "@type": "ItemList", "name": "Colivings in Pembroke", "numberOfItems": 1, "itemListElement": [{"@type": "ListItem", "position": 1, "name": "The Triq Alamein (Pembroke coliving hub)", "url": "https://colivingdb.com/coliving/the-triq-alamein-pembroke-coliving-hub/"}]}, {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How much does coliving in Pembroke, Malta cost?", "acceptedAnswer": {"@type": "Answer", "text": "Across 1 colivings in Pembroke, Malta, listed prices start at €2,678 per month and run to €2,678 per month. 1 of them publish a price."}}, {"@type": "Question", "name": "What is the shortest stay you can book in Pembroke, Malta?", "acceptedAnswer": {"@type": "Answer", "text": "The shortest minimum stay is 30 nights; the most common requirement is 30 nights."}}, {"@type": "Question", "name": "Are there pop-up colivings in Pembroke, Malta?", "acceptedAnswer": {"@type": "Answer", "text": "No dated pop-up editions are listed in Pembroke, Malta right now — all 1 are permanent colivings."}}, {"@type": "Question", "name": "Which colivings in Pembroke, Malta have dorms?", "acceptedAnswer": {"@type": "Answer", "text": "1 of 1 offer a dorm bed."}}]}, {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "colivingDB", "item": "https://colivingdb.com/"}, {"@type": "ListItem", "position": 2, "name": "Countries", "item": "https://colivingdb.com/countries/"}, {"@type": "ListItem", "position": 3, "name": "Malta", "item": "https://colivingdb.com/country/malta/"}, {"@type": "ListItem", "position": 4, "name": "Pembroke"}]}]}</script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-GBDMVK7LWL"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-GBDMVK7LWL');</script>
@@ -47,14 +60,56 @@ header.site select{margin-left:auto;font:inherit;font-size:.84rem;padding:6px 9p
 <div class="wrap">
 <nav class="crumb"><a href="/">colivingDB</a> › <a href="/countries/">Countries</a> › <a href="/country/malta/">Malta</a> › Pembroke</nav>
 <h1>Coliving in Pembroke, Malta</h1>
-<p class="lede">1 coliving space in Pembroke, from €2,678 per month. Updated July 10, 2026.</p>
-<div class="tw"><table><thead><tr><th>Coliving</th><th>City</th><th>Price from</th><th>Rating</th><th>Rooms</th><th>Min stay</th><th>Type</th></tr></thead><tbody><tr><td><a href="/coliving/the-triq-alamein-pembroke-coliving-hub/">The Triq Alamein (Pembroke coliving hub)</a></td><td>Pembroke</td><td>from <span class="m" data-a="4686" data-c="USD">$4,686</span><small>/mo</small></td><td>—</td><td>private, dorm</td><td>30 nights (~1 month)</td><td>Permanent</td></tr></tbody></table></div>
+<p class="lede">1 coliving space in Pembroke, from €2,678 per month. Updated July 11, 2026.</p>
+<div class="hubctl"><input type="search" id="hubq" placeholder="Filter by name or city…" aria-label="Filter listings"><select id="hubroom" aria-label="Room type"><option value="">Any room</option><option value="private">Private</option><option value="shared">Shared</option><option value="dorm">Dorm</option></select><span class="hubcount" id="hubcount"></span></div><div class="tw"><table id="hubtable"><thead><tr><th data-k="name">Coliving<span class="ar"></span></th><th>City</th><th data-k="eur">Price from<span class="ar"></span></th><th data-k="rating">Rating<span class="ar"></span></th><th>Rooms</th><th data-k="stay">Min stay<span class="ar"></span></th><th>Type</th></tr></thead><tbody id="hubbody"><tr data-name="the triq alamein (pembroke coliving hub) pembroke" data-rooms="private dorm" data-eur="2678" data-rating="" data-stay="30"><td><a href="/coliving/the-triq-alamein-pembroke-coliving-hub/">The Triq Alamein (Pembroke coliving hub)</a></td><td>Pembroke</td><td>from <span class="m" data-a="4686" data-c="USD">$4,686</span><small>/mo</small></td><td>—</td><td>private, dorm</td><td>30 nights (~1 month)</td><td>Permanent</td></tr></tbody></table></div><script>
+(function(){
+  var body=document.getElementById('hubbody'); if(!body) return;
+  var rows=[].slice.call(body.querySelectorAll('tr'));
+  var q=document.getElementById('hubq'), room=document.getElementById('hubroom'), cnt=document.getElementById('hubcount');
+  var sortK=null, dir=1;
+  function num(v,miss){ v=parseFloat(v); return isNaN(v)?miss:v; }
+  function apply(){
+    var qt=(q.value||'').trim().toLowerCase(), rm=room.value;
+    var vis=rows.filter(function(tr){
+      if(qt && (tr.getAttribute('data-name')||'').indexOf(qt)<0) return false;
+      if(rm && ((' '+(tr.getAttribute('data-rooms')||'')+' ').indexOf(' '+rm+' ')<0)) return false;
+      return true;
+    });
+    if(sortK){
+      vis.sort(function(a,b){
+        if(sortK==='name'){ var an=a.getAttribute('data-name'),bn=b.getAttribute('data-name'); return an<bn?-dir:an>bn?dir:0; }
+        // price/stay: missing sorts last; rating: missing sorts last regardless of dir
+        var miss = (sortK==='rating') ? -1 : Infinity;
+        var av=num(a.getAttribute('data-'+sortK),miss), bv=num(b.getAttribute('data-'+sortK),miss);
+        if(av===miss && bv!==miss) return 1;
+        if(bv===miss && av!==miss) return -1;
+        return (av-bv)*dir;
+      });
+    }
+    rows.forEach(function(tr){tr.style.display='none';});
+    vis.forEach(function(tr){tr.style.display=''; body.appendChild(tr);});
+    if(cnt) cnt.textContent=vis.length+' of '+rows.length;
+  }
+  if(q) q.oninput=apply; if(room) room.onchange=apply;
+  [].slice.call(document.querySelectorAll('#hubtable th[data-k]')).forEach(function(th){
+    th.onclick=function(){
+      var k=th.getAttribute('data-k');
+      if(sortK===k) dir=-dir; else { sortK=k; dir=(k==='rating')?-1:1; }   // rating defaults high->low
+      document.querySelectorAll('#hubtable th').forEach(function(x){x.className='';});
+      th.className = dir>0?'asc':'desc';
+      apply();
+    };
+  });
+  apply();
+})();
+</script>
+<div class="hubsignup"><h3>New colivings in your inbox</h3><p>A monthly roundup of new spaces + upcoming pop-ups. No spam, unsubscribe anytime.</p><iframe src="https://subscribe-forms.beehiiv.com/e2050a21-3afe-41f0-a9de-132528b8cda6?utm_source=colivingdb&amp;utm_medium=seo&amp;utm_campaign=city-malta-pembroke" title="Subscribe to colivingDB" loading="lazy" scrolling="no"></iframe></div>
 <h2>Frequently asked</h2><dl class="faq"><dt>How much does coliving in Pembroke, Malta cost?</dt><dd>Across 1 colivings in Pembroke, Malta, listed prices start at €2,678 per month and run to €2,678 per month. 1 of them publish a price.</dd><dt>What is the shortest stay you can book in Pembroke, Malta?</dt><dd>The shortest minimum stay is 30 nights; the most common requirement is 30 nights.</dd><dt>Are there pop-up colivings in Pembroke, Malta?</dt><dd>No dated pop-up editions are listed in Pembroke, Malta right now — all 1 are permanent colivings.</dd><dt>Which colivings in Pembroke, Malta have dorms?</dt><dd>1 of 1 offer a dorm bed.</dd></dl>
 <p><a href="/country/malta/">← All colivings in Malta</a></p>
 </div>
 <footer class="site"><div class="wrap">
 <a href="/">← Back to the map</a> · <a href="/countries/">All countries</a> · <a href="/llms.txt">llms.txt</a><br>
-<span class="muted">Prices are approximate and shown in each coliving's own local currency unless you switch it above. Data last updated July 10, 2026. Some outbound links are affiliate links.</span>
+<span class="muted">Prices are approximate and shown in each coliving's own local currency unless you switch it above. Data last updated July 11, 2026. Some outbound links are affiliate links.</span>
 </div></footer>
 <script>
 // Client-side currency switch. The HTML always ships the operator's NATIVE figure (that's what

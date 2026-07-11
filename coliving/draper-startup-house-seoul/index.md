@@ -1,6 +1,6 @@
 # Draper Startup House Seoul
 
-> Coliving in Seoul, South Korea. Last updated July 10, 2026.
+> Coliving in Seoul, South Korea. Last updated July 11, 2026.
 
 - **Location:** Seoul, South Korea
 - **Type:** Permanent coliving

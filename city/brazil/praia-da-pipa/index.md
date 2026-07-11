@@ -1,6 +1,6 @@
 # Coliving in Praia da Pipa, Brazil
 
-> 1 colivings in Praia da Pipa, Brazil – last updated July 10, 2026.
+> 1 colivings in Praia da Pipa, Brazil – last updated July 11, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # La Granja Residence
 
-> Coliving in San Pedro, San José, Costa Rica. Last updated July 10, 2026.
+> Coliving in San Pedro, San José, Costa Rica. Last updated July 11, 2026.
 
 - **Location:** San Pedro, San José, Costa Rica
 - **Type:** Permanent coliving

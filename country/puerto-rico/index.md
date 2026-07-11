@@ -1,6 +1,6 @@
 # Coliving in Puerto Rico
 
-> 2 colivings in Puerto Rico, prices from €2,184 to €2,184 per month – last updated July 10, 2026.
+> 2 colivings in Puerto Rico, prices from €2,184 to €2,184 per month – last updated July 11, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Coliving in Colombia
 
-> 20 colivings in Colombia, prices from €52 to €1,567 per month – last updated July 10, 2026.
+> 20 colivings in Colombia, prices from €52 to €1,567 per month – last updated July 11, 2026.
 
 ## All colivings
 

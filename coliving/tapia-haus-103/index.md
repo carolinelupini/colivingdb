@@ -1,6 +1,6 @@
 # Tapia Haus 103
 
-> Coliving in San Juan, Puerto Rico. Last updated July 10, 2026.
+> Coliving in San Juan, Puerto Rico. Last updated July 11, 2026.
 
 - **Location:** San Juan, Puerto Rico
 - **Type:** Permanent coliving

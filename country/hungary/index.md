@@ -1,6 +1,6 @@
 # Coliving in Hungary
 
-> 2 colivings in Hungary, prices from €900 to €900 per month – last updated July 10, 2026.
+> 2 colivings in Hungary, prices from €900 to €900 per month – last updated July 11, 2026.
 
 ## All colivings
 

@@ -46,6 +46,18 @@
   .controls-box{display:flex; flex-direction:column; gap:9px; padding:10px 0; border-top:1px solid var(--line); border-bottom:1px solid var(--line);}
   .rates-row{gap:8px;}
   .unit-lbl{font-size:.8rem; color:var(--muted); margin-right:2px;}
+  /* dual-handle price range slider (two overlaid range inputs; only the thumbs are interactive) */
+  .priceslider{width:200px; flex:0 0 auto;}
+  .ps-head{display:flex; justify-content:space-between; align-items:baseline; margin-bottom:1px;}
+  .ps-val{font-size:.78rem; font-weight:600; color:var(--ink);}
+  .ps-track{position:relative; height:22px;}
+  .ps-rail{position:absolute; top:9px; left:0; right:0; height:4px; background:var(--line); border-radius:2px;}
+  .ps-fill{position:absolute; top:9px; height:4px; background:var(--accent); border-radius:2px;}
+  .ps-track input[type=range]{position:absolute; top:0; left:0; width:100%; height:22px; margin:0; background:none; pointer-events:none; -webkit-appearance:none; appearance:none;}
+  .ps-track input[type=range]::-webkit-slider-thumb{pointer-events:auto; -webkit-appearance:none; height:16px; width:16px; border-radius:50%; background:var(--accent); border:2px solid #fff; box-shadow:0 1px 3px rgba(20,40,80,.35); cursor:pointer; margin-top:0;}
+  .ps-track input[type=range]::-moz-range-thumb{pointer-events:auto; height:14px; width:14px; border-radius:50%; background:var(--accent); border:2px solid #fff; box-shadow:0 1px 3px rgba(20,40,80,.35); cursor:pointer;}
+  .ps-track input[type=range]::-webkit-slider-runnable-track{background:none;}
+  .ps-track input[type=range]::-moz-range-track{background:none;}
   .frow{display:flex; gap:6px; align-items:center; flex-wrap:wrap;}
   .frow.regions, .frow.tags{flex:1 1 auto;}
   .chip{border:1px solid var(--line); background:var(--card); border-radius:999px; padding:6px 13px; font-size:.83rem; cursor:pointer; color:var(--ink); transition:all .12s;}
@@ -112,6 +124,11 @@
   .r-rating{font-size:.82rem;}
   .list-head{padding:2px 18px 10px; font-size:.7rem; text-transform:uppercase; letter-spacing:.05em; color:var(--muted); border:1px solid transparent;}
   .list-head .r-price, .row .r-price{text-align:right;}
+  .list-head .hsort{cursor:pointer; user-select:none;}
+  .list-head .hsort:hover{color:var(--accent);}
+  .list-head .hsort .ar{opacity:.35; font-size:.9em;}
+  .list-head .hsort.asc .ar::after{content:" ↑"; opacity:1;}
+  .list-head .hsort.desc .ar::after{content:" ↓"; opacity:1;}
   .list-head .r-link{min-width:64px;}
   #rows{display:flex; flex-direction:column; gap:8px; scroll-margin-top:72px;}
   .row{padding:13px 18px; cursor:default; background:var(--card); border:1px solid var(--line); border-radius:10px; transition:border-color .12s, box-shadow .12s;}
@@ -241,13 +258,13 @@
       <div class="seg" id="unitSeg" role="group" aria-label="Show prices per stay length">
         <button type="button" data-unit="night">night</button><button type="button" data-unit="week">week</button><button type="button" data-unit="month" class="on">month</button>
       </div>
-      <select id="price" autocomplete="off">
-        <option value="">Any price</option>
-        <option value="600">≤ €600/mo</option>
-        <option value="900">≤ €900/mo</option>
-        <option value="1200">≤ €1200/mo</option>
-        <option value="2000">≤ €2000/mo</option>
-      </select>
+      <div class="priceslider" id="priceSlider">
+        <div class="ps-head"><label class="unit-lbl">Price</label><span class="ps-val" id="psLabel">Any</span></div>
+        <div class="ps-track"><div class="ps-rail"></div><div class="ps-fill" id="psFill"></div>
+          <input type="range" id="psMin" min="0" max="100" step="1" value="0" aria-label="Minimum price">
+          <input type="range" id="psMax" min="0" max="100" step="1" value="100" aria-label="Maximum price">
+        </div>
+      </div>
       <span class="fspacer" style="flex:1 1 auto"></span>
       <label class="unit-lbl">Sort:</label>
       <select id="sort" autocomplete="off" title="Sort the list">
@@ -289,8 +306,8 @@
     <div class="r-name">Coliving</div>
     <div class="r-type">Type</div>
     <div class="r-rooms">Rooms</div>
-    <div class="r-rating">Rating</div>
-    <div class="r-price">Price</div>
+    <div class="r-rating hsort" data-sort="rating">Rating<span class="ar"></span></div>
+    <div class="r-price hsort" data-sort="price-asc">Price<span class="ar"></span></div>
     <div class="r-link"></div>
   </div>
   <div id="rows"></div>
@@ -356,7 +373,7 @@ const TAGS = Object.keys(tagFreq).sort((a,b)=>tagFreq[b]-tagFreq[a]);
 // order interleaves warm/cool so the look-alike pairs never sit next to each other
 const TYPE_ORDER = ["community","beach","family","island","coworking","eco","rural","startup","surf","mountain","ski","city"];
 
-const state = {region:"All", country:"", room:"", format:"", month:"", minStay:"", minRating:"", sort:"", tags:new Set(), price:"", q:"", showAll:false, currency:"", unit:"month"};
+const state = {region:"All", country:"", room:"", format:"", month:"", minStay:"", minRating:"", sort:"", tags:new Set(), priceMin:0, priceMax:null, q:"", showAll:false, currency:"", unit:"month"};
 
 // ---- pop-up month coverage: turn a popupDates string into the set of YYYY-MM it spans ----
 const MONTH_IDX={jan:1,feb:2,mar:3,apr:4,may:5,jun:6,jul:7,aug:8,sep:9,sept:9,oct:10,nov:11,dec:12,
@@ -385,8 +402,8 @@ let RATES = {EUR:1};   // X per 1 EUR
 const CURRENCIES = ["EUR","USD","GBP","CHF","THB","IDR","VND","PHP","MYR","INR","MXN","COP","BRL","ZAR","MAD","TRY","GEL","AUD","CAD","NZD","SGD","JPY"];
 const curSel=document.getElementById("currency");
 curSel.innerHTML = `<option value="">Local currency</option>` + CURRENCIES.map(c=>`<option value="${c}">${c}</option>`).join("");
-curSel.onchange=e=>{state.currency=e.target.value; buildPriceOptions(); render();};
-fetch("https://open.er-api.com/v6/latest/EUR").then(r=>r.json()).then(d=>{ if(d&&d.rates){ RATES=d.rates; RATES.EUR=1; buildPriceOptions(); render(); } }).catch(()=>{});
+curSel.onchange=e=>{state.currency=e.target.value; priceSliderPaint(); render();};
+fetch("https://open.er-api.com/v6/latest/EUR").then(r=>r.json()).then(d=>{ if(d&&d.rates){ RATES=d.rates; RATES.EUR=1; priceSliderPaint(); render(); } }).catch(()=>{});
 const toEur   = (a,cur)=> a==null?null:((cur==="EUR"||!cur)?a:(RATES[cur]?a/RATES[cur]:null));
 const fromEur = (e,cur)=> e==null?null:((cur==="EUR"||!cur)?e:(RATES[cur]?e*RATES[cur]:null));
 function fmtMoney(a,cur){ try{ return new Intl.NumberFormat('en',{style:'currency',currency:cur,maximumFractionDigits:0,currencyDisplay:'narrowSymbol'}).format(a);}catch(e){ return cur+" "+Math.round(a).toLocaleString(); } }
@@ -425,20 +442,39 @@ function rateDisplay(x, tier){
   return v == null ? null : {amt: Math.round(v), cur: target};
 }
 
-// Buckets are per stay-length and held in EUR, labelled in the chosen display currency.
-// A nightly bucket of €600 would be nonsense, so each unit gets its own scale.
-const PRICE_BUCKETS = {month:[600,900,1200,2000], week:[200,300,450,700], night:[30,50,80,120]};
-function buildPriceOptions(){
-  const cur = state.currency || "EUR";
-  const sel=document.getElementById("price"); const prev=state.price;
-  const opts = (PRICE_BUCKETS[state.unit]||PRICE_BUCKETS.month).map(e=>{
-    const v=fromEur(e,cur); if(v==null) return "";
-    const rounded = v<100 ? Math.round(v) : Math.round(v/10)*10;
-    return `<option value="${e}">≤ ${fmtMoney(rounded,cur)}${UNITS[state.unit].suffix}</option>`;
-  }).filter(Boolean).join("");
-  sel.innerHTML = `<option value="">Any price</option>` + opts;
-  sel.value = (PRICE_BUCKETS[state.unit]||[]).includes(+prev) ? prev : (state.price="", "");
+// Price range slider — dual handles. Bounds are held in EUR (so they survive currency + unit
+// switches); the label reconverts to the display currency. Each stay length gets its own ceiling
+// (a €4000 nightly cap would be nonsense); a handle at the ceiling means "no upper bound".
+const PRICE_CEIL = {month:4000, week:1000, night:300};
+const priceCeil = () => PRICE_CEIL[state.unit] || 4000;
+const priceIsDefault = () => (state.priceMin||0) <= 0 && (state.priceMax==null || state.priceMax >= priceCeil());
+const _psMin=document.getElementById("psMin"), _psMax=document.getElementById("psMax"),
+      _psFill=document.getElementById("psFill"), _psLabel=document.getElementById("psLabel");
+function priceSliderPaint(){
+  const ceil=priceCeil(), lo=+_psMin.value, hi=+_psMax.value;
+  _psFill.style.left=(lo/ceil*100)+"%";
+  _psFill.style.width=((hi-lo)/ceil*100)+"%";
+  const cur=state.currency||"EUR";
+  const disp=v=>fmtMoney(Math.round(fromEur(v,cur)),cur);
+  _psLabel.textContent = (lo<=0 && hi>=ceil) ? "Any"
+    : (lo<=0) ? "≤ "+disp(hi)
+    : (hi>=ceil) ? disp(lo)+"+"
+    : disp(lo)+" – "+disp(hi);
 }
+function priceSliderInit(){   // called on load + whenever the unit changes (re-scales the ceiling)
+  const ceil=priceCeil();
+  _psMin.max=ceil; _psMax.max=ceil;
+  const step = state.unit==="night" ? 5 : (state.unit==="week" ? 10 : 25);
+  _psMin.step=step; _psMax.step=step;
+  if(state.priceMin==null) state.priceMin=0;
+  if(state.priceMax==null) state.priceMax=ceil;
+  state.priceMin=Math.max(0,Math.min(state.priceMin,ceil));
+  state.priceMax=Math.max(state.priceMin,Math.min(state.priceMax,ceil));
+  _psMin.value=state.priceMin; _psMax.value=state.priceMax;
+  priceSliderPaint();
+}
+_psMin.oninput=()=>{ let lo=+_psMin.value; if(lo>+_psMax.value){lo=+_psMax.value; _psMin.value=lo;} state.priceMin=lo; priceSliderPaint(); render(); };
+_psMax.oninput=()=>{ let hi=+_psMax.value; if(hi<+_psMin.value){hi=+_psMin.value; _psMax.value=hi;} state.priceMax=(hi>=priceCeil()?null:hi); priceSliderPaint(); render(); };
 // source amount + currency for a room tier (true native if scraped, else EUR estimate)
 function tierSource(x, tier){
   const pn=x.pricesNative; if(pn && pn[tier]!=null) return {amt:pn[tier], cur:nativeCurOf(x)};
@@ -504,16 +540,25 @@ monthSel.onchange=e=>{state.month=e.target.value; render();};
 document.getElementById("minstay").onchange=e=>{state.minStay=e.target.value; render();};
 document.getElementById("minrating").onchange=e=>{state.minRating=e.target.value; render();};
 document.getElementById("sort").onchange=e=>{state.sort=e.target.value; render();};
+// clickable column headers — Price toggles asc/desc, Rating sorts high->low; kept in sync w/ the dropdown
+document.querySelectorAll(".list-head .hsort").forEach(h=>{
+  h.onclick=()=>{
+    const base=h.dataset.sort;
+    if(base==="price-asc") state.sort = (state.sort==="price-asc") ? "price-desc" : "price-asc";
+    else state.sort = (state.sort===base) ? "" : base;
+    document.getElementById("sort").value = state.sort;
+    render();
+  };
+});
 // stay-length toggle: switching unit re-scales the price buckets (a €600 nightly cap is nonsense)
 document.querySelectorAll("#unitSeg button").forEach(b=>{
   b.onclick=()=>{
     state.unit=b.dataset.unit;
     document.querySelectorAll("#unitSeg button").forEach(o=>o.classList.toggle("on", o===b));
-    buildPriceOptions(); render();
+    priceSliderInit(); render();
   };
 });
-buildPriceOptions();
-document.getElementById("price").onchange=e=>{state.price=e.target.value; render();};
+priceSliderInit();
 // debounced: render() rebuilds all rows + 600 map markers, too heavy to run per keystroke
 let _qTimer=null;
 document.getElementById("search").oninput=e=>{
@@ -575,12 +620,12 @@ document.addEventListener("keydown",e=>{ if(e.key==="Escape" && formModal.style.
 // clear every filter to default. `toBrowse` = also return to the browse landing (Back / logo);
 // otherwise stay on the current list view with the map + filters and all colivings shown (Reset).
 function resetFilters(toBrowse){
-  Object.assign(state,{region:"All",country:"",room:"",format:"",month:"",minStay:"",minRating:"",sort:"",price:"",q:"",unit:"month"});
+  Object.assign(state,{region:"All",country:"",room:"",format:"",month:"",minStay:"",minRating:"",sort:"",priceMin:0,priceMax:null,q:"",unit:"month"});
   state.tags.clear();
   state.showAll = (toBrowse === true) ? false : true;
-  ["country","room","format","month","minstay","minrating","sort","price"].forEach(id=>document.getElementById(id).value="");
+  ["country","room","format","month","minstay","minrating","sort"].forEach(id=>document.getElementById(id).value="");
   document.querySelectorAll("#unitSeg button").forEach(b=>b.classList.toggle("on", b.dataset.unit==="month"));
-  buildPriceOptions();
+  priceSliderInit();
   document.getElementById("search").value="";
   render();
 }
@@ -608,7 +653,7 @@ let markers=[];
 
 function isBrowse(){
   return state.region==="All" && !state.country && !state.room && !state.format && !state.month && !state.minStay && !state.minRating
-    && !state.tags.size && !state.price && !state.q && !state.showAll;
+    && !state.tags.size && priceIsDefault() && !state.q && !state.showAll;
 }
 function hasRoom(x, room){
   if(room==="dorm") return x.dormAvailable || (x.roomTypes||[]).includes("dorm");
@@ -623,10 +668,14 @@ function filtered(){
     (!state.month||x.format!=="pop-up"||popupMonths(x.popupDates).has(state.month)) &&
     (!state.minStay||(x.minStayNights&&x.minStayNights<=+state.minStay)) &&
     (!state.minRating||(x.rating&&x.rating>=+state.minRating)) &&
-    // price cap: same number the row displays (selected stay length + selected room), in EUR
-    (!state.price||comparableEur(x)<=+state.price) &&
-    ([...state.tags].every(t=>(x.tags||[]).includes(t))) &&
-    (!state.q||((x.name+" "+(x.city||"")+" "+x.country).toLowerCase().includes(state.q)))
+    // price range: same number the row displays (selected stay length + selected room), in EUR.
+    // A handle at the ceiling means "no bound"; a full-range slider skips the filter (keeps unpriced).
+    (priceIsDefault() || (()=>{ const ceil=priceCeil(), lo=state.priceMin||0, hi=(state.priceMax==null?ceil:state.priceMax), e=comparableEur(x);
+       if(e===Infinity) return false; return e>=lo && (hi>=ceil || e<=hi); })()) &&
+    // interest chips use OR: someone into surf OR ski wants either, not only places that are both
+    (!state.tags.size||[...state.tags].some(t=>(x.tags||[]).includes(t))) &&
+    // search also matches tags so typing "surf" (or "coworking", etc.) returns results
+    (!state.q||((x.name+" "+(x.city||"")+" "+x.country+" "+(x.tags||[]).join(" ")).toLowerCase().includes(state.q)))
   );
 }
 
@@ -757,6 +806,13 @@ function sortForDisplay(list){
 function render(){
   document.querySelectorAll("#regions .chip").forEach(b=>b.classList.toggle("on",b.textContent===state.region));
   document.querySelectorAll("#tags .chip").forEach(b=>b.classList.toggle("on",state.tags.has(b.textContent)));
+  // reflect the active sort as an arrow on the clickable column headers
+  document.querySelectorAll(".list-head .hsort").forEach(h=>{
+    h.classList.remove("asc","desc");
+    if(h.dataset.sort==="rating" && state.sort==="rating") h.classList.add("desc");
+    if(h.dataset.sort==="price-asc" && state.sort==="price-asc") h.classList.add("asc");
+    if(h.dataset.sort==="price-asc" && state.sort==="price-desc") h.classList.add("desc");
+  });
   const browse = isBrowse();
   const list=sortForDisplay(filtered());
   document.getElementById("count").innerHTML=`Showing <b>${list.length}</b> of ${C.length} colivings`;
@@ -812,7 +868,7 @@ function render(){
   });
 
   if(withCoords.length){
-    const tight = !browse && (state.region!=="All"||state.country||state.room||state.format||state.month||state.minStay||state.minRating||state.q||state.tags.size||state.price);
+    const tight = !browse && (state.region!=="All"||state.country||state.room||state.format||state.month||state.minStay||state.minRating||state.q||state.tags.size||!priceIsDefault());
     map.fitBounds(L.featureGroup(withCoords).getBounds().pad(tight?0.25:0.02),{maxZoom:tight?9:5});
   }
 }

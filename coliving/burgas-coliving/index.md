@@ -1,6 +1,6 @@
 # Burgas Coliving
 
-> Coliving in Burgas, Bulgaria. Last updated July 10, 2026.
+> Coliving in Burgas, Bulgaria. Last updated July 11, 2026.
 
 - **Location:** Burgas, Bulgaria
 - **Type:** Permanent coliving
