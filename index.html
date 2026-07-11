@@ -47,9 +47,14 @@
   .rates-row{gap:8px;}
   .unit-lbl{font-size:.8rem; color:var(--muted); margin-right:2px;}
   /* dual-handle price range slider (two overlaid range inputs; only the thumbs are interactive) */
-  .priceslider{width:200px; flex:0 0 auto;}
-  .ps-head{display:flex; justify-content:space-between; align-items:baseline; margin-bottom:1px;}
-  .ps-val{font-size:.78rem; font-weight:600; color:var(--ink);}
+  .priceslider{width:216px; flex:0 0 auto;}
+  .ps-head{display:flex; justify-content:space-between; align-items:center; gap:6px; margin-bottom:2px;}
+  .ps-io{display:inline-flex; align-items:center; gap:3px;}
+  .ps-num{width:52px; padding:2px 4px; font-size:.76rem; text-align:right; border:1px solid var(--line); border-radius:5px; background:var(--card,#fff); color:var(--ink); -moz-appearance:textfield;}
+  .ps-num::-webkit-outer-spin-button, .ps-num::-webkit-inner-spin-button{-webkit-appearance:none; margin:0;}
+  .ps-num:focus{outline:none; border-color:var(--accent);}
+  .ps-dash{color:var(--muted); font-size:.76rem;}
+  .ps-cur{font-size:.72rem; color:var(--muted); min-width:8px;}
   .ps-track{position:relative; height:22px;}
   .ps-rail{position:absolute; top:9px; left:0; right:0; height:4px; background:var(--line); border-radius:2px;}
   .ps-fill{position:absolute; top:9px; height:4px; background:var(--accent); border-radius:2px;}
@@ -259,10 +264,18 @@
         <button type="button" data-unit="night">night</button><button type="button" data-unit="week">week</button><button type="button" data-unit="month" class="on">month</button>
       </div>
       <div class="priceslider" id="priceSlider">
-        <div class="ps-head"><label class="unit-lbl">Price</label><span class="ps-val" id="psLabel">Any</span></div>
+        <div class="ps-head">
+          <label class="unit-lbl">Price</label>
+          <span class="ps-io">
+            <input type="number" id="psMinIn" class="ps-num" placeholder="Min" inputmode="numeric" min="0" aria-label="Minimum price">
+            <span class="ps-dash">–</span>
+            <input type="number" id="psMaxIn" class="ps-num" placeholder="Any" inputmode="numeric" min="0" aria-label="Maximum price">
+            <span class="ps-cur" id="psCur"></span>
+          </span>
+        </div>
         <div class="ps-track"><div class="ps-rail"></div><div class="ps-fill" id="psFill"></div>
-          <input type="range" id="psMin" min="0" max="100" step="1" value="0" aria-label="Minimum price">
-          <input type="range" id="psMax" min="0" max="100" step="1" value="100" aria-label="Maximum price">
+          <input type="range" id="psMin" min="0" max="100" step="1" value="0" aria-label="Minimum price slider">
+          <input type="range" id="psMax" min="0" max="100" step="1" value="100" aria-label="Maximum price slider">
         </div>
       </div>
       <span class="fspacer" style="flex:1 1 auto"></span>
@@ -442,39 +455,56 @@ function rateDisplay(x, tier){
   return v == null ? null : {amt: Math.round(v), cur: target};
 }
 
-// Price range slider — dual handles. Bounds are held in EUR (so they survive currency + unit
-// switches); the label reconverts to the display currency. Each stay length gets its own ceiling
-// (a €4000 nightly cap would be nonsense); a handle at the ceiling means "no upper bound".
-const PRICE_CEIL = {month:4000, week:1000, night:300};
-const priceCeil = () => PRICE_CEIL[state.unit] || 4000;
-const priceIsDefault = () => (state.priceMin||0) <= 0 && (state.priceMax==null || state.priceMax >= priceCeil());
+// Price range slider — dual handles + typeable min/max fields. Filter bounds are held in EUR
+// (state.priceMin / state.priceMax, null max = unbounded) so they survive currency + unit switches,
+// but the slider AND the number fields operate in the SELECTED display currency with round,
+// currency-native steps — so "max 2000" means 2000 of whatever currency is showing, not a EUR
+// figure run through the exchange rate. Each stay length has its own EUR ceiling (a €4000 nightly
+// cap would be nonsense); a handle/typed value at or above the top means "no upper bound".
+const PRICE_CEIL_EUR = {month:4000, week:1000, night:300};
+const ceilEur = () => PRICE_CEIL_EUR[state.unit] || 4000;
+const priceIsDefault = () => (state.priceMin||0) <= 0 && (state.priceMax==null || state.priceMax >= ceilEur());
+const curCode = () => state.currency || "EUR";
 const _psMin=document.getElementById("psMin"), _psMax=document.getElementById("psMax"),
-      _psFill=document.getElementById("psFill"), _psLabel=document.getElementById("psLabel");
-function priceSliderPaint(){
-  const ceil=priceCeil(), lo=+_psMin.value, hi=+_psMax.value;
-  _psFill.style.left=(lo/ceil*100)+"%";
-  _psFill.style.width=((hi-lo)/ceil*100)+"%";
-  const cur=state.currency||"EUR";
-  const disp=v=>fmtMoney(Math.round(fromEur(v,cur)),cur);
-  _psLabel.textContent = (lo<=0 && hi>=ceil) ? "Any"
-    : (lo<=0) ? "≤ "+disp(hi)
-    : (hi>=ceil) ? disp(lo)+"+"
-    : disp(lo)+" – "+disp(hi);
+      _psFill=document.getElementById("psFill"), _psMinIn=document.getElementById("psMinIn"),
+      _psMaxIn=document.getElementById("psMaxIn"), _psCur=document.getElementById("psCur");
+// a "nice" step (1/2/5 × 10ⁿ) giving ~80 slider positions across the range, whatever the currency
+function niceStep(max){ if(!(max>0)) return 1; const t=max/80, mag=Math.pow(10,Math.floor(Math.log10(t))), n=t/mag; return (n<1.5?1:n<3?2:n<7?5:10)*mag; }
+// the slider's scale in the current display currency: {cur, step, max}
+function priceScale(){
+  const cur=curCode(); const raw=fromEur(ceilEur(),cur)||ceilEur();
+  const step=niceStep(raw); const max=Math.ceil(raw/step)*step;
+  return {cur, step, max};
 }
-function priceSliderInit(){   // called on load + whenever the unit changes (re-scales the ceiling)
-  const ceil=priceCeil();
-  _psMin.max=ceil; _psMax.max=ceil;
-  const step = state.unit==="night" ? 5 : (state.unit==="week" ? 10 : 25);
-  _psMin.step=step; _psMax.step=step;
-  if(state.priceMin==null) state.priceMin=0;
-  if(state.priceMax==null) state.priceMax=ceil;
-  state.priceMin=Math.max(0,Math.min(state.priceMin,ceil));
-  state.priceMax=Math.max(state.priceMin,Math.min(state.priceMax,ceil));
-  _psMin.value=state.priceMin; _psMax.value=state.priceMax;
-  priceSliderPaint();
+const eurToDisp = e => Math.round(fromEur(e, curCode()));
+const dispToEur = d => toEur(d, curCode());
+function priceSliderPaint(){   // state(EUR) -> UI(display); the single source that repaints slider + fields
+  const {cur,step,max}=priceScale();
+  for(const el of [_psMin,_psMax,_psMinIn,_psMaxIn]){ el.max=max; el.step=step; }
+  let loD=Math.max(0,Math.min(eurToDisp(state.priceMin||0),max));
+  let hiD=(state.priceMax==null)?max:Math.max(loD,Math.min(eurToDisp(state.priceMax),max));
+  _psMin.value=loD; _psMax.value=hiD;
+  _psMinIn.value = loD>0 ? loD : "";
+  _psMaxIn.value = hiD>=max ? "" : hiD;    // empty = "Any" (no upper bound)
+  _psCur.textContent = fmtMoney(0,cur).replace(/[\d.,\s]/g,"") || cur;   // just the symbol, e.g. €/$
+  _psFill.style.left=(loD/max*100)+"%";
+  _psFill.style.width=((hiD-loD)/max*100)+"%";
 }
-_psMin.oninput=()=>{ let lo=+_psMin.value; if(lo>+_psMax.value){lo=+_psMax.value; _psMin.value=lo;} state.priceMin=lo; priceSliderPaint(); render(); };
-_psMax.oninput=()=>{ let hi=+_psMax.value; if(hi<+_psMin.value){hi=+_psMin.value; _psMax.value=hi;} state.priceMax=(hi>=priceCeil()?null:hi); priceSliderPaint(); render(); };
+function priceSliderInit(){ if(state.priceMin==null) state.priceMin=0; priceSliderPaint(); }
+// commit display-currency lo/hi into EUR state; hi at/above the scale max = unbounded
+function priceCommit(loD, hiD){
+  const {max}=priceScale();
+  loD=Math.max(0,Math.min(loD,max)); hiD=Math.max(loD,Math.min(hiD,max));
+  state.priceMin = loD<=0 ? 0 : dispToEur(loD);
+  state.priceMax = hiD>=max ? null : dispToEur(hiD);
+  priceSliderPaint(); render();
+}
+_psMin.oninput=()=>{ let lo=+_psMin.value, hi=+_psMax.value; if(lo>hi) hi=lo; priceCommit(lo,hi); };
+_psMax.oninput=()=>{ let lo=+_psMin.value, hi=+_psMax.value; if(hi<lo) lo=hi; priceCommit(lo,hi); };
+// typed fields: empty min = 0, empty max = no cap; typing any number is allowed (clamped to the scale)
+function readNum(el){ const v=parseFloat(el.value); return isNaN(v)?null:Math.max(0,v); }
+_psMinIn.onchange=()=>{ const {max}=priceScale(); const lo=readNum(_psMinIn)??0; const hi=readNum(_psMaxIn)??max; priceCommit(lo,hi); };
+_psMaxIn.onchange=()=>{ const {max}=priceScale(); const lo=readNum(_psMinIn)??0; const hi=readNum(_psMaxIn)??max; priceCommit(lo,hi); };
 // source amount + currency for a room tier (true native if scraped, else EUR estimate)
 function tierSource(x, tier){
   const pn=x.pricesNative; if(pn && pn[tier]!=null) return {amt:pn[tier], cur:nativeCurOf(x)};
@@ -670,7 +700,7 @@ function filtered(){
     (!state.minRating||(x.rating&&x.rating>=+state.minRating)) &&
     // price range: same number the row displays (selected stay length + selected room), in EUR.
     // A handle at the ceiling means "no bound"; a full-range slider skips the filter (keeps unpriced).
-    (priceIsDefault() || (()=>{ const ceil=priceCeil(), lo=state.priceMin||0, hi=(state.priceMax==null?ceil:state.priceMax), e=comparableEur(x);
+    (priceIsDefault() || (()=>{ const ceil=ceilEur(), lo=state.priceMin||0, hi=(state.priceMax==null?ceil:state.priceMax), e=comparableEur(x);
        if(e===Infinity) return false; return e>=lo && (hi>=ceil || e<=hi); })()) &&
     // interest chips use OR: someone into surf OR ski wants either, not only places that are both
     (!state.tags.size||[...state.tags].some(t=>(x.tags||[]).includes(t))) &&
