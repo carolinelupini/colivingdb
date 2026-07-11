@@ -28,6 +28,10 @@ tr:last-child td{border-bottom:none}
 .facts dd{margin:0;padding:10px 0;border-bottom:1px solid #f1f4f8;font-weight:500}
 .facts dl>:nth-last-child(-n+2){border-bottom:none}
 .pill{display:inline-block;background:#eef6f3;color:#0e7c66;border-radius:999px;padding:2px 10px;font-size:.78rem;margin:0 5px 5px 0}
+.inclist,.exclist{list-style:none;padding:0;margin:8px 0 22px;display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:7px 20px}
+.inclist li,.exclist li{position:relative;padding-left:23px;font-size:.92rem;line-height:1.4}
+.inclist li::before{content:"✓";position:absolute;left:0;top:0;color:#0e7c66;font-weight:700}
+.exclist li::before{content:"✕";position:absolute;left:0;top:0;color:#b4531a;font-weight:700}
 .pop{background:#fef3e7;color:#b5791e}
 .cta{display:inline-block;background:#0e7c66;color:#fff;text-decoration:none;font-weight:600;border-radius:9px;padding:11px 18px;margin:6px 0 26px}
 h2{font-size:1.15rem;margin:30px 0 10px}
@@ -61,7 +65,7 @@ header.site select{margin-left:auto;font:inherit;font-size:.84rem;padding:6px 9p
 .hubsignup.compact .sg-txt{flex:1 1 190px;min-width:0}
 .hubsignup.compact h3{font-size:.98rem;margin:0}
 .hubsignup.compact p{margin:2px 0 0;font-size:.82rem}
-.hubsignup.compact iframe{flex:1 1 240px;width:auto;max-width:360px;height:56px;margin:0}</style>
+.hubsignup.compact iframe{flex:1 1 240px;width:auto;max-width:360px;height:48px;margin:0}</style>
 <script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@context": "https://schema.org", "@type": "LodgingBusiness", "name": "Enchanted Coliving", "url": "https://colivingdb.com/coliving/enchanted-coliving/", "address": {"@type": "PostalAddress", "addressLocality": "Nachamps", "addressCountry": "France"}, "geo": {"@type": "GeoCoordinates", "latitude": 46.03, "longitude": -0.63}, "priceRange": "from €870/month", "sameAs": "https://www.mapmelon.com/colivings/enchanted-coliving"}, {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "colivingDB", "item": "https://colivingdb.com/"}, {"@type": "ListItem", "position": 2, "name": "France", "item": "https://colivingdb.com/country/france/"}, {"@type": "ListItem", "position": 3, "name": "Nachamps", "item": "https://colivingdb.com/city/france/nachamps/"}, {"@type": "ListItem", "position": 4, "name": "Enchanted Coliving"}]}]}</script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-GBDMVK7LWL"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-GBDMVK7LWL');</script>
@@ -77,6 +81,7 @@ header.site select{margin-left:auto;font:inherit;font-size:.84rem;padding:6px 9p
 <div class="facts"><dl><dt>Location</dt><dd>Nachamps, France</dd><dt>Type</dt><dd>Permanent coliving</dd><dt>Price</dt><dd>from <span class="m" data-a="1080" data-c="EUR">€1,080</span><small>/mo</small></dd><dt>Price note</dt><dd>€870/mo (10% off from €1,080); €32/night</dd><dt>Rating</dt><dd><a href="https://maps.google.com/?cid=784136680359382931&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (17 reviews)</a> <small>· Google</small></dd><dt>Room types</dt><dd>private</dd><dt>Dorm available</dt><dd>No</dd><dt>Minimum stay</dt><dd>14 nights (~2 weeks)</dd><dt>Region</dt><dd>Europe</dd></dl></div>
 <a class="cta" href="https://www.mapmelon.com/colivings/enchanted-coliving" target="_blank" rel="nofollow noopener">Visit Enchanted Coliving →</a>
 <h2>Rates</h2><div class="tw"><table><thead><tr><th>Stay length</th><th>From</th></tr></thead><tbody><tr><td><b>Per night</b></td><td><span class="m" data-a="36" data-c="EUR">€36</span></td></tr><tr><td><b>Per month</b></td><td><span class="m" data-a="1080" data-c="EUR">€1,080</span></td></tr></tbody></table></div><p class="muted">Enchanted Coliving does not publish a weekly rate.</p>
+
 <h2>About</h2><p>Confirmed via Mapmelon: €870/mo (10% off €1,080) private room, 14-night minimum stay; no room-type breakdown given.</p>
 <h2>Other colivings in France</h2><div class="cols"><a href="/coliving/chateau-coliving/">Chateau Coliving</a><a href="/coliving/cloud-citadel-coliving/">Cloud Citadel Coliving</a><a href="/coliving/coworksurf-hossegor/">Coworksurf Hossegor</a><a href="/coliving/langeais-co-living-castle-la-roche-cotard/">Langeais Co-Living Castle (La Roche-Cotard)</a><a href="/coliving/les-briques/">Les Briques</a><a href="/coliving/maysou-a-noste/">Maysou A Noste</a><a href="/coliving/nomadunion-coliving-villa/">NomadUnion Coliving (Villa)</a><a href="/coliving/nomadunion-coliving-nice/">NomadUnion Coliving Nice</a><a href="/coliving/nomadico-anglet/">Nomadico Anglet</a><a href="/coliving/not-sorry-coliving/">Not Sorry Coliving</a><a href="/coliving/outsite-bordeaux/">Outsite Bordeaux</a><a href="/coliving/outsite-paris-zoku/">Outsite Paris (Zoku)</a></div>
 </div>

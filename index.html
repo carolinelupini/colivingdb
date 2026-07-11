@@ -141,6 +141,8 @@
   .row.hl{border-color:var(--accent); box-shadow:0 0 0 2px var(--accent-soft);}
 
   .r-name .nm{font-size:.98rem; font-weight:650; line-height:1.2;}
+  .r-name .nmlink{color:inherit; text-decoration:none;}
+  .r-name .nmlink:hover{color:var(--accent); text-decoration:underline;}
   .rating{display:inline-flex; align-items:center; gap:1px; font-size:.78rem; font-weight:600; color:#a15c00; background:#fdf3e2; border-radius:5px; padding:1px 6px; text-decoration:none; vertical-align:middle; white-space:nowrap;}
   .rating .star{color:#e8a723; margin-right:2px;}
   .rating small{font-weight:400; color:var(--muted);}
@@ -180,7 +182,7 @@
   .listsignup .ls-txt{display:flex; flex-direction:column; flex:1 1 200px; min-width:0;}
   .listsignup .ls-txt b{font-size:.92rem; font-weight:700;}
   .listsignup .ls-txt span{color:var(--muted); font-size:.78rem;}
-  .listsignup .signup-form{flex:1 1 240px; max-width:340px; height:56px; margin:0;}
+  .listsignup .signup-form{flex:1 1 240px; max-width:340px; height:48px; margin:0;}
   .empty{padding:40px 22px; text-align:center; color:var(--muted);}
   footer{max-width:var(--wrap); margin:24px auto 0; padding:18px 22px 40px; color:var(--muted); font-size:.78rem; line-height:1.6; border-top:1px solid var(--line);}
   .fmtchecks{display:inline-flex; align-items:center; gap:12px; padding:0 4px;}
@@ -893,13 +895,17 @@ function render(){
       : `${x.city?x.city+", ":""}${x.country}`;
     const tagsHtml = (x.tags||[]).slice(0,5).map(tagChip).join("");
     const datesHtml = (x.format==="pop-up"&&x.popupDates) ? `<div class="dates">◷ ${x.popupDates}</div>` : "";
-    const linkHtml = (x.url?`<a href="${affiliateUrl(x.url)}" target="_blank" rel="noopener sponsored">Visit →</a>`:`<span class="none">no site</span>`)
+    // Card now clicks INTO our own detail page (/coliving/<slug>/) — where the info + the affiliate
+    // "Visit official site" link live — rather than straight out to the operator. Mirrors esimdb.
+    const detailUrl = x._slug ? `/coliving/${x._slug}/` : null;
+    const linkHtml = (detailUrl?`<a href="${detailUrl}">Details →</a>`
+        :(x.url?`<a href="${affiliateUrl(x.url)}" target="_blank" rel="noopener sponsored">Visit →</a>`:`<span class="none">no site</span>`))
       + (x.format==="program"&&x.scheduleUrl?`<a class="sched" href="${x.scheduleUrl}" target="_blank" rel="noopener">Schedule →</a>`:"");
 
     const row=document.createElement("div"); row.className="row cols"; row.id="row-"+idx;
     row.innerHTML=`
       <div class="r-name">
-        <div class="nm">${x.name}</div>
+        <div class="nm">${detailUrl?`<a class="nmlink" href="${detailUrl}">${x.name}</a>`:x.name}</div>
         <div class="loc">${loc} · ${x.region}</div>
         ${tagsHtml?`<div class="tags">${tagsHtml}</div>`:""}
         ${datesHtml}
