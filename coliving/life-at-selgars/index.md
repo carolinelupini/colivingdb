@@ -9,6 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=9989946247605293803&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (57 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** Intentional countryside community built for recharge and connection
 - **Minimum stay:** 14 nights (~2 weeks)
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>

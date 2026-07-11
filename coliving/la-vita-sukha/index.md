@@ -9,6 +9,8 @@
 - **Rating:** <a href="https://maps.google.com/?cid=6395189329283834740&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (29 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
+- **Wi-Fi (on-site):** 140 Mbps <small>· operator-reported</small>
+- **Vibe:** Mindful nomading at a slower pace in a small village
 - **Minimum stay:** 13 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

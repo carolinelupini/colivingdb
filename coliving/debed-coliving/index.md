@@ -9,6 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=9717853361489656377&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (37 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** Calm co-living retreat to slow down and recharge
 - **Minimum stay:** 2 nights
 - **Region:** Asia
 - **Timezone:** GMT+4 <small>· US East: async only · Central Europe: full workday overlap</small>

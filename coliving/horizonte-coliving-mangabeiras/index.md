@@ -8,6 +8,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=16757248674255325013&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (44 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** Life transitions with lightness, comfort, and community
 - **Community size:** 10-room house
 - **Minimum stay:** —
 - **Region:** Latin America

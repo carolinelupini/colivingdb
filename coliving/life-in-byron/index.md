@@ -8,6 +8,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=11121161346045634233&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (96 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared, dorm
 - **Dorm available:** Yes
+- **Vibe:** Affordable, chill backpacker hostel community steps from the beach
 - **Minimum stay:** —
 - **Region:** Oceania
 - **Timezone:** GMT+11 winter / GMT+10 summer <small>· US East: async only · Central Europe: async only</small>

@@ -8,6 +8,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=8564350984548989017&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (141 reviews)</a> <small>· Google</small>
 - **Room types:** —
 - **Dorm available:** No
+- **Vibe:** Sustainable eco-living retreat focused on balance and wellbeing
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT-1 winter / GMT+0 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>

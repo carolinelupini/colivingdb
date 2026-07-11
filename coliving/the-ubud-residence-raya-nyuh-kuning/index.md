@@ -8,6 +8,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=6992275322276467825&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (131 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** Peaceful village setting balancing quiet with convenience
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Asia
 - **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>

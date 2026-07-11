@@ -9,6 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=4667633668862203647&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (77 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
+- **Vibe:** International digital nomad community in tranquil Seoul neighborhood
 - **Minimum stay:** —
 - **Region:** Asia
 - **Timezone:** GMT+9 <small>· US East: async only · Central Europe: your evenings</small>

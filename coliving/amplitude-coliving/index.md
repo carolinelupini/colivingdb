@@ -9,6 +9,8 @@
 - **Rating:** <a href="https://maps.google.com/?cid=6360831088542217689&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (75 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 350 Mbps <small>· operator-reported</small>
+- **Vibe:** Lively, friendly atmosphere for remote workers who love travel
 - **Minimum stay:** 1 night
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>

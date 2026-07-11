@@ -8,6 +8,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=17518037631286605725&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (68 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** Inspiring space for entrepreneurs, professional and personal development
 - **Minimum stay:** —
 - **Region:** Africa
 - **Timezone:** GMT+4 <small>· US East: async only · Central Europe: full workday overlap</small>

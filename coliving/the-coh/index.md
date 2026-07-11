@@ -8,6 +8,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=15868430693563452686&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (103 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
+- **Vibe:** Modern, clean atmosphere great for meeting people worldwide
 - **Minimum stay:** 90 nights (~3 months)
 - **Region:** Oceania
 - **Timezone:** GMT+13 winter / GMT+12 summer <small>· US East: async only · Central Europe: async only</small>

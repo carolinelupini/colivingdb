@@ -8,6 +8,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=16097278363319561127&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (51 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared, dorm
 - **Dorm available:** Yes
+- **Vibe:** Peaceful environment to relax or focus, affordable and eco-conscious
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+4 <small>· US East: async only · Central Europe: full workday overlap</small>

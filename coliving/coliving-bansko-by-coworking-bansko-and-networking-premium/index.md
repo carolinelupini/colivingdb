@@ -8,6 +8,8 @@
 - **Rating:** <a href="https://maps.google.com/?cid=16818103848329621620&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (112 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 300 Mbps <small>· operator-reported</small>
+- **Vibe:** Fully integrated environment where work, lifestyle, and social connect
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

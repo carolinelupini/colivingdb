@@ -8,6 +8,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=9045108859957082813&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.1 (71 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** More than a loft — a space to live, connect and enjoy
 - **Minimum stay:** 1 night
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>

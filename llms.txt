@@ -1,11 +1,11 @@
 # colivingDB
 
-> A free, curated directory of 641 colivings worldwide — one map, native-currency pricing, no login and no email wall. Covers permanent colivings and dated pop-up editions across 83 countries. Last updated July 11, 2026.
+> A free, curated directory of 638 colivings worldwide — one map, native-currency pricing, no login and no email wall. Covers permanent colivings and dated pop-up editions across 83 countries. Last updated July 11, 2026.
 
 colivingDB is built and maintained by Caroline Lupini, a full-time digital nomad since 2014 who has lived and worked across more than a hundred countries. Listings are nomad-style colivings (shared living plus community, usually with coworking) — not student housing or urban rent-by-the-room operators. Every listing links to the operator's own site. Dead links are audited and removed.
 
 Key facts:
-- 641 colivings, 83 countries
+- 638 colivings, 83 countries
 - 68 dated pop-up editions (traveling programs, cruises, camps)
 - Prices from €40 to €6,882 per month
 - Filters: country, city, room type, minimum stay, price, pop-up month, currency
@@ -15,14 +15,14 @@ Key facts:
 - [All colivings](/llms-colivings.md): the full listing index
 
 ## Top destinations
-- [Coliving in Spain](/country/spain/index.md): 102 colivings
+- [Coliving in Spain](/country/spain/index.md): 100 colivings
 - [Coliving in Portugal](/country/portugal/index.md): 70 colivings
 - [Coliving in Italy](/country/italy/index.md): 32 colivings
 - [Coliving in Mexico](/country/mexico/index.md): 31 colivings
-- [Coliving in Indonesia](/country/indonesia/index.md): 21 colivings
 - [Coliving in Thailand](/country/thailand/index.md): 21 colivings
 - [Coliving in United States](/country/united-states/index.md): 21 colivings
 - [Coliving in South Africa](/country/south-africa/index.md): 20 colivings
+- [Coliving in Indonesia](/country/indonesia/index.md): 20 colivings
 - [Coliving in Colombia](/country/colombia/index.md): 20 colivings
 - [Coliving in France](/country/france/index.md): 15 colivings
 - [Coliving in Sri Lanka](/country/sri-lanka/index.md): 13 colivings

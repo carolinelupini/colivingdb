@@ -9,6 +9,8 @@
 - **Rating:** <a href="https://maps.google.com/?cid=3607568290422296719&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (103 reviews)</a> <small>· Google</small>
 - **Room types:** shared
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 1000 Mbps <small>· operator-reported</small>
+- **Vibe:** Artistic nature sanctuary for creative, conscious digital nomads
 - **Minimum stay:** 1 night
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>

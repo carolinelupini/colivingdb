@@ -8,6 +8,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=9611710269797198987&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (102 reviews)</a> <small>· Google</small>
 - **Room types:** private, studio
 - **Dorm available:** No
+- **Vibe:** Live free, stay flexible, connect with community
 - **Community size:** Platform lists multiple properties in the Roma/Condesa area, individual property capacities ranging from up to 4 to up to 33 guests
 - **Minimum stay:** —
 - **Region:** Latin America

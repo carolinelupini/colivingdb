@@ -9,6 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=18000937719135426810&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (39 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** Relaxed, social, community-focused beach resort experience
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Asia
 - **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>

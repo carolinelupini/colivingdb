@@ -9,6 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=2206928081587629019&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (106 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** Yes
+- **Vibe:** Cozy, creative farmhouse retreat to relax, work, and create
 - **Minimum stay:** 6 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

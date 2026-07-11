@@ -9,6 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=238071114496075301&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (77 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** Calm, warm, comfortable coliving with escape possibilities
 - **Minimum stay:** 28 nights (~4 weeks)
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>

@@ -32,6 +32,11 @@ tr:last-child td{border-bottom:none}
 .pfgrid{display:grid;grid-template-columns:repeat(var(--pfc,4),minmax(0,1fr));gap:10px;margin:8px 0 22px}
 @media(max-width:680px){.pfgrid{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:400px){.pfgrid{grid-template-columns:1fr}}
+.minimap{display:block;position:relative;border:1px solid #e5e9f0;border-radius:12px;overflow:hidden;margin:0 0 22px;max-width:768px}
+.mm-tiles{display:flex;position:relative;filter:saturate(.9);width:768px;margin-left:calc(50% - 384px)}
+.mm-tiles img{display:block;flex:0 0 256px}
+.mm-dot{position:absolute;width:14px;height:14px;margin:-7px 0 0 -7px;border-radius:50%;background:#0e7c66;border:2.5px solid #fff;box-shadow:0 1px 4px rgba(20,40,80,.45)}
+.mm-attr{position:absolute;right:6px;bottom:4px;font-size:.64rem;color:#4b5563;background:rgba(255,255,255,.75);padding:1px 5px;border-radius:4px}
 .tdwhy{margin:6px 0 18px;font-size:.96rem}
 .tdgroup{margin:0 0 14px;padding-bottom:13px;border-bottom:1px solid #eef1f6}
 .tdgroup:last-of-type{border-bottom:none}

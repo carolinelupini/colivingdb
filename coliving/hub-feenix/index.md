@@ -9,6 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=14618826128695785252&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (56 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Vibe:** Creative sanctuary for artists, healers, and nomads in nature
 - **Minimum stay:** 14 nights (~2 weeks)
 - **Region:** Europe
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

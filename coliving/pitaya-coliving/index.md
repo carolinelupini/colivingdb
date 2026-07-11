@@ -9,6 +9,8 @@
 - **Rating:** <a href="https://maps.google.com/?cid=15454123467459709974&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (64 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 300 Mbps <small>· operator-reported</small>
+- **Vibe:** Lively, friendly environment where remote workers and travelers connect
 - **Minimum stay:** 10 nights
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>

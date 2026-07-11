@@ -9,6 +9,8 @@
 - **Rating:** <a href="https://maps.google.com/?cid=11111089401603546847&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (72 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 25 Mbps <small>· operator-reported</small>
+- **Vibe:** Old-world colonial charm meets contemporary comfort and culture
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>

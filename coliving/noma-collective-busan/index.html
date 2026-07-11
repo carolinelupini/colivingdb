@@ -32,6 +32,11 @@ tr:last-child td{border-bottom:none}
 .pfgrid{display:grid;grid-template-columns:repeat(var(--pfc,4),minmax(0,1fr));gap:10px;margin:8px 0 22px}
 @media(max-width:680px){.pfgrid{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:400px){.pfgrid{grid-template-columns:1fr}}
+.minimap{display:block;position:relative;border:1px solid #e5e9f0;border-radius:12px;overflow:hidden;margin:0 0 22px;max-width:768px}
+.mm-tiles{display:flex;position:relative;filter:saturate(.9);width:768px;margin-left:calc(50% - 384px)}
+.mm-tiles img{display:block;flex:0 0 256px}
+.mm-dot{position:absolute;width:14px;height:14px;margin:-7px 0 0 -7px;border-radius:50%;background:#0e7c66;border:2.5px solid #fff;box-shadow:0 1px 4px rgba(20,40,80,.45)}
+.mm-attr{position:absolute;right:6px;bottom:4px;font-size:.64rem;color:#4b5563;background:rgba(255,255,255,.75);padding:1px 5px;border-radius:4px}
 .tdwhy{margin:6px 0 18px;font-size:.96rem}
 .tdgroup{margin:0 0 14px;padding-bottom:13px;border-bottom:1px solid #eef1f6}
 .tdgroup:last-of-type{border-bottom:none}
@@ -117,9 +122,10 @@ header.site select{margin-left:auto;font:inherit;font-size:.84rem;padding:6px 9p
 <h1>Noma Collective — Busan</h1>
 <p class="lede">Coliving in Busan, South Korea · from $3,490 per event</p>
 <div class="tagrow"></div>
-<a class="cta" href="https://www.noma-collective.com/editions/south-korea-busan-2027" target="_blank" rel="nofollow noopener">Visit Noma Collective — Busan →</a>
+<a class="cta" href="https://www.noma-collective.com/editions/south-korea-busan-2027" target="_blank" rel="sponsored noopener">Visit Noma Collective — Busan →</a>
 <div class="facts"><dl><dt>Location</dt><dd>Busan, South Korea</dd><dt>Type</dt><dd>Pop-up / dated edition</dd><dt>Dates</dt><dd>Jun 20 - Jul 18, 2027</dd><dt>Price</dt><dd>from <span class="m" data-a="3490" data-c="USD">$3,490</span> per event</dd><dt>Price note</dt><dd>pp, all fees and taxes included</dd><dt>Room types</dt><dd>—</dd><dt>Dorm available</dt><dd>No</dd><dt>Minimum stay</dt><dd>—</dd><dt>Region</dt><dd>Asia</dd><dt>Timezone</dt><dd>GMT+9 <small>· US East: async only · Central Europe: your evenings</small></dd></dl></div>
 <div class="hubsignup compact"><div class="sg-txt"><h3>New colivings in your inbox</h3><p>New spaces + upcoming pop-ups, monthly.</p></div><iframe src="https://subscribe-forms.beehiiv.com/e2050a21-3afe-41f0-a9de-132528b8cda6?utm_source=colivingdb&amp;utm_medium=seo&amp;utm_campaign=coliving-noma-collective-busan" title="Subscribe to colivingDB" loading="lazy" scrolling="no"></iframe></div>
+<a class="minimap" href="https://www.openstreetmap.org/?mlat=35.1796&amp;mlon=129.0756#map=11/35.1796/129.0756" target="_blank" rel="noopener" aria-label="Map of Noma Collective — Busan"><span class="mm-tiles"><img src="https://tile.openstreetmap.org/10/878/404.png" alt="" loading="lazy" width="256" height="256"><img src="https://tile.openstreetmap.org/10/879/404.png" alt="" loading="lazy" width="256" height="256"><img src="https://tile.openstreetmap.org/10/880/404.png" alt="" loading="lazy" width="256" height="256"><span class="mm-dot" style="left:294px;top:251px"></span></span><span class="mm-attr">© OpenStreetMap</span></a>
 
 <h2>What’s included</h2><ul class="inclist"><li>Fully-equipped accommodation</li><li>Airport transfers</li><li>eSIM with data</li><li>High-speed wifi</li><li>Community Slack access</li><li>Onsite community manager</li><li>Curated community program</li><li>Coworking space access</li><li>No extra membership fees</li></ul>
 <h2>Not included</h2><ul class="exclist"><li>Travel/health insurance</li><li>Food &amp; beverages</li><li>Flights</li><li>Excursions</li><li>Wellness activities</li></ul>

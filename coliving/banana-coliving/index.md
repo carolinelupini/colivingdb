@@ -9,6 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=15484336006979637128&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.2 (46 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
+- **Vibe:** Rebuilding community and connection in the busy, alienated city
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Asia
 - **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>

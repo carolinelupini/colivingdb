@@ -9,6 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=8200057763659014504&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (57 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
+- **Vibe:** Work, Surf, Connect — digital nomad tribe by the beach
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Africa
 - **Timezone:** GMT+1 <small>· US East: good overlap · Central Europe: full workday overlap</small>

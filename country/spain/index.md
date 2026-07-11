@@ -1,6 +1,6 @@
 # Coliving in Spain
 
-> 102 colivings in Spain, prices from €71 to €2,600 per month – last updated July 11, 2026.
+> 100 colivings in Spain, prices from €71 to €2,600 per month – last updated July 11, 2026.
 
 ## All colivings
 
@@ -26,7 +26,6 @@
 | Cactus Coliving La Gomera | San Sebastián de La Gomera | from €690/mo | 4.7 (55) | private, shared | 13 nights | Permanent |
 | FEM Coliving | Sant Joan de les Abadesses | from €690/mo | 5.0 (85) | private | 30 nights (~1 month) | Permanent |
 | Sun and Co. | Jávea | from €690/mo | — | private, shared | — | Permanent |
-| Hub Fuerteventura | Corralejo, Fuerteventura | from €700/mo | 4.5 (30) | private, shared | — | Permanent |
 | Coliving Compostela | Santiago de Compostela | from €720/mo | 4.7 (91) | private | 15 nights | Permanent |
 | Ikigai Coliving | Puerto de la Cruz, Tenerife | from €728/mo | 4.9 (97) | private | — | Permanent |
 | Nomadico Coliving Tarifa | Tarifa | from €737/mo | 5.0 (20) | private, shared | — | Permanent |
@@ -86,7 +85,6 @@
 | Repeople Casa Vera Coliving | Las Palmas de Gran Canaria | from €1,677/mo | — | private | — | Permanent |
 | Repeople Casanova Coliving | Las Palmas de Gran Canaria | from €1,677/mo | 5.0 (2) | private | — | Permanent |
 | Outsite Barcelona - Gothic Quarter | Barcelona | from €1,700/mo | 4.8 (25) | private, shared | — | Permanent |
-| Villa Armadans (Palma Coliving Mallorca) | Palma de Mallorca | from €1,650/mo | 4.7 (114) | private | 14 nights (~2 weeks) | Permanent |
 | SOMOS Coliving Palma de Mallorca | Palma de Mallorca | from €1,800/mo | 5.0 (5) | private | 30 nights (~1 month) | Permanent |
 | Boundless Life — Andalusia (Malaga area) | Andalusia (Malaga area) | from €2,600/mo | — | — | — | Pop-up |
 | Amarilla Co-living | San Miguel de Abona, Tenerife | On request | 4.6 (293) | private, shared | — | Permanent |
@@ -114,9 +112,9 @@
 | Band (EUR/mo) | Colivings |
 |---|---|
 | 0–500 | 6 |
-| 500–800 | 27 |
+| 500–800 | 26 |
 | 800–1200 | 35 |
-| 1200–2000 | 14 |
+| 1200–2000 | 13 |
 | 2000–∞ | 1 |
 
 ## Upcoming pop-ups

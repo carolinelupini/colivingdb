@@ -9,6 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=9413628200047518598&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (94 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
+- **Vibe:** Travel like living in a coliving space, immersive local experiences for digital nomads
 - **Minimum stay:** 5 nights
 - **Region:** Asia
 - **Timezone:** GMT+9 <small>· US East: async only · Central Europe: your evenings</small>

@@ -1,6 +1,6 @@
 # Coliving in Indonesia
 
-> 21 colivings in Indonesia, prices from €363 to €1,500 per month – last updated July 11, 2026.
+> 20 colivings in Indonesia, prices from €363 to €1,500 per month – last updated July 11, 2026.
 
 ## All colivings
 
@@ -25,7 +25,6 @@
 | Dream Cowork Hotel Lombok | Kuta Lombok | On request | 4.1 (402) | private, dorm | — | Permanent |
 | Markaz Collective Space | Bandung | On request | 4.7 (96) | — | — | Permanent |
 | Outsite Bali - Pererenan | Pererenan, Bali | On request | 4.4 (80) | private, shared | — | Permanent |
-| Parq Ubud | Ubud, Bali | On request | 4.4 (1727) | private | — | Permanent |
 | Tribal Bali | Pererenan | On request | 4.6 (675) | private, dorm | — | Permanent |
 
 ## Price distribution

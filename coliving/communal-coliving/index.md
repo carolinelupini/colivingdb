@@ -9,6 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=12416010899305160988&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (33 reviews)</a> <small>· Google</small>
 - **Room types:** dorm, shared, private
 - **Dorm available:** Yes
+- **Vibe:** Not just a place to stay — a place to become
 - **Minimum stay:** 6 nights
 - **Region:** Asia
 - **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>

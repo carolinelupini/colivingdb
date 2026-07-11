@@ -9,6 +9,8 @@
 - **Rating:** <a href="https://maps.google.com/?cid=5488928398457861458&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.1 (47 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 100 Mbps <small>· operator-reported</small>
+- **Vibe:** Life in color, coffee, and culture
 - **Minimum stay:** —
 - **Region:** North America
 - **Timezone:** GMT-8 winter / GMT-7 summer <small>· US East: good overlap · Central Europe: async only</small>

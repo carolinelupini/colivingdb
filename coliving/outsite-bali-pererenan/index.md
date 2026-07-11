@@ -9,6 +9,8 @@
 - **Rating:** <a href="https://maps.google.com/?cid=10972731723863793096&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (80 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 91 Mbps <small>· operator-reported</small>
+- **Vibe:** Tranquil tropical retreat, true Balinese paradise surrounded by palm trees and rice terraces
 - **Minimum stay:** —
 - **Region:** Asia
 - **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>

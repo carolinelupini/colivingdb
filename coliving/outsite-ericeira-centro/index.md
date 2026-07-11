@@ -9,6 +9,8 @@
 - **Rating:** <a href="https://maps.google.com/?cid=16125967481152168657&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (34 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 94 Mbps <small>· operator-reported</small>
+- **Vibe:** Modern surf lodge for slow mornings and sunset evenings
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>

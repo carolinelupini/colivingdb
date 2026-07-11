@@ -9,6 +9,8 @@
 - **Rating:** <a href="https://maps.google.com/?cid=9442416139873896520&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (104 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 200 Mbps <small>· operator-reported</small>
+- **Vibe:** Lively, diverse atmosphere blending modern convenience with local charm
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Asia
 - **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>

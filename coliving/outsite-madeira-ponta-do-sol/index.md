@@ -9,6 +9,8 @@
 - **Rating:** <a href="https://maps.google.com/?cid=4428569332834909216&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (119 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 101 Mbps <small>· operator-reported</small>
+- **Vibe:** Oceanfront coliving in Madeira's nomad village
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>

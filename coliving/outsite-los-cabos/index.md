@@ -9,6 +9,8 @@
 - **Rating:** <a href="https://maps.google.com/?cid=7642853946441803998&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (52 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 90 Mbps <small>· operator-reported</small>
+- **Vibe:** Relaxed Baja hideaway with greenery and sunshine
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Timezone:** GMT-7 <small>· US East: good overlap · Central Europe: async only</small>

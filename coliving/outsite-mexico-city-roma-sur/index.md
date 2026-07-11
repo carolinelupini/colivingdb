@@ -9,6 +9,8 @@
 - **Rating:** <a href="https://maps.google.com/?cid=5945112988496100986&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (79 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 200 Mbps <small>· operator-reported</small>
+- **Vibe:** Modern loft-style apartments in a leafy nomad-hotspot neighborhood
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>

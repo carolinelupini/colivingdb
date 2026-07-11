@@ -9,6 +9,8 @@
 - **Rating:** <a href="https://maps.google.com/?cid=270151437617966294&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (125 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 200 Mbps <small>· operator-reported</small>
+- **Vibe:** Arrive as a guest, leave as a friend
 - **Minimum stay:** 31 nights
 - **Region:** Europe
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

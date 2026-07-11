@@ -9,6 +9,8 @@
 - **Rating:** <a href="https://maps.google.com/?cid=8182753275030953318&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (29 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 114 Mbps <small>· operator-reported</small>
+- **Vibe:** Jungle behind, ocean ahead, strong WiFi throughout
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>

@@ -9,6 +9,8 @@
 - **Rating:** <a href="https://maps.google.com/?cid=13628439924642064845&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (85 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 1000 Mbps <small>· operator-reported</small>
+- **Vibe:** Lively, creative and innovative atmosphere in a rural mountain setting
 - **Minimum stay:** 30 nights (~1 month)
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

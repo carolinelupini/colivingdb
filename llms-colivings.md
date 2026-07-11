@@ -1,6 +1,6 @@
 # colivingDB — all colivings
 
-> 641 listings. Last updated July 11, 2026.
+> 638 listings. Last updated July 11, 2026.
 
 | Coliving | City | Country | Price from | Min stay | Type |
 |---|---|---|---|---|---|
@@ -174,7 +174,6 @@
 | [Outpost Ubud Nyuh Kuning](/coliving/outpost-ubud-nyuh-kuning/index.md) | Ubud, Bali | Indonesia | from $849/mo | 14 nights (~2 weeks) | Permanent |
 | [Outpost Ubud Penestanan](/coliving/outpost-ubud-penestanan/index.md) | Ubud, Bali | Indonesia | from $849/mo | 14 nights (~2 weeks) | Permanent |
 | [Outsite Bali - Pererenan](/coliving/outsite-bali-pererenan/index.md) | Pererenan, Bali | Indonesia | On request | — | Permanent |
-| [Parq Ubud](/coliving/parq-ubud/index.md) | Ubud, Bali | Indonesia | On request | — | Permanent |
 | [Sokkool Coliving & Coworking](/coliving/sokkool-coliving-and-coworking/index.md) | Canggu (Berawa), Bali | Indonesia | from IDR 616,000/mo | 7 nights (~1 week) | Permanent |
 | [The Sunset II](/coliving/the-sunset-ii/index.md) | Kuta | Indonesia | from $588/mo | 30 nights (~1 month) | Permanent |
 | [The Sunset III](/coliving/the-sunset-iii/index.md) | Kuta | Indonesia | from $573/mo | 30 nights (~1 month) | Permanent |
@@ -482,7 +481,6 @@
 | [Growth Coliving](/coliving/growth-coliving/index.md) | Pousa, Galicia | Spain | from €475/mo | 16 nights | Permanent |
 | [Hamlet's Friends](/coliving/hamlet-s-friends/index.md) | Nuño Gómez, Toledo | Spain | from €540/mo | 28 nights (~4 weeks) | Permanent |
 | [Hostel Kahlo](/coliving/hostel-kahlo/index.md) | Sierro, Almeria (Andalucia) | Spain | On request | — | Permanent |
-| [Hub Fuerteventura](/coliving/hub-fuerteventura/index.md) | Corralejo, Fuerteventura | Spain | from €700/mo | — | Permanent |
 | [Ikigai Coliving](/coliving/ikigai-coliving/index.md) | Puerto de la Cruz, Tenerife | Spain | from €728/mo | — | Permanent |
 | [Kalart](/coliving/kalart/index.md) | Montseny Valley, Catalonia | Spain | from €1,020/mo | 30 nights (~1 month) | Permanent |
 | [Kalima Beach Life](/coliving/kalima-beach-life/index.md) | Caldes d'Estrac (Barcelona) | Spain | from €780/mo | — | Permanent |
@@ -536,7 +534,6 @@
 | [Tulia Guesthouse](/coliving/tulia-guesthouse/index.md) | Los Realejos | Spain | On request | — | Permanent |
 | [Tursi Digital Nomads — Tenerife (Canary Islands)](/coliving/tursi-digital-nomads-tenerife-canary-islands/index.md) | Tenerife (Canary Islands) | Spain | from €400 per event | — | Pop-up |
 | [VIU Sagrada Familia](/coliving/viu-sagrada-familia/index.md) | Barcelona | Spain | from €1,000/mo | 28 nights (~4 weeks) | Permanent |
-| [Villa Armadans (Palma Coliving Mallorca)](/coliving/villa-armadans-palma-coliving-mallorca/index.md) | Palma de Mallorca | Spain | from €1,650/mo | 14 nights (~2 weeks) | Permanent |
 | [Villa Huerta (Palma Coliving Valencia)](/coliving/villa-huerta-palma-coliving-valencia/index.md) | Valencia | Spain | from €960/mo | 30 nights (~1 month) | Permanent |
 | [Vivarium Coliving & Coworking](/coliving/vivarium-coliving-and-coworking/index.md) | Valencia | Spain | from €985/mo | 31 nights | Permanent |
 | [WiFi Tribe — Gran Canaria](/coliving/wifi-tribe-gran-canaria/index.md) | Gran Canaria | Spain | from $1,390/mo | — | Pop-up |

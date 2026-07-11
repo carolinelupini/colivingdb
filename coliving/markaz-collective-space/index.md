@@ -8,6 +8,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=17023423768495452142&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (96 reviews)</a> <small>· Google</small>
 - **Room types:** —
 - **Dorm available:** No
+- **Vibe:** Live, work and play in an inspiring hospitality concept
 - **Minimum stay:** —
 - **Region:** Asia
 - **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>

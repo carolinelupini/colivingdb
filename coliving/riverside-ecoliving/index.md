@@ -9,6 +9,8 @@
 - **Rating:** <a href="https://maps.google.com/?cid=7759247963985367314&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (100 reviews)</a> <small>· Google</small>
 - **Room types:** —
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 100 Mbps <small>· operator-reported</small>
+- **Vibe:** Exotic paradise in nature with a lively, friendly vibe
 - **Minimum stay:** 1 night
 - **Region:** Latin America
 - **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>

@@ -9,6 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=9998611476335671694&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (86 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
+- **Vibe:** Surf town buzz with built-in community and dedicated remote-work setups
 - **Minimum stay:** 7 nights (~1 week)
 - **Region:** Africa
 - **Timezone:** GMT+1 <small>· US East: good overlap · Central Europe: full workday overlap</small>
