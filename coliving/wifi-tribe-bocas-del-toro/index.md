@@ -7,7 +7,7 @@
 - **Dates:** Sep 11 - Oct 9, 2026
 - **Price:** from $2,990/mo
 - **Price note:** coliving accommodation (couples-sharing room, Veteran tier) for the month-long chapter
-- **Room types:** private
+- **Room types:** private, shared
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 360 Mbps <small>· operator-reported</small>
 - **Vibe:** Waterfront island-archipelago chapter with a 'split personality' — peaceful, chill beach life by day balanced with backpacker party culture (including the 'infamous Filthy Friday').

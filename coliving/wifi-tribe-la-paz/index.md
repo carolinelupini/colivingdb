@@ -12,7 +12,7 @@
 - **Wi-Fi (on-site):** 400 Mbps <small>· operator-reported</small>
 - **Vibe:** Peaceful mountain-retreat chapter in the Andes outside La Paz — slower rhythm, deep focused work during the week, big adventures (Uyuni salt flats, Death Road) on weekends.
 - **Minimum stay:** 28 nights (~4 weeks)
-- **Region:** Europe
+- **Region:** Latin America
 - **Timezone:** GMT-4 <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Elevation:** 3,767 m — expect a few days of altitude adjustment
 - **Second guest:** In a private room each guest pays the shared-room rate — a private room fits one or two people for the same total, so a couple pays the same as booking two shared spots. Solo travellers can book a private room at the private rate.

@@ -11,7 +11,7 @@
 - **Dorm available:** No
 - **Vibe:** A slower-paced Caribbean retreat edition emphasizing calm and fewer distractions, balancing deep work with genuine rest and community connection.
 - **Minimum stay:** —
-- **Region:** Europe
+- **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Included:** Fully-equipped accommodation, Airport transfers, eSIM with data, High-speed wifi, Community Slack access, Onsite community manager, Curated community program, No extra membership fees
 - **Not included:** Travel/health insurance, Food & beverages, Flights, Excursions, Wellness activities

@@ -33,7 +33,7 @@
 | [Malta](/country/malta/index.md) | 5 | €420 |
 | [Norway](/country/norway/index.md) | 5 | €522 |
 | [Serbia](/country/serbia/index.md) | 5 | €297 |
-| [Tanzania](/country/tanzania/index.md) | 5 | €1,217 |
+| [Tanzania](/country/tanzania/index.md) | 5 | €1,219 |
 | [United Kingdom](/country/united-kingdom/index.md) | 5 | €470 |
 | [Egypt](/country/egypt/index.md) | 4 | €167 |
 | [Kenya](/country/kenya/index.md) | 4 | €500 |
@@ -63,7 +63,7 @@
 | [United Arab Emirates](/country/united-arab-emirates/index.md) | 2 | €238 |
 | [Albania](/country/albania/index.md) | 1 | €700 |
 | [Armenia](/country/armenia/index.md) | 1 | — |
-| [Bolivia](/country/bolivia/index.md) | 1 | €1,042 |
+| [Bolivia](/country/bolivia/index.md) | 1 | €1,043 |
 | [Cape Verde](/country/cape-verde/index.md) | 1 | — |
 | [Chile](/country/chile/index.md) | 1 | — |
 | [Czechia](/country/czechia/index.md) | 1 | — |
@@ -78,10 +78,10 @@
 | [Multiple (Colombia, Mexico)](/country/multiple-colombia-mexico/index.md) | 1 | €337 |
 | [Netherlands](/country/netherlands/index.md) | 1 | €1,700 |
 | [Nigeria](/country/nigeria/index.md) | 1 | — |
-| [North Macedonia](/country/north-macedonia/index.md) | 1 | €1,042 |
-| [Peru](/country/peru/index.md) | 1 | €954 |
-| [Scotland (UK)](/country/scotland-uk/index.md) | 1 | €1,480 |
-| [Seychelles](/country/seychelles/index.md) | 1 | €1,392 |
+| [North Macedonia](/country/north-macedonia/index.md) | 1 | €1,043 |
+| [Peru](/country/peru/index.md) | 1 | €956 |
+| [Scotland (UK)](/country/scotland-uk/index.md) | 1 | €1,482 |
+| [Seychelles](/country/seychelles/index.md) | 1 | €1,394 |
 | [Singapore](/country/singapore/index.md) | 1 | €1,800 |
 | [Slovenia](/country/slovenia/index.md) | 1 | €420 |
 | [Svalbard (Norway)](/country/svalbard-norway/index.md) | 1 | — |

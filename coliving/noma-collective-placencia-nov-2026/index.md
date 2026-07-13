@@ -11,7 +11,7 @@
 - **Dorm available:** No
 - **Vibe:** Unhurried coastal Belize retreat balancing deep work and genuine rest, emphasizing slower pace, nature immersion, and community connection.
 - **Minimum stay:** —
-- **Region:** Europe
+- **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Included:** Airport transfer, Fully-equipped accommodation, eSIM with data, Private Slack community, High-speed wifi, Community manager, Curated community program, No extra membership fees
 - **Not included:** Travel/health insurance, Food & beverage, Flights, Excursions, Wellness activities

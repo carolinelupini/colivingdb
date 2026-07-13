@@ -1,6 +1,6 @@
 # Coliving in Brazil
 
-> 12 colivings in Brazil, prices from €238 to €1,129 per month – last updated July 13, 2026.
+> 12 colivings in Brazil, prices from €238 to €1,131 per month – last updated July 13, 2026.
 
 ## All colivings
 

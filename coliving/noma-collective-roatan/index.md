@@ -11,7 +11,7 @@
 - **Dorm available:** No
 - **Vibe:** 'Settle into island life in the Caribbean as you connect with fellow entrepreneurs, remote professionals, and builders inside a forward-thinking, international community.'
 - **Minimum stay:** —
-- **Region:** Europe
+- **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Included:** Airport transfer, Fully-equipped accommodation, eSIM with data, Private Slack community, High-speed wifi, Community manager, Curated community program, No extra membership fees
 - **Not included:** Travel/health insurance, Food & beverage, Flights, Excursions, Wellness activities

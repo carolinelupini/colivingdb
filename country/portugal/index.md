@@ -22,7 +22,7 @@
 | Outsite Ericeira - Centro | Ericeira | from €800/mo | 4.7 (34) | private | — | Permanent |
 | Outsite Lisbon - Cais do Sodre | Lisbon | from €800/mo | 4.5 (175) | private | 2 nights | Permanent |
 | samesame co-living | Lisbon | from €800/mo | 4.8 (84) | private | 8 nights | Permanent |
-| WiFi Tribe — Porto | Porto | from $2,490/mo | — | private | 28 nights (~4 weeks) | Pop-up |
+| WiFi Tribe — Porto | Porto | from $2,490/mo | — | private, shared | 28 nights (~4 weeks) | Pop-up |
 | Colive Madeira | Ponta do Sol, Madeira | from €900/mo | — | private, shared | — | Permanent |
 | A ver o Mar 1 | Coliving & Coworking | Funchal, Madeira | Ponta do Sol | from €920/mo | 4.6 (51) | private, dorm | 14 nights (~2 weeks) | Permanent |
 | Casa15 Azores | Sao Miguel, Azores | from €950/mo | — | private | — | Permanent |

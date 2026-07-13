@@ -7,7 +7,7 @@
 - **Dates:** Jul 3 - 31, 2026
 - **Price:** from $2,490/mo
 - **Price note:** apartment accommodation (shared room, Veteran tier) + coworking for the month-long chapter
-- **Room types:** private
+- **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 28 nights (~4 weeks)
 - **Region:** Europe

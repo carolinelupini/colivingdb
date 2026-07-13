@@ -11,7 +11,7 @@
 - **Dorm available:** No
 - **Vibe:** Laid-back Caribbean coastal edition blending adventure (diving, jungle, Mayan ruins) with community activities and calm evenings
 - **Minimum stay:** —
-- **Region:** Europe
+- **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Included:** Accommodation (shared/private/apartment), Wifi + local SIM, Shared co-working spaces, Pool + ocean access, On-site restaurant, bars, pizza hut, Kayaks, paddleboards, bikes, shuttle, Airport transfer, Community manager, Alumni network access
 - **Not included:** Travel/health insurance, Flights, Food & beverage, Optional activities (Mayan ruins, catamaran cruise, diving), Gym access

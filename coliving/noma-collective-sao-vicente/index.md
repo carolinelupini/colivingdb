@@ -11,7 +11,7 @@
 - **Dorm available:** No
 - **Vibe:** Vibrant, culturally immersive travel-coliving edition centered on Cape Verde's music scene, volcano hikes, and authentic island discovery.
 - **Minimum stay:** —
-- **Region:** Europe
+- **Region:** Africa
 - **Timezone:** GMT-1 <small>· US East: good overlap · Central Europe: good overlap</small>
 - **Included:** Preloaded eSIM, Onsite community manager, Laundry, AC, fans, pool, Onsite bar, restaurant, beach club, Apartment workspace, Airport transfers, Alumni network access
 - **Not included:** Travel/health insurance, Excursions (coming soon), Flights, Food & beverage

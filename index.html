@@ -91,6 +91,8 @@
   .controls-box select{min-width:0;}
 
   #map{height:38vh; min-height:250px; z-index:1; max-width:var(--wrap); margin:16px auto 0; border-radius:12px; overflow:hidden; border:1px solid var(--line);}
+  /* ocean colour so any not-yet-tiled area reads as sea, never a grey band */
+  #map, .leaflet-container{background:#aad3df;}
   .map-legend{background:rgba(255,255,255,.93); border:1px solid var(--line); border-radius:8px; padding:6px 10px; font-size:.74rem; color:var(--ink); display:flex; gap:13px; box-shadow:0 1px 4px rgba(20,40,80,.12);}
   .map-legend span{display:flex; align-items:center; gap:5px;}
   .map-legend i{width:10px; height:10px; border-radius:50%; display:inline-block; border:1.5px solid rgba(0,0,0,.15);}
@@ -804,6 +806,8 @@ map.attributionControl.setPrefix(false);   // drop the "Leaflet" prefix (BSD-2: 
 // Leaflet measures its container at init; if fonts/layout are still settling the map renders at
 // the wrong size (grey band / squeezed world). Re-measure on load and on any container resize.
 window.addEventListener("load", ()=>map.invalidateSize());
+requestAnimationFrame(()=>map.invalidateSize());   // re-measure once the first layout is painted
+setTimeout(()=>map.invalidateSize(), 400);         // and after fonts/late layout settle
 if(window.ResizeObserver) new ResizeObserver(()=>map.invalidateSize()).observe(document.getElementById("map"));
 // OpenStreetMap attribution IS required (ODbL + tile usage policy) — keep "contributors" + link.
 L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",{attribution:'© colivingDB · © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> contributors', maxZoom:18}).addTo(map);

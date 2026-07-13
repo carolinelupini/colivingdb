@@ -1,6 +1,6 @@
 # Coliving in Lake Ohrid, North Macedonia
 
-> 1 colivings in Lake Ohrid, North Macedonia, prices from €1,042 to €1,042 per month – last updated July 13, 2026.
+> 1 colivings in Lake Ohrid, North Macedonia, prices from €1,043 to €1,043 per month – last updated July 13, 2026.
 
 ## All colivings
 

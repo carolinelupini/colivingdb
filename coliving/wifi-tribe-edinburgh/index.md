@@ -7,7 +7,7 @@
 - **Dates:** Jul 10 - Aug 7, 2026
 - **Price:** from $3,690/mo
 - **Price note:** furnished ensuite room (shared, Veteran tier) + coworking + gym/cinema access for the month-long chapter
-- **Room types:** private
+- **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 28 nights (~4 weeks)
 - **Region:** Europe
