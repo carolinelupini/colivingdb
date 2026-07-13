@@ -5,7 +5,7 @@
 - **Location:** Bocas del Toro, Panama
 - **Type:** Pop-up / dated edition
 - **Dates:** Sep 11 - Oct 9, 2026
-- **Price:** from $1,390/mo
+- **Price:** from $1,690/mo
 - **Price note:** coliving accommodation (couples-sharing room, Veteran tier) for the month-long chapter
 - **Room types:** private, shared
 - **Dorm available:** No
@@ -20,9 +20,9 @@
 
 ## Rates
 
-| Stay length | From |
-|---|---|
-| Per month | $1,390 |
+| Stay length | Private | Shared |
+|---|---|---|
+| Per month | $2,990 | $1,690 |
 
 WiFi Tribe — Bocas del Toro does not publish a nightly or weekly rate.
 

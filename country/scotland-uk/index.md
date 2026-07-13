@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| WiFi Tribe — Edinburgh | Edinburgh | from $1,690/mo | — | private, shared | 28 nights (~4 weeks) | Pop-up |
+| WiFi Tribe — Edinburgh | Edinburgh | from $2,090/mo | — | private, shared | 28 nights (~4 weeks) | Pop-up |
 
 ## Price distribution
 

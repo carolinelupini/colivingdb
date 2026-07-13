@@ -5,7 +5,7 @@
 - **Location:** Lake Ohrid, North Macedonia
 - **Type:** Pop-up / dated edition
 - **Dates:** Aug 7 - Sep 4, 2026
-- **Price:** from $1,190/mo
+- **Price:** from $1,590/mo
 - **Price note:** coliving accommodation (shared room, Veteran tier) for the month-long chapter
 - **Room types:** private, shared
 - **Dorm available:** No
@@ -21,7 +21,7 @@
 
 | Stay length | Private | Shared |
 |---|---|---|
-| Per month | $2,190 | $1,190 |
+| Per month | $2,790 | $1,590 |
 
 WiFi Tribe — Lake Ohrid does not publish a nightly or weekly rate.
 

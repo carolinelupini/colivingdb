@@ -5,7 +5,7 @@
 - **Location:** Weligama, Sri Lanka
 - **Type:** Pop-up / dated edition
 - **Dates:** Oct 16 - Nov 13, 2026
-- **Price:** from $1,290/mo
+- **Price:** from $1,690/mo
 - **Price note:** beachfront coliving accommodation (shared room, Veteran tier) + coworking + pool + communal kitchen for the month-long chapter
 - **Room types:** private, shared
 - **Dorm available:** No
@@ -22,7 +22,7 @@
 
 | Stay length | Private | Shared |
 |---|---|---|
-| Per month | $1,290 | $2,290 |
+| Per month | $2,890 | $1,690 |
 
 WiFi Tribe — Weligama does not publish a nightly or weekly rate.
 

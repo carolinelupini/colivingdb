@@ -5,7 +5,7 @@
 - **Location:** Bariloche, Argentina
 - **Type:** Pop-up / dated edition
 - **Dates:** Nov 20 - Dec 18, 2026
-- **Price:** from $1,290/mo
+- **Price:** from $1,690/mo
 - **Price note:** coliving home accommodation (shared room, Veteran tier) + coworking + shared dinners + weekend adventures for the month-long chapter
 - **Room types:** private, shared
 - **Dorm available:** No
@@ -21,7 +21,7 @@
 
 | Stay length | Private | Shared |
 |---|---|---|
-| Per month | $2,390 | $1,290 |
+| Per month | $2,990 | $1,690 |
 
 WiFi Tribe — Bariloche does not publish a nightly or weekly rate.
 

@@ -5,7 +5,7 @@
 - **Location:** La Paz, Bolivia
 - **Type:** Pop-up / dated edition
 - **Dates:** Oct 16 - Nov 13, 2026
-- **Price:** from $1,190/mo
+- **Price:** from $1,590/mo
 - **Price note:** coliving accommodation (shared room, Veteran tier) for the month-long chapter
 - **Room types:** private, shared
 - **Dorm available:** No
@@ -23,7 +23,7 @@
 
 | Stay length | Private | Shared |
 |---|---|---|
-| Per month | $2,090 | $1,190 |
+| Per month | $2,690 | $1,590 |
 
 WiFi Tribe — La Paz does not publish a nightly or weekly rate.
 

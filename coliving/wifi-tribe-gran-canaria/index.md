@@ -5,13 +5,13 @@
 - **Location:** Gran Canaria, Spain
 - **Type:** Pop-up / dated edition
 - **Dates:** Aug 7 - Sep 4, 2026
-- **Price:** from $1,390/mo
+- **Price:** from $1,790/mo
 - **Price note:** coliving accommodation (shared room, Veteran tier) + coworking + shared meals + community activities for the month-long chapter
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 1000 Mbps <small>· operator-reported</small>
 - **Vibe:** A chill, retreat-style monthly coliving chapter in Agaete's lush valley for values-vetted remote professionals, blending peaceful mountain-and-sea scenery with community coworking.
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 28 nights (~4 weeks)
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Second guest:** In a private room each guest pays the shared-room rate — a private room fits one or two people for the same total, so a couple pays the same as booking two shared spots. Solo travellers can book a private room at the private rate.
@@ -22,7 +22,7 @@
 
 | Stay length | Private | Shared |
 |---|---|---|
-| Per month | $2,390 | $1,390 |
+| Per month | $2,990 | $1,790 |
 
 WiFi Tribe — Gran Canaria does not publish a nightly or weekly rate.
 

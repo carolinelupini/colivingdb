@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| WiFi Tribe — Antigua | Antigua | from $1,090/mo | — | private, shared | 28 nights (~4 weeks) | Pop-up |
+| WiFi Tribe — Antigua | Antigua | from $1,790/mo | — | private, shared | 28 nights (~4 weeks) | Pop-up |
 
 ## Price distribution
 

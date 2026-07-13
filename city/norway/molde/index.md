@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| WiFi Tribe — Molde | Molde | from $2,390/mo | — | private, shared | 28 nights (~4 weeks) | Pop-up |
+| WiFi Tribe — Molde | Molde | from $2,990/mo | — | private | 28 nights (~4 weeks) | Pop-up |
 
 ## Price distribution
 

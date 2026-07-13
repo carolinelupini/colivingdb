@@ -19,7 +19,7 @@
 | Humant Coliving - Cancún, México | Cancún | from MXN 15,250/mo | 4.9 (178) | private, shared | 30 nights (~1 month) | Permanent |
 | Covive Casa Del Valle Norte | Mexico City | from MXN 15,250/mo | 4.1 (28) | private | 30 nights (~1 month) | Permanent |
 | The Sur II | Tulum | from $1,091/mo | — | private | 30 nights (~1 month) | Permanent |
-| WiFi Tribe — Puerto Escondido | Puerto Escondido | from $1,290/mo | — | private, shared | 28 nights (~4 weeks) | Pop-up |
+| WiFi Tribe — Puerto Escondido | Puerto Escondido | from $1,690/mo | — | private, shared | 28 nights (~4 weeks) | Pop-up |
 | Amplitude Coliving | Puerto Escondido (La Punta) | from €1,380/mo | 5.0 (75) | private | 1 night | Permanent |
 | COLIVING ROMA | Mexico City | On request | 4.8 (25) | private | — | Permanent |
 | Casa Iris Coliving | Santiago de Querétaro | from $220/wk | 4.9 (21) | private, shared | — | Permanent |

@@ -5,7 +5,7 @@
 - **Location:** Antigua, Guatemala
 - **Type:** Pop-up / dated edition
 - **Dates:** Nov 20 - Dec 18, 2026
-- **Price:** from $1,090/mo
+- **Price:** from $1,790/mo
 - **Price note:** coliving accommodation (shared room, Veteran tier) + coworking + communal meals + community activities for the month-long chapter
 - **Room types:** private, shared
 - **Dorm available:** No
@@ -20,9 +20,9 @@
 
 ## Rates
 
-| Stay length | From |
-|---|---|
-| Per month | $1,090 |
+| Stay length | Private | Shared |
+|---|---|---|
+| Per month | $2,990 | $1,790 |
 
 WiFi Tribe — Antigua does not publish a nightly or weekly rate.
 

@@ -5,9 +5,9 @@
 - **Location:** Molde, Norway
 - **Type:** Pop-up / dated edition
 - **Dates:** Jul 3 - 31, 2026
-- **Price:** from $2,390/mo
+- **Price:** from $2,990/mo
 - **Price note:** private room in shared apartment (Veteran tier; no shared-room option offered) + gym/canteen access for the month-long chapter
-- **Room types:** private, shared
+- **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Summer coliving chapter in Norway's fjord town of Molde for values-vetted remote professionals and entrepreneurs, pairing daytime coworking with kayaking, climbing, and fjord adventures.
 - **Minimum stay:** 28 nights (~4 weeks)
@@ -21,7 +21,7 @@
 
 | Stay length | Private |
 |---|---|
-| Per month | $2,390 |
+| Per month | $2,990 |
 
 WiFi Tribe — Molde does not publish a nightly or weekly rate.
 

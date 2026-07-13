@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| WiFi Tribe — Anse Royale | Anse Royale | from $1,590/mo | — | private, shared | 28 nights (~4 weeks) | Pop-up |
+| WiFi Tribe — Anse Royale | Anse Royale | from $1,990/mo | — | private, shared | 28 nights (~4 weeks) | Pop-up |
 
 ## Price distribution
 

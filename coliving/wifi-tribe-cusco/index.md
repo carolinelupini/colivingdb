@@ -5,7 +5,7 @@
 - **Location:** Cusco, Peru
 - **Type:** Pop-up / dated edition
 - **Dates:** Sep 11 - Oct 9, 2026
-- **Price:** from $1,090/mo
+- **Price:** from $1,490/mo
 - **Price note:** coliving accommodation (shared room, Veteran tier) for the month-long chapter
 - **Room types:** private, shared
 - **Dorm available:** No
@@ -19,9 +19,9 @@
 
 ## Rates
 
-| Stay length | From |
-|---|---|
-| Per month | $1,090 |
+| Stay length | Private | Shared |
+|---|---|---|
+| Per month | $2,790 | $1,490 |
 
 WiFi Tribe — Cusco does not publish a nightly or weekly rate.
 

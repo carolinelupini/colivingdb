@@ -8,7 +8,7 @@
 |---|---|---|---|---|---|---|
 | The Independencia | Buenos Aires | from $550/mo | — | private | 30 nights (~1 month) | Permanent |
 | The Chile | Buenos Aires | from $680/mo | — | private | 30 nights (~1 month) | Permanent |
-| WiFi Tribe — Bariloche | Bariloche | from $1,290/mo | — | private, shared | 28 nights (~4 weeks) | Pop-up |
+| WiFi Tribe — Bariloche | Bariloche | from $1,690/mo | — | private, shared | 28 nights (~4 weeks) | Pop-up |
 | Coliving Vibrant Buenos Aires | Buenos Aires | On request | 4.7 (44) | private | 7 nights (~1 week) | Permanent |
 | Draper Startup House Buenos Aires | Buenos Aires | On request | — | private, shared, dorm | — | Permanent |
 | Noma Collective — Buenos Aires | Buenos Aires | from $2,890 per event | — | — | — | Pop-up |

@@ -5,7 +5,7 @@
 - **Location:** Santa Teresa, Costa Rica
 - **Type:** Pop-up / dated edition
 - **Dates:** Oct 23 - Nov 20, 2026
-- **Price:** from $1,390/mo
+- **Price:** from $1,790/mo
 - **Price note:** coliving accommodation (shared room, Veteran tier) for the month-long chapter
 - **Room types:** private, shared
 - **Dorm available:** No
@@ -20,9 +20,9 @@
 
 ## Rates
 
-| Stay length | From |
-|---|---|
-| Per month | $1,390 |
+| Stay length | Private | Shared |
+|---|---|---|
+| Per month | $3,190 | $1,790 |
 
 WiFi Tribe — Santa Teresa does not publish a nightly or weekly rate.
 

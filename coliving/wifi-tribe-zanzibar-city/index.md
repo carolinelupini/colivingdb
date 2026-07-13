@@ -5,7 +5,7 @@
 - **Location:** Zanzibar City, Tanzania
 - **Type:** Pop-up / dated edition
 - **Dates:** Oct 16 - Nov 13, 2026
-- **Price:** from $1,390/mo
+- **Price:** from $1,790/mo
 - **Price note:** coliving accommodation (shared room, Veteran tier, lowest tier) + coworking + community activities for the month-long chapter
 - **Room types:** private, shared
 - **Dorm available:** No
@@ -22,7 +22,7 @@
 
 | Stay length | Private | Shared |
 |---|---|---|
-| Per month | $2,390 | $1,390 |
+| Per month | $2,990 | $1,790 |
 
 WiFi Tribe — Zanzibar City does not publish a nightly or weekly rate.
 

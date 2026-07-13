@@ -9,7 +9,7 @@
 | Ungsmaløya Residence | Nyksund | from $569/mo | — | private | 30 nights (~1 month) | Permanent |
 | Bjørkedal Home | Volda | from $720/mo | — | private | 30 nights (~1 month) | Permanent |
 | Moritsgarden (Digital Nomad Norway) | Folkestad | from €700/mo | 4.8 (16) | private | — | Permanent |
-| WiFi Tribe — Molde | Molde | from $2,390/mo | — | private, shared | 28 nights (~4 weeks) | Pop-up |
+| WiFi Tribe — Molde | Molde | from $2,990/mo | — | private | 28 nights (~4 weeks) | Pop-up |
 | Arctic Coliving | Voss (Mjolfjell) / Henningsvaer, Lofoten | On request | 5.0 (16) | shared, private | 7 nights (~1 week) | Permanent |
 
 ## Price distribution

@@ -5,7 +5,7 @@
 - **Location:** Ponta Delgada (Azores), Portugal
 - **Type:** Pop-up / dated edition
 - **Dates:** Sep 11 - Oct 9, 2026
-- **Price:** from $1,590/mo
+- **Price:** from $1,990/mo
 - **Price note:** guesthouse accommodation (shared room, Veteran tier) + coworking + community activities for the month-long chapter
 - **Room types:** private, shared
 - **Dorm available:** No
@@ -21,7 +21,7 @@
 
 | Stay length | Private | Shared |
 |---|---|---|
-| Per month | $2,890 | $1,590 |
+| Per month | $3,490 | $1,990 |
 
 WiFi Tribe — Ponta Delgada (Azores) does not publish a nightly or weekly rate.
 
