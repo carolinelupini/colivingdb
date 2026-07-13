@@ -429,6 +429,18 @@
 <script>
 const C = (window.COLIVINGS || []);
 C.forEach((x,i)=>x._i=i);
+// searchable location aliases: island GROUPS people type ("Canary Islands", "Balearics") that our
+// data stores only as specific islands/cities. Precomputed once, folded into search + suggestions.
+function locAlias(x){
+  const c=((x.city||"")+" "+(x.country||"")).toLowerCase(), la=x.lat, ln=x.lng; let a="";
+  if(/tenerife|gran canaria|fuerteventura|lanzarote|la gomera|la palma|el hierro|las palmas/.test(c)
+     || (la>27.4&&la<29.6&&ln>-18.6&&ln<-13)) a+=" canary islands canaries";
+  if(/mallorca|majorca|menorca|minorca|ibiza|formentera/.test(c)) a+=" balearic islands balearics majorca mallorca";
+  if(/madeira|funchal/.test(c)) a+=" madeira";
+  if(/azores|s[aã]o miguel|ponta delgada/.test(c)) a+=" azores";
+  return a;
+}
+C.forEach(x=>{ x._alias=locAlias(x); });
 const REGIONS = ["All","Europe","Asia","Latin America","Africa","North America","Oceania","Middle East"];
 
 // colour system — region hues + type/vibe category colours (green stays the base)
@@ -694,7 +706,11 @@ function buildSuggest(){
     if(x.city && x.country!=="Multiple") cities.set(x.city+"|"+x.country,(cities.get(x.city+"|"+x.country)||0)+1);
     if(x.country && x.country!=="Multiple") countries.set(x.country,(countries.get(x.country)||0)+1);
   });
+  // island-group entries — the search alias resolves the query to every member island/city
+  const groups=[["Canary Islands","canary islands","canary"],["Balearic Islands","balearic islands","balearic"]];
+  const groupSug=groups.map(([label,q,key])=>{const n=C.filter(x=>x._alias.includes(key)).length; return n?{t:`${label} · ${n} colivings`, q, w:3}:null;}).filter(Boolean);
   SUGGEST=[
+    ...groupSug,
     ...[...countries].map(([c,n])=>({t:`${c} · ${n} coliving${n>1?"s":""}`, q:c, w:2})),
     ...[...cities].map(([k,n])=>{const [ci,co]=k.split("|"); return {t:`${ci}, ${co}${n>1?` · ${n}`:""}`, q:ci, w:1};}),
     ...C.map(x=>({t:x.name, q:x.name, w:0}))
@@ -865,7 +881,7 @@ function filtered(){
     // vibe is a separate AND dimension: "surf places that are also quiet" = interest AND vibe
     (!state.vibes.size||[...state.vibes].some(v=>((x.details||{}).vibeTags||[]).includes(v))) &&
     // search also matches tags so typing "surf" (or "coworking", etc.) returns results
-    (!state.q||((x.name+" "+(x.city||"")+" "+x.country+" "+(x.tags||[]).join(" ")).toLowerCase().includes(state.q)))
+    (!state.q||((x.name+" "+(x.city||"")+" "+x.country+" "+(x.tags||[]).join(" ")).toLowerCase()+x._alias).includes(state.q))
   );
 }
 
