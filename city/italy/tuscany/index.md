@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Nomadico Tuscany | Tuscany | from €823/mo | — | private, shared | — | Pop-up |
+| Nomadico Tuscany | Tuscany | from €627/mo | — | private, shared | — | Pop-up |
 
 ## Price distribution
 

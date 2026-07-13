@@ -5,7 +5,7 @@
 - **Location:** Anglet, France
 - **Type:** Pop-up / dated edition
 - **Dates:** Sept–Dec & Mar–Jun (seasonal)
-- **Price:** from €790/mo
+- **Price:** from €370/mo
 - **Price note:** from EUR790/month
 - **Room types:** private, shared
 - **Dorm available:** No
@@ -19,9 +19,9 @@
 
 ## Rates
 
-| Stay length | From |
-|---|---|
-| Per month | €790 |
+| Stay length | Private | Shared |
+|---|---|---|
+| Per month | €790 | €370 |
 
 Nomadico Anglet does not publish a nightly or weekly rate.
 

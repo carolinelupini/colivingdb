@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Nomadico Antigua | Antigua Guatemala | from $890/mo | 5.0 (1) | private, shared | 7 nights (~1 week) | Permanent |
+| Nomadico Antigua | Antigua Guatemala | from $890/mo | 5.0 (1) | private, shared | — | Permanent |
 
 ## Price distribution
 

@@ -11,7 +11,7 @@
 | Flamingo Coliving | Santa Marta | from $362/mo | 4.3 (106) | private, dorm | — | Permanent |
 | Co.404 Medellin | Medellin | from $362/mo | 4.8 (64) | private | 7 nights (~1 week) | Permanent |
 | Mimos Coliving - Bogota | Bogotá | from €480/mo | 5.0 (7) | private | 120 nights (~4 months) | Permanent |
-| Nomadico Manizales | Manizales | from $630/mo | — | private, shared | 7 nights (~1 week) | Permanent |
+| Nomadico Manizales | Manizales | from $690/mo | — | private, shared | 7 nights (~1 week) | Permanent |
 | The Laureles | Medellin | from $671/mo | — | private | 30 nights (~1 month) | Permanent |
 | Santa Marta Life Coliving | Santa Marta (El Rodadero) | from $650/mo | 5.0 (31) | private | — | Permanent |
 | The Milagro | Bogotá | from €615/mo | 3.5 (8) | private | 30 nights (~1 month) | Permanent |

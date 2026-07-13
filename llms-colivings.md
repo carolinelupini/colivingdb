@@ -68,7 +68,7 @@
 | [Kiin Living](/coliving/kiin-living/index.md) | Medellín | Colombia | from €1,100/mo | 30 nights (~1 month) | Permanent |
 | [Mimos Coliving - Bogota](/coliving/mimos-coliving-bogota/index.md) | Bogotá | Colombia | from €480/mo | 120 nights (~4 months) | Permanent |
 | [Nomadico Coliving Medellín](/coliving/nomadico-coliving-medellin/index.md) | Medellín | Colombia | from $955/mo | 7 nights (~1 week) | Permanent |
-| [Nomadico Manizales](/coliving/nomadico-manizales/index.md) | Manizales | Colombia | from $630/mo | 7 nights (~1 week) | Permanent |
+| [Nomadico Manizales](/coliving/nomadico-manizales/index.md) | Manizales | Colombia | from $690/mo | 7 nights (~1 week) | Permanent |
 | [Outsite Medellin - El Poblado](/coliving/outsite-medellin-el-poblado/index.md) | Medellin | Colombia | from $955/mo | — | Permanent |
 | [Outsite Medellin - Manila](/coliving/outsite-medellin-manila/index.md) | Medellin | Colombia | On request | 2 nights | Permanent |
 | [Pranik Living](/coliving/pranik-living/index.md) | Medellín (Laureles) | Colombia | from $1,230/mo | 3 nights | Permanent |
@@ -115,7 +115,7 @@
 | [Maysou A Noste](/coliving/maysou-a-noste/index.md) | Lurbe-Saint-Christau | France | from €420/mo | 6 nights | Permanent |
 | [NomadUnion Coliving (Villa)](/coliving/nomadunion-coliving-villa/index.md) | Biot | France | from €1,200/mo | 30 nights (~1 month) | Permanent |
 | [NomadUnion Coliving Nice](/coliving/nomadunion-coliving-nice/index.md) | Nice | France | from €900/mo | 30 nights (~1 month) | Permanent |
-| [Nomadico Anglet](/coliving/nomadico-anglet/index.md) | Anglet | France | from €790/mo | — | Pop-up |
+| [Nomadico Anglet](/coliving/nomadico-anglet/index.md) | Anglet | France | from €370/mo | — | Pop-up |
 | [Not Sorry Coliving](/coliving/not-sorry-coliving/index.md) | near Tullins/Voiron, Isère (French Alps) | France | On request | — | Permanent |
 | [Outsite Bordeaux](/coliving/outsite-bordeaux/index.md) | Bordeaux | France | from €1,000/mo | 2 nights | Permanent |
 | [Outsite Paris (Zoku)](/coliving/outsite-paris-zoku/index.md) | Paris | France | On request | 2 nights | Permanent |
@@ -141,7 +141,7 @@
 | [The Plakias (Plakias Residence)](/coliving/the-plakias-plakias-residence/index.md) | Plakias | Greece | from $1,543/mo | 180 nights (~6 months) | Permanent |
 | [Tursi Digital Nomads — Parga](/coliving/tursi-digital-nomads-parga/index.md) | Parga | Greece | from €799 per event | — | Pop-up |
 | [WiFi Tribe — Paros](/coliving/wifi-tribe-paros/index.md) | Paros | Greece | from $1,990/mo | 28 nights (~4 weeks) | Pop-up |
-| [Nomadico Antigua](/coliving/nomadico-antigua/index.md) | Antigua Guatemala | Guatemala | from $890/mo | 7 nights (~1 week) | Permanent |
+| [Nomadico Antigua](/coliving/nomadico-antigua/index.md) | Antigua Guatemala | Guatemala | from $890/mo | — | Permanent |
 | [WiFi Tribe — Antigua](/coliving/wifi-tribe-antigua/index.md) | Antigua | Guatemala | from $1,490/mo | 28 nights (~4 weeks) | Pop-up |
 | [Noma Collective — Roatan](/coliving/noma-collective-roatan/index.md) | Roatan | Honduras | from $1,890 per event | — | Pop-up |
 | [Noma Collective — Budapest](/coliving/noma-collective-budapest/index.md) | Budapest | Hungary | from $1,990 per event | — | Pop-up |
@@ -197,7 +197,7 @@
 | [Montino Coliving](/coliving/montino-coliving/index.md) | Oggebbio, Lake Maggiore | Italy | from €750/mo | 7 nights (~1 week) | Permanent |
 | [Navitas Coliving](/coliving/navitas-coliving/index.md) | Civitanova Marche | Italy | from €540/mo | 7 nights (~1 week) | Permanent |
 | [Nesting Away - Coliving in Italy](/coliving/nesting-away-coliving-in-italy/index.md) | Rome | Italy | from €41/night | 14 nights (~2 weeks) | Permanent |
-| [Nomadico Tuscany](/coliving/nomadico-tuscany/index.md) | Tuscany | Italy | from €823/mo | — | Pop-up |
+| [Nomadico Tuscany](/coliving/nomadico-tuscany/index.md) | Tuscany | Italy | from €627/mo | — | Pop-up |
 | [Spacebility](/coliving/spacebility/index.md) | Cagliari (Sardinia) | Italy | On request | — | Permanent |
 | [Taste Remote](/coliving/taste-remote/index.md) | Civita Castellana | Italy | from €690 per event | 7 nights (~1 week) | Pop-up |
 | [Tertulia Coliving](/coliving/tertulia-coliving/index.md) | Vicchio (Mugello, Florence) | Italy | from €699/mo | 14 nights (~2 weeks) | Permanent |
@@ -277,7 +277,7 @@
 | [Adventurekeys](/coliving/adventurekeys/index.md) | Taghazout | Morocco | from €420/mo | 2 nights | Permanent |
 | [Cowork & Live](/coliving/cowork-and-live/index.md) | Casablanca | Morocco | On request | — | Permanent |
 | [Kasbari House](/coliving/kasbari-house/index.md) | Tamraght (near Taghazout/Agadir) | Morocco | from €350/mo | 7 nights (~1 week) | Permanent |
-| [Nomadico Coliving Taghazout](/coliving/nomadico-coliving-taghazout/index.md) | Taghazout | Morocco | from €715/mo | — | Permanent |
+| [Nomadico Coliving Taghazout](/coliving/nomadico-coliving-taghazout/index.md) | Taghazout | Morocco | from €490/mo | — | Permanent |
 | [Outsite Marrakesh](/coliving/outsite-marrakesh/index.md) | Marrakesh | Morocco | On request | 2 nights | Permanent |
 | [SunDesk Coliving](/coliving/sundesk-coliving/index.md) | Taghazout | Morocco | from €885/mo | 10 nights | Permanent |
 | [The Tamraght](/coliving/the-tamraght/index.md) | Agadir | Morocco | from $697/mo | 30 nights (~1 month) | Permanent |
@@ -466,9 +466,9 @@
 | [Maraya Coliving & Coworking](/coliving/maraya-coliving-and-coworking/index.md) | Candelaria, Tenerife | Spain | from €940/mo | 7 nights (~1 week) | Permanent |
 | [Mas Pujols](/coliving/mas-pujols/index.md) | Sant Boi de Llucanes (Catalonia) | Spain | On request | — | Permanent |
 | [Nine Coliving](/coliving/nine-coliving/index.md) | La Orotava, Tenerife | Spain | from €900/mo | 14 nights (~2 weeks) | Permanent |
-| [Nomadico Coliving Tarifa](/coliving/nomadico-coliving-tarifa/index.md) | Tarifa | Spain | from €737/mo | — | Pop-up |
-| [Nomadico Gran Canaria](/coliving/nomadico-gran-canaria/index.md) | Las Palmas de Gran Canaria | Spain | from €980/mo | 7 nights (~1 week) | Pop-up |
-| [Nomadico Mallorca Coliving](/coliving/nomadico-mallorca-coliving/index.md) | Búger, Mallorca | Spain | from €490/mo | 7 nights (~1 week) | Pop-up |
+| [Nomadico Coliving Tarifa](/coliving/nomadico-coliving-tarifa/index.md) | Tarifa | Spain | from €688/mo | — | Pop-up |
+| [Nomadico Gran Canaria](/coliving/nomadico-gran-canaria/index.md) | Las Palmas de Gran Canaria | Spain | from €980/mo | — | Pop-up |
+| [Nomadico Mallorca Coliving](/coliving/nomadico-mallorca-coliving/index.md) | Búger, Mallorca | Spain | from €560/mo | 7 nights (~1 week) | Pop-up |
 | [Oasis Coliving](/coliving/oasis-coliving/index.md) | Playa de las Americas, Tenerife | Spain | from €849/mo | — | Permanent |
 | [Ojalá Casa](/coliving/ojala-casa/index.md) | La Caleta, Costa Adeje, Tenerife | Spain | On request | 30 nights (~1 month) | Permanent |
 | [Outsite Barcelona - Gothic Quarter](/coliving/outsite-barcelona-gothic-quarter/index.md) | Barcelona | Spain | from €1,700/mo | 2 nights | Permanent |
@@ -512,7 +512,7 @@
 | [Habaraduwa Home](/coliving/habaraduwa-home/index.md) | Habaraduwa, Galle | Sri Lanka | from $845/mo | 30 nights (~1 month) | Permanent |
 | [Hiriketiya Home](/coliving/hiriketiya-home/index.md) | Hiriketiya (Dickwella), Matara | Sri Lanka | from $685/mo | 30 nights (~1 month) | Permanent |
 | [La Isla Bonita](/coliving/la-isla-bonita/index.md) | Weligama | Sri Lanka | from $500/mo | — | Permanent |
-| [Nomadico Coliving Hiriketiya](/coliving/nomadico-coliving-hiriketiya/index.md) | Hiriketiya (Nilwella) | Sri Lanka | from €668/mo | 7 nights (~1 week) | Permanent |
+| [Nomadico Coliving Hiriketiya](/coliving/nomadico-coliving-hiriketiya/index.md) | Hiriketiya (Nilwella) | Sri Lanka | from €436/mo | 7 nights (~1 week) | Permanent |
 | [Ocean Bliss by Sugar Coliving - Beachfront Hotel in Weligama](/coliving/ocean-bliss-by-sugar-coliving-beachfront-hotel-in-weligama/index.md) | Weligama | Sri Lanka | On request | — | Permanent |
 | [Outpost Weligama](/coliving/outpost-weligama/index.md) | Weligama | Sri Lanka | from $849/mo | — | Permanent |
 | [Somewhere Sisterhood, Co-living for Women & Community, Villa Cardamom](/coliving/somewhere-sisterhood-co-living-for-women-and-community-villa-cardamom/index.md) | Weligama | Sri Lanka | On request | 7 nights (~1 week) | Permanent |

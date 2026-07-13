@@ -23,10 +23,9 @@
 
 | Stay length | Private |
 |---|---|
-| Per week | €265 |
 | Per month | €638 |
 
-Nomadico Coliving Bansko does not publish a nightly rate.
+Nomadico Coliving Bansko does not publish a nightly or weekly rate.
 
 ## About
 

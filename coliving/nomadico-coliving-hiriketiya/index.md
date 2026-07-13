@@ -4,7 +4,7 @@
 
 - **Location:** Hiriketiya (Nilwella), Sri Lanka
 - **Type:** Permanent coliving
-- **Price:** from €668/mo
+- **Price:** from €436/mo
 - **Price note:** from €750/mo (operator site); mapmelon €960 discounted
 - **Rating:** <a href="https://maps.google.com/?cid=6754065876422474822&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (38 reviews)</a> <small>· Google</small>
 - **Room types:** private
@@ -20,9 +20,9 @@
 
 ## Rates
 
-| Stay length | Private |
-|---|---|
-| Per month | €750 |
+| Stay length | Private | Shared |
+|---|---|---|
+| Per month | €668 | €436 |
 
 Nomadico Coliving Hiriketiya does not publish a nightly or weekly rate.
 

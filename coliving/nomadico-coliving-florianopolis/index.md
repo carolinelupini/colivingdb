@@ -21,12 +21,11 @@
 
 ## Rates
 
-| Stay length | Private | Shared |
-|---|---|---|
-| Per week | $331 | $137 |
-| Per month | $795 | $380 |
+| Stay length | Shared |
+|---|---|
+| Per month | $380 |
 
-Nomadico Coliving Florianópolis does not publish a nightly rate.
+Nomadico Coliving Florianópolis does not publish a nightly or weekly rate.
 
 ## About
 

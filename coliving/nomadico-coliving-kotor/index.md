@@ -23,10 +23,9 @@
 
 | Stay length | Private | Shared |
 |---|---|---|
-| Per week | €353 | €209 |
 | Per month | €980 | €690 |
 
-Nomadico Coliving Kotor does not publish a nightly rate.
+Nomadico Coliving Kotor does not publish a nightly or weekly rate.
 
 ## About
 

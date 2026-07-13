@@ -10,7 +10,7 @@
 | Repeople La Luna Coliving | Santa Cruz de Tenerife | from €390/mo | 4.5 (22) | private | — | Permanent |
 | POSADA DE LA LUZ | Torralba de Ribota | from €450/mo | 5.0 (21) | private | 15 nights | Permanent |
 | Picassa • Pueblo Coliving & Coworking | Purchena | from €450/mo | 5.0 (17) | private | 14 nights (~2 weeks) | Permanent |
-| Nomadico Mallorca Coliving | Búger, Mallorca | from €490/mo | 5.0 (30) | private, shared | 7 nights (~1 week) | Pop-up |
+| Nomadico Mallorca Coliving | Búger, Mallorca | from €560/mo | 5.0 (30) | private, shared | 7 nights (~1 week) | Pop-up |
 | Banama Surfhouse - Coliving Coworking & Yoga | Corralejo, Fuerteventura | from €499/mo | 4.9 (137) | private, shared | — | Permanent |
 | Ecoisleta Coliving | Las Palmas de Gran Canaria (La Isleta) | from €585/mo | 4.9 (58) | private | — | Permanent |
 | Hamlet's Friends | Nuño Gómez, Toledo | from €540/mo | 5.0 (184) | private | 28 nights (~4 weeks) | Permanent |
@@ -27,7 +27,7 @@
 | FEM Coliving | Sant Joan de les Abadesses | from €690/mo | 5.0 (85) | private | 30 nights (~1 month) | Permanent |
 | Sun and Co. | Jávea | from €690/mo | — | private, shared | — | Permanent |
 | Coliving Compostela | Santiago de Compostela | from €720/mo | 4.7 (91) | private | 15 nights | Permanent |
-| Nomadico Coliving Tarifa | Tarifa | from €737/mo | 5.0 (20) | private, shared | — | Pop-up |
+| Nomadico Coliving Tarifa | Tarifa | from €688/mo | 5.0 (20) | private, shared | — | Pop-up |
 | Flipco | Madrid | from €740/mo | 3.5 (46) | private | 30 nights (~1 month) | Permanent |
 | Flipco Málaga | Málaga | from €740/mo | 2.1 (34) | private | 30 nights (~1 month) | Permanent |
 | Fuerteventura Coliving (Casa las Dunas) | Corralejo, Fuerteventura | from €750/mo | — | private, shared, dorm | 2 nights | Permanent |
@@ -58,7 +58,7 @@
 | Bedndesk | S'Arenal (Mallorca) | from €750/mo | 4.7 (68) | private | 30 nights (~1 month) | Permanent |
 | Circles House | Coliving & Coworking | Barcelona | from €950/mo | 4.7 (99) | private, dorm | — | Permanent |
 | Casa Capitán Coliving | Guargacho, Tenerife | from €960/mo | 5.0 (18) | private | 1 night | Permanent |
-| Nomadico Gran Canaria | Las Palmas de Gran Canaria | from €980/mo | — | private, shared | 7 nights (~1 week) | Pop-up |
+| Nomadico Gran Canaria | Las Palmas de Gran Canaria | from €980/mo | — | private, shared | — | Pop-up |
 | Vivarium Coliving & Coworking | Valencia | from €985/mo | 4.9 (65) | private | 31 nights | Permanent |
 | The Mozart | Las Palmas | from $2,058/mo | — | private | 30 nights (~1 month) | Permanent |
 | Coliving Rural Els Masos d'en Coll | Llabià, Fontanilles (Girona) | from €1,000/mo | 4.6 (271) | private, shared, apartment | 7 nights (~1 week) | Permanent |

@@ -4,7 +4,7 @@
 
 - **Location:** Manizales, Colombia
 - **Type:** Permanent coliving
-- **Price:** from $630/mo
+- **Price:** from $690/mo
 - **Price note:** from $630/month; est. EUR
 - **Room types:** private, shared
 - **Dorm available:** No
@@ -20,7 +20,7 @@
 
 | Stay length | From |
 |---|---|
-| Per month | $630 |
+| Per month | $690 |
 
 Nomadico Manizales does not publish a nightly or weekly rate.
 

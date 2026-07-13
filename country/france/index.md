@@ -9,7 +9,7 @@
 | Maysou A Noste | Lurbe-Saint-Christau | from €420/mo | 4.8 (18) | private | 6 nights | Permanent |
 | Langeais Co-Living Castle (La Roche-Cotard) | Langeais | from €655/mo | 5.0 (16) | private | — | Permanent |
 | Pyren'Escape | Guchen (Saubissan), Pyrenees | from €1,110/mo | 4.9 (164) | private, shared, studio, apartment | 14 nights (~2 weeks) | Permanent |
-| Nomadico Anglet | Anglet | from €790/mo | — | private, shared | — | Pop-up |
+| Nomadico Anglet | Anglet | from €370/mo | — | private, shared | — | Pop-up |
 | Enchanted Coliving | Nachamps | from €1,080/mo | 5.0 (17) | private | 14 nights (~2 weeks) | Permanent |
 | Les Briques | Lion-sur-Mer | from €893/mo | 4.9 (106) | private | 6 nights | Permanent |
 | NomadUnion Coliving Nice | Nice | from €900/mo | 4.9 (14) | private, shared | 30 nights (~1 month) | Permanent |

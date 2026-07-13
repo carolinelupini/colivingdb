@@ -23,10 +23,9 @@
 
 | Stay length | Private | Shared |
 |---|---|---|
-| Per week | €317 | €194 |
-| Per month | €880 | €542 |
+| Per month | €833 | €542 |
 
-Nomadico Coliving Ericeira does not publish a nightly rate.
+Nomadico Coliving Ericeira does not publish a nightly or weekly rate.
 
 ## About
 

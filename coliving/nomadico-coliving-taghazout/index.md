@@ -4,7 +4,7 @@
 
 - **Location:** Taghazout, Morocco
 - **Type:** Permanent coliving
-- **Price:** from €715/mo
+- **Price:** from €490/mo
 - **Price note:** from €750/month (nomadico.io)
 - **Rating:** <a href="https://maps.google.com/?cid=9998611476335671694&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (86 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
@@ -20,9 +20,9 @@
 
 ## Rates
 
-| Stay length | From |
-|---|---|
-| Per month | €715 |
+| Stay length | Private | Shared |
+|---|---|---|
+| Per month | €750 | €490 |
 
 Nomadico Coliving Taghazout does not publish a nightly or weekly rate.
 

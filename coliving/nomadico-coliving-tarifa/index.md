@@ -5,7 +5,7 @@
 - **Location:** Tarifa, Spain
 - **Type:** Pop-up / dated edition
 - **Dates:** Oct–Mar (seasonal; hostel in summer)
-- **Price:** from €737/mo
+- **Price:** from €688/mo
 - **Price note:** from €737/month, seasonal Oct–Mar
 - **Rating:** <a href="https://maps.google.com/?cid=2523500891096816028&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (20 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
@@ -23,7 +23,7 @@
 
 | Stay length | From |
 |---|---|
-| Per month | €737 |
+| Per month | €688 |
 
 Nomadico Coliving Tarifa does not publish a nightly or weekly rate.
 

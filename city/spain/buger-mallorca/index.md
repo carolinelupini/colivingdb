@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Nomadico Mallorca Coliving | Búger, Mallorca | from €490/mo | 5.0 (30) | private, shared | 7 nights (~1 week) | Pop-up |
+| Nomadico Mallorca Coliving | Búger, Mallorca | from €560/mo | 5.0 (30) | private, shared | 7 nights (~1 week) | Pop-up |
 
 ## Price distribution
 

@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Nomadico Anglet | Anglet | from €790/mo | — | private, shared | — | Pop-up |
+| Nomadico Anglet | Anglet | from €370/mo | — | private, shared | — | Pop-up |
 
 ## Price distribution
 

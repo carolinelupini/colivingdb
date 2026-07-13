@@ -5,7 +5,7 @@
 - **Location:** Búger, Mallorca, Spain
 - **Type:** Pop-up / dated edition
 - **Dates:** Mar–Aug & Sep–Nov (seasonal)
-- **Price:** from €490/mo
+- **Price:** from €560/mo
 - **Price note:** from €490/month shared (low season); private higher
 - **Rating:** <a href="https://maps.google.com/?cid=2619042474139222600&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (30 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
@@ -23,10 +23,9 @@
 
 | Stay length | Private | Shared |
 |---|---|---|
-| Per week | €350 | €210 |
-| Per month | €890 | €490 |
+| Per month | €980 | €560 |
 
-Nomadico Mallorca Coliving does not publish a nightly rate.
+Nomadico Mallorca Coliving does not publish a nightly or weekly rate.
 
 ## About
 

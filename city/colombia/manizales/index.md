@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Nomadico Manizales | Manizales | from $630/mo | — | private, shared | 7 nights (~1 week) | Permanent |
+| Nomadico Manizales | Manizales | from $690/mo | — | private, shared | 7 nights (~1 week) | Permanent |
 
 ## Price distribution
 

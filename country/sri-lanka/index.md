@@ -7,7 +7,7 @@
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
 | Sugar Hostel Weligama - Coliving & Coworking | Weligama | from $99/mo | 4.5 (337) | private, dorm | 7 nights (~1 week) | Permanent |
-| Nomadico Coliving Hiriketiya | Hiriketiya (Nilwella) | from €668/mo | 5.0 (38) | private | 7 nights (~1 week) | Permanent |
+| Nomadico Coliving Hiriketiya | Hiriketiya (Nilwella) | from €436/mo | 5.0 (38) | private | 7 nights (~1 week) | Permanent |
 | Hiriketiya Home | Hiriketiya (Dickwella), Matara | from $685/mo | 4.9 (18) | private, shared | 30 nights (~1 month) | Permanent |
 | Habaraduwa Home | Habaraduwa, Galle | from $845/mo | 4.7 (14) | private, shared | 30 nights (~1 month) | Permanent |
 | Colive Me (ColiveMe) | Ahangama | from €668/mo | 4.9 (109) | private | 3 nights | Permanent |

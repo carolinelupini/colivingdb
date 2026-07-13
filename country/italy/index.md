@@ -15,7 +15,7 @@
 | Tertulia Coliving | Vicchio (Mugello, Florence) | from €699/mo | 4.8 (84) | private, shared | 14 nights (~2 weeks) | Permanent |
 | Il Fornello | Citta della Pieve (Umbria/Tuscany border) | from €700/mo | 4.4 (20) | private | — | Permanent |
 | Montino Coliving | Oggebbio, Lake Maggiore | from €750/mo | 4.3 (143) | private, shared | 7 nights (~1 week) | Permanent |
-| Nomadico Tuscany | Tuscany | from €823/mo | — | private, shared | — | Pop-up |
+| Nomadico Tuscany | Tuscany | from €627/mo | — | private, shared | — | Pop-up |
 | Beet - Botanical Garden (Cortile del Giuoco Home) | Palermo | from $1,143/mo | — | private | 30 nights (~1 month) | Permanent |
 | Tertulia Forest Coliving | Mugello, Tuscany | from €1,140/mo | 4.8 (84) | private | 7 nights (~1 week) | Permanent |
 | Casa Netural | Matera | from €950/mo | 4.9 (139) | private | 1 night | Permanent |
