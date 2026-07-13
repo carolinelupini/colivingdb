@@ -1,6 +1,6 @@
 # Coliving Sardinia
 
-> Coliving in Porto Cervo, Sardinia, Italy. Last updated July 12, 2026.
+> Coliving in Porto Cervo, Sardinia, Italy. Last updated July 13, 2026.
 
 - **Location:** Porto Cervo, Sardinia, Italy
 - **Type:** Permanent coliving

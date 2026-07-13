@@ -1,6 +1,6 @@
 # OPENORBI
 
-> Coliving in Ávila area (rural, ~2hrs from Madrid), Spain. Last updated July 12, 2026.
+> Coliving in Ávila area (rural, ~2hrs from Madrid), Spain. Last updated July 13, 2026.
 
 - **Location:** Ávila area (rural, ~2hrs from Madrid), Spain
 - **Type:** Pop-up / dated edition

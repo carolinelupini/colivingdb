@@ -1,6 +1,6 @@
 # Noma Collective — Playa Grande
 
-> Coliving in Playa Grande, Costa Rica. Last updated July 12, 2026.
+> Coliving in Playa Grande, Costa Rica. Last updated July 13, 2026.
 
 - **Location:** Playa Grande, Costa Rica
 - **Type:** Pop-up / dated edition

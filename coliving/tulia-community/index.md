@@ -1,6 +1,6 @@
 # Tulia Community
 
-> Coliving in Los Realejos, Tenerife, Spain. Last updated July 12, 2026.
+> Coliving in Los Realejos, Tenerife, Spain. Last updated July 13, 2026.
 
 - **Location:** Los Realejos, Tenerife, Spain
 - **Type:** Permanent coliving

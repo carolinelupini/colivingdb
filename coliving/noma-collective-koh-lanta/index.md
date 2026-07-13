@@ -1,6 +1,6 @@
 # Noma Collective — Koh Lanta
 
-> Coliving in Koh Lanta, Thailand. Last updated July 12, 2026.
+> Coliving in Koh Lanta, Thailand. Last updated July 13, 2026.
 
 - **Location:** Koh Lanta, Thailand
 - **Type:** Pop-up / dated edition

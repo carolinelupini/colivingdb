@@ -1,6 +1,6 @@
 # Coliving in Spain
 
-> 93 colivings in Spain, prices from €71 to €2,600 per month – last updated July 12, 2026.
+> 93 colivings in Spain, prices from €71 to €2,600 per month – last updated July 13, 2026.
 
 ## All colivings
 
@@ -71,7 +71,7 @@
 | Casa Gori — Coliving, Art Studio & Gardens | Valencia | from €1,200/mo | — | private | 90 nights (~3 months) | Permanent |
 | Folks Coliving | Valencia | from €1,500/mo | 4.9 (45) | private | 11 nights | Permanent |
 | Laberint Coliving | Palma de Mallorca | from €1,200/mo | 5.0 (8) | private | 32 nights | Permanent |
-| WiFi Tribe — Gran Canaria | Gran Canaria | from $1,390/mo | — | — | 30 nights (~1 month) | Pop-up |
+| WiFi Tribe — Gran Canaria | Gran Canaria | from $1,390/mo | — | private, shared | 30 nights (~1 month) | Pop-up |
 | Casa Turull (Palma Coliving Barcelona) | Barcelona | from €1,380/mo | 4.4 (54) | private | 30 nights (~1 month) | Permanent |
 | García Morato Home | Las Palmas | from $1,143/mo | 4.0 (530) | private | 30 nights (~1 month) | Permanent |
 | Repeople Casa Jardin Coliving | Las Palmas de Gran Canaria | from €1,677/mo | 4.0 (4) | private | — | Permanent |

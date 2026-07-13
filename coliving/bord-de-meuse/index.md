@@ -1,6 +1,6 @@
 # Bord de Meuse
 
-> Coliving in Hermalle-sous-Argenteau (Liège), Belgium. Last updated July 12, 2026.
+> Coliving in Hermalle-sous-Argenteau (Liège), Belgium. Last updated July 13, 2026.
 
 - **Location:** Hermalle-sous-Argenteau (Liège), Belgium
 - **Type:** Permanent coliving

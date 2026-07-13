@@ -1,6 +1,6 @@
 # Repeople El Cabo Coliving
 
-> Coliving in Agaete, Gran Canaria, Spain. Last updated July 12, 2026.
+> Coliving in Agaete, Gran Canaria, Spain. Last updated July 13, 2026.
 
 - **Location:** Agaete, Gran Canaria, Spain
 - **Type:** Permanent coliving

@@ -1,12 +1,12 @@
 # Coliving in Bariloche, Argentina
 
-> 1 colivings in Bariloche, Argentina, prices from €1,129 to €1,129 per month – last updated July 12, 2026.
+> 1 colivings in Bariloche, Argentina, prices from €1,129 to €1,129 per month – last updated July 13, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| WiFi Tribe — Bariloche | Bariloche | from $1,290/mo | — | — | 28 nights (~4 weeks) | Pop-up |
+| WiFi Tribe — Bariloche | Bariloche | from $1,290/mo | — | private, shared | 28 nights (~4 weeks) | Pop-up |
 
 ## Price distribution
 

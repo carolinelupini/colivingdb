@@ -1,6 +1,6 @@
 # SOMOS Coliving Palma de Mallorca
 
-> Coliving in Palma de Mallorca, Spain. Last updated July 12, 2026.
+> Coliving in Palma de Mallorca, Spain. Last updated July 13, 2026.
 
 - **Location:** Palma de Mallorca, Spain
 - **Type:** Permanent coliving

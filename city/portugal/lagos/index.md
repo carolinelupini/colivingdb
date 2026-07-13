@@ -1,6 +1,6 @@
 # Coliving in Lagos, Portugal
 
-> 2 colivings in Lagos, Portugal, prices from €1,420 to €1,420 per month – last updated July 12, 2026.
+> 2 colivings in Lagos, Portugal, prices from €1,420 to €1,420 per month – last updated July 13, 2026.
 
 ## All colivings
 

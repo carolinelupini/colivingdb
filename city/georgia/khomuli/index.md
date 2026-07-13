@@ -1,6 +1,6 @@
 # Coliving in Khomuli, Georgia
 
-> 1 colivings in Khomuli, Georgia, prices from €192 to €192 per month – last updated July 12, 2026.
+> 1 colivings in Khomuli, Georgia, prices from €192 to €192 per month – last updated July 13, 2026.
 
 ## All colivings
 

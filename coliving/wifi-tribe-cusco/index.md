@@ -1,15 +1,15 @@
 # WiFi Tribe — Cusco
 
-> Coliving in Cusco, Peru. Last updated July 12, 2026.
+> Coliving in Cusco, Peru. Last updated July 13, 2026.
 
 - **Location:** Cusco, Peru
 - **Type:** Pop-up / dated edition
 - **Dates:** Sep 11 - Oct 9, 2026
 - **Price:** from $1,090/mo
 - **Price note:** coliving accommodation (shared room, Veteran tier) for the month-long chapter
-- **Room types:** —
+- **Room types:** private, shared
 - **Dorm available:** No
-- **Minimum stay:** —
+- **Minimum stay:** 28 nights (~4 weeks)
 - **Region:** Latin America
 - **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Elevation:** 3,347 m — expect a few days of altitude adjustment

@@ -1,6 +1,6 @@
 # NESTL
 
-> Coliving in Sydney, Australia. Last updated July 12, 2026.
+> Coliving in Sydney, Australia. Last updated July 13, 2026.
 
 - **Location:** Sydney, Australia
 - **Type:** Permanent coliving

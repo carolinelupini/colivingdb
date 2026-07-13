@@ -1,6 +1,6 @@
 # Quinta do Cabeço Alto - Coliving & Coworking Retreat Venue - Madeira Island
 
-> Coliving in Ponta do Sol, Portugal. Last updated July 12, 2026.
+> Coliving in Ponta do Sol, Portugal. Last updated July 13, 2026.
 
 - **Location:** Ponta do Sol, Portugal
 - **Type:** Permanent coliving

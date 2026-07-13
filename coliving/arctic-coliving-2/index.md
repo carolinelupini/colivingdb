@@ -1,6 +1,6 @@
 # Arctic Coliving
 
-> Coliving in Longyearbyen, Svalbard (Norway). Last updated July 12, 2026.
+> Coliving in Longyearbyen, Svalbard (Norway). Last updated July 13, 2026.
 
 - **Location:** Longyearbyen, Svalbard (Norway)
 - **Type:** Pop-up / dated edition

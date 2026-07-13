@@ -1,6 +1,6 @@
 # Il Fornello
 
-> Coliving in Citta della Pieve (Umbria/Tuscany border), Italy. Last updated July 12, 2026.
+> Coliving in Citta della Pieve (Umbria/Tuscany border), Italy. Last updated July 13, 2026.
 
 - **Location:** Citta della Pieve (Umbria/Tuscany border), Italy
 - **Type:** Permanent coliving

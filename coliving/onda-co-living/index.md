@@ -1,6 +1,6 @@
 # Onda Co-Living
 
-> Coliving in Ferrel (Baleal), Peniche, Portugal. Last updated July 12, 2026.
+> Coliving in Ferrel (Baleal), Peniche, Portugal. Last updated July 13, 2026.
 
 - **Location:** Ferrel (Baleal), Peniche, Portugal
 - **Type:** Permanent coliving

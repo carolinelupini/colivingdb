@@ -1,6 +1,6 @@
 # Avnea Nomad Village
 
-> Coliving in Zaros, Crete, Greece. Last updated July 12, 2026.
+> Coliving in Zaros, Crete, Greece. Last updated July 13, 2026.
 
 - **Location:** Zaros, Crete, Greece
 - **Type:** Permanent coliving

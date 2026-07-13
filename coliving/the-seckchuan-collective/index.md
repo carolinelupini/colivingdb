@@ -1,6 +1,6 @@
 # The Seckchuan Collective
 
-> Coliving in George Town, Malaysia. Last updated July 12, 2026.
+> Coliving in George Town, Malaysia. Last updated July 13, 2026.
 
 - **Location:** George Town, Malaysia
 - **Type:** Permanent coliving

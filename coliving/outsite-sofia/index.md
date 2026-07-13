@@ -1,6 +1,6 @@
 # Outsite Sofia
 
-> Coliving in Sofia, Bulgaria. Last updated July 12, 2026.
+> Coliving in Sofia, Bulgaria. Last updated July 13, 2026.
 
 - **Location:** Sofia, Bulgaria
 - **Type:** Permanent coliving

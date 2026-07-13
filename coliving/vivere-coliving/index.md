@@ -1,6 +1,6 @@
 # Vivére Coliving
 
-> Coliving in Rio de Janeiro, Brazil. Last updated July 12, 2026.
+> Coliving in Rio de Janeiro, Brazil. Last updated July 13, 2026.
 
 - **Location:** Rio de Janeiro, Brazil
 - **Type:** Permanent coliving

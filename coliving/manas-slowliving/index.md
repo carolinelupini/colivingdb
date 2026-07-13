@@ -1,6 +1,6 @@
 # Manas Slowliving
 
-> Coliving in Sines, Portugal. Last updated July 12, 2026.
+> Coliving in Sines, Portugal. Last updated July 13, 2026.
 
 - **Location:** Sines, Portugal
 - **Type:** Permanent coliving

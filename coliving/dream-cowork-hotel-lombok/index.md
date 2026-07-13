@@ -1,6 +1,6 @@
 # Dream Cowork Hotel Lombok
 
-> Coliving in Kuta Lombok, Indonesia. Last updated July 12, 2026.
+> Coliving in Kuta Lombok, Indonesia. Last updated July 13, 2026.
 
 - **Location:** Kuta Lombok, Indonesia
 - **Type:** Permanent coliving

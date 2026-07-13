@@ -1,6 +1,6 @@
 # colivingDB — all countries
 
-> 601 colivings across 83 countries. Last updated July 12, 2026.
+> 601 colivings across 83 countries. Last updated July 13, 2026.
 
 | Country | Colivings | From (EUR/mo) |
 |---|---|---|
@@ -34,7 +34,7 @@
 | [Norway](/country/norway/index.md) | 5 | €522 |
 | [Serbia](/country/serbia/index.md) | 5 | €297 |
 | [Tanzania](/country/tanzania/index.md) | 5 | €1,217 |
-| [United Kingdom](/country/united-kingdom/index.md) | 5 | €469 |
+| [United Kingdom](/country/united-kingdom/index.md) | 5 | €470 |
 | [Egypt](/country/egypt/index.md) | 4 | €167 |
 | [Kenya](/country/kenya/index.md) | 4 | €500 |
 | [Poland](/country/poland/index.md) | 4 | €513 |
@@ -43,7 +43,7 @@
 | [Cyprus](/country/cyprus/index.md) | 3 | €1,160 |
 | [Georgia](/country/georgia/index.md) | 3 | €192 |
 | [Panama](/country/panama/index.md) | 3 | €595 |
-| [South Korea](/country/south-korea/index.md) | 3 | €524 |
+| [South Korea](/country/south-korea/index.md) | 3 | €525 |
 | [Taiwan](/country/taiwan/index.md) | 3 | €350 |
 | [Uruguay](/country/uruguay/index.md) | 3 | €569 |
 | [Austria](/country/austria/index.md) | 2 | €1,700 |

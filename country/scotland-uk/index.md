@@ -1,12 +1,12 @@
 # Coliving in Scotland (UK)
 
-> 1 colivings in Scotland (UK), prices from €1,480 to €1,480 per month – last updated July 12, 2026.
+> 1 colivings in Scotland (UK), prices from €1,480 to €1,480 per month – last updated July 13, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| WiFi Tribe — Edinburgh | Edinburgh | from $1,690/mo | — | — | 28 nights (~4 weeks) | Pop-up |
+| WiFi Tribe — Edinburgh | Edinburgh | from $1,690/mo | — | private, shared | 28 nights (~4 weeks) | Pop-up |
 
 ## Price distribution
 

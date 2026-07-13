@@ -1,13 +1,13 @@
 # WiFi Tribe — Gran Canaria
 
-> Coliving in Gran Canaria, Spain. Last updated July 12, 2026.
+> Coliving in Gran Canaria, Spain. Last updated July 13, 2026.
 
 - **Location:** Gran Canaria, Spain
 - **Type:** Pop-up / dated edition
 - **Dates:** Aug 7 - Sep 4, 2026
 - **Price:** from $1,390/mo
 - **Price note:** coliving accommodation (shared room, Veteran tier) + coworking + shared meals + community activities for the month-long chapter
-- **Room types:** —
+- **Room types:** private, shared
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 1000 Mbps <small>· operator-reported</small>
 - **Vibe:** A chill, retreat-style monthly coliving chapter in Agaete's lush valley for values-vetted remote professionals, blending peaceful mountain-and-sea scenery with community coworking.

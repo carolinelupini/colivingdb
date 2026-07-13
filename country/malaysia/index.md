@@ -1,6 +1,6 @@
 # Coliving in Malaysia
 
-> 5 colivings in Malaysia, prices from €172 to €335 per month – last updated July 12, 2026.
+> 5 colivings in Malaysia, prices from €172 to €335 per month – last updated July 13, 2026.
 
 ## All colivings
 

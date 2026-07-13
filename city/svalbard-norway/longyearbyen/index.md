@@ -1,6 +1,6 @@
 # Coliving in Longyearbyen, Svalbard (Norway)
 
-> 1 colivings in Longyearbyen, Svalbard (Norway) – last updated July 12, 2026.
+> 1 colivings in Longyearbyen, Svalbard (Norway) – last updated July 13, 2026.
 
 ## All colivings
 

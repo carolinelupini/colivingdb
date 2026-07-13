@@ -1,6 +1,6 @@
 # Somewhere Sisterhood, Co-living for Women & Community, Villa Cardamom
 
-> Coliving in Weligama, Sri Lanka. Last updated July 12, 2026.
+> Coliving in Weligama, Sri Lanka. Last updated July 13, 2026.
 
 - **Location:** Weligama, Sri Lanka
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # Surf & Zen Coworking and Coliving
 
-> Coliving in Galle, Sri Lanka. Last updated July 12, 2026.
+> Coliving in Galle, Sri Lanka. Last updated July 13, 2026.
 
 - **Location:** Galle, Sri Lanka
 - **Type:** Permanent coliving

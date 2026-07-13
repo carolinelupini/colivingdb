@@ -1,6 +1,6 @@
 # colivingDB — all colivings
 
-> 601 listings. Last updated July 12, 2026.
+> 601 listings. Last updated July 13, 2026.
 
 | Coliving | City | Country | Price from | Min stay | Type |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Nomadico Coliving Florianópolis](/coliving/nomadico-coliving-florianopolis/index.md) | Florianópolis | Brazil | from $380/mo | 7 nights (~1 week) | Permanent |
 | [The Manoel João Ferreira](/coliving/the-manoel-joao-ferreira/index.md) | Florianópolis (Barra da Lagoa) | Brazil | from $273/mo | 30 nights (~1 month) | Permanent |
 | [Vivére Coliving](/coliving/vivere-coliving/index.md) | Rio de Janeiro | Brazil | from BRL 1,950/mo | — | Permanent |
-| [WiFi Tribe — Florianópolis](/coliving/wifi-tribe-florianopolis/index.md) | Florianópolis | Brazil | from $1,290/mo | — | Pop-up |
+| [WiFi Tribe — Florianópolis](/coliving/wifi-tribe-florianopolis/index.md) | Florianópolis | Brazil | from $1,290/mo | 28 nights (~4 weeks) | Pop-up |
 | [Avalon Bansko](/coliving/avalon-bansko/index.md) | Bansko | Bulgaria | from €550/mo | 31 nights | Permanent |
 | [Burgas Coliving](/coliving/burgas-coliving/index.md) | Burgas | Bulgaria | from €1,400/mo | — | Permanent |
 | [Coliving Bansko by "Coworking Bansko" and Networking Premium](/coliving/coliving-bansko-by-coworking-bansko-and-networking-premium/index.md) | Bansko | Bulgaria | On request | — | Permanent |
@@ -89,7 +89,7 @@
 | [Stolas Coliving](/coliving/stolas-coliving/index.md) | San José | Costa Rica | from $420/mo | — | Permanent |
 | [Stolas Garden](/coliving/stolas-garden/index.md) | San José | Costa Rica | from $420/mo | — | Permanent |
 | [Unity Coliving](/coliving/unity-coliving/index.md) | San José | Costa Rica | from $330/mo | — | Permanent |
-| [WiFi Tribe — Santa Teresa](/coliving/wifi-tribe-santa-teresa/index.md) | Santa Teresa | Costa Rica | from $1,390/mo | — | Pop-up |
+| [WiFi Tribe — Santa Teresa](/coliving/wifi-tribe-santa-teresa/index.md) | Santa Teresa | Costa Rica | from $1,390/mo | 28 nights (~4 weeks) | Pop-up |
 | [Ante Starčevića Home](/coliving/ante-starcevica-home/index.md) | Pakoštane | Croatia | from $743/mo | 30 nights (~1 month) | Pop-up |
 | [Kraljice Residence (Boho House)](/coliving/kraljice-residence-boho-house/index.md) | Pakoštane | Croatia | from $683/mo | 30 nights (~1 month) | Permanent |
 | [Ananke Home](/coliving/ananke-home/index.md) | Nicosia | Cyprus | from €1,800/mo | 4 nights | Permanent |
@@ -142,7 +142,7 @@
 | [Tursi Digital Nomads — Parga](/coliving/tursi-digital-nomads-parga/index.md) | Parga | Greece | from €799 per event | — | Pop-up |
 | [WiFi Tribe — Paros](/coliving/wifi-tribe-paros/index.md) | Paros | Greece | from $1,990/mo | 28 nights (~4 weeks) | Pop-up |
 | [Nomadico Antigua](/coliving/nomadico-antigua/index.md) | Antigua Guatemala | Guatemala | from $890/mo | 7 nights (~1 week) | Permanent |
-| [WiFi Tribe — Antigua](/coliving/wifi-tribe-antigua/index.md) | Antigua | Guatemala | from $1,090/mo | — | Pop-up |
+| [WiFi Tribe — Antigua](/coliving/wifi-tribe-antigua/index.md) | Antigua | Guatemala | from $1,090/mo | 28 nights (~4 weeks) | Pop-up |
 | [Noma Collective — Roatan](/coliving/noma-collective-roatan/index.md) | Roatan | Honduras | from $1,890 per event | — | Pop-up |
 | [Noma Collective — Budapest](/coliving/noma-collective-budapest/index.md) | Budapest | Hungary | from $1,990 per event | — | Pop-up |
 | [Portus Home Coliving](/coliving/portus-home-coliving/index.md) | Vászoly | Hungary | from HUF 750,000/mo | 5 nights | Permanent |
@@ -263,7 +263,7 @@
 | [The Sur II](/coliving/the-sur-ii/index.md) | Tulum | Mexico | from $1,091/mo | 30 nights (~1 month) | Permanent |
 | [Triver Coliving](/coliving/triver-coliving/index.md) | Mexico City | Mexico | from $60/night | 1 night | Permanent |
 | [U-Co Roma Coliving](/coliving/u-co-roma-coliving/index.md) | Mexico City | Mexico | from €381/mo | — | Permanent |
-| [WiFi Tribe — Puerto Escondido](/coliving/wifi-tribe-puerto-escondido/index.md) | Puerto Escondido | Mexico | from $1,290/mo | — | Pop-up |
+| [WiFi Tribe — Puerto Escondido](/coliving/wifi-tribe-puerto-escondido/index.md) | Puerto Escondido | Mexico | from $1,290/mo | 28 nights (~4 weeks) | Pop-up |
 | [co.404 Coliving San Cristóbal](/coliving/co-404-coliving-san-cristobal/index.md) | San Cristóbal de las Casas | Mexico | from $1,290/mo | 30 nights (~1 month) | Permanent |
 | [Boundless Life — Kotor](/coliving/boundless-life-kotor/index.md) | Kotor | Montenegro | from €1,700/mo | — | Pop-up |
 | [Kotor Nest](/coliving/kotor-nest/index.md) | Kotor | Montenegro | from €650/mo | — | Permanent |
@@ -294,16 +294,16 @@
 | [Outsite San Juan del Sur](/coliving/outsite-san-juan-del-sur/index.md) | San Juan del Sur | Nicaragua | from €1,300/mo | 2 nights | Permanent |
 | [Waves & Wifi](/coliving/waves-and-wifi/index.md) | Popoyo | Nicaragua | from $396/mo | — | Permanent |
 | [Seven Space: Coliving](/coliving/seven-space-coliving/index.md) | Lagos | Nigeria | from $30/night | 30 nights (~1 month) | Permanent |
-| [WiFi Tribe — Lake Ohrid](/coliving/wifi-tribe-lake-ohrid/index.md) | Lake Ohrid | North Macedonia | from $1,190/mo | — | Pop-up |
+| [WiFi Tribe — Lake Ohrid](/coliving/wifi-tribe-lake-ohrid/index.md) | Lake Ohrid | North Macedonia | from $1,190/mo | 28 nights (~4 weeks) | Pop-up |
 | [Arctic Coliving](/coliving/arctic-coliving/index.md) | Voss (Mjolfjell) / Henningsvaer, Lofoten | Norway | On request | 7 nights (~1 week) | Permanent |
 | [Bjørkedal Home](/coliving/bjrkedal-home/index.md) | Volda | Norway | from $720/mo | 30 nights (~1 month) | Permanent |
 | [Moritsgarden (Digital Nomad Norway)](/coliving/moritsgarden-digital-nomad-norway/index.md) | Folkestad | Norway | from €700/mo | — | Permanent |
 | [Ungsmaløya Residence](/coliving/ungsmalya-residence/index.md) | Nyksund | Norway | from $569/mo | 30 nights (~1 month) | Permanent |
-| [WiFi Tribe — Molde](/coliving/wifi-tribe-molde/index.md) | Molde | Norway | from $2,390/mo | — | Pop-up |
+| [WiFi Tribe — Molde](/coliving/wifi-tribe-molde/index.md) | Molde | Norway | from $2,390/mo | 28 nights (~4 weeks) | Pop-up |
 | [Bocas Del Toro Province Collective (WE)](/coliving/bocas-del-toro-province-collective-we/index.md) | Isla Bastimentos | Panama | from $735/mo | 30 nights (~1 month) | Permanent |
 | [CocoVivo](/coliving/cocovivo/index.md) | Bocas del Toro | Panama | from $1,650/mo | — | Permanent |
-| [WiFi Tribe — Bocas del Toro](/coliving/wifi-tribe-bocas-del-toro/index.md) | Bocas del Toro | Panama | from $1,390/mo | — | Pop-up |
-| [WiFi Tribe — Cusco](/coliving/wifi-tribe-cusco/index.md) | Cusco | Peru | from $1,090/mo | — | Pop-up |
+| [WiFi Tribe — Bocas del Toro](/coliving/wifi-tribe-bocas-del-toro/index.md) | Bocas del Toro | Panama | from $1,390/mo | 28 nights (~4 weeks) | Pop-up |
+| [WiFi Tribe — Cusco](/coliving/wifi-tribe-cusco/index.md) | Cusco | Peru | from $1,090/mo | 28 nights (~4 weeks) | Pop-up |
 | [Communal Coliving](/coliving/communal-coliving/index.md) | Santa Fe, Siargao | Philippines | from PHP 35,000/mo | 6 nights | Permanent |
 | [Coworksurf Siargao (Lexias)](/coliving/coworksurf-siargao-lexias/index.md) | Siargao | Philippines | On request | — | Permanent |
 | [Darocotan Home](/coliving/darocotan-home/index.md) | El Nido | Philippines | from $2,846/mo | 30 nights (~1 month) | Permanent |
@@ -373,8 +373,8 @@
 | [WOT Lodge Soul](/coliving/wot-lodge-soul/index.md) | Ericeira | Portugal | from €451/wk | 30 nights (~1 month) | Permanent |
 | [WOT Ocean Soul](/coliving/wot-ocean-soul/index.md) | Praia das Maçãs (Sintra) | Portugal | On request | — | Permanent |
 | [WOT Peniche Social](/coliving/wot-peniche-social/index.md) | Peniche | Portugal | On request | 30 nights (~1 month) | Permanent |
-| [WiFi Tribe — Ponta Delgada (Azores)](/coliving/wifi-tribe-ponta-delgada-azores/index.md) | Ponta Delgada (Azores) | Portugal | from $1,590/mo | — | Pop-up |
-| [WiFi Tribe — Porto](/coliving/wifi-tribe-porto/index.md) | Porto | Portugal | from $990/mo | — | Pop-up |
+| [WiFi Tribe — Ponta Delgada (Azores)](/coliving/wifi-tribe-ponta-delgada-azores/index.md) | Ponta Delgada (Azores) | Portugal | from $1,590/mo | 28 nights (~4 weeks) | Pop-up |
+| [WiFi Tribe — Porto](/coliving/wifi-tribe-porto/index.md) | Porto | Portugal | from $990/mo | 28 nights (~4 weeks) | Pop-up |
 | [Wild Oasis Algarve](/coliving/wild-oasis-algarve/index.md) | Monchique | Portugal | from €650/mo | — | Permanent |
 | [Wild Souls Coliving](/coliving/wild-souls-coliving/index.md) | Ericeira | Portugal | On request | — | Permanent |
 | [Wild Souls Ericeira](/coliving/wild-souls-ericeira/index.md) | Ericeira | Portugal | from €1,800/mo | 7 nights (~1 week) | Permanent |
@@ -521,7 +521,7 @@
 | [Sugar Hostel Weligama - Coliving & Coworking](/coliving/sugar-hostel-weligama-coliving-and-coworking/index.md) | Weligama | Sri Lanka | from $99/mo | 7 nights (~1 week) | Permanent |
 | [Surf & Zen Coworking and Coliving](/coliving/surf-and-zen-coworking-and-coliving/index.md) | Galle | Sri Lanka | from $25/night | — | Permanent |
 | [Weligama Bay Residence](/coliving/weligama-bay-residence/index.md) | Weligama | Sri Lanka | from $2,250/mo | 30 nights (~1 month) | Permanent |
-| [WiFi Tribe — Weligama](/coliving/wifi-tribe-weligama/index.md) | Weligama | Sri Lanka | from $1,290/mo | — | Pop-up |
+| [WiFi Tribe — Weligama](/coliving/wifi-tribe-weligama/index.md) | Weligama | Sri Lanka | from $1,290/mo | 28 nights (~4 weeks) | Pop-up |
 | [Arctic Coliving](/coliving/arctic-coliving-2/index.md) | Longyearbyen | Svalbard (Norway) | from €280 per week | 14 nights (~2 weeks) | Pop-up |
 | [Northliving](/coliving/northliving/index.md) | Häggdånger | Sweden | from €850/mo | 6 nights | Permanent |
 | [Alpiness Coliving](/coliving/alpiness-coliving/index.md) | Evolène | Switzerland | from CHF 1,200/mo | 15 nights | Permanent |
@@ -543,7 +543,7 @@
 | [AfricaNomads — Kilimanjaro (Moshi)](/coliving/africanomads-kilimanjaro-moshi/index.md) | Kilimanjaro (Moshi) | Tanzania | On request | — | Pop-up |
 | [AfricaNomads — Zanzibar](/coliving/africanomads-zanzibar-2/index.md) | Zanzibar | Tanzania | On request | — | Pop-up |
 | [Backyard Ventures](/coliving/backyard-ventures/index.md) | Arusha | Tanzania | from $2,750 per event | 30 nights (~1 month) | Pop-up |
-| [WiFi Tribe — Zanzibar City](/coliving/wifi-tribe-zanzibar-city/index.md) | Zanzibar City | Tanzania | from $1,390/mo | — | Pop-up |
+| [WiFi Tribe — Zanzibar City](/coliving/wifi-tribe-zanzibar-city/index.md) | Zanzibar City | Tanzania | from $1,390/mo | 28 nights (~4 weeks) | Pop-up |
 | [4Seas Nimman Coliving Coworking Space](/coliving/4seas-nimman-coliving-coworking-space/index.md) | Chiang Mai | Thailand | On request | — | Permanent |
 | [Alt Coliving](/coliving/alt-coliving/index.md) | Chiang Mai | Thailand | from €500/mo | 30 nights (~1 month) | Permanent |
 | [Alt_PingRiver](/coliving/alt-pingriver/index.md) | Chiang Mai | Thailand | from €810/mo | 29 nights | Permanent |

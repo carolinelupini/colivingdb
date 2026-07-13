@@ -1,6 +1,6 @@
 # Coliving in Portugal
 
-> 64 colivings in Portugal, prices from €150 to €2,249 per month – last updated July 12, 2026.
+> 64 colivings in Portugal, prices from €150 to €2,249 per month – last updated July 13, 2026.
 
 ## All colivings
 
@@ -22,7 +22,7 @@
 | Outsite Ericeira - Centro | Ericeira | from €800/mo | 4.7 (34) | private | — | Permanent |
 | Outsite Lisbon - Cais do Sodre | Lisbon | from €800/mo | 4.5 (175) | private | 2 nights | Permanent |
 | samesame co-living | Lisbon | from €800/mo | 4.8 (84) | private | 8 nights | Permanent |
-| WiFi Tribe — Porto | Porto | from $990/mo | — | — | — | Pop-up |
+| WiFi Tribe — Porto | Porto | from $990/mo | — | private, shared | 28 nights (~4 weeks) | Pop-up |
 | Colive Madeira | Ponta do Sol, Madeira | from €900/mo | — | private, shared | — | Permanent |
 | A ver o Mar 1 | Coliving & Coworking | Funchal, Madeira | Ponta do Sol | from €920/mo | 4.6 (51) | private, dorm | 14 nights (~2 weeks) | Permanent |
 | Casa15 Azores | Sao Miguel, Azores | from €950/mo | — | private | — | Permanent |
@@ -41,7 +41,7 @@
 | Birds of Paradise | Aljezur | from €42/night | 5.0 (145) | private | 14 nights (~2 weeks) | Permanent |
 | The Spacious Valley | Ericeira | from €1,260/mo | — | private | 30 nights (~1 month) | Permanent |
 | Pomar Coliving | Moncarapacho (Algarve) | from €1,290/mo | 5.0 (77) | private | 7 nights (~1 week) | Permanent |
-| WiFi Tribe — Ponta Delgada (Azores) | Ponta Delgada (Azores) | from $1,590/mo | — | — | — | Pop-up |
+| WiFi Tribe — Ponta Delgada (Azores) | Ponta Delgada (Azores) | from $1,590/mo | — | private, shared | 28 nights (~4 weeks) | Pop-up |
 | Quinta do Cabeço Alto - Coliving & Coworking Retreat Venue - Madeira Island | Ponta do Sol | from €1,400/mo | 5.0 (23) | private, shared | — | Permanent |
 | NomaVillage | Lagos | from €1,420/mo | 4.8 (18) | private | 14 nights (~2 weeks) | Permanent |
 | Onda Co-Living | Ferrel (Baleal), Peniche | from €1,470/mo | 5.0 (27) | private | 14 nights (~2 weeks) | Permanent |

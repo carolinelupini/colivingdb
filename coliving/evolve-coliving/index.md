@@ -1,6 +1,6 @@
 # EVOLVE Coliving
 
-> Coliving in San Gwann, Malta. Last updated July 12, 2026.
+> Coliving in San Gwann, Malta. Last updated July 13, 2026.
 
 - **Location:** San Gwann, Malta
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # Coliving in Picauville (Normandy), France
 
-> 1 colivings in Picauville (Normandy), France, prices from €1,320 to €1,320 per month – last updated July 12, 2026.
+> 1 colivings in Picauville (Normandy), France, prices from €1,320 to €1,320 per month – last updated July 13, 2026.
 
 ## All colivings
 

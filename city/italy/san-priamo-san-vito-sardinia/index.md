@@ -1,6 +1,6 @@
 # Coliving in San Priamo, San Vito, Sardinia, Italy
 
-> 1 colivings in San Priamo, San Vito, Sardinia, Italy, prices from €1,020 to €1,020 per month – last updated July 12, 2026.
+> 1 colivings in San Priamo, San Vito, Sardinia, Italy, prices from €1,020 to €1,020 per month – last updated July 13, 2026.
 
 ## All colivings
 

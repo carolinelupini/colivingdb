@@ -1,13 +1,13 @@
 # WiFi Tribe — Bariloche
 
-> Coliving in Bariloche, Argentina. Last updated July 12, 2026.
+> Coliving in Bariloche, Argentina. Last updated July 13, 2026.
 
 - **Location:** Bariloche, Argentina
 - **Type:** Pop-up / dated edition
 - **Dates:** Nov 20 - Dec 18, 2026
 - **Price:** from $1,290/mo
 - **Price note:** coliving home accommodation (shared room, Veteran tier) + coworking + shared dinners + weekend adventures for the month-long chapter
-- **Room types:** —
+- **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** A monthly coliving chapter of 15-25 values-vetted remote professionals in cozy Patagonian mountain cabins overlooking Nahuel Huapi Lake, centered on weekend adventures like paragliding, kayaking, and hiking.
 - **Minimum stay:** 28 nights (~4 weeks)

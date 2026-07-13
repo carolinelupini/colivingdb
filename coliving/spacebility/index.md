@@ -1,6 +1,6 @@
 # Spacebility
 
-> Coliving in Cagliari (Sardinia), Italy. Last updated July 12, 2026.
+> Coliving in Cagliari (Sardinia), Italy. Last updated July 13, 2026.
 
 - **Location:** Cagliari (Sardinia), Italy
 - **Type:** Permanent coliving

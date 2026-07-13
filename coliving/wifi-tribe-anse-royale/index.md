@@ -1,13 +1,13 @@
 # WiFi Tribe — Anse Royale
 
-> Coliving in Anse Royale, Seychelles. Last updated July 12, 2026.
+> Coliving in Anse Royale, Seychelles. Last updated July 13, 2026.
 
 - **Location:** Anse Royale, Seychelles
 - **Type:** Pop-up / dated edition
 - **Dates:** Sep 11 - Oct 9, 2026
 - **Price:** from $1,590/mo
 - **Price note:** coliving accommodation (shared room, Veteran tier) + coworking + community activities for the month-long chapter
-- **Room types:** —
+- **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 28 nights (~4 weeks)
 - **Region:** Europe

@@ -1,6 +1,6 @@
 # Casa Pardal Coliving
 
-> Coliving in La Fortesa (Calaf), Catalonia, Spain. Last updated July 12, 2026.
+> Coliving in La Fortesa (Calaf), Catalonia, Spain. Last updated July 13, 2026.
 
 - **Location:** La Fortesa (Calaf), Catalonia, Spain
 - **Type:** Permanent coliving

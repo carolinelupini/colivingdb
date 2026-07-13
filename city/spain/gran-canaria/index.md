@@ -1,12 +1,12 @@
 # Coliving in Gran Canaria, Spain
 
-> 1 colivings in Gran Canaria, Spain, prices from €1,217 to €1,217 per month – last updated July 12, 2026.
+> 1 colivings in Gran Canaria, Spain, prices from €1,217 to €1,217 per month – last updated July 13, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| WiFi Tribe — Gran Canaria | Gran Canaria | from $1,390/mo | — | — | 30 nights (~1 month) | Pop-up |
+| WiFi Tribe — Gran Canaria | Gran Canaria | from $1,390/mo | — | private, shared | 30 nights (~1 month) | Pop-up |
 
 ## Price distribution
 

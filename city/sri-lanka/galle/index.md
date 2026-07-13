@@ -1,6 +1,6 @@
 # Coliving in Galle, Sri Lanka
 
-> 1 colivings in Galle, Sri Lanka – last updated July 12, 2026.
+> 1 colivings in Galle, Sri Lanka – last updated July 13, 2026.
 
 ## All colivings
 

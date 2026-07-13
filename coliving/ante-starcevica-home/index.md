@@ -1,6 +1,6 @@
 # Ante Starčevića Home
 
-> Coliving in Pakoštane, Croatia. Last updated July 12, 2026.
+> Coliving in Pakoštane, Croatia. Last updated July 13, 2026.
 
 - **Location:** Pakoštane, Croatia
 - **Type:** Pop-up / dated edition

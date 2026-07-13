@@ -1,6 +1,6 @@
 # Coliving in Egypt
 
-> 4 colivings in Egypt, prices from €167 to €631 per month – last updated July 12, 2026.
+> 4 colivings in Egypt, prices from €167 to €631 per month – last updated July 13, 2026.
 
 ## All colivings
 

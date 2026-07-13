@@ -1,6 +1,6 @@
 # Hacker Paradise — Placencia
 
-> Coliving in Placencia, Belize. Last updated July 12, 2026.
+> Coliving in Placencia, Belize. Last updated July 13, 2026.
 
 - **Location:** Placencia, Belize
 - **Type:** Pop-up / dated edition
