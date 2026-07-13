@@ -340,8 +340,9 @@
       </select>
     </div>
   </div>
-  <!-- row 3: tag chips + toggles -->
-  <div class="frline">
+  <!-- row 3: interest chips (what you do) + vibe chips (what it's like) — labelled dimensions -->
+  <div class="frline vibeline">
+    <span class="vibe-lbl">Interests</span>
     <div class="frow tags" id="tags"></div>
     <button id="reset">Reset filters</button>
   </div>
@@ -356,6 +357,10 @@
   <div class="cards-grid" id="regionCards"></div>
   <div class="browse-h">Browse by interest</div>
   <div class="cards-grid types" id="typeCards"></div>
+  <div id="vibeBrowse">
+    <div class="browse-h">Browse by vibe</div>
+    <div class="cards-grid types" id="vibeCards"></div>
+  </div>
   <div class="signup">
     <div class="signup-inner">
       <div>
@@ -749,6 +754,17 @@ TYPE_ORDER.filter(t=>tagFreq[t]).forEach(t=>{
   d.onclick=()=>{state.tags=new Set([t]); state.region="All"; state.showAll=false; render();};
   tcEl.appendChild(d);
 });
+// Browse by vibe — mirrors Browse by interest but for the vibe dimension (violet)
+const vcEl=document.getElementById("vibeCards");
+VIBES.forEach(v=>{
+  const hue="#6b5cd6";
+  const d=document.createElement("div"); d.className="card-b";
+  d.style.background=tint(hue,8); d.style.borderColor=tint(hue,26);
+  d.innerHTML=`<span class="cb-name"><span class="cb-dot" style="background:${hue}"></span>${v}</span><span class="cb-count" style="background:${hue}">${vibeFreq[v]}</span>`;
+  d.onclick=()=>{state.vibes=new Set([v]); state.tags=new Set(); state.region="All"; state.showAll=false; render();};
+  vcEl.appendChild(d);
+});
+if(!VIBES.length) document.getElementById("vibeBrowse").style.display="none";
 const countryCounts={}; C.forEach(x=>countryCounts[x.country]=(countryCounts[x.country]||0)+1);
 const ccEl=document.getElementById("countryChips");
 Object.keys(countryCounts).filter(c=>c!=="Multiple").sort((a,b)=>countryCounts[b]-countryCounts[a]).slice(0,20).forEach(c=>{
