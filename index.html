@@ -806,7 +806,9 @@ document.getElementById("home").onclick=()=>resetFilters(true);
 window.addEventListener("pageshow", e=>{ if(e.persisted) resetFilters(true); });
 
 // map
-const map = L.map("map",{scrollWheelZoom:true}).setView([25,10],2);
+// preferCanvas: draw the ~518 markers onto ONE canvas instead of 518 SVG DOM nodes — far less
+// main-thread work per render (the Total Blocking Time cost), and lighter memory.
+const map = L.map("map",{scrollWheelZoom:true, preferCanvas:true}).setView([25,10],2);
 map.attributionControl.setPrefix(false);   // drop the "Leaflet" prefix (BSD-2: no attribution required)
 // Leaflet measures its container at init; if fonts/layout are still settling the map renders at
 // the wrong size (grey band / squeezed world). Re-measure on load and on any container resize.
@@ -1111,7 +1113,9 @@ cmpModal.querySelector(".modal-close").onclick=()=>cmpModal.style.display="none"
 cmpModal.querySelector(".modal-backdrop").onclick=()=>cmpModal.style.display="none";
 document.addEventListener("keydown",e=>{ if(e.key==="Escape" && cmpModal.style.display==="flex") cmpModal.style.display="none"; });
 
-render();
+// defer the first render (map markers) off the load-blocking path — the server-rendered shell
+// (search, filters, browse cards) is already interactive; markers paint a beat later.
+(window.requestIdleCallback || (cb=>setTimeout(cb,1)))(render, {timeout:600});
 </script>
 </body>
 </html>
