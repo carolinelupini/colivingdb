@@ -835,7 +835,9 @@ legend.onAdd = () => {
 };
 legend.addTo(map);
 window.addEventListener("resize", () => map.invalidateSize());
-let markers=[];
+// markers live in one LayerGroup so a filter change is a single clearLayers() + batched add,
+// not ~518 individual removeLayer/addTo calls on the map (the main INP cost).
+const markerGroup=L.layerGroup().addTo(map);
 
 function isBrowse(){
   return state.region==="All" && !state.country && !state.room && state.showPerm && state.showPop && !state.month && !state.minStay && !state.minRating
@@ -1010,8 +1012,9 @@ function render(){
   document.getElementById("listSignup").style.display = browse ? "none" : "";
   document.querySelector(".list").style.display = browse ? "none" : "";
 
-  markers.forEach(m=>map.removeLayer(m)); markers=[];
+  markerGroup.clearLayers();
   const rowsEl=document.getElementById("rows"); rowsEl.innerHTML="";
+  const frag=document.createDocumentFragment();
   document.getElementById("empty").style.display=(!browse && !list.length)?"block":"none";
 
   const withCoords=[];
@@ -1021,10 +1024,10 @@ function render(){
       const col = x.format==="pop-up" ? "#b4531a" : (x.status!=="active" ? "#b07d1a" : "#0e7c66");
       const fill = x.format==="pop-up" ? "#e0894a" : (x.status!=="active" ? "#e0b04a" : "#0e7c66");
       const m=L.circleMarker([x.lat,x.lng],{radius:7,color:col,weight:2,fillColor:fill,fillOpacity:.55})
-        .addTo(map)
-        .bindPopup(`<b>${x.name}</b>${x.rating?` <span style="color:#a15c00">★${x.rating.toFixed(1)}${x.reviews?` (${x.reviews})`:""}</span>`:""}<br>${x.city?x.city+", ":""}${x.country}${x.priceEurMonthly?`<br>from ~€${x.priceEurMonthly}/mo`:""}${x._slug?`<br><a href="/coliving/${x._slug}/" style="font-weight:600">Details →</a>`:""}`);
+        .addTo(markerGroup)
+        .bindPopup(()=>`<b>${x.name}</b>${x.rating?` <span style="color:#a15c00">★${x.rating.toFixed(1)}${x.reviews?` (${x.reviews})`:""}</span>`:""}<br>${x.city?x.city+", ":""}${x.country}${x.priceEurMonthly?`<br>from ~€${x.priceEurMonthly}/mo`:""}${x._slug?`<br><a href="/coliving/${x._slug}/" style="font-weight:600">Details →</a>`:""}`);
       m.on("click",()=>focusRecord(idx));
-      markers.push(m); withCoords.push(m); x.__m=m;
+      withCoords.push(m); x.__m=m;
     } else { x.__m=null; }
 
     if(browse) return;
@@ -1065,8 +1068,9 @@ function render(){
       row.onclick=e=>{ if(!e.target.closest("a,button")) window.location.href=detailUrl; };
     }
     row.querySelector(".cmp").onclick=()=>toggleCompare(idx);
-    rowsEl.appendChild(row);
+    frag.appendChild(row);
   });
+  rowsEl.appendChild(frag);   // one DOM insertion, not up to 599 individual appends
 
   if(withCoords.length){
     const tight = !browse && (state.region!=="All"||state.country||state.room||!state.showPerm||!state.showPop||state.month||state.minStay||state.minRating||state.q||state.tags.size||state.vibes.size||!priceIsDefault());
