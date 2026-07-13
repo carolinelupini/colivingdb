@@ -3,7 +3,8 @@
 > Coliving in Las Palmas de Gran Canaria, Spain. Last updated July 13, 2026.
 
 - **Location:** Las Palmas de Gran Canaria, Spain
-- **Type:** Permanent coliving
+- **Type:** Pop-up / dated edition
+- **Dates:** Jun–Dec (seasonal; labeled 'pop-up')
 - **Price:** from €980/mo
 - **Price note:** from EUR980/month
 - **Room types:** private, shared

@@ -3,7 +3,8 @@
 > Coliving in Kotor, Montenegro. Last updated July 13, 2026.
 
 - **Location:** Kotor, Montenegro
-- **Type:** Permanent coliving
+- **Type:** Pop-up / dated edition
+- **Dates:** Oct–Dec & Mar–Apr (seasonal)
 - **Price:** from €690/mo
 - **Price note:** €1,530/mo discounted (reg. €1,800); ~€60/night
 - **Rating:** <a href="https://maps.google.com/?cid=3129399485750453374&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (4 reviews)</a> <small>· Google</small>

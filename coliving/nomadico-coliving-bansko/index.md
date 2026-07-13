@@ -3,7 +3,8 @@
 > Coliving in Bansko, Bulgaria. Last updated July 13, 2026.
 
 - **Location:** Bansko, Bulgaria
-- **Type:** Permanent coliving
+- **Type:** Pop-up / dated edition
+- **Dates:** June–July (seasonal; ski/summer season)
 - **Price:** from €638/mo
 - **Price note:** EUR 42/night, EUR 840/month
 - **Rating:** <a href="https://maps.google.com/?cid=3266246530591464880&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (16 reviews)</a> <small>· Google</small>

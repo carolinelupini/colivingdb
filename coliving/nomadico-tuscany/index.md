@@ -3,7 +3,8 @@
 > Coliving in Tuscany, Italy. Last updated July 13, 2026.
 
 - **Location:** Tuscany, Italy
-- **Type:** Permanent coliving
+- **Type:** Pop-up / dated edition
+- **Dates:** May–Dec (seasonal)
 - **Price:** from €823/mo
 - **Price note:** from EUR823/month
 - **Room types:** private, shared

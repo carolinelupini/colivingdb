@@ -6,12 +6,16 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Nomadico Tuscany | Tuscany | from €823/mo | — | private, shared | — | Permanent |
+| Nomadico Tuscany | Tuscany | from €823/mo | — | private, shared | — | Pop-up |
 
 ## Price distribution
 
 | Band (EUR/mo) | Colivings |
 |---|---|
 | 800–1200 | 1 |
+
+## Upcoming pop-ups
+
+- Nomadico Tuscany — May–Dec (seasonal)
 
 Source: https://colivingdb.com/city/italy/tuscany/

@@ -80,6 +80,7 @@
   .chip.vibe.on{background:#efeaff; color:#5b4bc4; border-color:#7c6ce0; border-style:solid;}
   .vibeline{align-items:center; gap:8px;}
   .vibe-lbl{font-size:.8rem; color:var(--muted); font-weight:600;}
+  .vibebrowse-row{justify-content:center; max-width:var(--wrap); margin:6px auto 0; flex-wrap:wrap; gap:8px;}
   .sep{width:1px; height:22px; background:var(--line);}
   select{padding:6px 10px; border:1px solid var(--line); border-radius:8px; font-size:.83rem; background:var(--card); color:var(--ink);}
   label.toggle{font-size:.82rem; color:var(--muted); display:flex; align-items:center; gap:6px; cursor:pointer;}
@@ -359,7 +360,7 @@
   <div class="cards-grid types" id="typeCards"></div>
   <div id="vibeBrowse">
     <div class="browse-h">Browse by vibe</div>
-    <div class="cards-grid types" id="vibeCards"></div>
+    <div class="frow vibes vibebrowse-row" id="vibeCards"></div>
   </div>
   <div class="signup">
     <div class="signup-inner">
@@ -627,7 +628,9 @@ TAGS.forEach(t=>{
 });
 // vibe chips — a SEPARATE dimension from interests (what it's like, not what you do). Only the
 // vibe tags present in the data show, in a fixed sensible order. Partial coverage by design.
-const VIBE_VOCAB = ["social","quiet","party","wellness","focused","luxury","budget","family-friendly","adventure","creative","surf","fitness"];
+// vibe = the character/atmosphere of a place, NOT an activity. Dropped surf (that's an interest),
+// plus wellness/adventure/fitness (activities, not vibes) per Caroline 2026-07-13.
+const VIBE_VOCAB = ["social","quiet","party","focused","luxury","budget","family-friendly","creative"];
 const vibeFreq = {};
 C.forEach(x => ((x.details||{}).vibeTags||[]).forEach(v => vibeFreq[v]=(vibeFreq[v]||0)+1));
 const VIBES = VIBE_VOCAB.filter(v=>vibeFreq[v]);
@@ -643,7 +646,7 @@ const countrySel=document.getElementById("country");
 [...new Set(C.map(x=>x.country))].filter(k=>k!=="Multiple").sort().forEach(k=>{
   const o=document.createElement("option"); o.value=k; o.textContent=k; countrySel.appendChild(o);
 });
-countrySel.onchange=e=>{state.country=e.target.value; render();};
+countrySel.onchange=e=>{state.country=e.target.value; window.scrollTo(0,0); render();};
 document.getElementById("room").onchange=e=>{state.room=e.target.value; render();};
 // type is now two checkboxes (both checked = show all, incl. any programs). Unchecking hides that type.
 document.getElementById("fPerm").onchange=e=>{state.showPerm=e.target.checked; render();};
@@ -742,7 +745,7 @@ REGIONS.filter(r=>r!=="All" && regionCounts[r]).sort((a,b)=>regionCounts[b]-regi
   const d=document.createElement("div"); d.className="card-b";
   d.style.background=tint(hue,7); d.style.borderColor=tint(hue,24);
   d.innerHTML=`<span class="cb-name"><span class="cb-dot" style="background:${hue}"></span>${r}</span><span class="cb-count" style="background:${hue}">${regionCounts[r]}</span>`;
-  d.onclick=()=>{state.region=r; state.showAll=false; state.country=""; countrySel.value=""; render();};
+  d.onclick=()=>{state.region=r; state.showAll=false; state.country=""; countrySel.value=""; window.scrollTo(0,0); render();};
   rcEl.appendChild(d);
 });
 const tcEl=document.getElementById("typeCards");
@@ -751,25 +754,22 @@ TYPE_ORDER.filter(t=>tagFreq[t]).forEach(t=>{
   const d=document.createElement("div"); d.className="card-b";
   d.style.background=tint(hue,7); d.style.borderColor=tint(hue,24);
   d.innerHTML=`<span class="cb-name"><span class="cb-dot" style="background:${hue}"></span>${t}</span><span class="cb-count" style="background:${hue}">${tagFreq[t]}</span>`;
-  d.onclick=()=>{state.tags=new Set([t]); state.region="All"; state.showAll=false; render();};
+  d.onclick=()=>{state.tags=new Set([t]); state.region="All"; state.showAll=false; window.scrollTo(0,0); render();};
   tcEl.appendChild(d);
 });
-// Browse by vibe — mirrors Browse by interest but for the vibe dimension (violet)
+// Browse by vibe — small chips (like the search-page filter), not big cards
 const vcEl=document.getElementById("vibeCards");
 VIBES.forEach(v=>{
-  const hue="#6b5cd6";
-  const d=document.createElement("div"); d.className="card-b";
-  d.style.background=tint(hue,8); d.style.borderColor=tint(hue,26);
-  d.innerHTML=`<span class="cb-name"><span class="cb-dot" style="background:${hue}"></span>${v}</span><span class="cb-count" style="background:${hue}">${vibeFreq[v]}</span>`;
-  d.onclick=()=>{state.vibes=new Set([v]); state.tags=new Set(); state.region="All"; state.showAll=false; render();};
-  vcEl.appendChild(d);
+  const b=document.createElement("button"); b.className="chip vibe"; b.textContent=v;
+  b.onclick=()=>{state.vibes=new Set([v]); state.tags=new Set(); state.region="All"; state.showAll=false; window.scrollTo(0,0); render();};
+  vcEl.appendChild(b);
 });
 if(!VIBES.length) document.getElementById("vibeBrowse").style.display="none";
 const countryCounts={}; C.forEach(x=>countryCounts[x.country]=(countryCounts[x.country]||0)+1);
 const ccEl=document.getElementById("countryChips");
 Object.keys(countryCounts).filter(c=>c!=="Multiple").sort((a,b)=>countryCounts[b]-countryCounts[a]).slice(0,20).forEach(c=>{
   const b=document.createElement("button"); b.className="cc"; b.innerHTML=`${c} <small>${countryCounts[c]}</small>`;
-  b.onclick=()=>{state.country=c; state.region="All"; state.showAll=false; countrySel.value=c; render();};
+  b.onclick=()=>{state.country=c; state.region="All"; state.showAll=false; countrySel.value=c; window.scrollTo(0,0); render();};
   ccEl.appendChild(b);
 });
 document.getElementById("showAll").onclick=()=>{state.showAll=true; render();};

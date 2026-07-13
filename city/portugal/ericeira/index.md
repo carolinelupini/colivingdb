@@ -7,7 +7,7 @@
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
 | Barefoot Guesthouse & Coliving Ericeira | Ericeira | from €240/mo | 4.9 (127) | private | 30 nights (~1 month) | Permanent |
-| Nomadico Coliving Ericeira | Ericeira | from €542/mo | 4.9 (28) | private, shared | 7 nights (~1 week) | Permanent |
+| Nomadico Coliving Ericeira | Ericeira | from €542/mo | 4.9 (28) | private, shared | 7 nights (~1 week) | Pop-up |
 | Outsite Ericeira - Boavista | Ericeira | from €800/mo | — | private | — | Permanent |
 | Outsite Ericeira - Centro | Ericeira | from €800/mo | 4.7 (34) | private | — | Permanent |
 | Outsite Ericeira - Praia do Sul | Ericeira | from €1,000/mo | 4.8 (15) | private | — | Permanent |
@@ -27,5 +27,9 @@
 | 500–800 | 1 |
 | 800–1200 | 3 |
 | 1200–2000 | 2 |
+
+## Upcoming pop-ups
+
+- Nomadico Coliving Ericeira — Nov–Dec (seasonal; unverified — confirm)
 
 Source: https://colivingdb.com/city/portugal/ericeira/

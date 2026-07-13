@@ -10,7 +10,7 @@
 | Barefoot Guesthouse & Coliving Ericeira | Ericeira | from €240/mo | 4.9 (127) | private | 30 nights (~1 month) | Permanent |
 | Coliving The VALLEY with Coworking Space | Rogé, Vale de Cambra | from €510/mo | 5.0 (33) | private | 5 nights | Permanent |
 | Quinta Da Carvalheira | Soure | from €510/mo | 5.0 (14) | — | 1 night | Permanent |
-| Nomadico Coliving Ericeira | Ericeira | from €542/mo | 4.9 (28) | private, shared | 7 nights (~1 week) | Permanent |
+| Nomadico Coliving Ericeira | Ericeira | from €542/mo | 4.9 (28) | private, shared | 7 nights (~1 week) | Pop-up |
 | Caminho Coliving | Moreira, Maia (Porto area) | from €595/mo | 4.9 (9) | private, dorm | — | Permanent |
 | LIV Colife - Coliving | Porto | from €660/mo | 3.9 (54) | private | — | Permanent |
 | Wild Oasis Algarve | Monchique | from €650/mo | 4.6 (73) | private | — | Permanent |
@@ -86,6 +86,7 @@
 - Boundless Life — Sintra — Apr-Jun 2026 / Sept-Nov 2026 / Dec 2026 / Jan-Mar 2027 / Apr-Jun 2027 (plus Summer Camps)
 - Casa Basilico — Madeira — Jun 1 - Jul 31, 2026
 - Hacker Paradise — Porto — 2026 (month unconfirmed)
+- Nomadico Coliving Ericeira — Nov–Dec (seasonal; unverified — confirm)
 - WiFi Tribe — Ponta Delgada (Azores) — Sep 11 - Oct 9, 2026
 - WiFi Tribe — Porto — Jul 3 - 31, 2026
 

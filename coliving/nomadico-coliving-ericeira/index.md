@@ -3,7 +3,8 @@
 > Coliving in Ericeira, Portugal. Last updated July 13, 2026.
 
 - **Location:** Ericeira, Portugal
-- **Type:** Permanent coliving
+- **Type:** Pop-up / dated edition
+- **Dates:** Nov–Dec (seasonal; unverified — confirm)
 - **Price:** from €542/mo
 - **Price note:** from EUR 542/4 weeks shared room (EUR 194/week)
 - **Rating:** <a href="https://maps.google.com/?cid=6542100931878043795&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (28 reviews)</a> <small>· Google</small>

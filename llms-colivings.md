@@ -38,7 +38,7 @@
 | [Neighbor.HUB Hostel & Coliving - Floripa](/coliving/neighbor-hub-hostel-and-coliving-floripa/index.md) | Florianópolis | Brazil | On request | — | Permanent |
 | [Noma Collective — Pipa](/coliving/noma-collective-pipa/index.md) | Pipa | Brazil | from $2,090 per event | — | Pop-up |
 | [Nomad's Ville (Mirante de Pipa)](/coliving/nomad-s-ville-mirante-de-pipa/index.md) | Praia da Pipa | Brazil | On request | — | Permanent |
-| [Nomadico Coliving Florianópolis](/coliving/nomadico-coliving-florianopolis/index.md) | Florianópolis | Brazil | from $380/mo | 7 nights (~1 week) | Permanent |
+| [Nomadico Coliving Florianópolis](/coliving/nomadico-coliving-florianopolis/index.md) | Florianópolis | Brazil | from $380/mo | 7 nights (~1 week) | Pop-up |
 | [The Manoel João Ferreira](/coliving/the-manoel-joao-ferreira/index.md) | Florianópolis (Barra da Lagoa) | Brazil | from $273/mo | 30 nights (~1 month) | Permanent |
 | [Vivére Coliving](/coliving/vivere-coliving/index.md) | Rio de Janeiro | Brazil | from BRL 1,950/mo | — | Permanent |
 | [WiFi Tribe — Florianópolis](/coliving/wifi-tribe-florianopolis/index.md) | Florianópolis | Brazil | from $1,690/mo | 28 nights (~4 weeks) | Pop-up |
@@ -48,7 +48,7 @@
 | [Coliving Valentina Bansko](/coliving/coliving-valentina-bansko/index.md) | Bansko | Bulgaria | from €750/mo | — | Permanent |
 | [Doctor Yordan Yosifov Collective](/coliving/doctor-yordan-yosifov-collective/index.md) | Sofia | Bulgaria | from $1,252/mo | 30 nights (~1 month) | Permanent |
 | [Four Leaf Clover Bansko - Coliving](/coliving/four-leaf-clover-bansko-coliving/index.md) | Bansko | Bulgaria | from €280/mo | — | Permanent |
-| [Nomadico Coliving Bansko](/coliving/nomadico-coliving-bansko/index.md) | Bansko | Bulgaria | from €638/mo | 7 nights (~1 week) | Permanent |
+| [Nomadico Coliving Bansko](/coliving/nomadico-coliving-bansko/index.md) | Bansko | Bulgaria | from €638/mo | 7 nights (~1 week) | Pop-up |
 | [Outsite Sofia](/coliving/outsite-sofia/index.md) | Sofia | Bulgaria | from €1,095/mo | — | Permanent |
 | [The Pirin](/coliving/the-pirin/index.md) | Bansko | Bulgaria | from $832/mo | 30 nights (~1 month) | Pop-up |
 | [The Yavor](/coliving/the-yavor/index.md) | Bansko | Bulgaria | from $343/mo | 30 nights (~1 month) | Permanent |
@@ -115,7 +115,7 @@
 | [Maysou A Noste](/coliving/maysou-a-noste/index.md) | Lurbe-Saint-Christau | France | from €420/mo | 6 nights | Permanent |
 | [NomadUnion Coliving (Villa)](/coliving/nomadunion-coliving-villa/index.md) | Biot | France | from €1,200/mo | 30 nights (~1 month) | Permanent |
 | [NomadUnion Coliving Nice](/coliving/nomadunion-coliving-nice/index.md) | Nice | France | from €900/mo | 30 nights (~1 month) | Permanent |
-| [Nomadico Anglet](/coliving/nomadico-anglet/index.md) | Anglet | France | from €790/mo | — | Permanent |
+| [Nomadico Anglet](/coliving/nomadico-anglet/index.md) | Anglet | France | from €790/mo | — | Pop-up |
 | [Not Sorry Coliving](/coliving/not-sorry-coliving/index.md) | near Tullins/Voiron, Isère (French Alps) | France | On request | — | Permanent |
 | [Outsite Bordeaux](/coliving/outsite-bordeaux/index.md) | Bordeaux | France | from €1,000/mo | 2 nights | Permanent |
 | [Outsite Paris (Zoku)](/coliving/outsite-paris-zoku/index.md) | Paris | France | On request | 2 nights | Permanent |
@@ -197,7 +197,7 @@
 | [Montino Coliving](/coliving/montino-coliving/index.md) | Oggebbio, Lake Maggiore | Italy | from €750/mo | 7 nights (~1 week) | Permanent |
 | [Navitas Coliving](/coliving/navitas-coliving/index.md) | Civitanova Marche | Italy | from €540/mo | 7 nights (~1 week) | Permanent |
 | [Nesting Away - Coliving in Italy](/coliving/nesting-away-coliving-in-italy/index.md) | Rome | Italy | from €41/night | 14 nights (~2 weeks) | Permanent |
-| [Nomadico Tuscany](/coliving/nomadico-tuscany/index.md) | Tuscany | Italy | from €823/mo | — | Permanent |
+| [Nomadico Tuscany](/coliving/nomadico-tuscany/index.md) | Tuscany | Italy | from €823/mo | — | Pop-up |
 | [Spacebility](/coliving/spacebility/index.md) | Cagliari (Sardinia) | Italy | On request | — | Permanent |
 | [Taste Remote](/coliving/taste-remote/index.md) | Civita Castellana | Italy | from €690 per event | 7 nights (~1 week) | Pop-up |
 | [Tertulia Coliving](/coliving/tertulia-coliving/index.md) | Vicchio (Mugello, Florence) | Italy | from €699/mo | 14 nights (~2 weeks) | Permanent |
@@ -268,7 +268,7 @@
 | [Boundless Life — Kotor](/coliving/boundless-life-kotor/index.md) | Kotor | Montenegro | from €1,700/mo | — | Pop-up |
 | [Kotor Nest](/coliving/kotor-nest/index.md) | Kotor | Montenegro | from €650/mo | — | Permanent |
 | [Njivice Home](/coliving/njivice-home/index.md) | Njivice, Herceg Novi (near Kotor) | Montenegro | from $412/mo | 30 nights (~1 month) | Permanent |
-| [Nomadico Coliving Kotor](/coliving/nomadico-coliving-kotor/index.md) | Kotor | Montenegro | from €690/mo | 7 nights (~1 week) | Permanent |
+| [Nomadico Coliving Kotor](/coliving/nomadico-coliving-kotor/index.md) | Kotor | Montenegro | from €690/mo | 7 nights (~1 week) | Pop-up |
 | [Nomio](/coliving/nomio/index.md) | Tivat | Montenegro | from €500/mo | — | Permanent |
 | [Pachamama Family (Radanovici Home)](/coliving/pachamama-family-radanovici-home/index.md) | Radanovici | Montenegro | from $960/mo | 30 nights (~1 month) | Permanent |
 | [Pachamama Farm Retreat](/coliving/pachamama-farm-retreat/index.md) | Ukropci (above Kotor Bay) | Montenegro | from €695/mo | 14 nights (~2 weeks) | Permanent |
@@ -339,7 +339,7 @@
 | [Lemon Bros Coliving](/coliving/lemon-bros-coliving/index.md) | Ribeira Grande, São Miguel | Portugal | On request | 14 nights (~2 weeks) | Permanent |
 | [Manas Slowliving](/coliving/manas-slowliving/index.md) | Sines | Portugal | from €1,050/mo | 7 nights (~1 week) | Permanent |
 | [NomaVillage](/coliving/nomavillage/index.md) | Lagos | Portugal | from €1,420/mo | 14 nights (~2 weeks) | Permanent |
-| [Nomadico Coliving Ericeira](/coliving/nomadico-coliving-ericeira/index.md) | Ericeira | Portugal | from €542/mo | 7 nights (~1 week) | Permanent |
+| [Nomadico Coliving Ericeira](/coliving/nomadico-coliving-ericeira/index.md) | Ericeira | Portugal | from €542/mo | 7 nights (~1 week) | Pop-up |
 | [Novovento](/coliving/novovento/index.md) | Ginetes, São Miguel, Azores | Portugal | from €300/mo | 7 nights (~1 week) | Permanent |
 | [Onda Co-Living](/coliving/onda-co-living/index.md) | Ferrel (Baleal), Peniche | Portugal | from €1,470/mo | 14 nights (~2 weeks) | Permanent |
 | [Outsite Algarve - Sagres](/coliving/outsite-algarve-sagres/index.md) | Sagres | Portugal | from €800/mo | 2 nights | Permanent |
@@ -466,9 +466,9 @@
 | [Maraya Coliving & Coworking](/coliving/maraya-coliving-and-coworking/index.md) | Candelaria, Tenerife | Spain | from €940/mo | 7 nights (~1 week) | Permanent |
 | [Mas Pujols](/coliving/mas-pujols/index.md) | Sant Boi de Llucanes (Catalonia) | Spain | On request | — | Permanent |
 | [Nine Coliving](/coliving/nine-coliving/index.md) | La Orotava, Tenerife | Spain | from €900/mo | 14 nights (~2 weeks) | Permanent |
-| [Nomadico Coliving Tarifa](/coliving/nomadico-coliving-tarifa/index.md) | Tarifa | Spain | from €737/mo | — | Permanent |
-| [Nomadico Gran Canaria](/coliving/nomadico-gran-canaria/index.md) | Las Palmas de Gran Canaria | Spain | from €980/mo | 7 nights (~1 week) | Permanent |
-| [Nomadico Mallorca Coliving](/coliving/nomadico-mallorca-coliving/index.md) | Búger, Mallorca | Spain | from €490/mo | 7 nights (~1 week) | Permanent |
+| [Nomadico Coliving Tarifa](/coliving/nomadico-coliving-tarifa/index.md) | Tarifa | Spain | from €737/mo | — | Pop-up |
+| [Nomadico Gran Canaria](/coliving/nomadico-gran-canaria/index.md) | Las Palmas de Gran Canaria | Spain | from €980/mo | 7 nights (~1 week) | Pop-up |
+| [Nomadico Mallorca Coliving](/coliving/nomadico-mallorca-coliving/index.md) | Búger, Mallorca | Spain | from €490/mo | 7 nights (~1 week) | Pop-up |
 | [Oasis Coliving](/coliving/oasis-coliving/index.md) | Playa de las Americas, Tenerife | Spain | from €849/mo | — | Permanent |
 | [Ojalá Casa](/coliving/ojala-casa/index.md) | La Caleta, Costa Adeje, Tenerife | Spain | On request | 30 nights (~1 month) | Permanent |
 | [Outsite Barcelona - Gothic Quarter](/coliving/outsite-barcelona-gothic-quarter/index.md) | Barcelona | Spain | from €1,700/mo | 2 nights | Permanent |

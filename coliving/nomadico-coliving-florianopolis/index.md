@@ -3,7 +3,8 @@
 > Coliving in Florianópolis, Brazil. Last updated July 13, 2026.
 
 - **Location:** Florianópolis, Brazil
-- **Type:** Permanent coliving
+- **Type:** Pop-up / dated edition
+- **Dates:** Mar–Dec (seasonal)
 - **Price:** from $380/mo
 - **Price note:** €690/mo discounted (reg. €990); ~€33/night
 - **Rating:** <a href="https://maps.google.com/?cid=4018864307812153624&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (15 reviews)</a> <small>· Google</small>

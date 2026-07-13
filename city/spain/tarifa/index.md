@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Nomadico Coliving Tarifa | Tarifa | from €737/mo | 5.0 (20) | private, shared | — | Permanent |
+| Nomadico Coliving Tarifa | Tarifa | from €737/mo | 5.0 (20) | private, shared | — | Pop-up |
 | The Cocotera Hostel & Coworking | Tarifa | from €15/night | 4.4 (282) | private, dorm | — | Permanent |
 
 ## Price distribution
@@ -14,5 +14,9 @@
 | Band (EUR/mo) | Colivings |
 |---|---|
 | 500–800 | 1 |
+
+## Upcoming pop-ups
+
+- Nomadico Coliving Tarifa — Oct–Mar (seasonal; hostel in summer)
 
 Source: https://colivingdb.com/city/spain/tarifa/

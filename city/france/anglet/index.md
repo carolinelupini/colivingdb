@@ -6,12 +6,16 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Nomadico Anglet | Anglet | from €790/mo | — | private, shared | — | Permanent |
+| Nomadico Anglet | Anglet | from €790/mo | — | private, shared | — | Pop-up |
 
 ## Price distribution
 
 | Band (EUR/mo) | Colivings |
 |---|---|
 | 500–800 | 1 |
+
+## Upcoming pop-ups
+
+- Nomadico Anglet — Sept–Dec & Mar–Jun (seasonal)
 
 Source: https://colivingdb.com/city/france/anglet/

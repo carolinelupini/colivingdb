@@ -12,7 +12,7 @@
 | Horizonte Coliving - Mangabeiras | Belo Horizonte | from BRL 1,600/mo | 5.0 (44) | private | 30 nights (~1 month) | Permanent |
 | Horizonte Coliving - Santa Tereza | Belo Horizonte | from BRL 1,700/mo | 5.0 (25) | private | 30 nights (~1 month) | Permanent |
 | Vivére Coliving | Rio de Janeiro | from BRL 1,950/mo | 4.4 (20) | private | — | Permanent |
-| Nomadico Coliving Florianópolis | Florianópolis | from $380/mo | 5.0 (15) | private, shared | 7 nights (~1 week) | Permanent |
+| Nomadico Coliving Florianópolis | Florianópolis | from $380/mo | 5.0 (15) | private, shared | 7 nights (~1 week) | Pop-up |
 | Manoel Pedro da Silveira Home | Florianópolis | from $465/mo | — | private, dorm | 30 nights (~1 month) | Permanent |
 | WiFi Tribe — Florianópolis | Florianópolis | from $1,690/mo | — | private, shared | 28 nights (~4 weeks) | Pop-up |
 | Neighbor.HUB Hostel & Coliving - Floripa | Florianópolis | On request | 4.4 (45) | private, shared, dorm | — | Permanent |
@@ -29,6 +29,7 @@
 ## Upcoming pop-ups
 
 - Noma Collective — Pipa — Oct 3 - Oct 24, 2026
+- Nomadico Coliving Florianópolis — Mar–Dec (seasonal)
 - WiFi Tribe — Florianópolis — Nov 20 - Dec 18, 2026
 
 Source: https://colivingdb.com/country/brazil/

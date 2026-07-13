@@ -10,7 +10,7 @@
 | Kotor Nest | Kotor | from €650/mo | 4.7 (160) | private, shared | — | Permanent |
 | Nomio | Tivat | from €500/mo | 5.0 (11) | private | — | Permanent |
 | Playworking Coliving | Đuraševići, Luštica Peninsula | from €600/mo | 4.5 (70) | private, shared | 5 nights | Permanent |
-| Nomadico Coliving Kotor | Kotor | from €690/mo | 4.5 (4) | private, shared | 7 nights (~1 week) | Permanent |
+| Nomadico Coliving Kotor | Kotor | from €690/mo | 4.5 (4) | private, shared | 7 nights (~1 week) | Pop-up |
 | Pachamama Farm Retreat | Ukropci (above Kotor Bay) | from €695/mo | 4.8 (229) | private, shared | 14 nights (~2 weeks) | Permanent |
 | Pachamama Family (Radanovici Home) | Radanovici | from $960/mo | 4.8 (229) | private, shared, dorm | 30 nights (~1 month) | Permanent |
 | Zaselje Home | Presjeka, Nikšić | from $857/mo | — | private | 30 nights (~1 month) | Permanent |
@@ -28,5 +28,6 @@
 ## Upcoming pop-ups
 
 - Boundless Life — Kotor — Apr-Jun 2026 / Sept-Nov 2026 / Dec 2026 / Jan-Mar 2027 / Apr-Jun 2027 (plus Summer Camps)
+- Nomadico Coliving Kotor — Oct–Dec & Mar–Apr (seasonal)
 
 Source: https://colivingdb.com/country/montenegro/

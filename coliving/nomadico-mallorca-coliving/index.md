@@ -3,7 +3,8 @@
 > Coliving in Búger, Mallorca, Spain. Last updated July 13, 2026.
 
 - **Location:** Búger, Mallorca, Spain
-- **Type:** Permanent coliving
+- **Type:** Pop-up / dated edition
+- **Dates:** Mar–Aug & Sep–Nov (seasonal)
 - **Price:** from €490/mo
 - **Price note:** from €490/month shared (low season); private higher
 - **Rating:** <a href="https://maps.google.com/?cid=2619042474139222600&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (30 reviews)</a> <small>· Google</small>

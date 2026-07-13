@@ -3,7 +3,8 @@
 > Coliving in Anglet, France. Last updated July 13, 2026.
 
 - **Location:** Anglet, France
-- **Type:** Permanent coliving
+- **Type:** Pop-up / dated edition
+- **Dates:** Sept–Dec & Mar–Jun (seasonal)
 - **Price:** from €790/mo
 - **Price note:** from EUR790/month
 - **Room types:** private, shared
