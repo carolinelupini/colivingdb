@@ -5,9 +5,9 @@
 - **Location:** Porto, Portugal
 - **Type:** Pop-up / dated edition
 - **Dates:** Jul 3 - 31, 2026
-- **Price:** from $1,390/mo
+- **Price:** from $2,490/mo
 - **Price note:** apartment accommodation (shared room, Veteran tier) + coworking for the month-long chapter
-- **Room types:** private, shared
+- **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 28 nights (~4 weeks)
 - **Region:** Europe
@@ -18,9 +18,9 @@
 
 ## Rates
 
-| Stay length | Private | Shared |
-|---|---|---|
-| Per month | $2,490 | $1,390 |
+| Stay length | Private |
+|---|---|
+| Per month | $2,490 |
 
 WiFi Tribe — Porto does not publish a nightly or weekly rate.
 

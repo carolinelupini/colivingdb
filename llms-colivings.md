@@ -302,7 +302,7 @@
 | [WiFi Tribe — Molde](/coliving/wifi-tribe-molde/index.md) | Molde | Norway | from $2,990/mo | 28 nights (~4 weeks) | Pop-up |
 | [Bocas Del Toro Province Collective (WE)](/coliving/bocas-del-toro-province-collective-we/index.md) | Isla Bastimentos | Panama | from $735/mo | 30 nights (~1 month) | Permanent |
 | [CocoVivo](/coliving/cocovivo/index.md) | Bocas del Toro | Panama | from $1,650/mo | — | Permanent |
-| [WiFi Tribe — Bocas del Toro](/coliving/wifi-tribe-bocas-del-toro/index.md) | Bocas del Toro | Panama | from $1,690/mo | 28 nights (~4 weeks) | Pop-up |
+| [WiFi Tribe — Bocas del Toro](/coliving/wifi-tribe-bocas-del-toro/index.md) | Bocas del Toro | Panama | from $2,990/mo | 28 nights (~4 weeks) | Pop-up |
 | [WiFi Tribe — Cusco](/coliving/wifi-tribe-cusco/index.md) | Cusco | Peru | from $1,490/mo | 28 nights (~4 weeks) | Pop-up |
 | [Communal Coliving](/coliving/communal-coliving/index.md) | Santa Fe, Siargao | Philippines | from PHP 35,000/mo | 6 nights | Permanent |
 | [Coworksurf Siargao (Lexias)](/coliving/coworksurf-siargao-lexias/index.md) | Siargao | Philippines | On request | — | Permanent |
@@ -374,7 +374,7 @@
 | [WOT Ocean Soul](/coliving/wot-ocean-soul/index.md) | Praia das Maçãs (Sintra) | Portugal | On request | — | Permanent |
 | [WOT Peniche Social](/coliving/wot-peniche-social/index.md) | Peniche | Portugal | On request | 30 nights (~1 month) | Permanent |
 | [WiFi Tribe — Ponta Delgada (Azores)](/coliving/wifi-tribe-ponta-delgada-azores/index.md) | Ponta Delgada (Azores) | Portugal | from $1,990/mo | 28 nights (~4 weeks) | Pop-up |
-| [WiFi Tribe — Porto](/coliving/wifi-tribe-porto/index.md) | Porto | Portugal | from $1,390/mo | 28 nights (~4 weeks) | Pop-up |
+| [WiFi Tribe — Porto](/coliving/wifi-tribe-porto/index.md) | Porto | Portugal | from $2,490/mo | 28 nights (~4 weeks) | Pop-up |
 | [Wild Oasis Algarve](/coliving/wild-oasis-algarve/index.md) | Monchique | Portugal | from €650/mo | — | Permanent |
 | [Wild Souls Coliving](/coliving/wild-souls-coliving/index.md) | Ericeira | Portugal | On request | — | Permanent |
 | [Wild Souls Ericeira](/coliving/wild-souls-ericeira/index.md) | Ericeira | Portugal | from €1,800/mo | 7 nights (~1 week) | Permanent |
@@ -385,7 +385,7 @@
 | [The Better Neighbours — Sinaia](/coliving/the-better-neighbours-sinaia/index.md) | Sinaia | Romania | from €670/mo | — | Pop-up |
 | [Transylvanian Coliving](/coliving/transylvanian-coliving/index.md) | Sibiu | Romania | On request | — | Permanent |
 | [play:space cluj Spatiu Evenimente Coworking Coliving](/coliving/play-space-cluj-spatiu-evenimente-coworking-coliving/index.md) | Cluj-Napoca | Romania | from €100/wk | — | Permanent |
-| [WiFi Tribe — Edinburgh](/coliving/wifi-tribe-edinburgh/index.md) | Edinburgh | Scotland (UK) | from $2,090/mo | 28 nights (~4 weeks) | Pop-up |
+| [WiFi Tribe — Edinburgh](/coliving/wifi-tribe-edinburgh/index.md) | Edinburgh | Scotland (UK) | from $3,690/mo | 28 nights (~4 weeks) | Pop-up |
 | [Gođevačka Collective](/coliving/goevacka-collective/index.md) | Divcibare | Serbia | from $2,257/mo | 30 nights (~1 month) | Permanent |
 | [Mokrin House](/coliving/mokrin-house/index.md) | Mokrin | Serbia | from €907/mo | — | Permanent |
 | [Sonta Coliving](/coliving/sonta-coliving/index.md) | Sonta | Serbia | from €430/mo | 14 nights (~2 weeks) | Permanent |
