@@ -1,6 +1,6 @@
 # Coliving in Spain
 
-> 93 colivings in Spain, prices from €71 to €2,600 per month – last updated July 13, 2026.
+> 92 colivings in Spain, prices from €71 to €2,600 per month – last updated July 13, 2026.
 
 ## All colivings
 
@@ -90,7 +90,6 @@
 | La Casita Coliving | Costa Adeje, Tenerife | On request | 4.9 (40) | private, shared | — | Permanent |
 | La Meca Coliving | Los Caños de Meca | On request | 4.9 (43) | private | — | Permanent |
 | Mas Pujols | Sant Boi de Llucanes (Catalonia) | On request | 5.0 (1) | private | — | Permanent |
-| OPENORBI | Ávila area (rural, ~2hrs from Madrid) | from €200 per event | — | — | — | Pop-up |
 | Ojalá Casa | La Caleta, Costa Adeje, Tenerife | On request | 5.0 (1) | private | 30 nights (~1 month) | Permanent |
 | ReStation | Las Palmas de Gran Canaria | On request | — | — | — | Permanent |
 | The Cocotera Hostel & Coworking | Tarifa | from €15/night | 4.4 (282) | private, dorm | — | Permanent |
@@ -113,7 +112,6 @@
 ## Upcoming pop-ups
 
 - Boundless Life — Andalusia (Malaga area) — Apr-Jun 2026 / Sept-Nov 2026 / Dec 2026 / Jan-Mar 2027 / Apr-Jun 2027 (plus Summer Camps)
-- OPENORBI — Sept 28 - Oct 6, 2025 known session; runs recurring 1-3 week packages, no further 2026 dates published
 - The Better Neighbours — Lloret de Mar — Oct 1 - Nov 30, 2026 (Autumn)
 - Tursi Digital Nomads — Tenerife (Canary Islands) — Jul 17 - 31, 2026
 - WiFi Tribe — Gran Canaria — Aug 7 - Sep 4, 2026

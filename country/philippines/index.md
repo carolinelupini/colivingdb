@@ -1,6 +1,6 @@
 # Coliving in Philippines
 
-> 7 colivings in Philippines, prices from €525 to €2,280 per month – last updated July 13, 2026.
+> 6 colivings in Philippines, prices from €525 to €2,280 per month – last updated July 13, 2026.
 
 ## All colivings
 
@@ -10,7 +10,6 @@
 | El Nido Home II | El Nido | from $6,667/mo | 4.0 (1) | private | 30 nights (~1 month) | Permanent |
 | Darocotan Home | El Nido | from $2,846/mo | 4.5 (307) | private, shared | 30 nights (~1 month) | Permanent |
 | Coworksurf Siargao (Lexias) | Siargao | On request | — | private, dorm | — | Permanent |
-| Kaya Connections — General Luna, Siargao | General Luna, Siargao | On request | — | — | — | Pop-up |
 | Lungga Coworking, Coliving & Cafe | General Luna (Siargao) | On request | 5.0 (38) | private, shared | — | Permanent |
 | Nomads Hub | Cebu | On request | 4.2 (142) | private, dorm | — | Permanent |
 
@@ -21,9 +20,5 @@
 | 500–800 | 1 |
 | 1200–2000 | 1 |
 | 2000–∞ | 1 |
-
-## Upcoming pop-ups
-
-- Kaya Connections — General Luna, Siargao — Tribe 5 — September 2025 (most recent published; no confirmed 2026 dates yet)
 
 Source: https://colivingdb.com/country/philippines/

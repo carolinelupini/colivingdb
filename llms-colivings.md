@@ -1,6 +1,6 @@
 # colivingDB — all colivings
 
-> 601 listings. Last updated July 13, 2026.
+> 599 listings. Last updated July 13, 2026.
 
 | Coliving | City | Country | Price from | Min stay | Type |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Tursi Digital Nomads — Parga](/coliving/tursi-digital-nomads-parga/index.md) | Parga | Greece | from €799 per event | — | Pop-up |
 | [WiFi Tribe — Paros](/coliving/wifi-tribe-paros/index.md) | Paros | Greece | from $1,990/mo | 28 nights (~4 weeks) | Pop-up |
 | [Nomadico Antigua](/coliving/nomadico-antigua/index.md) | Antigua Guatemala | Guatemala | from $890/mo | 7 nights (~1 week) | Permanent |
-| [WiFi Tribe — Antigua](/coliving/wifi-tribe-antigua/index.md) | Antigua | Guatemala | from $1,790/mo | 28 nights (~4 weeks) | Pop-up |
+| [WiFi Tribe — Antigua](/coliving/wifi-tribe-antigua/index.md) | Antigua | Guatemala | from $1,490/mo | 28 nights (~4 weeks) | Pop-up |
 | [Noma Collective — Roatan](/coliving/noma-collective-roatan/index.md) | Roatan | Honduras | from $1,890 per event | — | Pop-up |
 | [Noma Collective — Budapest](/coliving/noma-collective-budapest/index.md) | Budapest | Hungary | from $1,990 per event | — | Pop-up |
 | [Portus Home Coliving](/coliving/portus-home-coliving/index.md) | Vászoly | Hungary | from HUF 750,000/mo | 5 nights | Permanent |
@@ -308,7 +308,6 @@
 | [Coworksurf Siargao (Lexias)](/coliving/coworksurf-siargao-lexias/index.md) | Siargao | Philippines | On request | — | Permanent |
 | [Darocotan Home](/coliving/darocotan-home/index.md) | El Nido | Philippines | from $2,846/mo | 30 nights (~1 month) | Permanent |
 | [El Nido Home II](/coliving/el-nido-home-ii/index.md) | El Nido | Philippines | from $6,667/mo | 30 nights (~1 month) | Permanent |
-| [Kaya Connections — General Luna, Siargao](/coliving/kaya-connections-general-luna-siargao/index.md) | General Luna, Siargao | Philippines | On request | — | Pop-up |
 | [Lungga Coworking, Coliving & Cafe](/coliving/lungga-coworking-coliving-and-cafe/index.md) | General Luna (Siargao) | Philippines | On request | — | Permanent |
 | [Nomads Hub](/coliving/nomads-hub/index.md) | Cebu | Philippines | On request | — | Permanent |
 | [RAZAM](/coliving/razam/index.md) | Grodzisk Mazowiecki | Poland | from €900/mo | 5 nights | Permanent |
@@ -470,7 +469,6 @@
 | [Nomadico Coliving Tarifa](/coliving/nomadico-coliving-tarifa/index.md) | Tarifa | Spain | from €737/mo | — | Permanent |
 | [Nomadico Gran Canaria](/coliving/nomadico-gran-canaria/index.md) | Las Palmas de Gran Canaria | Spain | from €980/mo | 7 nights (~1 week) | Permanent |
 | [Nomadico Mallorca Coliving](/coliving/nomadico-mallorca-coliving/index.md) | Búger, Mallorca | Spain | from €490/mo | 7 nights (~1 week) | Permanent |
-| [OPENORBI](/coliving/openorbi/index.md) | Ávila area (rural, ~2hrs from Madrid) | Spain | from €200 per event | — | Pop-up |
 | [Oasis Coliving](/coliving/oasis-coliving/index.md) | Playa de las Americas, Tenerife | Spain | from €849/mo | — | Permanent |
 | [Ojalá Casa](/coliving/ojala-casa/index.md) | La Caleta, Costa Adeje, Tenerife | Spain | On request | 30 nights (~1 month) | Permanent |
 | [Outsite Barcelona - Gothic Quarter](/coliving/outsite-barcelona-gothic-quarter/index.md) | Barcelona | Spain | from €1,700/mo | 2 nights | Permanent |
