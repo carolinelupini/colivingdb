@@ -1,6 +1,6 @@
 # Flipco
 
-> Coliving in Madrid, Spain. Last updated July 13, 2026.
+> Coliving in Madrid, Spain. Last updated July 14, 2026.
 
 - **Location:** Madrid, Spain
 - **Type:** Permanent coliving
@@ -9,7 +9,7 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Hotel comfort, apartment freedom — disconnect to connect
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** community, coworking, city

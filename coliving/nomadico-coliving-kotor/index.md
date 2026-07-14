@@ -1,6 +1,6 @@
 # Nomadico Coliving Kotor
 
-> Coliving in Kotor, Montenegro. Last updated July 13, 2026.
+> Coliving in Kotor, Montenegro. Last updated July 14, 2026.
 
 - **Location:** Kotor, Montenegro
 - **Type:** Pop-up / dated edition
@@ -11,7 +11,7 @@
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** 'Mornings begin with the sound of church bells and walks along the bay... Workdays flow quietly from deep focus in cosy corners to sunset hikes or music at a nearby bar.'
-- **Minimum stay:** 7 nights (~1 week)
+- **Minimum stay:** 7 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** mountain, coworking, community, city

@@ -1,13 +1,13 @@
 # Coliving in Bogotá, Colombia
 
-> 2 colivings in Bogotá, Colombia, prices from €480 to €615 per month – last updated July 13, 2026.
+> 2 colivings in Bogotá, Colombia, prices from €480 to €615 per month – last updated July 14, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Mimos Coliving - Bogota | Bogotá | from €480/mo | 5.0 (7) | private | 120 nights (~4 months) | Permanent |
-| The Milagro | Bogotá | from €615/mo | 3.5 (8) | private | 30 nights (~1 month) | Permanent |
+| Mimos Coliving - Bogota | Bogotá | from €480/mo | 5.0 (7) | private | 4 months | Permanent |
+| The Milagro | Bogotá | from €615/mo | 3.5 (8) | private | 30 nights | Permanent |
 
 ## Price distribution
 

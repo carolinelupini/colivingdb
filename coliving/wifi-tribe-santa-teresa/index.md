@@ -1,6 +1,6 @@
 # WiFi Tribe — Santa Teresa
 
-> Coliving in Santa Teresa, Costa Rica. Last updated July 13, 2026.
+> Coliving in Santa Teresa, Costa Rica. Last updated July 14, 2026.
 
 - **Location:** Santa Teresa, Costa Rica
 - **Type:** Pop-up / dated edition
@@ -11,7 +11,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 170 Mbps <small>· operator-reported</small>
 - **Vibe:** Laid-back surf-town chapter blending productive mornings and coworking with a thriving wellness scene (yoga, breathwork) and weekend adventures
-- **Minimum stay:** 28 nights (~4 weeks)
+- **Minimum stay:** 28 nights
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Second guest:** In a private room each guest pays the shared-room rate — a private room fits one or two people for the same total, so a couple pays the same as booking two shared spots. Solo travellers can book a private room at the private rate.

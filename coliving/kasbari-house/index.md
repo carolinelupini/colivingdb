@@ -1,6 +1,6 @@
 # Kasbari House
 
-> Coliving in Tamraght (near Taghazout/Agadir), Morocco. Last updated July 13, 2026.
+> Coliving in Tamraght (near Taghazout/Agadir), Morocco. Last updated July 14, 2026.
 
 - **Location:** Tamraght (near Taghazout/Agadir), Morocco
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Vibe:** Work, Surf, Connect — digital nomad tribe by the beach
-- **Minimum stay:** 7 nights (~1 week)
+- **Minimum stay:** 7 nights
 - **Region:** Africa
 - **Timezone:** GMT+1 <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** surf, beach, coworking, community

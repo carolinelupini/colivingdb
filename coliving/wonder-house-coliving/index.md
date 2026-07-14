@@ -1,6 +1,6 @@
 # Wonder House Coliving
 
-> Coliving in Sant Feliu de Buixalleu, Girona, Spain. Last updated July 13, 2026.
+> Coliving in Sant Feliu de Buixalleu, Girona, Spain. Last updated July 14, 2026.
 
 - **Location:** Sant Feliu de Buixalleu, Girona, Spain
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** Spontaneous adventures, unexpected friendships, and unforgettable moments
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, mountain, coworking, community

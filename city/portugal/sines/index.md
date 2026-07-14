@@ -1,12 +1,12 @@
 # Coliving in Sines, Portugal
 
-> 1 colivings in Sines, Portugal, prices from €1,050 to €1,050 per month – last updated July 13, 2026.
+> 1 colivings in Sines, Portugal, prices from €1,050 to €1,050 per month – last updated July 14, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Manas Slowliving | Sines | from €1,050/mo | 4.9 (27) | private | 7 nights (~1 week) | Permanent |
+| Manas Slowliving | Sines | from €1,050/mo | 4.9 (27) | private | 7 nights | Permanent |
 
 ## Price distribution
 

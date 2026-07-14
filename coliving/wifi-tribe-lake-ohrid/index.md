@@ -1,6 +1,6 @@
 # WiFi Tribe — Lake Ohrid
 
-> Coliving in Lake Ohrid, North Macedonia. Last updated July 13, 2026.
+> Coliving in Lake Ohrid, North Macedonia. Last updated July 14, 2026.
 
 - **Location:** Lake Ohrid, North Macedonia
 - **Type:** Pop-up / dated edition
@@ -10,7 +10,7 @@
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** Monthly coliving/coworking chapter of 15-25 values-vetted remote professionals in the UNESCO World Heritage lakeside town of Ohrid, emphasizing tight-knit community.
-- **Minimum stay:** 28 nights (~4 weeks)
+- **Minimum stay:** 28 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Second guest:** In a private room each guest pays the shared-room rate — a private room fits one or two people for the same total, so a couple pays the same as booking two shared spots. Solo travellers can book a private room at the private rate.

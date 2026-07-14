@@ -1,6 +1,6 @@
 # García Morato Home
 
-> Coliving in Las Palmas, Spain. Last updated July 13, 2026.
+> Coliving in Las Palmas, Spain. Last updated July 14, 2026.
 
 - **Location:** Las Palmas, Spain
 - **Type:** Permanent coliving
@@ -11,7 +11,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 300 Mbps <small>· operator-reported</small>
 - **Vibe:** social, collaborative live-work space for professionals
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** city, coworking, community, island

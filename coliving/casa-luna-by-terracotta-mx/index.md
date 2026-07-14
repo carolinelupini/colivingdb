@@ -1,6 +1,6 @@
 # Casa Luna by Terracotta MX
 
-> Coliving in Mexico City, Mexico. Last updated July 13, 2026.
+> Coliving in Mexico City, Mexico. Last updated July 14, 2026.
 
 - **Location:** Mexico City, Mexico
 - **Type:** Permanent coliving
@@ -9,7 +9,7 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Site content is for 'The Terracotta' brand generally (does not specifically name 'Casa Luna'): 'service, design and simplicity are at our core,' promising 'extraordinary... local life in Mexico City' and 'special Terracotta hospitality.'
-- **Minimum stay:** 7 nights (~1 week)
+- **Minimum stay:** 7 nights
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Elevation:** 2,285 m

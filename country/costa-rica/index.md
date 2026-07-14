@@ -1,6 +1,6 @@
 # Coliving in Costa Rica
 
-> 12 colivings in Costa Rica, prices from €289 to €4,001 per month – last updated July 13, 2026.
+> 12 colivings in Costa Rica, prices from €289 to €4,001 per month – last updated July 14, 2026.
 
 ## All colivings
 
@@ -9,15 +9,15 @@
 | Unity Coliving | San José | from $330/mo | 4.6 (68) | private | — | Permanent |
 | Stolas Coliving | San José | from $420/mo | 4.7 (55) | private | — | Permanent |
 | Stolas Garden | San José | from $420/mo | 4.5 (2) | private | — | Permanent |
-| La Granja Residence | San Pedro, San José | from $521/mo | — | private | 30 nights (~1 month) | Permanent |
+| La Granja Residence | San Pedro, San José | from $521/mo | — | private | 30 nights | Permanent |
 | Locoworking Costa Rica | Sámara | from $680/mo | 4.8 (55) | private | — | Permanent |
-| WiFi Tribe — Santa Teresa | Santa Teresa | from $1,790/mo | — | private, shared | 28 nights (~4 weeks) | Pop-up |
+| WiFi Tribe — Santa Teresa | Santa Teresa | from $1,790/mo | — | private, shared | 28 nights | Pop-up |
 | Outsite Santa Teresa - Maramar | Santa Teresa | from $120/night | — | private | — | Permanent |
 | Outsite Santa Teresa - Playa | Santa Teresa | from $2,154/mo | 4.8 (47) | private | 2 nights | Permanent |
-| Puntarenas Residence | Monteverde (Santa Elena) | from $4,574/mo | — | private | 30 nights (~1 month) | Permanent |
+| Puntarenas Residence | Monteverde (Santa Elena) | from $4,574/mo | — | private | 30 nights | Permanent |
 | Noma Collective — Playa Grande | Playa Grande | from $1,590 per event | — | — | — | Pop-up |
 | Outsite Playa Grande | Playa Grande | On request | 4.8 (47) | private | 1 night | Permanent |
-| Protopia Community | San José | On request | 4.9 (18) | private, dorm | 14 nights (~2 weeks) | Permanent |
+| Protopia Community | San José | On request | 4.9 (18) | private, dorm | 14 nights | Permanent |
 
 ## Price distribution
 

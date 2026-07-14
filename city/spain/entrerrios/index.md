@@ -1,12 +1,12 @@
 # Coliving in Entrerríos, Spain
 
-> 1 colivings in Entrerríos, Spain, prices from €630 to €630 per month – last updated July 13, 2026.
+> 1 colivings in Entrerríos, Spain, prices from €630 to €630 per month – last updated July 14, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| La Loba - The Space | Entrerríos | from €630/mo | 5.0 (4) | private | 7 nights (~1 week) | Permanent |
+| La Loba - The Space | Entrerríos | from €630/mo | 5.0 (4) | private | 7 nights | Permanent |
 
 ## Price distribution
 

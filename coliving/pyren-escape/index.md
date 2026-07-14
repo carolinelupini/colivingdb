@@ -1,6 +1,6 @@
 # Pyren'Escape
 
-> Coliving in Guchen (Saubissan), Pyrenees, France. Last updated July 13, 2026.
+> Coliving in Guchen (Saubissan), Pyrenees, France. Last updated July 14, 2026.
 
 - **Location:** Guchen (Saubissan), Pyrenees, France
 - **Type:** Permanent coliving
@@ -11,7 +11,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 650 Mbps <small>· operator-reported</small>
 - **Vibe:** lively, friendly rural mountain coliving community
-- **Minimum stay:** 14 nights (~2 weeks)
+- **Minimum stay:** 14 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Elevation:** 1,072 m

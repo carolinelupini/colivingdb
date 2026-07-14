@@ -1,12 +1,12 @@
 # Coliving in Valle d'Itria (Puglia), Italy
 
-> 1 colivings in Valle d'Itria (Puglia), Italy, prices from €650 to €650 per month – last updated July 13, 2026.
+> 1 colivings in Valle d'Itria (Puglia), Italy, prices from €650 to €650 per month – last updated July 14, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Masseria Olga | Valle d'Itria (Puglia) | from €650/mo | 4.7 (71) | private | 14 nights (~2 weeks) | Permanent |
+| Masseria Olga | Valle d'Itria (Puglia) | from €650/mo | 4.7 (71) | private | 14 nights | Permanent |
 
 ## Price distribution
 

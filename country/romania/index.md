@@ -1,13 +1,13 @@
 # Coliving in Romania
 
-> 4 colivings in Romania, prices from €670 to €775 per month – last updated July 13, 2026.
+> 4 colivings in Romania, prices from €670 to €775 per month – last updated July 14, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
 | The Better Neighbours — Sinaia | Sinaia | from €670/mo | — | — | — | Pop-up |
-| Cobana | Zărnești | from €775/mo | 5.0 (18) | private | 7 nights (~1 week) | Permanent |
+| Cobana | Zărnești | from €775/mo | 5.0 (18) | private | 7 nights | Permanent |
 | Transylvanian Coliving | Sibiu | On request | 5.0 (20) | private | — | Permanent |
 | play:space cluj Spatiu Evenimente Coworking Coliving | Cluj-Napoca | from €100/wk | 5.0 (12) | private | — | Permanent |
 

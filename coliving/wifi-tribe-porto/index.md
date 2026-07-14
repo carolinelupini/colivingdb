@@ -1,6 +1,6 @@
 # WiFi Tribe — Porto
 
-> Coliving in Porto, Portugal. Last updated July 13, 2026.
+> Coliving in Porto, Portugal. Last updated July 14, 2026.
 
 - **Location:** Porto, Portugal
 - **Type:** Pop-up / dated edition
@@ -9,7 +9,7 @@
 - **Price note:** apartment accommodation (shared room, Veteran tier) + coworking for the month-long chapter
 - **Room types:** private, shared
 - **Dorm available:** No
-- **Minimum stay:** 28 nights (~4 weeks)
+- **Minimum stay:** 28 nights
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Second guest:** In a private room each guest pays the shared-room rate — a private room fits one or two people for the same total, so a couple pays the same as booking two shared spots. Solo travellers can book a private room at the private rate.

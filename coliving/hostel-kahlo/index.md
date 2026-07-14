@@ -1,6 +1,6 @@
 # Hostel Kahlo
 
-> Coliving in Sierro, Almeria (Andalucia), Spain. Last updated July 13, 2026.
+> Coliving in Sierro, Almeria (Andalucia), Spain. Last updated July 14, 2026.
 
 - **Location:** Sierro, Almeria (Andalucia), Spain
 - **Type:** Permanent coliving

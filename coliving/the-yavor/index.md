@@ -1,6 +1,6 @@
 # The Yavor
 
-> Coliving in Bansko, Bulgaria. Last updated July 13, 2026.
+> Coliving in Bansko, Bulgaria. Last updated July 14, 2026.
 
 - **Location:** Bansko, Bulgaria
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 100 Mbps <small>· operator-reported</small>
 - **Vibe:** 'We welcome open-minded people looking for adventures and willing to explore the world in a friendly environment,' with regular social events and communal dining.
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Europe
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** mountain, ski, coworking, community

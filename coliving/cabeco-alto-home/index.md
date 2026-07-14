@@ -1,6 +1,6 @@
 # Cabeco Alto Home
 
-> Coliving in Santo da Serra (Madeira), Portugal. Last updated July 13, 2026.
+> Coliving in Santo da Serra (Madeira), Portugal. Last updated July 14, 2026.
 
 - **Location:** Santo da Serra (Madeira), Portugal
 - **Type:** Permanent coliving
@@ -11,7 +11,7 @@
 - **Dorm available:** Yes
 - **Wi-Fi (on-site):** 93 Mbps <small>· operator-reported</small>
 - **Vibe:** Community-and-adventure focused Madeira coliving/coworking built on optional group activities, new friendships, and relaxed, stress-free living.
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** rural, mountain, island, coworking, community

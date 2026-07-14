@@ -1,6 +1,6 @@
 # Nomad Shophouse
 
-> Coliving in Kuala Lumpur, Malaysia. Last updated July 13, 2026.
+> Coliving in Kuala Lumpur, Malaysia. Last updated July 14, 2026.
 
 - **Location:** Kuala Lumpur, Malaysia
 - **Type:** Permanent coliving
@@ -9,7 +9,7 @@
 - **Room types:** private, apartment
 - **Dorm available:** No
 - **Vibe:** Professional, community-oriented coworking and coliving space for remote workers and digital nomads in a heritage Chinatown shophouse.
-- **Minimum stay:** 7 nights (~1 week)
+- **Minimum stay:** 7 nights
 - **Region:** Asia
 - **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** coworking, community, city

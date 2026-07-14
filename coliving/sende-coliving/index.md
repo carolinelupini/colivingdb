@@ -1,6 +1,6 @@
 # Sende Coliving
 
-> Coliving in Senderiz, Ourense, Galicia, Spain. Last updated July 13, 2026.
+> Coliving in Senderiz, Ourense, Galicia, Spain. Last updated July 14, 2026.
 
 - **Location:** Senderiz, Ourense, Galicia, Spain
 - **Type:** Permanent coliving
@@ -11,7 +11,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 160 Mbps <small>· operator-reported</small>
 - **Vibe:** Sende is a place where deadline does not hurt
-- **Minimum stay:** 7 nights (~1 week)
+- **Minimum stay:** 7 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, mountain, community, coworking

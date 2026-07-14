@@ -1,12 +1,12 @@
 # Coliving in Florianópolis (Barra da Lagoa), Brazil
 
-> 1 colivings in Florianópolis (Barra da Lagoa), Brazil, prices from €238 to €238 per month – last updated July 13, 2026.
+> 1 colivings in Florianópolis (Barra da Lagoa), Brazil, prices from €238 to €238 per month – last updated July 14, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| The Manoel João Ferreira | Florianópolis (Barra da Lagoa) | from $273/mo | — | private, shared | 30 nights (~1 month) | Permanent |
+| The Manoel João Ferreira | Florianópolis (Barra da Lagoa) | from $273/mo | — | private, shared | 30 nights | Permanent |
 
 ## Price distribution
 

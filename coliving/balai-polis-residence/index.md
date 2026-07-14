@@ -1,6 +1,6 @@
 # Balai Polis Residence
 
-> Coliving in Kuala Lumpur, Malaysia. Last updated July 13, 2026.
+> Coliving in Kuala Lumpur, Malaysia. Last updated July 14, 2026.
 
 - **Location:** Kuala Lumpur, Malaysia
 - **Type:** Permanent coliving
@@ -11,7 +11,7 @@
 - **Dorm available:** Yes
 - **Wi-Fi (on-site):** 800 Mbps <small>· operator-reported</small>
 - **Vibe:** Social, community-driven residence with active programming (food tours, events) and shared spaces functioning as social hubs in a vibrant Chinatown location.
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Asia
 - **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** city, community

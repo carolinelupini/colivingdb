@@ -1,6 +1,6 @@
 # Roma Residence (Serenity Lodge)
 
-> Coliving in Sharm El-Sheikh, Egypt. Last updated July 13, 2026.
+> Coliving in Sharm El-Sheikh, Egypt. Last updated July 14, 2026.
 
 - **Location:** Sharm El-Sheikh, Egypt
 - **Type:** Permanent coliving
@@ -11,7 +11,7 @@
 - **Dorm available:** Yes
 - **Wi-Fi (on-site):** 30 Mbps <small>· operator-reported</small>
 - **Vibe:** warm, minimalist beach retreat community
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Africa
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** beach, coworking, community

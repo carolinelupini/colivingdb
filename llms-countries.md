@@ -1,6 +1,6 @@
 # colivingDB — all countries
 
-> 599 colivings across 83 countries. Last updated July 13, 2026.
+> 599 colivings across 83 countries. Last updated July 14, 2026.
 
 | Country | Colivings | From (EUR/mo) |
 |---|---|---|

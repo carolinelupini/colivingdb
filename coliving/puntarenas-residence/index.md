@@ -1,6 +1,6 @@
 # Puntarenas Residence
 
-> Coliving in Monteverde (Santa Elena), Costa Rica. Last updated July 13, 2026.
+> Coliving in Monteverde (Santa Elena), Costa Rica. Last updated July 14, 2026.
 
 - **Location:** Monteverde (Santa Elena), Costa Rica
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 111 Mbps <small>· operator-reported</small>
 - **Vibe:** A newly built property with 'modern, well-equipped rooms, along with bright and spacious common areas where guests can relax, and a co-working space,' set amid cloudforest biodiversity with a focus on local education projects.
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Elevation:** 1,331 m

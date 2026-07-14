@@ -1,6 +1,6 @@
 # Casa Turull (Palma Coliving Barcelona)
 
-> Coliving in Barcelona, Spain. Last updated July 13, 2026.
+> Coliving in Barcelona, Spain. Last updated July 14, 2026.
 
 - **Location:** Barcelona, Spain
 - **Type:** Permanent coliving
@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=16460062071379156407&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (54 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, community, coworking

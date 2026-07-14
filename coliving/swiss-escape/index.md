@@ -1,6 +1,6 @@
 # Swiss Escape
 
-> Coliving in Grimentz, Switzerland. Last updated July 13, 2026.
+> Coliving in Grimentz, Switzerland. Last updated July 14, 2026.
 
 - **Location:** Grimentz, Switzerland
 - **Type:** Permanent coliving
@@ -11,7 +11,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 100 Mbps <small>· operator-reported</small>
 - **Vibe:** Quiet mountain village to recharge after intense travel
-- **Minimum stay:** 7 nights (~1 week)
+- **Minimum stay:** 7 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Elevation:** 1,598 m

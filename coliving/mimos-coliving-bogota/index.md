@@ -1,6 +1,6 @@
 # Mimos Coliving - Bogota
 
-> Coliving in Bogotá, Colombia. Last updated July 13, 2026.
+> Coliving in Bogotá, Colombia. Last updated July 14, 2026.
 
 - **Location:** Bogotá, Colombia
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Part of the Mimos Coliving family brand — community-first, inclusive shared homes for people in transition (newcomers, digital nomads, professionals between homes) with flexible one-to-six-month stays, light shared chores, and thoughtful applicant screening for community fit.
-- **Minimum stay:** 120 nights (~4 months)
+- **Minimum stay:** 4 months
 - **Region:** Latin America
 - **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Elevation:** 2,582 m — expect a few days of altitude adjustment

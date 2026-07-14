@@ -1,6 +1,6 @@
 # Neighbours Co-living by Kolab
 
-> Coliving in Ho Chi Minh City, Vietnam. Last updated July 13, 2026.
+> Coliving in Ho Chi Minh City, Vietnam. Last updated July 14, 2026.
 
 - **Location:** Ho Chi Minh City, Vietnam
 - **Type:** Permanent coliving
@@ -9,7 +9,7 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** 'A community built through shared meals, conversations, and everyday moments,' focused on naturally fostering connection over work intensity.
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Asia
 - **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** community, coworking, city

@@ -1,6 +1,6 @@
 # Pachamama Family (Radanovici Home)
 
-> Coliving in Radanovici, Montenegro. Last updated July 13, 2026.
+> Coliving in Radanovici, Montenegro. Last updated July 14, 2026.
 
 - **Location:** Radanovici, Montenegro
 - **Type:** Permanent coliving
@@ -11,7 +11,7 @@
 - **Dorm available:** Yes
 - **Wi-Fi (on-site):** 200 Mbps <small>· operator-reported</small>
 - **Vibe:** farm retreat blending yoga and community living
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, eco, community

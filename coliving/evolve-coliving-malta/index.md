@@ -1,6 +1,6 @@
 # Evolve Coliving Malta
 
-> Coliving in Malta, Malta. Last updated July 13, 2026.
+> Coliving in Malta, Malta. Last updated July 14, 2026.
 
 - **Location:** Malta, Malta
 - **Type:** Permanent coliving
@@ -11,7 +11,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 1000 Mbps <small>· operator-reported</small>
 - **Vibe:** Relaxed, social but respectful Mediterranean community, early-30s average age
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** island, community, coworking

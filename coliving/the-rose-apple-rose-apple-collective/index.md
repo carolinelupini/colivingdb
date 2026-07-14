@@ -1,6 +1,6 @@
 # The Rose Apple (Rose Apple Collective)
 
-> Coliving in Siem Reap, Cambodia. Last updated July 13, 2026.
+> Coliving in Siem Reap, Cambodia. Last updated July 14, 2026.
 
 - **Location:** Siem Reap, Cambodia
 - **Type:** Permanent coliving
@@ -11,7 +11,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 100 Mbps <small>· operator-reported</small>
 - **Vibe:** Vibrant, values-driven community for digital nomads and remote workers
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Asia
 - **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** city, community, coworking

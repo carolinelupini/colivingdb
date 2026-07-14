@@ -1,6 +1,6 @@
 # Coliving in Los Angeles, United States
 
-> 2 colivings in Los Angeles, United States – last updated July 13, 2026.
+> 2 colivings in Los Angeles, United States – last updated July 14, 2026.
 
 ## All colivings
 

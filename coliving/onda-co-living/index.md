@@ -1,6 +1,6 @@
 # Onda Co-Living
 
-> Coliving in Ferrel (Baleal), Peniche, Portugal. Last updated July 13, 2026.
+> Coliving in Ferrel (Baleal), Peniche, Portugal. Last updated July 14, 2026.
 
 - **Location:** Ferrel (Baleal), Peniche, Portugal
 - **Type:** Permanent coliving
@@ -11,7 +11,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 800 Mbps <small>· operator-reported</small>
 - **Vibe:** Social, adventure-driven coliving with surf lessons, yoga, hiking, and kitesurfing for community-minded remote workers
-- **Minimum stay:** 14 nights (~2 weeks)
+- **Minimum stay:** 14 nights
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** beach, surf, coworking, community

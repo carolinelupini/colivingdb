@@ -1,12 +1,12 @@
 # Coliving in Dusheti, Georgia
 
-> 1 colivings in Dusheti, Georgia, prices from €560 to €560 per month – last updated July 13, 2026.
+> 1 colivings in Dusheti, Georgia, prices from €560 to €560 per month – last updated July 14, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Saakadze Home | Dusheti | from $639/mo | — | private | 30 nights (~1 month) | Permanent |
+| Saakadze Home | Dusheti | from $639/mo | — | private | 30 nights | Permanent |
 
 ## Price distribution
 

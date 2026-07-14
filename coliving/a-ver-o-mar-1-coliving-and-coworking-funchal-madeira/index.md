@@ -1,6 +1,6 @@
 # A ver o Mar 1 | Coliving & Coworking | Funchal, Madeira
 
-> Coliving in Ponta do Sol, Portugal. Last updated July 13, 2026.
+> Coliving in Ponta do Sol, Portugal. Last updated July 14, 2026.
 
 - **Location:** Ponta do Sol, Portugal
 - **Type:** Permanent coliving
@@ -9,7 +9,7 @@
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Vibe:** Continue your career while experiencing island adventures
-- **Minimum stay:** 14 nights (~2 weeks)
+- **Minimum stay:** 14 nights
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** coworking, island, community

@@ -1,6 +1,6 @@
 # The Tasga Oudrar II
 
-> Coliving in Taghazout, Morocco. Last updated July 13, 2026.
+> Coliving in Taghazout, Morocco. Last updated July 14, 2026.
 
 - **Location:** Taghazout, Morocco
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Dorm available:** Yes
 - **Wi-Fi (on-site):** 200 Mbps <small>· operator-reported</small>
 - **Vibe:** Surf-and-yoga camp combining coworking for entrepreneurs and startups with wellness activities and beach lifestyle.
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Africa
 - **Timezone:** GMT+1 <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** beach, surf, community, coworking

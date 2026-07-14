@@ -1,6 +1,6 @@
 # Tertulia Forest Coliving
 
-> Coliving in Mugello, Tuscany, Italy. Last updated July 13, 2026.
+> Coliving in Mugello, Tuscany, Italy. Last updated July 14, 2026.
 
 - **Location:** Mugello, Tuscany, Italy
 - **Type:** Permanent coliving
@@ -11,7 +11,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 200 Mbps <small>· operator-reported</small>
 - **Vibe:** International community in a restored 18th-century forest hamlet, combining remote work with agricultural projects, shared meals, and sustainable off-grid living.
-- **Minimum stay:** 7 nights (~1 week)
+- **Minimum stay:** 7 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, mountain, eco, coworking, community

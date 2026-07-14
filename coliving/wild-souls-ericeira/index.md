@@ -1,6 +1,6 @@
 # Wild Souls Ericeira
 
-> Coliving in Ericeira, Portugal. Last updated July 13, 2026.
+> Coliving in Ericeira, Portugal. Last updated July 14, 2026.
 
 - **Location:** Ericeira, Portugal
 - **Type:** Permanent coliving
@@ -11,7 +11,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 128 Mbps <small>· operator-reported</small>
 - **Vibe:** 'A cozy, sunlit house where you can surf in the morning, work in our ocean view coworking space, cook with strangers-turned-friends, and feel right at home along Portugal's stunning coast.'
-- **Minimum stay:** 7 nights (~1 week)
+- **Minimum stay:** 7 nights
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** surf, beach, coworking, community

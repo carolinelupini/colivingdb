@@ -1,6 +1,6 @@
 # Coliving in Indonesia
 
-> 20 colivings in Indonesia, prices from €363 to €1,500 per month – last updated July 13, 2026.
+> 20 colivings in Indonesia, prices from €363 to €1,500 per month – last updated July 14, 2026.
 
 ## All colivings
 
@@ -8,16 +8,16 @@
 |---|---|---|---|---|---|---|
 | Matra Bali | Canggu | from IDR 7,500,000/mo | 4.3 (122) | private | — | Permanent |
 | Cove Prana | Uluwatu | from IDR 9,900,000/mo | 4.4 (173) | private | — | Permanent |
-| The Sunset III | Kuta | from $573/mo | 4.8 (104) | private | 30 nights (~1 month) | Permanent |
-| The Sunset II | Kuta | from $588/mo | 4.8 (104) | private | 30 nights (~1 month) | Permanent |
+| The Sunset III | Kuta | from $573/mo | 4.8 (104) | private | 30 nights | Permanent |
+| The Sunset II | Kuta | from $588/mo | 4.8 (104) | private | 30 nights | Permanent |
 | Bali Bustle Coliving | Legian, Bali | from IDR 8,700,000/mo | 4.6 (462) | private | 3 nights | Permanent |
-| Outpost Ubud Penestanan | Ubud, Bali | from $849/mo | 4.6 (321) | private, shared | 14 nights (~2 weeks) | Permanent |
+| Outpost Ubud Penestanan | Ubud, Bali | from $849/mo | 4.6 (321) | private, shared | 14 nights | Permanent |
 | Outpost | Canggu, Bali | from $1,095/mo | 4.7 (320) | private, shared | — | Permanent |
-| Outpost Ubud Nyuh Kuning | Ubud, Bali | from $849/mo | 4.7 (320) | private, shared | 14 nights (~2 weeks) | Permanent |
-| The Ubud Residence (Raya Nyuh Kuning) | Ubud | from $949/mo | 5.0 (131) | private | 30 nights (~1 month) | Permanent |
+| Outpost Ubud Nyuh Kuning | Ubud, Bali | from $849/mo | 4.7 (320) | private, shared | 14 nights | Permanent |
+| The Ubud Residence (Raya Nyuh Kuning) | Ubud | from $949/mo | 5.0 (131) | private | 30 nights | Permanent |
 | Tropical Nomad Coliving | Canggu | from $950/mo | 4.4 (377) | private | — | Permanent |
-| Sokkool Coliving & Coworking | Canggu (Berawa), Bali | from IDR 616,000/mo | 4.9 (177) | private | 7 nights (~1 week) | Permanent |
-| Berawa Collective | Berawa (Canggu, Bali) | from $1,754/mo | 4.4 (52) | private | 30 nights (~1 month) | Permanent |
+| Sokkool Coliving & Coworking | Canggu (Berawa), Bali | from IDR 616,000/mo | 4.9 (177) | private | 7 nights | Permanent |
+| Berawa Collective | Berawa (Canggu, Bali) | from $1,754/mo | 4.4 (52) | private | 30 nights | Permanent |
 | Boundless Life — Canggu, Bali | Canggu, Bali | from €1,500/mo | — | — | — | Pop-up |
 | Coworksurf Berawa (Canggu) | Canggu | On request | 4.3 (20) | private | — | Permanent |
 | Coworksurf Kuta Lombok | Kuta Lombok | On request | — | private | — | Permanent |

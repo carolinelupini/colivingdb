@@ -1,6 +1,6 @@
 # Coliving in Villegar, Spain
 
-> 1 colivings in Villegar, Spain, prices from €810 to €810 per month – last updated July 13, 2026.
+> 1 colivings in Villegar, Spain, prices from €810 to €810 per month – last updated July 14, 2026.
 
 ## All colivings
 

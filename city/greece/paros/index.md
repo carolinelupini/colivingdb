@@ -1,12 +1,12 @@
 # Coliving in Paros, Greece
 
-> 1 colivings in Paros, Greece, prices from €1,394 to €1,394 per month – last updated July 13, 2026.
+> 1 colivings in Paros, Greece, prices from €1,394 to €1,394 per month – last updated July 14, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| WiFi Tribe — Paros | Paros | from $1,990/mo | — | private, shared | 28 nights (~4 weeks) | Pop-up |
+| WiFi Tribe — Paros | Paros | from $1,990/mo | — | private, shared | 28 nights | Pop-up |
 
 ## Price distribution
 

@@ -1,12 +1,12 @@
 # Coliving in Radanovici, Montenegro
 
-> 1 colivings in Radanovici, Montenegro, prices from €838 to €838 per month – last updated July 13, 2026.
+> 1 colivings in Radanovici, Montenegro, prices from €838 to €838 per month – last updated July 14, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Pachamama Family (Radanovici Home) | Radanovici | from $960/mo | 4.8 (229) | private, shared, dorm | 30 nights (~1 month) | Permanent |
+| Pachamama Family (Radanovici Home) | Radanovici | from $960/mo | 4.8 (229) | private, shared, dorm | 30 nights | Permanent |
 
 ## Price distribution
 

@@ -1,6 +1,6 @@
 # Weligama Bay Residence
 
-> Coliving in Weligama, Sri Lanka. Last updated July 13, 2026.
+> Coliving in Weligama, Sri Lanka. Last updated July 14, 2026.
 
 - **Location:** Weligama, Sri Lanka
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Work-focused surf-and-coliving community of global innovators, remote workers, and entrepreneurs with dedicated coworking spaces and a social rooftop bar.
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Asia
 - **Timezone:** GMT+5:30 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** beach, surf, coworking

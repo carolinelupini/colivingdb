@@ -1,6 +1,6 @@
 # Bocas Del Toro Province Collective (WE)
 
-> Coliving in Isla Bastimentos, Panama. Last updated July 13, 2026.
+> Coliving in Isla Bastimentos, Panama. Last updated July 14, 2026.
 
 - **Location:** Isla Bastimentos, Panama
 - **Type:** Permanent coliving
@@ -9,7 +9,7 @@
 - **Room types:** shared, private, dorm
 - **Dorm available:** Yes
 - **Vibe:** Chill, social jungle-and-beach coliving on Isla Bastimentos for adventurous, ocean-loving international travelers (typically 22-50), balancing comfort, nature, and adventure.
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Latin America
 - **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Tags:** beach, island, coworking, community

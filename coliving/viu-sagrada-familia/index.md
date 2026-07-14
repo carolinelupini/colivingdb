@@ -1,6 +1,6 @@
 # VIU Sagrada Familia
 
-> Coliving in Barcelona, Spain. Last updated July 13, 2026.
+> Coliving in Barcelona, Spain. Last updated July 14, 2026.
 
 - **Location:** Barcelona, Spain
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 250 Mbps <small>· operator-reported</small>
-- **Minimum stay:** 28 nights (~4 weeks)
+- **Minimum stay:** 28 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, community, coworking, eco

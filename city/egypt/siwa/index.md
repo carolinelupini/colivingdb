@@ -1,12 +1,12 @@
 # Coliving in Siwa, Egypt
 
-> 1 colivings in Siwa, Egypt, prices from €167 to €167 per month – last updated July 13, 2026.
+> 1 colivings in Siwa, Egypt, prices from €167 to €167 per month – last updated July 14, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Shali Home | Siwa | from $190/mo | 5.0 (1) | private, shared | 30 nights (~1 month) | Permanent |
+| Shali Home | Siwa | from $190/mo | 5.0 (1) | private, shared | 30 nights | Permanent |
 
 ## Price distribution
 

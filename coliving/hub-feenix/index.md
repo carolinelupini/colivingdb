@@ -1,6 +1,6 @@
 # Hub Feenix
 
-> Coliving in Mjolbolsta (Meltola), Raseborg, Finland. Last updated July 13, 2026.
+> Coliving in Mjolbolsta (Meltola), Raseborg, Finland. Last updated July 14, 2026.
 
 - **Location:** Mjolbolsta (Meltola), Raseborg, Finland
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Creative sanctuary for artists, healers, and nomads in nature
-- **Minimum stay:** 14 nights (~2 weeks)
+- **Minimum stay:** 14 nights
 - **Region:** Europe
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, community, coworking

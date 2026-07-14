@@ -1,6 +1,6 @@
 # The Laureles
 
-> Coliving in Medellin, Colombia. Last updated July 13, 2026.
+> Coliving in Medellin, Colombia. Last updated July 14, 2026.
 
 - **Location:** Medellin, Colombia
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 260 Mbps <small>· operator-reported</small>
 - **Vibe:** 'Everyone is working online in the daytime so it's very relaxed and respectable' — 'the perfect place to meet wonderful souls straight away.'
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Latin America
 - **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Elevation:** 1,492 m

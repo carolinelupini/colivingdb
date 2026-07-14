@@ -1,6 +1,6 @@
 # The Ubud Residence (Raya Nyuh Kuning)
 
-> Coliving in Ubud, Indonesia. Last updated July 13, 2026.
+> Coliving in Ubud, Indonesia. Last updated July 14, 2026.
 
 - **Location:** Ubud, Indonesia
 - **Type:** Permanent coliving
@@ -9,7 +9,7 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Peaceful village setting balancing quiet with convenience
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Asia
 - **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** community, rural, coworking

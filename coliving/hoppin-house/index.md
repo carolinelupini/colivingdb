@@ -1,6 +1,6 @@
 # Hoppin House
 
-> Coliving in Seoul (Yeonnam/Hongdae), South Korea. Last updated July 13, 2026.
+> Coliving in Seoul (Yeonnam/Hongdae), South Korea. Last updated July 14, 2026.
 
 - **Location:** Seoul (Yeonnam/Hongdae), South Korea
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** International digital nomad community in tranquil Seoul neighborhood
-- **Minimum stay:** 7 nights (~1 week)
+- **Minimum stay:** 7 nights
 - **Region:** Asia
 - **Timezone:** GMT+9 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** city, community, coworking

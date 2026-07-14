@@ -1,6 +1,6 @@
 # Coliving Prague
 
-> Coliving in Prague, Czechia. Last updated July 13, 2026.
+> Coliving in Prague, Czechia. Last updated July 14, 2026.
 
 - **Location:** Prague, Czechia
 - **Type:** Permanent coliving
@@ -9,7 +9,7 @@
 - **Room types:** —
 - **Dorm available:** No
 - **Vibe:** Work-life balance focused coliving with afternoon gigs/events, emphasizing networking with likeminded travelers over isolation.
-- **Minimum stay:** 90 nights (~3 months)
+- **Minimum stay:** 3 months
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** community, coworking, city

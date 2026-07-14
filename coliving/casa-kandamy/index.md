@@ -1,6 +1,6 @@
 # Casa Kandamy
 
-> Coliving in Tobia, Colombia. Last updated July 13, 2026.
+> Coliving in Tobia, Colombia. Last updated July 14, 2026.
 
 - **Location:** Tobia, Colombia
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Live and work surrounded by nature; community and movement
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Latin America
 - **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Tags:** mountain, rural, community, coworking

@@ -1,12 +1,12 @@
 # Coliving in Finland
 
-> 1 colivings in Finland, prices from €690 to €690 per month – last updated July 13, 2026.
+> 1 colivings in Finland, prices from €690 to €690 per month – last updated July 14, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Hub Feenix | Mjolbolsta (Meltola), Raseborg | from €690/mo | 4.5 (56) | private | 14 nights (~2 weeks) | Permanent |
+| Hub Feenix | Mjolbolsta (Meltola), Raseborg | from €690/mo | 4.5 (56) | private | 14 nights | Permanent |
 
 ## Price distribution
 

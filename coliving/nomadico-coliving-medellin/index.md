@@ -1,6 +1,6 @@
 # Nomadico Coliving Medellín
 
-> Coliving in Medellín, Colombia. Last updated July 13, 2026.
+> Coliving in Medellín, Colombia. Last updated July 14, 2026.
 
 - **Location:** Medellín, Colombia
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Buzzing, family-run community with salsa nights and city adventures
-- **Minimum stay:** 7 nights (~1 week)
+- **Minimum stay:** 7 nights
 - **Region:** Latin America
 - **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Elevation:** 1,473 m

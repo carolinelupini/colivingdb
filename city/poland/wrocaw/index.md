@@ -1,12 +1,12 @@
 # Coliving in Wrocław, Poland
 
-> 1 colivings in Wrocław, Poland, prices from €644 to €644 per month – last updated July 13, 2026.
+> 1 colivings in Wrocław, Poland, prices from €644 to €644 per month – last updated July 14, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| The Bolesławiecka (Bolesławiecka Home) | Wrocław | from $731/mo | — | private | 30 nights (~1 month) | Permanent |
+| The Bolesławiecka (Bolesławiecka Home) | Wrocław | from $731/mo | — | private | 30 nights | Permanent |
 
 ## Price distribution
 

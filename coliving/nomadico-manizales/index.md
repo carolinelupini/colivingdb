@@ -1,6 +1,6 @@
 # Nomadico Manizales
 
-> Coliving in Manizales, Colombia. Last updated July 13, 2026.
+> Coliving in Manizales, Colombia. Last updated July 14, 2026.
 
 - **Location:** Manizales, Colombia
 - **Type:** Permanent coliving
@@ -8,7 +8,7 @@
 - **Price note:** from $630/month; est. EUR
 - **Room types:** private, shared
 - **Dorm available:** No
-- **Minimum stay:** 7 nights (~1 week)
+- **Minimum stay:** 7 nights
 - **Region:** Latin America
 - **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Elevation:** 2,087 m

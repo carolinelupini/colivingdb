@@ -1,6 +1,6 @@
 # Tokyo Chapter
 
-> Coliving in Tokyo, Japan. Last updated July 13, 2026.
+> Coliving in Tokyo, Japan. Last updated July 14, 2026.
 
 - **Location:** Tokyo, Japan
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Meta description (Japanese) describes private apartments near Hinokicho Park with 'inorganic silence' in a minimal space enabling a 'free and creative everyday life.'
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Asia
 - **Timezone:** GMT+9 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** city, coworking, community

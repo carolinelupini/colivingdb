@@ -1,12 +1,12 @@
 # Coliving in Zaros, Crete, Greece
 
-> 1 colivings in Zaros, Crete, Greece, prices from €449 to €449 per month – last updated July 13, 2026.
+> 1 colivings in Zaros, Crete, Greece, prices from €449 to €449 per month – last updated July 14, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Avnea Nomad Village | Zaros, Crete | from €399/mo | — | private, shared | 30 nights (~1 month) | Permanent |
+| Avnea Nomad Village | Zaros, Crete | from €399/mo | — | private, shared | 30 nights | Permanent |
 
 ## Price distribution
 

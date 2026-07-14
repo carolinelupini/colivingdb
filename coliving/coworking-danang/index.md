@@ -1,6 +1,6 @@
 # Coworking Danang
 
-> Coliving in Da Nang, Vietnam. Last updated July 13, 2026.
+> Coliving in Da Nang, Vietnam. Last updated July 14, 2026.
 
 - **Location:** Da Nang, Vietnam
 - **Type:** Permanent coliving
@@ -9,7 +9,7 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** good vibes, community dinners, local adventures
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Asia
 - **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** community, coworking, beach

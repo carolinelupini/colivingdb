@@ -1,6 +1,6 @@
 # Casa Basilico — Puglia
 
-> Coliving in Puglia, Italy. Last updated July 13, 2026.
+> Coliving in Puglia, Italy. Last updated July 14, 2026.
 
 - **Location:** Puglia, Italy
 - **Type:** Pop-up / dated edition
@@ -11,7 +11,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 1000 Mbps <small>· operator-reported</small>
 - **Vibe:** A hand-picked, dinner-party-style coliving in a Puglia masseria blending focused remote work with communal cooking, adventure, and genuine connection.
-- **Minimum stay:** 14 nights (~2 weeks)
+- **Minimum stay:** 14 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Included:** Private room + weekly cleaning, Towels and linens, Coworking space + 2 meeting rooms, Communal kitchen + daily shared dinners, Cooking classes, Community manager, Local events/activities, Surprise weekend experience

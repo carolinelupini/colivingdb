@@ -1,6 +1,6 @@
 # Seoul Nooks Community Living
 
-> Coliving in Seoul, South Korea. Last updated July 13, 2026.
+> Coliving in Seoul, South Korea. Last updated July 14, 2026.
 
 - **Location:** Seoul, South Korea
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 150 Mbps <small>· operator-reported</small>
 - **Vibe:** Lively, friendly community for remote workers who love travel, blending work with genuine social connection
-- **Minimum stay:** 14 nights (~2 weeks)
+- **Minimum stay:** 14 nights
 - **Region:** Asia
 - **Timezone:** GMT+9 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** city, community

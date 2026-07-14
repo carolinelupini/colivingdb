@@ -1,13 +1,13 @@
 # Coliving in Kuta, Indonesia
 
-> 2 colivings in Kuta, Indonesia, prices from €519 to €532 per month – last updated July 13, 2026.
+> 2 colivings in Kuta, Indonesia, prices from €519 to €532 per month – last updated July 14, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| The Sunset III | Kuta | from $573/mo | 4.8 (104) | private | 30 nights (~1 month) | Permanent |
-| The Sunset II | Kuta | from $588/mo | 4.8 (104) | private | 30 nights (~1 month) | Permanent |
+| The Sunset III | Kuta | from $573/mo | 4.8 (104) | private | 30 nights | Permanent |
+| The Sunset II | Kuta | from $588/mo | 4.8 (104) | private | 30 nights | Permanent |
 
 ## Price distribution
 

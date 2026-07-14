@@ -1,6 +1,6 @@
 # Caminho Coliving
 
-> Coliving in Moreira, Maia (Porto area), Portugal. Last updated July 13, 2026.
+> Coliving in Moreira, Maia (Porto area), Portugal. Last updated July 14, 2026.
 
 - **Location:** Moreira, Maia (Porto area), Portugal
 - **Type:** Permanent coliving

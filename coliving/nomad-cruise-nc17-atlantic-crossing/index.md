@@ -1,6 +1,6 @@
 # Nomad Cruise — NC17 Atlantic Crossing
 
-> Coliving in Southampton → New York. Last updated July 13, 2026.
+> Coliving in Southampton → New York. Last updated July 14, 2026.
 
 - **Location:** Southampton → New York
 - **Type:** Pop-up / dated edition
@@ -10,7 +10,7 @@
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** A hybrid cruise/conference/party/friendship event billed as life-transforming — part networking conference, part social party, part community for lifelong connections.
-- **Minimum stay:** 7 nights (~1 week)
+- **Minimum stay:** 7 nights
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** community, coworking

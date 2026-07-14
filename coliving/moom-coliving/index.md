@@ -1,6 +1,6 @@
 # MOOM Coliving
 
-> Coliving in Rendsburg, Germany. Last updated July 13, 2026.
+> Coliving in Rendsburg, Germany. Last updated July 14, 2026.
 
 - **Location:** Rendsburg, Germany
 - **Type:** Permanent coliving
@@ -9,7 +9,7 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** 'A place where connection can be experienced... mindful communication, inner growth and a sustainable everyday life' — quiet rural village setting with fewer stimuli and a focus on the essentials.
-- **Minimum stay:** 7 nights (~1 week)
+- **Minimum stay:** 7 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, community, coworking, eco

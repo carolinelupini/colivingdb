@@ -1,6 +1,6 @@
 # La Granja Residence
 
-> Coliving in San Pedro, San José, Costa Rica. Last updated July 13, 2026.
+> Coliving in San Pedro, San José, Costa Rica. Last updated July 14, 2026.
 
 - **Location:** San Pedro, San José, Costa Rica
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 110 Mbps <small>· operator-reported</small>
 - **Vibe:** Intentional, spiritually-minded community of about 15 people pursuing regenerative, self-sufficient living, with yoga, meditation, and artist/creative residents
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Elevation:** 1,210 m

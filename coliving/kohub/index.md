@@ -1,6 +1,6 @@
 # KoHub
 
-> Coliving in Ko Lanta, Thailand. Last updated July 13, 2026.
+> Coliving in Ko Lanta, Thailand. Last updated July 14, 2026.
 
 - **Location:** Ko Lanta, Thailand
 - **Type:** Permanent coliving
@@ -11,7 +11,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 600 Mbps <small>· operator-reported</small>
 - **Vibe:** welcoming, fun, productive tropical coworking oasis
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Asia
 - **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** island, beach, coworking, community

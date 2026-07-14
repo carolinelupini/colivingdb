@@ -1,6 +1,6 @@
 # Outsite San Francisco - Mission
 
-> Coliving in San Francisco, United States. Last updated July 13, 2026.
+> Coliving in San Francisco, United States. Last updated July 14, 2026.
 
 - **Location:** San Francisco, United States
 - **Type:** Permanent coliving
@@ -11,7 +11,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 100 Mbps <small>· operator-reported</small>
 - **Vibe:** Life in color, coffee, and culture
-- **Minimum stay:** 7 nights (~1 week)
+- **Minimum stay:** 7 nights
 - **Region:** North America
 - **Timezone:** GMT-8 winter / GMT-7 summer <small>· US East: good overlap · Central Europe: async only</small>
 - **Tags:** city, coworking, community

@@ -1,6 +1,6 @@
 # Gođevačka Collective
 
-> Coliving in Divcibare, Serbia. Last updated July 13, 2026.
+> Coliving in Divcibare, Serbia. Last updated July 14, 2026.
 
 - **Location:** Divcibare, Serbia
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 100 Mbps <small>· operator-reported</small>
 - **Vibe:** A pine-forest, canyon-view retreat collective in Divcibare welcoming individuals, families, and groups with wellness activities, community dinners, and hiking.
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** mountain, rural, community, coworking

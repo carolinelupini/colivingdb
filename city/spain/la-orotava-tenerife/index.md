@@ -1,12 +1,12 @@
 # Coliving in La Orotava, Tenerife, Spain
 
-> 1 colivings in La Orotava, Tenerife, Spain, prices from €900 to €900 per month – last updated July 13, 2026.
+> 1 colivings in La Orotava, Tenerife, Spain, prices from €900 to €900 per month – last updated July 14, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Nine Coliving | La Orotava, Tenerife | from €900/mo | 4.9 (110) | private, shared | 14 nights (~2 weeks) | Permanent |
+| Nine Coliving | La Orotava, Tenerife | from €900/mo | 4.9 (110) | private, shared | 14 nights | Permanent |
 
 ## Price distribution
 

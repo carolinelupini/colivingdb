@@ -1,6 +1,6 @@
 # Repeople El Cabo Coliving
 
-> Coliving in Agaete, Gran Canaria, Spain. Last updated July 13, 2026.
+> Coliving in Agaete, Gran Canaria, Spain. Last updated July 14, 2026.
 
 - **Location:** Agaete, Gran Canaria, Spain
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** 'A unique building designed specifically to host remote workers and team retreats' — vibrant community for exploring collaborations while working remotely.
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** island, beach, coworking, community

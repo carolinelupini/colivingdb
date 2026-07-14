@@ -1,6 +1,6 @@
 # Enchanted Coliving
 
-> Coliving in Nachamps, France. Last updated July 13, 2026.
+> Coliving in Nachamps, France. Last updated July 14, 2026.
 
 - **Location:** Nachamps, France
 - **Type:** Permanent coliving
@@ -11,7 +11,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 500 Mbps <small>· operator-reported</small>
 - **Vibe:** A whimsical countryside retreat for creative remote workers, with literary-themed rooms, board games, and wine tasting fostering slow living and genuine community.
-- **Minimum stay:** 14 nights (~2 weeks)
+- **Minimum stay:** 14 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, community, coworking

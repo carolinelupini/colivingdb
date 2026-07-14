@@ -1,6 +1,6 @@
 # WiFi Tribe — Gran Canaria
 
-> Coliving in Gran Canaria, Spain. Last updated July 13, 2026.
+> Coliving in Gran Canaria, Spain. Last updated July 14, 2026.
 
 - **Location:** Gran Canaria, Spain
 - **Type:** Pop-up / dated edition
@@ -11,7 +11,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 1000 Mbps <small>· operator-reported</small>
 - **Vibe:** A chill, retreat-style monthly coliving chapter in Agaete's lush valley for values-vetted remote professionals, blending peaceful mountain-and-sea scenery with community coworking.
-- **Minimum stay:** 28 nights (~4 weeks)
+- **Minimum stay:** 28 nights
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Second guest:** In a private room each guest pays the shared-room rate — a private room fits one or two people for the same total, so a couple pays the same as booking two shared spots. Solo travellers can book a private room at the private rate.

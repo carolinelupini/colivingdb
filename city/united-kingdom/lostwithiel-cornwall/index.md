@@ -1,12 +1,12 @@
 # Coliving in Lostwithiel, Cornwall, United Kingdom
 
-> 1 colivings in Lostwithiel, Cornwall, United Kingdom, prices from €1,288 to €1,288 per month – last updated July 13, 2026.
+> 1 colivings in Lostwithiel, Cornwall, United Kingdom, prices from €1,288 to €1,288 per month – last updated July 14, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Froomies | Lostwithiel, Cornwall | from £1,100/mo | 5.0 (12) | private | 14 nights (~2 weeks) | Permanent |
+| Froomies | Lostwithiel, Cornwall | from £1,100/mo | 5.0 (12) | private | 14 nights | Permanent |
 
 ## Price distribution
 

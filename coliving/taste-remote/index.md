@@ -1,6 +1,6 @@
 # Taste Remote
 
-> Coliving in Civita Castellana, Italy. Last updated July 13, 2026.
+> Coliving in Civita Castellana, Italy. Last updated July 14, 2026.
 
 - **Location:** Civita Castellana, Italy
 - **Type:** Pop-up / dated edition
@@ -10,7 +10,7 @@
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** Community for remote workers combating loneliness, framed around connection, trips, and shared experiences — "Remote Work, Less Lonely."
-- **Minimum stay:** 7 nights (~1 week)
+- **Minimum stay:** 7 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, community, coworking

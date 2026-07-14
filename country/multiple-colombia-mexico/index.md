@@ -1,6 +1,6 @@
 # Coliving in Multiple (Colombia, Mexico)
 
-> 1 colivings in Multiple (Colombia, Mexico), prices from €337 to €337 per month – last updated July 13, 2026.
+> 1 colivings in Multiple (Colombia, Mexico), prices from €337 to €337 per month – last updated July 14, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Hubs Swiss Alps Lenk
 
-> Coliving in Lenk, Switzerland. Last updated July 13, 2026.
+> Coliving in Lenk, Switzerland. Last updated July 14, 2026.
 
 - **Location:** Lenk, Switzerland
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Room types:** private, studio, apartment
 - **Dorm available:** No
 - **Vibe:** Charming alpine town with breathtaking mountain views
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Elevation:** 1,075 m

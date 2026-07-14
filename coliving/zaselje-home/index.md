@@ -1,6 +1,6 @@
 # Zaselje Home
 
-> Coliving in Presjeka, Nikšić, Montenegro. Last updated July 13, 2026.
+> Coliving in Presjeka, Nikšić, Montenegro. Last updated July 14, 2026.
 
 - **Location:** Presjeka, Nikšić, Montenegro
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 17 Mbps <small>· operator-reported</small>
 - **Vibe:** A 'wellbeing centre' blending work, yoga, and community events like live gigs and tea tasting for holistic living
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, mountain, coworking, community, eco

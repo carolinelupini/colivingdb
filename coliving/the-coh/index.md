@@ -1,6 +1,6 @@
 # The Coh
 
-> Coliving in Auckland, New Zealand. Last updated July 13, 2026.
+> Coliving in Auckland, New Zealand. Last updated July 14, 2026.
 
 - **Location:** Auckland, New Zealand
 - **Type:** Permanent coliving
@@ -9,7 +9,7 @@
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** Modern, clean atmosphere great for meeting people worldwide
-- **Minimum stay:** 90 nights (~3 months)
+- **Minimum stay:** 3 months
 - **Region:** Oceania
 - **Timezone:** GMT+13 winter / GMT+12 summer <small>· US East: async only · Central Europe: async only</small>
 - **Tags:** community, city

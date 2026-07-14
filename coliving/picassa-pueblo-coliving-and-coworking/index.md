@@ -1,6 +1,6 @@
 # Picassa • Pueblo Coliving & Coworking
 
-> Coliving in Purchena, Spain. Last updated July 13, 2026.
+> Coliving in Purchena, Spain. Last updated July 14, 2026.
 
 - **Location:** Purchena, Spain
 - **Type:** Permanent coliving
@@ -11,7 +11,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 500 Mbps <small>· operator-reported</small>
 - **Vibe:** 'A lively, friendly atmosphere' for remote work and travel, marketed for 'creative and vibrant living' with 'the laid-back lifestyle of the South' (note: near-identical phrasing to other Mapmelon-listed properties — likely templated directory copy).
-- **Minimum stay:** 14 nights (~2 weeks)
+- **Minimum stay:** 14 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, mountain, coworking, community

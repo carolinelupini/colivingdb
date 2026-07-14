@@ -1,6 +1,6 @@
 # Kiin Living
 
-> Coliving in Medellín, Colombia. Last updated July 13, 2026.
+> Coliving in Medellín, Colombia. Last updated July 14, 2026.
 
 - **Location:** Medellín, Colombia
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** thriving digital nomad hub, vibrant networking community
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Latin America
 - **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Elevation:** 1,534 m

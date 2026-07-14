@@ -1,6 +1,6 @@
 # Arctic Coliving
 
-> Coliving in Longyearbyen, Svalbard (Norway). Last updated July 13, 2026.
+> Coliving in Longyearbyen, Svalbard (Norway). Last updated July 14, 2026.
 
 - **Location:** Longyearbyen, Svalbard (Norway)
 - **Type:** Pop-up / dated edition
@@ -10,7 +10,7 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Small-scale (7 rooms), community-events-driven coliving offering an unforgettable Arctic experience.
-- **Minimum stay:** 14 nights (~2 weeks)
+- **Minimum stay:** 14 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** community, coworking, mountain

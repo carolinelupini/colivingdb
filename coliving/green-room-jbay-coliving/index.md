@@ -1,6 +1,6 @@
 # Green Room JBay Coliving
 
-> Coliving in Jeffreys Bay, South Africa. Last updated July 13, 2026.
+> Coliving in Jeffreys Bay, South Africa. Last updated July 14, 2026.
 
 - **Location:** Jeffreys Bay, South Africa
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Laid-back ocean lifestyle retreat for remote workers, not a party house
-- **Minimum stay:** 14 nights (~2 weeks)
+- **Minimum stay:** 14 nights
 - **Region:** Africa
 - **Timezone:** GMT+2 <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** surf, beach, coworking, community

@@ -1,12 +1,12 @@
 # Coliving in San Gwann, Malta
 
-> 1 colivings in San Gwann, Malta, prices from €845 to €845 per month – last updated July 13, 2026.
+> 1 colivings in San Gwann, Malta, prices from €845 to €845 per month – last updated July 14, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| EVOLVE Coliving | San Gwann | from €845/mo | 4.7 (111) | private | 30 nights (~1 month) | Permanent |
+| EVOLVE Coliving | San Gwann | from €845/mo | 4.7 (111) | private | 30 nights | Permanent |
 
 ## Price distribution
 

@@ -1,12 +1,12 @@
 # Coliving in Bourg-Saint-Pierre, Switzerland
 
-> 1 colivings in Bourg-Saint-Pierre, Switzerland, prices from €500 to €500 per month – last updated July 13, 2026.
+> 1 colivings in Bourg-Saint-Pierre, Switzerland, prices from €500 to €500 per month – last updated July 14, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Petit Velan Coliving | Bourg-Saint-Pierre | from CHF 500/mo | — | private, shared | 7 nights (~1 week) | Permanent |
+| Petit Velan Coliving | Bourg-Saint-Pierre | from CHF 500/mo | — | private, shared | 7 nights | Permanent |
 
 ## Price distribution
 

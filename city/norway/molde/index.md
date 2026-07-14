@@ -1,12 +1,12 @@
 # Coliving in Molde, Norway
 
-> 1 colivings in Molde, Norway, prices from €2,096 to €2,096 per month – last updated July 13, 2026.
+> 1 colivings in Molde, Norway, prices from €2,096 to €2,096 per month – last updated July 14, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| WiFi Tribe — Molde | Molde | from $2,990/mo | — | private, shared | 28 nights (~4 weeks) | Pop-up |
+| WiFi Tribe — Molde | Molde | from $2,990/mo | — | private, shared | 28 nights | Pop-up |
 
 ## Price distribution
 

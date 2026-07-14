@@ -1,6 +1,6 @@
 # The Arak
 
-> Coliving in Chiang Mai, Thailand. Last updated July 13, 2026.
+> Coliving in Chiang Mai, Thailand. Last updated July 14, 2026.
 
 - **Location:** Chiang Mai, Thailand
 - **Type:** Permanent coliving
@@ -11,7 +11,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 600 Mbps <small>· operator-reported</small>
 - **Vibe:** Welcoming community-focused space for collaboration among digital nomads
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Asia
 - **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** city, coworking, community

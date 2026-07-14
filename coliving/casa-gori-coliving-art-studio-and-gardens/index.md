@@ -1,6 +1,6 @@
 # Casa Gori — Coliving, Art Studio & Gardens
 
-> Coliving in Valencia, Spain. Last updated July 13, 2026.
+> Coliving in Valencia, Spain. Last updated July 14, 2026.
 
 - **Location:** Valencia, Spain
 - **Type:** Permanent coliving
@@ -9,7 +9,7 @@
 - **Dorm available:** No
 - **Vibe:** An 'ecosystem for living' blending art-studio creativity, nomadic entrepreneurship, regenerative gardens, and intentional community
 - **Community size:** 5 bedrooms (2 single, 3 double); accommodates five to eight colivers per 3-month seasonal cohort
-- **Minimum stay:** 90 nights (~3 months)
+- **Minimum stay:** 3 months
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, eco, community

@@ -1,6 +1,6 @@
 # Fond de Ville Home II
 
-> Coliving in Liddes, Switzerland. Last updated July 13, 2026.
+> Coliving in Liddes, Switzerland. Last updated July 14, 2026.
 
 - **Location:** Liddes, Switzerland
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Dorm available:** Yes
 - **Wi-Fi (on-site):** 120 Mbps <small>· operator-reported</small>
 - **Vibe:** A vibrant alpine adventure coliving in the Swiss mountains blending skiing and trail exploration with multiple weekly social and professional events for digital nomads and entrepreneurs.
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Elevation:** 1,452 m

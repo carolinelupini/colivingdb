@@ -1,16 +1,16 @@
 # Coliving in United States
 
-> 21 colivings in United States, prices from €553 to €6,892 per month – last updated July 13, 2026.
+> 21 colivings in United States, prices from €553 to €6,892 per month – last updated July 14, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
 | Zeta House | Austin | from $1,160/wk | 4.9 (10) | private | — | Permanent |
-| Haven Coliving | Venice, California | from $995/mo | 4.2 (20) | shared | 30 nights (~1 month) | Permanent |
+| Haven Coliving | Venice, California | from $995/mo | 4.2 (20) | shared | 30 nights | Permanent |
 | Neighbourgood Mission | San Francisco | from $1,395/mo | 4.0 (8) | private | — | Permanent |
 | Outsite San Diego - Encinitas Ponto | Encinitas | from $2,209/mo | — | private, shared | — | Permanent |
-| Outsite San Francisco - Mission | San Francisco | from €2,200/mo | 4.1 (47) | private | 7 nights (~1 week) | Permanent |
+| Outsite San Francisco - Mission | San Francisco | from €2,200/mo | 4.1 (47) | private | 7 nights | Permanent |
 | Outsite San Francisco - Pacific Heights | San Francisco | from $114/night | 4.9 (54) | private | — | Permanent |
 | Outsite New York - Chelsea | New York | from $3,900/mo | 4.3 (85) | private | 2 nights | Permanent |
 | Outsite New York - Manhattan Midtown | New York | from $4,560/mo | 4.3 (85) | private | — | Permanent |

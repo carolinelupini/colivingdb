@@ -1,6 +1,6 @@
 # Habaraduwa Home
 
-> Coliving in Habaraduwa, Galle, Sri Lanka. Last updated July 13, 2026.
+> Coliving in Habaraduwa, Galle, Sri Lanka. Last updated July 14, 2026.
 
 - **Location:** Habaraduwa, Galle, Sri Lanka
 - **Type:** Permanent coliving
@@ -11,7 +11,7 @@
 - **Dorm available:** Yes
 - **Wi-Fi (on-site):** 50 Mbps <small>· operator-reported</small>
 - **Vibe:** Wellness-focused, laid-back coliving for surf-loving digital nomads and free spirits emphasizing conscious living, creativity, and family-style dinners.
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Asia
 - **Timezone:** GMT+5:30 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** beach, surf, coworking, community, eco

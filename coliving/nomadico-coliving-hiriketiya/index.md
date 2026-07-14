@@ -1,6 +1,6 @@
 # Nomadico Coliving Hiriketiya
 
-> Coliving in Hiriketiya (Nilwella), Sri Lanka. Last updated July 13, 2026.
+> Coliving in Hiriketiya (Nilwella), Sri Lanka. Last updated July 14, 2026.
 
 - **Location:** Hiriketiya (Nilwella), Sri Lanka
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Relaxed but buzzing island community where jungle cliffs meet warm waves
-- **Minimum stay:** 7 nights (~1 week)
+- **Minimum stay:** 7 nights
 - **Region:** Asia
 - **Timezone:** GMT+5:30 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** beach, surf, coworking, community

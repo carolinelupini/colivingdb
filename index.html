@@ -964,7 +964,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
         <label class="fmtchk"><input type="checkbox" id="fPerm" checked>Permanent</label>
         <label class="fmtchk"><input type="checkbox" id="fPop" checked>Pop-ups</label>
       </span>
-      <select id="month" autocomplete="off" title="Pop-ups running in a given month (permanents always shown)"><option value="">Any month</option></select>
+      <select id="month" autocomplete="off" title="Show pop-ups running in a given month"><option value="">Any month</option></select>
       <select id="minstay" autocomplete="off" title="Shortest stay a place will accept">
         <option value="">Any stay length</option>
         <option value="3">Few days OK (≤3 nights)</option>
@@ -1160,14 +1160,23 @@ function popupMonths(dates){
   // separators so gap months between cohorts aren't wrongly included.
   const out=new Set(); const s=(dates||"").toLowerCase();
   if(!s) return out;
+  const nowY=new Date().getFullYear();
+  const addRange=(y0,m0,y1,m1)=>{ let y=y0,m=m0,g=0; while(g++<40){ out.add(y+"-"+String(m).padStart(2,"0")); if(y===y1&&m===m1) break; m++; if(m>12){m=1;y++;} if(y>y1) break; } };
   for(const seg of s.split(/[/;&]|(?:\s+plus\s+)/)){
     const years=(seg.match(/20\d\d/g)||[]).map(Number);
     const mons=[]; for(const m of seg.match(/[a-z]+/g)||[]) if(m in MONTH_IDX) mons.push(MONTH_IDX[m]);
-    if(!years.length||!mons.length) continue;   // a segment needs both a month and a year of its own
-    let y0=years[0], y1=years[years.length-1]; const m0=mons[0], m1=mons[mons.length-1];
-    if(years.length===1 && m1<m0) y0=y1-1;   // "Dec - Jan 2027" range crosses into the stated end year
-    let y=y0, m=m0, guard=0;
-    while(guard++<24){ out.add(y+"-"+String(m).padStart(2,"0")); if(y===y1&&m===m1) break; m++; if(m>12){m=1;y++;} if(y>y1) break; }
+    if(!mons.length) continue;   // a segment needs at least a month
+    const m0=mons[0], m1=mons[mons.length-1];
+    if(years.length){
+      let y0=years[0], y1=years[years.length-1];
+      if(years.length===1 && m1<m0) y0=y1-1;   // "Dec - Jan 2027" crosses into the stated end year
+      addRange(y0,m0,y1,m1);
+    } else {
+      // seasonal with no stated year: assume it recurs — cover this year + next so it shows in the
+      // month filter (the monthly refresh corrects any that don't actually repeat annually).
+      addRange(nowY,   m0, m1<m0?nowY+1:nowY,   m1);
+      addRange(nowY+1, m0, m1<m0?nowY+2:nowY+1, m1);
+    }
   }
   return out;
 }
@@ -1504,7 +1513,7 @@ function filtered(){
     (!state.country||x.country===state.country) &&
     (!state.room||hasRoom(x,state.room)) &&
     (x.format==="permanent" ? state.showPerm : x.format==="pop-up" ? state.showPop : true) &&
-    (!state.month||x.format!=="pop-up"||popupMonths(x.popupDates).has(state.month)) &&
+    (!state.month||(x.format==="pop-up"&&popupMonths(x.popupDates).has(state.month))) &&
     (!state.minStay||(x.minStayNights&&x.minStayNights<=+state.minStay)) &&
     (!state.minRating||(x.rating&&x.rating>=+state.minRating)) &&
     // price range: same number the row displays (selected stay length + selected room), in EUR.
@@ -1759,7 +1768,7 @@ function buildCompare(){
     ${row("Price", x=>priceCell(x))}
     ${row("Rating", x=>ratingBadge(x))}
     ${row("Rooms", x=>roomsCell(x))}
-    ${row("Min stay", x=>x.minStayNights?x.minStayNights+" nights":"")}
+    ${row("Min stay", x=>x.minStayNights?(x.minStayNights%30===0&&x.minStayNights>=60?(x.minStayNights/30)+" months":x.minStayNights+" night"+(x.minStayNights===1?"":"s")):"")}
     ${row("WiFi", x=>cmpWifi(x))}
     ${row("Vibe", x=>(x.details||{}).vibe||((x.details||{}).vibeTags||[]).join(", "))}
     ${row("Interests", x=>(x.tags||[]).join(", "))}

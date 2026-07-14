@@ -1,14 +1,14 @@
 # Coliving in Japan
 
-> 9 colivings in Japan, prices from €378 to €3,000 per month – last updated July 13, 2026.
+> 9 colivings in Japan, prices from €378 to €3,000 per month – last updated July 14, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| The Kotohira (Kotohira Residence) | Kotohira | from $431/mo | — | private, shared, dorm | 30 nights (~1 month) | Permanent |
-| The Miyanosawa (Miyanosawa Home) | Sapporo | from $573/mo | — | private | 30 nights (~1 month) | Permanent |
-| Tokyo Chapter | Tokyo | from ¥100,000/mo | 4.4 (25) | private | 30 nights (~1 month) | Permanent |
+| The Kotohira (Kotohira Residence) | Kotohira | from $431/mo | — | private, shared, dorm | 30 nights | Permanent |
+| The Miyanosawa (Miyanosawa Home) | Sapporo | from $573/mo | — | private | 30 nights | Permanent |
+| Tokyo Chapter | Tokyo | from ¥100,000/mo | 4.4 (25) | private | 30 nights | Permanent |
 | Boundless Life Kamakura | Kamakura | from €2,600/mo | — | private | — | Permanent |
 | COGO TENNOJI | Osaka | On request | 4.6 (580) | private, shared | — | Permanent |
 | Kotori Coworking & Hostel Kotohira | Kotohira | On request | 4.9 (94) | private, dorm | 5 nights | Permanent |

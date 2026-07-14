@@ -1,6 +1,6 @@
 # Kalart
 
-> Coliving in Montseny Valley, Catalonia, Spain. Last updated July 13, 2026.
+> Coliving in Montseny Valley, Catalonia, Spain. Last updated July 14, 2026.
 
 - **Location:** Montseny Valley, Catalonia, Spain
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** A magical place for changemakers in a UNESCO natural park
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, mountain, community, eco, coworking

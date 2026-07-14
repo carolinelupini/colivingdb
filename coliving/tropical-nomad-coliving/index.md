@@ -1,6 +1,6 @@
 # Tropical Nomad Coliving
 
-> Coliving in Canggu, Indonesia. Last updated July 13, 2026.
+> Coliving in Canggu, Indonesia. Last updated July 14, 2026.
 
 - **Location:** Canggu, Indonesia
 - **Type:** Permanent coliving

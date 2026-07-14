@@ -1,12 +1,12 @@
 # Coliving in Peru
 
-> 1 colivings in Peru, prices from €956 to €956 per month – last updated July 13, 2026.
+> 1 colivings in Peru, prices from €956 to €956 per month – last updated July 14, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| WiFi Tribe — Cusco | Cusco | from $1,490/mo | — | private, shared | 28 nights (~4 weeks) | Pop-up |
+| WiFi Tribe — Cusco | Cusco | from $1,490/mo | — | private, shared | 28 nights | Pop-up |
 
 ## Price distribution
 

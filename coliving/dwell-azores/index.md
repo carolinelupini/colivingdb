@@ -1,6 +1,6 @@
 # Dwell Azores
 
-> Coliving in Fenais da Luz, São Miguel, Azores, Portugal. Last updated July 13, 2026.
+> Coliving in Fenais da Luz, São Miguel, Azores, Portugal. Last updated July 14, 2026.
 
 - **Location:** Fenais da Luz, São Miguel, Azores, Portugal
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** Homey, laid-back community with ocean and nature access
-- **Minimum stay:** 28 nights (~4 weeks)
+- **Minimum stay:** 28 nights
 - **Region:** Europe
 - **Timezone:** GMT-1 winter / GMT+0 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** island, surf, coworking, community

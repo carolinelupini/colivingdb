@@ -1,6 +1,6 @@
 # NomaVillage
 
-> Coliving in Lagos, Portugal. Last updated July 13, 2026.
+> Coliving in Lagos, Portugal. Last updated July 14, 2026.
 
 - **Location:** Lagos, Portugal
 - **Type:** Permanent coliving
@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=12085466010589542175&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (18 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Minimum stay:** 14 nights (~2 weeks)
+- **Minimum stay:** 14 nights
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** beach, surf, rural, coworking, community

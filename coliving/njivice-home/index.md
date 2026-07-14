@@ -1,6 +1,6 @@
 # Njivice Home
 
-> Coliving in Njivice, Herceg Novi (near Kotor), Montenegro. Last updated July 13, 2026.
+> Coliving in Njivice, Herceg Novi (near Kotor), Montenegro. Last updated July 14, 2026.
 
 - **Location:** Njivice, Herceg Novi (near Kotor), Montenegro
 - **Type:** Permanent coliving
@@ -11,7 +11,7 @@
 - **Dorm available:** Yes
 - **Wi-Fi (on-site):** 100 Mbps <small>· operator-reported</small>
 - **Vibe:** Breathtaking mountain views to unwind, have fun and work remotely
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** beach, coworking, community

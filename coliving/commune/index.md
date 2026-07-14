@@ -1,6 +1,6 @@
 # Commune
 
-> Coliving in Siem Reap, Cambodia. Last updated July 13, 2026.
+> Coliving in Siem Reap, Cambodia. Last updated July 14, 2026.
 
 - **Location:** Siem Reap, Cambodia
 - **Type:** Permanent coliving

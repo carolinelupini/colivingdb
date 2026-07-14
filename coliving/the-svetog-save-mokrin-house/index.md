@@ -1,6 +1,6 @@
 # The Svetog Save (Mokrin House)
 
-> Coliving in Mokrin, Serbia. Last updated July 13, 2026.
+> Coliving in Mokrin, Serbia. Last updated July 14, 2026.
 
 - **Location:** Mokrin, Serbia
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Vibe:** peaceful rural retreat for focused remote work
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, community, coworking

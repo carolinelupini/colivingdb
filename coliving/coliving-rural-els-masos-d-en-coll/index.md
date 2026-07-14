@@ -1,6 +1,6 @@
 # Coliving Rural Els Masos d'en Coll
 
-> Coliving in Llabià, Fontanilles (Girona), Spain. Last updated July 13, 2026.
+> Coliving in Llabià, Fontanilles (Girona), Spain. Last updated July 14, 2026.
 
 - **Location:** Llabià, Fontanilles (Girona), Spain
 - **Type:** Permanent coliving
@@ -11,7 +11,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 1000 Mbps <small>· operator-reported</small>
 - **Vibe:** quiet rural retreat, calm and simplicity
-- **Minimum stay:** 7 nights (~1 week)
+- **Minimum stay:** 7 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, eco, community, coworking

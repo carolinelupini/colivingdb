@@ -1,6 +1,6 @@
 # Adventurekeys
 
-> Coliving in Taghazout, Morocco. Last updated July 13, 2026.
+> Coliving in Taghazout, Morocco. Last updated July 14, 2026.
 
 - **Location:** Taghazout, Morocco
 - **Type:** Permanent coliving

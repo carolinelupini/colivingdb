@@ -1,6 +1,6 @@
 # Khomuli Home
 
-> Coliving in Khomuli, Georgia. Last updated July 13, 2026.
+> Coliving in Khomuli, Georgia. Last updated July 14, 2026.
 
 - **Location:** Khomuli, Georgia
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Dorm available:** Yes
 - **Wi-Fi (on-site):** 80 Mbps <small>· operator-reported</small>
 - **Vibe:** Eco-coliving in Georgian nature balancing productivity and relaxation, with campfire evenings and nomad meetups
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Europe
 - **Timezone:** GMT+4 <small>· US East: async only · Central Europe: full workday overlap</small>
 - **Elevation:** 1,634 m

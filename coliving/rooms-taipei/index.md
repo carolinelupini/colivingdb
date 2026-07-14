@@ -1,6 +1,6 @@
 # Rooms.Taipei
 
-> Coliving in Taipei, Taiwan. Last updated July 13, 2026.
+> Coliving in Taipei, Taiwan. Last updated July 14, 2026.
 
 - **Location:** Taipei, Taiwan
 - **Type:** Permanent coliving

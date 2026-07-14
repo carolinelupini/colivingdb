@@ -1,6 +1,6 @@
 # Cloud Citadel Coliving
 
-> Coliving in Briançon, France. Last updated July 13, 2026.
+> Coliving in Briançon, France. Last updated July 14, 2026.
 
 - **Location:** Briançon, France
 - **Type:** Permanent coliving
@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=8968250624006441913&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (78 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm, studio
 - **Dorm available:** Yes
-- **Minimum stay:** 14 nights (~2 weeks)
+- **Minimum stay:** 14 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Elevation:** 1,299 m

@@ -1,6 +1,6 @@
 # Seven Space: Coliving
 
-> Coliving in Lagos, Nigeria. Last updated July 13, 2026.
+> Coliving in Lagos, Nigeria. Last updated July 14, 2026.
 
 - **Location:** Lagos, Nigeria
 - **Type:** Permanent coliving
@@ -9,7 +9,7 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Describes itself as 'a complete connected community, where curious minds from all corners of the globe live, create, play and get the most out of life together.'
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Africa
 - **Timezone:** GMT+1 <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** community, coworking, city

@@ -1,6 +1,6 @@
 # Skippers
 
-> Coliving in Diani Beach, Kenya. Last updated July 13, 2026.
+> Coliving in Diani Beach, Kenya. Last updated July 14, 2026.
 
 - **Location:** Diani Beach, Kenya
 - **Type:** Permanent coliving
@@ -11,7 +11,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 200 Mbps <small>· operator-reported</small>
 - **Vibe:** Down to earth, relaxing chill vibe for nomads
-- **Minimum stay:** 28 nights (~4 weeks)
+- **Minimum stay:** 28 nights
 - **Region:** Africa
 - **Timezone:** GMT+3 <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** beach, coworking, community, surf

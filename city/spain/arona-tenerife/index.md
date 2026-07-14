@@ -1,6 +1,6 @@
 # Coliving in Arona (Tenerife), Spain
 
-> 1 colivings in Arona (Tenerife), Spain – last updated July 13, 2026.
+> 1 colivings in Arona (Tenerife), Spain – last updated July 14, 2026.
 
 ## All colivings
 

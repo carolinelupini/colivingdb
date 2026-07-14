@@ -1,6 +1,6 @@
 # Nomadico Mallorca Coliving
 
-> Coliving in Búger, Mallorca, Spain. Last updated July 13, 2026.
+> Coliving in Búger, Mallorca, Spain. Last updated July 14, 2026.
 
 - **Location:** Búger, Mallorca, Spain
 - **Type:** Pop-up / dated edition
@@ -11,7 +11,7 @@
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** Grounded, familiar, nature — a genuine Balearic experience
-- **Minimum stay:** 7 nights (~1 week)
+- **Minimum stay:** 7 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, island, coworking, community

@@ -1,6 +1,6 @@
 # Co.404 Medellin
 
-> Coliving in Medellin, Colombia. Last updated July 13, 2026.
+> Coliving in Medellin, Colombia. Last updated July 14, 2026.
 
 - **Location:** Medellin, Colombia
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** City of eternal spring with a thriving nomad community
-- **Minimum stay:** 7 nights (~1 week)
+- **Minimum stay:** 7 nights
 - **Region:** Latin America
 - **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Elevation:** 1,534 m

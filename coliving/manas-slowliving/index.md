@@ -1,6 +1,6 @@
 # Manas Slowliving
 
-> Coliving in Sines, Portugal. Last updated July 13, 2026.
+> Coliving in Sines, Portugal. Last updated July 14, 2026.
 
 - **Location:** Sines, Portugal
 - **Type:** Permanent coliving
@@ -11,7 +11,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 200 Mbps <small>· operator-reported</small>
 - **Vibe:** A boutique beach coliving haven founded on slow-living philosophy, blending surf, yoga, and wine tasting with a lively but introspective community atmosphere.
-- **Minimum stay:** 7 nights (~1 week)
+- **Minimum stay:** 7 nights
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** beach, surf, coworking, community

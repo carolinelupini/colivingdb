@@ -1,6 +1,6 @@
 # Polar Home
 
-> Coliving in Tulum, Mexico. Last updated July 13, 2026.
+> Coliving in Tulum, Mexico. Last updated July 14, 2026.
 
 - **Location:** Tulum, Mexico
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Dorm available:** Yes
 - **Wi-Fi (on-site):** 5 Mbps <small>· operator-reported</small>
 - **Vibe:** Lively, social Tulum coliving for digital nomads, surfers, and young professionals, with a terrace bar, nightlife outings, community dinners, and skill-sharing workshops.
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** North America
 - **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Tags:** beach, community

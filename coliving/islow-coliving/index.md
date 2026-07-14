@@ -1,6 +1,6 @@
 # iSlow Coliving
 
-> Coliving in Laxe, A Coruña, Galicia, Spain. Last updated July 13, 2026.
+> Coliving in Laxe, A Coruña, Galicia, Spain. Last updated July 14, 2026.
 
 - **Location:** Laxe, A Coruña, Galicia, Spain
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** Rural coastal coliving to slow down, connect, and create
-- **Minimum stay:** 7 nights (~1 week)
+- **Minimum stay:** 7 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, beach, community, coworking

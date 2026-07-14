@@ -1,6 +1,6 @@
 # NomadUnion Coliving (Villa)
 
-> Coliving in Biot, France. Last updated July 13, 2026.
+> Coliving in Biot, France. Last updated July 14, 2026.
 
 - **Location:** Biot, France
 - **Type:** Permanent coliving
@@ -11,7 +11,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 8000 Mbps <small>· operator-reported</small>
 - **Vibe:** Where community isn't a choice, it's a lifestyle
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** community, coworking, beach

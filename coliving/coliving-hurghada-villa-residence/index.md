@@ -1,6 +1,6 @@
 # Coliving Hurghada (Villa Residence)
 
-> Coliving in Hurghada, Egypt. Last updated July 13, 2026.
+> Coliving in Hurghada, Egypt. Last updated July 14, 2026.
 
 - **Location:** Hurghada, Egypt
 - **Type:** Permanent coliving
@@ -11,7 +11,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 50 Mbps <small>· operator-reported</small>
 - **Vibe:** Vibrant international community collaborating in an Egyptian oasis
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Africa
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** beach, coworking, community

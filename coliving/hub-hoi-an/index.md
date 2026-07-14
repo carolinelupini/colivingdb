@@ -1,6 +1,6 @@
 # Hub Hoi An
 
-> Coliving in Hoi An, Vietnam. Last updated July 13, 2026.
+> Coliving in Hoi An, Vietnam. Last updated July 14, 2026.
 
 - **Location:** Hoi An, Vietnam
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Room types:** dorm, private
 - **Dorm available:** Yes
 - **Vibe:** social and events-heavy coworking, tight-knit core group
-- **Minimum stay:** 7 nights (~1 week)
+- **Minimum stay:** 7 nights
 - **Region:** Asia
 - **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** coworking, community, beach, city

@@ -1,6 +1,6 @@
 # Coliving Vibrant Buenos Aires
 
-> Coliving in Buenos Aires, Argentina. Last updated July 13, 2026.
+> Coliving in Buenos Aires, Argentina. Last updated July 14, 2026.
 
 - **Location:** Buenos Aires, Argentina
 - **Type:** Permanent coliving
@@ -9,7 +9,7 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Lively international community of digital nomads and exchange students (ages 20-35) in San Telmo — barbecues, terrace hangouts, empanada nights
-- **Minimum stay:** 7 nights (~1 week)
+- **Minimum stay:** 7 nights
 - **Region:** Latin America
 - **Timezone:** GMT-3 <small>· US East: full workday overlap · Central Europe: good overlap</small>
 - **Tags:** community, city

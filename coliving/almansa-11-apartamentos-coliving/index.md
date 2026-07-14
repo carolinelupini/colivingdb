@@ -1,6 +1,6 @@
 # ALMANSA 11 APARTAMENTOS COLIVING
 
-> Coliving in Sevilla, Spain. Last updated July 13, 2026.
+> Coliving in Sevilla, Spain. Last updated July 14, 2026.
 
 - **Location:** Sevilla, Spain
 - **Type:** Permanent coliving
@@ -9,7 +9,7 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** A historic, bohemian coliving in Seville's Arenal district with literary/opera-themed apartments, shared terraces, and social activities like yoga, cooking, and dancing.
-- **Minimum stay:** 7 nights (~1 week)
+- **Minimum stay:** 7 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** community, coworking, city

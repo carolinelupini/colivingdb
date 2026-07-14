@@ -1,6 +1,6 @@
 # Together Co-Living
 
-> Coliving in Melbourne, Australia. Last updated July 13, 2026.
+> Coliving in Melbourne, Australia. Last updated July 14, 2026.
 
 - **Location:** Melbourne, Australia
 - **Type:** Permanent coliving
@@ -9,7 +9,7 @@
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** design-led, community and interactivity focused
-- **Minimum stay:** 7 nights (~1 week)
+- **Minimum stay:** 7 nights
 - **Region:** Oceania
 - **Timezone:** GMT+11 winter / GMT+10 summer <small>· US East: async only · Central Europe: async only</small>
 - **Tags:** coworking, community

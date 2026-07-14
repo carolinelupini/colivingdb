@@ -1,12 +1,12 @@
 # Coliving in Hiriketiya (Dickwella), Matara, Sri Lanka
 
-> 1 colivings in Hiriketiya (Dickwella), Matara, Sri Lanka, prices from €599 to €599 per month – last updated July 13, 2026.
+> 1 colivings in Hiriketiya (Dickwella), Matara, Sri Lanka, prices from €599 to €599 per month – last updated July 14, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Hiriketiya Home | Hiriketiya (Dickwella), Matara | from $685/mo | 4.9 (18) | private, shared | 30 nights (~1 month) | Permanent |
+| Hiriketiya Home | Hiriketiya (Dickwella), Matara | from $685/mo | 4.9 (18) | private, shared | 30 nights | Permanent |
 
 ## Price distribution
 

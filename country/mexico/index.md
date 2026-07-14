@@ -1,29 +1,29 @@
 # Coliving in Mexico
 
-> 29 colivings in Mexico, prices from €46 to €1,380 per month – last updated July 13, 2026.
+> 29 colivings in Mexico, prices from €46 to €1,380 per month – last updated July 14, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
 | Outsite Mexico City - Roma Sur | Mexico City | from $53/mo | 4.4 (79) | private | 2 nights | Permanent |
-| Polar Home | Tulum | from $228/mo | — | dorm | 30 nights (~1 month) | Permanent |
-| co.404 Coliving San Cristóbal | San Cristóbal de las Casas | from $1,290/mo | 4.8 (81) | private, dorm | 30 nights (~1 month) | Permanent |
+| Polar Home | Tulum | from $228/mo | — | dorm | 30 nights | Permanent |
+| co.404 Coliving San Cristóbal | San Cristóbal de las Casas | from $1,290/mo | 4.8 (81) | private, dorm | 30 nights | Permanent |
 | U-Co Roma Coliving | Mexico City | from €381/mo | 4.3 (102) | private, studio | — | Permanent |
-| The Polar II | Tulum | from $570/mo | 3.8 (76) | private | 30 nights (~1 month) | Permanent |
+| The Polar II | Tulum | from $570/mo | 3.8 (76) | private | 30 nights | Permanent |
 | Coliving Condesa | Mexico City | from MXN 10,000/mo | 4.9 (47) | private | — | Permanent |
-| Co.404 Oaxaca City | Oaxaca | from $570/mo | 4.7 (162) | private | 30 nights (~1 month) | Permanent |
+| Co.404 Oaxaca City | Oaxaca | from $570/mo | 4.7 (162) | private | 30 nights | Permanent |
 | Outsite Mexico City - Colonia San Miguel | Mexico City | from $749/mo | — | private | — | Permanent |
-| Nomadico Coliving Puerto Escondido | Puerto Escondido | from $749/mo | 5.0 (22) | private | 7 nights (~1 week) | Permanent |
-| Mi Casa Coliving | Puerto Escondido | from €720/mo | 5.0 (5) | private | 7 nights (~1 week) | Permanent |
-| Humant Coliving - Cancún, México | Cancún | from MXN 15,250/mo | 4.9 (178) | private, shared | 30 nights (~1 month) | Permanent |
-| Covive Casa Del Valle Norte | Mexico City | from MXN 15,250/mo | 4.1 (28) | private | 30 nights (~1 month) | Permanent |
-| The Sur II | Tulum | from $1,091/mo | — | private | 30 nights (~1 month) | Permanent |
-| WiFi Tribe — Puerto Escondido | Puerto Escondido | from $1,690/mo | — | private, shared | 28 nights (~4 weeks) | Pop-up |
+| Nomadico Coliving Puerto Escondido | Puerto Escondido | from $749/mo | 5.0 (22) | private | 7 nights | Permanent |
+| Mi Casa Coliving | Puerto Escondido | from €720/mo | 5.0 (5) | private | 7 nights | Permanent |
+| Humant Coliving - Cancún, México | Cancún | from MXN 15,250/mo | 4.9 (178) | private, shared | 30 nights | Permanent |
+| Covive Casa Del Valle Norte | Mexico City | from MXN 15,250/mo | 4.1 (28) | private | 30 nights | Permanent |
+| The Sur II | Tulum | from $1,091/mo | — | private | 30 nights | Permanent |
+| WiFi Tribe — Puerto Escondido | Puerto Escondido | from $1,690/mo | — | private, shared | 28 nights | Pop-up |
 | Amplitude Coliving | Puerto Escondido (La Punta) | from €1,380/mo | 5.0 (75) | private | 1 night | Permanent |
 | COLIVING ROMA | Mexico City | On request | 4.8 (25) | private | — | Permanent |
 | Casa Iris Coliving | Santiago de Querétaro | from $220/wk | 4.9 (21) | private, shared | — | Permanent |
-| Casa Luna by Terracotta MX | Mexico City | On request | 5.0 (2) | private | 7 nights (~1 week) | Permanent |
+| Casa Luna by Terracotta MX | Mexico City | On request | 5.0 (2) | private | 7 nights | Permanent |
 | Coliving Chingon | Guadalajara | from MXN 3,000/wk | 4.5 (116) | private, dorm | — | Permanent |
 | Coliving Chingon Suites | Guadalajara | from MXN 3,000/wk | 4.2 (69) | private | — | Permanent |
 | ETNYA Coliving | Mérida | On request | 4.9 (12) | apartment | — | Permanent |

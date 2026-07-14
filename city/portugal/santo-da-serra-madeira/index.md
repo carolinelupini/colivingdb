@@ -1,12 +1,12 @@
 # Coliving in Santo da Serra (Madeira), Portugal
 
-> 1 colivings in Santo da Serra (Madeira), Portugal, prices from €1,000 to €1,000 per month – last updated July 13, 2026.
+> 1 colivings in Santo da Serra (Madeira), Portugal, prices from €1,000 to €1,000 per month – last updated July 14, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Cabeco Alto Home | Santo da Serra (Madeira) | from $1,143/mo | 5.0 (23) | private, shared | 30 nights (~1 month) | Permanent |
+| Cabeco Alto Home | Santo da Serra (Madeira) | from $1,143/mo | 5.0 (23) | private, shared | 30 nights | Permanent |
 
 ## Price distribution
 

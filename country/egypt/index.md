@@ -1,14 +1,14 @@
 # Coliving in Egypt
 
-> 4 colivings in Egypt, prices from €167 to €631 per month – last updated July 13, 2026.
+> 4 colivings in Egypt, prices from €167 to €631 per month – last updated July 14, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Shali Home | Siwa | from $190/mo | 5.0 (1) | private, shared | 30 nights (~1 month) | Permanent |
-| Roma Residence (Serenity Lodge) | Sharm El-Sheikh | from $600/mo | 4.3 (210) | private, dorm | 30 nights (~1 month) | Permanent |
-| Coliving Hurghada (Villa Residence) | Hurghada | from $720/mo | 4.8 (58) | private, shared | 30 nights (~1 month) | Permanent |
+| Shali Home | Siwa | from $190/mo | 5.0 (1) | private, shared | 30 nights | Permanent |
+| Roma Residence (Serenity Lodge) | Sharm El-Sheikh | from $600/mo | 4.3 (210) | private, dorm | 30 nights | Permanent |
+| Coliving Hurghada (Villa Residence) | Hurghada | from $720/mo | 4.8 (58) | private, shared | 30 nights | Permanent |
 | Noma Collective — Dahab | Dahab | from $1,890 per event | — | — | — | Pop-up |
 
 ## Price distribution

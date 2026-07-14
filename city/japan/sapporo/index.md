@@ -1,12 +1,12 @@
 # Coliving in Sapporo, Japan
 
-> 1 colivings in Sapporo, Japan, prices from €500 to €500 per month – last updated July 13, 2026.
+> 1 colivings in Sapporo, Japan, prices from €500 to €500 per month – last updated July 14, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| The Miyanosawa (Miyanosawa Home) | Sapporo | from $573/mo | — | private | 30 nights (~1 month) | Permanent |
+| The Miyanosawa (Miyanosawa Home) | Sapporo | from $573/mo | — | private | 30 nights | Permanent |
 
 ## Price distribution
 

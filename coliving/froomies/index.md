@@ -1,6 +1,6 @@
 # Froomies
 
-> Coliving in Lostwithiel, Cornwall, United Kingdom. Last updated July 13, 2026.
+> Coliving in Lostwithiel, Cornwall, United Kingdom. Last updated July 14, 2026.
 
 - **Location:** Lostwithiel, Cornwall, United Kingdom
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** A warm, wellness-focused 80-acre farm coliving in Cornwall built around co-created activities, skill-shares, and communal cooking, blending rural sanctuary with modern nomad culture.
-- **Minimum stay:** 14 nights (~2 weeks)
+- **Minimum stay:** 14 nights
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** rural, community, coworking

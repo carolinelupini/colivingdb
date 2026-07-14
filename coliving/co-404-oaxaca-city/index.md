@@ -1,6 +1,6 @@
 # Co.404 Oaxaca City
 
-> Coliving in Oaxaca, Mexico. Last updated July 13, 2026.
+> Coliving in Oaxaca, Mexico. Last updated July 14, 2026.
 
 - **Location:** Oaxaca, Mexico
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** hostel, hotel, and coworking combined, community-driven
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Elevation:** 1,630 m

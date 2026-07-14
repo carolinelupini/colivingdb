@@ -1,6 +1,6 @@
 # Beet - Botanical Garden (Cortile del Giuoco Home)
 
-> Coliving in Palermo, Italy. Last updated July 13, 2026.
+> Coliving in Palermo, Italy. Last updated July 14, 2026.
 
 - **Location:** Palermo, Italy
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 932 Mbps <small>· operator-reported</small>
 - **Vibe:** A serene, intimate oasis in the heart of bustling Palermo where guests can work, relax, or connect with other guests, positioned as a gathering place for remote professionals and travelers seeking slow living and authentic local experiences.
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, community, coworking

@@ -1,6 +1,6 @@
 # NomadUnion Coliving Nice
 
-> Coliving in Nice, France. Last updated July 13, 2026.
+> Coliving in Nice, France. Last updated July 14, 2026.
 
 - **Location:** Nice, France
 - **Type:** Permanent coliving
@@ -11,7 +11,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 8000 Mbps <small>· operator-reported</small>
 - **Vibe:** Centrally located apartment coliving offering vibrant city life "without the party chaos," with an in-house community atmosphere for digital nomads and remote workers.
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, beach, coworking, community

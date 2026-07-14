@@ -1,12 +1,12 @@
 # Coliving in Civita Castellana, Italy
 
-> 1 colivings in Civita Castellana, Italy – last updated July 13, 2026.
+> 1 colivings in Civita Castellana, Italy – last updated July 14, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Taste Remote | Civita Castellana | from €690 per event | — | private, shared | 7 nights (~1 week) | Pop-up |
+| Taste Remote | Civita Castellana | from €690 per event | — | private, shared | 7 nights | Pop-up |
 
 ## Upcoming pop-ups
 

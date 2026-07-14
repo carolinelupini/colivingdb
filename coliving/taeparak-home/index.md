@@ -1,6 +1,6 @@
 # Taeparak Home
 
-> Coliving in Chiang Mai, Thailand. Last updated July 13, 2026.
+> Coliving in Chiang Mai, Thailand. Last updated July 14, 2026.
 
 - **Location:** Chiang Mai, Thailand
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Dorm available:** Yes
 - **Wi-Fi (on-site):** 1000 Mbps <small>· operator-reported</small>
 - **Vibe:** 'Built for nomads, by nomads' — a friendly, respectful, interactive community with skill-sharing and group activities.
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Asia
 - **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** city, coworking, community

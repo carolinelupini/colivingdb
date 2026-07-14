@@ -1,12 +1,12 @@
 # Coliving in Arusha, Tanzania
 
-> 1 colivings in Arusha, Tanzania – last updated July 13, 2026.
+> 1 colivings in Arusha, Tanzania – last updated July 14, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Backyard Ventures | Arusha | from $2,750 per event | — | private | 30 nights (~1 month) | Pop-up |
+| Backyard Ventures | Arusha | from $2,750 per event | — | private | 30 nights | Pop-up |
 
 ## Upcoming pop-ups
 

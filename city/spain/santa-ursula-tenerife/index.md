@@ -1,13 +1,13 @@
 # Coliving in Santa Úrsula, Tenerife, Spain
 
-> 2 colivings in Santa Úrsula, Tenerife, Spain, prices from €837 to €1,097 per month – last updated July 13, 2026.
+> 2 colivings in Santa Úrsula, Tenerife, Spain, prices from €837 to €1,097 per month – last updated July 14, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
 | Bencomo Coliving | Santa Úrsula, Tenerife | from €37/night | 4.9 (36) | private | 15 nights | Permanent |
-| Taoro Coliving | Santa Úrsula, Tenerife | from €1,297/mo | 5.0 (151) | private | 7 nights (~1 week) | Permanent |
+| Taoro Coliving | Santa Úrsula, Tenerife | from €1,297/mo | 5.0 (151) | private | 7 nights | Permanent |
 
 ## Price distribution
 

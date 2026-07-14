@@ -1,12 +1,12 @@
 # Coliving in Moncarapacho (Algarve), Portugal
 
-> 1 colivings in Moncarapacho (Algarve), Portugal, prices from €1,290 to €1,290 per month – last updated July 13, 2026.
+> 1 colivings in Moncarapacho (Algarve), Portugal, prices from €1,290 to €1,290 per month – last updated July 14, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Pomar Coliving | Moncarapacho (Algarve) | from €1,290/mo | 5.0 (77) | private | 7 nights (~1 week) | Permanent |
+| Pomar Coliving | Moncarapacho (Algarve) | from €1,290/mo | 5.0 (77) | private | 7 nights | Permanent |
 
 ## Price distribution
 

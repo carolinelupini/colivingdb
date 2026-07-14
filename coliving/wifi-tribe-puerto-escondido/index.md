@@ -1,6 +1,6 @@
 # WiFi Tribe — Puerto Escondido
 
-> Coliving in Puerto Escondido, Mexico. Last updated July 13, 2026.
+> Coliving in Puerto Escondido, Mexico. Last updated July 14, 2026.
 
 - **Location:** Puerto Escondido, Mexico
 - **Type:** Pop-up / dated edition
@@ -11,7 +11,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 95 Mbps <small>· operator-reported</small>
 - **Vibe:** Laidback Pacific surf-town chapter blending beachfront coworking with surf, wellness activities, and nightly community sunset rituals
-- **Minimum stay:** 28 nights (~4 weeks)
+- **Minimum stay:** 28 nights
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Second guest:** In a private room each guest pays the shared-room rate — a private room fits one or two people for the same total, so a couple pays the same as booking two shared spots. Solo travellers can book a private room at the private rate.

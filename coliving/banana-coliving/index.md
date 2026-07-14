@@ -1,6 +1,6 @@
 # Banana Coliving
 
-> Coliving in Taipei, Taiwan. Last updated July 13, 2026.
+> Coliving in Taipei, Taiwan. Last updated July 14, 2026.
 
 - **Location:** Taipei, Taiwan
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** Rebuilding community and connection in the busy, alienated city
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Asia
 - **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** city, community, coworking

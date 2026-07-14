@@ -1,6 +1,6 @@
 # Berawa Collective
 
-> Coliving in Berawa (Canggu, Bali), Indonesia. Last updated July 13, 2026.
+> Coliving in Berawa (Canggu, Bali), Indonesia. Last updated July 14, 2026.
 
 - **Location:** Berawa (Canggu, Bali), Indonesia
 - **Type:** Permanent coliving
@@ -11,7 +11,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 500 Mbps <small>· operator-reported</small>
 - **Vibe:** Laid-back bohemian vibe with trendy cafes and lively bars nearby
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Asia
 - **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** beach, surf, coworking, community, island

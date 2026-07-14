@@ -1,6 +1,6 @@
 # Cape Coliving
 
-> Coliving in Cape Town, South Africa. Last updated July 13, 2026.
+> Coliving in Cape Town, South Africa. Last updated July 14, 2026.
 
 - **Location:** Cape Town, South Africa
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Community-driven co-living in a favourite Cape Town villa
-- **Minimum stay:** 7 nights (~1 week)
+- **Minimum stay:** 7 nights
 - **Region:** Africa
 - **Timezone:** GMT+2 <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, coworking, community

@@ -1,6 +1,6 @@
 # WorkNomads LAB Coliving
 
-> Coliving in Sofia, Bulgaria. Last updated July 13, 2026.
+> Coliving in Sofia, Bulgaria. Last updated July 14, 2026.
 
 - **Location:** Sofia, Bulgaria
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** flexible hotel-meets-coworking space for nomads
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Europe
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, coworking, community

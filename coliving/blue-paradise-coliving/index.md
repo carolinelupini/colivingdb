@@ -1,6 +1,6 @@
 # Blue Paradise Coliving
 
-> Coliving in Santa Cruz de Tenerife, Spain. Last updated July 13, 2026.
+> Coliving in Santa Cruz de Tenerife, Spain. Last updated July 14, 2026.
 
 - **Location:** Santa Cruz de Tenerife, Spain
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Shared-community coliving in Tenerife built around cooking together, sharing stories, and weekend island trips organized by the host.
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** island, city, coworking, community, surf

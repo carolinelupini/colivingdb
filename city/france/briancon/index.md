@@ -1,12 +1,12 @@
 # Coliving in Briançon, France
 
-> 1 colivings in Briançon, France, prices from €966 to €966 per month – last updated July 13, 2026.
+> 1 colivings in Briançon, France, prices from €966 to €966 per month – last updated July 14, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Cloud Citadel Coliving | Briançon | from €966/mo | 4.9 (78) | private, dorm, studio | 14 nights (~2 weeks) | Permanent |
+| Cloud Citadel Coliving | Briançon | from €966/mo | 4.9 (78) | private, dorm, studio | 14 nights | Permanent |
 
 ## Price distribution
 

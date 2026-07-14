@@ -1,12 +1,12 @@
 # Coliving in Montseny Valley, Catalonia, Spain
 
-> 1 colivings in Montseny Valley, Catalonia, Spain, prices from €1,020 to €1,020 per month – last updated July 13, 2026.
+> 1 colivings in Montseny Valley, Catalonia, Spain, prices from €1,020 to €1,020 per month – last updated July 14, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Kalart | Montseny Valley, Catalonia | from €1,020/mo | 4.9 (69) | private | 30 nights (~1 month) | Permanent |
+| Kalart | Montseny Valley, Catalonia | from €1,020/mo | 4.9 (69) | private | 30 nights | Permanent |
 
 ## Price distribution
 

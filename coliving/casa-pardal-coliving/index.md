@@ -1,6 +1,6 @@
 # Casa Pardal Coliving
 
-> Coliving in La Fortesa (Calaf), Catalonia, Spain. Last updated July 13, 2026.
+> Coliving in La Fortesa (Calaf), Catalonia, Spain. Last updated July 14, 2026.
 
 - **Location:** La Fortesa (Calaf), Catalonia, Spain
 - **Type:** Permanent coliving
@@ -9,7 +9,7 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** A small, connected community (4-12 people) in a 17th-century fortified village in rural Catalonia for people who want to slow down, live in community, and connect with nature and local culture — explicitly "not a coworking bubble."
-- **Minimum stay:** 14 nights (~2 weeks)
+- **Minimum stay:** 14 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, coworking, community

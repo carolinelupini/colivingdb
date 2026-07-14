@@ -1,6 +1,6 @@
 # WiFi Tribe — Anse Royale
 
-> Coliving in Anse Royale, Seychelles. Last updated July 13, 2026.
+> Coliving in Anse Royale, Seychelles. Last updated July 14, 2026.
 
 - **Location:** Anse Royale, Seychelles
 - **Type:** Pop-up / dated edition
@@ -9,7 +9,7 @@
 - **Price note:** coliving accommodation (shared room, Veteran tier) + coworking + community activities for the month-long chapter
 - **Room types:** private, shared
 - **Dorm available:** No
-- **Minimum stay:** 28 nights (~4 weeks)
+- **Minimum stay:** 28 nights
 - **Region:** Africa
 - **Timezone:** GMT+4 <small>· US East: async only · Central Europe: full workday overlap</small>
 - **Second guest:** In a private room each guest pays the shared-room rate — a private room fits one or two people for the same total, so a couple pays the same as booking two shared spots. Solo travellers can book a private room at the private rate.

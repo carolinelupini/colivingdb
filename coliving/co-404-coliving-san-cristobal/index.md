@@ -1,6 +1,6 @@
 # co.404 Coliving San Cristóbal
 
-> Coliving in San Cristóbal de las Casas, Mexico. Last updated July 13, 2026.
+> Coliving in San Cristóbal de las Casas, Mexico. Last updated July 14, 2026.
 
 - **Location:** San Cristóbal de las Casas, Mexico
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Vibe:** Adventure-oriented digital nomad community with family dinners
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Elevation:** 2,118 m

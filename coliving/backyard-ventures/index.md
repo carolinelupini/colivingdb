@@ -1,6 +1,6 @@
 # Backyard Ventures
 
-> Coliving in Arusha, Tanzania. Last updated July 13, 2026.
+> Coliving in Arusha, Tanzania. Last updated July 14, 2026.
 
 - **Location:** Arusha, Tanzania
 - **Type:** Pop-up / dated edition
@@ -9,7 +9,7 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** A slow, reflective 30-day shared-living program in Arusha built around purposeful pause, community, and conscious local engagement.
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Africa
 - **Timezone:** GMT+3 <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Elevation:** 1,353 m

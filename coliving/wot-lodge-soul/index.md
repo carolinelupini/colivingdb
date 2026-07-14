@@ -1,6 +1,6 @@
 # WOT Lodge Soul
 
-> Coliving in Ericeira, Portugal. Last updated July 13, 2026.
+> Coliving in Ericeira, Portugal. Last updated July 14, 2026.
 
 - **Location:** Ericeira, Portugal
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Vibe:** Vintage charm with a touch of surf
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** surf, beach, coworking, community

@@ -1,6 +1,6 @@
 # The Independencia
 
-> Coliving in Buenos Aires, Argentina. Last updated July 13, 2026.
+> Coliving in Buenos Aires, Argentina. Last updated July 14, 2026.
 
 - **Location:** Buenos Aires, Argentina
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 211 Mbps <small>· operator-reported</small>
 - **Vibe:** 'We welcome people from all around the world who wish to live their lives to the utmost,' combining coworking infrastructure with social connection.
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Latin America
 - **Timezone:** GMT-3 <small>· US East: full workday overlap · Central Europe: good overlap</small>
 - **Tags:** city, community, coworking

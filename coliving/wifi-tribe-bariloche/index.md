@@ -1,6 +1,6 @@
 # WiFi Tribe — Bariloche
 
-> Coliving in Bariloche, Argentina. Last updated July 13, 2026.
+> Coliving in Bariloche, Argentina. Last updated July 14, 2026.
 
 - **Location:** Bariloche, Argentina
 - **Type:** Pop-up / dated edition
@@ -10,7 +10,7 @@
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** A monthly coliving chapter of 15-25 values-vetted remote professionals in cozy Patagonian mountain cabins overlooking Nahuel Huapi Lake, centered on weekend adventures like paragliding, kayaking, and hiking.
-- **Minimum stay:** 28 nights (~4 weeks)
+- **Minimum stay:** 28 nights
 - **Region:** Latin America
 - **Timezone:** GMT-3 <small>· US East: full workday overlap · Central Europe: good overlap</small>
 - **Second guest:** In a private room each guest pays the shared-room rate — a private room fits one or two people for the same total, so a couple pays the same as booking two shared spots. Solo travellers can book a private room at the private rate.

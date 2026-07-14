@@ -1,6 +1,6 @@
 # Outpost Ubud Nyuh Kuning
 
-> Coliving in Ubud, Bali, Indonesia. Last updated July 13, 2026.
+> Coliving in Ubud, Bali, Indonesia. Last updated July 14, 2026.
 
 - **Location:** Ubud, Bali, Indonesia
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** community for the curious and adventurous
-- **Minimum stay:** 14 nights (~2 weeks)
+- **Minimum stay:** 14 nights
 - **Region:** Asia
 - **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** coworking, community, city

@@ -1,6 +1,6 @@
 # Novovento
 
-> Coliving in Ginetes, São Miguel, Azores, Portugal. Last updated July 13, 2026.
+> Coliving in Ginetes, São Miguel, Azores, Portugal. Last updated July 14, 2026.
 
 - **Location:** Ginetes, São Miguel, Azores, Portugal
 - **Type:** Permanent coliving
@@ -11,7 +11,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 200 Mbps <small>· operator-reported</small>
 - **Vibe:** Lively, friendly atmosphere for remote work and travel lovers
-- **Minimum stay:** 7 nights (~1 week)
+- **Minimum stay:** 7 nights
 - **Region:** Europe
 - **Timezone:** GMT-1 winter / GMT+0 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** island, rural, surf, coworking, community

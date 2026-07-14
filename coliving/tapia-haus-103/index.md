@@ -1,6 +1,6 @@
 # Tapia Haus 103
 
-> Coliving in San Juan, Puerto Rico. Last updated July 13, 2026.
+> Coliving in San Juan, Puerto Rico. Last updated July 14, 2026.
 
 - **Location:** San Juan, Puerto Rico
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Cozy, modern, and perfectly located in authentic San Juan
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Latin America
 - **Timezone:** GMT-4 <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Tags:** city, coworking, community

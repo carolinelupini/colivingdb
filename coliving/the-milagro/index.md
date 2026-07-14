@@ -1,6 +1,6 @@
 # The Milagro
 
-> Coliving in Bogotá, Colombia. Last updated July 13, 2026.
+> Coliving in Bogotá, Colombia. Last updated July 14, 2026.
 
 - **Location:** Bogotá, Colombia
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** A warm, design-forward coliving in Bogotá built around intentional community and relationships, positioned as 'more than a place... a home' for connected urban remote workers.
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Latin America
 - **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Elevation:** 2,582 m — expect a few days of altitude adjustment

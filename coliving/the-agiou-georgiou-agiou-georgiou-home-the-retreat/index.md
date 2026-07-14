@@ -1,6 +1,6 @@
 # The Agiou Georgiou (Agiou Georgiou Home / The Retreat)
 
-> Coliving in Maroni, Cyprus. Last updated July 13, 2026.
+> Coliving in Maroni, Cyprus. Last updated July 14, 2026.
 
 - **Location:** Maroni, Cyprus
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 40 Mbps <small>· operator-reported</small>
 - **Vibe:** A wellness-focused retreat in a restored 200-year-old Cypriot sandstone house, energy-independent on solar power, with a spa/jacuzzi and community targeting digital nomads, nature lovers, and yogis through wellness sessions and skill-sharing workshops.
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Europe
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, community, eco

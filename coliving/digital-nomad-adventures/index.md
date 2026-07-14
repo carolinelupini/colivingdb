@@ -1,6 +1,6 @@
 # Digital Nomad Adventures
 
-> Coliving in Koh Phangan, Thailand. Last updated July 13, 2026.
+> Coliving in Koh Phangan, Thailand. Last updated July 14, 2026.
 
 - **Location:** Koh Phangan, Thailand
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Relaxed, social, community-focused beach resort experience
-- **Minimum stay:** 7 nights (~1 week)
+- **Minimum stay:** 7 nights
 - **Region:** Asia
 - **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** beach, island, coworking, community

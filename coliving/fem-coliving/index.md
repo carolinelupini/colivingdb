@@ -1,6 +1,6 @@
 # FEM Coliving
 
-> Coliving in Sant Joan de les Abadesses, Spain. Last updated July 13, 2026.
+> Coliving in Sant Joan de les Abadesses, Spain. Last updated July 14, 2026.
 
 - **Location:** Sant Joan de les Abadesses, Spain
 - **Type:** Permanent coliving
@@ -11,7 +11,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 1000 Mbps <small>· operator-reported</small>
 - **Vibe:** Lively, creative and innovative atmosphere in a rural mountain setting
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** mountain, rural, community, coworking

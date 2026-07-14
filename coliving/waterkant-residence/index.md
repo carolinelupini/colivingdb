@@ -1,6 +1,6 @@
 # Waterkant Residence
 
-> Coliving in Cape Town, South Africa. Last updated July 13, 2026.
+> Coliving in Cape Town, South Africa. Last updated July 14, 2026.
 
 - **Location:** Cape Town, South Africa
 - **Type:** Permanent coliving
@@ -11,7 +11,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 100 Mbps <small>· operator-reported</small>
 - **Vibe:** Cosy coliving with beautiful outdoor spaces, upscale amenities
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Africa
 - **Timezone:** GMT+2 <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, coworking, community

@@ -1,6 +1,6 @@
 # Suiters
 
-> Coliving in Alicante, Spain. Last updated July 13, 2026.
+> Coliving in Alicante, Spain. Last updated July 14, 2026.
 
 - **Location:** Alicante, Spain
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** A Spain-wide coliving brand offering private furnished suites with a dedicated coworking space, marketed as "live and work in Spain your way, in your own suite" within a community full of shared affinities.
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, coworking, community, beach

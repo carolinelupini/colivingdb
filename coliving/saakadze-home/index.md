@@ -1,6 +1,6 @@
 # Saakadze Home
 
-> Coliving in Dusheti, Georgia. Last updated July 13, 2026.
+> Coliving in Dusheti, Georgia. Last updated July 14, 2026.
 
 - **Location:** Dusheti, Georgia
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 70 Mbps <small>· operator-reported</small>
 - **Vibe:** A community-based ranch & retreat for travelers, volunteers, and long-term residents who help care for the horses, with a calm, grounded daily life built on collaboration, natural handcrafted materials, and sustainability.
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Europe
 - **Timezone:** GMT+4 <small>· US East: async only · Central Europe: full workday overlap</small>
 - **Tags:** rural, mountain, eco, community, coworking

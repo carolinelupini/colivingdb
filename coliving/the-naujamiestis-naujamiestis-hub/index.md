@@ -1,6 +1,6 @@
 # The Naujamiestis (Naujamiestis Hub)
 
-> Coliving in Vilnius, Lithuania. Last updated July 13, 2026.
+> Coliving in Vilnius, Lithuania. Last updated July 14, 2026.
 
 - **Location:** Vilnius, Lithuania
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 193 Mbps <small>· operator-reported</small>
 - **Vibe:** 'Life here full of opportunities for socializing and making new friends,' aiming to 'create a strong sense of community centered around success.'
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Europe
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, coworking, community

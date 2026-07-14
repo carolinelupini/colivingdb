@@ -1,6 +1,6 @@
 # Ojalá Casa
 
-> Coliving in La Caleta, Costa Adeje, Tenerife, Spain. Last updated July 13, 2026.
+> Coliving in La Caleta, Costa Adeje, Tenerife, Spain. Last updated July 14, 2026.
 
 - **Location:** La Caleta, Costa Adeje, Tenerife, Spain
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Wellness-focused, intentional living for focused professionals wanting beach and nature access without sacrificing calm, space, and privacy
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** island, beach, coworking, community

@@ -1,6 +1,6 @@
 # Bjørkedal Home
 
-> Coliving in Volda, Norway. Last updated July 13, 2026.
+> Coliving in Volda, Norway. Last updated July 14, 2026.
 
 - **Location:** Volda, Norway
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 500 Mbps <small>· operator-reported</small>
 - **Vibe:** A rural Norwegian coliving "for people who really want to work," built on non-hierarchy, cooperation, and social connection alongside solitude and nature.
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, mountain, coworking, community, eco

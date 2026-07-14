@@ -1,6 +1,6 @@
 # Neighbourgood Romney
 
-> Coliving in Cape Town, South Africa. Last updated July 13, 2026.
+> Coliving in Cape Town, South Africa. Last updated July 14, 2026.
 
 - **Location:** Cape Town, South Africa
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** Stylish, laid-back kick-your-shoes-off beach house feel
-- **Minimum stay:** 90 nights (~3 months)
+- **Minimum stay:** 3 months
 - **Region:** Africa
 - **Timezone:** GMT+2 <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, coworking, community

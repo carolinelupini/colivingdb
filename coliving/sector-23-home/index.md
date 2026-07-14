@@ -1,6 +1,6 @@
 # Sector 23 Home
 
-> Coliving in Navi Mumbai, India. Last updated July 13, 2026.
+> Coliving in Navi Mumbai, India. Last updated July 14, 2026.
 
 - **Location:** Navi Mumbai, India
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Dorm available:** Yes
 - **Wi-Fi (on-site):** 82 Mbps <small>· operator-reported</small>
 - **Vibe:** An affordably priced, clean and vibrant coliving space building a community of working professionals and students through community dinners, social mixers, and wellness sessions.
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Asia
 - **Timezone:** GMT+5:30 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** city, coworking

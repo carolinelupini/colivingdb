@@ -1,6 +1,6 @@
 # Cobana
 
-> Coliving in Zărnești, Romania. Last updated July 13, 2026.
+> Coliving in Zărnești, Romania. Last updated July 14, 2026.
 
 - **Location:** Zărnești, Romania
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** A nine-room mountain guesthouse near Piatra Craiului National Park hosting residencies, workshops, and team retreats focused on building a regenerative future.
-- **Minimum stay:** 7 nights (~1 week)
+- **Minimum stay:** 7 nights
 - **Region:** Europe
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** mountain, rural, community, coworking, eco

@@ -1,6 +1,6 @@
 # Hubs Slovenian Alps Bovec
 
-> Coliving in Ljubljana, Slovenia. Last updated July 13, 2026.
+> Coliving in Ljubljana, Slovenia. Last updated July 14, 2026.
 
 - **Location:** Ljubljana, Slovenia
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 1000 Mbps <small>· operator-reported</small>
 - **Vibe:** 'The perfect balance of privacy, productivity, and community' bringing together entrepreneurs, digital nomads, and remote workers in workation environments meant to 'inspire growth' and 'celebrate shared success.'
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** mountain, coworking, community

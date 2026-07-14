@@ -1,12 +1,12 @@
 # Coliving in Valle San Lorenzo (Arona), Tenerife, Spain
 
-> 1 colivings in Valle San Lorenzo (Arona), Tenerife, Spain, prices from €686 to €686 per month – last updated July 13, 2026.
+> 1 colivings in Valle San Lorenzo (Arona), Tenerife, Spain, prices from €686 to €686 per month – last updated July 14, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Cactus Coliving | Valle San Lorenzo (Arona), Tenerife | from €686/mo | 4.9 (120) | private, shared | 14 nights (~2 weeks) | Permanent |
+| Cactus Coliving | Valle San Lorenzo (Arona), Tenerife | from €686/mo | 4.9 (120) | private, shared | 14 nights | Permanent |
 
 ## Price distribution
 

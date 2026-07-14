@@ -1,6 +1,6 @@
 # Iguana Co-living
 
-> Coliving in Oaxaca City, Mexico. Last updated July 13, 2026.
+> Coliving in Oaxaca City, Mexico. Last updated July 14, 2026.
 
 - **Location:** Oaxaca City, Mexico
 - **Type:** Permanent coliving

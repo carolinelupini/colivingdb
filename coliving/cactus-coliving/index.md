@@ -1,6 +1,6 @@
 # Cactus Coliving
 
-> Coliving in Valle San Lorenzo (Arona), Tenerife, Spain. Last updated July 13, 2026.
+> Coliving in Valle San Lorenzo (Arona), Tenerife, Spain. Last updated July 14, 2026.
 
 - **Location:** Valle San Lorenzo (Arona), Tenerife, Spain
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** Welcoming shared-living community with nature and family-style dinners
-- **Minimum stay:** 14 nights (~2 weeks)
+- **Minimum stay:** 14 nights
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Elevation:** 1,266 m

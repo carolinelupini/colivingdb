@@ -1,6 +1,6 @@
 # Nomadico Coliving Ericeira
 
-> Coliving in Ericeira, Portugal. Last updated July 13, 2026.
+> Coliving in Ericeira, Portugal. Last updated July 14, 2026.
 
 - **Location:** Ericeira, Portugal
 - **Type:** Pop-up / dated edition
@@ -11,7 +11,7 @@
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** Laid back vibes with active outdoor surf and beach culture
-- **Minimum stay:** 7 nights (~1 week)
+- **Minimum stay:** 7 nights
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** beach, surf, coworking, community

@@ -1,12 +1,12 @@
 # Coliving in Nuño Gómez, Toledo, Spain
 
-> 1 colivings in Nuño Gómez, Toledo, Spain, prices from €540 to €540 per month – last updated July 13, 2026.
+> 1 colivings in Nuño Gómez, Toledo, Spain, prices from €540 to €540 per month – last updated July 14, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Hamlet's Friends | Nuño Gómez, Toledo | from €540/mo | 5.0 (184) | private | 28 nights (~4 weeks) | Permanent |
+| Hamlet's Friends | Nuño Gómez, Toledo | from €540/mo | 5.0 (184) | private | 28 nights | Permanent |
 
 ## Price distribution
 

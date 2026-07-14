@@ -1,6 +1,6 @@
 # Mariscal Sucre Residence
 
-> Coliving in Quito, Ecuador. Last updated July 13, 2026.
+> Coliving in Quito, Ecuador. Last updated July 14, 2026.
 
 - **Location:** Quito, Ecuador
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 150 Mbps <small>· operator-reported</small>
 - **Vibe:** 'Ready-to-live-in housing in a lively area' welcoming digital nomads, professionals, entrepreneurs, students and business people 'looking for the joy of sharing.'
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Latin America
 - **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Elevation:** 2,785 m — expect a few days of altitude adjustment

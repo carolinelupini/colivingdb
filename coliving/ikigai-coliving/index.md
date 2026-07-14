@@ -1,6 +1,6 @@
 # Ikigai Coliving
 
-> Coliving in Puerto de la Cruz, Tenerife, Spain. Last updated July 13, 2026.
+> Coliving in Puerto de la Cruz, Tenerife, Spain. Last updated July 14, 2026.
 
 - **Location:** Puerto de la Cruz, Tenerife, Spain
 - **Type:** Permanent coliving
@@ -11,7 +11,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 1000 Mbps <small>· operator-reported</small>
 - **Vibe:** Great atmosphere where tenants often hang out together
-- **Minimum stay:** 14 nights (~2 weeks)
+- **Minimum stay:** 14 nights
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** island, coworking, community

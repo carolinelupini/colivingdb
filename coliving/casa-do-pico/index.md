@@ -1,6 +1,6 @@
 # Casa do Pico
 
-> Coliving in Funchal, Madeira, Portugal. Last updated July 13, 2026.
+> Coliving in Funchal, Madeira, Portugal. Last updated July 14, 2026.
 
 - **Location:** Funchal, Madeira, Portugal
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** Community-focused coliving in Funchal, Madeira with a busy calendar of 800+ yearly events (hikes, workshops, community lunches) blending remote work with island life.
-- **Minimum stay:** 7 nights (~1 week)
+- **Minimum stay:** 7 nights
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** island, city, coworking, community, eco

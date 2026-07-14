@@ -1,21 +1,21 @@
 # Coliving in Greece
 
-> 12 colivings in Greece, prices from €449 to €5,794 per month – last updated July 13, 2026.
+> 12 colivings in Greece, prices from €449 to €5,794 per month – last updated July 14, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Avnea Nomad Village | Zaros, Crete | from €399/mo | — | private, shared | 30 nights (~1 month) | Permanent |
+| Avnea Nomad Village | Zaros, Crete | from €399/mo | — | private, shared | 30 nights | Permanent |
 | Greek Escape | Gerani, Crete | from €750/mo | 4.5 (6) | private | 8 nights | Permanent |
-| Greek Escape (by ESCAPE) | Gerani (Crete) | from €750/mo | 4.5 (6) | private, shared | 7 nights (~1 week) | Permanent |
+| Greek Escape (by ESCAPE) | Gerani (Crete) | from €750/mo | 4.5 (6) | private, shared | 7 nights | Permanent |
 | Calergi Residence | Atsipopoulo / Rethymno (Crete) | from €800/mo | 4.6 (85) | private | — | Permanent |
-| The Atsipopoulo (Atsipopoulo Home) | Atsipopoulo | from $5,488/mo | — | private | 30 nights (~1 month) | Permanent |
-| Escape (Greek Escape) | Gerani, Crete (near Rethymno) | from €750/mo | 4.5 (6) | private, shared | 7 nights (~1 week) | Permanent |
-| The Plakias (Plakias Residence) | Plakias | from $1,543/mo | 4.8 (22) | private | 180 nights (~6 months) | Permanent |
-| WiFi Tribe — Paros | Paros | from $1,990/mo | — | private, shared | 28 nights (~4 weeks) | Pop-up |
+| The Atsipopoulo (Atsipopoulo Home) | Atsipopoulo | from $5,488/mo | — | private | 30 nights | Permanent |
+| Escape (Greek Escape) | Gerani, Crete (near Rethymno) | from €750/mo | 4.5 (6) | private, shared | 7 nights | Permanent |
+| The Plakias (Plakias Residence) | Plakias | from $1,543/mo | 4.8 (22) | private | 6 months | Permanent |
+| WiFi Tribe — Paros | Paros | from $1,990/mo | — | private, shared | 28 nights | Pop-up |
 | Boundless Life — Syros | Syros | from €2,300/mo | — | — | — | Pop-up |
-| Charalampou Liandri Home | Atsipopoulo | from $6,608/mo | — | private | 30 nights (~1 month) | Permanent |
+| Charalampou Liandri Home | Atsipopoulo | from $6,608/mo | — | private | 30 nights | Permanent |
 | Noma Collective — Athens | Athens | from $2,390 per event | — | — | — | Pop-up |
 | Tursi Digital Nomads — Parga | Parga | from €799 per event | — | — | — | Pop-up |
 

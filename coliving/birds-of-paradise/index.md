@@ -1,6 +1,6 @@
 # Birds of Paradise
 
-> Coliving in Aljezur, Portugal. Last updated July 13, 2026.
+> Coliving in Aljezur, Portugal. Last updated July 14, 2026.
 
 - **Location:** Aljezur, Portugal
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Boutique surf lodge that becomes a winter coliving retreat, blending surf/wellness adventure with an intimate, quiet ambiance
-- **Minimum stay:** 14 nights (~2 weeks)
+- **Minimum stay:** 14 nights
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** surf, beach, coworking, community

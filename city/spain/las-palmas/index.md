@@ -1,13 +1,13 @@
 # Coliving in Las Palmas, Spain
 
-> 2 colivings in Las Palmas, Spain, prices from €990 to €1,533 per month – last updated July 13, 2026.
+> 2 colivings in Las Palmas, Spain, prices from €990 to €1,533 per month – last updated July 14, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| The Mozart | Las Palmas | from $2,058/mo | — | private | 30 nights (~1 month) | Permanent |
-| García Morato Home | Las Palmas | from $1,143/mo | 4.0 (530) | private | 30 nights (~1 month) | Permanent |
+| The Mozart | Las Palmas | from $2,058/mo | — | private | 30 nights | Permanent |
+| García Morato Home | Las Palmas | from $1,143/mo | 4.0 (530) | private | 30 nights | Permanent |
 
 ## Price distribution
 

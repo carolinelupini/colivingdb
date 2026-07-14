@@ -1,6 +1,6 @@
 # Home Sweet Home Share House
 
-> Coliving in Taipei, Taiwan. Last updated July 13, 2026.
+> Coliving in Taipei, Taiwan. Last updated July 14, 2026.
 
 - **Location:** Taipei, Taiwan
 - **Type:** Permanent coliving
@@ -9,7 +9,7 @@
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** 'Residents care about each other, rely on each other and at the same time they can still be themselves' — a 'Respectful, Open-Minded, Friendly living environment.'
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Asia
 - **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** community, coworking, city

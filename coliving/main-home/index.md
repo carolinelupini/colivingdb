@@ -1,6 +1,6 @@
 # Main Home
 
-> Coliving in Oracabessa, Jamaica. Last updated July 13, 2026.
+> Coliving in Oracabessa, Jamaica. Last updated July 14, 2026.
 
 - **Location:** Oracabessa, Jamaica
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 61 Mbps <small>· operator-reported</small>
 - **Vibe:** Tranquil, nature-surrounded workspace with a garden for yoga and meditation, hosting digital nomads and entrepreneurs exploring the island
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Latin America
 - **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Tags:** beach, rural, coworking, community

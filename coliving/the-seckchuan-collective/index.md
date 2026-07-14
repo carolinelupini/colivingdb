@@ -1,6 +1,6 @@
 # The Seckchuan Collective
 
-> Coliving in George Town, Malaysia. Last updated July 13, 2026.
+> Coliving in George Town, Malaysia. Last updated July 14, 2026.
 
 - **Location:** George Town, Malaysia
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 300 Mbps <small>· operator-reported</small>
 - **Vibe:** A 32-room hostel offering 'an exceptional blend of location, convenience, and privacy' in George Town's cultural district.
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Asia
 - **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** city, community, coworking

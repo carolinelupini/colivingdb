@@ -1,6 +1,6 @@
 # Blue Zone Nomads
 
-> Coliving in Torre delle Stelle, Italy. Last updated July 13, 2026.
+> Coliving in Torre delle Stelle, Italy. Last updated July 14, 2026.
 
 - **Location:** Torre delle Stelle, Italy
 - **Type:** Pop-up / dated edition

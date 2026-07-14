@@ -1,6 +1,6 @@
 # Outsite Barcelona - Gothic Quarter
 
-> Coliving in Barcelona, Spain. Last updated July 13, 2026.
+> Coliving in Barcelona, Spain. Last updated July 14, 2026.
 
 - **Location:** Barcelona, Spain
 - **Type:** Permanent coliving

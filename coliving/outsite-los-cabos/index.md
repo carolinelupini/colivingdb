@@ -1,6 +1,6 @@
 # Outsite Los Cabos
 
-> Coliving in San Jose del Cabo, Mexico. Last updated July 13, 2026.
+> Coliving in San Jose del Cabo, Mexico. Last updated July 14, 2026.
 
 - **Location:** San Jose del Cabo, Mexico
 - **Type:** Permanent coliving

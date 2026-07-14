@@ -1,6 +1,6 @@
 # El Nido Home II
 
-> Coliving in El Nido, Philippines. Last updated July 13, 2026.
+> Coliving in El Nido, Philippines. Last updated July 14, 2026.
 
 - **Location:** El Nido, Philippines
 - **Type:** Permanent coliving
@@ -11,7 +11,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 50 Mbps <small>· operator-reported</small>
 - **Vibe:** A boutique, eco-friendly villa in a quiet jungle area outside El Nido town, with bamboo-inspired architecture offering a calm, nature-immersed retreat away from the busy town center.
-- **Minimum stay:** 30 nights (~1 month)
+- **Minimum stay:** 30 nights
 - **Region:** Asia
 - **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** beach, eco, coworking, community

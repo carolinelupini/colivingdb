@@ -1,6 +1,6 @@
 # Not Sorry Coliving
 
-> Coliving in near Tullins/Voiron, Isère (French Alps), France. Last updated July 13, 2026.
+> Coliving in near Tullins/Voiron, Isère (French Alps), France. Last updated July 14, 2026.
 
 - **Location:** near Tullins/Voiron, Isère (French Alps), France
 - **Type:** Permanent coliving

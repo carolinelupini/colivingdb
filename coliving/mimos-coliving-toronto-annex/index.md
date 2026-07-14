@@ -1,6 +1,6 @@
 # Mimos Coliving - Toronto Annex
 
-> Coliving in Toronto, Canada. Last updated July 13, 2026.
+> Coliving in Toronto, Canada. Last updated July 14, 2026.
 
 - **Location:** Toronto, Canada
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** A community-first, inclusive coliving home in Toronto for people in transition (newcomers to Canada, digital nomads, snowbirds, professionals between homes), offering flexible one-to-six-month stays with light shared chores and thoughtful applicant screening for community fit.
-- **Minimum stay:** 28 nights (~4 weeks)
+- **Minimum stay:** 28 nights
 - **Region:** North America
 - **Timezone:** GMT-5 winter / GMT-4 summer <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Tags:** city, community, coworking
