@@ -1,6 +1,6 @@
 # colivingDB — all colivings
 
-> 599 listings. Last updated July 14, 2026.
+> 604 listings. Last updated July 14, 2026.
 
 | Coliving | City | Country | Price from | Min stay | Type |
 |---|---|---|---|---|---|
@@ -317,6 +317,7 @@
 | [A ver o Mar 1 | Coliving & Coworking | Funchal, Madeira](/coliving/a-ver-o-mar-1-coliving-and-coworking-funchal-madeira/index.md) | Ponta do Sol | Portugal | from €920/mo | 14 nights | Permanent |
 | [Algarve Watersport Surf House Coliving](/coliving/algarve-watersport-surf-house-coliving/index.md) | Lagos | Portugal | On request | — | Permanent |
 | [Alvada Coliving (Baixo Beach Coliving)](/coliving/alvada-coliving-baixo-beach-coliving/index.md) | Ponta do Sol, Madeira | Portugal | On request | 3 months | Permanent |
+| [BOND Coliving](/coliving/bond-coliving/index.md) | Funchal, Madeira | Portugal | On request | 30 nights | Permanent |
 | [Banana House (Ponta do Sol Coliving)](/coliving/banana-house-ponta-do-sol-coliving/index.md) | Ponta do Sol, Madeira | Portugal | from €997/mo | 30 nights | Permanent |
 | [Barefoot Guesthouse & Coliving Ericeira](/coliving/barefoot-guesthouse-and-coliving-ericeira/index.md) | Ericeira | Portugal | from €240/mo | 30 nights | Permanent |
 | [Behappy Lodge](/coliving/behappy-lodge/index.md) | Esmoriz | Portugal | On request | — | Permanent |
@@ -563,7 +564,10 @@
 | [beacHub](/coliving/beachub/index.md) | Koh Phangan | Thailand | from THB 6,500/mo | — | Permanent |
 | [CoZi - Coworking Space](/coliving/cozi-coworking-space/index.md) | Houmt Souk | Tunisia | On request | 1 night | Permanent |
 | [CoZi Coliving Djerba](/coliving/cozi-coliving-djerba/index.md) | Djerba (Mezraia) | Tunisia | On request | — | Permanent |
+| [CoBodrum](/coliving/cobodrum/index.md) | Bodrum | Turkey | On request | — | Permanent |
+| [INHIVE Co-Living](/coliving/inhive-co-living/index.md) | Istanbul | Turkey | On request | — | Permanent |
 | [Nest Digital Nomad House](/coliving/nest-digital-nomad-house/index.md) | Istanbul | Turkey | from €435/mo | — | Permanent |
+| [Social House Istanbul](/coliving/social-house-istanbul/index.md) | Istanbul | Turkey | On request | — | Permanent |
 | [Dot Coliv](/coliving/dot-coliv/index.md) | Dubai | United Arab Emirates | from AED 1,000/mo | — | Permanent |
 | [HIVE](/coliving/hive/index.md) | Dubai | United Arab Emirates | On request | — | Permanent |
 | [Froomies](/coliving/froomies/index.md) | Lostwithiel, Cornwall | United Kingdom | from £1,100/mo | 14 nights | Permanent |
@@ -571,6 +575,7 @@
 | [Outsite London - Canary Wharf](/coliving/outsite-london-canary-wharf/index.md) | London | United Kingdom | On request | 2 nights | Permanent |
 | [SeaSpace](/coliving/seaspace/index.md) | Newquay | United Kingdom | from £1,625/mo | — | Permanent |
 | [Somewhere Different](/coliving/somewhere-different/index.md) | Blackpool | United Kingdom | from £400/mo | 7 nights | Permanent |
+| [Stay Lagom](/coliving/stay-lagom/index.md) | Ballycastle, Northern Ireland | United Kingdom | from £855/mo (≈€1,000) | — | Permanent |
 | [Draper Startup House New York](/coliving/draper-startup-house-new-york/index.md) | New York | United States | On request | — | Permanent |
 | [Haven Coliving](/coliving/haven-coliving/index.md) | Venice, California | United States | from $995/mo | 30 nights | Permanent |
 | [Neighbourgood 15th Street](/coliving/neighbourgood-15th-street/index.md) | San Francisco | United States | On request | — | Permanent |

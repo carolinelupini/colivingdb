@@ -123,6 +123,10 @@ h2{font-size:1.15rem;margin:30px 0 10px}
 footer.site{border-top:1px solid #e5e9f0;margin-top:40px;padding:24px 0 50px;color:#6b7280;font-size:.85rem;background:#fff}
 .fab{position:fixed;right:16px;bottom:16px;z-index:60;background:#0e7c66;color:#fff;font-size:.85rem;font-weight:600;text-decoration:none;padding:10px 15px;border-radius:999px;box-shadow:0 3px 12px rgba(20,40,80,.18)}
 .fab:hover{background:#0c6a58}
+.cban{position:fixed;left:0;right:0;bottom:0;z-index:70;background:#12332b;color:#fff;font-size:.85rem;padding:12px 18px;display:flex;gap:10px 14px;align-items:center;justify-content:center;flex-wrap:wrap}
+.cban a{color:#9fe1cb}
+.cban .ck-b{background:#0e7c66;color:#fff;border:none;border-radius:7px;padding:7px 14px;font-weight:600;cursor:pointer}
+.cban .ck-d{background:transparent;color:#ccd;border:1px solid #4a7d6e;border-radius:7px;padding:7px 14px;cursor:pointer}
 .muted{color:#6b7280;font-size:.85rem}
 .permo{color:#6b7280;font-size:.85em}
 header.site select{margin-left:auto;font:inherit;font-size:.84rem;padding:6px 9px;border:1px solid #e5e9f0;border-radius:8px;background:#fff;color:#1a2333;cursor:pointer}
@@ -155,7 +159,10 @@ header.site select{margin-left:auto;font:inherit;font-size:.84rem;padding:6px 9p
 .hubsignup.compact iframe{flex:1 1 240px;width:auto;max-width:360px;height:48px;margin:0}</style>
 <script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@context": "https://schema.org", "@type": "ItemList", "name": "Colivings in Sibiu", "numberOfItems": 1, "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Transylvanian Coliving", "url": "https://colivingdb.com/coliving/transylvanian-coliving/"}]}, {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Are there pop-up colivings in Sibiu, Romania?", "acceptedAnswer": {"@type": "Answer", "text": "No dated pop-up editions are listed in Sibiu, Romania right now — all 1 are permanent colivings."}}, {"@type": "Question", "name": "Which colivings in Sibiu, Romania have dorms?", "acceptedAnswer": {"@type": "Answer", "text": "None of the 1 colivings listed in Sibiu, Romania offer dorm beds."}}]}, {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "colivingDB", "item": "https://colivingdb.com/"}, {"@type": "ListItem", "position": 2, "name": "Europe", "item": "https://colivingdb.com/region/europe/"}, {"@type": "ListItem", "position": 3, "name": "Romania", "item": "https://colivingdb.com/country/romania/"}, {"@type": "ListItem", "position": 4, "name": "Sibiu"}]}]}</script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-GBDMVK7LWL"></script>
-<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-GBDMVK7LWL');</script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
+gtag('consent','default',{'analytics_storage':'denied'});
+try{if(localStorage.getItem('cdb_consent')==='granted')gtag('consent','update',{'analytics_storage':'granted'});}catch(e){}
+gtag('js',new Date());gtag('config','G-GBDMVK7LWL');</script>
 <script async defer src="https://widget.getyourguide.com/dist/pa.umd.production.min.js" data-gyg-partner-id="HGTHLQS"></script>
 <script>(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window,document,"clarity","script","xktmxfcog6");</script>
 </head>
@@ -239,6 +246,10 @@ function rf(btn,toIn){
 <span class="muted">Prices are approximate and shown in each coliving's own local currency unless you switch it above. Data last updated July 14, 2026. Some outbound links are affiliate links — colivingDB may earn a commission at no extra cost to you.</span>
 </div></footer>
 <a class="fab" href="https://docs.google.com/forms/d/e/1FAIpQLSexvQJD4ALM3uGKJfzqBIkHJ0kSTyTwBSoH25VQvp4LD_1ROw/viewform?hl=en" target="_blank" rel="noopener" title="Report a bug, request a filter, or flag a listing correction">💬 Feedback</a>
+<div id="cookieBanner" class="cban" hidden>We use cookies for anonymous analytics. See our <a href="/privacy/">privacy &amp; terms</a>.<button class="ck-b" id="ckAccept">Accept</button><button class="ck-d" id="ckDecline">Decline</button></div>
+<script>(function(){try{var b=document.getElementById('cookieBanner');if(!localStorage.getItem('cdb_consent'))b.hidden=false;
+document.getElementById('ckAccept').onclick=function(){localStorage.setItem('cdb_consent','granted');gtag('consent','update',{'analytics_storage':'granted'});b.hidden=true;};
+document.getElementById('ckDecline').onclick=function(){localStorage.setItem('cdb_consent','denied');b.hidden=true;};}catch(e){}})();</script>
 <script>
 // Client-side currency switch. The HTML always ships the operator's NATIVE figure (that's what
 // crawlers and LLMs read); this only reprices it in the browser. Choice persists across pages.

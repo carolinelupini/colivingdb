@@ -1,11 +1,11 @@
 # colivingDB — all countries
 
-> 599 colivings across 83 countries. Last updated July 14, 2026.
+> 604 colivings across 83 countries. Last updated July 14, 2026.
 
 | Country | Colivings | From (EUR/mo) |
 |---|---|---|
 | [Spain](/country/spain/index.md) | 92 | €71 |
-| [Portugal](/country/portugal/index.md) | 64 | €150 |
+| [Portugal](/country/portugal/index.md) | 65 | €150 |
 | [Italy](/country/italy/index.md) | 31 | €40 |
 | [Mexico](/country/mexico/index.md) | 29 | €46 |
 | [United States](/country/united-states/index.md) | 21 | €553 |
@@ -28,17 +28,18 @@
 | [Vietnam](/country/vietnam/index.md) | 8 | €283 |
 | [Argentina](/country/argentina/index.md) | 6 | €506 |
 | [Philippines](/country/philippines/index.md) | 6 | €525 |
+| [United Kingdom](/country/united-kingdom/index.md) | 6 | €470 |
 | [Germany](/country/germany/index.md) | 5 | €645 |
 | [Malaysia](/country/malaysia/index.md) | 5 | €172 |
 | [Malta](/country/malta/index.md) | 5 | €420 |
 | [Norway](/country/norway/index.md) | 5 | €522 |
 | [Serbia](/country/serbia/index.md) | 5 | €297 |
 | [Tanzania](/country/tanzania/index.md) | 5 | €1,219 |
-| [United Kingdom](/country/united-kingdom/index.md) | 5 | €470 |
 | [Egypt](/country/egypt/index.md) | 4 | €167 |
 | [Kenya](/country/kenya/index.md) | 4 | €500 |
 | [Poland](/country/poland/index.md) | 4 | €513 |
 | [Romania](/country/romania/index.md) | 4 | €670 |
+| [Turkey](/country/turkey/index.md) | 4 | €435 |
 | [Belize](/country/belize/index.md) | 3 | — |
 | [Cyprus](/country/cyprus/index.md) | 3 | €1,160 |
 | [Georgia](/country/georgia/index.md) | 3 | €192 |
@@ -86,4 +87,3 @@
 | [Slovenia](/country/slovenia/index.md) | 1 | €420 |
 | [Svalbard (Norway)](/country/svalbard-norway/index.md) | 1 | — |
 | [Sweden](/country/sweden/index.md) | 1 | €870 |
-| [Turkey](/country/turkey/index.md) | 1 | €435 |
