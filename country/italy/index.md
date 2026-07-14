@@ -1,6 +1,6 @@
 # Coliving in Italy
 
-> 31 colivings in Italy, prices from €40 to €2,100 per month – last updated July 14, 2026.
+> 32 colivings in Italy, prices from €40 to €2,100 per month – last updated July 14, 2026.
 
 ## All colivings
 
@@ -37,6 +37,7 @@
 | Taste Remote | Civita Castellana | from €690/event | — | private, shared | 7 nights | Pop-up |
 | Treballu Rural Community Hub | Laconi (Sardinia) | On request | 4.6 (19) | private, shared | — | Permanent |
 | Wome coliving | Campo Tartano (Val Tartano) | On request | 5.0 (31) | private, shared | 8 nights | Permanent |
+| Trame Living | Ostuni (Puglia) | On request | — | — | — | Permanent |
 
 ## Price distribution
 

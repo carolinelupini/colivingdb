@@ -10,7 +10,7 @@
 - **Minimum stay:** —
 - **Region:** Asia
 - **Tags:** community, city
-- **Website:** https://www.facebook.com/socialhouseistanbul
+- **Website:** https://www.booking.com/hotel/tr/social-house-istanbul.html
 
 ## About
 
