@@ -106,7 +106,7 @@
 | [Shali Home](/coliving/shali-home/index.md) | Siwa | Egypt | from $190/mo | 30 nights | Permanent |
 | [AfricaNomads — Addis Ababa](/coliving/africanomads-addis-ababa/index.md) | Addis Ababa | Ethiopia | from $440/wk | — | Pop-up |
 | [Hub Feenix](/coliving/hub-feenix/index.md) | Mjolbolsta (Meltola), Raseborg | Finland | from €690/mo | 14 nights | Permanent |
-| [Chateau Coliving](/coliving/chateau-coliving/index.md) | Picauville (Normandy) | France | from €1,320/mo | 15 nights | Permanent |
+| [Chateau Coliving](/coliving/chateau-coliving/index.md) | Picauville (Normandy) | France | On request | 15 nights | Permanent |
 | [Cloud Citadel Coliving](/coliving/cloud-citadel-coliving/index.md) | Briançon | France | from €966/mo | 14 nights | Permanent |
 | [Coworksurf Hossegor](/coliving/coworksurf-hossegor/index.md) | Hossegor | France | from €1,050/mo | 30 nights | Permanent |
 | [Enchanted Coliving](/coliving/enchanted-coliving/index.md) | Nachamps | France | from €1,080/mo | 14 nights | Permanent |

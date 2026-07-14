@@ -1,6 +1,6 @@
 # Coliving in France
 
-> 15 colivings in France, prices from €420 to €1,320 per month – last updated July 14, 2026.
+> 15 colivings in France, prices from €420 to €1,200 per month – last updated July 14, 2026.
 
 ## All colivings
 
@@ -17,7 +17,7 @@
 | Outsite Bordeaux | Bordeaux | from €1,000/mo | 4.6 (51) | private | 2 nights | Permanent |
 | Coworksurf Hossegor | Hossegor | from €1,050/mo | — | private, shared | 30 nights | Permanent |
 | NomadUnion Coliving (Villa) | Biot | from €1,200/mo | 4.8 (45) | private, shared | 30 nights | Permanent |
-| Chateau Coliving | Picauville (Normandy) | from €1,320/mo | 4.8 (128) | private, family apartment | 15 nights | Permanent |
+| Chateau Coliving | Picauville (Normandy) | On request | 4.8 (128) | private, family apartment | 15 nights | Permanent |
 | Not Sorry Coliving | near Tullins/Voiron, Isère (French Alps) | On request | — | private | — | Permanent |
 | Outsite Paris (Zoku) | Paris | On request | 4.6 (884) | private, shared | 2 nights | Permanent |
 | The Journey of a Dream · Enchanted Coliving | Charente-Maritime | On request | 5.0 (17) | private | — | Permanent |
@@ -29,7 +29,7 @@
 | 0–500 | 1 |
 | 500–800 | 3 |
 | 800–1200 | 6 |
-| 1200–2000 | 2 |
+| 1200–2000 | 1 |
 
 ## Upcoming pop-ups
 
