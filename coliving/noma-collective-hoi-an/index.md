@@ -5,7 +5,7 @@
 - **Location:** Hoi An, Vietnam
 - **Type:** Pop-up / dated edition
 - **Dates:** Jan 10 - Feb 7, 2027
-- **Price:** from $1,690 per event
+- **Price:** from $1,690/event
 - **Price note:** pp, all fees and taxes included
 - **Room types:** —
 - **Dorm available:** No

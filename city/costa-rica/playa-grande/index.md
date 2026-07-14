@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Noma Collective — Playa Grande | Playa Grande | from $1,590 per event | — | — | — | Pop-up |
+| Noma Collective — Playa Grande | Playa Grande | from $1,590/event | — | — | — | Pop-up |
 | Outsite Playa Grande | Playa Grande | On request | 4.8 (47) | private | 1 night | Permanent |
 
 ## Upcoming pop-ups

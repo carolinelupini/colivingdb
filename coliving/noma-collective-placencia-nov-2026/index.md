@@ -5,7 +5,7 @@
 - **Location:** Placencia, Belize
 - **Type:** Pop-up / dated edition
 - **Dates:** Nov 29 - Dec 20, 2026
-- **Price:** from $2,590 per event
+- **Price:** from $2,590/event
 - **Price note:** pp, all fees and taxes included
 - **Room types:** —
 - **Dorm available:** No

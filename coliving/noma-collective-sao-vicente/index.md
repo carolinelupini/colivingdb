@@ -5,7 +5,7 @@
 - **Location:** Sao Vicente, Cape Verde
 - **Type:** Pop-up / dated edition
 - **Dates:** Nov 29 - Dec 20, 2026
-- **Price:** from $2,290 per event
+- **Price:** from $2,290/event
 - **Price note:** pp, + fees and taxes (not included)
 - **Room types:** —
 - **Dorm available:** No

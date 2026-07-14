@@ -5,7 +5,7 @@
 - **Location:** Tenerife (Canary Islands), Spain
 - **Type:** Pop-up / dated edition
 - **Dates:** Jul 17 - 31, 2026
-- **Price:** from €400 per event
+- **Price:** from €400/event
 - **Price note:** shared dorm, per person, 2-week program; 50% prepayment required to reserve
 - **Room types:** —
 - **Dorm available:** No

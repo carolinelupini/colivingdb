@@ -10,7 +10,7 @@
 | Kiệt Residence | Hoi An | from $449/mo | 4.5 (44) | private, dorm | 30 nights | Permanent |
 | Hub Hoi An | Hoi An | from $449/mo | 4.8 (223) | dorm, private | 7 nights | Permanent |
 | The Mẹ Thứ | Hoi An | from $742/mo | — | private | 30 nights | Permanent |
-| Noma Collective — Hoi An | Hoi An | from $1,690 per event | — | — | — | Pop-up |
+| Noma Collective — Hoi An | Hoi An | from $1,690/event | — | — | — | Pop-up |
 
 ## Price distribution
 

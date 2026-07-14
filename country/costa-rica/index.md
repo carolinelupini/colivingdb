@@ -15,7 +15,7 @@
 | Outsite Santa Teresa - Maramar | Santa Teresa | from $120/night | — | private | — | Permanent |
 | Outsite Santa Teresa - Playa | Santa Teresa | from $2,154/mo | 4.8 (47) | private | 2 nights | Permanent |
 | Puntarenas Residence | Monteverde (Santa Elena) | from $4,574/mo | — | private | 30 nights | Permanent |
-| Noma Collective — Playa Grande | Playa Grande | from $1,590 per event | — | — | — | Pop-up |
+| Noma Collective — Playa Grande | Playa Grande | from $1,590/event | — | — | — | Pop-up |
 | Outsite Playa Grande | Playa Grande | On request | 4.8 (47) | private | 1 night | Permanent |
 | Protopia Community | San José | On request | 4.9 (18) | private, dorm | 14 nights | Permanent |
 

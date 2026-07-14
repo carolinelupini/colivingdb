@@ -5,7 +5,7 @@
 - **Location:** Athens, Greece
 - **Type:** Pop-up / dated edition
 - **Dates:** Mar 28 - Apr 25, 2027 (Waiting list)
-- **Price:** from $2,390 per event
+- **Price:** from $2,390/event
 - **Price note:** pp, all fees and taxes included
 - **Room types:** —
 - **Dorm available:** No

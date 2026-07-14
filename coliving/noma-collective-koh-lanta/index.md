@@ -5,7 +5,7 @@
 - **Location:** Koh Lanta, Thailand
 - **Type:** Pop-up / dated edition
 - **Dates:** Nov 1 - Nov 29, 2026
-- **Price:** from $3,190 per event
+- **Price:** from $3,190/event
 - **Price note:** pp, + fees and taxes (not included)
 - **Room types:** —
 - **Dorm available:** No

@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Backyard Ventures | Arusha | from $2,750 per event | — | private | 30 nights | Pop-up |
+| Backyard Ventures | Arusha | from $2,750/event | — | private | 30 nights | Pop-up |
 
 ## Upcoming pop-ups
 

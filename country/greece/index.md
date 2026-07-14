@@ -16,8 +16,8 @@
 | WiFi Tribe — Paros | Paros | from $1,990/mo | — | private, shared | 28 nights | Pop-up |
 | Boundless Life — Syros | Syros | from €2,300/mo | — | — | — | Pop-up |
 | Charalampou Liandri Home | Atsipopoulo | from $6,608/mo | — | private | 30 nights | Permanent |
-| Noma Collective — Athens | Athens | from $2,390 per event | — | — | — | Pop-up |
-| Tursi Digital Nomads — Parga | Parga | from €799 per event | — | — | — | Pop-up |
+| Noma Collective — Athens | Athens | from $2,390/event | — | — | — | Pop-up |
+| Tursi Digital Nomads — Parga | Parga | from €799/event | — | — | — | Pop-up |
 
 ## Price distribution
 

@@ -5,7 +5,7 @@
 - **Location:** Busan, South Korea
 - **Type:** Pop-up / dated edition
 - **Dates:** Jun 20 - Jul 18, 2027
-- **Price:** from $3,490 per event
+- **Price:** from $3,490/event
 - **Price note:** pp, all fees and taxes included
 - **Room types:** —
 - **Dorm available:** No

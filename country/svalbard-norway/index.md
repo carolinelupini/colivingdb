@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Arctic Coliving | Longyearbyen | from €280 per week | — | private | 14 nights | Pop-up |
+| Arctic Coliving | Longyearbyen | from €280/wk | — | private | 14 nights | Pop-up |
 
 ## Upcoming pop-ups
 

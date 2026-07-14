@@ -5,7 +5,7 @@
 - **Location:** Buenos Aires, Argentina
 - **Type:** Pop-up / dated edition
 - **Dates:** Mar 28 - Apr 25, 2027
-- **Price:** from $2,890 per event
+- **Price:** from $2,890/event
 - **Price note:** pp, all fees and taxes included
 - **Room types:** —
 - **Dorm available:** No

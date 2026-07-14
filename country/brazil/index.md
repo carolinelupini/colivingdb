@@ -16,7 +16,7 @@
 | Manoel Pedro da Silveira Home | Florianópolis | from $465/mo | — | private, dorm | 30 nights | Permanent |
 | WiFi Tribe — Florianópolis | Florianópolis | from $1,690/mo | — | private, shared | 28 nights | Pop-up |
 | Neighbor.HUB Hostel & Coliving - Floripa | Florianópolis | On request | 4.4 (45) | private, shared, dorm | — | Permanent |
-| Noma Collective — Pipa | Pipa | from $2,090 per event | — | — | — | Pop-up |
+| Noma Collective — Pipa | Pipa | from $2,090/event | — | — | — | Pop-up |
 | Nomad's Ville (Mirante de Pipa) | Praia da Pipa | On request | 4.7 (738) | private | — | Permanent |
 
 ## Price distribution

@@ -5,7 +5,7 @@
 - **Location:** Roatan, Honduras
 - **Type:** Pop-up / dated edition
 - **Dates:** Jan 31 - Feb 28, 2027 (Alumni Exclusive)
-- **Price:** from $1,890 per event
+- **Price:** from $1,890/event
 - **Price note:** pp, all fees and taxes included
 - **Room types:** —
 - **Dorm available:** No

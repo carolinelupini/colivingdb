@@ -5,7 +5,7 @@
 - **Location:** Longyearbyen, Svalbard (Norway)
 - **Type:** Pop-up / dated edition
 - **Dates:** October - December 2026 (polar night season)
-- **Price:** from €280 per week
+- **Price:** from €280/wk
 - **Price note:** room, communal areas, heating, coworking access, internet, airport pickup, community events
 - **Room types:** private
 - **Dorm available:** No

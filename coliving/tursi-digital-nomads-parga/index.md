@@ -5,7 +5,7 @@
 - **Location:** Parga, Greece
 - **Type:** Pop-up / dated edition
 - **Dates:** Oct 4 - 25, 2026
-- **Price:** from €799 per event
+- **Price:** from €799/event
 - **Price note:** shared studio, per person, 3-week program; workspace, high-speed internet, utilities, community management
 - **Room types:** —
 - **Dorm available:** No

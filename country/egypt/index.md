@@ -9,7 +9,7 @@
 | Shali Home | Siwa | from $190/mo | 5.0 (1) | private, shared | 30 nights | Permanent |
 | Roma Residence (Serenity Lodge) | Sharm El-Sheikh | from $600/mo | 4.3 (210) | private, dorm | 30 nights | Permanent |
 | Coliving Hurghada (Villa Residence) | Hurghada | from $720/mo | 4.8 (58) | private, shared | 30 nights | Permanent |
-| Noma Collective — Dahab | Dahab | from $1,890 per event | — | — | — | Pop-up |
+| Noma Collective — Dahab | Dahab | from $1,890/event | — | — | — | Pop-up |
 
 ## Price distribution
 

@@ -5,7 +5,7 @@
 - **Location:** Cape Town, South Africa
 - **Type:** Pop-up / dated edition
 - **Dates:** Feb 12 - Feb 15, 2027
-- **Price:** from $499 per event
+- **Price:** from $499/event
 - **Price note:** Starting ticket at the last edition; 2027 pricing not yet announced. Tickets ran $499–$1,049.
 - **Room types:** private, shared
 - **Dorm available:** No

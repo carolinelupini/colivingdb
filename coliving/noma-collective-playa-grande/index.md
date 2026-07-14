@@ -5,7 +5,7 @@
 - **Location:** Playa Grande, Costa Rica
 - **Type:** Pop-up / dated edition
 - **Dates:** Aug 16 - Sep 6, 2026
-- **Price:** from $1,590 per event
+- **Price:** from $1,590/event
 - **Price note:** pp, + fees and taxes (not included)
 - **Room types:** —
 - **Dorm available:** No

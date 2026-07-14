@@ -7,10 +7,10 @@
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
 | WiFi Tribe — Zanzibar City | Zanzibar City | from $1,790/mo | — | private, shared | 28 nights | Pop-up |
-| AfricaNomads Zanzibar | Jambiani, Zanzibar | from $440 per week | — | — | — | Pop-up |
-| AfricaNomads — Kilimanjaro (Moshi) | Kilimanjaro (Moshi) | from $440 per week | — | — | — | Pop-up |
-| AfricaNomads — Zanzibar | Zanzibar | from $440 per week | — | — | — | Pop-up |
-| Backyard Ventures | Arusha | from $2,750 per event | — | private | 30 nights | Pop-up |
+| AfricaNomads Zanzibar | Jambiani, Zanzibar | from $440/wk | — | — | — | Pop-up |
+| AfricaNomads — Kilimanjaro (Moshi) | Kilimanjaro (Moshi) | from $440/wk | — | — | — | Pop-up |
+| AfricaNomads — Zanzibar | Zanzibar | from $440/wk | — | — | — | Pop-up |
+| Backyard Ventures | Arusha | from $2,750/event | — | private | 30 nights | Pop-up |
 
 ## Price distribution
 

@@ -5,7 +5,7 @@
 - **Location:** Arusha, Tanzania
 - **Type:** Pop-up / dated edition
 - **Dates:** ~late September - late October (annual dry-season program; last confirmed Sept 27 - Oct 26, 2025); 2026 dates not yet published
-- **Price:** from $2,750 per event
+- **Price:** from $2,750/event
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** A slow, reflective 30-day shared-living program in Arusha built around purposeful pause, community, and conscious local engagement.

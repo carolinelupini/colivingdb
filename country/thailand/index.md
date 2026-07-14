@@ -23,7 +23,7 @@
 | 4Seas Nimman Coliving Coworking Space | Chiang Mai | On request | 4.9 (148) | private | — | Permanent |
 | Chiangmai Inn Guesthouse | Chiang Mai | On request | 4.3 (107) | private | — | Permanent |
 | LITA Bangkok | bangkok | On request | 4.7 (174) | private, dorm | — | Permanent |
-| Noma Collective — Koh Lanta | Koh Lanta | from $3,190 per event | — | — | — | Pop-up |
+| Noma Collective — Koh Lanta | Koh Lanta | from $3,190/event | — | — | — | Pop-up |
 | Villa Pattranid | Chiang Mai | On request | 5.0 (51) | private | — | Permanent |
 
 ## Price distribution

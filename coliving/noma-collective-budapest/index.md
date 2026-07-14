@@ -5,7 +5,7 @@
 - **Location:** Budapest, Hungary
 - **Type:** Pop-up / dated edition
 - **Dates:** Apr 25 - May 23, 2027
-- **Price:** from $1,990 per event
+- **Price:** from $1,990/event
 - **Price note:** pp, all fees and taxes included
 - **Room types:** —
 - **Dorm available:** No

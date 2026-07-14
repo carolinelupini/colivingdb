@@ -9,7 +9,7 @@
 | Skippers | Diani Beach | from €500/mo | 4.6 (67) | private | 28 nights | Permanent |
 | AfricaNomads — Nairobi (Jul 2026) | Nairobi | from $1,760/mo | — | — | — | Pop-up |
 | AfricaNomads — Nairobi (Nov 2026) | Nairobi | from $1,760/mo | — | — | — | Pop-up |
-| AfricaNomads — Lamu Island | Lamu Island | from $440 per week | — | — | — | Pop-up |
+| AfricaNomads — Lamu Island | Lamu Island | from $440/wk | — | — | — | Pop-up |
 
 ## Price distribution
 

@@ -6,9 +6,9 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Hacker Paradise — Placencia | Placencia | from $1,790 per event | — | — | — | Pop-up |
-| Noma Collective — Placencia (Jan 2027) | Placencia | from $2,590 per event | — | — | — | Pop-up |
-| Noma Collective — Placencia (Nov 2026) | Placencia | from $2,590 per event | — | — | — | Pop-up |
+| Hacker Paradise — Placencia | Placencia | from $1,790/event | — | — | — | Pop-up |
+| Noma Collective — Placencia (Jan 2027) | Placencia | from $2,590/event | — | — | — | Pop-up |
+| Noma Collective — Placencia (Nov 2026) | Placencia | from $2,590/event | — | — | — | Pop-up |
 
 ## Upcoming pop-ups
 

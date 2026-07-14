@@ -13,7 +13,7 @@
 | COGO TENNOJI | Osaka | On request | 4.6 (580) | private, shared | — | Permanent |
 | Kotori Coworking & Hostel Kotohira | Kotohira | On request | 4.9 (94) | private, dorm | 5 nights | Permanent |
 | LivingAnywhere Commons田川 | Fukuoka | from ¥6,600/night | — | dorm, private | 1 night | Permanent |
-| Noma Collective — Osaka | Osaka | from $3,490 per event | — | — | — | Pop-up |
+| Noma Collective — Osaka | Osaka | from $3,490/event | — | — | — | Pop-up |
 | The Pier | Goto Nagasaki | Goto (Fukue), Nagasaki | On request | 5.0 (12) | private | — | Permanent |
 
 ## Price distribution

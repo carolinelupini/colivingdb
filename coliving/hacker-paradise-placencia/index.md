@@ -5,7 +5,7 @@
 - **Location:** Placencia, Belize
 - **Type:** Pop-up / dated edition
 - **Dates:** Nov 2026
-- **Price:** from $1,790 per event
+- **Price:** from $1,790/event
 - **Price note:** beachfront accommodation, coworking space, wifi + local SIM, airport transfers, community manager; flights/food/insurance not included
 - **Room types:** —
 - **Dorm available:** No

@@ -95,7 +95,7 @@
 | The Cocotera Hostel & Coworking | Tarifa | from €15/night | 4.4 (282) | private, dorm | — | Permanent |
 | The Wave Temple | Surfhouse, Coliving | Las Palmas de Gran Canaria | On request | 4.9 (55) | — | — | Permanent |
 | Tulia Guesthouse | Los Realejos | On request | 4.5 (22) | private, shared | — | Permanent |
-| Tursi Digital Nomads — Tenerife (Canary Islands) | Tenerife (Canary Islands) | from €400 per event | — | — | — | Pop-up |
+| Tursi Digital Nomads — Tenerife (Canary Islands) | Tenerife (Canary Islands) | from €400/event | — | — | — | Pop-up |
 | Zen Den Coliving | Arona (Tenerife) | On request | 4.7 (12) | private | — | Permanent |
 | iSlow Coliving | Laxe, A Coruña, Galicia | from €70/night | 5.0 (81) | private, shared | 7 nights | Permanent |
 

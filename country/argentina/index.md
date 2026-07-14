@@ -11,7 +11,7 @@
 | WiFi Tribe — Bariloche | Bariloche | from $1,690/mo | — | private, shared | 28 nights | Pop-up |
 | Coliving Vibrant Buenos Aires | Buenos Aires | On request | 4.7 (44) | private | 7 nights | Permanent |
 | Draper Startup House Buenos Aires | Buenos Aires | On request | — | private, shared, dorm | — | Permanent |
-| Noma Collective — Buenos Aires | Buenos Aires | from $2,890 per event | — | — | — | Pop-up |
+| Noma Collective — Buenos Aires | Buenos Aires | from $2,890/event | — | — | — | Pop-up |
 
 ## Price distribution
 

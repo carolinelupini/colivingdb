@@ -34,7 +34,7 @@
 | Mojo Cohouse | Palermo | On request | 4.7 (51) | private | — | Permanent |
 | Nesting Away - Coliving in Italy | Rome | from €41/night | 4.8 (51) | private | 14 nights | Permanent |
 | Spacebility | Cagliari (Sardinia) | On request | 4.9 (628) | private | — | Permanent |
-| Taste Remote | Civita Castellana | from €690 per event | — | private, shared | 7 nights | Pop-up |
+| Taste Remote | Civita Castellana | from €690/event | — | private, shared | 7 nights | Pop-up |
 | Treballu Rural Community Hub | Laconi (Sardinia) | On request | 4.6 (19) | private, shared | — | Permanent |
 | Wome coliving | Campo Tartano (Val Tartano) | On request | 5.0 (31) | private, shared | 8 nights | Permanent |
 

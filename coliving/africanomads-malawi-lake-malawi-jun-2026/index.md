@@ -5,7 +5,7 @@
 - **Location:** Malawi (Lake Malawi), Malawi
 - **Type:** Pop-up / dated edition
 - **Dates:** June 7 - July 5, 2026
-- **Price:** from $440 per week
+- **Price:** from $440/wk
 - **Price note:** Brand-wide: stays start from $440/week depending on destination, 2-week minimum (long-stay rates from 2 months). Per-edition pricing is not published — request it from AfricaNomads.
 - **Room types:** —
 - **Dorm available:** No

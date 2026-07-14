@@ -13,7 +13,7 @@
 | Neighbours Co-living by Kolab | Ho Chi Minh City | from $600/mo | 5.0 (12) | private | 30 nights | Permanent |
 | The Mẹ Thứ | Hoi An | from $742/mo | — | private | 30 nights | Permanent |
 | Coworking Danang | Da Nang | from VND 25,000,000/mo | 4.9 (156) | private | 30 nights | Permanent |
-| Noma Collective — Hoi An | Hoi An | from $1,690 per event | — | — | — | Pop-up |
+| Noma Collective — Hoi An | Hoi An | from $1,690/event | — | — | — | Pop-up |
 
 ## Price distribution
 

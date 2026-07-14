@@ -74,10 +74,17 @@ a.tdlink:hover{border-color:#0e7c66;color:#0e7c66;background:#f2faf7}
 .pf{background:#f6f8fb;border:1px solid #edf0f5;border-radius:8px;padding:9px 13px}
 .pf span{display:block;font-size:.72rem;color:#6b7280;text-transform:uppercase;letter-spacing:.04em}
 .pf b{font-size:.9rem;font-weight:600}
-.rdisc{background:#e2f3ef;border:1px solid #0e7c66;border-radius:10px;padding:11px 15px;margin:14px 0 4px;font-size:.92rem;line-height:1.55;color:#12332b}
-.rdisc .rd-b{display:inline-block;background:#0e7c66;color:#fff;font-size:.68rem;font-weight:700;text-transform:uppercase;letter-spacing:.04em;padding:2px 8px;border-radius:5px;margin-right:6px;vertical-align:middle}
-.rdisc a{color:#0e7c66;font-weight:600;text-decoration:none;white-space:nowrap}
-.rdisc a:hover{text-decoration:underline}
+.rdisc{display:flex;align-items:center;gap:12px;flex-wrap:wrap;background:#f2faf7;border:1px solid #bfe6d8;border-radius:12px;padding:12px 16px;margin:14px 0 6px}
+.rdisc .rd-ic{font-size:1.5rem;line-height:1}
+.rdisc .rd-body{flex:1;min-width:170px}
+.rdisc .rd-t{font-size:.68rem;font-weight:700;text-transform:uppercase;letter-spacing:.05em;color:#0f6e56}
+.rdisc .rd-d{font-size:.92rem;color:#12332b;margin-top:2px;line-height:1.4}
+.rdisc .rd-cta{background:#0e7c66;color:#fff;font-weight:600;font-size:.85rem;text-decoration:none;padding:8px 15px;border-radius:8px;white-space:nowrap}
+.rdisc .rd-cta:hover{background:#0c6a58}
+.rd-inline{background:#f2faf7;border:1px solid #bfe6d8;border-radius:10px;padding:10px 14px;margin:2px 0 18px;font-size:.9rem;color:#12332b;line-height:1.5}
+.rd-inline a{color:#0e7c66;font-weight:600;text-decoration:none}
+.rd-inline a:hover{text-decoration:underline}
+.disc-badge{display:inline-block;background:#e2f3ef;color:#0f6e56;font-size:.66rem;font-weight:700;padding:1px 7px;border-radius:5px;margin-left:6px;white-space:nowrap;vertical-align:middle}
 .aplist{list-style:none;padding:0;margin:8px 0 22px;display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:10px}
 .aplist li{background:#fff;border:1px solid #e5e9f0;border-radius:10px;padding:10px 14px}
 .aplist small{color:#6b7280;display:block;margin-top:2px}
@@ -158,7 +165,7 @@ header.site select{margin-left:auto;font:inherit;font-size:.84rem;padding:6px 9p
 <h1>Coliving in Koh Lanta, Thailand</h1>
 <p class="lede">1 coliving space in Koh Lanta. Updated July 14, 2026.</p>
 <div id="signupbox" class="hubsignup compact"><div class="sg-txt"><h3>New colivings in your inbox</h3><p>New spaces, upcoming pop-ups, and coliving discount codes.</p></div><iframe src="https://subscribe-forms.beehiiv.com/e2050a21-3afe-41f0-a9de-132528b8cda6?utm_source=colivingdb&amp;utm_medium=seo&amp;utm_campaign=city-thailand-koh-lanta" title="Subscribe to colivingDB" loading="lazy" scrolling="no"></iframe></div>
-<div class="hubctl"><input type="search" id="hubq" placeholder="Filter by name or city…" aria-label="Filter listings"><select id="hubroom" aria-label="Room type"><option value="">Any room</option><option value="private">Private</option><option value="shared">Shared</option><option value="dorm">Dorm</option></select><span class="hubcount" id="hubcount"></span></div><div class="tw"><table id="hubtable"><thead><tr><th data-k="name">Coliving<span class="ar"></span></th><th>City</th><th data-k="eur">Price from<span class="ar"></span></th><th data-k="rating">Rating<span class="ar"></span></th><th>Rooms</th><th data-k="stay">Min stay<span class="ar"></span></th><th>Type</th></tr></thead><tbody id="hubbody"><tr data-name="noma collective — koh lanta koh lanta" data-rooms="" data-eur="" data-rating="" data-stay="" data-href="/coliving/noma-collective-koh-lanta/"><td><a href="/coliving/noma-collective-koh-lanta/">Noma Collective — Koh Lanta</a><br><span class="muted">Nov 1 - Nov 29, 2026</span></td><td>Koh Lanta</td><td>from <span class="m" data-a="3190" data-c="USD">$3,190</span> per event</td><td>—</td><td>—</td><td>—</td><td>Pop-up</td></tr></tbody></table></div><script>
+<div class="hubctl"><input type="search" id="hubq" placeholder="Filter by name or city…" aria-label="Filter listings"><select id="hubroom" aria-label="Room type"><option value="">Any room</option><option value="private">Private</option><option value="shared">Shared</option><option value="dorm">Dorm</option></select><span class="hubcount" id="hubcount"></span></div><div class="tw"><table id="hubtable"><thead><tr><th data-k="name">Coliving<span class="ar"></span></th><th>City</th><th data-k="eur">Price from<span class="ar"></span></th><th data-k="rating">Rating<span class="ar"></span></th><th>Rooms</th><th data-k="stay">Min stay<span class="ar"></span></th><th>Type</th></tr></thead><tbody id="hubbody"><tr data-name="noma collective — koh lanta koh lanta" data-rooms="" data-eur="" data-rating="" data-stay="" data-href="/coliving/noma-collective-koh-lanta/"><td><a href="/coliving/noma-collective-koh-lanta/">Noma Collective — Koh Lanta</a><br><span class="muted">Nov 1 - Nov 29, 2026</span></td><td>Koh Lanta</td><td>from <span class="m" data-a="3190" data-c="USD">$3,190</span><small>/event</small></td><td>—</td><td>—</td><td>—</td><td>Pop-up</td></tr></tbody></table></div><script>
 (function(){
   var body=document.getElementById('hubbody'); if(!body) return;
   var rows=[].slice.call(body.querySelectorAll('tr'));

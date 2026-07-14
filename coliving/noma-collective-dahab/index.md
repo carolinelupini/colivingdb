@@ -5,7 +5,7 @@
 - **Location:** Dahab, Egypt
 - **Type:** Pop-up / dated edition
 - **Dates:** Nov 1 - Nov 22, 2026 (Alumni Exclusive)
-- **Price:** from $1,890 per event
+- **Price:** from $1,890/event
 - **Price note:** pp, plus fees and taxes
 - **Room types:** —
 - **Dorm available:** No

@@ -22,7 +22,7 @@
 | The Romney | Cape Town | from $2,145/mo | — | private | 30 nights | Permanent |
 | Waterkant Residence | Cape Town | from $2,343/mo | 4.3 (70) | private | 30 nights | Permanent |
 | Ideas Cartel at The Old Foundry | Cape Town | On request | 4.4 (220) | private | — | Permanent |
-| Nomad Summer Camp — Camp Big Daddy | Cape Town | from $499 per event | — | private, shared | 3 nights | Pop-up |
+| Nomad Summer Camp — Camp Big Daddy | Cape Town | from $499/event | — | private, shared | 3 nights | Pop-up |
 
 ## Price distribution
 

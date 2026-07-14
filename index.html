@@ -885,6 +885,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
   .signup-inner{background:var(--accent-soft); border:1px solid color-mix(in srgb, var(--accent) 22%, white); border-radius:14px; padding:22px 24px; display:flex; flex-direction:column; align-items:center; text-align:center; gap:12px;}
   .signup-h{font-size:1.05rem; font-weight:700;}
   .signup-sub{color:var(--muted); font-size:.85rem; margin-top:3px;}
+  .disc-badge{display:inline-block; background:var(--accent-soft); color:var(--accent); font-size:.64rem; font-weight:700; padding:1px 7px; border-radius:5px; margin-top:4px; white-space:nowrap;}
   .signup-form{width:100%; max-width:380px; height:48px; border:none; display:block;}
   /* slim signup band shown in the browse/list view (the landing keeps the full one) */
   .listsignup{max-width:var(--wrap); margin:12px auto 0; padding:0 22px;}
@@ -1212,8 +1213,8 @@ function ratingBadge(x){
 }
 // label for a non-monthly price. "per cruise" reads better than "per event" on a cruise.
 function unitLabel(x){
-  if(x.priceUnit==="week") return " per week";
-  return /cruise/i.test(x.name) ? " per cruise" : " per event";
+  if(x.priceUnit==="week") return "/wk";
+  return /cruise/i.test(x.name) ? "/cruise" : "/event";
 }
 // ---- stay-length rates (night / week / month) --------------------------------------------
 // We store ONLY rates an operator actually publishes. Coliving pricing is steeply non-linear
@@ -1553,7 +1554,8 @@ function focusRecord(idx){
   }
 }
 
-function priceCell(x){
+function priceCell(x){ const c=_priceCore(x); return x.disc ? c+'<div class="disc-badge">🎟 reader discount</div>' : c; }
+function _priceCore(x){
   // Non-monthly prices (cruise/camp tickets, weekly rates) sell something other than a month —
   // never render "/mo" for them, and they carry no priceEurMonthly by construction.
   if(x.priceUnit && x.priceUnit!=="month"){

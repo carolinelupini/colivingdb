@@ -5,7 +5,7 @@
 - **Location:** Osaka, Japan
 - **Type:** Pop-up / dated edition
 - **Dates:** May 23 - Jun 20, 2027
-- **Price:** from $3,490 per event
+- **Price:** from $3,490/event
 - **Price note:** pp, all fees and taxes included
 - **Room types:** —
 - **Dorm available:** No

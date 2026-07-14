@@ -24,7 +24,7 @@
 | Waterkant Residence | Cape Town | from $2,343/mo | 4.3 (70) | private | 30 nights | Permanent |
 | Green Room JBay Coliving | Jeffreys Bay | from R545/night | 5.0 (137) | private | 14 nights | Permanent |
 | Ideas Cartel at The Old Foundry | Cape Town | On request | 4.4 (220) | private | — | Permanent |
-| Nomad Summer Camp — Camp Big Daddy | Cape Town | from $499 per event | — | private, shared | 3 nights | Pop-up |
+| Nomad Summer Camp — Camp Big Daddy | Cape Town | from $499/event | — | private, shared | 3 nights | Pop-up |
 
 ## Price distribution
 
