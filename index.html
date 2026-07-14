@@ -1179,7 +1179,7 @@ const TAGS = Object.keys(tagFreq).sort((a,b)=>tagFreq[b]-tagFreq[a]);
 // order interleaves warm/cool so the look-alike pairs never sit next to each other
 const TYPE_ORDER = ["community","beach","family","island","coworking","eco","rural","startup","surf","mountain","ski","city"];
 
-const state = {region:"All", country:"", room:"", showPerm:true, showPop:true, months:new Set(), minStay:"", minRating:"", sort:"", tags:new Set(), vibes:new Set(), priceMin:0, priceMax:null, q:"", showAll:false, currency:"", unit:"month", compare:new Set()};
+const state = {region:"All", country:"", room:"", showPerm:true, showPop:true, months:new Set(), minStay:"", minRating:"", sort:"", tags:new Set(), vibes:new Set(), priceMin:0, priceMax:null, q:"", showAll:false, currency:"", unit:"month", bounds:null, compare:new Set()};
 
 // ---- pop-up month coverage: turn a popupDates string into the set of YYYY-MM it spans ----
 const MONTH_IDX={jan:1,feb:2,mar:3,apr:4,may:5,jun:6,jul:7,aug:8,sep:9,sept:9,oct:10,nov:11,dec:12,
@@ -1343,7 +1343,7 @@ document.getElementById("footer").innerHTML =
 // container. Chip state ("on") is synced by render() via textContent, unchanged.
 document.getElementById("regions").addEventListener("click",e=>{const b=e.target.closest("[data-region]");if(!b)return;
   // "All" in the filter bar shows every coliving in the list (stay), not the browse landing
-  state.region=b.dataset.region; state.showAll=true; state.country=""; document.getElementById("country").value=""; render();});
+  state.region=b.dataset.region; state.bounds=null; state.showAll=true; state.country=""; document.getElementById("country").value=""; render();});
 document.getElementById("tags").addEventListener("click",e=>{const b=e.target.closest("[data-tag]");if(!b)return;
   const t=b.dataset.tag; state.tags.has(t)?state.tags.delete(t):state.tags.add(t); render();});
 document.getElementById("vibes").addEventListener("click",e=>{const b=e.target.closest("[data-vibe]");if(!b)return;
@@ -1353,7 +1353,7 @@ const countrySel=document.getElementById("country");
 [...new Set(C.map(x=>x.country))].filter(k=>k!=="Multiple").sort().forEach(k=>{
   const o=document.createElement("option"); o.value=k; o.textContent=k; countrySel.appendChild(o);
 });
-countrySel.onchange=e=>{state.country=e.target.value; window.scrollTo(0,0); render();};
+countrySel.onchange=e=>{state.country=e.target.value; state.bounds=null; window.scrollTo(0,0); render();};
 document.getElementById("room").onchange=e=>{state.room=e.target.value; render();};
 // type is now two checkboxes (both checked = show all, incl. any programs). Unchecking hides that type.
 document.getElementById("fPerm").onchange=e=>{state.showPerm=e.target.checked; render();};
@@ -1431,7 +1431,7 @@ function showSuggest(q){
 }
 function pickSuggest(q){
   _searchEl.value=q; state.q=q.toLowerCase(); _sugEl.style.display="none";
-  state.showAll=true; render();
+  state.bounds=null; state.showAll=true; render();
 }
 _searchEl.addEventListener("keydown",e=>{
   const opts=[..._sugEl.querySelectorAll(".sug")];
@@ -1448,7 +1448,7 @@ buildSuggest();
 
 let _qTimer=null;
 document.getElementById("search").oninput=e=>{
-  state.q=e.target.value.toLowerCase();
+  state.q=e.target.value.toLowerCase(); if(state.q) state.bounds=null;
   clearTimeout(_qTimer); _qTimer=setTimeout(render, 160);
 };
 
@@ -1491,7 +1491,7 @@ document.addEventListener("keydown",e=>{ if(e.key==="Escape" && formModal.style.
 // clear every filter to default. `toBrowse` = also return to the browse landing (Back / logo);
 // otherwise stay on the current list view with the map + filters and all colivings shown (Reset).
 function resetFilters(toBrowse){
-  Object.assign(state,{region:"All",country:"",room:"",showPerm:true,showPop:true,months:new Set(),minStay:"",minRating:"",sort:"",priceMin:0,priceMax:null,q:"",unit:"month"});
+  Object.assign(state,{region:"All",country:"",room:"",showPerm:true,showPop:true,months:new Set(),minStay:"",minRating:"",sort:"",priceMin:0,priceMax:null,q:"",unit:"month",bounds:null});
   state.tags.clear(); state.vibes.clear();
   state.showAll = (toBrowse === true) ? false : true;
   ["country","room","minstay","minrating","sort"].forEach(id=>document.getElementById(id).value="");
@@ -1534,6 +1534,18 @@ window.addEventListener("resize", () => map.invalidateSize());
 // not ~518 individual removeLayer/addTo calls on the map (the main INP cost).
 const markerGroup=L.layerGroup().addTo(map);
 
+// Map viewport as a filter: when the user pans/zooms, the list narrows to colivings in view.
+// Programmatic fits go through fitMap() and set a flag so they don't count as a user move
+// (which would create a filter⇄fitBounds feedback loop). The flag also clears on a timer in
+// case fitBounds results in no movement (then no moveend fires).
+let _progMove=false;
+function fitMap(b,opts){ _progMove=true; map.fitBounds(b,opts); setTimeout(()=>{ _progMove=false; }, 500); }
+map.on("moveend",()=>{
+  if(_progMove){ _progMove=false; return; }   // our own fit — ignore
+  state.bounds=map.getBounds(); state.showAll=true;
+  render(true);   // re-filter to the new viewport, but don't move the map back
+});
+
 function isBrowse(){
   return state.region==="All" && !state.country && !state.room && state.showPerm && state.showPop && !state.months.size && !state.minStay && !state.minRating
     && !state.tags.size && !state.vibes.size && priceIsDefault() && !state.q && !state.showAll;
@@ -1560,7 +1572,9 @@ function filtered(){
     // vibe is a separate AND dimension: "surf places that are also quiet" = interest AND vibe
     (!state.vibes.size||[...state.vibes].some(v=>((x.details||{}).vibeTags||[]).includes(v))) &&
     // search also matches tags so typing "surf" (or "coworking", etc.) returns results
-    (!state.q||((x.name+" "+(x.city||"")+" "+x.country+" "+(x.tags||[]).join(" ")).toLowerCase()+x._alias).includes(state.q))
+    (!state.q||((x.name+" "+(x.city||"")+" "+x.country+" "+(x.tags||[]).join(" ")).toLowerCase()+x._alias).includes(state.q)) &&
+    // map viewport filter: once the map has been panned/zoomed, only show colivings currently in view
+    (!state.bounds || (x.lat!=null && x.lng!=null && state.bounds.contains([x.lat,x.lng])))
   );
 }
 
@@ -1689,7 +1703,7 @@ function sortForDisplay(list){
   if(state.sort==="rating")     return [...list].sort((a,b)=>(b.rating||0)-(a.rating||0));
   return list;
 }
-function render(){
+function render(skipFit){
   document.querySelectorAll("#regions .chip").forEach(b=>b.classList.toggle("on",b.textContent===state.region));
   document.querySelectorAll("#tags .chip").forEach(b=>b.classList.toggle("on",state.tags.has(b.textContent)));
   document.querySelectorAll("#vibes .chip").forEach(b=>b.classList.toggle("on",state.vibes.has(b.textContent)));
@@ -1702,7 +1716,9 @@ function render(){
   });
   const browse = isBrowse();
   const list=sortForDisplay(filtered());
-  document.getElementById("count").innerHTML=`Showing <b>${list.length}</b> of ${C.length} colivings`;
+  document.getElementById("count").innerHTML=`Showing <b>${list.length}</b> of ${C.length} colivings`
+    + (state.bounds?` in this map area · <a href="#" id="clearArea">show all</a>`:``);
+  { const _ca=document.getElementById("clearArea"); if(_ca) _ca.onclick=(e)=>{e.preventDefault(); state.bounds=null; render();}; }
   document.getElementById("landing").style.display = browse ? "" : "none";
   document.getElementById("filters").style.display = browse ? "none" : "";
   document.getElementById("listSignup").style.display = browse ? "none" : "";
@@ -1768,9 +1784,9 @@ function render(){
   });
   rowsEl.appendChild(frag);   // one DOM insertion, not up to 599 individual appends
 
-  if(withCoords.length){
+  if(withCoords.length && !skipFit && !state.bounds){
     const tight = !browse && (state.region!=="All"||state.country||state.room||!state.showPerm||!state.showPop||state.months.size||state.minStay||state.minRating||state.q||state.tags.size||state.vibes.size||!priceIsDefault());
-    map.fitBounds(L.featureGroup(withCoords).getBounds().pad(tight?0.25:0.02),{maxZoom:tight?9:5});
+    fitMap(L.featureGroup(withCoords).getBounds().pad(tight?0.25:0.02),{maxZoom:tight?9:5});
   }
 }
 // ---- side-by-side compare (esimdb-style): pick up to 4 from the list, table in a modal ----
