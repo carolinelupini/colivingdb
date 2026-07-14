@@ -5,7 +5,7 @@
 - **Location:** Jambiani, Zanzibar, Tanzania
 - **Type:** Pop-up / dated edition
 - **Dates:** Oct 2026 / May 10 - Jun 7, 2027
-- **Price:** On request
+- **Price:** from $440 per week
 - **Price note:** Brand-wide: stays start from $440/week depending on destination, 2-week minimum (long-stay rates from 2 months). Per-edition pricing is not published — request it from AfricaNomads.
 - **Room types:** —
 - **Dorm available:** No

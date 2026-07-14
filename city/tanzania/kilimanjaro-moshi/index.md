@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| AfricaNomads — Kilimanjaro (Moshi) | Kilimanjaro (Moshi) | On request | — | — | — | Pop-up |
+| AfricaNomads — Kilimanjaro (Moshi) | Kilimanjaro (Moshi) | from $440 per week | — | — | — | Pop-up |
 
 ## Upcoming pop-ups
 

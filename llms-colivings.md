@@ -104,7 +104,7 @@
 | [Noma Collective — Dahab](/coliving/noma-collective-dahab/index.md) | Dahab | Egypt | from $1,890 per event | — | Pop-up |
 | [Roma Residence (Serenity Lodge)](/coliving/roma-residence-serenity-lodge/index.md) | Sharm El-Sheikh | Egypt | from $600/mo | 30 nights | Permanent |
 | [Shali Home](/coliving/shali-home/index.md) | Siwa | Egypt | from $190/mo | 30 nights | Permanent |
-| [AfricaNomads — Addis Ababa](/coliving/africanomads-addis-ababa/index.md) | Addis Ababa | Ethiopia | On request | — | Pop-up |
+| [AfricaNomads — Addis Ababa](/coliving/africanomads-addis-ababa/index.md) | Addis Ababa | Ethiopia | from $440 per week | — | Pop-up |
 | [Hub Feenix](/coliving/hub-feenix/index.md) | Mjolbolsta (Meltola), Raseborg | Finland | from €690/mo | 14 nights | Permanent |
 | [Chateau Coliving](/coliving/chateau-coliving/index.md) | Picauville (Normandy) | France | from €1,320/mo | 15 nights | Permanent |
 | [Cloud Citadel Coliving](/coliving/cloud-citadel-coliving/index.md) | Briançon | France | from €966/mo | 14 nights | Permanent |
@@ -216,7 +216,7 @@
 | [The Miyanosawa (Miyanosawa Home)](/coliving/the-miyanosawa-miyanosawa-home/index.md) | Sapporo | Japan | from $573/mo | 30 nights | Permanent |
 | [The Pier | Goto Nagasaki](/coliving/the-pier-goto-nagasaki/index.md) | Goto (Fukue), Nagasaki | Japan | On request | — | Permanent |
 | [Tokyo Chapter](/coliving/tokyo-chapter/index.md) | Tokyo | Japan | from ¥100,000/mo | 30 nights | Permanent |
-| [AfricaNomads — Lamu Island](/coliving/africanomads-lamu-island/index.md) | Lamu Island | Kenya | On request | — | Pop-up |
+| [AfricaNomads — Lamu Island](/coliving/africanomads-lamu-island/index.md) | Lamu Island | Kenya | from $440 per week | — | Pop-up |
 | [AfricaNomads — Nairobi (Jul 2026)](/coliving/africanomads-nairobi-jul-2026/index.md) | Nairobi | Kenya | from $1,760/mo | — | Pop-up |
 | [AfricaNomads — Nairobi (Nov 2026)](/coliving/africanomads-nairobi-nov-2026/index.md) | Nairobi | Kenya | from $1,760/mo | — | Pop-up |
 | [Skippers](/coliving/skippers/index.md) | Diani Beach | Kenya | from €500/mo | 28 nights | Permanent |
@@ -224,8 +224,8 @@
 | [The Jelgavas Iela (Jelgavas Iela Hub)](/coliving/the-jelgavas-iela-jelgavas-iela-hub/index.md) | Riga | Latvia | from $760/mo | 5 months | Permanent |
 | [The Naujamiestis (Naujamiestis Hub)](/coliving/the-naujamiestis-naujamiestis-hub/index.md) | Vilnius | Lithuania | from $794/mo | 30 nights | Permanent |
 | [The Santaros (Santaros Hub)](/coliving/the-santaros-santaros-hub/index.md) | Vilnius | Lithuania | from $783/mo | 5 months | Permanent |
-| [AfricaNomads — Malawi (Lake Malawi) (Jun 2026)](/coliving/africanomads-malawi-lake-malawi-jun-2026/index.md) | Malawi (Lake Malawi) | Malawi | On request | — | Pop-up |
-| [AfricaNomads — Malawi (Lake Malawi) (Oct 2026)](/coliving/africanomads-malawi-lake-malawi-oct-2026/index.md) | Malawi (Lake Malawi) | Malawi | On request | — | Pop-up |
+| [AfricaNomads — Malawi (Lake Malawi) (Jun 2026)](/coliving/africanomads-malawi-lake-malawi-jun-2026/index.md) | Malawi (Lake Malawi) | Malawi | from $440 per week | — | Pop-up |
+| [AfricaNomads — Malawi (Lake Malawi) (Oct 2026)](/coliving/africanomads-malawi-lake-malawi-oct-2026/index.md) | Malawi (Lake Malawi) | Malawi | from $440 per week | — | Pop-up |
 | [Balai Polis Residence](/coliving/balai-polis-residence/index.md) | Kuala Lumpur | Malaysia | from $196/mo | 30 nights | Permanent |
 | [Fraser Home](/coliving/fraser-home/index.md) | Kuala Lumpur | Malaysia | from $368/mo | 30 nights | Permanent |
 | [Nomad Shophouse](/coliving/nomad-shophouse/index.md) | Kuala Lumpur | Malaysia | On request | 7 nights | Permanent |
@@ -537,9 +537,9 @@
 | [Banana Coliving](/coliving/banana-coliving/index.md) | Taipei | Taiwan | from TWD 4,400/mo | 30 nights | Permanent |
 | [Home Sweet Home Share House](/coliving/home-sweet-home-share-house/index.md) | Taipei | Taiwan | On request | 30 nights | Permanent |
 | [Rooms.Taipei](/coliving/rooms-taipei/index.md) | Taipei | Taiwan | On request | — | Permanent |
-| [AfricaNomads Zanzibar](/coliving/africanomads-zanzibar/index.md) | Jambiani, Zanzibar | Tanzania | On request | — | Pop-up |
-| [AfricaNomads — Kilimanjaro (Moshi)](/coliving/africanomads-kilimanjaro-moshi/index.md) | Kilimanjaro (Moshi) | Tanzania | On request | — | Pop-up |
-| [AfricaNomads — Zanzibar](/coliving/africanomads-zanzibar-2/index.md) | Zanzibar | Tanzania | On request | — | Pop-up |
+| [AfricaNomads Zanzibar](/coliving/africanomads-zanzibar/index.md) | Jambiani, Zanzibar | Tanzania | from $440 per week | — | Pop-up |
+| [AfricaNomads — Kilimanjaro (Moshi)](/coliving/africanomads-kilimanjaro-moshi/index.md) | Kilimanjaro (Moshi) | Tanzania | from $440 per week | — | Pop-up |
+| [AfricaNomads — Zanzibar](/coliving/africanomads-zanzibar-2/index.md) | Zanzibar | Tanzania | from $440 per week | — | Pop-up |
 | [Backyard Ventures](/coliving/backyard-ventures/index.md) | Arusha | Tanzania | from $2,750 per event | 30 nights | Pop-up |
 | [WiFi Tribe — Zanzibar City](/coliving/wifi-tribe-zanzibar-city/index.md) | Zanzibar City | Tanzania | from $1,790/mo | 28 nights | Pop-up |
 | [4Seas Nimman Coliving Coworking Space](/coliving/4seas-nimman-coliving-coworking-space/index.md) | Chiang Mai | Thailand | On request | — | Permanent |

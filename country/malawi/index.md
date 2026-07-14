@@ -6,8 +6,8 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| AfricaNomads — Malawi (Lake Malawi) (Jun 2026) | Malawi (Lake Malawi) | On request | — | — | — | Pop-up |
-| AfricaNomads — Malawi (Lake Malawi) (Oct 2026) | Malawi (Lake Malawi) | On request | — | — | — | Pop-up |
+| AfricaNomads — Malawi (Lake Malawi) (Jun 2026) | Malawi (Lake Malawi) | from $440 per week | — | — | — | Pop-up |
+| AfricaNomads — Malawi (Lake Malawi) (Oct 2026) | Malawi (Lake Malawi) | from $440 per week | — | — | — | Pop-up |
 
 ## Upcoming pop-ups
 
