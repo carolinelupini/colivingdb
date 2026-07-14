@@ -1845,6 +1845,12 @@ cmpModal.querySelector(".modal-close").onclick=()=>cmpModal.style.display="none"
 cmpModal.querySelector(".modal-backdrop").onclick=()=>cmpModal.style.display="none";
 document.addEventListener("keydown",e=>{ if(e.key==="Escape" && cmpModal.style.display==="flex") cmpModal.style.display="none"; });
 
+// deep-link: ?q=<term> pre-applies a search on load, so an email/newsletter link can open straight
+// to one operator's chapters (colivingdb.com/?q=AfricaNomads) or a city — reusable for any of them.
+(function(){ try{
+  var q=(new URLSearchParams(location.search).get("q")||"").trim();
+  if(q){ document.getElementById("search").value=q; state.q=q.toLowerCase(); state.showAll=true; }
+}catch(e){} })();
 // defer the first render (map markers) off the load-blocking path — the server-rendered shell
 // (search, filters, browse cards) is already interactive; markers paint a beat later.
 (window.requestIdleCallback || (cb=>setTimeout(cb,1)))(render, {timeout:600});
