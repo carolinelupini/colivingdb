@@ -10,6 +10,6 @@
 
 ## Upcoming pop-ups
 
-- AfricaNomads Zanzibar — May 10 - Jun 7, 2027 (also Oct 2026 cohort listed, specific dates unpublished)
+- AfricaNomads Zanzibar — Oct 2026 / May 10 - Jun 7, 2027
 
 Source: https://colivingdb.com/city/tanzania/jambiani-zanzibar/

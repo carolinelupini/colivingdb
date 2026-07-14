@@ -20,7 +20,7 @@
 
 ## Upcoming pop-ups
 
-- AfricaNomads Zanzibar — May 10 - Jun 7, 2027 (also Oct 2026 cohort listed, specific dates unpublished)
+- AfricaNomads Zanzibar — Oct 2026 / May 10 - Jun 7, 2027
 - AfricaNomads — Kilimanjaro (Moshi) — Dec 13 - Dec 21, 2026 (Kilimanjaro expedition)
 - AfricaNomads — Zanzibar — Sept 27 - Oct 25, 2026
 - Backyard Ventures — ~late September - late October (annual dry-season program; last confirmed Sept 27 - Oct 26, 2025); 2026 dates not yet published
