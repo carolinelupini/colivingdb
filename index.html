@@ -1554,7 +1554,7 @@ function focusRecord(idx){
   }
 }
 
-function priceCell(x){ const c=_priceCore(x); return x.disc ? c+'<div class="disc-badge">🎟 reader discount</div>' : c; }
+function priceCell(x){ const c=_priceCore(x); return x.disc ? c+`<div class="disc-badge" title="${(x.disc+' Sign up free to get the code.').replace(/"/g,'&quot;')}">🎟 reader discount</div>` : c; }
 function _priceCore(x){
   // Non-monthly prices (cruise/camp tickets, weekly rates) sell something other than a month —
   // never render "/mo" for them, and they carry no priceEurMonthly by construction.
