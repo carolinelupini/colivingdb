@@ -1,19 +1,21 @@
 # Trame Living
 
-> Coliving in Ostuni (Puglia), Italy. Last updated July 14, 2026.
+> Coliving in Puglia, Italy. Last updated July 14, 2026.
 
-- **Location:** Ostuni (Puglia), Italy
-- **Type:** Permanent coliving
-- **Price:** On request
+- **Location:** Puglia, Italy
+- **Type:** Pop-up / dated edition
+- **Dates:** Oct 10 - 17, 2026
+- **Price:** from €3,800/wk
+- **Price note:** per person, all-inclusive week (meals, transport, workshops); couples €6,800
 - **Room types:** —
 - **Dorm available:** No
-- **Minimum stay:** —
+- **Minimum stay:** 7 nights
 - **Region:** Europe
 - **Tags:** community, coworking
 - **Website:** https://trameliving.com
 
 ## About
 
-A cultural association in Ostuni, Puglia running seasonal coliving + coworking editions and local experiences for remote workers in southern Italy.
+Trame runs themed pop-up retreats around Puglia (past editions in Taranto, Grottaglie, Valle d'Itria; a few days to a month). Next: 'Making Italy Home' at Villa Cappelli, Oct 10-17, 2026.
 
 Source: https://colivingdb.com/coliving/trame-living/

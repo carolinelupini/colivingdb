@@ -202,7 +202,7 @@
 | [Taste Remote](/coliving/taste-remote/index.md) | Civita Castellana | Italy | from €690/event | 7 nights | Pop-up |
 | [Tertulia Coliving](/coliving/tertulia-coliving/index.md) | Vicchio (Mugello, Florence) | Italy | from €699/mo | 14 nights | Permanent |
 | [Tertulia Forest Coliving](/coliving/tertulia-forest-coliving/index.md) | Mugello, Tuscany | Italy | from €1,140/mo | 7 nights | Permanent |
-| [Trame Living](/coliving/trame-living/index.md) | Ostuni (Puglia) | Italy | On request | — | Permanent |
+| [Trame Living](/coliving/trame-living/index.md) | Puglia | Italy | from €3,800/wk | 7 nights | Pop-up |
 | [Treballu Rural Community Hub](/coliving/treballu-rural-community-hub/index.md) | Laconi (Sardinia) | Italy | On request | — | Permanent |
 | [Wome coliving](/coliving/wome-coliving/index.md) | Campo Tartano (Val Tartano) | Italy | On request | 8 nights | Permanent |
 | [ecoVita](/coliving/ecovita/index.md) | San Priamo, San Vito, Sardinia | Italy | from €1,140/mo | 3 nights | Permanent |

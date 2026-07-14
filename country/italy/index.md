@@ -37,7 +37,7 @@
 | Taste Remote | Civita Castellana | from €690/event | — | private, shared | 7 nights | Pop-up |
 | Treballu Rural Community Hub | Laconi (Sardinia) | On request | 4.6 (19) | private, shared | — | Permanent |
 | Wome coliving | Campo Tartano (Val Tartano) | On request | 5.0 (31) | private, shared | 8 nights | Permanent |
-| Trame Living | Ostuni (Puglia) | On request | — | — | — | Permanent |
+| Trame Living | Puglia | from €3,800/wk | — | — | 7 nights | Pop-up |
 
 ## Price distribution
 
@@ -57,5 +57,6 @@
 - Hacker Paradise — Palermo — Jul 2026
 - Nomadico Tuscany — May–Dec (seasonal)
 - Taste Remote — October 8-31, 2026
+- Trame Living — Oct 10 - 17, 2026
 
 Source: https://colivingdb.com/country/italy/
