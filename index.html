@@ -747,6 +747,15 @@ svg.leaflet-image-layer.leaflet-interactive path {
   .vibebrowse-row{justify-content:center; max-width:var(--wrap); margin:6px auto 0; flex-wrap:wrap; gap:8px;}
   .sep{width:1px; height:22px; background:var(--line);}
   select{padding:6px 10px; border:1px solid var(--line); border-radius:8px; font-size:.83rem; background:var(--card); color:var(--ink);}
+  .msel{position:relative; display:inline-block;}
+  .msel>summary{list-style:none; padding:6px 10px; border:1px solid var(--line); border-radius:8px; font-size:.83rem; background:var(--card); color:var(--ink); cursor:pointer; white-space:nowrap;}
+  .msel>summary::-webkit-details-marker{display:none;}
+  .msel>summary::after{content:" ▾"; opacity:.55;}
+  .msel[open]>summary{border-color:var(--accent);}
+  .msel-pop{position:absolute; z-index:40; top:calc(100% + 4px); left:0; background:var(--card); border:1px solid var(--line); border-radius:8px; padding:6px; box-shadow:0 4px 16px rgba(20,40,80,.12); max-height:264px; overflow:auto; min-width:150px;}
+  .msel-pop label{display:flex; align-items:center; gap:7px; padding:5px 8px; font-size:.83rem; cursor:pointer; white-space:nowrap; border-radius:6px;}
+  .msel-pop label:hover{background:var(--accent-soft);}
+  .msel-pop input{accent-color:var(--accent); cursor:pointer; margin:0;}
   label.toggle{font-size:.82rem; color:var(--muted); display:flex; align-items:center; gap:6px; cursor:pointer;}
   #reset{background:none; border:none; color:var(--muted); font-size:.8rem; cursor:pointer; text-decoration:underline;}
   .back{background:none; border:1px solid var(--line); border-radius:999px; color:var(--accent); font-size:.82rem; font-weight:600; cursor:pointer; padding:5px 13px;}
@@ -964,7 +973,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
         <label class="fmtchk"><input type="checkbox" id="fPerm" checked>Permanent</label>
         <label class="fmtchk"><input type="checkbox" id="fPop" checked>Pop-ups</label>
       </span>
-      <select id="month" autocomplete="off" title="Show pop-ups running in a given month"><option value="">Any month</option></select>
+      <details class="msel" id="monthdd" title="Show pop-ups running in the months you pick"><summary id="monthsum">Any month</summary><div class="msel-pop" id="monthopts"></div></details>
       <select id="minstay" autocomplete="off" title="Shortest stay a place will accept">
         <option value="">Any stay length</option>
         <option value="3">Few days OK (≤3 nights)</option>
@@ -1149,7 +1158,7 @@ const TAGS = Object.keys(tagFreq).sort((a,b)=>tagFreq[b]-tagFreq[a]);
 // order interleaves warm/cool so the look-alike pairs never sit next to each other
 const TYPE_ORDER = ["community","beach","family","island","coworking","eco","rural","startup","surf","mountain","ski","city"];
 
-const state = {region:"All", country:"", room:"", showPerm:true, showPop:true, month:"", minStay:"", minRating:"", sort:"", tags:new Set(), vibes:new Set(), priceMin:0, priceMax:null, q:"", showAll:false, currency:"", unit:"month", compare:new Set()};
+const state = {region:"All", country:"", room:"", showPerm:true, showPop:true, months:new Set(), minStay:"", minRating:"", sort:"", tags:new Set(), vibes:new Set(), priceMin:0, priceMax:null, q:"", showAll:false, currency:"", unit:"month", compare:new Set()};
 
 // ---- pop-up month coverage: turn a popupDates string into the set of YYYY-MM it spans ----
 const MONTH_IDX={jan:1,feb:2,mar:3,apr:4,may:5,jun:6,jul:7,aug:8,sep:9,sept:9,oct:10,nov:11,dec:12,
@@ -1329,12 +1338,14 @@ document.getElementById("room").onchange=e=>{state.room=e.target.value; render()
 document.getElementById("fPerm").onchange=e=>{state.showPerm=e.target.checked; render();};
 document.getElementById("fPop").onchange=e=>{state.showPop=e.target.checked; render();};
 // month dropdown: every month any live pop-up covers, from this month forward
-const monthSel=document.getElementById("month");
+const monthOpts=document.getElementById("monthopts"), monthSum=document.getElementById("monthsum");
 { const nowKey=(()=>{const d=new Date();return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0");})();
   const all=new Set(); C.forEach(x=>{ if(x.format==="pop-up") popupMonths(x.popupDates).forEach(k=>{ if(k>=nowKey) all.add(k); }); });
-  [...all].sort().forEach(k=>{ const o=document.createElement("option"); o.value=k; o.textContent=monthKeyLabel(k); monthSel.appendChild(o); });
+  [...all].sort().forEach(k=>{ const l=document.createElement("label"); l.innerHTML='<input type="checkbox" value="'+k+'">'+monthKeyLabel(k); monthOpts.appendChild(l); });
 }
-monthSel.onchange=e=>{state.month=e.target.value; render();};
+function syncMonthSummary(){ const n=state.months.size; monthSum.textContent = n===0?"Any month":(n===1?monthKeyLabel([...state.months][0]):n+" months"); }
+monthOpts.addEventListener("change",e=>{ const cb=e.target; if(!cb||cb.type!=="checkbox")return; if(cb.checked)state.months.add(cb.value); else state.months.delete(cb.value); syncMonthSummary(); render(); });
+document.addEventListener("click",e=>{ const dd=document.getElementById("monthdd"); if(dd&&dd.open&&!dd.contains(e.target)) dd.open=false; });
 document.getElementById("minstay").onchange=e=>{state.minStay=e.target.value; render();};
 document.getElementById("minrating").onchange=e=>{state.minRating=e.target.value; render();};
 document.getElementById("sort").onchange=e=>{state.sort=e.target.value; render();};
@@ -1457,10 +1468,11 @@ document.addEventListener("keydown",e=>{ if(e.key==="Escape" && formModal.style.
 // clear every filter to default. `toBrowse` = also return to the browse landing (Back / logo);
 // otherwise stay on the current list view with the map + filters and all colivings shown (Reset).
 function resetFilters(toBrowse){
-  Object.assign(state,{region:"All",country:"",room:"",showPerm:true,showPop:true,month:"",minStay:"",minRating:"",sort:"",priceMin:0,priceMax:null,q:"",unit:"month"});
+  Object.assign(state,{region:"All",country:"",room:"",showPerm:true,showPop:true,months:new Set(),minStay:"",minRating:"",sort:"",priceMin:0,priceMax:null,q:"",unit:"month"});
   state.tags.clear(); state.vibes.clear();
   state.showAll = (toBrowse === true) ? false : true;
-  ["country","room","month","minstay","minrating","sort"].forEach(id=>document.getElementById(id).value="");
+  ["country","room","minstay","minrating","sort"].forEach(id=>document.getElementById(id).value="");
+  document.querySelectorAll("#monthopts input").forEach(cb=>cb.checked=false); document.getElementById("monthsum").textContent="Any month";
   document.getElementById("fPerm").checked=true; document.getElementById("fPop").checked=true;
   document.querySelectorAll("#unitSeg button").forEach(b=>b.classList.toggle("on", b.dataset.unit==="month"));
   priceSliderInit();
@@ -1500,7 +1512,7 @@ window.addEventListener("resize", () => map.invalidateSize());
 const markerGroup=L.layerGroup().addTo(map);
 
 function isBrowse(){
-  return state.region==="All" && !state.country && !state.room && state.showPerm && state.showPop && !state.month && !state.minStay && !state.minRating
+  return state.region==="All" && !state.country && !state.room && state.showPerm && state.showPop && !state.months.size && !state.minStay && !state.minRating
     && !state.tags.size && !state.vibes.size && priceIsDefault() && !state.q && !state.showAll;
 }
 function hasRoom(x, room){
@@ -1513,7 +1525,7 @@ function filtered(){
     (!state.country||x.country===state.country) &&
     (!state.room||hasRoom(x,state.room)) &&
     (x.format==="permanent" ? state.showPerm : x.format==="pop-up" ? state.showPop : true) &&
-    (!state.month||(x.format==="pop-up"&&popupMonths(x.popupDates).has(state.month))) &&
+    (!state.months.size||(x.format==="pop-up"&&[...state.months].some(k=>popupMonths(x.popupDates).has(k)))) &&
     (!state.minStay||(x.minStayNights&&x.minStayNights<=+state.minStay)) &&
     (!state.minRating||(x.rating&&x.rating>=+state.minRating)) &&
     // price range: same number the row displays (selected stay length + selected room), in EUR.
@@ -1733,7 +1745,7 @@ function render(){
   rowsEl.appendChild(frag);   // one DOM insertion, not up to 599 individual appends
 
   if(withCoords.length){
-    const tight = !browse && (state.region!=="All"||state.country||state.room||!state.showPerm||!state.showPop||state.month||state.minStay||state.minRating||state.q||state.tags.size||state.vibes.size||!priceIsDefault());
+    const tight = !browse && (state.region!=="All"||state.country||state.room||!state.showPerm||!state.showPop||state.months.size||state.minStay||state.minRating||state.q||state.tags.size||state.vibes.size||!priceIsDefault());
     map.fitBounds(L.featureGroup(withCoords).getBounds().pad(tight?0.25:0.02),{maxZoom:tight?9:5});
   }
 }
