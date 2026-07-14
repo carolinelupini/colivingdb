@@ -1436,9 +1436,11 @@ document.getElementById("search").oninput=e=>{
 document.getElementById("regionCards").addEventListener("click",e=>{const c=e.target.closest("[data-region]");if(!c)return;
   state.region=c.dataset.region; state.showAll=false; state.country=""; countrySel.value=""; window.scrollTo(0,0); render();});
 document.getElementById("typeCards").addEventListener("click",e=>{const c=e.target.closest("[data-tag]");if(!c)return;
-  state.tags=new Set([c.dataset.tag]); state.region="All"; state.showAll=false; window.scrollTo(0,0); render();});
+  const t=c.dataset.tag; state.tags=(state.tags.size===1&&state.tags.has(t))?new Set():new Set([t]);  // click a selected interest to clear it
+  state.region="All"; state.showAll=false; window.scrollTo(0,0); render();});
 document.getElementById("vibeCards").addEventListener("click",e=>{const c=e.target.closest("[data-vibe]");if(!c)return;
-  state.vibes=new Set([c.dataset.vibe]); state.tags=new Set(); state.region="All"; state.showAll=false; window.scrollTo(0,0); render();});
+  const v=c.dataset.vibe; state.vibes=(state.vibes.size===1&&state.vibes.has(v))?new Set():new Set([v]);  // click a selected vibe to clear it
+  state.tags=new Set(); state.region="All"; state.showAll=false; window.scrollTo(0,0); render();});
 document.getElementById("countryChips").addEventListener("click",e=>{const c=e.target.closest("[data-country]");if(!c)return;
   state.country=c.dataset.country; state.region="All"; state.showAll=false; countrySel.value=c.dataset.country; window.scrollTo(0,0); render();
 });
