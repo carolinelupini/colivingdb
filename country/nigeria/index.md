@@ -1,6 +1,6 @@
 # Coliving in Nigeria
 
-> 1 colivings in Nigeria – last updated July 14, 2026.
+> 1 colivings in Nigeria – last updated July 16, 2026.
 
 ## All colivings
 

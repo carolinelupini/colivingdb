@@ -1,6 +1,6 @@
 # Nomadico Coliving Kotor
 
-> Coliving in Kotor, Montenegro. Last updated July 14, 2026.
+> Coliving in Kotor, Montenegro. Last updated July 16, 2026.
 
 - **Location:** Kotor, Montenegro
 - **Type:** Pop-up / dated edition

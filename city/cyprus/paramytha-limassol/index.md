@@ -1,6 +1,6 @@
 # Coliving in Paramytha (Limassol), Cyprus
 
-> 1 colivings in Paramytha (Limassol), Cyprus – last updated July 14, 2026.
+> 1 colivings in Paramytha (Limassol), Cyprus – last updated July 16, 2026.
 
 ## All colivings
 

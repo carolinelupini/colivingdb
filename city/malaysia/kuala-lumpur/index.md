@@ -1,6 +1,6 @@
 # Coliving in Kuala Lumpur, Malaysia
 
-> 3 colivings in Kuala Lumpur, Malaysia, prices from €172 to €323 per month – last updated July 14, 2026.
+> 3 colivings in Kuala Lumpur, Malaysia, prices from €172 to €323 per month – last updated July 16, 2026.
 
 ## All colivings
 

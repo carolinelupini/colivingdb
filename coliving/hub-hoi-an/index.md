@@ -1,6 +1,6 @@
 # Hub Hoi An
 
-> Coliving in Hoi An, Vietnam. Last updated July 14, 2026.
+> Coliving in Hoi An, Vietnam. Last updated July 16, 2026.
 
 - **Location:** Hoi An, Vietnam
 - **Type:** Permanent coliving

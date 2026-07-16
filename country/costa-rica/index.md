@@ -1,6 +1,6 @@
 # Coliving in Costa Rica
 
-> 12 colivings in Costa Rica, prices from €289 to €4,001 per month – last updated July 14, 2026.
+> 12 colivings in Costa Rica, prices from €289 to €4,001 per month – last updated July 16, 2026.
 
 ## All colivings
 

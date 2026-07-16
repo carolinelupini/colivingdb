@@ -1,6 +1,6 @@
 # Coliving in New Haven, United States
 
-> 1 colivings in New Haven, United States – last updated July 14, 2026.
+> 1 colivings in New Haven, United States – last updated July 16, 2026.
 
 ## All colivings
 

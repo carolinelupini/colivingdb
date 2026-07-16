@@ -1,6 +1,6 @@
 # Coliving in Berlin, Germany
 
-> 1 colivings in Berlin, Germany – last updated July 14, 2026.
+> 1 colivings in Berlin, Germany – last updated July 16, 2026.
 
 ## All colivings
 

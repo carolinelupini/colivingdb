@@ -1,6 +1,6 @@
 # Nomad Cruise — NC17 Atlantic Crossing
 
-> Coliving in Southampton → New York. Last updated July 14, 2026.
+> Coliving in Southampton → New York. Last updated July 16, 2026.
 
 - **Location:** Southampton → New York
 - **Type:** Pop-up / dated edition

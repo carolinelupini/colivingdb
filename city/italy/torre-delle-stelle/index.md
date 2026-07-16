@@ -1,6 +1,6 @@
 # Coliving in Torre delle Stelle, Italy
 
-> 1 colivings in Torre delle Stelle, Italy – last updated July 14, 2026.
+> 1 colivings in Torre delle Stelle, Italy – last updated July 16, 2026.
 
 ## All colivings
 

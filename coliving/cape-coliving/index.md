@@ -1,6 +1,6 @@
 # Cape Coliving
 
-> Coliving in Cape Town, South Africa. Last updated July 14, 2026.
+> Coliving in Cape Town, South Africa. Last updated July 16, 2026.
 
 - **Location:** Cape Town, South Africa
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # Coliving in Purchena, Spain
 
-> 1 colivings in Purchena, Spain, prices from €450 to €450 per month – last updated July 14, 2026.
+> 1 colivings in Purchena, Spain, prices from €450 to €450 per month – last updated July 16, 2026.
 
 ## All colivings
 

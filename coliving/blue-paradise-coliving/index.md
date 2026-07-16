@@ -1,6 +1,6 @@
 # Blue Paradise Coliving
 
-> Coliving in Santa Cruz de Tenerife, Spain. Last updated July 14, 2026.
+> Coliving in Santa Cruz de Tenerife, Spain. Last updated July 16, 2026.
 
 - **Location:** Santa Cruz de Tenerife, Spain
 - **Type:** Permanent coliving

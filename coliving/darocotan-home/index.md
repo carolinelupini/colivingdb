@@ -1,6 +1,6 @@
 # Darocotan Home
 
-> Coliving in El Nido, Philippines. Last updated July 14, 2026.
+> Coliving in El Nido, Philippines. Last updated July 16, 2026.
 
 - **Location:** El Nido, Philippines
 - **Type:** Permanent coliving

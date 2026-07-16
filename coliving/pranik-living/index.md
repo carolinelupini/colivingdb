@@ -1,6 +1,6 @@
 # Pranik Living
 
-> Coliving in Medellín (Laureles), Colombia. Last updated July 14, 2026.
+> Coliving in Medellín (Laureles), Colombia. Last updated July 16, 2026.
 
 - **Location:** Medellín (Laureles), Colombia
 - **Type:** Permanent coliving

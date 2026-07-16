@@ -1,6 +1,6 @@
 # CocoVivo
 
-> Coliving in Bocas del Toro, Panama. Last updated July 14, 2026.
+> Coliving in Bocas del Toro, Panama. Last updated July 16, 2026.
 
 - **Location:** Bocas del Toro, Panama
 - **Type:** Permanent coliving

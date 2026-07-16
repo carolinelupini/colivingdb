@@ -1,6 +1,6 @@
 # Coliving in Ribeira Grande, São Miguel, Portugal
 
-> 2 colivings in Ribeira Grande, São Miguel, Portugal, prices from €750 to €750 per month – last updated July 14, 2026.
+> 2 colivings in Ribeira Grande, São Miguel, Portugal, prices from €750 to €750 per month – last updated July 16, 2026.
 
 ## All colivings
 

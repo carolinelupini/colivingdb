@@ -1,6 +1,6 @@
 # Nest Digital Nomad House
 
-> Coliving in Istanbul, Turkey. Last updated July 14, 2026.
+> Coliving in Istanbul, Turkey. Last updated July 16, 2026.
 
 - **Location:** Istanbul, Turkey
 - **Type:** Permanent coliving

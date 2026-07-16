@@ -1,6 +1,6 @@
 # Arctic Coliving
 
-> Coliving in Voss (Mjolfjell) / Henningsvaer, Lofoten, Norway. Last updated July 14, 2026.
+> Coliving in Voss (Mjolfjell) / Henningsvaer, Lofoten, Norway. Last updated July 16, 2026.
 
 - **Location:** Voss (Mjolfjell) / Henningsvaer, Lofoten, Norway
 - **Type:** Permanent coliving

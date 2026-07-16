@@ -839,6 +839,20 @@ svg.leaflet-image-layer.leaflet-interactive path {
   #ckAccept{background:#0e7c66; color:#fff; border:none; font-weight:600;}
   #ckDecline{background:transparent; color:#cdd8d3; border:1px solid #4a7d6e;}
 
+  /* desktop slide-over for listing details (Airbnb-style); mobile keeps full-page navigation */
+  #detailPanel{position:fixed; inset:0; z-index:2200; display:none;}
+  #detailPanel.open{display:block;}
+  .dp-backdrop{position:absolute; inset:0; background:rgba(20,30,50,.45);}
+  .dp-panel{position:absolute; top:0; right:0; bottom:0; width:min(780px,92vw); background:var(--card);
+    box-shadow:-14px 0 44px rgba(0,0,0,.28); display:flex; flex-direction:column; animation:dpIn .2s ease;}
+  @keyframes dpIn{from{transform:translateX(48px); opacity:.4;} to{transform:none; opacity:1;}}
+  .dp-top{display:flex; align-items:center; gap:12px; padding:9px 16px; border-bottom:1px solid var(--line); background:var(--card);}
+  .dp-top a{font-size:.85rem; font-weight:600; color:var(--accent); text-decoration:none;}
+  .dp-top a:hover{text-decoration:underline;}
+  .dp-close{margin-left:auto; background:none; border:none; font-size:1.7rem; line-height:1; color:var(--muted); cursor:pointer;}
+  .dp-close:hover{color:var(--ink);}
+  .dp-frame{flex:1; border:none; width:100%;}
+
   /* compare */
   .r-link .cmp{display:block; margin-top:5px; font-size:.72rem; padding:2px 8px; border:1px solid var(--line); border-radius:6px; background:#fff; color:var(--muted); cursor:pointer;}
   .r-link .cmp:hover{border-color:var(--accent); color:var(--accent);}
@@ -1104,6 +1118,15 @@ svg.leaflet-image-layer.leaflet-interactive path {
   <span id="cmpCount"></span>
   <button id="cmpOpen">Compare →</button>
   <button id="cmpClear" title="Clear selection">✕</button>
+</div>
+
+<!-- desktop slide-over: listing details in-place (mobile navigates to the page as before) -->
+<div id="detailPanel" aria-hidden="true">
+  <div class="dp-backdrop"></div>
+  <div class="dp-panel" role="dialog" aria-label="Coliving details">
+    <div class="dp-top"><a id="dpOpenFull" href="#" target="_blank" rel="noopener">Open full page ↗</a><button class="dp-close" id="dpClose" aria-label="Close">×</button></div>
+    <iframe class="dp-frame" id="dpFrame" title="Coliving details"></iframe>
+  </div>
 </div>
 <div id="cmpModal" class="modal" style="display:none" role="dialog" aria-modal="true" aria-label="Compare colivings">
   <div class="modal-backdrop"></div>
@@ -1516,9 +1539,9 @@ function resetFilters(toBrowse){
 document.getElementById("reset").onclick=()=>resetFilters(false);   // clear filters, stay on the list
 document.getElementById("back").onclick=()=>resetFilters(true);     // back to the browse landing
 document.getElementById("home").onclick=()=>resetFilters(true);
-// only reset when restored from the back/forward cache — on a normal load this would just
-// double the initial render (render() already runs at the end of this script)
-window.addEventListener("pageshow", e=>{ if(e.persisted) resetFilters(true); });
+// bfcache restore keeps the full JS state alive — filters, list, and map survive Back from a
+// detail page untouched. (This used to resetFilters(true), which wiped the user's search on
+// every Back — the "I have to re-add my filters" bug.) Nothing to do on restore.
 
 // map
 // preferCanvas: draw the ~518 markers onto ONE canvas instead of 518 SVG DOM nodes — far less
@@ -1785,10 +1808,11 @@ function render(skipFit){
       row.onmouseenter=()=>x.__m.setStyle({radius:10,fillOpacity:.9});
       row.onmouseleave=()=>x.__m.setStyle({radius:7,fillOpacity:.55});
     }
-    // whole card clicks into the detail page (esimdb-style); inner links still work normally
+    // whole card clicks into the detail page (esimdb-style); inner links still work normally.
+    // Desktop opens the slide-over panel instead of navigating; mobile keeps full-page nav.
     if(detailUrl){
       row.classList.add("clickable");
-      row.onclick=e=>{ if(!e.target.closest("a,button")) window.location.href=detailUrl; };
+      row.onclick=e=>{ if(!e.target.closest("a,button")){ if(dpDesktop()) openPanel(detailUrl); else window.location.href=detailUrl; } };
     }
     row.querySelector(".cmp").onclick=()=>toggleCompare(idx);
     frag.appendChild(row);
@@ -1799,6 +1823,31 @@ function render(skipFit){
     const tight = !browse && (state.region!=="All"||state.country||state.room||!state.showPerm||!state.showPop||state.months.size||state.minStay||state.minRating||state.q||state.tags.size||state.vibes.size||!priceIsDefault());
     fitMap(L.featureGroup(withCoords).getBounds().pad(tight?0.25:0.02),{maxZoom:tight?9:5});
   }
+  syncUrl();
+}
+// Mirror the active filters into the URL (replaceState — no history spam). Two jobs: Back from a
+// detail page restores the filtered view even without bfcache, and any filtered view is shareable.
+function syncUrl(){
+  try{
+    const p=new URLSearchParams();
+    if(state.q) p.set("q",state.q);
+    if(state.region!=="All") p.set("region",state.region);
+    if(state.country) p.set("country",state.country);
+    if(state.room) p.set("room",state.room);
+    if(!state.showPerm) p.set("perm","0");
+    if(!state.showPop) p.set("pop","0");
+    if(state.months.size) p.set("months",[...state.months].join(","));
+    if(state.minStay) p.set("stay",state.minStay);
+    if(state.minRating) p.set("rating",state.minRating);
+    if(state.sort) p.set("sort",state.sort);
+    if(state.tags.size) p.set("tags",[...state.tags].join(","));
+    if(state.vibes.size) p.set("vibes",[...state.vibes].join(","));
+    if(!priceIsDefault()){ if(state.priceMin) p.set("pmin",Math.round(state.priceMin)); if(state.priceMax!=null) p.set("pmax",Math.round(state.priceMax)); }
+    if(state.unit!=="month") p.set("unit",state.unit);
+    if(state.showAll && ![...p.keys()].length) p.set("all","1");
+    const qs=p.toString();
+    history.replaceState(history.state,"", qs ? "?"+qs : location.pathname);
+  }catch(e){}
 }
 // ---- side-by-side compare (esimdb-style): pick up to 4 from the list, table in a modal ----
 const cmpBar=document.getElementById("cmpBar"), cmpModal=document.getElementById("cmpModal");
@@ -1845,11 +1894,61 @@ cmpModal.querySelector(".modal-close").onclick=()=>cmpModal.style.display="none"
 cmpModal.querySelector(".modal-backdrop").onclick=()=>cmpModal.style.display="none";
 document.addEventListener("keydown",e=>{ if(e.key==="Escape" && cmpModal.style.display==="flex") cmpModal.style.display="none"; });
 
-// deep-link: ?q=<term> pre-applies a search on load, so an email/newsletter link can open straight
-// to one operator's chapters (colivingdb.com/?q=AfricaNomads) or a city — reusable for any of them.
+// ---- desktop slide-over for listing details ----
+// Opens the already-built static /coliving/<slug>/ page in an iframe (?embed=1 hides its site
+// chrome), pushState's the listing URL so the address bar is shareable and BACK closes the panel.
+const dpEl=document.getElementById("detailPanel"), dpFrame=document.getElementById("dpFrame");
+const dpDesktop=()=>window.matchMedia("(min-width: 900px)").matches;
+let dpIsOpen=false;
+function openPanel(url){
+  dpFrame.src=url+(url.includes("?")?"&":"?")+"embed=1";
+  document.getElementById("dpOpenFull").href=url;
+  dpEl.classList.add("open"); dpEl.setAttribute("aria-hidden","false");
+  dpIsOpen=true; document.body.style.overflow="hidden";
+  history.pushState({dp:url},"",url);
+}
+function closePanel(viaPop){
+  dpEl.classList.remove("open"); dpEl.setAttribute("aria-hidden","true");
+  dpIsOpen=false; document.body.style.overflow="";
+  dpFrame.src="about:blank";
+  if(!viaPop) history.back();   // pop our pushed entry; the popstate sees dpIsOpen already false
+}
+document.getElementById("dpClose").onclick=()=>closePanel(false);
+dpEl.querySelector(".dp-backdrop").onclick=()=>closePanel(false);
+document.addEventListener("keydown",e=>{ if(e.key==="Escape"&&dpIsOpen) closePanel(false); });
+window.addEventListener("popstate",()=>{ if(dpIsOpen) closePanel(true); });
+// every /coliving/ link on the page (row name links, Details →, map popups) routes into the
+// panel on desktop; modified clicks (new-tab intent) and mobile pass through untouched
+document.addEventListener("click",e=>{
+  const a=e.target.closest('a[href^="/coliving/"]');
+  if(!a || !dpDesktop() || e.metaKey || e.ctrlKey || e.shiftKey) return;
+  e.preventDefault(); openPanel(a.getAttribute("href"));
+});
+
+// deep-link + restore: every filter dimension reads from the URL on load (written by syncUrl on
+// each render). Covers email links (?q=AfricaNomads) AND Back-from-a-detail-page restoring the
+// user's filtered search when bfcache didn't keep the page alive.
 (function(){ try{
-  var q=(new URLSearchParams(location.search).get("q")||"").trim();
-  if(q){ document.getElementById("search").value=q; state.q=q.toLowerCase(); state.showAll=true; }
+  const p=new URLSearchParams(location.search);
+  if(![...p.keys()].length) return;
+  const g=k=>p.get(k);
+  if(g("q")){ const q=g("q").trim(); document.getElementById("search").value=q; state.q=q.toLowerCase(); }
+  if(g("region")) state.region=g("region");
+  if(g("country")){ state.country=g("country"); document.getElementById("country").value=state.country; }
+  if(g("room")){ state.room=g("room"); document.getElementById("room").value=state.room; }
+  if(g("perm")==="0"){ state.showPerm=false; document.getElementById("fPerm").checked=false; }
+  if(g("pop")==="0"){ state.showPop=false; document.getElementById("fPop").checked=false; }
+  if(g("months")){ state.months=new Set(g("months").split(",")); document.querySelectorAll("#monthopts input").forEach(cb=>cb.checked=state.months.has(cb.value)); syncMonthSummary(); }
+  if(g("stay")){ state.minStay=g("stay"); document.getElementById("minstay").value=state.minStay; }
+  if(g("rating")){ state.minRating=g("rating"); document.getElementById("minrating").value=state.minRating; }
+  if(g("sort")){ state.sort=g("sort"); document.getElementById("sort").value=state.sort; }
+  if(g("tags")) state.tags=new Set(g("tags").split(","));
+  if(g("vibes")) state.vibes=new Set(g("vibes").split(","));
+  if(g("pmin")) state.priceMin=+g("pmin");
+  if(g("pmax")) state.priceMax=+g("pmax");
+  if(g("unit")){ state.unit=g("unit"); document.querySelectorAll("#unitSeg button").forEach(b=>b.classList.toggle("on", b.dataset.unit===state.unit)); }
+  if(g("pmin")||g("pmax")||g("unit")) priceSliderPaint();
+  state.showAll=true;
 }catch(e){} })();
 // defer the first render (map markers) off the load-blocking path — the server-rendered shell
 // (search, filters, browse cards) is already interactive; markers paint a beat later.

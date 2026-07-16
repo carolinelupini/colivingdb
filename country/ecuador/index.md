@@ -1,6 +1,6 @@
 # Coliving in Ecuador
 
-> 2 colivings in Ecuador, prices from €310 to €342 per month – last updated July 14, 2026.
+> 2 colivings in Ecuador, prices from €310 to €342 per month – last updated July 16, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Kiin Living
 
-> Coliving in Medellín, Colombia. Last updated July 14, 2026.
+> Coliving in Medellín, Colombia. Last updated July 16, 2026.
 
 - **Location:** Medellín, Colombia
 - **Type:** Permanent coliving

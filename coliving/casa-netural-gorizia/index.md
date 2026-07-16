@@ -1,6 +1,6 @@
 # Casa Netural Gorizia
 
-> Coliving in Gorizia, Italy. Last updated July 14, 2026.
+> Coliving in Gorizia, Italy. Last updated July 16, 2026.
 
 - **Location:** Gorizia, Italy
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # The Maja (Maja Hub)
 
-> Coliving in Krakow, Poland. Last updated July 14, 2026.
+> Coliving in Krakow, Poland. Last updated July 16, 2026.
 
 - **Location:** Krakow, Poland
 - **Type:** Permanent coliving

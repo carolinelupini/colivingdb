@@ -1,6 +1,6 @@
 # Nomadico Coliving Tarifa
 
-> Coliving in Tarifa, Spain. Last updated July 14, 2026.
+> Coliving in Tarifa, Spain. Last updated July 16, 2026.
 
 - **Location:** Tarifa, Spain
 - **Type:** Pop-up / dated edition

@@ -1,6 +1,6 @@
 # Beet - Botanical Garden (Cortile del Giuoco Home)
 
-> Coliving in Palermo, Italy. Last updated July 14, 2026.
+> Coliving in Palermo, Italy. Last updated July 16, 2026.
 
 - **Location:** Palermo, Italy
 - **Type:** Permanent coliving

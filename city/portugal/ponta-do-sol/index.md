@@ -1,6 +1,6 @@
 # Coliving in Ponta do Sol, Portugal
 
-> 2 colivings in Ponta do Sol, Portugal, prices from €920 to €1,400 per month – last updated July 14, 2026.
+> 2 colivings in Ponta do Sol, Portugal, prices from €920 to €1,400 per month – last updated July 16, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Puntarenas Residence
 
-> Coliving in Monteverde (Santa Elena), Costa Rica. Last updated July 14, 2026.
+> Coliving in Monteverde (Santa Elena), Costa Rica. Last updated July 16, 2026.
 
 - **Location:** Monteverde (Santa Elena), Costa Rica
 - **Type:** Permanent coliving

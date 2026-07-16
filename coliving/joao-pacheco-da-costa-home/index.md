@@ -1,6 +1,6 @@
 # João Pachêco Da Costa Home
 
-> Coliving in Florianópolis, Brazil. Last updated July 14, 2026.
+> Coliving in Florianópolis, Brazil. Last updated July 16, 2026.
 
 - **Location:** Florianópolis, Brazil
 - **Type:** Permanent coliving

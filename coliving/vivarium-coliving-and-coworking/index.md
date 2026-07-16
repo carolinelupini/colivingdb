@@ -1,6 +1,6 @@
 # Vivarium Coliving & Coworking
 
-> Coliving in Valencia, Spain. Last updated July 14, 2026.
+> Coliving in Valencia, Spain. Last updated July 16, 2026.
 
 - **Location:** Valencia, Spain
 - **Type:** Permanent coliving

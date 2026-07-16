@@ -1,6 +1,6 @@
 # Coliving in Cabrero, Spain
 
-> 1 colivings in Cabrero, Spain, prices from €870 to €870 per month – last updated July 14, 2026.
+> 1 colivings in Cabrero, Spain, prices from €870 to €870 per month – last updated July 16, 2026.
 
 ## All colivings
 

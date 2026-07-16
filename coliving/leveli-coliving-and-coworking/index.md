@@ -1,6 +1,6 @@
 # Leveli Coliving & Coworking
 
-> Coliving in Guadalajara, Mexico. Last updated July 14, 2026.
+> Coliving in Guadalajara, Mexico. Last updated July 16, 2026.
 
 - **Location:** Guadalajara, Mexico
 - **Type:** Permanent coliving

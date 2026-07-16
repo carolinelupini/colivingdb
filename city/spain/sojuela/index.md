@@ -1,6 +1,6 @@
 # Coliving in Sojuela, Spain
 
-> 1 colivings in Sojuela, Spain, prices from €630 to €630 per month – last updated July 14, 2026.
+> 1 colivings in Sojuela, Spain, prices from €630 to €630 per month – last updated July 16, 2026.
 
 ## All colivings
 

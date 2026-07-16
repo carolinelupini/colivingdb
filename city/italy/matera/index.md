@@ -1,6 +1,6 @@
 # Coliving in Matera, Italy
 
-> 2 colivings in Matera, Italy, prices from €950 to €1,467 per month – last updated July 14, 2026.
+> 2 colivings in Matera, Italy, prices from €950 to €1,467 per month – last updated July 16, 2026.
 
 ## All colivings
 

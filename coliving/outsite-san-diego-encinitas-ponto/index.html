@@ -3,6 +3,9 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
+<script>if(location.search.indexOf('embed=1')>-1){document.documentElement.className+=' embed';
+document.addEventListener('click',function(e){var a=e.target.closest&&e.target.closest('a');
+if(a&&a.host===location.host&&!a.target)a.target='_top';});}</script>
 <link rel="icon" href="/favicon.ico" sizes="32x32"><link rel="icon" href="/favicon-48.png" type="image/png" sizes="48x48"><link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <title>Outsite San Diego - Encinitas Ponto — Coliving in Encinitas, United States | colivingDB</title>
 <meta name="description" content="Outsite San Diego - Encinitas Ponto is a coliving in Encinitas, United States. From $2,209/mo.">
@@ -123,6 +126,8 @@ h2{font-size:1.15rem;margin:30px 0 10px}
 footer.site{border-top:1px solid #e5e9f0;margin-top:40px;padding:24px 0 50px;color:#6b7280;font-size:.85rem;background:#fff}
 .fab{position:fixed;right:16px;bottom:16px;z-index:60;background:#0e7c66;color:#fff;font-size:.85rem;font-weight:600;text-decoration:none;padding:10px 15px;border-radius:999px;box-shadow:0 3px 12px rgba(20,40,80,.18)}
 .fab:hover{background:#0c6a58}
+/* ?embed=1 — page is inside the homepage's desktop slide-over panel: hide the site chrome */
+html.embed header.site,html.embed footer.site,html.embed .fab,html.embed #cookieBanner{display:none!important}
 body.cb-open .fab{display:none!important}
 #cookieBanner{position:fixed;left:0;right:0;bottom:0;z-index:3000;background:#12332b;color:#fff;font-size:.85rem;line-height:1.4;padding:12px 18px;display:flex;gap:8px 16px;align-items:center;justify-content:center;flex-wrap:wrap;box-shadow:0 -2px 12px rgba(0,0,0,.18)}
 #cookieBanner[hidden]{display:none!important}
@@ -215,7 +220,7 @@ function rf(btn,toIn){
 </div>
 <footer class="site"><div class="wrap">
 <a href="/">← Back to the map</a> · <a href="/region/">By region</a> · <a href="/countries/">All countries</a> · <a href="/methodology/">How we verify data</a> · <a href="/how-listings-work/">How listings work</a> · <a href="/privacy/">Privacy &amp; terms</a> · <a href="/llms.txt">llms.txt</a><br>
-<span class="muted">Prices are approximate and shown in each coliving's own local currency unless you switch it above. Data last updated July 14, 2026. Some outbound links are affiliate links — colivingDB may earn a commission at no extra cost to you.</span>
+<span class="muted">Prices are approximate and shown in each coliving's own local currency unless you switch it above. Data last updated July 16, 2026. Some outbound links are affiliate links — colivingDB may earn a commission at no extra cost to you.</span>
 </div></footer>
 <a class="fab" href="https://docs.google.com/forms/d/e/1FAIpQLSexvQJD4ALM3uGKJfzqBIkHJ0kSTyTwBSoH25VQvp4LD_1ROw/viewform?hl=en" target="_blank" rel="noopener" title="Report a bug, request a filter, or flag a listing correction">💬 Feedback</a>
 <div id="cookieBanner" hidden><span class="cb-msg">We use cookies for anonymous analytics. See our <a href="/privacy/">privacy &amp; terms</a>.</span><span class="cb-btns"><button id="ckAccept" type="button">Accept</button><button id="ckDecline" type="button">Decline</button></span></div>

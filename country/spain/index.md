@@ -1,6 +1,6 @@
 # Coliving in Spain
 
-> 92 colivings in Spain, prices from €71 to €2,600 per month – last updated July 14, 2026.
+> 92 colivings in Spain, prices from €71 to €2,600 per month – last updated July 16, 2026.
 
 ## All colivings
 
@@ -115,7 +115,7 @@
 - Nomadico Coliving Tarifa — Oct–Mar (seasonal; hostel in summer)
 - Nomadico Gran Canaria — Jun–Dec (seasonal; labeled 'pop-up')
 - Nomadico Mallorca Coliving — Mar–Aug & Sep–Nov (seasonal)
-- The Better Neighbours — Lloret de Mar — Oct 1 - Nov 30, 2026 (Autumn)
+- The Better Neighbours — Lloret de Mar — Oct 4 - Nov 1, 2026 (Autumn)
 - Tursi Digital Nomads — Tenerife (Canary Islands) — Jul 17 - 31, 2026
 - WiFi Tribe — Gran Canaria — Aug 7 - Sep 4, 2026
 

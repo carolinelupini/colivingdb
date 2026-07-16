@@ -1,6 +1,6 @@
 # Coliving in Sydney, Australia
 
-> 6 colivings in Sydney, Australia, prices from €473 to €2,126 per month – last updated July 14, 2026.
+> 6 colivings in Sydney, Australia, prices from €473 to €2,126 per month – last updated July 16, 2026.
 
 ## All colivings
 

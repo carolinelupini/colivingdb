@@ -1,6 +1,6 @@
 # Zeta House
 
-> Coliving in Austin, United States. Last updated July 14, 2026.
+> Coliving in Austin, United States. Last updated July 16, 2026.
 
 - **Location:** Austin, United States
 - **Type:** Permanent coliving

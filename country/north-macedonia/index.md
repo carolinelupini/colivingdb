@@ -1,6 +1,6 @@
 # Coliving in North Macedonia
 
-> 1 colivings in North Macedonia, prices from €1,043 to €1,043 per month – last updated July 14, 2026.
+> 1 colivings in North Macedonia, prices from €1,043 to €1,043 per month – last updated July 16, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Coliving in Austria
 
-> 2 colivings in Austria, prices from €1,700 to €1,700 per month – last updated July 14, 2026.
+> 2 colivings in Austria, prices from €1,700 to €1,700 per month – last updated July 16, 2026.
 
 ## All colivings
 

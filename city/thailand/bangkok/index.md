@@ -1,6 +1,6 @@
 # Coliving in Bangkok, Thailand
 
-> 1 colivings in Bangkok, Thailand, prices from €262 to €262 per month – last updated July 14, 2026.
+> 1 colivings in Bangkok, Thailand, prices from €262 to €262 per month – last updated July 16, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Coliving in Hermalle-sous-Argenteau (Liège), Belgium
 
-> 1 colivings in Hermalle-sous-Argenteau (Liège), Belgium – last updated July 14, 2026.
+> 1 colivings in Hermalle-sous-Argenteau (Liège), Belgium – last updated July 16, 2026.
 
 ## All colivings
 
