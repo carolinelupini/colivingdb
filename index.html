@@ -1828,6 +1828,7 @@ function render(skipFit){
 // detail page restores the filtered view even without bfcache, and any filtered view is shareable.
 function syncUrl(){
   try{
+    if(typeof dpIsOpen!=="undefined" && dpIsOpen) return;   // panel owns the address bar while open
     const p=new URLSearchParams();
     if(state.q) p.set("q",state.q);
     if(state.region!=="All") p.set("region",state.region);
