@@ -1573,7 +1573,7 @@ const markerGroup=L.layerGroup().addTo(map);
 // (which would create a filter⇄fitBounds feedback loop). The flag also clears on a timer in
 // case fitBounds results in no movement (then no moveend fires).
 let _progMove=false;
-function fitMap(b,opts){ _progMove=true; map.fitBounds(b,opts); setTimeout(()=>{ _progMove=false; }, 500); }
+function fitMap(b,opts){ _progMove=true; map.fitBounds(b,opts); setTimeout(()=>{ _progMove=false; }, 1500); }   // fallback window > longest fit animation, else a late moveend reads as a user pan
 map.on("moveend",()=>{
   if(_progMove){ _progMove=false; return; }   // our own fit — ignore
   state.bounds=map.getBounds(); state.showAll=true;
