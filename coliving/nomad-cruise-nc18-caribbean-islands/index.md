@@ -9,7 +9,7 @@
 - **Price note:** Cabin price not published; a €500 deposit secures a cabin. Ticket covers cabin, all onboard meals, wifi and the full programme.
 - **Room types:** private, shared
 - **Dorm available:** No
-- **Vibe:** 'The world's largest workation at sea' — self-described as part cruise, part conference, part party, bringing together freelancers, entrepreneurs and remote workers.
+- **Vibe:** 'The world's largest workation at sea' — part cruise, part conference, part party, bringing together freelancers, entrepreneurs and remote workers.
 - **Minimum stay:** 14 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

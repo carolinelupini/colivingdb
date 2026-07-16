@@ -27,6 +27,6 @@ Boundless Life Tuscany does not publish a nightly or weekly rate.
 
 ## About
 
-Site describes semester/seasonal programs at fixed destination bases (family-with-kids model); Tuscany-specific pricing page not accessible (404), monthly EUR not confirmed.
+Semester-style seasonal programs at a fixed destination base (family-with-kids model); monthly pricing on request from the operator.
 
 Source: https://colivingdb.com/coliving/boundless-life-tuscany/

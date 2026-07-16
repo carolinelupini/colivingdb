@@ -9,7 +9,7 @@
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Wi-Fi (on-site):** 300 Mbps <small>· operator-reported</small>
-- **Vibe:** A boho-charm hostel/coliving space with a chill yet productive vibe, 100 meters from the surf point, blending a co-working cafe with a friendly, laid-back community of travelers, surfers, and digital nomads (self-described as not a party hostel).
+- **Vibe:** A boho-charm hostel/coliving space with a chill yet productive vibe, 100 meters from the surf point, blending a co-working cafe with a friendly, laid-back community of travelers, surfers, and digital nomads — not a party hostel.
 - **Minimum stay:** 7 nights
 - **Region:** Asia
 - **Timezone:** GMT+5:30 <small>· US East: async only · Central Europe: good overlap</small>

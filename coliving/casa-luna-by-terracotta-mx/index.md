@@ -8,7 +8,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=17803797818409249872&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (2 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Vibe:** Site content is for 'The Terracotta' brand generally (does not specifically name 'Casa Luna'): 'service, design and simplicity are at our core,' promising 'extraordinary... local life in Mexico City' and 'special Terracotta hospitality.'
+- **Vibe:** 'Service, design and simplicity are at our core' — 'special Terracotta hospitality' and local life in Mexico City.
 - **Minimum stay:** 7 nights
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>

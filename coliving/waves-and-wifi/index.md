@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=6336267292705522070&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (109 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Vibe:** A surf-and-wellness coliving space in Popoyo themed "Surf, Yoga, Get Shit Done," with a community kitchen, Vinyasa/Yin/Kundalini/Pilates/breathwork classes, bike rentals to 10 surf spots, and messaging encouraging guests to close laptops before sunset.
+- **Vibe:** A surf-and-wellness coliving space in Popoyo themed 'Surf, Yoga, Get Shit Done,' with a community kitchen, Vinyasa/Yin/Kundalini/Pilates/breathwork classes, bike rentals to 10 surf spots, and encouragement to close laptops before sunset.
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>

@@ -9,7 +9,7 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 142 Mbps <small>· operator-reported</small>
-- **Vibe:** A bright, spacious Craftsman home with mountain views and a cozy fireplace in a walkable, outdoor-energy neighborhood, positioned as an ideal base for remote workers who also relax on the porch with housemates and explore NoBo's trails and restaurants.
+- **Vibe:** A bright, spacious Craftsman home with mountain views and a cozy fireplace in a walkable, outdoor-energy neighborhood — an ideal base for remote workers who relax on the porch with housemates and explore NoBo's trails and restaurants.
 - **Minimum stay:** 2 nights
 - **Region:** North America
 - **Timezone:** GMT-7 winter / GMT-6 summer <small>· US East: full workday overlap · Central Europe: async only</small>

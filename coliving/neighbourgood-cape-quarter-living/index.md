@@ -20,6 +20,6 @@
 
 ## About
 
-Cape Quarter Living; nightly rate ~$192 found but no confirmed monthly figure, kept brand-wide ~€749/mo estimate.
+Cape Quarter Living. The monthly figure shown is a brand-wide estimate — the published nightly rate is ~$192; confirm current monthly pricing with the operator.
 
 Source: https://colivingdb.com/coliving/neighbourgood-cape-quarter-living/

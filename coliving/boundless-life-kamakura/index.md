@@ -25,6 +25,6 @@ Boundless Life Kamakura does not publish a nightly or weekly rate.
 
 ## About
 
-Fixed Kamakura location but sold as scheduled worldschool/summer-camp cohorts (Jan-Mar, Apr-Jun, Sep-Nov 2026); no EUR pricing published, requires pricing calculator/contact.
+Fixed Kamakura base sold as scheduled worldschool cohorts (Jan–Mar, Apr–Jun, Sep–Nov 2026); pricing is quoted through the operator's calculator or by contact.
 
 Source: https://colivingdb.com/coliving/boundless-life-kamakura/

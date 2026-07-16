@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=17862374320645359690&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (6 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
-- **Vibe:** Coliving where freelancers, entrepreneurs, and teams work, play, and learn together, framing community as a catalyst for personal and business growth.
+- **Vibe:** Coliving where freelancers, entrepreneurs, and teams work, play, and learn together, with community as a catalyst for personal and business growth.
 - **Minimum stay:** 7 nights
 - **Region:** Europe
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

@@ -9,7 +9,7 @@
 - **Price note:** from EUR790/month
 - **Room types:** private, shared
 - **Dorm available:** No
-- **Vibe:** 'Live Globally, Connect Locally' — company-wide framing built around community managers who organize events and adventures at every Nomadico location.
+- **Vibe:** 'Live Globally, Connect Locally' — community managers organize events and adventures at every Nomadico location.
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

@@ -9,7 +9,7 @@
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 141 Mbps <small>· operator-reported</small>
-- **Vibe:** A laid-back surf-town coliving in Encinitas billed as 'the ultimate surf retreat with an ocean view office,' blending beach culture with remote-work flexibility.
+- **Vibe:** A laid-back surf-town coliving in Encinitas — 'the ultimate surf retreat with an ocean view office' — blending beach culture with remote-work flexibility.
 - **Minimum stay:** 2 nights
 - **Region:** North America
 - **Timezone:** GMT-8 winter / GMT-7 summer <small>· US East: good overlap · Central Europe: async only</small>

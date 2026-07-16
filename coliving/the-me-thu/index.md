@@ -9,7 +9,7 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 87 Mbps <small>· operator-reported</small>
-- **Vibe:** A warm, respectful, easygoing home explicitly "not a party hostel," favoring a balance between social connection and personal quiet time, close to nature and the beach in Hoi An.
+- **Vibe:** A warm, respectful, easygoing home — 'not a party hostel' — favoring a balance between social connection and personal quiet time, close to nature and the beach in Hoi An.
 - **Minimum stay:** 30 nights
 - **Region:** Asia
 - **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>

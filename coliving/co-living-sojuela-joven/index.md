@@ -10,7 +10,7 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 481 Mbps <small>· operator-reported</small>
-- **Vibe:** 'A lively, friendly atmosphere' with cozy common areas for hanging out, working together, or relaxing — remote-work-and-travel crowd (note: near-identical phrasing appears across several Mapmelon-listed properties, suggesting some templated directory copy).
+- **Vibe:** 'A lively, friendly atmosphere' with cozy common areas for hanging out, working together, or relaxing, drawing a remote-work-and-travel crowd.
 - **Minimum stay:** 1 night
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

@@ -8,7 +8,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=2544401388852235701&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 2.1 (34 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Vibe:** Positioned as "the comfort of a hotel, the freedom of your own flat," combining the soul of a home with hotel-level services across coworking, wellness, and social areas.
+- **Vibe:** 'The comfort of a hotel, the freedom of your own flat' — the soul of a home with hotel-level services across coworking, wellness, and social areas.
 - **Minimum stay:** 30 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

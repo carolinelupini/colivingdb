@@ -9,7 +9,7 @@
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 36 Mbps <small>· operator-reported</small>
-- **Vibe:** A peaceful home with two private freshwater pools and sea/nature views, positioned for digital nomads, seasoned professionals, visionary entrepreneurs, and students bound by a shared zest for life who enjoy each other's company.
+- **Vibe:** A peaceful home with two private freshwater pools and sea/nature views, for digital nomads, seasoned professionals, visionary entrepreneurs, and students bound by a shared zest for life.
 - **Minimum stay:** 30 nights
 - **Region:** Latin America
 - **Timezone:** GMT-4 <small>· US East: full workday overlap · Central Europe: your mornings</small>

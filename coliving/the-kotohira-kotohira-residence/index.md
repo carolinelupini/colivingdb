@@ -9,7 +9,7 @@
 - **Room types:** private, shared, dorm
 - **Dorm available:** Yes
 - **Wi-Fi (on-site):** 496 Mbps <small>· operator-reported</small>
-- **Vibe:** Positioned as "the perfect blend of work and travel," attracting a vibrant, welcoming mix of digital nomads, remote workers, creatives, and entrepreneurs focused on building meaningful connections.
+- **Vibe:** 'The perfect blend of work and travel' — a vibrant, welcoming mix of digital nomads, remote workers, creatives, and entrepreneurs focused on building meaningful connections.
 - **Minimum stay:** 30 nights
 - **Region:** Asia
 - **Timezone:** GMT+9 <small>· US East: async only · Central Europe: your evenings</small>

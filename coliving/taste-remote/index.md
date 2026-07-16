@@ -9,7 +9,7 @@
 - **Price note:** coworking space w/ fast internet, weekend cultural activities (medieval town tours, cooking classes, cheese tastings, olive harvesting), community dinners, workshops/professional development, group of 30+ remote workers. Accommodation NOT included — arranged separately with local hosts, roughly €400-600/mo shared or €750-900/mo private.
 - **Room types:** private, shared
 - **Dorm available:** No
-- **Vibe:** Community for remote workers combating loneliness, framed around connection, trips, and shared experiences — "Remote Work, Less Lonely."
+- **Vibe:** Community for remote workers combating loneliness, built on connection, trips, and shared experiences — 'Remote Work, Less Lonely.'
 - **Minimum stay:** 7 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

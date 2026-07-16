@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=11928412938559340621&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (22 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Vibe:** Described simply as 'a 9-room building with an amazing rooftop in the heart of Santa Cruz de Tenerife,' centered on a shared social gathering space.
+- **Vibe:** 'A 9-room building with an amazing rooftop in the heart of Santa Cruz de Tenerife,' centered on a shared social gathering space.
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>

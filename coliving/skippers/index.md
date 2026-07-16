@@ -29,6 +29,6 @@ Skippers does not publish a nightly or weekly rate.
 
 ## About
 
-Fixed permanent coliving in Diani Beach, Kenya since 2023; no pricing published on site, redirects to a Rates & Availability page not accessible via fetch.
+Permanent coliving in Diani Beach, Kenya, running since 2023. Room pricing is on request from the operator.
 
 Source: https://colivingdb.com/coliving/skippers/

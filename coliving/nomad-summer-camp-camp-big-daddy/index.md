@@ -9,7 +9,7 @@
 - **Price note:** Starting ticket at the last edition; 2027 pricing not yet announced. Tickets ran $499–$1,049.
 - **Room types:** private, shared
 - **Dorm available:** No
-- **Vibe:** Adventure/social camp event billed as 'a little bit of epic, a dash of silly, and a whole lot of magic,' centered on joy, freedom, and connection.
+- **Vibe:** Adventure/social camp event — 'a little bit of epic, a dash of silly, and a whole lot of magic' — centered on joy, freedom, and connection.
 - **Minimum stay:** 3 nights
 - **Region:** Africa
 - **Timezone:** GMT+2 <small>· US East: your evenings · Central Europe: full workday overlap</small>

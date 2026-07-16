@@ -10,7 +10,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=4018864307812153624&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (15 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
-- **Vibe:** A beach-town coliving space themed "Surfing, Outdoors, Joyful," with lush nature and easygoing energy, Brazilian warmth, and one solar-powered eco-haven home described as peaceful, creative, and full of island charm.
+- **Vibe:** A beach-town coliving space themed 'Surfing, Outdoors, Joyful,' with lush nature and easygoing energy, Brazilian warmth, and one solar-powered eco-haven home — peaceful, creative, and full of island charm.
 - **Minimum stay:** 7 nights
 - **Region:** Latin America
 - **Timezone:** GMT-3 <small>· US East: full workday overlap · Central Europe: good overlap</small>

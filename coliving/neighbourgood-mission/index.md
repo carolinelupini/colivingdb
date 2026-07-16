@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=13031121197734911962&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.0 (8 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Vibe:** Company-wide framing (site content covers only Cape Town, South Africa locations — Green Point / Harrington Street — no San Francisco/Mission property found): 'connected spaces where good people belong and thrive.'
+- **Vibe:** 'Connected spaces where good people belong and thrive.'
 - **Minimum stay:** —
 - **Region:** North America
 - **Timezone:** GMT-8 winter / GMT-7 summer <small>· US East: good overlap · Central Europe: async only</small>

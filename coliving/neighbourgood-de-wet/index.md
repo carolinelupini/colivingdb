@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=4872470751672047690&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (139 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Vibe:** Positions itself as connected community spaces for remote workers, blending productivity, collaboration, and social belonging (brand-wide framing; the De Wet Franschhoek listing page itself had no property-specific copy).
+- **Vibe:** Connected community spaces for remote workers, blending productivity, collaboration, and social belonging.
 - **Minimum stay:** —
 - **Region:** Africa
 - **Timezone:** GMT+2 <small>· US East: your evenings · Central Europe: full workday overlap</small>
@@ -28,6 +28,6 @@ Neighbourgood De Wet does not publish a nightly or weekly rate.
 
 ## About
 
-De Wet, Franschhoek: self-catering studio/loft/2BR apartments confirmed; no monthly rate published, only nightly hotel-booking-site rates found.
+Self-catering studio, loft, and 2-bedroom apartments in Franschhoek. Only nightly rates are published — monthly pricing on request.
 
 Source: https://colivingdb.com/coliving/neighbourgood-de-wet/

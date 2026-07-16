@@ -9,7 +9,7 @@
 - **Price note:** Brand-wide: stays start from $440/week depending on destination, 2-week minimum (long-stay rates from 2 months). Per-edition pricing is not published — request it from AfricaNomads.
 - **Room types:** —
 - **Dorm available:** No
-- **Vibe:** This listing's page is an 8-night Kilimanjaro mountaineering expedition (Machame Route), not a standard coliving stay — adventure/summit-challenge framing, no coworking or wifi language present.
+- **Vibe:** An 8-night Kilimanjaro mountaineering expedition (Machame Route) rather than a standard coliving stay, built around adventure and the summit challenge.
 - **Minimum stay:** —
 - **Region:** Africa
 - **Timezone:** GMT+3 <small>· US East: your evenings · Central Europe: full workday overlap</small>

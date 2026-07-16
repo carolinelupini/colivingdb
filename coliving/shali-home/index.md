@@ -10,7 +10,7 @@
 - **Room types:** private, shared
 - **Dorm available:** Yes
 - **Wi-Fi (on-site):** 37 Mbps <small>· operator-reported</small>
-- **Vibe:** Work-focused coliving where weekdays are for productivity and weekends for exploring Siwa oasis culture; explicitly framed as 'not a hotel vibe.'
+- **Vibe:** Work-focused coliving where weekdays are for productivity and weekends for exploring Siwa oasis culture — 'not a hotel vibe.'
 - **Minimum stay:** 30 nights
 - **Region:** Africa
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

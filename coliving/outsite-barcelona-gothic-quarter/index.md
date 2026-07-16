@@ -10,7 +10,7 @@
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 800 Mbps <small>· operator-reported</small>
-- **Vibe:** A "Slow City Living" coliving space in a historic, thoughtfully renovated Gothic Quarter building, positioned as a "Creative Old Town" retreat steps from indie cafés, pintxos bars, and centuries-old alleyways for leisurely exploration.
+- **Vibe:** A 'Slow City Living' coliving space in a historic, thoughtfully renovated Gothic Quarter building — a 'Creative Old Town' retreat steps from indie cafés, pintxos bars, and centuries-old alleyways.
 - **Minimum stay:** 2 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

@@ -28,6 +28,6 @@ Banama Surfhouse - Coliving Coworking & Yoga does not publish a nightly or weekl
 
 ## About
 
-Site returned 403 to fetch; this is Banama's surf-week retreat offering (from EUR499 all-inclusive per existing note) rather than the standing coliving — treated as pop-up/program add-on, no confirmed dates found.
+Banama's surf-week retreat program (from €499 all-inclusive) alongside the standing coliving; upcoming dates are announced on the operator's site.
 
 Source: https://colivingdb.com/coliving/banama-surfhouse-coliving-coworking-and-yoga/

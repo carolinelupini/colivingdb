@@ -7,7 +7,7 @@
 - **Price:** On request
 - **Room types:** private
 - **Dorm available:** No
-- **Vibe:** Markets Kuta Lombok as 'the main hub for surfers, digital nomads, and travelers alike.'
+- **Vibe:** Kuta Lombok is 'the main hub for surfers, digital nomads, and travelers alike.'
 - **Minimum stay:** —
 - **Region:** Asia
 - **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>

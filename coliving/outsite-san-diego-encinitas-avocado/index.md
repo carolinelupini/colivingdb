@@ -10,7 +10,7 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 141 Mbps <small>· operator-reported</small>
-- **Vibe:** 'A calm, comfortable 3-bedroom duplex designed for easy coastal living' for members 'who prefer a quieter setting,' also positioned as an 'ultimate surf retreat.'
+- **Vibe:** 'A calm, comfortable 3-bedroom duplex designed for easy coastal living' for members 'who prefer a quieter setting' — and an 'ultimate surf retreat.'
 - **Minimum stay:** —
 - **Region:** North America
 - **Timezone:** GMT-8 winter / GMT-7 summer <small>· US East: good overlap · Central Europe: async only</small>

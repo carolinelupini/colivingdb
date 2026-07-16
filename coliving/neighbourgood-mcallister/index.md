@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=13031121197734911962&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.0 (8 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Vibe:** Company-wide positioning as "connected spaces where good people belong and thrive," with thoughtfully designed, all-inclusive living spaces; no McAllister-specific description found.
+- **Vibe:** 'Connected spaces where good people belong and thrive' — thoughtfully designed, all-inclusive living spaces.
 - **Minimum stay:** —
 - **Region:** North America
 - **Timezone:** GMT-8 winter / GMT-7 summer <small>· US East: good overlap · Central Europe: async only</small>

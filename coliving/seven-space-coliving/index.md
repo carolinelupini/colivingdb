@@ -8,7 +8,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=4308505896481576798&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 3.4 (5 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Vibe:** Describes itself as 'a complete connected community, where curious minds from all corners of the globe live, create, play and get the most out of life together.'
+- **Vibe:** 'A complete connected community, where curious minds from all corners of the globe live, create, play and get the most out of life together.'
 - **Minimum stay:** 30 nights
 - **Region:** Africa
 - **Timezone:** GMT+1 <small>· US East: good overlap · Central Europe: full workday overlap</small>

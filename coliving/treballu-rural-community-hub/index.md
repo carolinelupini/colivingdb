@@ -20,6 +20,6 @@
 
 ## About
 
-Same brand/site as Treballu Rural Coliving (fixed Laconi location); also runs fixed-date 8-person community camps as an add-on program, not the base format; site returned 404/403 on direct fetch, relying on listing data.
+Same operator and site as Treballu Rural Coliving (fixed Laconi location); also runs fixed-date 8-person community camps as an add-on program alongside the base coliving.
 
 Source: https://colivingdb.com/coliving/treballu-rural-community-hub/

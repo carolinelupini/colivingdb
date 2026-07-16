@@ -28,6 +28,6 @@ Neighbourgood Disandt House does not publish a nightly or weekly rate.
 
 ## About
 
-Disandt House, Fresnaye/Atlantic Seaboard; nightly rate ~$184-188 found (~€5,500+/mo at full nightly rate) but no discounted monthly figure confirmed; kept brand-wide estimate.
+Disandt House on the Fresnaye/Atlantic Seaboard. The monthly figure shown is a brand-wide estimate — nightly rates run ~$184–188; confirm monthly pricing with the operator.
 
 Source: https://colivingdb.com/coliving/neighbourgood-disandt-house/

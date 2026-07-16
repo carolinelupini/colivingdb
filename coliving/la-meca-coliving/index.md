@@ -20,6 +20,6 @@
 
 ## About
 
-Fixed coastal location near El Palmar/Zahora (Cadiz); site gates actual room pricing behind a 'Find yours' booking flow not reachable via fetch, confirmed no pricing published on main page.
+Fixed coastal location near El Palmar/Zahora (Cádiz); room pricing is quoted through the operator's booking flow.
 
 Source: https://colivingdb.com/coliving/la-meca-coliving/
