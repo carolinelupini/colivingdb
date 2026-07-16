@@ -1,11 +1,11 @@
 # colivingDB
 
-> A free, curated directory of 605 colivings worldwide — one map, native-currency pricing, no login and no email wall. Covers permanent colivings and dated pop-up editions across 83 countries. Last updated July 16, 2026.
+> A free, curated directory of 601 colivings worldwide — one map, native-currency pricing, no login and no email wall. Covers permanent colivings and dated pop-up editions across 83 countries. Last updated July 16, 2026.
 
 colivingDB is built and maintained by Caroline Lupini, a full-time digital nomad since 2014 who has lived and worked across more than a hundred countries. Listings are nomad-style colivings (shared living plus community, usually with coworking) — not student housing or urban rent-by-the-room operators. Every listing links to the operator's own site. Dead links are audited and removed.
 
 Key facts:
-- 605 colivings, 83 countries
+- 601 colivings, 83 countries
 - 76 dated pop-up editions (traveling programs, cruises, camps)
 - Prices from €40 to €6,892 per month
 - Filters: country, city, room type, minimum stay, price, pop-up month, currency
@@ -18,7 +18,7 @@ Key facts:
 - [Coliving in Spain](/country/spain/index.md): 92 colivings
 - [Coliving in Portugal](/country/portugal/index.md): 65 colivings
 - [Coliving in Italy](/country/italy/index.md): 32 colivings
-- [Coliving in Mexico](/country/mexico/index.md): 29 colivings
+- [Coliving in Mexico](/country/mexico/index.md): 28 colivings
 - [Coliving in United States](/country/united-states/index.md): 21 colivings
 - [Coliving in Indonesia](/country/indonesia/index.md): 20 colivings
 - [Coliving in South Africa](/country/south-africa/index.md): 19 colivings
@@ -28,13 +28,13 @@ Key facts:
 - [Coliving in Sri Lanka](/country/sri-lanka/index.md): 13 colivings
 - [Coliving in Greece](/country/greece/index.md): 12 colivings
 - [Coliving in Switzerland](/country/switzerland/index.md): 12 colivings
-- [Coliving in Brazil](/country/brazil/index.md): 12 colivings
 - [Coliving in Costa Rica](/country/costa-rica/index.md): 12 colivings
 - [Coliving in Bulgaria](/country/bulgaria/index.md): 11 colivings
-- [Coliving in Australia](/country/australia/index.md): 10 colivings
+- [Coliving in Brazil](/country/brazil/index.md): 11 colivings
 - [Coliving in India](/country/india/index.md): 9 colivings
 - [Coliving in Japan](/country/japan/index.md): 9 colivings
 - [Coliving in Montenegro](/country/montenegro/index.md): 9 colivings
+- [Coliving in Morocco](/country/morocco/index.md): 8 colivings
 
 ## Notes
 - Every page has a markdown twin: append `index.md` to any page URL.

@@ -1,6 +1,6 @@
 # Coliving in Brazil
 
-> 12 colivings in Brazil, prices from €238 to €1,131 per month – last updated July 16, 2026.
+> 11 colivings in Brazil, prices from €238 to €1,131 per month – last updated July 16, 2026.
 
 ## All colivings
 
@@ -11,7 +11,6 @@
 | INFINI Coliving | Jauá (Camaçari), near Salvador | from €270/mo | 4.6 (27) | private | 1 night | Permanent |
 | Horizonte Coliving - Mangabeiras | Belo Horizonte | from BRL 1,600/mo | 5.0 (44) | private | 30 nights | Permanent |
 | Horizonte Coliving - Santa Tereza | Belo Horizonte | from BRL 1,700/mo | 5.0 (25) | private | 30 nights | Permanent |
-| Vivére Coliving | Rio de Janeiro | from BRL 1,950/mo | 4.4 (20) | private | — | Permanent |
 | Nomadico Coliving Florianópolis | Florianópolis | from $380/mo | 5.0 (15) | private, shared | 7 nights | Pop-up |
 | Manoel Pedro da Silveira Home | Florianópolis | from $465/mo | — | private, dorm | 30 nights | Permanent |
 | WiFi Tribe — Florianópolis | Florianópolis | from $1,690/mo | — | private, shared | 28 nights | Pop-up |
@@ -23,7 +22,7 @@
 
 | Band (EUR/mo) | Colivings |
 |---|---|
-| 0–500 | 8 |
+| 0–500 | 7 |
 | 800–1200 | 1 |
 
 ## Upcoming pop-ups

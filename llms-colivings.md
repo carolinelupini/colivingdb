@@ -1,6 +1,6 @@
 # colivingDB — all colivings
 
-> 605 listings. Last updated July 16, 2026.
+> 601 listings. Last updated July 16, 2026.
 
 | Coliving | City | Country | Price from | Min stay | Type |
 |---|---|---|---|---|---|
@@ -15,8 +15,6 @@
 | [Bungalow Co](/coliving/bungalow-co/index.md) | Sydney | Australia | from A$866/mo | — | Permanent |
 | [CDA Coliving](/coliving/cda-coliving/index.md) | Sydney | Australia | from A$780/mo | 3 months | Permanent |
 | [Life in Byron](/coliving/life-in-byron/index.md) | Byron Bay | Australia | from A$200/wk | — | Permanent |
-| [Living High](/coliving/living-high/index.md) | Sydney | Australia | from A$1,472/mo | 3 months | Permanent |
-| [NESTL](/coliving/nestl/index.md) | Sydney | Australia | from A$2,772/mo | — | Permanent |
 | [The Switch](/coliving/the-switch/index.md) | Sydney | Australia | from A$3,503/mo | — | Permanent |
 | [Together Co-Living](/coliving/together-co-living/index.md) | Melbourne | Australia | from A$640/wk | 7 nights | Permanent |
 | [Treehouse Toowong](/coliving/treehouse-toowong/index.md) | Brisbane | Australia | from A$1,333/mo | — | Permanent |
@@ -40,7 +38,6 @@
 | [Nomad's Ville (Mirante de Pipa)](/coliving/nomad-s-ville-mirante-de-pipa/index.md) | Praia da Pipa | Brazil | On request | — | Permanent |
 | [Nomadico Coliving Florianópolis](/coliving/nomadico-coliving-florianopolis/index.md) | Florianópolis | Brazil | from $380/mo | 7 nights | Pop-up |
 | [The Manoel João Ferreira](/coliving/the-manoel-joao-ferreira/index.md) | Florianópolis (Barra da Lagoa) | Brazil | from $273/mo | 30 nights | Permanent |
-| [Vivére Coliving](/coliving/vivere-coliving/index.md) | Rio de Janeiro | Brazil | from BRL 1,950/mo | — | Permanent |
 | [WiFi Tribe — Florianópolis](/coliving/wifi-tribe-florianopolis/index.md) | Florianópolis | Brazil | from $1,690/mo | 28 nights | Pop-up |
 | [Avalon Bansko](/coliving/avalon-bansko/index.md) | Bansko | Bulgaria | from €550/mo | 31 nights | Permanent |
 | [Burgas Coliving](/coliving/burgas-coliving/index.md) | Burgas | Bulgaria | from €1,400/mo | — | Permanent |
@@ -244,7 +241,6 @@
 | [Co.404 Oaxaca City](/coliving/co-404-oaxaca-city/index.md) | Oaxaca | Mexico | from $570/mo | 30 nights | Permanent |
 | [Coliving Chingon](/coliving/coliving-chingon/index.md) | Guadalajara | Mexico | from MXN 3,000/wk | — | Permanent |
 | [Coliving Chingon Suites](/coliving/coliving-chingon-suites/index.md) | Guadalajara | Mexico | from MXN 3,000/wk | — | Permanent |
-| [Coliving Condesa](/coliving/coliving-condesa/index.md) | Mexico City | Mexico | from MXN 10,000/mo | — | Permanent |
 | [Covive Casa Del Valle Norte](/coliving/covive-casa-del-valle-norte/index.md) | Mexico City | Mexico | from MXN 15,250/mo | 30 nights | Permanent |
 | [ETNYA Coliving](/coliving/etnya-coliving/index.md) | Mérida | Mexico | On request | — | Permanent |
 | [Humant Coliving - Cancún, México](/coliving/humant-coliving-cancun-mexico/index.md) | Cancún | Mexico | from MXN 15,250/mo | 30 nights | Permanent |

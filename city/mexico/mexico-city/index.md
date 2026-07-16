@@ -1,6 +1,6 @@
 # Coliving in Mexico City, Mexico
 
-> 10 colivings in Mexico City, Mexico, prices from €46 to €815 per month – last updated July 16, 2026.
+> 9 colivings in Mexico City, Mexico, prices from €46 to €815 per month – last updated July 16, 2026.
 
 ## All colivings
 
@@ -8,7 +8,6 @@
 |---|---|---|---|---|---|---|
 | Outsite Mexico City - Roma Sur | Mexico City | from $53/mo | 4.4 (79) | private | 2 nights | Permanent |
 | U-Co Roma Coliving | Mexico City | from €381/mo | 4.3 (102) | private, studio | — | Permanent |
-| Coliving Condesa | Mexico City | from MXN 10,000/mo | 4.9 (47) | private | — | Permanent |
 | Outsite Mexico City - Colonia San Miguel | Mexico City | from $749/mo | — | private | — | Permanent |
 | Covive Casa Del Valle Norte | Mexico City | from MXN 15,250/mo | 4.1 (28) | private | 30 nights | Permanent |
 | COLIVING ROMA | Mexico City | On request | 4.8 (25) | private | — | Permanent |
@@ -22,7 +21,7 @@
 | Band (EUR/mo) | Colivings |
 |---|---|
 | 0–500 | 2 |
-| 500–800 | 2 |
+| 500–800 | 1 |
 | 800–1200 | 1 |
 
 Source: https://colivingdb.com/city/mexico/mexico-city/

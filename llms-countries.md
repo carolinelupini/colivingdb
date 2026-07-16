@@ -1,13 +1,13 @@
 # colivingDB — all countries
 
-> 605 colivings across 83 countries. Last updated July 16, 2026.
+> 601 colivings across 83 countries. Last updated July 16, 2026.
 
 | Country | Colivings | From (EUR/mo) |
 |---|---|---|
 | [Spain](/country/spain/index.md) | 92 | €71 |
 | [Portugal](/country/portugal/index.md) | 65 | €150 |
 | [Italy](/country/italy/index.md) | 32 | €40 |
-| [Mexico](/country/mexico/index.md) | 29 | €46 |
+| [Mexico](/country/mexico/index.md) | 28 | €46 |
 | [United States](/country/united-states/index.md) | 21 | €553 |
 | [Indonesia](/country/indonesia/index.md) | 20 | €363 |
 | [Colombia](/country/colombia/index.md) | 19 | €52 |
@@ -15,15 +15,15 @@
 | [Thailand](/country/thailand/index.md) | 19 | €170 |
 | [France](/country/france/index.md) | 15 | €420 |
 | [Sri Lanka](/country/sri-lanka/index.md) | 13 | €87 |
-| [Brazil](/country/brazil/index.md) | 12 | €238 |
 | [Costa Rica](/country/costa-rica/index.md) | 12 | €289 |
 | [Greece](/country/greece/index.md) | 12 | €449 |
 | [Switzerland](/country/switzerland/index.md) | 12 | €500 |
+| [Brazil](/country/brazil/index.md) | 11 | €238 |
 | [Bulgaria](/country/bulgaria/index.md) | 11 | €280 |
-| [Australia](/country/australia/index.md) | 10 | €473 |
 | [India](/country/india/index.md) | 9 | €140 |
 | [Japan](/country/japan/index.md) | 9 | €378 |
 | [Montenegro](/country/montenegro/index.md) | 9 | €360 |
+| [Australia](/country/australia/index.md) | 8 | €473 |
 | [Morocco](/country/morocco/index.md) | 8 | €61 |
 | [Vietnam](/country/vietnam/index.md) | 8 | €283 |
 | [Argentina](/country/argentina/index.md) | 6 | €506 |
