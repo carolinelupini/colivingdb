@@ -1917,7 +1917,10 @@ document.addEventListener("click",e=>{
 // user's filtered search when bfcache didn't keep the page alive.
 (function(){ try{
   const p=new URLSearchParams(location.search);
-  if(![...p.keys()].length) return;
+  // only KNOWN filter params trigger the restore — utm/tracking params alone must not
+  // kick visitors off the browse landing into list view
+  const KNOWN=["q","region","country","room","perm","pop","months","stay","rating","sort","tags","vibes","pmin","pmax","unit","all"];
+  if(!KNOWN.some(k=>p.has(k))) return;
   const g=k=>p.get(k);
   if(g("q")){ const q=g("q").trim(); document.getElementById("search").value=q; state.q=q.toLowerCase(); }
   if(g("region")) state.region=g("region");
