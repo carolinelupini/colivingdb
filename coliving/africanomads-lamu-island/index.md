@@ -9,6 +9,7 @@
 - **Price note:** Brand-wide: stays start from $440/week depending on destination, 2-week minimum (long-stay rates from 2 months). Per-edition pricing is not published — request it from AfricaNomads.
 - **Room types:** —
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 99 Mbps <small>· operator-reported</small>
 - **Vibe:** A laid-back wellness-and-adventure retreat blending remote work with immersive island culture, yoga, and conservation.
 - **Minimum stay:** —
 - **Region:** Africa

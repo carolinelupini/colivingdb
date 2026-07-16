@@ -9,6 +9,7 @@
 - **Price note:** Brand-wide: stays start from $440/week depending on destination, 2-week minimum (long-stay rates from 2 months). Per-edition pricing is not published — request it from AfricaNomads.
 - **Room types:** —
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 180 Mbps <small>· operator-reported</small>
 - **Vibe:** 'A home for remote workers, creatives and entrepreneurs looking for a space to focus, recharge and connect' within an authentic Swahili community setting.
 - **Minimum stay:** —
 - **Region:** Africa
