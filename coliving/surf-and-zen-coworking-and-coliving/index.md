@@ -13,7 +13,7 @@
 - **Minimum stay:** —
 - **Region:** Asia
 - **Timezone:** GMT+5:30 <small>· US East: async only · Central Europe: good overlap</small>
-- **Tags:** surf, beach, coworking
+- **Tags:** surf, beach, coworking, wellness
 - **Nearest airports:** Koggala Airport (KCT) ~1 km; Bandaranaike International Colombo Airport (CMB) ~139 km; Mattala Rajapaksa International Airport (HRI) ~95 km
 - **Website:** https://www.surfandzen.com/
 - **Rating:** 4.3 from 72 Google reviews

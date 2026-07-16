@@ -15,7 +15,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Elevation:** 1,285 m
-- **Tags:** mountain, rural, coworking, community, eco
+- **Tags:** mountain, rural, coworking, community, eco, wellness
 - **Nearest airports:** Il Caravaggio International Airport (BGY) ~49 km; Lugano Airport (LUG) ~56 km; Milano Linate Airport (LIN) ~79 km
 - **Website:** https://wome.house/en/
 - **Rating:** 5.0 from 31 Google reviews

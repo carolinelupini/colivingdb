@@ -13,7 +13,7 @@
 - **Region:** Africa
 - **Timezone:** GMT+3 <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Elevation:** 1,353 m
-- **Tags:** rural, community, eco, coworking
+- **Tags:** rural, community, eco, coworking, wellness
 - **Nearest airports:** Arusha Airport (ARK) ~6 km; Julius Nyerere International Airport (DAR) ~478 km; Kilimanjaro International Airport (JRO) ~44 km
 - **Website:** https://backyardventures.co/co-live
 

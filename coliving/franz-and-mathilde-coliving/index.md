@@ -13,7 +13,7 @@
 - **Minimum stay:** 14 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
-- **Tags:** mountain, rural, coworking, community
+- **Tags:** mountain, rural, coworking, community, wellness
 - **Nearest airports:** Bolzano Airport (BZO) ~17 km; Treviso Airport (TSF) ~129 km; Innsbruck Airport (INN) ~78 km
 - **Website:** https://franzundmathilde.com/
 - **Rating:** 5.0 from 75 Google reviews

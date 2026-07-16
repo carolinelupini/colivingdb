@@ -14,7 +14,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Elevation:** 1,411 m
-- **Tags:** mountain, ski, rural, community, coworking
+- **Tags:** mountain, ski, rural, community, coworking, wellness
 - **Nearest airports:** Bern Airport (BRN) ~89 km; Zürich Airport (ZRH) ~170 km; Turin Airport (TRN) ~102 km
 - **Website:** https://www.mapmelon.com/colivings/alpiness-coliving
 - **Rating:** 5.0 from 54 Google reviews

@@ -13,7 +13,7 @@
 - **Minimum stay:** —
 - **Region:** Asia
 - **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
-- **Tags:** city, coworking, community
+- **Tags:** city, coworking, community, wellness
 - **Included:** Private room (21 sqm) with balcony and bathroom, In-room workstation and fridge, Fiber optic internet with Wi-Fi 6, Indoor/outdoor coworking space, 2 quiet rooms, phone rooms, Community events: family dinners, game/movie nights, group outings, hikes, yoga, ice baths
 - **Area:** Sits inside the Chiang Mai Old Town walls, walking distance to Nimman; a gym, Muay Thai facility, vegan restaurant, Starbucks, and numerous restaurants/cafes/bars are within a 5-minute walk.
 - **Nearest airports:** Chiang Mai International Airport (CNX) ~4 km; Lampang Airport (LPT) ~79 km; Mae Hong Son Airport (HGN) ~121 km

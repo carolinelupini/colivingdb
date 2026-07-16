@@ -13,7 +13,7 @@
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
-- **Tags:** eco, coworking, community
+- **Tags:** eco, coworking, community, wellness
 - **Nearest airports:** Avram Iancu Cluj International Airport (CLJ) ~6 km; Bucharest Henri Coandă International Airport (OTP) ~312 km; Târgu Mureş Transilvania International Airport (TGM) ~70 km
 - **Website:** https://playspace.ro/
 - **Rating:** 5.0 from 12 Google reviews

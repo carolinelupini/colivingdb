@@ -14,7 +14,7 @@
 - **Minimum stay:** 7 nights
 - **Region:** Latin America
 - **Timezone:** GMT-3 <small>· US East: full workday overlap · Central Europe: good overlap</small>
-- **Tags:** beach, island, coworking, community, surf
+- **Tags:** beach, island, coworking, community, surf, wellness
 - **Nearest airports:** Hercílio Luz International Airport (FLN) ~8 km; Ministro Victor Konder International Airport (NVT) ~81 km
 - **Website:** https://www.nomadico.io/florianopolis-coliving
 - **Rating:** 5.0 from 15 Google reviews

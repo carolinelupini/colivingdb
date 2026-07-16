@@ -13,7 +13,7 @@
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Timezone:** GMT-3 <small>· US East: full workday overlap · Central Europe: good overlap</small>
-- **Tags:** beach, coworking, community
+- **Tags:** beach, coworking, community, wellness
 - **Area:** Praia da Pipa is a well-known northeast Brazil beach town, known for Baía dos Golfinhos (dolphin bay), surf breaks, cliffside beaches, and a compact nightlife strip.
 - **Nearest airports:** Rio Grande do Norte/São Gonçalo do Amarante–Governador Aluízio Alves International Airport (NAT) ~62 km; Presidente Castro Pinto International Airport (JPA) ~103 km; Presidente João Suassuna Airport (CPV) ~149 km
 - **Getting there:** Natal Airport (NAT) is the nearest airport, roughly 1.5-2 hours by car/shuttle.

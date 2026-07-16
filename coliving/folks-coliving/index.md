@@ -14,7 +14,7 @@
 - **Minimum stay:** 11 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
-- **Tags:** city, beach, coworking, community
+- **Tags:** city, beach, coworking, community, wellness
 - **Nearest airports:** Valencia Airport (VLC) ~9 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~295 km; Castellón-Costa Azahar Airport (CDT) ~91 km
 - **Website:** https://www.mapmelon.com/colivings/folks-coliving
 - **Rating:** 4.9 from 45 Google reviews

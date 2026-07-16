@@ -14,7 +14,7 @@
 - **Minimum stay:** 6 months
 - **Region:** Europe
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
-- **Tags:** beach, community, rural
+- **Tags:** beach, community, rural, wellness
 - **Nearest airports:** Chania International Airport (CHQ) ~43 km; Athens Eleftherios Venizelos International Airport (ATH) ~308 km; Heraklion International Nikos Kazantzakis Airport (HER) ~75 km
 - **Website:** https://coliving.com/spaces/fptwoxym
 - **Rating:** 4.8 from 22 Google reviews

@@ -13,7 +13,7 @@
 - **Minimum stay:** 7 nights
 - **Region:** Asia
 - **Timezone:** GMT+5:30 <small>· US East: async only · Central Europe: good overlap</small>
-- **Tags:** beach, surf, coworking, community
+- **Tags:** beach, surf, coworking, community, wellness
 - **Nearest airports:** Koggala Airport (KCT) ~42 km; Bandaranaike International Colombo Airport (CMB) ~161 km; Mattala Rajapaksa International Airport (HRI) ~58 km
 - **Website:** https://www.nomadico.io/
 - **Rating:** 5.0 from 38 Google reviews

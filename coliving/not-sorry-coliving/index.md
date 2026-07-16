@@ -12,7 +12,7 @@
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
-- **Tags:** mountain, rural, coworking, community
+- **Tags:** mountain, rural, coworking, community, wellness
 - **Nearest airports:** Grenoble Alpes Isère Airport (GNB) ~19 km; Charles de Gaulle International Airport (CDG) ~470 km; Chambéry Aix les Bains airport (CMF) ~46 km
 - **Website:** https://www.hostelworld.com/hostels/p/338963/not-sorry-coliving-and-coworking-in-the-french-alps/
 

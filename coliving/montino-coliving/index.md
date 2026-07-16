@@ -13,7 +13,7 @@
 - **Minimum stay:** 7 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
-- **Tags:** mountain, rural, coworking, community
+- **Tags:** mountain, rural, coworking, community, wellness
 - **Nearest airports:** Lugano Airport (LUG) ~20 km; Milan Malpensa International Airport (MXP) ~42 km; Milano Linate Airport (LIN) ~79 km
 - **Website:** https://www.montino.life/
 - **Rating:** 4.3 from 143 Google reviews

@@ -12,7 +12,7 @@
 - **Minimum stay:** —
 - **Region:** Asia
 - **Timezone:** GMT+5:30 <small>· US East: async only · Central Europe: good overlap</small>
-- **Tags:** beach, surf
+- **Tags:** beach, surf, wellness
 - **Area:** A beachfront property in Weligama, Sri Lanka's most famous beginner surf town.
 - **Nearest airports:** Koggala Airport (KCT) ~11 km; Bandaranaike International Colombo Airport (CMB) ~148 km; Mattala Rajapaksa International Airport (HRI) ~87 km
 - **Getting there:** Mattala Rajapaksa International (HRI) is geographically closer but has limited flights; most travelers use Colombo Bandaranaike (CMB), roughly 2.5-3 hours by car.

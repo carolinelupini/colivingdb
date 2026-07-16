@@ -14,7 +14,7 @@
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
-- **Tags:** beach, city, coworking, community
+- **Tags:** beach, city, coworking, community, wellness
 - **Included:** Furnished room, Fast wifi (600 Mbps), Equipped kitchen, Desk and office chair, Balcony access, Swimming pool access, Weekly cleaning, Free external monitors, Nomad community access
 - **Area:** Located in Playa de las Americas, Tenerife South, in the city center and about 5 minutes from the beach; supermarket, gym, restaurants, and surf spots nearby.
 - **Nearest airports:** Tenerife Sur Airport (TFS) ~15 km; Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~60 km; El Hierro Airport (VDE) ~118 km

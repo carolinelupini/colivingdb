@@ -13,7 +13,7 @@
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
-- **Tags:** beach, community, coworking
+- **Tags:** beach, community, coworking, wellness
 - **Nearest airports:** Simón Bolívar International Airport (SMR) ~9 km; Ernesto Cortissoz International Airport (BAQ) ~69 km; Alfonso López Pumarejo Airport (VUP) ~137 km
 - **Website:** https://www.santamartalife.com/
 - **Rating:** 5.0 from 31 Google reviews

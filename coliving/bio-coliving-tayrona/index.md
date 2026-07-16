@@ -14,7 +14,7 @@
 - **Minimum stay:** 1 night
 - **Region:** Latin America
 - **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
-- **Tags:** eco, rural, coworking, community
+- **Tags:** eco, rural, coworking, community, wellness
 - **Nearest airports:** Simón Bolívar International Airport (SMR) ~25 km; Ernesto Cortissoz International Airport (BAQ) ~90 km; Almirante Padilla Airport (RCH) ~126 km
 - **Website:** https://www.mapmelon.com/colivings/bio-coliving-tayrona
 - **Rating:** 4.7 from 48 Google reviews

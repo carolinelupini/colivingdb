@@ -13,7 +13,7 @@
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
-- **Tags:** rural, beach, eco, coworking, community
+- **Tags:** rural, beach, eco, coworking, community, wellness
 - **Nearest airports:** Comiso Airport (CIY) ~20 km; Catania-Fontanarossa Airport (CTA) ~86 km; Malta International Airport (MLA) ~109 km
 - **Website:** https://canestancoliving.com/
 - **Rating:** 5.0 from 9 Google reviews

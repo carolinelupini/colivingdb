@@ -12,7 +12,7 @@
 - **Minimum stay:** 30 nights
 - **Region:** Latin America
 - **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
-- **Tags:** beach, island, coworking, community
+- **Tags:** beach, island, coworking, community, wellness
 - **Nearest airports:** Bocas del Toro "Isla Colón" International Airport (BOC) ~8 km; Tocumen International Airport (PTY) ~308 km; Changuinola Captain Manuel Niño International Airport (CHX) ~39 km
 - **Website:** https://coliving.com/spaces/6usgx1td
 

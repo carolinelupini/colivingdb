@@ -14,7 +14,7 @@
 - **Region:** Latin America
 - **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Elevation:** 1,486 m
-- **Tags:** city, coworking, community
+- **Tags:** city, coworking, community, wellness
 - **Nearest airports:** Enrique Olaya Herrera Airport (EOH) ~3 km; El Dorado International Airport (BOG) ~235 km; Jose Maria Córdova International Airport (MDE) ~21 km
 - **Website:** https://pranikliving.com/
 - **Rating:** 4.9 from 50 Google reviews

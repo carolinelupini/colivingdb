@@ -13,7 +13,7 @@
 - **Minimum stay:** 30 nights
 - **Region:** Europe
 - **Timezone:** GMT+4 <small>· US East: async only · Central Europe: full workday overlap</small>
-- **Tags:** rural, mountain, eco, community, coworking
+- **Tags:** rural, mountain, eco, community, coworking, wellness
 - **Nearest airports:** Tbilisi International Airport (TBS) ~51 km; Vladikavkaz Beslan International Airport (OGZ) ~124 km; Magas Airport (IGT) ~139 km
 - **Website:** https://coliving.com/spaces/zxctqeib
 

@@ -13,7 +13,7 @@
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
-- **Tags:** community, rural
+- **Tags:** community, rural, wellness
 - **Nearest airports:** Lisbon Humberto Delgado Airport (LIS) ~23 km; Cascais Airport (CAT) ~40 km
 - **Website:** http://www.soulcoliving.com/
 - **Rating:** 4.2 from 26 Google reviews

@@ -13,7 +13,7 @@
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
-- **Tags:** surf, beach, community
+- **Tags:** surf, beach, community, wellness
 - **Nearest airports:** Cascais Airport (CAT) ~27 km; Lisbon Humberto Delgado Airport (LIS) ~32 km
 - **Website:** https://www.seaurchin-surfhouse.com/
 - **Rating:** 4.8 from 85 Google reviews

@@ -14,7 +14,7 @@
 - **Minimum stay:** 10 nights
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
-- **Tags:** island, beach, surf, coworking, community
+- **Tags:** island, beach, surf, coworking, community, wellness
 - **Nearest airports:** César Manrique-Lanzarote Airport (ACE) ~6 km; Fuerteventura Airport (FUE) ~64 km
 - **Website:** https://www.mapmelon.com/colivings/pitaya-coliving
 - **Rating:** 5.0 from 64 Google reviews

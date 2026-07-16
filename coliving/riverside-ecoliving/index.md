@@ -15,7 +15,7 @@
 - **Region:** Latin America
 - **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Elevation:** 2,004 m
-- **Tags:** rural, eco, coworking, community
+- **Tags:** rural, eco, coworking, community, wellness
 - **Nearest airports:** Enrique Olaya Herrera Airport (EOH) ~53 km; El Dorado International Airport (BOG) ~219 km; Jose Maria Córdova International Airport (MDE) ~58 km
 - **Website:** https://www.mapmelon.com/colivings/riverside-ecoliving
 - **Rating:** 4.8 from 100 Google reviews

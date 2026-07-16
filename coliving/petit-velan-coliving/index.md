@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Elevation:** 1,659 m
-- **Tags:** mountain, ski, rural, coworking, community
+- **Tags:** mountain, ski, rural, coworking, community, wellness
 - **Nearest airports:** Annecy Meythet airport (NCY) ~86 km; Zürich Airport (ZRH) ~196 km; Turin Airport (TRN) ~90 km
 - **Website:** https://coliving-petitvelan.ch/
 

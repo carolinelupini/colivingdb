@@ -13,7 +13,7 @@
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
-- **Tags:** surf, beach, coworking, community
+- **Tags:** surf, beach, coworking, community, wellness
 - **Included:** Kitchen, living room, co-work space, terrace access, Super-fast wifi in coworking space, Breakfast (described in testimonials as 'really good')
 - **Area:** One minute from the ocean in Esmoriz, a beach town with a fishing and cooperage tradition, known for surfing and surrounded by parks and forest. Activities include surf, yoga, biking, and SUP tours on the Douro River. It's about 30 minutes from Porto by train or car.
 - **Nearest airports:** Francisco de Sá Carneiro Airport (OPO) ~32 km; Lisbon Humberto Delgado Airport (LIS) ~246 km; Aerodromo Goncalves Lobato (Viseu Airport) (VSE) ~68 km

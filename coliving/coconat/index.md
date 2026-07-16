@@ -13,7 +13,7 @@
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
-- **Tags:** rural, coworking, community, eco
+- **Tags:** rural, coworking, community, eco, wellness
 - **Included:** Bed sheets and towels, Wifi in rooms and common areas, Private bathroom with shower
 - **Not included:** Food/beverage (unless All-Inclusive package), Kitchen access (separate 5€/day fee), Camping/caravan parking (separate pricing), Baby beds (5€/night extra), Meat option for groups 10+ (10€ extra)
 - **Second guest:** Not stated as a couples surcharge; an All-Inclusive meal package (3 meals/day, vegan free, gluten-free +5€/day) is priced at 44€/day per person and a coworking flat rate for overnight guests is 11.90€/night.

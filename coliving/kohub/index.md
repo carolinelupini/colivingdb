@@ -14,7 +14,7 @@
 - **Minimum stay:** 30 nights
 - **Region:** Asia
 - **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
-- **Tags:** island, beach, coworking, community
+- **Tags:** island, beach, coworking, community, wellness
 - **Nearest airports:** Krabi International Airport (KBV) ~58 km; Trang Airport (TST) ~64 km; Phuket International Airport (HKT) ~99 km
 - **Website:** https://kohub.org/
 - **Rating:** 4.8 from 175 Google reviews

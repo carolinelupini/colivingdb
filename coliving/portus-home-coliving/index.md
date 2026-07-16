@@ -13,7 +13,7 @@
 - **Minimum stay:** 5 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
-- **Tags:** rural, coworking, community
+- **Tags:** rural, coworking, community, wellness
 - **Nearest airports:** Hévíz–Balaton Airport (SOB) ~55 km; Budapest Liszt Ferenc International Airport (BUD) ~125 km; Pécs-Pogány International Airport (PEV) ~112 km
 - **Website:** https://portushome.hu/
 - **Rating:** 4.8 from 19 Google reviews

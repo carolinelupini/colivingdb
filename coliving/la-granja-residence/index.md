@@ -14,7 +14,7 @@
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Elevation:** 1,210 m
-- **Tags:** city, coworking, community, eco
+- **Tags:** city, coworking, community, eco, wellness
 - **Nearest airports:** Tobías Bolaños International Airport (SYQ) ~10 km; Juan Santamaría International Airport (SJO) ~19 km; Quepos Managua Airport (XQP) ~55 km
 - **Website:** https://coliving.com/spaces/rwhdalyd
 

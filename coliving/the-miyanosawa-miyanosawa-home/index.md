@@ -13,7 +13,7 @@
 - **Minimum stay:** 30 nights
 - **Region:** Asia
 - **Timezone:** GMT+9 <small>· US East: async only · Central Europe: your evenings</small>
-- **Tags:** city, community
+- **Tags:** city, community, wellness
 - **Nearest airports:** Sapporo Okadama Airport (OKD) ~9 km; New Chitose Airport (CTS) ~47 km; Asahikawa Airport (AKJ) ~114 km
 - **Website:** https://coliving.com/spaces/plfogsdm
 

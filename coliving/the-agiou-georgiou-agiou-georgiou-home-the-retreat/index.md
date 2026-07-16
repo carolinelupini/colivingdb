@@ -13,7 +13,7 @@
 - **Minimum stay:** 30 nights
 - **Region:** Europe
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
-- **Tags:** rural, community, eco
+- **Tags:** rural, community, eco, wellness
 - **Nearest airports:** Larnaca International Airport (LCA) ~28 km; Ercan International Airport (ECN) ~47 km; Lefkoniko Airport / Geçitkale Air Base (GEC) ~63 km
 - **Website:** https://coliving.com/spaces/w9uj6sop
 

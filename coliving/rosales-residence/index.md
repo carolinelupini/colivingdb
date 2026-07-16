@@ -15,7 +15,7 @@
 - **Region:** Latin America
 - **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Elevation:** 1,492 m
-- **Tags:** city, coworking, community
+- **Tags:** city, coworking, community, wellness
 - **Included:** High-speed wifi, Coworking floor with ergonomic seating and meeting rooms, Weekly room cleaning with bed changes, Common-area cleaning 3+ times/week, Welcome treats, Weekly social events, weekend trips, cooking and salsa classes, Utilities, Toiletries, towels, linens, Weekly laundry facilities
 - **Not included:** Meals (beyond welcome treats), Cleaning beyond the weekly service, Laundry fees beyond the included allotment, Some outside events
 - **Second guest:** Rent can be split with a partner or friend sharing the room; extra fees may apply for additional occupants, exact amount not specified.

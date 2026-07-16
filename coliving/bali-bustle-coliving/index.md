@@ -13,7 +13,7 @@
 - **Minimum stay:** 3 nights
 - **Region:** Asia
 - **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
-- **Tags:** city, beach, coworking, community
+- **Tags:** city, beach, coworking, community, wellness
 - **Included:** Wifi, Coworking access (power outlets, ergonomic chairs), Weekly room cleaning (monthly stays), Water utilities, Community events, Discounts at Bali Bustle Cafe, Toiletries, Private kitchen in rooms
 - **Not included:** Electricity (prepaid system), Laundry (IDR 25k/kg), Meal plans (optional add-on packages)
 - **Second guest:** A second guest raises the monthly rate — e.g. the Deluxe room runs ~8.7M IDR for 1 pax vs ~9.8M IDR for 2 pax.

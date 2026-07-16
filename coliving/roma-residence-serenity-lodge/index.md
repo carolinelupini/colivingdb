@@ -14,7 +14,7 @@
 - **Minimum stay:** 30 nights
 - **Region:** Africa
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
-- **Tags:** beach, coworking, community
+- **Tags:** beach, coworking, community, wellness
 - **Included:** Breakfast, High-speed wifi, Workspace and meeting rooms, Common-area and room cleaning, AC and heating, Pool and yoga space access, Community events (cultural outings, movie nights, workshops)
 - **Not included:** Airport transfers (available separately for $15/way), Private parties
 - **Second guest:** Couples are allowed with prior approval; specific dual-occupancy rate not stated.

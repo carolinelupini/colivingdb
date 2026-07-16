@@ -14,7 +14,7 @@
 - **Minimum stay:** 28 nights
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
-- **Tags:** surf, beach, rural, community, coworking, startup, eco
+- **Tags:** surf, beach, rural, community, coworking, startup, eco, wellness
 - **Nearest airports:** Cascais Airport (CAT) ~28 km; Lisbon Humberto Delgado Airport (LIS) ~29 km
 - **Website:** https://tresbandeiras.co/
 - **Rating:** 4.5 from 41 Google reviews

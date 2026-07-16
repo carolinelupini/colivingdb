@@ -14,7 +14,7 @@
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
-- **Tags:** city, coworking, community
+- **Tags:** city, coworking, community, wellness
 - **Nearest airports:** Lisbon Humberto Delgado Airport (LIS) ~7 km; Cascais Airport (CAT) ~19 km
 - **Website:** https://www.outsite.co/locations/lisbon-intendente
 - **Rating:** 4.4 from 35 Google reviews

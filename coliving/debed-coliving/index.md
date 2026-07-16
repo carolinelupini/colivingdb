@@ -13,7 +13,7 @@
 - **Minimum stay:** 2 nights
 - **Region:** Asia
 - **Timezone:** GMT+4 <small>· US East: async only · Central Europe: full workday overlap</small>
-- **Tags:** mountain, rural, coworking, community
+- **Tags:** mountain, rural, coworking, community, wellness
 - **Nearest airports:** Shirak International Airport (LWN) ~72 km; Zvartnots International Airport (EVN) ~96 km; Tbilisi International Airport (TBS) ~80 km
 - **Website:** https://debed.life/
 - **Rating:** 4.8 from 37 Google reviews

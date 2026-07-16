@@ -13,7 +13,7 @@
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Timezone:** GMT-3 <small>· US East: full workday overlap · Central Europe: good overlap</small>
-- **Tags:** coworking, community, city
+- **Tags:** coworking, community, city, wellness
 - **Included:** Furnished apartment with services, Pool, gym, sauna, playrooms, Restaurant access, Yoga sessions and cooking classes, Coworking space, Community activities, Single consolidated billing
 - **Area:** Located in Punta Carretas, a well-regarded Montevideo neighborhood within a 15-min walk/bike of the Rambla waterfront, a shopping center, and restaurants.
 - **Nearest airports:** Carrasco General Cesáreo L. Berisso International Airport (MVD) ~15 km; Capitan Corbeta CA Curbelo International Airport (PDP) ~97 km

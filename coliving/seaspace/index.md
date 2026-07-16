@@ -13,7 +13,7 @@
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
-- **Tags:** beach, surf, coworking, community
+- **Tags:** beach, surf, coworking, community, wellness
 - **Nearest airports:** Cornwall Airport Newquay (NQY) ~7 km; London Heathrow Airport (LHR) ~344 km; Exeter International Airport (EXT) ~123 km
 - **Website:** https://sea.space/stay-with-us/digital-nomads
 - **Rating:** 4.8 from 95 Google reviews

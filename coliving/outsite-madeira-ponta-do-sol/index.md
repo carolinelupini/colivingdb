@@ -14,7 +14,7 @@
 - **Minimum stay:** 2 nights
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
-- **Tags:** beach, island, coworking, community
+- **Tags:** beach, island, coworking, community, wellness
 - **Nearest airports:** Cristiano Ronaldo International Airport (FNC) ~31 km; Porto Santo Airport (PXO) ~83 km
 - **Website:** https://www.outsite.co/locations/madeira-ponta-do-sol
 - **Rating:** 4.8 from 119 Google reviews

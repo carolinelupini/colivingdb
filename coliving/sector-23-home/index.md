@@ -13,7 +13,7 @@
 - **Minimum stay:** 30 nights
 - **Region:** Asia
 - **Timezone:** GMT+5:30 <small>· US East: async only · Central Europe: good overlap</small>
-- **Tags:** city, coworking
+- **Tags:** city, coworking, wellness
 - **Nearest airports:** Navi Mumbai International Airport (NMI) ~6 km; Chhatrapati Shivaji Maharaj International Airport (BOM) ~18 km; Pune International Airport (PNQ) ~106 km
 - **Website:** https://coliving.com/spaces/05dqyeqz
 

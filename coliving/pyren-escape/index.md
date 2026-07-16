@@ -15,7 +15,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Elevation:** 1,072 m
-- **Tags:** mountain, rural, coworking, community
+- **Tags:** mountain, rural, coworking, community, wellness
 - **Nearest airports:** Tarbes-Lourdes-Pyrénées Airport (LDE) ~44 km; Toulouse-Blagnac Airport (TLS) ~119 km; Pau Pyrénées Airport (PUF) ~83 km
 - **Website:** https://www.mapmelon.com/colivings/pyren-escape
 - **Rating:** 4.9 from 164 Google reviews

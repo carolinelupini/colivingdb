@@ -13,7 +13,7 @@
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
-- **Tags:** rural, beach, eco, community, coworking
+- **Tags:** rural, beach, eco, community, coworking, wellness
 - **Nearest airports:** Faro - Gago Coutinho International Airport (FAO) ~16 km; Lisbon Humberto Delgado Airport (LIS) ~227 km; Portimão Airport (PRM) ~71 km
 - **Website:** https://www.belavistacoliving.com/
 - **Rating:** 4.7 from 47 Google reviews

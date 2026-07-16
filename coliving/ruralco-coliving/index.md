@@ -13,7 +13,7 @@
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
-- **Tags:** rural, mountain, community, coworking, eco
+- **Tags:** rural, mountain, community, coworking, eco, wellness
 - **Nearest airports:** Castellón-Costa Azahar Airport (CDT) ~24 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~289 km; Valencia Airport (VLC) ~98 km
 - **Website:** https://www.ruralco.live/
 - **Rating:** 4.9 from 70 Google reviews

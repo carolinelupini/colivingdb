@@ -13,7 +13,7 @@
 - **Minimum stay:** 30 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
-- **Tags:** rural, community, coworking
+- **Tags:** rural, community, coworking, wellness
 - **Included:** High-speed wifi, Coworking spaces/work zones, Room cleaning, 3 meals/day (homemade), Community events and social activities, Gym, yoga, bike rentals, Furnished rooms with linens/toiletries, Utilities included
 - **Area:** An Austro-Hungarian-era village on Serbia's Pannonian plain; walking distance to a sports hall, restaurants, cafes, and shops in a calm rural setting.
 - **Nearest airports:** Arad International Airport (ARW) ~71 km; Belgrade Nikola Tesla Airport (BEG) ~124 km; Timișoara Traian Vuia International Airport (TSR) ~72 km

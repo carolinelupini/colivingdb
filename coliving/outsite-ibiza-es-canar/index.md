@@ -13,7 +13,7 @@
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
-- **Tags:** beach, island, coworking, community
+- **Tags:** beach, island, coworking, community, wellness
 - **Nearest airports:** Ibiza Airport (IBZ) ~23 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~471 km; Palma de Mallorca Airport (PMI) ~117 km
 - **Website:** https://www.outsite.co/locations/ibiza-es-canar
 - **Rating:** 4.2 from 58 Google reviews

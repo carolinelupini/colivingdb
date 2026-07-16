@@ -13,7 +13,7 @@
 - **Minimum stay:** 14 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
-- **Tags:** rural, community, coworking, eco
+- **Tags:** rural, community, coworking, eco, wellness
 - **Nearest airports:** Brindisi Airport (BDS) ~42 km; Rome–Fiumicino Leonardo da Vinci International Airport (FCO) ~453 km; Bari Karol Wojtyła International Airport (BRI) ~79 km
 - **Website:** https://masseriaolga.com/coliving/
 - **Rating:** 4.7 from 71 Google reviews

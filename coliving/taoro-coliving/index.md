@@ -13,7 +13,7 @@
 - **Minimum stay:** 7 nights
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
-- **Tags:** island, mountain, coworking, community
+- **Tags:** island, mountain, coworking, community, wellness
 - **Nearest airports:** Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~16 km; Tenerife Sur Airport (TFS) ~44 km; Gran Canaria Airport (LPA) ~122 km
 - **Website:** https://www.taorocoliving.com
 - **Rating:** 5.0 from 151 Google reviews

@@ -14,7 +14,7 @@
 - **Minimum stay:** 30 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
-- **Tags:** community, coworking, beach
+- **Tags:** community, coworking, beach, wellness
 - **Nearest airports:** Nice-Côte d'Azur Airport (NCE) ~10 km; Toulon-Hyères Airport (TLN) ~97 km; Cuneo International Airport (CUF) ~110 km
 - **Website:** https://www.nomadunion.digital/
 - **Rating:** 4.8 from 45 Google reviews

@@ -15,7 +15,7 @@
 - **Region:** Latin America
 - **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Elevation:** 1,486 m
-- **Tags:** city, coworking, community
+- **Tags:** city, coworking, community, wellness
 - **Included:** High-speed wifi, Coworking space with phone booths, Common area and room cleaning, Utilities/bills, Sauna, cold plunge, jacuzzi, Weekly events (yoga, breathwork, community dinners), Furnished private room with ensuite bathroom
 - **Not included:** Laundry (paid)
 - **Second guest:** Couples and friends are allowed in bigger rooms, but the site notes extra fees may apply (amount not specified).

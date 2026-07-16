@@ -13,6 +13,7 @@
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Timezone:** GMT-3 <small>· US East: full workday overlap · Central Europe: good overlap</small>
+- **Tags:** wellness
 - **Included:** 5-min walk to beach, Communal kitchen (some private), Two co-working spaces, Wifi + local SIM, Community manager, Airport transfer (NAT), Alumni network access
 - **Not included:** Travel/health insurance, Gym access, Equipment rentals (surf/kayak), Activities (surf lessons, tours), Flights, Food & beverage
 - **Area:** Pipa is a small surf town on Brazil's northeast coast with 11 beaches, jungle-adjacent lodging, year-round surf conditions, and a nightlife/festival scene including Bossa & Jazz.

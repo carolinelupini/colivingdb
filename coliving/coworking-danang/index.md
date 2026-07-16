@@ -12,7 +12,7 @@
 - **Minimum stay:** 30 nights
 - **Region:** Asia
 - **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
-- **Tags:** community, coworking, beach
+- **Tags:** community, coworking, beach, wellness
 - **Nearest airports:** Da Nang International Airport (DAD) ~1 km; Phu Bai International Airport (HUI) ~66 km
 - **Website:** https://coworkingdanang.com/coliving/
 - **Rating:** 4.9 from 156 Google reviews

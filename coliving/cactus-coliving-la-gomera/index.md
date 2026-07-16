@@ -13,7 +13,7 @@
 - **Minimum stay:** 13 nights
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
-- **Tags:** island, mountain, coworking, community
+- **Tags:** island, mountain, coworking, community, wellness
 - **Nearest airports:** Tenerife Sur Airport (TFS) ~53 km; El Hierro Airport (VDE) ~82 km; La Palma Airport (SPC) ~87 km
 - **Website:** https://www.cactuscoliving.com/
 - **Rating:** 4.7 from 55 Google reviews

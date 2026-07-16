@@ -13,7 +13,7 @@
 - **Minimum stay:** 14 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
-- **Tags:** beach, island, coworking, community
+- **Tags:** beach, island, coworking, community, wellness
 - **Nearest airports:** Olbia Costa Smeralda Airport (OLB) ~27 km; Rome–Fiumicino Leonardo da Vinci International Airport (FCO) ~238 km; Figari Sud-Corse Airport (FSC) ~55 km
 - **Website:** https://colivingcompass.com/region/italy/coliving-sardinia/
 

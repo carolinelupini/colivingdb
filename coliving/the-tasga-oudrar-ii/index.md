@@ -13,7 +13,7 @@
 - **Minimum stay:** 30 nights
 - **Region:** Africa
 - **Timezone:** GMT+1 <small>· US East: good overlap · Central Europe: full workday overlap</small>
-- **Tags:** beach, surf, community, coworking
+- **Tags:** beach, surf, community, coworking, wellness
 - **Nearest airports:** Al Massira Airport (AGA) ~38 km; Mohammed V International Airport (CMN) ~372 km; Essaouira-Mogador Airport (ESU) ~94 km
 - **Website:** https://coliving.com/spaces/vwoainxh
 

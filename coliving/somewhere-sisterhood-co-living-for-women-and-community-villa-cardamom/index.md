@@ -12,7 +12,7 @@
 - **Minimum stay:** 7 nights
 - **Region:** Asia
 - **Timezone:** GMT+5:30 <small>· US East: async only · Central Europe: good overlap</small>
-- **Tags:** community, beach
+- **Tags:** community, beach, wellness
 - **Nearest airports:** Koggala Airport (KCT) ~6 km; Bandaranaike International Colombo Airport (CMB) ~143 km; Mattala Rajapaksa International Airport (HRI) ~90 km
 - **Website:** https://www.somewheresisterhood.com/
 - **Rating:** 5.0 from 9 Google reviews

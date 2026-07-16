@@ -13,7 +13,7 @@
 - **Minimum stay:** 6 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
-- **Tags:** rural, mountain, community, eco, coworking
+- **Tags:** rural, mountain, community, eco, coworking, wellness
 - **Nearest airports:** Pau Pyrénées Airport (PUF) ~35 km; Toulouse-Blagnac Airport (TLS) ~170 km; Tarbes-Lourdes-Pyrénées Airport (LDE) ~49 km
 - **Website:** https://www.maysouanoste.com/
 - **Rating:** 4.8 from 18 Google reviews

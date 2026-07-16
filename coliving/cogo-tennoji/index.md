@@ -12,7 +12,7 @@
 - **Minimum stay:** —
 - **Region:** Asia
 - **Timezone:** GMT+9 <small>· US East: async only · Central Europe: your evenings</small>
-- **Tags:** community, coworking, city
+- **Tags:** community, coworking, city, wellness
 - **Included:** Wifi, power, semi-private booth workspace, Furnished room, Shared lounge, kitchen, fridge, microwave, toaster, kettle, TV, Washing machine access (detergent ¥100)
 - **Not included:** Towels (¥200 bath / ¥100 face), Toothbrush (¥100), Parking (none available), Staffed front desk after 11pm (entrance locks)
 - **Area:** In Tennoji, a historic Osaka district with street food, a zoo, and traditional sights within walking distance.

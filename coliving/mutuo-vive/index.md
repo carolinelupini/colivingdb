@@ -13,7 +13,7 @@
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Elevation:** 1,581 m
-- **Tags:** coworking, community, city
+- **Tags:** coworking, community, city, wellness
 - **Nearest airports:** Guadalajara International Airport (GDL) ~19 km; Mexico City Benito Juárez International Airport (MEX) ~471 km
 - **Website:** https://mutuovive.mx/
 - **Rating:** 4.1 from 71 Google reviews

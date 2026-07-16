@@ -13,7 +13,7 @@
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
-- **Tags:** beach, surf, coworking, community
+- **Tags:** beach, surf, coworking, community, wellness
 - **Nearest airports:** Cascais Airport (CAT) ~27 km; Lisbon Humberto Delgado Airport (LIS) ~32 km
 - **Website:** https://www.outsite.co/locations/ericeira-praia-do-sul
 - **Rating:** 4.8 from 15 Google reviews

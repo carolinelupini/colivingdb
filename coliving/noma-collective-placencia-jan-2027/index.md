@@ -13,6 +13,7 @@
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
+- **Tags:** wellness
 - **Included:** Fully-equipped accommodation, Airport transfers, eSIM with data, High-speed wifi, Community Slack access, Onsite community manager, Curated community program, No extra membership fees
 - **Not included:** Travel/health insurance, Food & beverages, Flights, Excursions, Wellness activities
 - **Area:** Placencia sits on a narrow peninsula with the Caribbean on one side and a lagoon on the other. Near the Belize Barrier Reef (UNESCO) for snorkeling/diving and Cockscomb Basin Wildlife Sanctuary, a jaguar reserve with waterfalls.

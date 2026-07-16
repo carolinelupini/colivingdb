@@ -14,7 +14,7 @@
 - **Minimum stay:** 30 nights
 - **Region:** Asia
 - **Timezone:** GMT+5:30 <small>· US East: async only · Central Europe: good overlap</small>
-- **Tags:** beach, surf, coworking, community
+- **Tags:** beach, surf, coworking, community, wellness
 - **Nearest airports:** Koggala Airport (KCT) ~43 km; Bandaranaike International Colombo Airport (CMB) ~163 km; Mattala Rajapaksa International Airport (HRI) ~58 km
 - **Website:** https://coliving.com/spaces/naq488lh
 - **Rating:** 4.9 from 18 Google reviews

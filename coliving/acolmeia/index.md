@@ -13,7 +13,7 @@
 - **Minimum stay:** 8 nights
 - **Region:** Asia
 - **Timezone:** GMT+5:30 <small>· US East: async only · Central Europe: good overlap</small>
-- **Tags:** beach, rural, coworking, community
+- **Tags:** beach, rural, coworking, community, wellness
 - **Nearest airports:** Goa Dabolim International Airport (GOI) ~17 km; Manohar International Airport (GOX) ~27 km; Sindhudurg Airport (SDW) ~59 km
 - **Website:** https://www.acolmeia.live/candolim
 - **Rating:** 4.9 from 93 Google reviews

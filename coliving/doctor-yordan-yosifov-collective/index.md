@@ -12,7 +12,7 @@
 - **Minimum stay:** 30 nights
 - **Region:** Europe
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
-- **Tags:** city, coworking, community
+- **Tags:** city, coworking, community, wellness
 - **Nearest airports:** Sofia Airport (SOF) ~8 km; Plovdiv International Airport (PDV) ~139 km; Niš Constantine the Great Airport (INI) ~143 km
 - **Website:** https://coliving.com/spaces/hji4l6in
 

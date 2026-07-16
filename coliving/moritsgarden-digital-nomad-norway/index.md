@@ -14,7 +14,7 @@
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
-- **Tags:** rural, mountain, coworking, community
+- **Tags:** rural, mountain, coworking, community, wellness
 - **Nearest airports:** Ørsta-Volda Airport, Hovden (HOV) ~8 km; Oslo-Gardermoen International Airport (OSL) ~345 km; Ålesund Airport (AES) ~50 km
 - **Website:** https://www.digitalnomadnorway.com/
 - **Rating:** 4.8 from 16 Google reviews

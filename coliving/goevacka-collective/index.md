@@ -13,7 +13,7 @@
 - **Minimum stay:** 30 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
-- **Tags:** mountain, rural, community, coworking
+- **Tags:** mountain, rural, community, coworking, wellness
 - **Nearest airports:** Morava Airport (KVO) ~58 km; Belgrade Nikola Tesla Airport (BEG) ~83 km; Tuzla International Airport (TZL) ~108 km
 - **Website:** https://coliving.com/spaces/pmj6tcwm
 

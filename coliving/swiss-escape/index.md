@@ -15,7 +15,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Elevation:** 1,598 m
-- **Tags:** mountain, ski, coworking, community
+- **Tags:** mountain, ski, coworking, community, wellness
 - **Nearest airports:** Bern Airport (BRN) ~83 km; Zürich Airport (ZRH) ~161 km; Lugano Airport (LUG) ~105 km
 - **Website:** https://www.ourescape.co/swiss-escape
 - **Rating:** 5.0 from 64 Google reviews

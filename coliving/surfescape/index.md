@@ -13,7 +13,7 @@
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
-- **Tags:** surf, beach, island, coworking, community
+- **Tags:** surf, beach, island, coworking, community, wellness
 - **Included:** Private bathroom, balcony/terrace, work desk, AC/fan, in-room wifi, Breakfast (in apartments and some room types), Coworking space free for hotel guests (150 Mbps wifi, 50+ desks, cafe/restaurant access), On-site surf school, kite lessons, yoga studio
 - **Not included:** External (non-guest) coworking day passes (paid, €10-150), Private call rooms (€5/hour)
 - **Area:** Based in Lajares, a surf village in Fuerteventura known for consistent year-round waves and wind, popular with surfers and kitesurfers.

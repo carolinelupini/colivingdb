@@ -14,7 +14,7 @@
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
-- **Tags:** city, coworking, community
+- **Tags:** city, coworking, community, wellness
 - **Included:** High-speed wifi (100 Mbps), Dedicated workspaces, Fully equipped kitchens, Self check-in, Community events, Restaurant and bar access, Meeting rooms, rooftop terrace, greenhouse, laundry, Free breakfast 1x/week (14+ night stays); breakfast + lunch 1x/week (28+ nights)
 - **Area:** Located in Ørestad on Amager island, a newer district known for striking modern architecture; near the Islands Brygge harbor bath (8 min by bike) and the city's bike-route network.
 - **Nearest airports:** Copenhagen Kastrup Airport (CPH) ~9 km; Copenhagen Roskilde Airport (RKE) ~29 km; Malmö Sturup Airport (MMX) ~53 km

@@ -13,7 +13,7 @@
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
-- **Tags:** rural, community, coworking, eco
+- **Tags:** rural, community, coworking, eco, wellness
 - **Nearest airports:** Paphos International Airport (PFO) ~46 km; Larnaca International Airport (LCA) ~60 km; Ercan International Airport (ECN) ~65 km
 - **Website:** https://tohanicoliving.co/
 - **Rating:** 5.0 from 40 Google reviews

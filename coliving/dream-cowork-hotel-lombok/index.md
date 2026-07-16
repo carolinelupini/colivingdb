@@ -12,7 +12,7 @@
 - **Minimum stay:** —
 - **Region:** Asia
 - **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
-- **Tags:** coworking, surf, beach
+- **Tags:** coworking, surf, beach, wellness
 - **Included:** Private bungalow or shared dorm accommodation, High-speed wifi, Coworking space, Meals with local ingredients
 - **Area:** Kuta Lombok, near Mandalika Beach for running, recreation, and surfing; close to the town center and supermarkets.
 - **Nearest airports:** Lombok International Airport (LOP) ~16 km; Denpasar I Gusti Ngurah Rai International Airport (DPS) ~123 km

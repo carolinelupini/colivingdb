@@ -14,6 +14,7 @@
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
+- **Tags:** wellness
 - **Included:** Private double room w/ bathroom at Hotel Robson, Nomad Pass (20% off at partner restaurant), Rooftop yoga classes, Spanish language classes (subject to availability), Coworking space, shared kitchen, laundry, Bi-weekly room cleaning
 - **Area:** Lloret de Mar, on Spain's Costa Brava, is a 5-minute walk from the beach. Nearby: Tossa de Mar, Blanes botanical gardens, the Camí de Ronda coastal walking trail, and day trips to Girona, Figueres, and Barcelona (about an hour away).
 - **Nearest airports:** Girona-Costa Brava Airport (GRO) ~24 km; Josep Tarradellas Barcelona-El Prat Airport (BCN) ~78 km; Perpignan-Rivesaltes (Llabanère) Airport (PGF) ~116 km

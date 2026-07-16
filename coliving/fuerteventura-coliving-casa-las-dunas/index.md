@@ -12,7 +12,7 @@
 - **Minimum stay:** 2 nights
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
-- **Tags:** beach, surf, coworking, community, island
+- **Tags:** beach, surf, coworking, community, island, wellness
 - **Nearest airports:** Fuerteventura Airport (FUE) ~31 km; César Manrique-Lanzarote Airport (ACE) ~35 km
 - **Website:** https://fuerteventuracoliving.com/
 

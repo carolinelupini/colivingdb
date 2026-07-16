@@ -13,6 +13,7 @@
 - **Minimum stay:** —
 - **Region:** Africa
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
+- **Tags:** wellness
 - **Included:** Free eSIM, Coworking space, On-site restaurant, Rooftop jacuzzi, Community manager, Airport transfer (SSH), Alumni network access
 - **Not included:** Travel/health insurance, Flights, Food & beverage, Diving/snorkeling (optional add-on)
 - **Area:** Dahab is a laid-back Red Sea dive town known for the Blue Hole and Eel Garden dive/snorkel sites, with easy access to Mount Sinai and Bedouin desert excursions.

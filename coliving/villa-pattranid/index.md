@@ -12,7 +12,7 @@
 - **Minimum stay:** —
 - **Region:** Asia
 - **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
-- **Tags:** community
+- **Tags:** community, wellness
 - **Nearest airports:** Chiang Mai International Airport (CNX) ~4 km; Lampang Airport (LPT) ~76 km; Mae Hong Son Airport (HGN) ~123 km
 - **Website:** http://www.villapattranid.com/
 - **Rating:** 5.0 from 51 Google reviews

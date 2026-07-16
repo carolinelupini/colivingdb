@@ -13,7 +13,7 @@
 - **Minimum stay:** 30 nights
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
-- **Tags:** island, beach, coworking, community
+- **Tags:** island, beach, coworking, community, wellness
 - **Nearest airports:** Tenerife Sur Airport (TFS) ~21 km; Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~60 km; La Palma Airport (SPC) ~112 km
 - **Website:** https://ojala.casa/
 - **Rating:** 5.0 from 1 Google reviews

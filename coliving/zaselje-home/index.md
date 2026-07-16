@@ -13,7 +13,7 @@
 - **Minimum stay:** 30 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
-- **Tags:** rural, mountain, coworking, community, eco
+- **Tags:** rural, mountain, coworking, community, eco, wellness
 - **Nearest airports:** Tivat Airport (TIV) ~55 km; Podgorica Airport / Podgorica Golubovci Airbase (TGD) ~67 km; Dubrovnik Ruđer Bošković Airport (DBV) ~61 km
 - **Website:** https://coliving.com/spaces/ximlylvz
 

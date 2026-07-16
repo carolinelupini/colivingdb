@@ -13,7 +13,7 @@
 - **Minimum stay:** 14 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
-- **Tags:** rural, eco, mountain, community
+- **Tags:** rural, eco, mountain, community, wellness
 - **Included:** 3 daily vegetarian meals (farm ingredients), High-speed Starlink wifi, In-room workspace desk, Shared coworking space (3 desks + printer), Multi-purpose hall, pool, yoga mats/props, Community car (costs apply), Yoga, meditation, occasional activities, Child daycare available, Beach trips and town excursions
 - **Not included:** Individual cooking (shared kitchen only), Private bathroom in some room types, Sauna (coming soon)
 - **Second guest:** Additional adult sharing a room costs €29/night in low season or €40/night in high season; children are priced separately by age.

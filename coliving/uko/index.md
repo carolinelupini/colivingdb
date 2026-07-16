@@ -12,7 +12,7 @@
 - **Minimum stay:** —
 - **Region:** Oceania
 - **Timezone:** GMT+11 winter / GMT+10 summer <small>· US East: async only · Central Europe: async only</small>
-- **Tags:** community, city
+- **Tags:** community, city, wellness
 - **Nearest airports:** Sydney Kingsford Smith International Airport (SYD) ~9 km; Nancy Bird Walton, Western Sydney International Airport (WSI) ~46 km; Shellharbour Airport (WOL) ~86 km
 - **Website:** https://www.uko.com.au/co-living
 - **Rating:** 4.8 from 22 Google reviews

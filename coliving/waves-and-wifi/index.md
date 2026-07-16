@@ -13,7 +13,7 @@
 - **Minimum stay:** —
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
-- **Tags:** surf, beach, coworking, community
+- **Tags:** surf, beach, coworking, community, wellness
 - **Nearest airports:** Augusto C. Sandino (Managua) International Airport (MGA) ~75 km; Daniel Oduber Quirós International Airport (LIR) ~116 km
 - **Website:** https://wavesandwifi.com
 - **Rating:** 4.9 from 109 Google reviews

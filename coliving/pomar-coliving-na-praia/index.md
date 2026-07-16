@@ -13,7 +13,7 @@
 - **Minimum stay:** 28 nights
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
-- **Tags:** beach, surf, coworking, community
+- **Tags:** beach, surf, coworking, community, wellness
 - **Nearest airports:** Faro - Gago Coutinho International Airport (FAO) ~21 km; Lisbon Humberto Delgado Airport (LIS) ~228 km; Portimão Airport (PRM) ~76 km
 - **Website:** https://pomar-coliving.com/
 - **Rating:** 5.0 from 77 Google reviews

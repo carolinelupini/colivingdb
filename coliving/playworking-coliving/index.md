@@ -14,7 +14,7 @@
 - **Minimum stay:** 5 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
-- **Tags:** rural, beach, coworking, community
+- **Tags:** rural, beach, coworking, community, wellness
 - **Nearest airports:** Tivat Airport (TIV) ~3 km; Podgorica Airport / Podgorica Golubovci Airbase (TGD) ~46 km; Dubrovnik Ruđer Bošković Airport (DBV) ~39 km
 - **Website:** https://www.playworking.me/
 - **Rating:** 4.5 from 70 Google reviews

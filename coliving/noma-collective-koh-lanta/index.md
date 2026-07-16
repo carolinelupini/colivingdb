@@ -13,6 +13,7 @@
 - **Minimum stay:** —
 - **Region:** Asia
 - **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
+- **Tags:** wellness
 - **Included:** Private A/C room with balcony, 24/7 coworking space, Pool + ocean access, On-site restaurant, Free eSIM, Community manager, Airport transfer (KBV), Alumni network access
 - **Not included:** Travel/health insurance, Excursions, Flights, Food & beverage
 - **Area:** Koh Lanta is a quieter, less touristy Thai island with island-hopping to Koh Mook, Koh Ngai, and Koh Ma for snorkeling, plus Lanta Old Town's wooden shophouses and markets.

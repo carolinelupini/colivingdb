@@ -14,6 +14,7 @@
 - **Minimum stay:** 28 nights
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
+- **Tags:** wellness
 - **Second guest:** In a private room each guest pays the shared-room rate — a private room fits one or two people for the same total, so a couple pays the same as booking two shared spots. Solo travellers can book a private room at the private rate.
 - **Nearest airports:** Puerto Escondido International Airport (PXM) ~1 km; Mexico City Benito Juárez International Airport (MEX) ~449 km; Bahías de Huatulco International Airport (HUX) ~88 km
 - **Website:** https://wifitribe.co/chapter-mexico-puerto-escondido/

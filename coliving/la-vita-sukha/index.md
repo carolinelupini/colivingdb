@@ -14,7 +14,7 @@
 - **Minimum stay:** 13 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
-- **Tags:** rural, mountain, eco, community, coworking
+- **Tags:** rural, mountain, eco, community, coworking, wellness
 - **Nearest airports:** Foggia Gino Lisa Airport (FOG) ~37 km; Rome–Fiumicino Leonardo da Vinci International Airport (FCO) ~242 km; Salerno Costa d'Amalfi Airport (QSR) ~85 km
 - **Website:** https://www.mapmelon.com/colivings/la-vita-sukha
 - **Rating:** 5.0 from 29 Google reviews

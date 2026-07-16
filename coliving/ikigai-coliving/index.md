@@ -14,7 +14,7 @@
 - **Minimum stay:** 14 nights
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
-- **Tags:** island, coworking, community
+- **Tags:** island, coworking, community, wellness
 - **Nearest airports:** Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~22 km; Tenerife Sur Airport (TFS) ~41 km; La Palma Airport (SPC) ~120 km
 - **Website:** https://www.ikigaicoliving.com/
 - **Rating:** 4.9 from 97 Google reviews

@@ -14,7 +14,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Elevation:** 1,255 m
-- **Tags:** mountain, ski, coworking, community
+- **Tags:** mountain, ski, coworking, community, wellness
 - **Nearest airports:** Geneva International Airport (GVA) ~70 km; Zürich Airport (ZRH) ~171 km; Bern Airport (BRN) ~74 km
 - **Website:** https://www.vermonthub.ch/coliving-chapters
 - **Rating:** 4.7 from 12 Google reviews

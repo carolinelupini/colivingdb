@@ -14,7 +14,7 @@
 - **Region:** Latin America
 - **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Elevation:** 1,534 m
-- **Tags:** city, coworking, community
+- **Tags:** city, coworking, community, wellness
 - **Nearest airports:** Enrique Olaya Herrera Airport (EOH) ~3 km; El Dorado International Airport (BOG) ~230 km; Jose Maria Córdova International Airport (MDE) ~17 km
 - **Website:** https://kiinliving.com
 - **Rating:** 4.9 from 167 Google reviews

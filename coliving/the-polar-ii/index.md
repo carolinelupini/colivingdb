@@ -14,7 +14,7 @@
 - **Minimum stay:** 30 nights
 - **Region:** North America
 - **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
-- **Tags:** beach, community, coworking
+- **Tags:** beach, community, coworking, wellness
 - **Nearest airports:** Felipe Carrillo Puerto International Airport Tulum (TQO) ~21 km; Cozumel International Airport (CZM) ~65 km; Cancún International Airport (CUN) ~111 km
 - **Website:** https://coliving.com/spaces/qrkosql3
 - **Rating:** 3.8 from 76 Google reviews

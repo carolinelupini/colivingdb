@@ -12,7 +12,7 @@
 - **Minimum stay:** —
 - **Region:** Asia
 - **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
-- **Tags:** community, coworking, city
+- **Tags:** community, coworking, city, wellness
 - **Included:** Weekly housekeeping, Fitness center access, Coworking space, Free parking, Water bill, Drinking water on each floor, High-speed wifi
 - **Area:** Phuket Town, near Sino-Portuguese Old Town architecture; 10-min walk to Chillva Market, 10 min to Central Phuket mall, 15 min drive to Phuket Old Town, 30 min drive to Patong Beach; rooftop pool on site.
 - **Nearest airports:** Phuket International Airport (HKT) ~27 km; Krabi International Airport (KBV) ~70 km; Trang Airport (TST) ~141 km

@@ -12,7 +12,7 @@
 - **Minimum stay:** 14 nights
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
-- **Tags:** community, eco, rural
+- **Tags:** community, eco, rural, wellness
 - **Nearest airports:** La Fortuna Arenal Airport (FON) ~32 km; Juan Santamaría International Airport (SJO) ~96 km; Daniel Oduber Quirós International Airport (LIR) ~77 km
 - **Website:** https://www.protopia.community/
 - **Rating:** 4.9 from 18 Google reviews

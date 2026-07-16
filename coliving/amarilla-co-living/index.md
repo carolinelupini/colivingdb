@@ -13,7 +13,7 @@
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
-- **Tags:** beach, coworking, community
+- **Tags:** beach, coworking, community, wellness
 - **Included:** High-speed wifi in rooms and community spaces, Coworking facility access, Community activities (surf/yoga classes, talks, meetups, dinners), Discounts on excursions/experiences, Swimming pool, Local support
 - **Not included:** Cleaning and chef services (offered separately, hireable add-ons)
 - **Area:** Located in San Miguel de Abona/Golf del Sur, south Tenerife; the site cites sandy beaches nearby, a black volcanic beach a 3-minute walk from the coworking space, golf courses, and hiking trails.

@@ -12,7 +12,7 @@
 - **Minimum stay:** —
 - **Region:** Asia
 - **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
-- **Tags:** beach, coworking, island
+- **Tags:** beach, coworking, island, wellness
 - **Nearest airports:** Samui International Airport (USM) ~24 km; Suvarnabhumi Airport (BKK) ~445 km; Surat Thani Airport (URT) ~115 km
 - **Website:** https://beachub.org/
 - **Rating:** 4.2 from 145 Google reviews

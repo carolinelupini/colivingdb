@@ -13,7 +13,7 @@
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
-- **Tags:** coworking, community, rural
+- **Tags:** coworking, community, rural, wellness
 - **Nearest airports:** Tours Val de Loire Airport (TUF) ~26 km; Charles de Gaulle International Airport (CDG) ~245 km; Le Mans-Arnage Airport (LME) ~71 km
 - **Website:** https://www.larochecotard.com/en/home/
 - **Rating:** 5.0 from 16 Google reviews

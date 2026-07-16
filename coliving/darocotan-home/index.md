@@ -14,7 +14,7 @@
 - **Minimum stay:** 30 nights
 - **Region:** Asia
 - **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
-- **Tags:** beach, island, eco, community
+- **Tags:** beach, island, eco, community, wellness
 - **Included:** High-speed Starlink wifi, Breakfast, lunch, and dinner (local dishes, communal table), Room + common area cleaning, Beach yoga sessions, Social events (beach bonfires, live performances), Communal work areas with ocean views, Backup power
 - **Not included:** Room tours before booking, Pets
 - **Second guest:** Couples/friends can share the larger rooms, but extra fees may apply (amount not stated).

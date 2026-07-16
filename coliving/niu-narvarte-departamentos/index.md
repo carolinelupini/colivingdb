@@ -13,7 +13,7 @@
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Elevation:** 2,237 m
-- **Tags:** coworking, city, community
+- **Tags:** coworking, city, community, wellness
 - **Nearest airports:** Mexico City Benito Juárez International Airport (MEX) ~10 km; Felipe Ángeles International Airport (NLU) ~42 km; Adolfo López Mateos International Airport (TLC) ~44 km
 - **Website:** https://niu-coliving.com/es/narvarte/
 - **Rating:** 4.3 from 142 Google reviews

@@ -13,7 +13,7 @@
 - **Minimum stay:** 2 nights
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
-- **Tags:** city, coworking, community
+- **Tags:** city, coworking, community, wellness
 - **Included:** High-speed wifi, Self check-in, Dedicated workspaces, Weekly community events, Fully equipped kitchens, Gym, cinema, café-bar, rooftop terrace, laundry access
 - **Area:** Isle of Dogs within the Canary Wharf estate, East London; modern architecture and riverside parks along the Thames, with dining from street food markets to rooftop bars.
 - **Nearest airports:** London City Airport (LCY) ~5 km; London Heathrow Airport (LHR) ~31 km; London Gatwick Airport (LGW) ~42 km

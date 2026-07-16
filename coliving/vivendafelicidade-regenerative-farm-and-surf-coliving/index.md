@@ -14,7 +14,7 @@
 - **Minimum stay:** 7 nights
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
-- **Tags:** surf, eco, rural, beach, coworking, community
+- **Tags:** surf, eco, rural, beach, coworking, community, wellness
 - **Nearest airports:** Cascais Airport (CAT) ~14 km; Lisbon Humberto Delgado Airport (LIS) ~25 km
 - **Website:** https://www.vivendafelicidade.org/coliving
 - **Rating:** 5.0 from 47 Google reviews

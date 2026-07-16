@@ -12,7 +12,7 @@
 - **Minimum stay:** 7 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
-- **Tags:** community, coworking, city
+- **Tags:** community, coworking, city, wellness
 - **Nearest airports:** Seville Airport (SVQ) ~10 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~404 km; Jerez Airport (XRY) ~72 km
 - **Website:** http://www.almansa11.com/
 - **Rating:** 4.6 from 27 Google reviews

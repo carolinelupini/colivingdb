@@ -13,7 +13,7 @@
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
-- **Tags:** coworking, community, eco, city, beach
+- **Tags:** coworking, community, eco, city, beach, wellness
 - **Nearest airports:** Josep Tarradellas Barcelona-El Prat Airport (BCN) ~9 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~475 km; Reus Airport (REU) ~69 km
 - **Website:** https://greenlivingprojects.es/colivings/spain/coliving-barcelona
 - **Rating:** 5.0 from 5 Google reviews

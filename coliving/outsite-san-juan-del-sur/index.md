@@ -14,7 +14,7 @@
 - **Minimum stay:** 2 nights
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
-- **Tags:** surf, beach, coworking, community
+- **Tags:** surf, beach, coworking, community, wellness
 - **Nearest airports:** Daniel Oduber Quirós International Airport (LIR) ~81 km; Augusto C. Sandino (Managua) International Airport (MGA) ~104 km; Nosara Airport (NOB) ~144 km
 - **Website:** https://www.outsite.co/locations/san-juan-del-sur
 - **Rating:** 4.8 from 29 Google reviews
