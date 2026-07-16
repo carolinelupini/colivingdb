@@ -1327,7 +1327,7 @@ _psMax.oninput=()=>{ let lo=+_psMin.value, hi=+_psMax.value; if(hi<lo) lo=hi; pr
 function readNum(el){ const v=parseFloat(el.value); return isNaN(v)?null:Math.max(0,v); }
 _psMinIn.onchange=()=>{ const {max}=priceScale(); const lo=readNum(_psMinIn)??0; const hi=readNum(_psMaxIn)??max; priceCommit(lo,hi); };
 _psMaxIn.onchange=()=>{ const {max}=priceScale(); const lo=readNum(_psMinIn)??0; const hi=readNum(_psMaxIn)??max; priceCommit(lo,hi); };
-// source amount + currency for a room tier (true native if scraped, else EUR estimate)
+// source amount + currency for a room tier (operator-native figure when we have one, else EUR estimate)
 function tierSource(x, tier){
   const pn=x.pricesNative; if(pn && pn[tier]!=null) return {amt:pn[tier], cur:nativeCurOf(x)};
   const pe=x.prices;       if(pe && pe[tier]!=null) return {amt:pe[tier], cur:"EUR"};
@@ -1343,7 +1343,7 @@ function tierDisplay(x, tier){
 
 const AFFILIATES = {
   "outsite.co": ["rfsn", "9218925.def533"],
-  "coliving.com": ["i", "caroline-l-3"]   // ?i= deeplink param, confirmed from affiliate dashboard 2026-07-09
+  "coliving.com": ["i", "caroline-l-3"]   // partner deeplink param (disclosed on /how-listings-work/)
 };
 function affiliateUrl(url){
   if(!url) return url;
