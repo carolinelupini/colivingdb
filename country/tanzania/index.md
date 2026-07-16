@@ -24,6 +24,6 @@
 - AfricaNomads — Kilimanjaro (Moshi) — Dec 13 - Dec 21, 2026 (Kilimanjaro expedition)
 - AfricaNomads — Zanzibar — Sept 27 - Oct 25, 2026
 - Backyard Ventures — ~late September - late October (annual dry-season program; last confirmed Sept 27 - Oct 26, 2025); 2026 dates not yet published
-- WiFi Tribe — Zanzibar City — Oct 16 - Nov 13, 2026
+- WiFi Tribe — Zanzibar City — Oct 16 - Nov 14, 2026
 
 Source: https://colivingdb.com/country/tanzania/

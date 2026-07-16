@@ -4,7 +4,7 @@
 
 - **Location:** Zanzibar City, Tanzania
 - **Type:** Pop-up / dated edition
-- **Dates:** Oct 16 - Nov 13, 2026
+- **Dates:** Oct 16 - Nov 14, 2026
 - **Price:** from $1,790/mo
 - **Price note:** coliving accommodation (shared room, Veteran tier, lowest tier) + coworking + community activities for the month-long chapter
 - **Room types:** private, shared

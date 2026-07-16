@@ -16,6 +16,6 @@
 
 ## Upcoming pop-ups
 
-- WiFi Tribe — Zanzibar City — Oct 16 - Nov 13, 2026
+- WiFi Tribe — Zanzibar City — Oct 16 - Nov 14, 2026
 
 Source: https://colivingdb.com/city/tanzania/zanzibar-city/
