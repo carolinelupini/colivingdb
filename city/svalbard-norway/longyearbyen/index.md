@@ -6,10 +6,10 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Arctic Coliving | Longyearbyen | from €280/wk | — | private | 14 nights | Pop-up |
+| Arctic Coliving 78° North (Svalbard) | Longyearbyen | from €280/wk | — | private | 14 nights | Pop-up |
 
 ## Upcoming pop-ups
 
-- Arctic Coliving — October - December 2026 (polar night season)
+- Arctic Coliving 78° North (Svalbard) — October - December 2026 (polar night season)
 
 Source: https://colivingdb.com/city/svalbard-norway/longyearbyen/

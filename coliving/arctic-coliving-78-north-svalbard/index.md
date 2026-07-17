@@ -1,4 +1,4 @@
-# Arctic Coliving
+# Arctic Coliving 78° North (Svalbard)
 
 > Coliving in Longyearbyen, Svalbard (Norway). Last updated July 17, 2026.
 
@@ -28,10 +28,10 @@
 | Per night | €60 | €40 |
 | Per week | €420 | €280 |
 
-Arctic Coliving does not publish a monthly rate.
+Arctic Coliving 78° North (Svalbard) does not publish a monthly rate.
 
 ## About
 
 Confirmed seasonal pop-up (78° North, powered by Spitzbergen Reisen) running Oct-Dec 2026; pricing only via external booking partner, not published.
 
-Source: https://colivingdb.com/coliving/arctic-coliving-2/
+Source: https://colivingdb.com/coliving/arctic-coliving-78-north-svalbard/

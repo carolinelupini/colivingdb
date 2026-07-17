@@ -518,7 +518,7 @@
 | [Surf & Zen Coworking and Coliving](/coliving/surf-and-zen-coworking-and-coliving/index.md) | Galle | Sri Lanka | from $25/night | — | Permanent |
 | [Weligama Bay Residence](/coliving/weligama-bay-residence/index.md) | Weligama | Sri Lanka | from $2,250/mo | 30 nights | Permanent |
 | [WiFi Tribe — Weligama](/coliving/wifi-tribe-weligama/index.md) | Weligama | Sri Lanka | from $1,690/mo | 28 nights | Pop-up |
-| [Arctic Coliving](/coliving/arctic-coliving-2/index.md) | Longyearbyen | Svalbard (Norway) | from €280/wk | 14 nights | Pop-up |
+| [Arctic Coliving 78° North (Svalbard)](/coliving/arctic-coliving-78-north-svalbard/index.md) | Longyearbyen | Svalbard (Norway) | from €280/wk | 14 nights | Pop-up |
 | [Northliving](/coliving/northliving/index.md) | Häggdånger | Sweden | from €850/mo | 6 nights | Permanent |
 | [Alpiness Coliving](/coliving/alpiness-coliving/index.md) | Evolène | Switzerland | from CHF 1,200/mo | 15 nights | Permanent |
 | [Batteuse Home](/coliving/batteuse-home/index.md) | Grimentz | Switzerland | from $2,511/mo | 30 nights | Permanent |
