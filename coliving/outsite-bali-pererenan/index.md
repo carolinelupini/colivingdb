@@ -1,6 +1,6 @@
 # Outsite Bali - Pererenan
 
-> Coliving in Pererenan, Bali, Indonesia. Last updated July 16, 2026.
+> Coliving in Pererenan, Bali, Indonesia. Last updated July 17, 2026.
 
 - **Location:** Pererenan, Bali, Indonesia
 - **Type:** Permanent coliving

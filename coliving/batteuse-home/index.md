@@ -1,6 +1,6 @@
 # Batteuse Home
 
-> Coliving in Grimentz, Switzerland. Last updated July 16, 2026.
+> Coliving in Grimentz, Switzerland. Last updated July 17, 2026.
 
 - **Location:** Grimentz, Switzerland
 - **Type:** Permanent coliving

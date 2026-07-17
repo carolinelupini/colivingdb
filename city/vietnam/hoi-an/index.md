@@ -1,6 +1,6 @@
 # Coliving in Hoi An, Vietnam
 
-> 5 colivings in Hoi An, Vietnam, prices from €300 to €640 per month – last updated July 16, 2026.
+> 5 colivings in Hoi An, Vietnam, prices from €300 to €640 per month – last updated July 17, 2026.
 
 ## All colivings
 

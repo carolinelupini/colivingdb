@@ -1,6 +1,6 @@
 # Escape (Greek Escape)
 
-> Coliving in Gerani, Crete (near Rethymno), Greece. Last updated July 16, 2026.
+> Coliving in Gerani, Crete (near Rethymno), Greece. Last updated July 17, 2026.
 
 - **Location:** Gerani, Crete (near Rethymno), Greece
 - **Type:** Permanent coliving

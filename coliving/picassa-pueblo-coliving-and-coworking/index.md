@@ -1,6 +1,6 @@
 # Picassa • Pueblo Coliving & Coworking
 
-> Coliving in Purchena, Spain. Last updated July 16, 2026.
+> Coliving in Purchena, Spain. Last updated July 17, 2026.
 
 - **Location:** Purchena, Spain
 - **Type:** Permanent coliving

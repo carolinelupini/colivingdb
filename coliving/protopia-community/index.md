@@ -1,6 +1,6 @@
 # Protopia Community
 
-> Coliving in San José, Costa Rica. Last updated July 16, 2026.
+> Coliving in San José, Costa Rica. Last updated July 17, 2026.
 
 - **Location:** San José, Costa Rica
 - **Type:** Permanent coliving

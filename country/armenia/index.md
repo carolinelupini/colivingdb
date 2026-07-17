@@ -1,6 +1,6 @@
 # Coliving in Armenia
 
-> 1 colivings in Armenia – last updated July 16, 2026.
+> 1 colivings in Armenia – last updated July 17, 2026.
 
 ## All colivings
 

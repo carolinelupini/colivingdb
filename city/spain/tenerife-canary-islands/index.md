@@ -1,6 +1,6 @@
 # Coliving in Tenerife (Canary Islands), Spain
 
-> 1 colivings in Tenerife (Canary Islands), Spain – last updated July 16, 2026.
+> 1 colivings in Tenerife (Canary Islands), Spain – last updated July 17, 2026.
 
 ## All colivings
 

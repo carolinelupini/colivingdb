@@ -1,6 +1,6 @@
 # Coliving in Ponta Delgada, Portugal
 
-> 1 colivings in Ponta Delgada, Portugal – last updated July 16, 2026.
+> 1 colivings in Ponta Delgada, Portugal – last updated July 17, 2026.
 
 ## All colivings
 

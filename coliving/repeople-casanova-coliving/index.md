@@ -1,6 +1,6 @@
 # Repeople Casanova Coliving
 
-> Coliving in Las Palmas de Gran Canaria, Spain. Last updated July 16, 2026.
+> Coliving in Las Palmas de Gran Canaria, Spain. Last updated July 17, 2026.
 
 - **Location:** Las Palmas de Gran Canaria, Spain
 - **Type:** Permanent coliving

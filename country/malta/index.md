@@ -1,6 +1,6 @@
 # Coliving in Malta
 
-> 5 colivings in Malta, prices from €420 to €2,678 per month – last updated July 16, 2026.
+> 5 colivings in Malta, prices from €420 to €2,678 per month – last updated July 17, 2026.
 
 ## All colivings
 

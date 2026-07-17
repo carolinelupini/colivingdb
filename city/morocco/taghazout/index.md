@@ -1,6 +1,6 @@
 # Coliving in Taghazout, Morocco
 
-> 4 colivings in Taghazout, Morocco, prices from €420 to €1,300 per month – last updated July 16, 2026.
+> 4 colivings in Taghazout, Morocco, prices from €420 to €1,300 per month – last updated July 17, 2026.
 
 ## All colivings
 

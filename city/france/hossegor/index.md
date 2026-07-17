@@ -1,6 +1,6 @@
 # Coliving in Hossegor, France
 
-> 1 colivings in Hossegor, France, prices from €1,050 to €1,050 per month – last updated July 16, 2026.
+> 1 colivings in Hossegor, France, prices from €1,050 to €1,050 per month – last updated July 17, 2026.
 
 ## All colivings
 

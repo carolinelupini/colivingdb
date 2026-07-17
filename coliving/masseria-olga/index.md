@@ -1,6 +1,6 @@
 # Masseria Olga
 
-> Coliving in Valle d'Itria (Puglia), Italy. Last updated July 16, 2026.
+> Coliving in Valle d'Itria (Puglia), Italy. Last updated July 17, 2026.
 
 - **Location:** Valle d'Itria (Puglia), Italy
 - **Type:** Permanent coliving

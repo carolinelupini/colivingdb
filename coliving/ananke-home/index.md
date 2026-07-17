@@ -1,6 +1,6 @@
 # Ananke Home
 
-> Coliving in Nicosia, Cyprus. Last updated July 16, 2026.
+> Coliving in Nicosia, Cyprus. Last updated July 17, 2026.
 
 - **Location:** Nicosia, Cyprus
 - **Type:** Permanent coliving

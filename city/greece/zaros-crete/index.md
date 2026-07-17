@@ -1,6 +1,6 @@
 # Coliving in Zaros, Crete, Greece
 
-> 1 colivings in Zaros, Crete, Greece, prices from €449 to €449 per month – last updated July 16, 2026.
+> 1 colivings in Zaros, Crete, Greece, prices from €449 to €449 per month – last updated July 17, 2026.
 
 ## All colivings
 

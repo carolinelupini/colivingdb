@@ -1,6 +1,6 @@
 # Coliving in Santa Marta, Colombia
 
-> 1 colivings in Santa Marta, Colombia, prices from €317 to €317 per month – last updated July 16, 2026.
+> 1 colivings in Santa Marta, Colombia, prices from €317 to €317 per month – last updated July 17, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Coliving in Cluj-Napoca, Romania
 
-> 1 colivings in Cluj-Napoca, Romania – last updated July 16, 2026.
+> 1 colivings in Cluj-Napoca, Romania – last updated July 17, 2026.
 
 ## All colivings
 

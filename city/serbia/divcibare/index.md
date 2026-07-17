@@ -1,6 +1,6 @@
 # Coliving in Divcibare, Serbia
 
-> 1 colivings in Divcibare, Serbia, prices from €1,960 to €1,960 per month – last updated July 16, 2026.
+> 1 colivings in Divcibare, Serbia, prices from €1,960 to €1,960 per month – last updated July 17, 2026.
 
 ## All colivings
 

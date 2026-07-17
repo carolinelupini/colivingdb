@@ -1,6 +1,6 @@
 # Coliving in Vicchio (Mugello, Florence), Italy
 
-> 1 colivings in Vicchio (Mugello, Florence), Italy, prices from €699 to €699 per month – last updated July 16, 2026.
+> 1 colivings in Vicchio (Mugello, Florence), Italy, prices from €699 to €699 per month – last updated July 17, 2026.
 
 ## All colivings
 

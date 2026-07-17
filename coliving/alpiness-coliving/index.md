@@ -1,6 +1,6 @@
 # Alpiness Coliving
 
-> Coliving in Evolène, Switzerland. Last updated July 16, 2026.
+> Coliving in Evolène, Switzerland. Last updated July 17, 2026.
 
 - **Location:** Evolène, Switzerland
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # Algarve Watersport Surf House Coliving
 
-> Coliving in Lagos, Portugal. Last updated July 16, 2026.
+> Coliving in Lagos, Portugal. Last updated July 17, 2026.
 
 - **Location:** Lagos, Portugal
 - **Type:** Permanent coliving

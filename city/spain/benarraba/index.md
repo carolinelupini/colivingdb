@@ -1,6 +1,6 @@
 # Coliving in Benarrabá, Spain
 
-> 1 colivings in Benarrabá, Spain, prices from €810 to €810 per month – last updated July 16, 2026.
+> 1 colivings in Benarrabá, Spain, prices from €810 to €810 per month – last updated July 17, 2026.
 
 ## All colivings
 

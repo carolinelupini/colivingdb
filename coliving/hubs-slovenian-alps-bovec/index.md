@@ -1,6 +1,6 @@
 # Hubs Slovenian Alps Bovec
 
-> Coliving in Ljubljana, Slovenia. Last updated July 16, 2026.
+> Coliving in Ljubljana, Slovenia. Last updated July 17, 2026.
 
 - **Location:** Ljubljana, Slovenia
 - **Type:** Permanent coliving
