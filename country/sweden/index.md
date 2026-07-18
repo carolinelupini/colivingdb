@@ -1,6 +1,6 @@
 # Coliving in Sweden
 
-> 1 colivings in Sweden, prices from €870 to €870 per month – last updated July 17, 2026.
+> 1 colivings in Sweden, prices from €870 to €870 per month – last updated July 18, 2026.
 
 ## All colivings
 

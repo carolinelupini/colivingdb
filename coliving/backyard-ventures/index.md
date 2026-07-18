@@ -1,6 +1,6 @@
 # Backyard Ventures
 
-> Coliving in Arusha, Tanzania. Last updated July 17, 2026.
+> Coliving in Arusha, Tanzania. Last updated July 18, 2026.
 
 - **Location:** Arusha, Tanzania
 - **Type:** Pop-up / dated edition

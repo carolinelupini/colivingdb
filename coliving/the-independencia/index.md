@@ -1,6 +1,6 @@
 # The Independencia
 
-> Coliving in Buenos Aires, Argentina. Last updated July 17, 2026.
+> Coliving in Buenos Aires, Argentina. Last updated July 18, 2026.
 
 - **Location:** Buenos Aires, Argentina
 - **Type:** Permanent coliving

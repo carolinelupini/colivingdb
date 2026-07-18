@@ -1,10 +1,10 @@
 # colivingDB — all countries
 
-> 601 colivings across 83 countries. Last updated July 17, 2026.
+> 602 colivings across 83 countries. Last updated July 18, 2026.
 
 | Country | Colivings | From (EUR/mo) |
 |---|---|---|
-| [Spain](/country/spain/index.md) | 92 | €71 |
+| [Spain](/country/spain/index.md) | 93 | €71 |
 | [Portugal](/country/portugal/index.md) | 65 | €150 |
 | [Italy](/country/italy/index.md) | 32 | €40 |
 | [Mexico](/country/mexico/index.md) | 28 | €46 |

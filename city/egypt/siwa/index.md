@@ -1,6 +1,6 @@
 # Coliving in Siwa, Egypt
 
-> 1 colivings in Siwa, Egypt, prices from €167 to €167 per month – last updated July 17, 2026.
+> 1 colivings in Siwa, Egypt, prices from €167 to €167 per month – last updated July 18, 2026.
 
 ## All colivings
 

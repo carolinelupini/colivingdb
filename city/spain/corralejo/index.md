@@ -1,6 +1,6 @@
 # Coliving in Corralejo, Spain
 
-> 1 colivings in Corralejo, Spain – last updated July 17, 2026.
+> 1 colivings in Corralejo, Spain – last updated July 18, 2026.
 
 ## All colivings
 

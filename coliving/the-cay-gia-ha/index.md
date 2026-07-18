@@ -1,6 +1,6 @@
 # The Cây Giá Hạ
 
-> Coliving in Hoi An, Vietnam. Last updated July 17, 2026.
+> Coliving in Hoi An, Vietnam. Last updated July 18, 2026.
 
 - **Location:** Hoi An, Vietnam
 - **Type:** Permanent coliving

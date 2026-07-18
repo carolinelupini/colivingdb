@@ -1,6 +1,6 @@
 # Maraya Coliving & Coworking
 
-> Coliving in Candelaria, Tenerife, Spain. Last updated July 17, 2026.
+> Coliving in Candelaria, Tenerife, Spain. Last updated July 18, 2026.
 
 - **Location:** Candelaria, Tenerife, Spain
 - **Type:** Permanent coliving

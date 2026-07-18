@@ -1,6 +1,6 @@
 # Coliving in Navi Mumbai, India
 
-> 1 colivings in Navi Mumbai, India, prices from €242 to €242 per month – last updated July 17, 2026.
+> 1 colivings in Navi Mumbai, India, prices from €242 to €242 per month – last updated July 18, 2026.
 
 ## All colivings
 

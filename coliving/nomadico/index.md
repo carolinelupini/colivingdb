@@ -1,6 +1,6 @@
 # Nomadico
 
-> Coliving in Multiple. Last updated July 17, 2026.
+> Coliving in Multiple. Last updated July 18, 2026.
 
 - **Location:** Multiple
 - **Type:** Permanent coliving

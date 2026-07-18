@@ -1,6 +1,6 @@
 # Coliving in Antigua, Guatemala
 
-> 1 colivings in Antigua, Guatemala, prices from €1,306 to €1,306 per month – last updated July 17, 2026.
+> 1 colivings in Antigua, Guatemala, prices from €1,306 to €1,306 per month – last updated July 18, 2026.
 
 ## All colivings
 

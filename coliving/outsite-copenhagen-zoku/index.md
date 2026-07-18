@@ -1,6 +1,6 @@
 # Outsite Copenhagen (Zoku)
 
-> Coliving in Copenhagen, Denmark. Last updated July 17, 2026.
+> Coliving in Copenhagen, Denmark. Last updated July 18, 2026.
 
 - **Location:** Copenhagen, Denmark
 - **Type:** Permanent coliving

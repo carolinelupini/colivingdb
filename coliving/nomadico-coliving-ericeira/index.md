@@ -1,6 +1,6 @@
 # Nomadico Coliving Ericeira
 
-> Coliving in Ericeira, Portugal. Last updated July 17, 2026.
+> Coliving in Ericeira, Portugal. Last updated July 18, 2026.
 
 - **Location:** Ericeira, Portugal
 - **Type:** Pop-up / dated edition

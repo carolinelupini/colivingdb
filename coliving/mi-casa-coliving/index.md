@@ -1,6 +1,6 @@
 # Mi Casa Coliving
 
-> Coliving in Puerto Escondido, Mexico. Last updated July 17, 2026.
+> Coliving in Puerto Escondido, Mexico. Last updated July 18, 2026.
 
 - **Location:** Puerto Escondido, Mexico
 - **Type:** Permanent coliving

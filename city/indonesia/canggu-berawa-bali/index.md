@@ -1,6 +1,6 @@
 # Coliving in Canggu (Berawa), Bali, Indonesia
 
-> 1 colivings in Canggu (Berawa), Bali, Indonesia, prices from €1,300 to €1,300 per month – last updated July 17, 2026.
+> 1 colivings in Canggu (Berawa), Bali, Indonesia, prices from €1,300 to €1,300 per month – last updated July 18, 2026.
 
 ## All colivings
 

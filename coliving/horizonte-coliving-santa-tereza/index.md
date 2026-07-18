@@ -1,6 +1,6 @@
 # Horizonte Coliving - Santa Tereza
 
-> Coliving in Belo Horizonte, Brazil. Last updated July 17, 2026.
+> Coliving in Belo Horizonte, Brazil. Last updated July 18, 2026.
 
 - **Location:** Belo Horizonte, Brazil
 - **Type:** Permanent coliving

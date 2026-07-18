@@ -1,6 +1,6 @@
 # Dwell Azores
 
-> Coliving in Fenais da Luz, São Miguel, Azores, Portugal. Last updated July 17, 2026.
+> Coliving in Fenais da Luz, São Miguel, Azores, Portugal. Last updated July 18, 2026.
 
 - **Location:** Fenais da Luz, São Miguel, Azores, Portugal
 - **Type:** Permanent coliving

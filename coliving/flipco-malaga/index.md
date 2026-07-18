@@ -1,6 +1,6 @@
 # Flipco Málaga
 
-> Coliving in Málaga, Spain. Last updated July 17, 2026.
+> Coliving in Málaga, Spain. Last updated July 18, 2026.
 
 - **Location:** Málaga, Spain
 - **Type:** Permanent coliving

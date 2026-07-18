@@ -1,6 +1,6 @@
 # UKO
 
-> Coliving in Sydney, Australia. Last updated July 17, 2026.
+> Coliving in Sydney, Australia. Last updated July 18, 2026.
 
 - **Location:** Sydney, Australia
 - **Type:** Permanent coliving

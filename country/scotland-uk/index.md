@@ -1,6 +1,6 @@
 # Coliving in Scotland (UK)
 
-> 1 colivings in Scotland (UK), prices from €1,482 to €1,482 per month – last updated July 17, 2026.
+> 1 colivings in Scotland (UK), prices from €1,482 to €1,482 per month – last updated July 18, 2026.
 
 ## All colivings
 

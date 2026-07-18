@@ -1,6 +1,6 @@
 # Coliving in Cape Verde
 
-> 1 colivings in Cape Verde – last updated July 17, 2026.
+> 1 colivings in Cape Verde – last updated July 18, 2026.
 
 ## All colivings
 

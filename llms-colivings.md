@@ -1,6 +1,6 @@
 # colivingDB — all colivings
 
-> 601 listings. Last updated July 17, 2026.
+> 602 listings. Last updated July 18, 2026.
 
 | Coliving | City | Country | Price from | Min stay | Type |
 |---|---|---|---|---|---|
@@ -423,6 +423,7 @@
 | [Boundless Life — Andalusia (Malaga area)](/coliving/boundless-life-andalusia-malaga-area/index.md) | Andalusia (Malaga area) | Spain | from €2,600/mo | — | Pop-up |
 | [Buddha Coliving](/coliving/buddha-coliving/index.md) | San Isidro (Tenerife) | Spain | from €550/mo | — | Permanent |
 | [Cactus Coliving](/coliving/cactus-coliving/index.md) | Valle San Lorenzo (Arona), Tenerife | Spain | from €686/mo | 14 nights | Permanent |
+| [Cactus Coliving Adeje](/coliving/cactus-coliving-adeje/index.md) | Adeje | Spain | from €620/mo | 2 months | Permanent |
 | [Cactus Coliving La Gomera](/coliving/cactus-coliving-la-gomera/index.md) | San Sebastián de La Gomera | Spain | from €690/mo | 13 nights | Permanent |
 | [Casa Capitán Coliving](/coliving/casa-capitan-coliving/index.md) | Guargacho, Tenerife | Spain | from €960/mo | 1 night | Permanent |
 | [Casa Gori — Coliving, Art Studio & Gardens](/coliving/casa-gori-coliving-art-studio-and-gardens/index.md) | Valencia | Spain | from €1,200/mo | 3 months | Permanent |

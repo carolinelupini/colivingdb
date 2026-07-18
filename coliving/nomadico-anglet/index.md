@@ -1,6 +1,6 @@
 # Nomadico Anglet
 
-> Coliving in Anglet, France. Last updated July 17, 2026.
+> Coliving in Anglet, France. Last updated July 18, 2026.
 
 - **Location:** Anglet, France
 - **Type:** Pop-up / dated edition

@@ -1,6 +1,6 @@
 # COLIVING ROMA
 
-> Coliving in Mexico City, Mexico. Last updated July 17, 2026.
+> Coliving in Mexico City, Mexico. Last updated July 18, 2026.
 
 - **Location:** Mexico City, Mexico
 - **Type:** Permanent coliving

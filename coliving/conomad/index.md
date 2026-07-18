@@ -1,6 +1,6 @@
 # CoNomad
 
-> Coliving in Corralejo, Spain. Last updated July 17, 2026.
+> Coliving in Corralejo, Spain. Last updated July 18, 2026.
 
 - **Location:** Corralejo, Spain
 - **Type:** Permanent coliving

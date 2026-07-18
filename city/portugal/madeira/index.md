@@ -1,6 +1,6 @@
 # Coliving in Madeira, Portugal
 
-> 1 colivings in Madeira, Portugal, prices from €2,249 to €2,249 per month – last updated July 17, 2026.
+> 1 colivings in Madeira, Portugal, prices from €2,249 to €2,249 per month – last updated July 18, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Coworking Danang
 
-> Coliving in Da Nang, Vietnam. Last updated July 17, 2026.
+> Coliving in Da Nang, Vietnam. Last updated July 18, 2026.
 
 - **Location:** Da Nang, Vietnam
 - **Type:** Permanent coliving

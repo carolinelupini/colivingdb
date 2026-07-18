@@ -1,6 +1,6 @@
 # El Nido Home II
 
-> Coliving in El Nido, Philippines. Last updated July 17, 2026.
+> Coliving in El Nido, Philippines. Last updated July 18, 2026.
 
 - **Location:** El Nido, Philippines
 - **Type:** Permanent coliving

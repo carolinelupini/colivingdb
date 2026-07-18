@@ -1,6 +1,6 @@
 # Coliving in Monteverde (Santa Elena), Costa Rica
 
-> 1 colivings in Monteverde (Santa Elena), Costa Rica, prices from €4,001 to €4,001 per month – last updated July 17, 2026.
+> 1 colivings in Monteverde (Santa Elena), Costa Rica, prices from €4,001 to €4,001 per month – last updated July 18, 2026.
 
 ## All colivings
 

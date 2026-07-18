@@ -1,6 +1,6 @@
 # Coliving in Tanzania
 
-> 5 colivings in Tanzania, prices from €1,219 to €1,219 per month – last updated July 17, 2026.
+> 5 colivings in Tanzania, prices from €1,219 to €1,219 per month – last updated July 18, 2026.
 
 ## All colivings
 
