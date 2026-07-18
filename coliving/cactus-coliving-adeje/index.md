@@ -8,7 +8,7 @@
 - **Price note:** From €620/mo (individual room); €798/mo double. 2-month minimum.
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 842 Mbps down <small>· operator-reported</small><br><small>Operator speedtest 2026-07-17: 843 Mbps down / 713 up.</small>
+- **Wi-Fi (on-site):** 843 Mbps down <small>· operator-reported</small><br><small>Operator speedtest 2026-07-17: 843 Mbps down / 713 up.</small>
 - **Minimum stay:** 2 months
 - **Region:** Europe
 - **Tags:** community, coworking, island
