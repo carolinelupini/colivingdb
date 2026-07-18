@@ -9,7 +9,7 @@
 - **Price note:** coliving accommodation (shared room, Veteran tier, lowest tier) + coworking + community activities for the month-long chapter
 - **Room types:** private, shared
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 5 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 5 Mbps down <small>· operator-reported</small><br><small>Coliving home rated 5 mbps; island&#x27;s internet is &#x27;famously unreliable&#x27; so members get 24/7 access to a separate coworking hub (Hightide Coworks) with stable backup connectivity</small>
 - **Vibe:** Month-long coliving chapter mixing productive work sprints with daily hangouts, beach adventures, and communal dinners
 - **Minimum stay:** 28 nights
 - **Region:** Africa

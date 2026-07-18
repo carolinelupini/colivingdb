@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=5788718082649157130&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.0 (1 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 50 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 50 Mbps down <small>· operator-reported</small>
 - **Vibe:** A boutique, eco-friendly villa in a quiet jungle area outside El Nido town, with bamboo-inspired architecture offering a calm, nature-immersed retreat away from the busy town center.
 - **Minimum stay:** 30 nights
 - **Region:** Asia

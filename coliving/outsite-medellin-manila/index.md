@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=18389799859489496822&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (45 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 160 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 160 Mbps down <small>· operator-reported</small>
 - **Vibe:** Jungle vibes, urban life — green views with big city energy
 - **Minimum stay:** 2 nights
 - **Region:** Latin America

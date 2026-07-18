@@ -8,7 +8,7 @@
 - **Price note:** from BGN 1,301/mo studio (~€665)
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 100 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 100 Mbps down <small>· operator-reported</small><br><small>100 Mbps down/up</small>
 - **Vibe:** Modern, comfortable coliving 'in the heart of Riga' for digital nomads, interns, students, young professionals and creatives, with shared spaces 'perfect for socializing and collaborating.'
 - **Minimum stay:** 5 months
 - **Region:** Europe

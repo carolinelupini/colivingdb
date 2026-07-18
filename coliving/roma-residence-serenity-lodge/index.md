@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=8643929092497600829&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (210 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
-- **Wi-Fi (on-site):** 30 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 30 Mbps down <small>· operator-reported</small>
 - **Vibe:** warm, minimalist beach retreat community
 - **Minimum stay:** 30 nights
 - **Region:** Africa

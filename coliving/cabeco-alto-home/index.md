@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=7954301813179300421&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (23 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** Yes
-- **Wi-Fi (on-site):** 93 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 93 Mbps down <small>· operator-reported</small><br><small>93 Mbps down / 82 Mbps up; also described as fiber-optic internet</small>
 - **Vibe:** Community-and-adventure focused Madeira coliving/coworking built on optional group activities, new friendships, and relaxed, stress-free living.
 - **Minimum stay:** 30 nights
 - **Region:** Europe

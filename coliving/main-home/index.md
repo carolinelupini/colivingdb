@@ -8,7 +8,7 @@
 - **Price note:** from BGN 2,145/mo private room
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 61 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 61 Mbps down <small>· operator-reported</small><br><small>Published as 61 Mbps down / 47 Mbps up</small>
 - **Vibe:** Tranquil, nature-surrounded workspace with a garden for yoga and meditation, hosting digital nomads and entrepreneurs exploring the island
 - **Minimum stay:** 30 nights
 - **Region:** Latin America

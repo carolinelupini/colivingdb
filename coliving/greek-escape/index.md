@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=17862374320645359690&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (6 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 300 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 300 Mbps down <small>· operator-reported</small><br><small>300 Mbps via Starlink in the coworking area; individual rooms up to 100 Mbps, upload fluctuates 10-50 Mbps</small>
 - **Vibe:** 'A space to live fully and work productively' for 'curious, driven, and open-minded individuals' — calm, inspiring atmosphere with sea and nature views.
 - **Minimum stay:** 8 nights
 - **Region:** Europe

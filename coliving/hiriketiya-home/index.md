@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=5904124968667354870&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (18 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** Yes
-- **Wi-Fi (on-site):** 120 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 120 Mbps down <small>· operator-reported</small><br><small>120 Mbps down / 60 Mbps up</small>
 - **Vibe:** Calm, comfy jungle-side beach villa built by former guests, centered on surf, wellness and jungle exploration — 'come for a week, stay for a season.'
 - **Minimum stay:** 30 nights
 - **Region:** Asia

@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=13703675284766932758&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (1 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
-- **Wi-Fi (on-site):** 800 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 800 Mbps down <small>· operator-reported</small><br><small>800 Mbps down / 900 Mbps up (as published)</small>
 - **Vibe:** Coliving, hostel, coworking and community combined — 'the perfect balance between a quiet space to do your work and, at the same time, a sense of belonging to a community.'
 - **Minimum stay:** 30 nights
 - **Region:** Latin America

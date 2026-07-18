@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=9789151942003061221&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (16 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 500 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 500 Mbps down <small>· operator-reported</small><br><small>500/500 Mbps fiber optic in all rooms and common areas</small>
 - **Vibe:** 'We believe in slow living — and fast infrastructure' — intentional community living centered on belonging, contentment, nature, and long-lasting friendships.
 - **Minimum stay:** —
 - **Region:** Europe

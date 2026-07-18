@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=8177995679889318702&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (55 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 300 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 300 Mbps down <small>· operator-reported</small>
 - **Vibe:** The black hole of happiness, inspiring community blending work with paradise living
 - **Minimum stay:** —
 - **Region:** Latin America

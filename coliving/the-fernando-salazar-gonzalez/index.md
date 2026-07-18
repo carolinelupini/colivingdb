@@ -8,7 +8,7 @@
 - **Price note:** from BGN 1,467/mo for bed in 6-bed shared room
 - **Room types:** private, shared
 - **Dorm available:** Yes
-- **Wi-Fi (on-site):** 39 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 39 Mbps down <small>· operator-reported</small><br><small>Listed as 39 Mbps down / 84 Mbps up</small>
 - **Vibe:** 'We're building a community of digital nomads and travelers eager to connect,' with activities that help 'residents quickly form friendships, share meals, and enjoy spontaneous activities that create a familial sense of belonging.'
 - **Minimum stay:** 30 nights
 - **Region:** Europe

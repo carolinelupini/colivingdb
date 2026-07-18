@@ -9,7 +9,7 @@
 - **Price note:** bills included, weekly housekeeping, breakfast service
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 20 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 20 Mbps down <small>· operator-reported</small><br><small>Published as 20 Mbps down / 2 Mbps up</small>
 - **Vibe:** Work-focused coliving for entrepreneurs and remote professionals — desks in every room — balanced with shared dining and social spaces
 - **Minimum stay:** 30 nights
 - **Region:** Europe

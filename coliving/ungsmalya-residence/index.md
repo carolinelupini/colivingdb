@@ -8,7 +8,7 @@
 - **Price note:** from ~€494/mo private (Fishermen Style, shared bath)
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 10 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 10 Mbps down <small>· operator-reported</small><br><small>Listed as 10 Mbps down / 30 Mbps up</small>
 - **Vibe:** 'Our guests do not come to us to live in a 4-star hotel, but to get closer to nature and to concentrate on the essentials in life.'
 - **Minimum stay:** 30 nights
 - **Region:** Europe

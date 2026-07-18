@@ -8,7 +8,7 @@
 - **Price note:** from BGN 983/mo private (~€503)
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 44 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 44 Mbps down <small>· operator-reported</small><br><small>44 Mbps down / 36 Mbps up; also described as &quot;fast free Starlink Wi-Fi&quot;</small>
 - **Vibe:** Slow, locally-integrated coliving for digital nomads, remote workers, and skiers, with communal dinners, game nights, and a yoga-equipped tatami room.
 - **Minimum stay:** 30 nights
 - **Region:** Asia

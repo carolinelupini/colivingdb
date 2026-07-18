@@ -8,7 +8,7 @@
 - **Price note:** from BGN 1,269/month (~€649)
 - **Room types:** private, shared, dorm
 - **Dorm available:** Yes
-- **Wi-Fi (on-site):** 77 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 77 Mbps down <small>· operator-reported</small><br><small>77 Mbps down / 20 Mbps up published</small>
 - **Vibe:** Community-driven Moroccan coliving blending surf culture, skillshares, and multiple social/professional events per week.
 - **Minimum stay:** 30 nights
 - **Region:** Africa

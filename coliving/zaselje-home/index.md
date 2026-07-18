@@ -8,7 +8,7 @@
 - **Price note:** from BGN 2,761/mo private (~€1,412)
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 17 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 17 Mbps down <small>· operator-reported</small><br><small>Published as 17 Mbps down / 8 Mbps up</small>
 - **Vibe:** A 'wellbeing centre' blending work, yoga, and community events like live gigs and tea tasting for holistic living
 - **Minimum stay:** 30 nights
 - **Region:** Europe

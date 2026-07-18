@@ -9,7 +9,7 @@
 - **Price note:** coliving accommodation (shared room, Veteran tier) for the month-long chapter
 - **Room types:** private, shared
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 400 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 400 Mbps down <small>· operator-reported</small><br><small>Up to 400 Mbps</small>
 - **Vibe:** Peaceful mountain-retreat chapter in the Andes outside La Paz — slower rhythm, deep focused work during the week, big adventures (Uyuni salt flats, Death Road) on weekends.
 - **Minimum stay:** 28 nights
 - **Region:** Latin America

@@ -8,7 +8,7 @@
 - **Price note:** from BGN 1,517/mo ensuite, breakfast + weekly housekeeping incl.
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 200 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 200 Mbps down <small>· operator-reported</small><br><small>Published as 200 Mbps down / 150 Mbps up</small>
 - **Vibe:** Work-focused digital nomad community with 24/7 coworking access balanced by social activities like game nights and skill-sharing
 - **Minimum stay:** 30 nights
 - **Region:** Asia

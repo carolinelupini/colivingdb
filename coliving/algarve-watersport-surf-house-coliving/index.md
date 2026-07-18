@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=10693479291147269577&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (697 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 500 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 500 Mbps down <small>· operator-reported</small>
 - **Vibe:** cozy small-town surf-and-work community
 - **Minimum stay:** —
 - **Region:** Europe

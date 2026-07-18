@@ -8,7 +8,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=4330893061079356100&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (72 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
-- **Wi-Fi (on-site):** 100 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 100 Mbps down <small>· operator-reported</small>
 - **Vibe:** Surfing, yoga, and coworking in perfect harmony
 - **Minimum stay:** —
 - **Region:** Asia

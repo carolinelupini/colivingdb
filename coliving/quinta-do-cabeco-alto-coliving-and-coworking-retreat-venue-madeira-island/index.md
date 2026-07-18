@@ -8,7 +8,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=7954301813179300421&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (23 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 1000 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 1000 Mbps down <small>· operator-reported</small><br><small>Published as &#x27;1 Gbps fiber-optic internet available throughout the estate&#x27;</small>
 - **Vibe:** Work-focused yet tranquil countryside retreat for entrepreneurs and creatives seeking calm, focused thinking away from urban distractions
 - **Minimum stay:** —
 - **Region:** Europe

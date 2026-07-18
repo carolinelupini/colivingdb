@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=11724637721823963213&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (14 reviews)</a> <small>· Google</small>
 - **Room types:** —
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 457 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 457 Mbps down <small>· operator-reported</small>
 - **Vibe:** A restored 17th-century farm retreat in rural Soure balancing work, rest, and regenerative/sustainable living with hiking, yoga, and close-knit community.
 - **Minimum stay:** 1 night
 - **Region:** Europe

@@ -8,7 +8,7 @@
 - **Price note:** from BGN 2,915/mo private room
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 760 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 760 Mbps down <small>· operator-reported</small><br><small>760 Mbps down / 320 Mbps up</small>
 - **Vibe:** 'The atmosphere is social but respectful, with a strong focus on quiet work hours during the day.'
 - **Minimum stay:** 30 nights
 - **Region:** Europe

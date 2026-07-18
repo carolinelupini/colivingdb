@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=14957281473726073955&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (84 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 200 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 200 Mbps down <small>· operator-reported</small><br><small>Operator site (tertulia.farm) was blocked by a captcha wall; 200 Mbps figure sourced from a third-party booking listing (ecobnb.com) describing the property, not confirmed directly from the operator</small>
 - **Vibe:** International community in a restored 18th-century forest hamlet, combining remote work with agricultural projects, shared meals, and sustainable off-grid living.
 - **Minimum stay:** 7 nights
 - **Region:** Europe

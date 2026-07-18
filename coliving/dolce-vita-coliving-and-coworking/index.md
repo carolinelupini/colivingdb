@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=8698690295753212342&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (25 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 10000 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 10000 Mbps down <small>· operator-reported</small><br><small>10 Gigabit fiber internet line</small>
 - **Vibe:** 'Live Like a Local' in a restored medieval hill-town village — sustainable, inclusive, pet-friendly community with shared pasta nights and sunset hikes.
 - **Minimum stay:** 7 nights
 - **Region:** Europe

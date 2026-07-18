@@ -8,7 +8,7 @@
 - **Price note:** €2,580/month (discounted from €2,700); from €90/night
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 300 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 300 Mbps down <small>· operator-reported</small><br><small>300 Mbps standard connection; ultrafast 1 Gb/s fiber also available from Orange as an upgrade</small>
 - **Vibe:** Workation-focused coliving blending urban-caliber productivity with slow, lakeside nature living
 - **Minimum stay:** 1 night
 - **Region:** Europe

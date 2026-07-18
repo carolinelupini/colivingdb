@@ -8,7 +8,7 @@
 - **Price note:** listing shows BGN 11,305/mo (~EUR 5,780), likely a pricing error
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 90 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 90 Mbps down <small>· operator-reported</small>
 - **Vibe:** A carefree, elegant retreat maintaining the spirit of traditional Greek hospitality, oriented toward digital nomads, entrepreneurs, and remote workers seeking connection through organized social events.
 - **Minimum stay:** 30 nights
 - **Region:** Europe

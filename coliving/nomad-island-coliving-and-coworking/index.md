@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=13701338126837150352&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (5 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 100 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 100 Mbps down <small>· operator-reported</small><br><small>100 Mbps &quot;superfast Wi-Fi&quot; on a dedicated line</small>
 - **Vibe:** Vibrant multicultural family-style coliving and coworking balancing deep work with community dinners, weekly events, hikes, and cultural exploration.
 - **Minimum stay:** —
 - **Region:** Europe

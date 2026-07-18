@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=4326956000851281722&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (22 reviews)</a> <small>· Google</small>
 - **Room types:** private, apartment
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 94 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 94 Mbps down <small>· operator-reported</small>
 - **Vibe:** A lively, friendly community for remote workers and travelers with cozy common areas to hang out or work together, emphasizing immersion in local Tenerife North life, nature, community, and personal privacy.
 - **Minimum stay:** 6 nights
 - **Region:** Europe

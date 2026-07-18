@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=15531930625782724444&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (229 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared, dorm
 - **Dorm available:** Yes
-- **Wi-Fi (on-site):** 200 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 200 Mbps down <small>· operator-reported</small>
 - **Vibe:** farm retreat blending yoga and community living
 - **Minimum stay:** 30 nights
 - **Region:** Europe

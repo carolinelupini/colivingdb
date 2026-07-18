@@ -8,7 +8,7 @@
 - **Price note:** shared from BGN 671/mo; privates from ~BGN 843/mo
 - **Room types:** private, shared
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 150 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 150 Mbps down <small>· operator-reported</small><br><small>150 Mbps down/up</small>
 - **Vibe:** 'Ready-to-live-in housing in a lively area' welcoming digital nomads, professionals, entrepreneurs, students and business people 'looking for the joy of sharing.'
 - **Minimum stay:** 30 nights
 - **Region:** Latin America

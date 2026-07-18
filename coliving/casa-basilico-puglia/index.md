@@ -9,7 +9,7 @@
 - **Price note:** private room, wifi, weekly cleaning, towels & linens, coworking space, shared dinners & cooking classes
 - **Room types:** —
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 1000 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 1000 Mbps down <small>· operator-reported</small>
 - **Vibe:** A hand-picked, dinner-party-style coliving in a Puglia masseria blending focused remote work with communal cooking, adventure, and genuine connection.
 - **Minimum stay:** 14 nights
 - **Region:** Europe

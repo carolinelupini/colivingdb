@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=10731116803587615468&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (17 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 500 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 500 Mbps down <small>· operator-reported</small>
 - **Vibe:** 'A lively, friendly atmosphere' for remote work and travel — 'creative and vibrant living' with 'the laid-back lifestyle of the South.'
 - **Minimum stay:** 14 nights
 - **Region:** Europe

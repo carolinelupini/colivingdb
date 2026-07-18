@@ -8,7 +8,7 @@
 - **Price note:** from ~€2,196/mo private twin
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 100 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 100 Mbps down <small>· operator-reported</small>
 - **Vibe:** 'Our community is intended for freelancers, remote workers, or business owners who can work remotely and are looking for a community of like-minded people,' with regular activities and mountain adventures.
 - **Minimum stay:** 30 nights
 - **Region:** Europe

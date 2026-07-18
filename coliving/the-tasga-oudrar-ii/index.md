@@ -8,7 +8,7 @@
 - **Price note:** from BGN 2,445/month dorm (~€1,250); private from ~€2,850
 - **Room types:** private, dorm
 - **Dorm available:** Yes
-- **Wi-Fi (on-site):** 200 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 200 Mbps down <small>· operator-reported</small><br><small>200 Mbps down/up fiber</small>
 - **Vibe:** Surf-and-yoga camp combining coworking for entrepreneurs and startups with wellness activities and beach lifestyle.
 - **Minimum stay:** 30 nights
 - **Region:** Africa

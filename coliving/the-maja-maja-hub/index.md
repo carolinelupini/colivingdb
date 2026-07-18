@@ -8,7 +8,7 @@
 - **Price note:** from BGN 955/mo shared (~€488); private ~€697
 - **Room types:** private, shared
 - **Dorm available:** Yes
-- **Wi-Fi (on-site):** 100 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 100 Mbps down <small>· operator-reported</small><br><small>100 Mbps down / 100 Mbps up published</small>
 - **Vibe:** Community-focused living for professionals and remote workers, emphasizing networking, cultural exchange, and personal growth in thoughtfully designed common areas.
 - **Minimum stay:** 2 months
 - **Region:** Europe

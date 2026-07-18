@@ -8,7 +8,7 @@
 - **Price note:** est. from ~$52/night; members-only, up to 40% off
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 100 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 100 Mbps down <small>· operator-reported</small><br><small>&quot;High-Speed Wi-Fi - 100 Mbps&quot;</small>
 - **Vibe:** 'A calm, modern retreat' with a 'quiet, local neighborhood feel,' balancing work amenities with community events.
 - **Minimum stay:** —
 - **Region:** Latin America

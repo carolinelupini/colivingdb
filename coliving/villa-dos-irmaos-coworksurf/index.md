@@ -8,7 +8,7 @@
 - **Price note:** pricing only via booking dates
 - **Room types:** private, dorm
 - **Dorm available:** Yes
-- **Wi-Fi (on-site):** 500 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 500 Mbps down <small>· operator-reported</small>
 - **Vibe:** Homely coliving vibe blending entrepreneurial remote work with surf lifestyle and community activities like beach volleyball and jam nights
 - **Minimum stay:** —
 - **Region:** Europe

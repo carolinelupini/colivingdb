@@ -8,7 +8,7 @@
 - **Price note:** from BGN 852/mo private queen (~€436)
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 100 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 100 Mbps down <small>· operator-reported</small><br><small>Published as 100 Mbps down / 120 Mbps up</small>
 - **Vibe:** Work-friendly coliving with a strong social community — weekly karaoke, games nights, communal dinners
 - **Minimum stay:** 30 nights
 - **Region:** Asia

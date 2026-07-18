@@ -9,7 +9,7 @@
 - **Price note:** coliving accommodation (shared room, Veteran tier) for the month-long chapter
 - **Room types:** private, shared
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 95 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 95 Mbps down <small>· operator-reported</small>
 - **Vibe:** Laidback Pacific surf-town chapter blending beachfront coworking with surf, wellness activities, and nightly community sunset rituals
 - **Minimum stay:** 28 nights
 - **Region:** Latin America

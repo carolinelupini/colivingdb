@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=9837078619700085684&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (22 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 200 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 200 Mbps down <small>· operator-reported</small>
 - **Vibe:** A vibrant community balancing individuality and connection, positioned between mountains and sea as a source of inspiration and rejuvenation for digital nomads and creative professionals looking to learn, grow, and connect.
 - **Minimum stay:** 6 months
 - **Region:** Europe

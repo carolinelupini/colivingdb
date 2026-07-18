@@ -8,7 +8,7 @@
 - **Price note:** from BGN 1,467/mo (~€750) 4-bed shared room
 - **Room types:** private, shared
 - **Dorm available:** Yes
-- **Wi-Fi (on-site):** 100 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 100 Mbps down <small>· operator-reported</small><br><small>100 Mbps down / 40 Mbps up (&quot;Super-fast Internet access&quot;)</small>
 - **Vibe:** 'A collaborative community without boundaries (multicultural, multi-ethnic, multigenerational, and lgbtqia+)' focused on cultural exchange.
 - **Minimum stay:** 30 nights
 - **Region:** Europe

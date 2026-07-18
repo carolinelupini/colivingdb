@@ -8,7 +8,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=14143703219242689519&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (21 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 300 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 300 Mbps down <small>· operator-reported</small><br><small>&quot;Robust Internet hired for 300 Mb&quot; stated</small>
 - **Vibe:** A quiet coliving on a dead-end street in Querétaro's historic center, offering colonial-architecture charm for those wanting a calm, low-key setting.
 - **Minimum stay:** —
 - **Region:** Latin America

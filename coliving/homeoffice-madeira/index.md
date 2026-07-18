@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=6015537550028755787&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (243 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 350 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 350 Mbps down <small>· operator-reported</small>
 - **Vibe:** relaxed, friendship-focused, low-pressure social
 - **Minimum stay:** 1 night
 - **Region:** Europe

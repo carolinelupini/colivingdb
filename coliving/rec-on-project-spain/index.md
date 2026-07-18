@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=12668262004711917288&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (100 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 190 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 190 Mbps down <small>· operator-reported</small>
 - **Vibe:** Peaceful, nature-immersed creative and upcycled-design space in the mountains
 - **Minimum stay:** 12 nights
 - **Region:** Europe

@@ -8,7 +8,7 @@
 - **Price note:** from BGN 1,167/month private (~€597)
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 200 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 200 Mbps down <small>· operator-reported</small><br><small>200 Mbps down / 50 Mbps up</small>
 - **Vibe:** 'A warm and international community of remote workers, creatives, and long-term travelers' who value connection, comfort, and shared experiences.
 - **Minimum stay:** 30 nights
 - **Region:** Latin America

@@ -8,7 +8,7 @@
 - **Price note:** from BGN 656/mo (~€335) private room, coliving.com listing
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 300 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 300 Mbps down <small>· operator-reported</small><br><small>300 Mbps down / 100 Mbps up</small>
 - **Vibe:** A 32-room hostel offering 'an exceptional blend of location, convenience, and privacy' in George Town's cultural district.
 - **Minimum stay:** 30 nights
 - **Region:** Asia

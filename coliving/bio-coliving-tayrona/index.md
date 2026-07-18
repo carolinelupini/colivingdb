@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=2762998578243031467&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (48 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 60 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 60 Mbps down <small>· operator-reported</small>
 - **Vibe:** Regenerative, nature-focused coliving with conscious lifestyle and community
 - **Minimum stay:** 1 night
 - **Region:** Latin America

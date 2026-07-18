@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=784136680359382931&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (17 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 500 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 500 Mbps down <small>· operator-reported</small>
 - **Vibe:** A whimsical countryside retreat for creative remote workers, with literary-themed rooms, board games, and wine tasting fostering slow living and genuine community.
 - **Minimum stay:** 14 nights
 - **Region:** Europe

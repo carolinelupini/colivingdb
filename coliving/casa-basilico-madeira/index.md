@@ -9,7 +9,7 @@
 - **Price note:** private double room, wifi, weekly cleaning, shared kitchen & coworking, 2 on-site community managers, shared dinners & cooking classes
 - **Room types:** —
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 1000 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 1000 Mbps down <small>· operator-reported</small>
 - **Vibe:** Adventure and social — 'Unforgettable Weekends. Madeira keeps surprising you... Levadas through laurel forests, sunrises above the clouds.'
 - **Minimum stay:** 14 nights
 - **Region:** Europe

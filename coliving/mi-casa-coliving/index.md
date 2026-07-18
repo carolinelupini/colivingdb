@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=6708242565196513279&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (5 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 320 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 320 Mbps down <small>· operator-reported</small><br><small>320 Mbps published</small>
 - **Vibe:** An intentional-living coliving in Mexico for remote workers and travelers who want to slow down and feel part of local life rather than just pass through.
 - **Minimum stay:** 7 nights
 - **Region:** Latin America

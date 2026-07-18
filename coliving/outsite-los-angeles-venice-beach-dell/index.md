@@ -8,7 +8,7 @@
 - **Price note:** pricing via date selection
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 302 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 302 Mbps down <small>· operator-reported</small><br><small>302 Mbps published (&quot;High-Speed Wi-Fi — 302 Mbps&quot;)</small>
 - **Vibe:** An "Urban Garden Oasis" modern coastal home geared toward startups, sunshine, and beach life, offering a spacious live-work area and calm outdoor spots to unwind.
 - **Minimum stay:** —
 - **Region:** North America

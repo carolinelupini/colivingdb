@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=15997334694397107264&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (47 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 340 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 340 Mbps down <small>· operator-reported</small>
 - **Vibe:** Surfing and farming coliving following permaculture design principles
 - **Minimum stay:** 7 nights
 - **Region:** Europe

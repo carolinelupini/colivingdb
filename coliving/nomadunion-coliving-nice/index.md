@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=9074702164603577581&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (14 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 8000 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 8000 Mbps down <small>· operator-reported</small><br><small>&quot;8 Gbit/s Wifi Mesh with automatic backup&quot; stated (mesh network capacity claim, not a measured ISP figure)</small>
 - **Vibe:** Centrally located apartment coliving offering vibrant city life "without the party chaos," with an in-house community atmosphere for digital nomads and remote workers.
 - **Minimum stay:** 30 nights
 - **Region:** Europe

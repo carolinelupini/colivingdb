@@ -8,7 +8,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=15084291569146886748&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (10 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 1000 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 1000 Mbps down <small>· operator-reported</small><br><small>&quot;Business-grade 1 Gbps symmetric Google Fibre&quot; stated</small>
 - **Vibe:** East Austin creative-energy coliving for entrepreneurs, freelancers, and creatives, with outdoor deck/backyard spaces built for networking, collaborating, and unwinding.
 - **Community size:** 6 spacious rooms total
 - **Minimum stay:** —

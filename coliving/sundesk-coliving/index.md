@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=17912705381202313933&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (168 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 200 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 200 Mbps down <small>· operator-reported</small>
 - **Vibe:** focused work combined with relaxation and adventure
 - **Minimum stay:** 10 nights
 - **Region:** Africa

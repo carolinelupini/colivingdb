@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=598150023369955832&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (884 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 100 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 100 Mbps down <small>· operator-reported</small>
 - **Vibe:** modern lofts, productivity and community focused
 - **Minimum stay:** 2 nights
 - **Region:** Europe

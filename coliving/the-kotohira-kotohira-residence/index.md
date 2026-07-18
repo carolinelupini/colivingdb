@@ -8,7 +8,7 @@
 - **Price note:** from BGN 740/mo dorm (~€378); private ~€632
 - **Room types:** private, shared, dorm
 - **Dorm available:** Yes
-- **Wi-Fi (on-site):** 496 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 496 Mbps down <small>· operator-reported</small>
 - **Vibe:** 'The perfect blend of work and travel' — a vibrant, welcoming mix of digital nomads, remote workers, creatives, and entrepreneurs focused on building meaningful connections.
 - **Minimum stay:** 30 nights
 - **Region:** Asia

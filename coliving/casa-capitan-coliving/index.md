@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=9268707202288740420&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (18 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 1000 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 1000 Mbps down <small>· operator-reported</small>
 - **Vibe:** A welcoming, inspiring island coliving in South Tenerife pairing dedicated coworking with cozy communal spaces for social bonding among remote workers.
 - **Minimum stay:** 1 night
 - **Region:** Europe

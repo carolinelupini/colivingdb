@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=12897437038564931951&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (33 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 1000 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 1000 Mbps down <small>· operator-reported</small>
 - **Vibe:** Productive community, peer pressure to work, weekend exploration
 - **Minimum stay:** 7 nights
 - **Region:** Europe

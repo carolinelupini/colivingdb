@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=4423609154002561835&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (54 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 100 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 100 Mbps down <small>· operator-reported</small>
 - **Vibe:** Picturesque, community-oriented coliving space with classic San Francisco charm
 - **Minimum stay:** —
 - **Region:** North America

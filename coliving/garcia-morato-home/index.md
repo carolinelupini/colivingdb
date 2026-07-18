@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=16767292269131221328&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.0 (530 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 300 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 300 Mbps down <small>· operator-reported</small>
 - **Vibe:** social, collaborative live-work space for professionals
 - **Minimum stay:** 30 nights
 - **Region:** Europe

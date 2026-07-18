@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=18060894129745264272&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (15 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 327 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 327 Mbps down <small>· operator-reported</small>
 - **Vibe:** Classic Austin home blending creative/remote-work productivity with weekly community activities in a relaxed, eclectic neighborhood
 - **Minimum stay:** 2 nights
 - **Region:** North America

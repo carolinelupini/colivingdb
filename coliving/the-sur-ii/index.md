@@ -8,7 +8,7 @@
 - **Price note:** from BGN 1,650/month studio (~€844)
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 160 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 160 Mbps down <small>· operator-reported</small>
 - **Vibe:** 'A sanctuary for digital nomads, entrepreneurs, artists and creatives' blending music, art, nature and technology, with live music, DJ sessions and art workshops.
 - **Minimum stay:** 30 nights
 - **Region:** North America

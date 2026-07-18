@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=4038937007928880779&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (48 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 200 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 200 Mbps down <small>· operator-reported</small>
 - **Vibe:** Lively, friendly atmosphere for remote work and travel lovers
 - **Minimum stay:** 7 nights
 - **Region:** Europe

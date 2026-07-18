@@ -9,7 +9,7 @@
 - **Price note:** coliving accommodation (shared room, Veteran tier) + coworking + shared meals + community activities for the month-long chapter
 - **Room types:** private, shared
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 1000 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 1000 Mbps down <small>· operator-reported</small><br><small>Property wired with &#x27;1 Gig WiFi&#x27; (search-derived; direct fetch blocked)</small>
 - **Vibe:** A chill, retreat-style monthly coliving chapter in Agaete's lush valley for values-vetted remote professionals, blending peaceful mountain-and-sea scenery with community coworking.
 - **Minimum stay:** 28 nights
 - **Region:** Europe

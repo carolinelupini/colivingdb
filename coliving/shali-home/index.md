@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=10395165816309968410&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (1 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** Yes
-- **Wi-Fi (on-site):** 37 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 37 Mbps down <small>· operator-reported</small><br><small>37 Mbps down / 12 Mbps up</small>
 - **Vibe:** Work-focused coliving where weekdays are for productivity and weekends for exploring Siwa oasis culture — 'not a hotel vibe.'
 - **Minimum stay:** 30 nights
 - **Region:** Africa

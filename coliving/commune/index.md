@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=9188583200278775652&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 3.9 (19 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 55 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 55 Mbps down <small>· operator-reported</small><br><small>55 Mbps down / 43 Mbps up (last tested Jan 20, 2026)</small>
 - **Vibe:** Vibrant, work-focused coliving for digital nomads and professionals with strong community and wellness amenities (pool, yoga/meditation space, coworking access).
 - **Minimum stay:** —
 - **Region:** Asia

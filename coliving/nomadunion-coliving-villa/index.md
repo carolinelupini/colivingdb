@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=13882445529724868329&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (45 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 8000 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 8000 Mbps down <small>· operator-reported</small>
 - **Vibe:** Where community isn't a choice, it's a lifestyle
 - **Minimum stay:** 30 nights
 - **Region:** Europe

@@ -8,7 +8,7 @@
 - **Price note:** from BGN 1,097/mo (~€561) private room
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 70 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 70 Mbps down <small>· operator-reported</small>
 - **Vibe:** A community-based ranch & retreat for travelers, volunteers, and long-term residents who help care for the horses, with a calm, grounded daily life built on collaboration, natural handcrafted materials, and sustainability.
 - **Minimum stay:** 30 nights
 - **Region:** Europe

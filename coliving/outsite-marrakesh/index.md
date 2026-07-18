@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=9988442975400267735&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (98 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 70 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 70 Mbps down <small>· operator-reported</small>
 - **Vibe:** Cultural immersion in a quintessential Berber riad
 - **Minimum stay:** 2 nights
 - **Region:** Africa

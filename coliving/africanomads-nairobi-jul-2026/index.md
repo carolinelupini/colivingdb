@@ -9,7 +9,7 @@
 - **Price note:** From $1,760/mo (Standard tier). Also: D+Work $1,840/mo, Master $1,980/mo. Book 2+ months → $100 off each. Includes: private room, WiFi & Starlink, local SIM w/ data, weekly communal dinner, weekend activities, hosts + community.
 - **Room types:** —
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 86 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 86 Mbps down <small>· operator-reported</small><br><small>Operator speedtest 2026-07: 86-140 Mbps across the house.</small>
 - **Vibe:** Blends urban adventure and cultural exploration with community living and dedicated coworking space
 - **Minimum stay:** —
 - **Region:** Africa

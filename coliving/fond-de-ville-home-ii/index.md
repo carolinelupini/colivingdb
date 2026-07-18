@@ -8,7 +8,7 @@
 - **Price note:** from ~€935/mo bed in 4-bed shared room; privates from ~€1,490
 - **Room types:** private, shared
 - **Dorm available:** Yes
-- **Wi-Fi (on-site):** 120 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 120 Mbps down <small>· operator-reported</small><br><small>120↓/15↑ Mbps</small>
 - **Vibe:** A vibrant alpine adventure coliving in the Swiss mountains blending skiing and trail exploration with multiple weekly social and professional events for digital nomads and entrepreneurs.
 - **Minimum stay:** 30 nights
 - **Region:** Europe

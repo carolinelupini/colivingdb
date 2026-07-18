@@ -7,7 +7,7 @@
 - **Price:** On request
 - **Room types:** private, dorm
 - **Dorm available:** Yes
-- **Wi-Fi (on-site):** 100 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 100 Mbps down <small>· operator-reported</small><br><small>Published as an average of 100-200 Mbps, described as the fastest and most reliable wifi on the island</small>
 - **Vibe:** Pool-centered social hub balancing productive coworking with surf adventure and community gatherings
 - **Minimum stay:** —
 - **Region:** Asia

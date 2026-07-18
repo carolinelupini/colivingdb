@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=8634409562765290527&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (27 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 800 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 800 Mbps down <small>· operator-reported</small>
 - **Vibe:** Social, adventure-driven coliving with surf lessons, yoga, hiking, and kitesurfing for community-minded remote workers
 - **Minimum stay:** 14 nights
 - **Region:** Europe

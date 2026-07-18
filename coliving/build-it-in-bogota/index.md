@@ -8,7 +8,7 @@
 - **Price note:** from $1,055 USD/month all-inclusive standard private room
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 900 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 900 Mbps down <small>· operator-reported</small><br><small>Published as &#x27;Dual fiber 900 MB WiFi + Ethernet&#x27;, private desk in every room</small>
 - **Vibe:** Modern coliving blending focused private work with weekly social events, kitchen nights, and rooftop gatherings for remote professionals and expats
 - **Minimum stay:** 30 nights
 - **Region:** Latin America

@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=13685436236449680825&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (13 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 25 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 25 Mbps down <small>· operator-reported</small>
 - **Vibe:** 'A place where anyone can work smart, share ideas, build relationships and connect with a diverse group that seeks to challenge the status quo.'
 - **Minimum stay:** —
 - **Region:** Asia

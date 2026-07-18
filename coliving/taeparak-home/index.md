@@ -8,7 +8,7 @@
 - **Price note:** from BGN 554/mo dorm ≈ €283; private ~€551
 - **Room types:** private, dorm
 - **Dorm available:** Yes
-- **Wi-Fi (on-site):** 1000 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 1000 Mbps down <small>· operator-reported</small><br><small>1000 Mbps down / 500 Mbps up</small>
 - **Vibe:** 'Built for nomads, by nomads' — a friendly, respectful, interactive community with skill-sharing and group activities.
 - **Minimum stay:** 30 nights
 - **Region:** Asia

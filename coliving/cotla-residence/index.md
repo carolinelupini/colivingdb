@@ -8,7 +8,7 @@
 - **Price note:** from BGN 724/mo private Small Nest (~€370)
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 300 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 300 Mbps down <small>· operator-reported</small><br><small>300 Mbps down/up</small>
 - **Vibe:** 'Individuality meets collaboration and solitude dances with togetherness' — social but peaceful forested-village setting for nomads and young professionals.
 - **Minimum stay:** 30 nights
 - **Region:** Asia

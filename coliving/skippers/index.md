@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=5180216401480882720&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (67 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 200 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 200 Mbps down <small>· operator-reported</small>
 - **Vibe:** Down to earth, relaxing chill vibe for nomads
 - **Minimum stay:** 28 nights
 - **Region:** Africa

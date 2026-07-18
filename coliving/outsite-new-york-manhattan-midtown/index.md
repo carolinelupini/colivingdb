@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=14548676261777476116&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (85 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 230 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 230 Mbps down <small>· operator-reported</small>
 - **Vibe:** Traditional Manhattan brownstone with tree-lined streets and local vibe
 - **Minimum stay:** —
 - **Region:** North America

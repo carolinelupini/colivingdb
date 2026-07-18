@@ -8,7 +8,7 @@
 - **Price note:** from BGN 798/mo (~€408) 6-bed dorm
 - **Room types:** private, dorm
 - **Dorm available:** Yes
-- **Wi-Fi (on-site):** 48 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 48 Mbps down <small>· operator-reported</small>
 - **Vibe:** 'Communities thrive when members play an active role,' with regular events, skill-sharing, and exploration in a laid-back beach village setting.
 - **Minimum stay:** 30 nights
 - **Region:** Latin America

@@ -8,7 +8,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=16428264220361876854&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (143 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 500 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 500 Mbps down <small>· operator-reported</small>
 - **Vibe:** A warm, welcoming community for solo travelers and remote workers, offering only private rooms plus a peaceful coworking area and social spaces balancing productivity and connection.
 - **Minimum stay:** —
 - **Region:** Asia

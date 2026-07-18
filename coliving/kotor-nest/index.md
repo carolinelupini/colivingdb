@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=15530625909079387208&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (160 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 400 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 400 Mbps down <small>· operator-reported</small>
 - **Vibe:** community and comfort, relaxed Mediterranean lifestyle
 - **Minimum stay:** —
 - **Region:** Europe

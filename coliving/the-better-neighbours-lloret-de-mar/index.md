@@ -9,7 +9,7 @@
 - **Price note:** private double room w/ bathroom at Hotel Robson, coworking + shared kitchen + laundry, rooftop yoga, Spanish classes (subject to availability), day trips (Girona, Figueres, Barcelona) and local excursions.
 - **Room types:** —
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 250 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 250 Mbps down <small>· operator-reported</small>
 - **Vibe:** Retreat-style stay prioritizing privacy ('engage as much—or as little—as you wish') with optional community activities: rooftop yoga, coastal hikes, and participant-led workshops.
 - **Minimum stay:** —
 - **Region:** Europe

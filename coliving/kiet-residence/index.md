@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=5341532801769262967&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (44 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
-- **Wi-Fi (on-site):** 150 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 150 Mbps down <small>· operator-reported</small>
 - **Minimum stay:** 30 nights
 - **Region:** Asia
 - **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>

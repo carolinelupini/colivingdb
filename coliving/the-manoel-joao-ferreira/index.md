@@ -8,7 +8,7 @@
 - **Price note:** from BGN 465/mo (~€238) bed in 6-bed female dorm
 - **Room types:** private, shared
 - **Dorm available:** Yes
-- **Wi-Fi (on-site):** 80 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 80 Mbps down <small>· operator-reported</small><br><small>80 Mbps down / 90 Mbps up published</small>
 - **Vibe:** Coliving/coworking in Florianópolis balancing quiet work space with a sense of belonging among digital nomads, remote workers, and independent professionals.
 - **Minimum stay:** 30 nights
 - **Region:** Latin America

@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=3354911249333557472&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (23 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 400 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 400 Mbps down <small>· operator-reported</small>
 - **Vibe:** A relaxed coastal coliving home themed "Wild Coast, Clear Focus," pairing a dramatic Atlantic setting and outdoor decks with a large workspace tuned for productivity and communal meals in a homey kitchen.
 - **Minimum stay:** 2 nights
 - **Region:** Europe

@@ -9,7 +9,7 @@
 - **Price note:** coliving accommodation (couples-sharing room, Veteran tier) for the month-long chapter
 - **Room types:** private, shared
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 360 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 360 Mbps down <small>· operator-reported</small>
 - **Vibe:** Waterfront island-archipelago chapter with a 'split personality' — peaceful, chill beach life by day balanced with backpacker party culture (including the 'infamous Filthy Friday').
 - **Minimum stay:** 28 nights
 - **Region:** Latin America

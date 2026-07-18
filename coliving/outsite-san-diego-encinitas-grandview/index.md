@@ -8,7 +8,7 @@
 - **Price note:** nightly ~$229.90 comparable; members only
 - **Room types:** private, shared
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 141 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 141 Mbps down <small>· operator-reported</small><br><small>&#x27;Reliable, fast internet throughout the house&#x27; at 141 Mbps</small>
 - **Vibe:** A laid-back surf-town coliving in Encinitas — 'the ultimate surf retreat with an ocean view office' — blending beach culture with remote-work flexibility.
 - **Minimum stay:** 2 nights
 - **Region:** North America

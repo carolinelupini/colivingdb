@@ -8,7 +8,7 @@
 - **Price note:** pricing via date selection, members only
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 65 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 65 Mbps down <small>· operator-reported</small>
 - **Vibe:** 'Modern SoCal Home — Start Ups, Sunshine and Beaches' in 'a quieter corner of Venice, with hidden gems' — bright, contemporary home on a tree-lined street.
 - **Minimum stay:** —
 - **Region:** North America

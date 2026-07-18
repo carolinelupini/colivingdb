@@ -8,7 +8,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=307906293147883647&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (5 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 1000 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 1000 Mbps down <small>· operator-reported</small><br><small>Fiber internet (1000+ Mbps)</small>
 - **Vibe:** 'The perfect balance of privacy, productivity, and community' bringing together entrepreneurs, digital nomads, and remote workers in workation environments meant to 'inspire growth' and 'celebrate shared success.'
 - **Minimum stay:** 30 nights
 - **Region:** Europe

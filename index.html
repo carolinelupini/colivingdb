@@ -1854,7 +1854,7 @@ function updateCmpBar(){
 }
 function cmpWifi(x){
   const d=x.details||{};
-  if(d.wifiMbps) return `${d.wifiMbps} Mbps <small>(operator)</small>`;
+  if(d.wifiMbps) return `${d.wifiMbps} Mbps down <small>(operator)</small>`;
   return d.wifiNote ? d.wifiNote : "—";
 }
 function buildCompare(){

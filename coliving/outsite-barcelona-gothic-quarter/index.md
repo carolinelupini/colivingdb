@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=18326668496720726155&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (25 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 800 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 800 Mbps down <small>· operator-reported</small>
 - **Vibe:** A 'Slow City Living' coliving space in a historic, thoughtfully renovated Gothic Quarter building — a 'Creative Old Town' retreat steps from indie cafés, pintxos bars, and centuries-old alleyways.
 - **Minimum stay:** 2 nights
 - **Region:** Europe

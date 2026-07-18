@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=8730210950366044496&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (88 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 100 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 100 Mbps down <small>· operator-reported</small><br><small>Published as 100 Mbps down / 80 Mbps up</small>
 - **Vibe:** Sustainable co-living/co-working paradise for a supportive community of digital nomads, freelancers, and creatives seeking peace, focus, and inspiration in nature
 - **Minimum stay:** 30 nights
 - **Region:** Europe

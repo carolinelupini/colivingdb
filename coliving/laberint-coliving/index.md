@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=13129825398249313793&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (8 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 1000 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 1000 Mbps down <small>· operator-reported</small>
 - **Vibe:** A family-run, community-focused coliving in Mallorca bridging local heritage with a conscious, purposeful remote-work lifestyle balanced by hiking and local experiences.
 - **Minimum stay:** 32 nights
 - **Region:** Europe

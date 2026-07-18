@@ -8,7 +8,7 @@
 - **Price note:** from ~$290/week; est. ~€1050/mo
 - **Room types:** private, shared
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 100 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 100 Mbps down <small>· operator-reported</small>
 - **Vibe:** Community and surf-culture focus — guests 'have new conversations, share passions and ideas, work together... get a taste of a new lifestyle' exploring Hossegor.
 - **Minimum stay:** 30 nights
 - **Region:** Europe

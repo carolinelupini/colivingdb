@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=15410603927461238755&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 3.8 (76 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 5 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 5 Mbps down <small>· operator-reported</small>
 - **Vibe:** Chill, quiet and peaceful pool environment with coworking space
 - **Minimum stay:** 30 nights
 - **Region:** North America

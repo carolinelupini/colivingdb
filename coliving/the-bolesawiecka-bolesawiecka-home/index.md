@@ -8,7 +8,7 @@
 - **Price note:** from BGN 1,260/mo private (~€644)
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 300 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 300 Mbps down <small>· operator-reported</small>
 - **Vibe:** A homey, intimate coliving space shared with just two other rooms, run by a slow traveler for like-minded digital nomads, professionals, and students, with community dinners, movie nights, and social mixers in a relaxingly peaceful, central location.
 - **Minimum stay:** 30 nights
 - **Region:** Europe

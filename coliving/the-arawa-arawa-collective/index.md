@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=3315123624337555190&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (13 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 250 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 250 Mbps down <small>· operator-reported</small><br><small>250 Mbps down/up</small>
 - **Vibe:** 'A vibrant, inclusive, and digitally savvy travel community' spanning solo adventurers and digital nomads to families and social travelers.
 - **Minimum stay:** 30 nights
 - **Region:** Oceania

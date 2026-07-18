@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=2545024632256509310&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (97 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 1000 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 1000 Mbps down <small>· operator-reported</small>
 - **Vibe:** Great atmosphere where tenants often hang out together
 - **Minimum stay:** 14 nights
 - **Region:** Europe

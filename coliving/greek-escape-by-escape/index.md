@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=17862374320645359690&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (6 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 100 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 100 Mbps down <small>· operator-reported</small><br><small>Up to 100 Mbps via Starlink connection (upload fluctuating 10-50 Mbps)</small>
 - **Vibe:** Entrepreneur and community focused, for people 'launching a product, consulting clients, or creating art,' balancing 'focus, community, and relaxation.'
 - **Minimum stay:** 7 nights
 - **Region:** Europe

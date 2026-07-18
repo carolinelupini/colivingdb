@@ -8,7 +8,7 @@
 - **Price note:** from BGN 1,956/mo (~€1,000) private room
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 932 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 932 Mbps down <small>· operator-reported</small>
 - **Vibe:** A serene, intimate oasis in the heart of bustling Palermo where guests can work, relax, or connect — a gathering place for remote professionals and travelers seeking slow living and authentic local experiences.
 - **Minimum stay:** 30 nights
 - **Region:** Europe

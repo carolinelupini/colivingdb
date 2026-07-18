@@ -8,7 +8,7 @@
 - **Price note:** from BGN 587/mo studio; coworking +EUR 110/mo
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 100 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 100 Mbps down <small>· operator-reported</small><br><small>100 Mbps down / 120 Mbps up</small>
 - **Vibe:** 'We welcome open-minded people looking for adventures and willing to explore the world in a friendly environment,' with regular social events and communal dining.
 - **Minimum stay:** 30 nights
 - **Region:** Europe

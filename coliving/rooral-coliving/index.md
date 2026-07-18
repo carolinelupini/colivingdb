@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=17669447235745365489&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (105 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 1000 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 1000 Mbps down <small>· operator-reported</small>
 - **Vibe:** Rooted, lively community retreat blending remote work with village life and nature
 - **Minimum stay:** 1 night
 - **Region:** Europe

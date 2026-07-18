@@ -8,7 +8,7 @@
 - **Price note:** from BGN 944/month studio (~€483)
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 211 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 211 Mbps down <small>· operator-reported</small><br><small>211 Mbps down / 29 Mbps up</small>
 - **Vibe:** 'We welcome people from all around the world who wish to live their lives to the utmost,' combining coworking infrastructure with social connection.
 - **Minimum stay:** 30 nights
 - **Region:** Latin America

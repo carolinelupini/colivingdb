@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=6309922115786516998&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.2 (185 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 100 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 100 Mbps down <small>· operator-reported</small>
 - **Vibe:** restored heritage meets modern urban premium coliving
 - **Minimum stay:** 6 nights
 - **Region:** Asia

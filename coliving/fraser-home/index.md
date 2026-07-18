@@ -8,7 +8,7 @@
 - **Price note:** from BGN 631/mo (~€323) private en-suite
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 50 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 50 Mbps down <small>· operator-reported</small>
 - **Vibe:** A welcoming, affordable community for students, young professionals, and digital nomads, with community dinners, coworking sessions, networking events, and social mixers.
 - **Minimum stay:** 30 nights
 - **Region:** Asia

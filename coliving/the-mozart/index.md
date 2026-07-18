@@ -8,7 +8,7 @@
 - **Price note:** from BGN 3,111/mo, double ensuite
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 600 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 600 Mbps down <small>· operator-reported</small><br><small>600↓/600↑ Mbps</small>
 - **Vibe:** A historic, beachfront coliving in Las Palmas with an 'everybody knows your name' community feel, organized dinners, fitness classes, and game nights for digital nomads and entrepreneurs.
 - **Minimum stay:** 30 nights
 - **Region:** Europe

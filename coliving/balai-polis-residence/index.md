@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=5931004115209263723&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (3 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm, shared
 - **Dorm available:** Yes
-- **Wi-Fi (on-site):** 800 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 800 Mbps down <small>· operator-reported</small><br><small>Site states 800↓/300↑ Mbps; resident reviews note some inconsistency in practice</small>
 - **Vibe:** Social, community-driven residence with active programming (food tours, events) and shared spaces functioning as social hubs in a vibrant Chinatown location.
 - **Minimum stay:** 30 nights
 - **Region:** Asia

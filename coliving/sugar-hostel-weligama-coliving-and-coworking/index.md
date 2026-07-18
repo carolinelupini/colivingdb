@@ -8,7 +8,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=13848112196484054190&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (337 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
-- **Wi-Fi (on-site):** 300 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 300 Mbps down <small>· operator-reported</small>
 - **Vibe:** A boho-charm hostel/coliving space with a chill yet productive vibe, 100 meters from the surf point, blending a co-working cafe with a friendly, laid-back community of travelers, surfers, and digital nomads — not a party hostel.
 - **Minimum stay:** 7 nights
 - **Region:** Asia

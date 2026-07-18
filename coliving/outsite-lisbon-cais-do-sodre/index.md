@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=17050459639401373019&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (175 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 99 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 99 Mbps down <small>· operator-reported</small>
 - **Vibe:** art, coffee, and connection in a heritage building
 - **Minimum stay:** 2 nights
 - **Region:** Europe

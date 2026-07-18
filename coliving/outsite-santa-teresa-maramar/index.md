@@ -8,7 +8,7 @@
 - **Price note:** est.; prices behind date-select
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 40 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 40 Mbps down <small>· operator-reported</small><br><small>40 Mbps published (&quot;High-Speed Wi-Fi — 40 Mbps&quot;)</small>
 - **Vibe:** Ocean-view jungle villa above a sleepy Pacific surf town, offering barefoot living, elevated open-air coworking, and a balance of focus and downtime.
 - **Minimum stay:** —
 - **Region:** Latin America

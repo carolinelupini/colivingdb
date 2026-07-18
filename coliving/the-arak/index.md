@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=12738877765097543723&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (87 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 600 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 600 Mbps down <small>· operator-reported</small>
 - **Vibe:** Welcoming community-focused space for collaboration among digital nomads
 - **Minimum stay:** 30 nights
 - **Region:** Asia

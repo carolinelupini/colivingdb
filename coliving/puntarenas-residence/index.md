@@ -8,7 +8,7 @@
 - **Price note:** ~€4,001/mo private incl. breakfast + lunch
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 111 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 111 Mbps down <small>· operator-reported</small><br><small>111 Mbps down / 12 Mbps up</small>
 - **Vibe:** A newly built property with 'modern, well-equipped rooms, along with bright and spacious common areas where guests can relax, and a co-working space,' set amid cloudforest biodiversity with a focus on local education projects.
 - **Minimum stay:** 30 nights
 - **Region:** Latin America

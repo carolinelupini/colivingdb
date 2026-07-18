@@ -8,7 +8,7 @@
 - **Price note:** from ~€457/mo private (shared bath); studios to ~€805
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 110 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 110 Mbps down <small>· operator-reported</small><br><small>Published as 110 Mbps down / 15 Mbps up</small>
 - **Vibe:** Intentional, spiritually-minded community of about 15 people pursuing regenerative, self-sufficient living, with yoga, meditation, and artist/creative residents
 - **Minimum stay:** 30 nights
 - **Region:** Latin America

@@ -8,7 +8,7 @@
 - **Price note:** from BGN 515/mo private room w/ ensuite
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 625 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 625 Mbps down <small>· operator-reported</small><br><small>625 Mbps down / 588 Mbps up published</small>
 - **Vibe:** A vetted, social Quito coliving welcoming digital nomads, mountaineers, professionals, entrepreneurs, and students to unwind and mingle in shared lounge and garden spaces.
 - **Minimum stay:** 30 nights
 - **Region:** Latin America

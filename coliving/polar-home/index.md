@@ -8,7 +8,7 @@
 - **Price note:** from BGN 392/mo (8-bed dorm)
 - **Room types:** dorm
 - **Dorm available:** Yes
-- **Wi-Fi (on-site):** 5 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 5 Mbps down <small>· operator-reported</small><br><small>5 Mbps down / 5 Mbps up published</small>
 - **Vibe:** Lively, social Tulum coliving for digital nomads, surfers, and young professionals, with a terrace bar, nightlife outings, community dinners, and skill-sharing workshops.
 - **Minimum stay:** 30 nights
 - **Region:** North America

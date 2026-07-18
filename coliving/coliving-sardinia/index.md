@@ -8,7 +8,7 @@
 - **Price note:** from €40/night single; monthly from €950
 - **Room types:** private, shared
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 100 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 100 Mbps down <small>· operator-reported</small>
 - **Vibe:** A Mediterranean home for movement, exploration, and meaningful connections — morning yoga by the sea, bouldering on granite rocks, and diving in crystal-clear waters — balancing productivity with relaxation at one's own pace.
 - **Minimum stay:** 14 nights
 - **Region:** Europe

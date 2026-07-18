@@ -8,7 +8,7 @@
 - **Price note:** from BGN 2,037/mo
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 20 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 20 Mbps down <small>· operator-reported</small>
 - **Vibe:** A cosy, community-driven coliving space for digital nomads, entrepreneurs, founders, remote workers, and young professionals, with a high volume of social events (80% free and open to the public) spanning cooking workshops, game nights, group fitness, and nightlife outings.
 - **Minimum stay:** 30 nights
 - **Region:** Africa

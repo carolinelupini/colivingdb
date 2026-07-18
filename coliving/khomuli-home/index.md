@@ -8,7 +8,7 @@
 - **Price note:** from BGN 376/mo (~€192) shared room
 - **Room types:** private, shared
 - **Dorm available:** Yes
-- **Wi-Fi (on-site):** 80 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 80 Mbps down <small>· operator-reported</small><br><small>Published as 80 Mbps down / 80 Mbps up</small>
 - **Vibe:** Eco-coliving in Georgian nature balancing productivity and relaxation, with campfire evenings and nomad meetups
 - **Minimum stay:** 30 nights
 - **Region:** Europe

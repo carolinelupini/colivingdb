@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=17446191595216124128&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (14 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** Yes
-- **Wi-Fi (on-site):** 50 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 50 Mbps down <small>· operator-reported</small><br><small>50 Mbps down / 10 Mbps up</small>
 - **Vibe:** Wellness-focused, laid-back coliving for surf-loving digital nomads and free spirits emphasizing conscious living, creativity, and family-style dinners.
 - **Minimum stay:** 30 nights
 - **Region:** Asia

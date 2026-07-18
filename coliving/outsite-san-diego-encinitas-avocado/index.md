@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=17779685540083248768&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (1 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 141 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 141 Mbps down <small>· operator-reported</small><br><small>&quot;High-Speed Wi-Fi - 141 Mbps&quot;</small>
 - **Vibe:** 'A calm, comfortable 3-bedroom duplex designed for easy coastal living' for members 'who prefer a quieter setting' — and an 'ultimate surf retreat.'
 - **Minimum stay:** —
 - **Region:** North America

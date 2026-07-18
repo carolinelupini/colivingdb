@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=8220068475405040602&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (52 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 500 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 500 Mbps down <small>· operator-reported</small><br><small>&#x27;Starlink WiFi up to 500Mbps&#x27;, dual screens at every coworking desk</small>
 - **Vibe:** Sober, curated villa community for founders, creatives, and remote workers — weekly accountability, skill-shares, and a quiet, focused, alcohol-free environment
 - **Minimum stay:** —
 - **Region:** Europe

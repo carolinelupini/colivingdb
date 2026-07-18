@@ -9,7 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=11904408966686221183&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (4 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 1500 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 1500 Mbps down <small>· operator-reported</small>
 - **Vibe:** Rural coliving 'created for those seeking focus, calm, and a slower rhythm of life... ideal for deep work and everyday balance,' co-run by a certified forest-bathing guide.
 - **Minimum stay:** 15 nights
 - **Region:** Europe

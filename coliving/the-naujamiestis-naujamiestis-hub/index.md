@@ -8,7 +8,7 @@
 - **Price note:** from BGN 1,362/mo studio (~€696)
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 193 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 193 Mbps down <small>· operator-reported</small><br><small>193 Mbps down / 267 Mbps up</small>
 - **Vibe:** 'Life here full of opportunities for socializing and making new friends,' aiming to 'create a strong sense of community centered around success.'
 - **Minimum stay:** 30 nights
 - **Region:** Europe

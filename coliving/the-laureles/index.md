@@ -8,7 +8,7 @@
 - **Price note:** from BGN 1,145/mo private room
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 260 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 260 Mbps down <small>· operator-reported</small><br><small>260 Mbps down / 380 Mbps up</small>
 - **Vibe:** 'Everyone is working online in the daytime so it's very relaxed and respectable' — 'the perfect place to meet wonderful souls straight away.'
 - **Minimum stay:** 30 nights
 - **Region:** Latin America

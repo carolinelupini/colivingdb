@@ -8,7 +8,7 @@
 - **Price note:** from BGN 1,340/mo studio (~€685)
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 100 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 100 Mbps down <small>· operator-reported</small><br><small>Symmetric 100↓/100↑ Mbps included in rent</small>
 - **Vibe:** Modern minimalist coliving hub in Vilnius blending independent living with curated social events for digital nomads, entrepreneurs, and students from 40+ countries.
 - **Minimum stay:** 5 months
 - **Region:** Europe

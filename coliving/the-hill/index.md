@@ -8,7 +8,7 @@
 - **Price note:** from BGN 2,375/mo
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 125 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 125 Mbps down <small>· operator-reported</small>
 - **Vibe:** Warm, vibrant community blending wellness (yoga, pool, garden) with social and collaborative work culture
 - **Minimum stay:** 30 nights
 - **Region:** Africa

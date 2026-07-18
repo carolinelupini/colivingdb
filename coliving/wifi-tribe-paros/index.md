@@ -9,7 +9,7 @@
 - **Price note:** boutique hotel accommodation (shared room, Veteran tier) + coworking + community activities for the month-long chapter
 - **Room types:** private, shared
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 80 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 80 Mbps down <small>· operator-reported</small><br><small>Up to 80 Mbps</small>
 - **Vibe:** Boutique-hotel takeover in the fishing village of Piso Livadi — calm, authentic village feel with beach days, boat trips, and island-hopping on weekends.
 - **Minimum stay:** 28 nights
 - **Region:** Europe

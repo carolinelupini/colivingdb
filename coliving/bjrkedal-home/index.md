@@ -8,7 +8,7 @@
 - **Price note:** from ~€626/mo private loft
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 500 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 500 Mbps down <small>· operator-reported</small><br><small>500 Mbps down / 500 Mbps up published</small>
 - **Vibe:** A rural Norwegian coliving "for people who really want to work," built on non-hierarchy, cooperation, and social connection alongside solitude and nature.
 - **Minimum stay:** 30 nights
 - **Region:** Europe

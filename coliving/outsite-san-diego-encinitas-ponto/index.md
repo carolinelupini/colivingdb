@@ -8,7 +8,7 @@
 - **Price note:** nightly $73.63-$229.90 comparable; members only
 - **Room types:** private, shared
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 141 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 141 Mbps down <small>· operator-reported</small>
 - **Vibe:** Laid-back, beach-first coliving prioritizing surf, hiking, and biking adventure alongside flexible remote work
 - **Minimum stay:** —
 - **Region:** North America

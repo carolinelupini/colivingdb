@@ -8,7 +8,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=11794843475333963091&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (20 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 200 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 200 Mbps down <small>· operator-reported</small>
 - **Vibe:** Warm, open, welcoming community that supports 'focused, comfortable, and productive work' while keeping Bali's relaxed rhythm.
 - **Minimum stay:** —
 - **Region:** Asia

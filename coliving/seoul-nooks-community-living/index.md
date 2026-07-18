@@ -8,7 +8,7 @@
 - **Price note:** €990/month (discounted from €1,170); €35/night
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 150 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 150 Mbps down <small>· operator-reported</small>
 - **Vibe:** Lively, friendly community for remote workers who love travel, blending work with genuine social connection
 - **Minimum stay:** 14 nights
 - **Region:** Asia

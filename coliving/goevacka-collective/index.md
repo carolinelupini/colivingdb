@@ -8,7 +8,7 @@
 - **Price note:** from BGN 3,872/mo incl. breakfast+dinner
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 100 Mbps <small>· operator-reported</small>
+- **Wi-Fi (on-site):** 100 Mbps down <small>· operator-reported</small><br><small>100↓/40↑ Mbps</small>
 - **Vibe:** A pine-forest, canyon-view retreat collective in Divcibare welcoming individuals, families, and groups with wellness activities, community dinners, and hiking.
 - **Minimum stay:** 30 nights
 - **Region:** Europe
