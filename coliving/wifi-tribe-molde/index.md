@@ -1,6 +1,6 @@
 # WiFi Tribe — Molde
 
-> Coliving in Molde, Norway. Last updated July 18, 2026.
+> Coliving in Molde, Norway. Last updated July 19, 2026.
 
 - **Location:** Molde, Norway
 - **Type:** Pop-up / dated edition

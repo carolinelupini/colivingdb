@@ -1,6 +1,6 @@
 # Coliving in Porto Cervo, Sardinia, Italy
 
-> 2 colivings in Porto Cervo, Sardinia, Italy, prices from €40 to €1,350 per month – last updated July 18, 2026.
+> 2 colivings in Porto Cervo, Sardinia, Italy, prices from €40 to €1,350 per month – last updated July 19, 2026.
 
 ## All colivings
 

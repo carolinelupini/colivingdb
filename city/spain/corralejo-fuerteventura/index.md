@@ -1,6 +1,6 @@
 # Coliving in Corralejo, Fuerteventura, Spain
 
-> 3 colivings in Corralejo, Fuerteventura, Spain, prices from €499 to €840 per month – last updated July 18, 2026.
+> 3 colivings in Corralejo, Fuerteventura, Spain, prices from €499 to €840 per month – last updated July 19, 2026.
 
 ## All colivings
 

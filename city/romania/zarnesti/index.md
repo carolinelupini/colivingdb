@@ -1,6 +1,6 @@
 # Coliving in Zărnești, Romania
 
-> 1 colivings in Zărnești, Romania, prices from €775 to €775 per month – last updated July 18, 2026.
+> 1 colivings in Zărnești, Romania, prices from €775 to €775 per month – last updated July 19, 2026.
 
 ## All colivings
 

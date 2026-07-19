@@ -1,6 +1,6 @@
 # La Loba - The Space
 
-> Coliving in Entrerríos, Spain. Last updated July 18, 2026.
+> Coliving in Entrerríos, Spain. Last updated July 19, 2026.
 
 - **Location:** Entrerríos, Spain
 - **Type:** Permanent coliving

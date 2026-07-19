@@ -1,6 +1,6 @@
 # colivingDB
 
-> A free, curated directory of 602 colivings worldwide — one map, native-currency pricing, no login and no email wall. Covers permanent colivings and dated pop-up editions across 83 countries. Last updated July 18, 2026.
+> A free, curated directory of 602 colivings worldwide — one map, native-currency pricing, no login and no email wall. Covers permanent colivings and dated pop-up editions across 83 countries. Last updated July 19, 2026.
 
 colivingDB is built and maintained by Caroline Lupini, a full-time digital nomad since 2014 who has lived and worked across more than a hundred countries. Listings are nomad-style colivings (shared living plus community, usually with coworking) — not student housing or urban rent-by-the-room operators. Every listing links to the operator's own site. Dead links are audited and removed.
 

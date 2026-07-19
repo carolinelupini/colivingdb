@@ -1,6 +1,6 @@
 # Mazal Waddo Residence
 
-> Coliving in Anjuna, Goa, India. Last updated July 18, 2026.
+> Coliving in Anjuna, Goa, India. Last updated July 19, 2026.
 
 - **Location:** Anjuna, Goa, India
 - **Type:** Permanent coliving

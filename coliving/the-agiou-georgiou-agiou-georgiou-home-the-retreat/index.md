@@ -1,6 +1,6 @@
 # The Agiou Georgiou (Agiou Georgiou Home / The Retreat)
 
-> Coliving in Maroni, Cyprus. Last updated July 18, 2026.
+> Coliving in Maroni, Cyprus. Last updated July 19, 2026.
 
 - **Location:** Maroni, Cyprus
 - **Type:** Permanent coliving

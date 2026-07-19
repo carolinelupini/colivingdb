@@ -1,6 +1,6 @@
 # Coliving in Rotorua, New Zealand
 
-> 1 colivings in Rotorua, New Zealand, prices from €815 to €815 per month – last updated July 18, 2026.
+> 1 colivings in Rotorua, New Zealand, prices from €815 to €815 per month – last updated July 19, 2026.
 
 ## All colivings
 

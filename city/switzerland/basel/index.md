@@ -1,6 +1,6 @@
 # Coliving in Basel, Switzerland
 
-> 2 colivings in Basel, Switzerland – last updated July 18, 2026.
+> 2 colivings in Basel, Switzerland – last updated July 19, 2026.
 
 ## All colivings
 

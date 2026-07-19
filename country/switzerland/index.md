@@ -1,6 +1,6 @@
 # Coliving in Switzerland
 
-> 12 colivings in Switzerland, prices from €500 to €2,196 per month – last updated July 18, 2026.
+> 12 colivings in Switzerland, prices from €500 to €2,196 per month – last updated July 19, 2026.
 
 ## All colivings
 

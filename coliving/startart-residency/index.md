@@ -1,6 +1,6 @@
 # StartArt Residency
 
-> Coliving in Loureira (near Braga), Portugal. Last updated July 18, 2026.
+> Coliving in Loureira (near Braga), Portugal. Last updated July 19, 2026.
 
 - **Location:** Loureira (near Braga), Portugal
 - **Type:** Permanent coliving

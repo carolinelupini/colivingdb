@@ -1,6 +1,6 @@
 # Noma Collective — Athens
 
-> Coliving in Athens, Greece. Last updated July 18, 2026.
+> Coliving in Athens, Greece. Last updated July 19, 2026.
 
 - **Location:** Athens, Greece
 - **Type:** Pop-up / dated edition

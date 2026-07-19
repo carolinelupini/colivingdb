@@ -1,6 +1,6 @@
 # Coliving in Jericó, Colombia
 
-> 1 colivings in Jericó, Colombia – last updated July 18, 2026.
+> 1 colivings in Jericó, Colombia – last updated July 19, 2026.
 
 ## All colivings
 

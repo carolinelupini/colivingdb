@@ -1,6 +1,6 @@
 # Draper Startup House Vina del Mar
 
-> Coliving in Vina del Mar, Chile. Last updated July 18, 2026.
+> Coliving in Vina del Mar, Chile. Last updated July 19, 2026.
 
 - **Location:** Vina del Mar, Chile
 - **Type:** Permanent coliving

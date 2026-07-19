@@ -1,6 +1,6 @@
 # Coliving in Vallo di Nera (Umbria), Italy
 
-> 1 colivings in Vallo di Nera (Umbria), Italy, prices from €599 to €599 per month – last updated July 18, 2026.
+> 1 colivings in Vallo di Nera (Umbria), Italy, prices from €599 to €599 per month – last updated July 19, 2026.
 
 ## All colivings
 

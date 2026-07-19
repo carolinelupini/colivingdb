@@ -1,6 +1,6 @@
 # HOMA Phuket Town
 
-> Coliving in Phuket, Thailand. Last updated July 18, 2026.
+> Coliving in Phuket, Thailand. Last updated July 19, 2026.
 
 - **Location:** Phuket, Thailand
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # The Ubud Residence (Raya Nyuh Kuning)
 
-> Coliving in Ubud, Indonesia. Last updated July 18, 2026.
+> Coliving in Ubud, Indonesia. Last updated July 19, 2026.
 
 - **Location:** Ubud, Indonesia
 - **Type:** Permanent coliving

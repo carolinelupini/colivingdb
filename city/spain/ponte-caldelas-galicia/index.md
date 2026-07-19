@@ -1,6 +1,6 @@
 # Coliving in Ponte Caldelas, Galicia, Spain
 
-> 1 colivings in Ponte Caldelas, Galicia, Spain, prices from €882 to €882 per month – last updated July 18, 2026.
+> 1 colivings in Ponte Caldelas, Galicia, Spain, prices from €882 to €882 per month – last updated July 19, 2026.
 
 ## All colivings
 

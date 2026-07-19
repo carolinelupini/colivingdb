@@ -1,6 +1,6 @@
 # U-Co Roma Coliving
 
-> Coliving in Mexico City, Mexico. Last updated July 18, 2026.
+> Coliving in Mexico City, Mexico. Last updated July 19, 2026.
 
 - **Location:** Mexico City, Mexico
 - **Type:** Permanent coliving

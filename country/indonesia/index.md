@@ -1,6 +1,6 @@
 # Coliving in Indonesia
 
-> 20 colivings in Indonesia, prices from €363 to €1,500 per month – last updated July 18, 2026.
+> 20 colivings in Indonesia, prices from €363 to €1,500 per month – last updated July 19, 2026.
 
 ## All colivings
 

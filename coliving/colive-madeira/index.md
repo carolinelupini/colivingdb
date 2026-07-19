@@ -1,6 +1,6 @@
 # Colive Madeira
 
-> Coliving in Ponta do Sol, Madeira, Portugal. Last updated July 18, 2026.
+> Coliving in Ponta do Sol, Madeira, Portugal. Last updated July 19, 2026.
 
 - **Location:** Ponta do Sol, Madeira, Portugal
 - **Type:** Permanent coliving

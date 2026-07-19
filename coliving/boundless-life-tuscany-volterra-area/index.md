@@ -1,6 +1,6 @@
 # Boundless Life — Tuscany (Volterra area)
 
-> Coliving in Tuscany (Volterra area), Italy. Last updated July 18, 2026.
+> Coliving in Tuscany (Volterra area), Italy. Last updated July 19, 2026.
 
 - **Location:** Tuscany (Volterra area), Italy
 - **Type:** Pop-up / dated edition

@@ -1,6 +1,6 @@
 # Coliving in South Korea
 
-> 3 colivings in South Korea, prices from €525 to €990 per month – last updated July 18, 2026.
+> 3 colivings in South Korea, prices from €525 to €990 per month – last updated July 19, 2026.
 
 ## All colivings
 

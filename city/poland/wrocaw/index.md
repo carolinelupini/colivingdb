@@ -1,6 +1,6 @@
 # Coliving in Wrocław, Poland
 
-> 1 colivings in Wrocław, Poland, prices from €644 to €644 per month – last updated July 18, 2026.
+> 1 colivings in Wrocław, Poland, prices from €644 to €644 per month – last updated July 19, 2026.
 
 ## All colivings
 

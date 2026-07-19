@@ -1,6 +1,6 @@
 # Coliving in Montenegro
 
-> 9 colivings in Montenegro, prices from €360 to €1,700 per month – last updated July 18, 2026.
+> 9 colivings in Montenegro, prices from €360 to €1,700 per month – last updated July 19, 2026.
 
 ## All colivings
 

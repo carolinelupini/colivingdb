@@ -1,6 +1,6 @@
 # Outsite Los Angeles - Venice Beach Dell
 
-> Coliving in Los Angeles, United States. Last updated July 18, 2026.
+> Coliving in Los Angeles, United States. Last updated July 19, 2026.
 
 - **Location:** Los Angeles, United States
 - **Type:** Permanent coliving

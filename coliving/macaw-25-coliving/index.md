@@ -1,6 +1,6 @@
 # Macaw 25 Coliving
 
-> Coliving in Las Palmas de Gran Canaria, Spain. Last updated July 18, 2026.
+> Coliving in Las Palmas de Gran Canaria, Spain. Last updated July 19, 2026.
 
 - **Location:** Las Palmas de Gran Canaria, Spain
 - **Type:** Permanent coliving

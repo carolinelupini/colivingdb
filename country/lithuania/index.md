@@ -1,6 +1,6 @@
 # Coliving in Lithuania
 
-> 2 colivings in Lithuania, prices from €685 to €696 per month – last updated July 18, 2026.
+> 2 colivings in Lithuania, prices from €685 to €696 per month – last updated July 19, 2026.
 
 ## All colivings
 

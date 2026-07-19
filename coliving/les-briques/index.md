@@ -1,6 +1,6 @@
 # Les Briques
 
-> Coliving in Lion-sur-Mer, France. Last updated July 18, 2026.
+> Coliving in Lion-sur-Mer, France. Last updated July 19, 2026.
 
 - **Location:** Lion-sur-Mer, France
 - **Type:** Permanent coliving

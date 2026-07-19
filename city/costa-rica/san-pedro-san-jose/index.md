@@ -1,6 +1,6 @@
 # Coliving in San Pedro, San José, Costa Rica
 
-> 1 colivings in San Pedro, San José, Costa Rica, prices from €457 to €457 per month – last updated July 18, 2026.
+> 1 colivings in San Pedro, San José, Costa Rica, prices from €457 to €457 per month – last updated July 19, 2026.
 
 ## All colivings
 

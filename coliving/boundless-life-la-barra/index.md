@@ -1,6 +1,6 @@
 # Boundless Life — La Barra
 
-> Coliving in La Barra, Uruguay. Last updated July 18, 2026.
+> Coliving in La Barra, Uruguay. Last updated July 19, 2026.
 
 - **Location:** La Barra, Uruguay
 - **Type:** Pop-up / dated edition

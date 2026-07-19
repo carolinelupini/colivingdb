@@ -1,6 +1,6 @@
 # Coliving in Ferrel (Baleal), Peniche, Portugal
 
-> 1 colivings in Ferrel (Baleal), Peniche, Portugal, prices from €1,470 to €1,470 per month – last updated July 18, 2026.
+> 1 colivings in Ferrel (Baleal), Peniche, Portugal, prices from €1,470 to €1,470 per month – last updated July 19, 2026.
 
 ## All colivings
 

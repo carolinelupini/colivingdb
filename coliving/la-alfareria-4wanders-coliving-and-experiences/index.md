@@ -1,6 +1,6 @@
 # La Alfarería | 4wanders | Coliving & Experiences
 
-> Coliving in Valencia, Spain. Last updated July 18, 2026.
+> Coliving in Valencia, Spain. Last updated July 19, 2026.
 
 - **Location:** Valencia, Spain
 - **Type:** Permanent coliving

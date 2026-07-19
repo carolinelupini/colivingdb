@@ -1,6 +1,6 @@
 # Boundless Life — Kotor
 
-> Coliving in Kotor, Montenegro. Last updated July 18, 2026.
+> Coliving in Kotor, Montenegro. Last updated July 19, 2026.
 
 - **Location:** Kotor, Montenegro
 - **Type:** Pop-up / dated edition

@@ -1,6 +1,6 @@
 # Playworking Coliving
 
-> Coliving in Đuraševići, Luštica Peninsula, Montenegro. Last updated July 18, 2026.
+> Coliving in Đuraševići, Luštica Peninsula, Montenegro. Last updated July 19, 2026.
 
 - **Location:** Đuraševići, Luštica Peninsula, Montenegro
 - **Type:** Permanent coliving

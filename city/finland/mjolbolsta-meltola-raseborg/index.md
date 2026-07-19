@@ -1,6 +1,6 @@
 # Coliving in Mjolbolsta (Meltola), Raseborg, Finland
 
-> 1 colivings in Mjolbolsta (Meltola), Raseborg, Finland, prices from €690 to €690 per month – last updated July 18, 2026.
+> 1 colivings in Mjolbolsta (Meltola), Raseborg, Finland, prices from €690 to €690 per month – last updated July 19, 2026.
 
 ## All colivings
 

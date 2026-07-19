@@ -1,6 +1,6 @@
 # Dot Coliv
 
-> Coliving in Dubai, United Arab Emirates. Last updated July 18, 2026.
+> Coliving in Dubai, United Arab Emirates. Last updated July 19, 2026.
 
 - **Location:** Dubai, United Arab Emirates
 - **Type:** Permanent coliving

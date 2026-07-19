@@ -1,6 +1,6 @@
 # Coliving in Byron Bay, Australia
 
-> 1 colivings in Byron Bay, Australia – last updated July 18, 2026.
+> 1 colivings in Byron Bay, Australia – last updated July 19, 2026.
 
 ## All colivings
 

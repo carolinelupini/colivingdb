@@ -1,6 +1,6 @@
 # Coliving in Legian, Bali, Indonesia
 
-> 1 colivings in Legian, Bali, Indonesia, prices from €580 to €580 per month – last updated July 18, 2026.
+> 1 colivings in Legian, Bali, Indonesia, prices from €580 to €580 per month – last updated July 19, 2026.
 
 ## All colivings
 

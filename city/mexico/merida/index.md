@@ -1,6 +1,6 @@
 # Coliving in Mérida, Mexico
 
-> 1 colivings in Mérida, Mexico – last updated July 18, 2026.
+> 1 colivings in Mérida, Mexico – last updated July 19, 2026.
 
 ## All colivings
 

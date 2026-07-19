@@ -1,6 +1,6 @@
 # Noma Collective — Budapest
 
-> Coliving in Budapest, Hungary. Last updated July 18, 2026.
+> Coliving in Budapest, Hungary. Last updated July 19, 2026.
 
 - **Location:** Budapest, Hungary
 - **Type:** Pop-up / dated edition

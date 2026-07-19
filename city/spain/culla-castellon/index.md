@@ -1,6 +1,6 @@
 # Coliving in Culla, Castellón, Spain
 
-> 1 colivings in Culla, Castellón, Spain, prices from €600 to €600 per month – last updated July 18, 2026.
+> 1 colivings in Culla, Castellón, Spain, prices from €600 to €600 per month – last updated July 19, 2026.
 
 ## All colivings
 

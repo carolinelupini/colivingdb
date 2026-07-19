@@ -1,6 +1,6 @@
 # Coliving in Valle d'Itria (Puglia), Italy
 
-> 1 colivings in Valle d'Itria (Puglia), Italy, prices from €650 to €650 per month – last updated July 18, 2026.
+> 1 colivings in Valle d'Itria (Puglia), Italy, prices from €650 to €650 per month – last updated July 19, 2026.
 
 ## All colivings
 

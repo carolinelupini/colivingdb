@@ -1,6 +1,6 @@
 # Coliving in Guchen (Saubissan), Pyrenees, France
 
-> 1 colivings in Guchen (Saubissan), Pyrenees, France, prices from €660 to €660 per month – last updated July 18, 2026.
+> 1 colivings in Guchen (Saubissan), Pyrenees, France, prices from €660 to €660 per month – last updated July 19, 2026.
 
 ## All colivings
 

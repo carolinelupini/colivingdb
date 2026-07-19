@@ -1,6 +1,6 @@
 # Coliving in Cusco, Peru
 
-> 1 colivings in Cusco, Peru, prices from €956 to €956 per month – last updated July 18, 2026.
+> 1 colivings in Cusco, Peru, prices from €956 to €956 per month – last updated July 19, 2026.
 
 ## All colivings
 

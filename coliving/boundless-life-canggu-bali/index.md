@@ -1,6 +1,6 @@
 # Boundless Life — Canggu, Bali
 
-> Coliving in Canggu, Bali, Indonesia. Last updated July 18, 2026.
+> Coliving in Canggu, Bali, Indonesia. Last updated July 19, 2026.
 
 - **Location:** Canggu, Bali, Indonesia
 - **Type:** Pop-up / dated edition
