@@ -1,6 +1,6 @@
 # Coliving in Multiple (Medellín; Oaxaca City; San Cristóbal), Multiple (Colombia, Mexico)
 
-> 1 colivings in Multiple (Medellín; Oaxaca City; San Cristóbal), Multiple (Colombia, Mexico), prices from €337 to €337 per month – last updated July 19, 2026.
+> 1 colivings in Multiple (Medellín; Oaxaca City; San Cristóbal), Multiple (Colombia, Mexico), prices from €337 to €337 per month – last updated July 21, 2026.
 
 ## All colivings
 

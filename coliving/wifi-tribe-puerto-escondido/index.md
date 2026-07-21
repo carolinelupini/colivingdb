@@ -1,6 +1,6 @@
 # WiFi Tribe — Puerto Escondido
 
-> Coliving in Puerto Escondido, Mexico. Last updated July 19, 2026.
+> Coliving in Puerto Escondido, Mexico. Last updated July 21, 2026.
 
 - **Location:** Puerto Escondido, Mexico
 - **Type:** Pop-up / dated edition

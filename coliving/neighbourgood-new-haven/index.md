@@ -1,6 +1,6 @@
 # Neighbourgood New Haven
 
-> Coliving in New Haven, United States. Last updated July 19, 2026.
+> Coliving in New Haven, United States. Last updated July 21, 2026.
 
 - **Location:** New Haven, United States
 - **Type:** Permanent coliving

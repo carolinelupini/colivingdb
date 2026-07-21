@@ -1,6 +1,6 @@
 # ecoVita
 
-> Coliving in San Priamo, San Vito, Sardinia, Italy. Last updated July 19, 2026.
+> Coliving in San Priamo, San Vito, Sardinia, Italy. Last updated July 21, 2026.
 
 - **Location:** San Priamo, San Vito, Sardinia, Italy
 - **Type:** Permanent coliving

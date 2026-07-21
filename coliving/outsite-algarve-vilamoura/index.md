@@ -1,6 +1,6 @@
 # Outsite Algarve - Vilamoura
 
-> Coliving in Vilamoura, Portugal. Last updated July 19, 2026.
+> Coliving in Vilamoura, Portugal. Last updated July 21, 2026.
 
 - **Location:** Vilamoura, Portugal
 - **Type:** Permanent coliving

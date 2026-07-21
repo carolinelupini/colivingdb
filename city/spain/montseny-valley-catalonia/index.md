@@ -1,6 +1,6 @@
 # Coliving in Montseny Valley, Catalonia, Spain
 
-> 1 colivings in Montseny Valley, Catalonia, Spain, prices from €1,020 to €1,020 per month – last updated July 19, 2026.
+> 1 colivings in Montseny Valley, Catalonia, Spain, prices from €1,020 to €1,020 per month – last updated July 21, 2026.
 
 ## All colivings
 

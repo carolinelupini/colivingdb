@@ -1,6 +1,6 @@
 # Anceu Coliving
 
-> Coliving in Ponte Caldelas, Galicia, Spain. Last updated July 19, 2026.
+> Coliving in Ponte Caldelas, Galicia, Spain. Last updated July 21, 2026.
 
 - **Location:** Ponte Caldelas, Galicia, Spain
 - **Type:** Permanent coliving

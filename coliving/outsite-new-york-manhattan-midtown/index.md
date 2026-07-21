@@ -1,6 +1,6 @@
 # Outsite New York - Manhattan Midtown
 
-> Coliving in New York, United States. Last updated July 19, 2026.
+> Coliving in New York, United States. Last updated July 21, 2026.
 
 - **Location:** New York, United States
 - **Type:** Permanent coliving

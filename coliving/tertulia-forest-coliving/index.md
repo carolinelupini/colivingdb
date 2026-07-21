@@ -1,6 +1,6 @@
 # Tertulia Forest Coliving
 
-> Coliving in Mugello, Tuscany, Italy. Last updated July 19, 2026.
+> Coliving in Mugello, Tuscany, Italy. Last updated July 21, 2026.
 
 - **Location:** Mugello, Tuscany, Italy
 - **Type:** Permanent coliving

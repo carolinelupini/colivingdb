@@ -1,6 +1,6 @@
 # La Casita Coliving
 
-> Coliving in Costa Adeje, Tenerife, Spain. Last updated July 19, 2026.
+> Coliving in Costa Adeje, Tenerife, Spain. Last updated July 21, 2026.
 
 - **Location:** Costa Adeje, Tenerife, Spain
 - **Type:** Permanent coliving

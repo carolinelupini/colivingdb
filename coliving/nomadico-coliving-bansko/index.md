@@ -1,6 +1,6 @@
 # Nomadico Coliving Bansko
 
-> Coliving in Bansko, Bulgaria. Last updated July 19, 2026.
+> Coliving in Bansko, Bulgaria. Last updated July 21, 2026.
 
 - **Location:** Bansko, Bulgaria
 - **Type:** Pop-up / dated edition

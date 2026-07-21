@@ -1,6 +1,6 @@
 # Mont Blanc Coliving
 
-> Coliving in Finhaut, Switzerland. Last updated July 19, 2026.
+> Coliving in Finhaut, Switzerland. Last updated July 21, 2026.
 
 - **Location:** Finhaut, Switzerland
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # Coliving in Osaka, Japan
 
-> 2 colivings in Osaka, Japan – last updated July 19, 2026.
+> 2 colivings in Osaka, Japan – last updated July 21, 2026.
 
 ## All colivings
 

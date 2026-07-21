@@ -1,6 +1,6 @@
 # Coliving in Las Palmas, Spain
 
-> 2 colivings in Las Palmas, Spain, prices from €990 to €1,533 per month – last updated July 19, 2026.
+> 2 colivings in Las Palmas, Spain, prices from €990 to €1,533 per month – last updated July 21, 2026.
 
 ## All colivings
 

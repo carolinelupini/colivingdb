@@ -1,6 +1,6 @@
 # Casa Capitán Coliving
 
-> Coliving in Guargacho, Tenerife, Spain. Last updated July 19, 2026.
+> Coliving in Guargacho, Tenerife, Spain. Last updated July 21, 2026.
 
 - **Location:** Guargacho, Tenerife, Spain
 - **Type:** Permanent coliving

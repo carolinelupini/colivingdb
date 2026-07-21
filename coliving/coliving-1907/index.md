@@ -1,6 +1,6 @@
 # Coliving 1907
 
-> Coliving in Las Palmas, Gran Canaria, Spain. Last updated July 19, 2026.
+> Coliving in Las Palmas, Gran Canaria, Spain. Last updated July 21, 2026.
 
 - **Location:** Las Palmas, Gran Canaria, Spain
 - **Type:** Permanent coliving

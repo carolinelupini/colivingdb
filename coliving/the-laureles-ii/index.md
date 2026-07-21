@@ -1,6 +1,6 @@
 # The Laureles II
 
-> Coliving in Medellin, Colombia. Last updated July 19, 2026.
+> Coliving in Medellin, Colombia. Last updated July 21, 2026.
 
 - **Location:** Medellin, Colombia
 - **Type:** Permanent coliving

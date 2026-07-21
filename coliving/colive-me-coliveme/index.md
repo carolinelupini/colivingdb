@@ -1,6 +1,6 @@
 # Colive Me (ColiveMe)
 
-> Coliving in Ahangama, Sri Lanka. Last updated July 19, 2026.
+> Coliving in Ahangama, Sri Lanka. Last updated July 21, 2026.
 
 - **Location:** Ahangama, Sri Lanka
 - **Type:** Permanent coliving

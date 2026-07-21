@@ -1,6 +1,6 @@
 # Coliving in Senderiz, Ourense, Galicia, Spain
 
-> 1 colivings in Senderiz, Ourense, Galicia, Spain, prices from €850 to €850 per month – last updated July 19, 2026.
+> 1 colivings in Senderiz, Ourense, Galicia, Spain, prices from €850 to €850 per month – last updated July 21, 2026.
 
 ## All colivings
 

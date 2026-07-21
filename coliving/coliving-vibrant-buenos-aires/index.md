@@ -1,6 +1,6 @@
 # Coliving Vibrant Buenos Aires
 
-> Coliving in Buenos Aires, Argentina. Last updated July 19, 2026.
+> Coliving in Buenos Aires, Argentina. Last updated July 21, 2026.
 
 - **Location:** Buenos Aires, Argentina
 - **Type:** Permanent coliving

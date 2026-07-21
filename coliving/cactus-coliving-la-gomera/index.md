@@ -1,6 +1,6 @@
 # Cactus Coliving La Gomera
 
-> Coliving in San Sebastián de La Gomera, Spain. Last updated July 19, 2026.
+> Coliving in San Sebastián de La Gomera, Spain. Last updated July 21, 2026.
 
 - **Location:** San Sebastián de La Gomera, Spain
 - **Type:** Permanent coliving

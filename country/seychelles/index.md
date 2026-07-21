@@ -1,6 +1,6 @@
 # Coliving in Seychelles
 
-> 1 colivings in Seychelles, prices from €1,394 to €1,394 per month – last updated July 19, 2026.
+> 1 colivings in Seychelles, prices from €1,394 to €1,394 per month – last updated July 21, 2026.
 
 ## All colivings
 

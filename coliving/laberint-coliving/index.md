@@ -1,6 +1,6 @@
 # Laberint Coliving
 
-> Coliving in Palma de Mallorca, Spain. Last updated July 19, 2026.
+> Coliving in Palma de Mallorca, Spain. Last updated July 21, 2026.
 
 - **Location:** Palma de Mallorca, Spain
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # Coliving in Uluwatu, Indonesia
 
-> 2 colivings in Uluwatu, Indonesia, prices from €479 to €479 per month – last updated July 19, 2026.
+> 2 colivings in Uluwatu, Indonesia, prices from €479 to €479 per month – last updated July 21, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Outsite San Francisco - Mission
 
-> Coliving in San Francisco, United States. Last updated July 19, 2026.
+> Coliving in San Francisco, United States. Last updated July 21, 2026.
 
 - **Location:** San Francisco, United States
 - **Type:** Permanent coliving

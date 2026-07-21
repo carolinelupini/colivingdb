@@ -1,6 +1,6 @@
 # Coliving in Arusha, Tanzania
 
-> 1 colivings in Arusha, Tanzania – last updated July 19, 2026.
+> 1 colivings in Arusha, Tanzania – last updated July 21, 2026.
 
 ## All colivings
 

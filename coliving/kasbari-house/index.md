@@ -1,6 +1,6 @@
 # Kasbari House
 
-> Coliving in Tamraght (near Taghazout/Agadir), Morocco. Last updated July 19, 2026.
+> Coliving in Tamraght (near Taghazout/Agadir), Morocco. Last updated July 21, 2026.
 
 - **Location:** Tamraght (near Taghazout/Agadir), Morocco
 - **Type:** Permanent coliving

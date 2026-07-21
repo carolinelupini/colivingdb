@@ -1,6 +1,6 @@
 # Hacker Paradise — Palermo
 
-> Coliving in Palermo, Italy. Last updated July 19, 2026.
+> Coliving in Palermo, Italy. Last updated July 21, 2026.
 
 - **Location:** Palermo, Italy
 - **Type:** Pop-up / dated edition

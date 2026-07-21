@@ -1,6 +1,6 @@
 # WorkNomads LAB Coliving
 
-> Coliving in Sofia, Bulgaria. Last updated July 19, 2026.
+> Coliving in Sofia, Bulgaria. Last updated July 21, 2026.
 
 - **Location:** Sofia, Bulgaria
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # Coliving in Belize
 
-> 3 colivings in Belize – last updated July 19, 2026.
+> 3 colivings in Belize – last updated July 21, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Banama Surfhouse - Coliving Coworking & Yoga
 
-> Coliving in Corralejo, Fuerteventura, Spain. Last updated July 19, 2026.
+> Coliving in Corralejo, Fuerteventura, Spain. Last updated July 21, 2026.
 
 - **Location:** Corralejo, Fuerteventura, Spain
 - **Type:** Permanent coliving

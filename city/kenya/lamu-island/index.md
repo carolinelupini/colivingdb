@@ -1,6 +1,6 @@
 # Coliving in Lamu Island, Kenya
 
-> 1 colivings in Lamu Island, Kenya – last updated July 19, 2026.
+> 1 colivings in Lamu Island, Kenya – last updated July 21, 2026.
 
 ## All colivings
 

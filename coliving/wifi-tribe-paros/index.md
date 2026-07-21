@@ -1,6 +1,6 @@
 # WiFi Tribe — Paros
 
-> Coliving in Paros, Greece. Last updated July 19, 2026.
+> Coliving in Paros, Greece. Last updated July 21, 2026.
 
 - **Location:** Paros, Greece
 - **Type:** Pop-up / dated edition

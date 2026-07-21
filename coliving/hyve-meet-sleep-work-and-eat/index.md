@@ -1,6 +1,6 @@
 # Hyve - meet, sleep, work and eat!
 
-> Coliving in Basel, Switzerland. Last updated July 19, 2026.
+> Coliving in Basel, Switzerland. Last updated July 21, 2026.
 
 - **Location:** Basel, Switzerland
 - **Type:** Permanent coliving

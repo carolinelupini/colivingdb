@@ -1,6 +1,6 @@
 # Coliving in Latvia
 
-> 1 colivings in Latvia, prices from €697 to €697 per month – last updated July 19, 2026.
+> 1 colivings in Latvia, prices from €697 to €697 per month – last updated July 21, 2026.
 
 ## All colivings
 

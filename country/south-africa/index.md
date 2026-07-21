@@ -1,6 +1,6 @@
 # Coliving in South Africa
 
-> 19 colivings in South Africa, prices from €170 to €3,506 per month – last updated July 19, 2026.
+> 19 colivings in South Africa, prices from €170 to €3,506 per month – last updated July 21, 2026.
 
 ## All colivings
 

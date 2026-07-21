@@ -1,6 +1,6 @@
 # Coliving in Popoyo, Nicaragua
 
-> 1 colivings in Popoyo, Nicaragua, prices from €347 to €347 per month – last updated July 19, 2026.
+> 1 colivings in Popoyo, Nicaragua, prices from €347 to €347 per month – last updated July 21, 2026.
 
 ## All colivings
 

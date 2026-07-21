@@ -1,6 +1,6 @@
 # Seven Space: Coliving
 
-> Coliving in Lagos, Nigeria. Last updated July 19, 2026.
+> Coliving in Lagos, Nigeria. Last updated July 21, 2026.
 
 - **Location:** Lagos, Nigeria
 - **Type:** Permanent coliving

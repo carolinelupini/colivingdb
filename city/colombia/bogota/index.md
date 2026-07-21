@@ -1,6 +1,6 @@
 # Coliving in Bogotá, Colombia
 
-> 2 colivings in Bogotá, Colombia, prices from €480 to €615 per month – last updated July 19, 2026.
+> 2 colivings in Bogotá, Colombia, prices from €480 to €615 per month – last updated July 21, 2026.
 
 ## All colivings
 

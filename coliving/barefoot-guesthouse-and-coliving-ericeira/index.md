@@ -1,6 +1,6 @@
 # Barefoot Guesthouse & Coliving Ericeira
 
-> Coliving in Ericeira, Portugal. Last updated July 19, 2026.
+> Coliving in Ericeira, Portugal. Last updated July 21, 2026.
 
 - **Location:** Ericeira, Portugal
 - **Type:** Permanent coliving

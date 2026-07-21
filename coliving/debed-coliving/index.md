@@ -1,6 +1,6 @@
 # Debed Coliving
 
-> Coliving in Debet, Armenia. Last updated July 19, 2026.
+> Coliving in Debet, Armenia. Last updated July 21, 2026.
 
 - **Location:** Debet, Armenia
 - **Type:** Permanent coliving

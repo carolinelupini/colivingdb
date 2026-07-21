@@ -1,6 +1,6 @@
 # Socialer Coliving & Coworking Space
 
-> Coliving in Chiang Mai, Thailand. Last updated July 19, 2026.
+> Coliving in Chiang Mai, Thailand. Last updated July 21, 2026.
 
 - **Location:** Chiang Mai, Thailand
 - **Type:** Permanent coliving

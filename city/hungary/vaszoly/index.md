@@ -1,6 +1,6 @@
 # Coliving in Vászoly, Hungary
 
-> 1 colivings in Vászoly, Hungary, prices from €900 to €900 per month – last updated July 19, 2026.
+> 1 colivings in Vászoly, Hungary, prices from €900 to €900 per month – last updated July 21, 2026.
 
 ## All colivings
 
