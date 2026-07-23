@@ -1,6 +1,6 @@
 # Coliving Bansko by "Coworking Bansko" and Networking Premium
 
-> Coliving in Bansko, Bulgaria. Last updated July 21, 2026.
+> Coliving in Bansko, Bulgaria. Last updated July 23, 2026.
 
 - **Location:** Bansko, Bulgaria
 - **Type:** Permanent coliving

@@ -1,16 +1,16 @@
 # Waves & Wifi
 
-> Coliving in Popoyo, Nicaragua. Last updated July 21, 2026.
+> Coliving in Popoyo, Nicaragua. Last updated July 23, 2026.
 
 - **Location:** Popoyo, Nicaragua
 - **Type:** Permanent coliving
-- **Price:** from $396/mo
+- **Price:** from $1,425/mo
 - **Price note:** rates via Cloudbeds booking; not on homepage
 - **Rating:** <a href="https://maps.google.com/?cid=6336267292705522070&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (109 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Vibe:** A surf-and-wellness coliving space in Popoyo themed 'Surf, Yoga, Get Shit Done,' with a community kitchen, Vinyasa/Yin/Kundalini/Pilates/breathwork classes, bike rentals to 10 surf spots, and encouragement to close laptops before sunset.
-- **Minimum stay:** —
+- **Vibe:** A surf-and-wellness coliving space in Popoyo themed 'Surf, Yoga, Get Shit Done,' with a community kitchen, yoga classes, bike rentals, surf spots close by and an onsite coffee shop (Kooks Cafe). Fully solar powered for fast and reliable wifi. Focus on community events and encouragement to close laptops before sunset.
+- **Minimum stay:** 3 nights
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Tags:** surf, beach, coworking, community, wellness
@@ -20,9 +20,9 @@
 
 ## Rates
 
-| Stay length | Private |
+| Stay length | From |
 |---|---|
-| Per month | $396 |
+| Per month | $1,425 |
 
 Waves & Wifi does not publish a nightly or weekly rate.
 

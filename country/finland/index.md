@@ -1,6 +1,6 @@
 # Coliving in Finland
 
-> 1 colivings in Finland, prices from €690 to €690 per month – last updated July 21, 2026.
+> 1 colivings in Finland, prices from €690 to €690 per month – last updated July 23, 2026.
 
 ## All colivings
 

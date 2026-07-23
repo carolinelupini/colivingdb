@@ -1,6 +1,6 @@
 # Cactus Coliving Adeje
 
-> Coliving in Adeje, Spain. Last updated July 21, 2026.
+> Coliving in Adeje, Spain. Last updated July 23, 2026.
 
 - **Location:** Adeje, Spain
 - **Type:** Permanent coliving

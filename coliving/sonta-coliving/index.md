@@ -1,6 +1,6 @@
 # Sonta Coliving
 
-> Coliving in Sonta, Serbia. Last updated July 21, 2026.
+> Coliving in Sonta, Serbia. Last updated July 23, 2026.
 
 - **Location:** Sonta, Serbia
 - **Type:** Permanent coliving

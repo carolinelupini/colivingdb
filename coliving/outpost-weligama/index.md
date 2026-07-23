@@ -1,6 +1,6 @@
 # Outpost Weligama
 
-> Coliving in Weligama, Sri Lanka. Last updated July 21, 2026.
+> Coliving in Weligama, Sri Lanka. Last updated July 23, 2026.
 
 - **Location:** Weligama, Sri Lanka
 - **Type:** Permanent coliving

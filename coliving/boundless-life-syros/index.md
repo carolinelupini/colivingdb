@@ -1,6 +1,6 @@
 # Boundless Life — Syros
 
-> Coliving in Syros, Greece. Last updated July 21, 2026.
+> Coliving in Syros, Greece. Last updated July 23, 2026.
 
 - **Location:** Syros, Greece
 - **Type:** Pop-up / dated edition

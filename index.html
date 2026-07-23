@@ -911,6 +911,9 @@ svg.leaflet-image-layer.leaflet-interactive path {
   .rm{border:1px solid var(--line); border-radius:6px; padding:1px 7px; color:var(--muted);}
 
   .r-price .from{font-weight:750; font-size:.98rem;}
+  .pest .from::after{content:"est"; font-size:.58rem; font-weight:700; text-transform:uppercase; letter-spacing:.04em; color:var(--muted); margin-left:4px; vertical-align:1px;}
+  .pricenote{font-size:.72rem; color:var(--muted); margin:0 0 2px;}
+  .pricenote b{color:var(--ink,#17241f); font-weight:700;}
   .r-price .from small{font-weight:400; color:var(--muted); font-size:.72rem;}
   .r-price .brk{font-size:.72rem; color:var(--muted); margin-top:2px; line-height:1.3;}
   .r-price .brk b{font-weight:600; color:var(--ink);}
@@ -1357,7 +1360,7 @@ function affiliateUrl(url){
 
 document.getElementById("search").placeholder = `Search ${C.length} colivings by name, city, or country…`;
 document.getElementById("footer").innerHTML =
-  `<b>colivingDB</b> indexes ${C.length} coliving spaces worldwide — permanent homes, seasonal pop-ups, and moving programs. Prices are approximate, per month, shown in each coliving's own local currency (switch it up top), and change often; pop-up dates shift season to season. Always confirm details on the operator's own site before booking. Some links are affiliate links — colivingDB may earn a commission if you book through them, at no extra cost to you. Map data © OpenStreetMap contributors.`;
+  `<b>colivingDB</b> indexes ${C.length} coliving spaces worldwide — permanent homes, seasonal pop-ups, and moving programs. Prices are per month, shown in each coliving's own local currency (switch it up top), and change often; a price tagged <b>est.</b> is our own estimate we're still confirming with the operator, while untagged prices come from the operator's live listing or a figure they've confirmed directly. Pop-up dates shift season to season. Always confirm details on the operator's own site before booking. Some links are affiliate links — colivingDB may earn a commission if you book through them, at no extra cost to you. Map data © OpenStreetMap contributors.`;
 
 // Filter-bar chips + landing cards are now pre-rendered into the HTML at build time (so nothing
 // pops in after load = no layout shift). Here we just attach ONE delegated click listener per
@@ -1611,7 +1614,13 @@ function focusRecord(idx){
   }
 }
 
-function priceCell(x){ return _priceCore(x); }   // reader discounts are email-only — never badged on the site
+function priceCell(x){   // reader discounts are email-only — never badged on the site
+  const s = _priceCore(x);
+  // Estimate prices (unconfirmed scrape) get a muted "est." tag. marketplace + operator-confirmed render clean.
+  return x.priceConfidence==='estimate'
+    ? `<div class="pest" title="Estimated — we're confirming this price with the operator">${s}</div>`
+    : s;
+}
 function _priceCore(x){
   // Non-monthly prices (cruise/camp tickets, weekly rates) sell something other than a month —
   // never render "/mo" for them, and they carry no priceEurMonthly by construction.
@@ -1757,7 +1766,7 @@ function render(skipFit){
       const fill = x.format==="pop-up" ? "#e0894a" : (x.status!=="active" ? "#e0b04a" : "#0e7c66");
       const m=L.circleMarker([x.lat,x.lng],{radius:7,color:col,weight:2,fillColor:fill,fillOpacity:.55})
         .addTo(markerGroup)
-        .bindPopup(()=>`<b>${x.name}</b>${x.rating?` <span style="color:#a15c00">★${x.rating.toFixed(1)}${x.reviews?` (${x.reviews})`:""}</span>`:""}<br>${x.city?x.city+", ":""}${x.country}${x.priceEurMonthly?`<br>from ~€${x.priceEurMonthly}/mo`:""}${x._slug?`<br><a href="/coliving/${x._slug}/" style="font-weight:600">Details →</a>`:""}`);
+        .bindPopup(()=>`<b>${x.name}</b>${x.rating?` <span style="color:#a15c00">★${x.rating.toFixed(1)}${x.reviews?` (${x.reviews})`:""}</span>`:""}<br>${x.city?x.city+", ":""}${x.country}${x.priceEurMonthly?`<br>from ${x.priceConfidence==='estimate'?'~':''}€${x.priceEurMonthly}/mo${x.priceConfidence==='estimate'?' <span style="font-size:.75em;color:#888">est.</span>':''}`:""}${x._slug?`<br><a href="/coliving/${x._slug}/" style="font-weight:600">Details →</a>`:""}`);
       m.on("click",()=>focusRecord(idx));
       withCoords.push(m); x.__m=m;
     } else { x.__m=null; }

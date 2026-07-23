@@ -1,6 +1,6 @@
 # samesame co-living
 
-> Coliving in Lisbon, Portugal. Last updated July 21, 2026.
+> Coliving in Lisbon, Portugal. Last updated July 23, 2026.
 
 - **Location:** Lisbon, Portugal
 - **Type:** Permanent coliving

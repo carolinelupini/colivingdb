@@ -1,13 +1,12 @@
 # Coliving in Portugal
 
-> 65 colivings in Portugal, prices from €150 to €2,249 per month – last updated July 21, 2026.
+> 65 colivings in Portugal, prices from €150 to €2,249 per month – last updated July 23, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
 | StartArt Residency | Loureira (near Braga) | from €150/mo | 5.0 (103) | shared | 1 night | Permanent |
-| Barefoot Guesthouse & Coliving Ericeira | Ericeira | from €240/mo | 4.9 (127) | private | 30 nights | Permanent |
 | Coliving The VALLEY with Coworking Space | Rogé, Vale de Cambra | from €510/mo | 5.0 (33) | private | 5 nights | Permanent |
 | Quinta Da Carvalheira | Soure | from €510/mo | 5.0 (14) | — | 1 night | Permanent |
 | Nomadico Coliving Ericeira | Ericeira | from €542/mo | 4.9 (28) | private, shared | 7 nights | Pop-up |
@@ -17,6 +16,7 @@
 | Novovento | Ginetes, São Miguel, Azores | from €300/mo | 4.8 (48) | private | 7 nights | Permanent |
 | Lava Coliving & Coworking | Ribeira Grande, São Miguel | from €25/night | 4.9 (60) | private, shared | 7 nights | Permanent |
 | Calcada Coliving (Calçada Guesthouse) | Tavira | from €780/mo | 4.9 (90) | private | 29 nights | Permanent |
+| Barefoot Guesthouse & Coliving Ericeira | Ericeira | from €800/mo | 4.9 (127) | private | 30 nights | Permanent |
 | Outsite Algarve - Sagres | Sagres | from €800/mo | 4.4 (23) | private | 2 nights | Permanent |
 | Outsite Ericeira - Boavista | Ericeira | from €800/mo | — | private | — | Permanent |
 | Outsite Ericeira - Centro | Ericeira | from €800/mo | 4.7 (34) | private | — | Permanent |
@@ -76,9 +76,9 @@
 
 | Band (EUR/mo) | Colivings |
 |---|---|
-| 0–500 | 2 |
+| 0–500 | 1 |
 | 500–800 | 9 |
-| 800–1200 | 19 |
+| 800–1200 | 20 |
 | 1200–2000 | 14 |
 | 2000–∞ | 3 |
 

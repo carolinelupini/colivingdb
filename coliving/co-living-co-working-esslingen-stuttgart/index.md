@@ -1,6 +1,6 @@
 # Co-Living Co-Working Esslingen-Stuttgart
 
-> Coliving in Stuttgart, Germany. Last updated July 21, 2026.
+> Coliving in Stuttgart, Germany. Last updated July 23, 2026.
 
 - **Location:** Stuttgart, Germany
 - **Type:** Permanent coliving

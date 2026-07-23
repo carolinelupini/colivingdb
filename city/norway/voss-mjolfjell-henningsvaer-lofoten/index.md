@@ -1,6 +1,6 @@
 # Coliving in Voss (Mjolfjell) / Henningsvaer, Lofoten, Norway
 
-> 1 colivings in Voss (Mjolfjell) / Henningsvaer, Lofoten, Norway – last updated July 21, 2026.
+> 1 colivings in Voss (Mjolfjell) / Henningsvaer, Lofoten, Norway – last updated July 23, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Coliving in Puerto Escondido (La Punta), Mexico
 
-> 1 colivings in Puerto Escondido (La Punta), Mexico, prices from €1,380 to €1,380 per month – last updated July 21, 2026.
+> 1 colivings in Puerto Escondido (La Punta), Mexico, prices from €1,380 to €1,380 per month – last updated July 23, 2026.
 
 ## All colivings
 

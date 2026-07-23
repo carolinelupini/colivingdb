@@ -1,6 +1,6 @@
 # colivingDB — all countries
 
-> 602 colivings across 83 countries. Last updated July 21, 2026.
+> 602 colivings across 83 countries. Last updated July 23, 2026.
 
 | Country | Colivings | From (EUR/mo) |
 |---|---|---|
@@ -58,7 +58,7 @@
 | [Lithuania](/country/lithuania/index.md) | 2 | €685 |
 | [Malawi](/country/malawi/index.md) | 2 | — |
 | [New Zealand](/country/new-zealand/index.md) | 2 | €763 |
-| [Nicaragua](/country/nicaragua/index.md) | 2 | €347 |
+| [Nicaragua](/country/nicaragua/index.md) | 2 | €1,249 |
 | [Puerto Rico](/country/puerto-rico/index.md) | 2 | €2,184 |
 | [Tunisia](/country/tunisia/index.md) | 2 | — |
 | [United Arab Emirates](/country/united-arab-emirates/index.md) | 2 | €238 |

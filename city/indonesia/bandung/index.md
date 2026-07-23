@@ -1,6 +1,6 @@
 # Coliving in Bandung, Indonesia
 
-> 1 colivings in Bandung, Indonesia – last updated July 21, 2026.
+> 1 colivings in Bandung, Indonesia – last updated July 23, 2026.
 
 ## All colivings
 

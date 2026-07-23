@@ -1,6 +1,6 @@
 # Coliving in Prague, Czechia
 
-> 1 colivings in Prague, Czechia – last updated July 21, 2026.
+> 1 colivings in Prague, Czechia – last updated July 23, 2026.
 
 ## All colivings
 

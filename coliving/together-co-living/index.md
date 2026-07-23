@@ -1,6 +1,6 @@
 # Together Co-Living
 
-> Coliving in Melbourne, Australia. Last updated July 21, 2026.
+> Coliving in Melbourne, Australia. Last updated July 23, 2026.
 
 - **Location:** Melbourne, Australia
 - **Type:** Permanent coliving

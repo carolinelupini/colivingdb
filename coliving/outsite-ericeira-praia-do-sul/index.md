@@ -1,6 +1,6 @@
 # Outsite Ericeira - Praia do Sul
 
-> Coliving in Ericeira, Portugal. Last updated July 21, 2026.
+> Coliving in Ericeira, Portugal. Last updated July 23, 2026.
 
 - **Location:** Ericeira, Portugal
 - **Type:** Permanent coliving

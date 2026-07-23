@@ -1,6 +1,6 @@
 # Polar Home
 
-> Coliving in Tulum, Mexico. Last updated July 21, 2026.
+> Coliving in Tulum, Mexico. Last updated July 23, 2026.
 
 - **Location:** Tulum, Mexico
 - **Type:** Permanent coliving

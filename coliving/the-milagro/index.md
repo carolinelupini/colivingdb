@@ -1,6 +1,6 @@
 # The Milagro
 
-> Coliving in Bogotá, Colombia. Last updated July 21, 2026.
+> Coliving in Bogotá, Colombia. Last updated July 23, 2026.
 
 - **Location:** Bogotá, Colombia
 - **Type:** Permanent coliving

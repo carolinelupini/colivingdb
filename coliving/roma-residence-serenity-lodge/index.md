@@ -1,6 +1,6 @@
 # Roma Residence (Serenity Lodge)
 
-> Coliving in Sharm El-Sheikh, Egypt. Last updated July 21, 2026.
+> Coliving in Sharm El-Sheikh, Egypt. Last updated July 23, 2026.
 
 - **Location:** Sharm El-Sheikh, Egypt
 - **Type:** Permanent coliving

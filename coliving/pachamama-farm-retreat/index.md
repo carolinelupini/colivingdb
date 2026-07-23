@@ -1,6 +1,6 @@
 # Pachamama Farm Retreat
 
-> Coliving in Ukropci (above Kotor Bay), Montenegro. Last updated July 21, 2026.
+> Coliving in Ukropci (above Kotor Bay), Montenegro. Last updated July 23, 2026.
 
 - **Location:** Ukropci (above Kotor Bay), Montenegro
 - **Type:** Permanent coliving

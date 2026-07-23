@@ -1,6 +1,6 @@
 # Stolas Garden
 
-> Coliving in San José, Costa Rica. Last updated July 21, 2026.
+> Coliving in San José, Costa Rica. Last updated July 23, 2026.
 
 - **Location:** San José, Costa Rica
 - **Type:** Permanent coliving

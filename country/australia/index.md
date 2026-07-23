@@ -1,6 +1,6 @@
 # Coliving in Australia
 
-> 8 colivings in Australia, prices from €473 to €2,126 per month – last updated July 21, 2026.
+> 8 colivings in Australia, prices from €473 to €2,126 per month – last updated July 23, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Coliving in Taiwan
 
-> 3 colivings in Taiwan, prices from €350 to €350 per month – last updated July 21, 2026.
+> 3 colivings in Taiwan, prices from €350 to €350 per month – last updated July 23, 2026.
 
 ## All colivings
 

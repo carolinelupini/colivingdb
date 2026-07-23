@@ -1,6 +1,6 @@
 # Coliving in Nicosia, Cyprus
 
-> 1 colivings in Nicosia, Cyprus, prices from €1,260 to €1,260 per month – last updated July 21, 2026.
+> 1 colivings in Nicosia, Cyprus, prices from €1,260 to €1,260 per month – last updated July 23, 2026.
 
 ## All colivings
 

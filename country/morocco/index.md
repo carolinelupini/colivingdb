@@ -1,6 +1,6 @@
 # Coliving in Morocco
 
-> 8 colivings in Morocco, prices from €61 to €1,300 per month – last updated July 21, 2026.
+> 8 colivings in Morocco, prices from €61 to €1,300 per month – last updated July 23, 2026.
 
 ## All colivings
 

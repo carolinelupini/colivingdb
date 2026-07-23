@@ -1,6 +1,6 @@
 # Coliving in Palermo, Italy
 
-> 3 colivings in Palermo, Italy, prices from €850 to €850 per month – last updated July 21, 2026.
+> 3 colivings in Palermo, Italy, prices from €850 to €850 per month – last updated July 23, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Nomadico Tuscany
 
-> Coliving in Tuscany, Italy. Last updated July 21, 2026.
+> Coliving in Tuscany, Italy. Last updated July 23, 2026.
 
 - **Location:** Tuscany, Italy
 - **Type:** Pop-up / dated edition

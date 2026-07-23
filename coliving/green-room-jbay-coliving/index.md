@@ -1,6 +1,6 @@
 # Green Room JBay Coliving
 
-> Coliving in Jeffreys Bay, South Africa. Last updated July 21, 2026.
+> Coliving in Jeffreys Bay, South Africa. Last updated July 23, 2026.
 
 - **Location:** Jeffreys Bay, South Africa
 - **Type:** Permanent coliving

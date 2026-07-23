@@ -1,6 +1,6 @@
 # The Wave Temple | Surfhouse, Coliving
 
-> Coliving in Las Palmas de Gran Canaria, Spain. Last updated July 21, 2026.
+> Coliving in Las Palmas de Gran Canaria, Spain. Last updated July 23, 2026.
 
 - **Location:** Las Palmas de Gran Canaria, Spain
 - **Type:** Permanent coliving

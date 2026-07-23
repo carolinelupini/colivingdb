@@ -1,6 +1,6 @@
 # Green Living Coliving Barcelona
 
-> Coliving in Castelldefels, Spain. Last updated July 21, 2026.
+> Coliving in Castelldefels, Spain. Last updated July 23, 2026.
 
 - **Location:** Castelldefels, Spain
 - **Type:** Permanent coliving

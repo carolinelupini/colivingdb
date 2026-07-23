@@ -1,6 +1,6 @@
 # Outsite Santa Teresa - Playa
 
-> Coliving in Santa Teresa, Costa Rica. Last updated July 21, 2026.
+> Coliving in Santa Teresa, Costa Rica. Last updated July 23, 2026.
 
 - **Location:** Santa Teresa, Costa Rica
 - **Type:** Permanent coliving

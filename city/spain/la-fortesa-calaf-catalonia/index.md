@@ -1,6 +1,6 @@
 # Coliving in La Fortesa (Calaf), Catalonia, Spain
 
-> 1 colivings in La Fortesa (Calaf), Catalonia, Spain, prices from €660 to €660 per month – last updated July 21, 2026.
+> 1 colivings in La Fortesa (Calaf), Catalonia, Spain, prices from €660 to €660 per month – last updated July 23, 2026.
 
 ## All colivings
 

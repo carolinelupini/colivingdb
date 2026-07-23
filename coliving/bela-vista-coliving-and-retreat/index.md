@@ -1,6 +1,6 @@
 # Bela Vista Coliving and Retreat
 
-> Coliving in Olhão (Algarve), Portugal. Last updated July 21, 2026.
+> Coliving in Olhão (Algarve), Portugal. Last updated July 23, 2026.
 
 - **Location:** Olhão (Algarve), Portugal
 - **Type:** Permanent coliving

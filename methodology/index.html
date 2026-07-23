@@ -131,6 +131,7 @@ body.cb-open .fab{display:none!important}
 .permo{color:#6b7280;font-size:.85em}
 header.site select{margin-left:auto;font:inherit;font-size:.84rem;padding:6px 9px;border:1px solid #e5e9f0;border-radius:8px;background:#fff;color:#1a2333;cursor:pointer}
 .facts dd small,td small{color:#6b7280;font-weight:400}
+.est{font-size:.62rem;font-weight:700;text-transform:uppercase;letter-spacing:.04em;color:#6b7280;margin-left:5px;vertical-align:1px;cursor:help}
 .hubctl{display:flex;flex-wrap:wrap;gap:8px 10px;align-items:center;margin:0 0 12px}
 .hubctl input,.hubctl select{font:inherit;font-size:.9rem;padding:8px 11px;border:1px solid #e5e9f0;border-radius:8px;background:#fff}
 .hubctl input{flex:1 1 220px;min-width:0}
@@ -179,7 +180,7 @@ gtag('js',new Date());gtag('config','G-GBDMVK7LWL');</script>
 
 <h2>Where each data point comes from</h2>
 <ul class="inclist">
-<li><b>Prices</b> — the operator's own website (their published rates, in their own currency), or the structured pricing data embedded in their booking pages. Currency labels are verified, not trusted blindly.</li>
+<li><b>Prices</b> — the operator's own website (their published rates, in their own currency), or the structured pricing data embedded in their booking pages. Currency labels are verified, not trusted blindly. A price marked <b>est.</b> is our own estimate, pulled from a marketplace listing or booking page we haven't yet confirmed with the operator — we're emailing operators to verify these and drop the tag once they confirm. An untagged price comes from the operator's live listing or a figure they've confirmed to us directly, dated on our end and re-checked with responsive operators over time.</li>
 <li><b>Ratings</b> — Google Maps, matched to the operator's own website domain so a listing can never inherit the rating of a nearby hotel or café. Ratings older than 30 days are refreshed or dropped.</li>
 <li><b>WiFi speeds</b> — only what operators publish themselves, labelled "operator-reported" (the headline figure is <b>download</b> speed; upload and context appear alongside it when the operator provides them). We never estimate. Country-level medians come from Ookla's Speedtest Global Index, attributed.</li>
 <li><b>What's included, second-guest policies, deposits</b> — extracted from operator websites; absent fields stay absent rather than guessed.</li>
@@ -203,11 +204,11 @@ gtag('js',new Date());gtag('config','G-GBDMVK7LWL');</script>
 
 <h2>Spotted an error?</h2>
 <p>Prices and dates change constantly. If something's wrong, <a href="https://docs.google.com/forms/d/e/1FAIpQLSexvQJD4ALM3uGKJfzqBIkHJ0kSTyTwBSoH25VQvp4LD_1ROw/viewform?hl=en" target="_blank" rel="noopener">tell us</a> and we'll fix it as fast as we can. Operators: send us your current rates, measured WiFi speed, and 2–3 photos and we'll update your listing.</p>
-<p class="muted">Last build: July 21, 2026.</p>
+<p class="muted">Last build: July 23, 2026.</p>
 </div>
 <footer class="site"><div class="wrap">
 <a href="/">← Back to the map</a> · <a href="/region/">By region</a> · <a href="/countries/">All countries</a> · <a href="/methodology/">How we verify data</a> · <a href="/how-listings-work/">How listings work</a> · <a href="/privacy/">Privacy &amp; terms</a> · <a href="/llms.txt">llms.txt</a><br>
-<span class="muted">Prices are approximate and shown in each coliving's own local currency unless you switch it above. Data last updated July 21, 2026. Some outbound links are affiliate links — colivingDB may earn a commission at no extra cost to you.</span>
+<span class="muted">Prices are shown in each coliving's own local currency unless you switch it above. A price marked <b>est.</b> is our own estimate that we're still confirming with the operator; unmarked prices come from the operator's live listing or a figure they've confirmed directly. Data last updated July 23, 2026. Some outbound links are affiliate links — colivingDB may earn a commission at no extra cost to you.</span>
 </div></footer>
 <a class="fab" href="https://docs.google.com/forms/d/e/1FAIpQLSexvQJD4ALM3uGKJfzqBIkHJ0kSTyTwBSoH25VQvp4LD_1ROw/viewform?hl=en" target="_blank" rel="noopener" title="Report a bug, request a filter, or flag a listing correction">💬 Feedback</a>
 <div id="cookieBanner" hidden><span class="cb-msg">We use cookies for anonymous analytics. See our <a href="/privacy/">privacy &amp; terms</a>.</span><span class="cb-btns"><button id="ckAccept" type="button">Accept</button><button id="ckDecline" type="button">Decline</button></span></div>

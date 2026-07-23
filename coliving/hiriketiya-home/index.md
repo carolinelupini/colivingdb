@@ -1,6 +1,6 @@
 # Hiriketiya Home
 
-> Coliving in Hiriketiya (Dickwella), Matara, Sri Lanka. Last updated July 21, 2026.
+> Coliving in Hiriketiya (Dickwella), Matara, Sri Lanka. Last updated July 23, 2026.
 
 - **Location:** Hiriketiya (Dickwella), Matara, Sri Lanka
 - **Type:** Permanent coliving

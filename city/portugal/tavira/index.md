@@ -1,6 +1,6 @@
 # Coliving in Tavira, Portugal
 
-> 1 colivings in Tavira, Portugal, prices from €780 to €780 per month – last updated July 21, 2026.
+> 1 colivings in Tavira, Portugal, prices from €780 to €780 per month – last updated July 23, 2026.
 
 ## All colivings
 

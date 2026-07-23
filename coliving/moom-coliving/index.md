@@ -1,6 +1,6 @@
 # MOOM Coliving
 
-> Coliving in Rendsburg, Germany. Last updated July 21, 2026.
+> Coliving in Rendsburg, Germany. Last updated July 23, 2026.
 
 - **Location:** Rendsburg, Germany
 - **Type:** Permanent coliving

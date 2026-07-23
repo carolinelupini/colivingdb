@@ -1,6 +1,6 @@
 # Ikigai Coliving
 
-> Coliving in Puerto de la Cruz, Tenerife, Spain. Last updated July 21, 2026.
+> Coliving in Puerto de la Cruz, Tenerife, Spain. Last updated July 23, 2026.
 
 - **Location:** Puerto de la Cruz, Tenerife, Spain
 - **Type:** Permanent coliving

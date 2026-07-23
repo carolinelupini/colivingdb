@@ -1,6 +1,6 @@
 # colivingDB — all colivings
 
-> 602 listings. Last updated July 21, 2026.
+> 602 listings. Last updated July 23, 2026.
 
 | Coliving | City | Country | Price from | Min stay | Type |
 |---|---|---|---|---|---|
@@ -289,7 +289,7 @@
 | [The Arawa (Arawa Collective)](/coliving/the-arawa-arawa-collective/index.md) | Rotorua | New Zealand | from $1,037/mo | 30 nights | Permanent |
 | [The Coh](/coliving/the-coh/index.md) | Auckland | New Zealand | from NZ$1,516/mo | 3 months | Permanent |
 | [Outsite San Juan del Sur](/coliving/outsite-san-juan-del-sur/index.md) | San Juan del Sur | Nicaragua | from €1,300/mo | 2 nights | Permanent |
-| [Waves & Wifi](/coliving/waves-and-wifi/index.md) | Popoyo | Nicaragua | from $396/mo | — | Permanent |
+| [Waves & Wifi](/coliving/waves-and-wifi/index.md) | Popoyo | Nicaragua | from $1,425/mo | 3 nights | Permanent |
 | [Seven Space: Coliving](/coliving/seven-space-coliving/index.md) | Lagos | Nigeria | from $30/night | 30 nights | Permanent |
 | [WiFi Tribe — Lake Ohrid](/coliving/wifi-tribe-lake-ohrid/index.md) | Lake Ohrid | North Macedonia | from $1,590/mo | 28 nights | Pop-up |
 | [Arctic Coliving](/coliving/arctic-coliving/index.md) | Voss (Mjolfjell) / Henningsvaer, Lofoten | Norway | On request | 7 nights | Permanent |
@@ -316,7 +316,7 @@
 | [Alvada Coliving (Baixo Beach Coliving)](/coliving/alvada-coliving-baixo-beach-coliving/index.md) | Ponta do Sol, Madeira | Portugal | On request | 3 months | Permanent |
 | [BOND Coliving](/coliving/bond-coliving/index.md) | Funchal, Madeira | Portugal | On request | 30 nights | Permanent |
 | [Banana House (Ponta do Sol Coliving)](/coliving/banana-house-ponta-do-sol-coliving/index.md) | Ponta do Sol, Madeira | Portugal | from €997/mo | 30 nights | Permanent |
-| [Barefoot Guesthouse & Coliving Ericeira](/coliving/barefoot-guesthouse-and-coliving-ericeira/index.md) | Ericeira | Portugal | from €240/mo | 30 nights | Permanent |
+| [Barefoot Guesthouse & Coliving Ericeira](/coliving/barefoot-guesthouse-and-coliving-ericeira/index.md) | Ericeira | Portugal | from €800/mo | 30 nights | Permanent |
 | [Behappy Lodge](/coliving/behappy-lodge/index.md) | Esmoriz | Portugal | On request | — | Permanent |
 | [Bela Vista Coliving and Retreat](/coliving/bela-vista-coliving-and-retreat/index.md) | Olhão (Algarve) | Portugal | On request | — | Permanent |
 | [Birds of Paradise](/coliving/birds-of-paradise/index.md) | Aljezur | Portugal | from €42/night | 14 nights | Permanent |

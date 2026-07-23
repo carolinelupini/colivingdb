@@ -1,6 +1,6 @@
 # Bocas Del Toro Province Collective (WE)
 
-> Coliving in Isla Bastimentos, Panama. Last updated July 21, 2026.
+> Coliving in Isla Bastimentos, Panama. Last updated July 23, 2026.
 
 - **Location:** Isla Bastimentos, Panama
 - **Type:** Permanent coliving

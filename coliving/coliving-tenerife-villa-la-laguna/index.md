@@ -1,6 +1,6 @@
 # Coliving Tenerife - Villa La Laguna
 
-> Coliving in Santa Cruz de Tenerife, Spain. Last updated July 21, 2026.
+> Coliving in Santa Cruz de Tenerife, Spain. Last updated July 23, 2026.
 
 - **Location:** Santa Cruz de Tenerife, Spain
 - **Type:** Permanent coliving

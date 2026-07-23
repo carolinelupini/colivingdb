@@ -1,6 +1,6 @@
 # Bencomo Coliving
 
-> Coliving in Santa Úrsula, Tenerife, Spain. Last updated July 21, 2026.
+> Coliving in Santa Úrsula, Tenerife, Spain. Last updated July 23, 2026.
 
 - **Location:** Santa Úrsula, Tenerife, Spain
 - **Type:** Permanent coliving

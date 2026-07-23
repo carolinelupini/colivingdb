@@ -1,6 +1,6 @@
 # Coliving in Florianópolis (Barra da Lagoa), Brazil
 
-> 1 colivings in Florianópolis (Barra da Lagoa), Brazil, prices from €238 to €238 per month – last updated July 21, 2026.
+> 1 colivings in Florianópolis (Barra da Lagoa), Brazil, prices from €238 to €238 per month – last updated July 23, 2026.
 
 ## All colivings
 

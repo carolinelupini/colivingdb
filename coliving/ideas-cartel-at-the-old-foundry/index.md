@@ -1,6 +1,6 @@
 # Ideas Cartel at The Old Foundry
 
-> Coliving in Cape Town, South Africa. Last updated July 21, 2026.
+> Coliving in Cape Town, South Africa. Last updated July 23, 2026.
 
 - **Location:** Cape Town, South Africa
 - **Type:** Permanent coliving

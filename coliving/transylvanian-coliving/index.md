@@ -1,6 +1,6 @@
 # Transylvanian Coliving
 
-> Coliving in Sibiu, Romania. Last updated July 21, 2026.
+> Coliving in Sibiu, Romania. Last updated July 23, 2026.
 
 - **Location:** Sibiu, Romania
 - **Type:** Permanent coliving

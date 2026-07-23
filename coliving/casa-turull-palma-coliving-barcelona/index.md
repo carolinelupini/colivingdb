@@ -1,6 +1,6 @@
 # Casa Turull (Palma Coliving Barcelona)
 
-> Coliving in Barcelona, Spain. Last updated July 21, 2026.
+> Coliving in Barcelona, Spain. Last updated July 23, 2026.
 
 - **Location:** Barcelona, Spain
 - **Type:** Permanent coliving

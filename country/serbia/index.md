@@ -1,6 +1,6 @@
 # Coliving in Serbia
 
-> 5 colivings in Serbia, prices from €297 to €2,100 per month – last updated July 21, 2026.
+> 5 colivings in Serbia, prices from €297 to €2,100 per month – last updated July 23, 2026.
 
 ## All colivings
 

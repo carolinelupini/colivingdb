@@ -1,6 +1,6 @@
 # Coliving in Greece
 
-> 12 colivings in Greece, prices from €449 to €5,794 per month – last updated July 21, 2026.
+> 12 colivings in Greece, prices from €449 to €5,794 per month – last updated July 23, 2026.
 
 ## All colivings
 

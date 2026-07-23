@@ -1,6 +1,6 @@
 # Coliving in Mugello, Tuscany, Italy
 
-> 1 colivings in Mugello, Tuscany, Italy, prices from €870 to €870 per month – last updated July 21, 2026.
+> 1 colivings in Mugello, Tuscany, Italy, prices from €870 to €870 per month – last updated July 23, 2026.
 
 ## All colivings
 
