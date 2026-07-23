@@ -9,6 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=6336267292705522070&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (109 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 253 Mbps down <small>· operator-reported</small><br><small>Operator-reported (Ookla speedtest history sent by Leo 2026-07-23). Most recent test 2026-07-10: 253 Mbps down / 27.4 up. Solar-powered; speeds vary — roughly 180–520 Mbps down across 2026.</small>
 - **Vibe:** A surf-and-wellness coliving space in Popoyo themed 'Surf, Yoga, Get Shit Done,' with a community kitchen, yoga classes, bike rentals, surf spots close by and an onsite coffee shop (Kooks Cafe). Fully solar powered for fast and reliable wifi. Focus on community events and encouragement to close laptops before sunset.
 - **Minimum stay:** 3 nights
 - **Region:** Latin America
