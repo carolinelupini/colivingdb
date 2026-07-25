@@ -1,6 +1,6 @@
 # Ojalá Casa
 
-> Coliving in La Caleta, Costa Adeje, Tenerife, Spain. Last updated July 23, 2026.
+> Coliving in La Caleta, Costa Adeje, Tenerife, Spain. Last updated July 25, 2026.
 
 - **Location:** La Caleta, Costa Adeje, Tenerife, Spain
 - **Type:** Permanent coliving

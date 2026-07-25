@@ -1,6 +1,6 @@
 # Hub Feenix
 
-> Coliving in Mjolbolsta (Meltola), Raseborg, Finland. Last updated July 23, 2026.
+> Coliving in Mjolbolsta (Meltola), Raseborg, Finland. Last updated July 25, 2026.
 
 - **Location:** Mjolbolsta (Meltola), Raseborg, Finland
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # Coliving in Portugal
 
-> 65 colivings in Portugal, prices from €150 to €2,249 per month – last updated July 23, 2026.
+> 65 colivings in Portugal, prices from €150 to €2,249 per month – last updated July 25, 2026.
 
 ## All colivings
 

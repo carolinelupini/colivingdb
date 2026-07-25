@@ -1,6 +1,6 @@
 # Coliving in La Réunion
 
-> 1 colivings in La Réunion – last updated July 23, 2026.
+> 1 colivings in La Réunion – last updated July 25, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Coliving in Roatan, Honduras
 
-> 1 colivings in Roatan, Honduras – last updated July 23, 2026.
+> 1 colivings in Roatan, Honduras – last updated July 25, 2026.
 
 ## All colivings
 

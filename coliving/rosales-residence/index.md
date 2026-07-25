@@ -1,6 +1,6 @@
 # Rosales Residence
 
-> Coliving in Medellin, Colombia. Last updated July 23, 2026.
+> Coliving in Medellin, Colombia. Last updated July 25, 2026.
 
 - **Location:** Medellin, Colombia
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # Life in Byron
 
-> Coliving in Byron Bay, Australia. Last updated July 23, 2026.
+> Coliving in Byron Bay, Australia. Last updated July 25, 2026.
 
 - **Location:** Byron Bay, Australia
 - **Type:** Permanent coliving

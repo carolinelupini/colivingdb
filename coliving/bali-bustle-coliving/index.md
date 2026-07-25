@@ -1,6 +1,6 @@
 # Bali Bustle Coliving
 
-> Coliving in Legian, Bali, Indonesia. Last updated July 23, 2026.
+> Coliving in Legian, Bali, Indonesia. Last updated July 25, 2026.
 
 - **Location:** Legian, Bali, Indonesia
 - **Type:** Permanent coliving

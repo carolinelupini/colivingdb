@@ -1,6 +1,6 @@
 # Coliving in Vilnius, Lithuania
 
-> 2 colivings in Vilnius, Lithuania, prices from €685 to €696 per month – last updated July 23, 2026.
+> 2 colivings in Vilnius, Lithuania, prices from €685 to €696 per month – last updated July 25, 2026.
 
 ## All colivings
 

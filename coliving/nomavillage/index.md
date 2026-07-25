@@ -1,6 +1,6 @@
 # NomaVillage
 
-> Coliving in Lagos, Portugal. Last updated July 23, 2026.
+> Coliving in Lagos, Portugal. Last updated July 25, 2026.
 
 - **Location:** Lagos, Portugal
 - **Type:** Permanent coliving

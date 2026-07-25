@@ -1,6 +1,6 @@
 # Cove Prana
 
-> Coliving in Uluwatu, Indonesia. Last updated July 23, 2026.
+> Coliving in Uluwatu, Indonesia. Last updated July 25, 2026.
 
 - **Location:** Uluwatu, Indonesia
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # Nomio
 
-> Coliving in Tivat, Montenegro. Last updated July 23, 2026.
+> Coliving in Tivat, Montenegro. Last updated July 25, 2026.
 
 - **Location:** Tivat, Montenegro
 - **Type:** Permanent coliving

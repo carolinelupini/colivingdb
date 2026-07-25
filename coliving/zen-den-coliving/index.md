@@ -1,6 +1,6 @@
 # Zen Den Coliving
 
-> Coliving in Arona (Tenerife), Spain. Last updated July 23, 2026.
+> Coliving in Arona (Tenerife), Spain. Last updated July 25, 2026.
 
 - **Location:** Arona (Tenerife), Spain
 - **Type:** Permanent coliving

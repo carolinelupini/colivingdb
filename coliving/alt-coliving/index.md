@@ -1,15 +1,17 @@
 # Alt Coliving
 
-> Coliving in Chiang Mai, Thailand. Last updated July 23, 2026.
+> Coliving in Chiang Mai, Thailand. Last updated July 25, 2026.
 
 - **Location:** Chiang Mai, Thailand
 - **Type:** Permanent coliving
-- **Price:** from €500/mo
+- **Price:** from THB 1,445/night
+- **Price note:** High-season rate, per night, 1 guest (VAT incl.). Range THB 1,445–2,793. Long-stay discounts: 20% off 9–18 nights, 35% off 19–28, 50% off 29+.
 - **Rating:** <a href="https://maps.google.com/?cid=12211908088202749556&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (242 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 250 Mbps down <small>· operator-reported</small><br><small>Operator-reported (Wan, Operations Manager, 2026-07-25): ~200–250 Mbps, symmetric (down/up). Same setup at both Alt locations.</small>
 - **Vibe:** A calm, well-designed coworking and coliving community for remote workers, digital nomads, and creative minds, with an events calendar including yoga, ice baths, and social outings across its Old City and Ping River properties.
-- **Minimum stay:** 30 nights
+- **Minimum stay:** 6 nights
 - **Region:** Asia
 - **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** community, coworking, city
@@ -25,9 +27,9 @@
 
 | Stay length | From |
 |---|---|
-| Per month | €500 |
+| Per night | THB 1,445 |
 
-Alt Coliving does not publish a nightly or weekly rate.
+Alt Coliving does not publish a weekly or monthly rate.
 
 ## About
 

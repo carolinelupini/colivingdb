@@ -1,6 +1,6 @@
 # colivingDB — all colivings
 
-> 602 listings. Last updated July 23, 2026.
+> 602 listings. Last updated July 25, 2026.
 
 | Coliving | City | Country | Price from | Min stay | Type |
 |---|---|---|---|---|---|
@@ -542,8 +542,8 @@
 | [Backyard Ventures](/coliving/backyard-ventures/index.md) | Arusha | Tanzania | from $2,750/event | 30 nights | Pop-up |
 | [WiFi Tribe — Zanzibar City](/coliving/wifi-tribe-zanzibar-city/index.md) | Zanzibar City | Tanzania | from $1,790/mo | 28 nights | Pop-up |
 | [4Seas Nimman Coliving Coworking Space](/coliving/4seas-nimman-coliving-coworking-space/index.md) | Chiang Mai | Thailand | On request | — | Permanent |
-| [Alt Coliving](/coliving/alt-coliving/index.md) | Chiang Mai | Thailand | from €500/mo | 30 nights | Permanent |
-| [Alt_PingRiver](/coliving/alt-pingriver/index.md) | Chiang Mai | Thailand | from €810/mo | 29 nights | Permanent |
+| [Alt Coliving](/coliving/alt-coliving/index.md) | Chiang Mai | Thailand | from THB 1,445/night | 6 nights | Permanent |
+| [Alt_PingRiver](/coliving/alt-pingriver/index.md) | Chiang Mai | Thailand | from THB 1,637/night | 6 nights | Permanent |
 | [Chiangmai Inn Guesthouse](/coliving/chiangmai-inn-guesthouse/index.md) | Chiang Mai | Thailand | On request | — | Permanent |
 | [Digital Nomad Adventures](/coliving/digital-nomad-adventures/index.md) | Koh Phangan | Thailand | from $695/mo | 7 nights | Permanent |
 | [HOMA Phuket Town](/coliving/homa-phuket-town/index.md) | Phuket | Thailand | from THB 18,000/mo | — | Permanent |

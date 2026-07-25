@@ -1,6 +1,6 @@
 # Pipedream (Coworksurf Peniche)
 
-> Coliving in Ferrel, Peniche, Portugal. Last updated July 23, 2026.
+> Coliving in Ferrel, Peniche, Portugal. Last updated July 25, 2026.
 
 - **Location:** Ferrel, Peniche, Portugal
 - **Type:** Permanent coliving

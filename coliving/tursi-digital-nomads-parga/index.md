@@ -1,6 +1,6 @@
 # Tursi Digital Nomads — Parga
 
-> Coliving in Parga, Greece. Last updated July 23, 2026.
+> Coliving in Parga, Greece. Last updated July 25, 2026.
 
 - **Location:** Parga, Greece
 - **Type:** Pop-up / dated edition

@@ -1,6 +1,6 @@
 # Coliving in London, United Kingdom
 
-> 1 colivings in London, United Kingdom – last updated July 23, 2026.
+> 1 colivings in London, United Kingdom – last updated July 25, 2026.
 
 ## All colivings
 

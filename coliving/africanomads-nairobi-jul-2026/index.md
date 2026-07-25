@@ -1,6 +1,6 @@
 # AfricaNomads — Nairobi (Jul 2026)
 
-> Coliving in Nairobi, Kenya. Last updated July 23, 2026.
+> Coliving in Nairobi, Kenya. Last updated July 25, 2026.
 
 - **Location:** Nairobi, Kenya
 - **Type:** Pop-up / dated edition

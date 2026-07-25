@@ -1,6 +1,6 @@
 # aColmeia
 
-> Coliving in Candolim (Saipem), Goa, India. Last updated July 23, 2026.
+> Coliving in Candolim (Saipem), Goa, India. Last updated July 25, 2026.
 
 - **Location:** Candolim (Saipem), Goa, India
 - **Type:** Permanent coliving

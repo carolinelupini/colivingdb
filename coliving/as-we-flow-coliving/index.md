@@ -1,6 +1,6 @@
 # As We Flow Coliving
 
-> Coliving in Porto Cervo, Sardinia, Italy. Last updated July 23, 2026.
+> Coliving in Porto Cervo, Sardinia, Italy. Last updated July 25, 2026.
 
 - **Location:** Porto Cervo, Sardinia, Italy
 - **Type:** Permanent coliving

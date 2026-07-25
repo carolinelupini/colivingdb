@@ -1,6 +1,6 @@
 # Cabeco Alto Home
 
-> Coliving in Santo da Serra (Madeira), Portugal. Last updated July 23, 2026.
+> Coliving in Santo da Serra (Madeira), Portugal. Last updated July 25, 2026.
 
 - **Location:** Santo da Serra (Madeira), Portugal
 - **Type:** Permanent coliving

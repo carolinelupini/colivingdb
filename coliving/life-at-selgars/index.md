@@ -1,6 +1,6 @@
 # Life at Selgars
 
-> Coliving in Uffculme, Devon, United Kingdom. Last updated July 23, 2026.
+> Coliving in Uffculme, Devon, United Kingdom. Last updated July 25, 2026.
 
 - **Location:** Uffculme, Devon, United Kingdom
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # Mojo Cohouse
 
-> Coliving in Palermo, Italy. Last updated July 23, 2026.
+> Coliving in Palermo, Italy. Last updated July 25, 2026.
 
 - **Location:** Palermo, Italy
 - **Type:** Permanent coliving
