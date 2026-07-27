@@ -5,6 +5,7 @@
 - **Location:** Valencia, Spain
 - **Type:** Permanent coliving
 - **Price:** from €1,200/mo
+- **Price note:** Not open yet — the house is still in development, with opening planned for April 2027. Not taking bookings; the waitlist is open in the meantime.
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** An 'ecosystem for living' blending art-studio creativity, nomadic entrepreneurship, regenerative gardens, and intentional community
@@ -23,5 +24,9 @@
 | Per month | €1,200 |
 
 Casa Gori — Coliving, Art Studio & Gardens does not publish a nightly or weekly rate.
+
+## About
+
+A coliving, art studio and garden project in Valencia, opening April 2027.
 
 Source: https://colivingdb.com/coliving/casa-gori-coliving-art-studio-and-gardens/

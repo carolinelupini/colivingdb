@@ -1,6 +1,6 @@
 # colivingDB — all colivings
 
-> 608 listings. Last updated July 27, 2026.
+> 607 listings. Last updated July 27, 2026.
 
 | Coliving | City | Country | Price from | Min stay | Type |
 |---|---|---|---|---|---|
@@ -317,7 +317,6 @@
 | [The Maja (Maja Hub)](/coliving/the-maja-maja-hub/index.md) | Krakow | Poland | from $554/mo | 2 months | Permanent |
 | [A ver o Mar 1 | Coliving & Coworking | Funchal, Madeira](/coliving/a-ver-o-mar-1-coliving-and-coworking-funchal-madeira/index.md) | Ponta do Sol | Portugal | from €920/mo | 14 nights | Permanent |
 | [Algarve Watersport Surf House Coliving](/coliving/algarve-watersport-surf-house-coliving/index.md) | Lagos | Portugal | On request | — | Permanent |
-| [Alvada Coliving (Baixo Beach Coliving)](/coliving/alvada-coliving-baixo-beach-coliving/index.md) | Ponta do Sol, Madeira | Portugal | On request | 3 months | Permanent |
 | [BOND Coliving](/coliving/bond-coliving/index.md) | Funchal, Madeira | Portugal | On request | 30 nights | Permanent |
 | [Banana House (Ponta do Sol Coliving)](/coliving/banana-house-ponta-do-sol-coliving/index.md) | Ponta do Sol, Madeira | Portugal | from €997/mo | 30 nights | Permanent |
 | [Barefoot Guesthouse & Coliving Ericeira](/coliving/barefoot-guesthouse-and-coliving-ericeira/index.md) | Ericeira | Portugal | from €800/mo | 30 nights | Permanent |

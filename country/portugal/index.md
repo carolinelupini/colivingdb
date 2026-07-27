@@ -1,6 +1,6 @@
 # Coliving in Portugal
 
-> 65 colivings in Portugal, prices from €150 to €2,249 per month – last updated July 27, 2026.
+> 64 colivings in Portugal, prices from €150 to €2,249 per month – last updated July 27, 2026.
 
 ## All colivings
 
@@ -54,7 +54,6 @@
 | Dwell Azores | Fenais da Luz, São Miguel, Azores | from €2,160/mo | 5.0 (89) | private, shared | 28 nights | Permanent |
 | Casa Basilico — Madeira | Madeira | from €2,249/mo | — | — | 14 nights | Pop-up |
 | Algarve Watersport Surf House Coliving | Lagos | On request | 4.9 (697) | private | — | Permanent |
-| Alvada Coliving (Baixo Beach Coliving) | Ponta do Sol, Madeira | On request | — | private | 3 months | Permanent |
 | Behappy Lodge | Esmoriz | On request | 4.9 (338) | private, shared, dorm | — | Permanent |
 | Bela Vista Coliving and Retreat | Olhão (Algarve) | On request | 4.7 (47) | private | — | Permanent |
 | Hacker Paradise — Porto | Porto | On request | — | — | — | Pop-up |
