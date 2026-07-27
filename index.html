@@ -911,6 +911,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
   .rm{border:1px solid var(--line); border-radius:6px; padding:1px 7px; color:var(--muted);}
 
   .r-price .from{font-weight:750; font-size:.98rem;}
+  .soon{display:inline-block;background:#fff7ed;border:1px solid #fed7aa;color:#9a3412;border-radius:999px;padding:1px 7px;font-size:.66rem;font-weight:700;margin-left:6px;vertical-align:1px;white-space:nowrap}
   .pest .from::after{content:"est"; font-size:.58rem; font-weight:700; text-transform:uppercase; letter-spacing:.04em; color:var(--muted); margin-left:4px; vertical-align:1px;}
   .pricenote{font-size:.72rem; color:var(--muted); margin:0 0 2px;}
   .pricenote b{color:var(--ink,#17241f); font-weight:700;}
@@ -1766,7 +1767,7 @@ function render(skipFit){
       const fill = x.format==="pop-up" ? "#e0894a" : (x.status!=="active" ? "#e0b04a" : "#0e7c66");
       const m=L.circleMarker([x.lat,x.lng],{radius:7,color:col,weight:2,fillColor:fill,fillOpacity:.55})
         .addTo(markerGroup)
-        .bindPopup(()=>`<b>${x.name}</b>${x.rating?` <span style="color:#a15c00">★${x.rating.toFixed(1)}${x.reviews?` (${x.reviews})`:""}</span>`:""}<br>${x.city?x.city+", ":""}${x.country}${x.priceEurMonthly?`<br>from ${x.priceConfidence==='estimate'?'~':''}€${x.priceEurMonthly}/mo${x.priceConfidence==='estimate'?' <span style="font-size:.75em;color:#888">est.</span>':''}`:""}${x._slug?`<br><a href="/coliving/${x._slug}/" style="font-weight:600">Details →</a>`:""}`);
+        .bindPopup(()=>`<b>${x.name}</b>${x.opening?` <span style="font-size:.75em;color:#9a3412;font-weight:700">· opening ${x.opening}</span>`:""}${x.rating?` <span style="color:#a15c00">★${x.rating.toFixed(1)}${x.reviews?` (${x.reviews})`:""}</span>`:""}<br>${x.city?x.city+", ":""}${x.country}${x.priceEurMonthly?`<br>from ${x.priceConfidence==='estimate'?'~':''}€${x.priceEurMonthly}/mo${x.priceConfidence==='estimate'?' <span style="font-size:.75em;color:#888">est.</span>':''}`:""}${x._slug?`<br><a href="/coliving/${x._slug}/" style="font-weight:600">Details →</a>`:""}`);
       m.on("click",()=>focusRecord(idx));
       withCoords.push(m); x.__m=m;
     } else { x.__m=null; }
@@ -1789,7 +1790,7 @@ function render(skipFit){
     const row=document.createElement("div"); row.className="row cols"; row.id="row-"+idx;
     row.innerHTML=`
       <div class="r-name">
-        <div class="nm">${detailUrl?`<a class="nmlink" href="${detailUrl}">${x.name}</a>`:x.name}</div>
+        <div class="nm">${detailUrl?`<a class="nmlink" href="${detailUrl}">${x.name}</a>`:x.name}${x.opening?`<span class="soon" title="Not open yet — opening ${x.opening}">opening ${x.opening}</span>`:""}</div>
         <div class="loc">${loc} · ${x.region}</div>
         ${tagsHtml?`<div class="tags">${tagsHtml}</div>`:""}
         ${datesHtml}

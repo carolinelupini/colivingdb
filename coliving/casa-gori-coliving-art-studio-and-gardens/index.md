@@ -2,6 +2,7 @@
 
 > Coliving in Valencia, Spain. Last updated July 27, 2026.
 
+- **Status:** <b>Not open yet</b> — opening April 2027
 - **Location:** Valencia, Spain
 - **Type:** Permanent coliving
 - **Price:** from €1,200/mo
