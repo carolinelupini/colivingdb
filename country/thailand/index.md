@@ -7,7 +7,7 @@
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
 | beacHub | Koh Phangan | from THB 6,500/mo | 4.2 (145) | shared | — | Permanent |
-| Hub53 Coworking & Coliving | Chiang Mai | from THB 9,000/mo | 4.6 (187) | private | — | Permanent |
+| Hub53 Coworking & Coliving | Chiang Mai | from THB 9,500/mo | 4.6 (187) | private | — | Permanent |
 | The Yard Hostel | Bangkok | from $300/mo | 4.7 (811) | private, dorm | — | Permanent |
 | Taeparak Home | Chiang Mai | from $324/mo | — | private, dorm | 30 nights | Permanent |
 | Socialer Coliving & Coworking Space | Chiang Mai | from €390/mo | 4.6 (70) | dorm | 1 night | Permanent |

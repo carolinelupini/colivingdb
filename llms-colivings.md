@@ -552,7 +552,7 @@
 | [Chiangmai Inn Guesthouse](/coliving/chiangmai-inn-guesthouse/index.md) | Chiang Mai | Thailand | On request | — | Permanent |
 | [Digital Nomad Adventures](/coliving/digital-nomad-adventures/index.md) | Koh Phangan | Thailand | from $695/mo | 7 nights | Permanent |
 | [HOMA Phuket Town](/coliving/homa-phuket-town/index.md) | Phuket | Thailand | from THB 18,000/mo | — | Permanent |
-| [Hub53 Coworking & Coliving](/coliving/hub53-coworking-and-coliving/index.md) | Chiang Mai | Thailand | from THB 9,000/mo | — | Permanent |
+| [Hub53 Coworking & Coliving](/coliving/hub53-coworking-and-coliving/index.md) | Chiang Mai | Thailand | from THB 9,500/mo | — | Permanent |
 | [KoHub](/coliving/kohub/index.md) | Ko Lanta | Thailand | from THB 49,500/mo | 30 nights | Permanent |
 | [LITA Bangkok](/coliving/lita-bangkok/index.md) | bangkok | Thailand | On request | — | Permanent |
 | [Noma Collective — Koh Lanta](/coliving/noma-collective-koh-lanta/index.md) | Koh Lanta | Thailand | from $3,190/event | — | Pop-up |
