@@ -1,6 +1,6 @@
 # Galileo Galilei Home
 
-> Coliving in Matera, Italy. Last updated July 25, 2026.
+> Coliving in Matera, Italy. Last updated July 27, 2026.
 
 - **Location:** Matera, Italy
 - **Type:** Permanent coliving

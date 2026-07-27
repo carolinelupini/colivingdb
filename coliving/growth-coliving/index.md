@@ -1,6 +1,6 @@
 # Growth Coliving
 
-> Coliving in Pousa, Galicia, Spain. Last updated July 25, 2026.
+> Coliving in Pousa, Galicia, Spain. Last updated July 27, 2026.
 
 - **Location:** Pousa, Galicia, Spain
 - **Type:** Permanent coliving

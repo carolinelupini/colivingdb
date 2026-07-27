@@ -1,6 +1,6 @@
 # WiFi Tribe — Bocas del Toro
 
-> Coliving in Bocas del Toro, Panama. Last updated July 25, 2026.
+> Coliving in Bocas del Toro, Panama. Last updated July 27, 2026.
 
 - **Location:** Bocas del Toro, Panama
 - **Type:** Pop-up / dated edition

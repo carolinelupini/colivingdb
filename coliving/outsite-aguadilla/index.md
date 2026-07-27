@@ -1,6 +1,6 @@
 # Outsite Aguadilla
 
-> Coliving in Aguadilla, Puerto Rico. Last updated July 25, 2026.
+> Coliving in Aguadilla, Puerto Rico. Last updated July 27, 2026.
 
 - **Location:** Aguadilla, Puerto Rico
 - **Type:** Permanent coliving

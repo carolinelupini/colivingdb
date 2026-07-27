@@ -1,6 +1,6 @@
 # Outsite Austin - Bouldin Creek
 
-> Coliving in Austin, United States. Last updated July 25, 2026.
+> Coliving in Austin, United States. Last updated July 27, 2026.
 
 - **Location:** Austin, United States
 - **Type:** Permanent coliving

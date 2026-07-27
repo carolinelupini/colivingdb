@@ -1,6 +1,6 @@
 # Coliving in Kenya
 
-> 4 colivings in Kenya, prices from €500 to €1,543 per month – last updated July 25, 2026.
+> 6 colivings in Kenya, prices from €500 to €1,543 per month – last updated July 27, 2026.
 
 ## All colivings
 
@@ -10,6 +10,8 @@
 | AfricaNomads — Nairobi (Jul 2026) | Nairobi | from $1,760/mo | — | — | — | Pop-up |
 | AfricaNomads — Nairobi (Nov 2026) | Nairobi | from $1,760/mo | — | — | — | Pop-up |
 | AfricaNomads — Lamu Island | Lamu Island | from $440/wk | — | — | — | Pop-up |
+| AfricaNomads — Watamu (Jan 2027) | Watamu | from $440/wk | — | — | — | Pop-up |
+| AfricaNomads — Watamu (Oct 2027) | Watamu | from $440/wk | — | — | — | Pop-up |
 
 ## Price distribution
 
@@ -23,5 +25,7 @@
 - AfricaNomads — Lamu Island — Aug 2 - Aug 30, 2026
 - AfricaNomads — Nairobi (Jul 2026) — July 5 - Aug 2, 2026
 - AfricaNomads — Nairobi (Nov 2026) — Nov 22 - Dec 13, 2026
+- AfricaNomads — Watamu (Jan 2027) — Jan 31 - Feb 28, 2027
+- AfricaNomads — Watamu (Oct 2027) — Oct 10 - Nov 7, 2027
 
 Source: https://colivingdb.com/country/kenya/

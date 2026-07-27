@@ -1,6 +1,6 @@
 # Co.404 Oaxaca City
 
-> Coliving in Oaxaca, Mexico. Last updated July 25, 2026.
+> Coliving in Oaxaca, Mexico. Last updated July 27, 2026.
 
 - **Location:** Oaxaca, Mexico
 - **Type:** Permanent coliving

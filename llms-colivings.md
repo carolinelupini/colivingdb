@@ -1,6 +1,6 @@
 # colivingDB — all colivings
 
-> 602 listings. Last updated July 25, 2026.
+> 608 listings. Last updated July 27, 2026.
 
 | Coliving | City | Country | Price from | Min stay | Type |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Noma Collective — Placencia (Jan 2027)](/coliving/noma-collective-placencia-jan-2027/index.md) | Placencia | Belize | from $2,590/event | — | Pop-up |
 | [Noma Collective — Placencia (Nov 2026)](/coliving/noma-collective-placencia-nov-2026/index.md) | Placencia | Belize | from $2,590/event | — | Pop-up |
 | [WiFi Tribe — La Paz](/coliving/wifi-tribe-la-paz/index.md) | La Paz | Bolivia | from $1,590/mo | 28 nights | Pop-up |
+| [AfricaNomads — Botswana (Jun 2027)](/coliving/africanomads-botswana-jun-2027/index.md) | Maun | Botswana | from $440/wk | — | Pop-up |
 | [Horizonte Coliving - Mangabeiras](/coliving/horizonte-coliving-mangabeiras/index.md) | Belo Horizonte | Brazil | from BRL 1,600/mo | 30 nights | Permanent |
 | [Horizonte Coliving - Santa Tereza](/coliving/horizonte-coliving-santa-tereza/index.md) | Belo Horizonte | Brazil | from BRL 1,700/mo | 30 nights | Permanent |
 | [INFINI Coliving](/coliving/infini-coliving/index.md) | Jauá (Camaçari), near Salvador | Brazil | from €270/mo | 1 night | Permanent |
@@ -217,11 +218,14 @@
 | [AfricaNomads — Lamu Island](/coliving/africanomads-lamu-island/index.md) | Lamu Island | Kenya | from $440/wk | — | Pop-up |
 | [AfricaNomads — Nairobi (Jul 2026)](/coliving/africanomads-nairobi-jul-2026/index.md) | Nairobi | Kenya | from $1,760/mo | — | Pop-up |
 | [AfricaNomads — Nairobi (Nov 2026)](/coliving/africanomads-nairobi-nov-2026/index.md) | Nairobi | Kenya | from $1,760/mo | — | Pop-up |
+| [AfricaNomads — Watamu (Jan 2027)](/coliving/africanomads-watamu-jan-2027/index.md) | Watamu | Kenya | from $440/wk | — | Pop-up |
+| [AfricaNomads — Watamu (Oct 2027)](/coliving/africanomads-watamu-oct-2027/index.md) | Watamu | Kenya | from $440/wk | — | Pop-up |
 | [Skippers](/coliving/skippers/index.md) | Diani Beach | Kenya | from €500/mo | 28 nights | Permanent |
 | [Coliver - La Réunion](/coliving/coliver-la-reunion/index.md) | Saint Pierre | La Réunion | On request | — | Permanent |
 | [The Jelgavas Iela (Jelgavas Iela Hub)](/coliving/the-jelgavas-iela-jelgavas-iela-hub/index.md) | Riga | Latvia | from $760/mo | 5 months | Permanent |
 | [The Naujamiestis (Naujamiestis Hub)](/coliving/the-naujamiestis-naujamiestis-hub/index.md) | Vilnius | Lithuania | from $794/mo | 30 nights | Permanent |
 | [The Santaros (Santaros Hub)](/coliving/the-santaros-santaros-hub/index.md) | Vilnius | Lithuania | from $783/mo | 5 months | Permanent |
+| [AfricaNomads — Malawi (Lake Malawi) (Aug 2027)](/coliving/africanomads-malawi-lake-malawi-aug-2027/index.md) | Nkhata Bay (Lake Malawi) | Malawi | from $440/wk | — | Pop-up |
 | [AfricaNomads — Malawi (Lake Malawi) (Jun 2026)](/coliving/africanomads-malawi-lake-malawi-jun-2026/index.md) | Malawi (Lake Malawi) | Malawi | from $440/wk | — | Pop-up |
 | [AfricaNomads — Malawi (Lake Malawi) (Oct 2026)](/coliving/africanomads-malawi-lake-malawi-oct-2026/index.md) | Malawi (Lake Malawi) | Malawi | from $440/wk | — | Pop-up |
 | [Balai Polis Residence](/coliving/balai-polis-residence/index.md) | Kuala Lumpur | Malaysia | from $196/mo | 30 nights | Permanent |
@@ -382,6 +386,7 @@
 | [The Better Neighbours — Sinaia](/coliving/the-better-neighbours-sinaia/index.md) | Sinaia | Romania | from €670/mo | — | Pop-up |
 | [Transylvanian Coliving](/coliving/transylvanian-coliving/index.md) | Sibiu | Romania | On request | — | Permanent |
 | [play:space cluj Spatiu Evenimente Coworking Coliving](/coliving/play-space-cluj-spatiu-evenimente-coworking-coliving/index.md) | Cluj-Napoca | Romania | from €100/wk | — | Permanent |
+| [AfricaNomads — Kigali (May 2027)](/coliving/africanomads-kigali-may-2027/index.md) | Kigali | Rwanda | from $440/wk | — | Pop-up |
 | [WiFi Tribe — Edinburgh](/coliving/wifi-tribe-edinburgh/index.md) | Edinburgh | Scotland (UK) | from $3,690/mo | 28 nights | Pop-up |
 | [Gođevačka Collective](/coliving/goevacka-collective/index.md) | Divcibare | Serbia | from $2,257/mo | 30 nights | Permanent |
 | [Mokrin House](/coliving/mokrin-house/index.md) | Mokrin | Serbia | from €907/mo | — | Permanent |
@@ -606,3 +611,4 @@
 | [Noma Collective — Hoi An](/coliving/noma-collective-hoi-an/index.md) | Hoi An | Vietnam | from $1,690/event | — | Pop-up |
 | [The Cây Giá Hạ](/coliving/the-cay-gia-ha/index.md) | Hoi An | Vietnam | from $418/mo | 30 nights | Permanent |
 | [The Mẹ Thứ](/coliving/the-me-thu/index.md) | Hoi An | Vietnam | from $742/mo | 30 nights | Permanent |
+| [AfricaNomads — Zambia (Jul 2027)](/coliving/africanomads-zambia-jul-2027/index.md) | Livingstone | Zambia | from $440/wk | — | Pop-up |

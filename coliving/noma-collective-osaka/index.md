@@ -1,6 +1,6 @@
 # Noma Collective — Osaka
 
-> Coliving in Osaka, Japan. Last updated July 25, 2026.
+> Coliving in Osaka, Japan. Last updated July 27, 2026.
 
 - **Location:** Osaka, Japan
 - **Type:** Pop-up / dated edition

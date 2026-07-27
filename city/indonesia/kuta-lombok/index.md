@@ -1,6 +1,6 @@
 # Coliving in Kuta Lombok, Indonesia
 
-> 2 colivings in Kuta Lombok, Indonesia – last updated July 25, 2026.
+> 2 colivings in Kuta Lombok, Indonesia – last updated July 27, 2026.
 
 ## All colivings
 

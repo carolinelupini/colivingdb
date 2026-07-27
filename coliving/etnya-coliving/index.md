@@ -1,6 +1,6 @@
 # ETNYA Coliving
 
-> Coliving in Mérida, Mexico. Last updated July 25, 2026.
+> Coliving in Mérida, Mexico. Last updated July 27, 2026.
 
 - **Location:** Mérida, Mexico
 - **Type:** Permanent coliving

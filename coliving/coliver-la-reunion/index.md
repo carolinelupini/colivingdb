@@ -1,6 +1,6 @@
 # Coliver - La Réunion
 
-> Coliving in Saint Pierre, La Réunion. Last updated July 25, 2026.
+> Coliving in Saint Pierre, La Réunion. Last updated July 27, 2026.
 
 - **Location:** Saint Pierre, La Réunion
 - **Type:** Permanent coliving

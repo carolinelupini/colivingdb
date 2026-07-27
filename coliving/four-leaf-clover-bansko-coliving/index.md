@@ -1,6 +1,6 @@
 # Four Leaf Clover Bansko - Coliving
 
-> Coliving in Bansko, Bulgaria. Last updated July 25, 2026.
+> Coliving in Bansko, Bulgaria. Last updated July 27, 2026.
 
 - **Location:** Bansko, Bulgaria
 - **Type:** Permanent coliving

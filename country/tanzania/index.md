@@ -1,6 +1,6 @@
 # Coliving in Tanzania
 
-> 5 colivings in Tanzania, prices from €1,219 to €1,219 per month – last updated July 25, 2026.
+> 5 colivings in Tanzania, prices from €1,219 to €1,219 per month – last updated July 27, 2026.
 
 ## All colivings
 
@@ -20,7 +20,7 @@
 
 ## Upcoming pop-ups
 
-- AfricaNomads Zanzibar — Oct 2026 / May 10 - Jun 7, 2027
+- AfricaNomads Zanzibar — Mar 28 - Apr 25, 2027
 - AfricaNomads — Kilimanjaro (Moshi) — Dec 13 - Dec 21, 2026 (Kilimanjaro expedition)
 - AfricaNomads — Zanzibar — Sept 27 - Oct 25, 2026
 - Backyard Ventures — ~late September - late October (annual dry-season program; last confirmed Sept 27 - Oct 26, 2025); 2026 dates not yet published

@@ -1,6 +1,6 @@
 # Eco-living Finca La Palmera
 
-> Coliving in La Zarzuela (Tarifa), Cádiz, Spain. Last updated July 25, 2026.
+> Coliving in La Zarzuela (Tarifa), Cádiz, Spain. Last updated July 27, 2026.
 
 - **Location:** La Zarzuela (Tarifa), Cádiz, Spain
 - **Type:** Permanent coliving

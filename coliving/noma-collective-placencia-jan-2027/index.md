@@ -1,6 +1,6 @@
 # Noma Collective — Placencia (Jan 2027)
 
-> Coliving in Placencia, Belize. Last updated July 25, 2026.
+> Coliving in Placencia, Belize. Last updated July 27, 2026.
 
 - **Location:** Placencia, Belize
 - **Type:** Pop-up / dated edition

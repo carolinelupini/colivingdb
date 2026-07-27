@@ -1,6 +1,6 @@
 # Pitaya coliving
 
-> Coliving in Arrecife, Spain. Last updated July 25, 2026.
+> Coliving in Arrecife, Spain. Last updated July 27, 2026.
 
 - **Location:** Arrecife, Spain
 - **Type:** Permanent coliving

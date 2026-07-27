@@ -1,6 +1,6 @@
 # Coliving in Guadalajara, Mexico
 
-> 4 colivings in Guadalajara, Mexico – last updated July 25, 2026.
+> 4 colivings in Guadalajara, Mexico – last updated July 27, 2026.
 
 ## All colivings
 

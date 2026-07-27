@@ -1,6 +1,6 @@
 # The Hill
 
-> Coliving in Cape Town, South Africa. Last updated July 25, 2026.
+> Coliving in Cape Town, South Africa. Last updated July 27, 2026.
 
 - **Location:** Cape Town, South Africa
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # Coliving in Gerani (Crete), Greece
 
-> 1 colivings in Gerani (Crete), Greece, prices from €750 to €750 per month – last updated July 25, 2026.
+> 1 colivings in Gerani (Crete), Greece, prices from €750 to €750 per month – last updated July 27, 2026.
 
 ## All colivings
 

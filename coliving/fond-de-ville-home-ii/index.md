@@ -1,6 +1,6 @@
 # Fond de Ville Home II
 
-> Coliving in Liddes, Switzerland. Last updated July 25, 2026.
+> Coliving in Liddes, Switzerland. Last updated July 27, 2026.
 
 - **Location:** Liddes, Switzerland
 - **Type:** Permanent coliving

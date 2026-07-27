@@ -1,10 +1,10 @@
 # AfricaNomads Zanzibar
 
-> Coliving in Jambiani, Zanzibar, Tanzania. Last updated July 25, 2026.
+> Coliving in Jambiani, Zanzibar, Tanzania. Last updated July 27, 2026.
 
 - **Location:** Jambiani, Zanzibar, Tanzania
 - **Type:** Pop-up / dated edition
-- **Dates:** Oct 2026 / May 10 - Jun 7, 2027
+- **Dates:** Mar 28 - Apr 25, 2027
 - **Price:** from $440/wk
 - **Price note:** Brand-wide: stays start from $440/week depending on destination, 2-week minimum (long-stay rates from 2 months). Per-edition pricing is not published — request it from AfricaNomads.
 - **Room types:** —

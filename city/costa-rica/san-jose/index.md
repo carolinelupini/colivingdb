@@ -1,6 +1,6 @@
 # Coliving in San José, Costa Rica
 
-> 4 colivings in San José, Costa Rica, prices from €289 to €367 per month – last updated July 25, 2026.
+> 4 colivings in San José, Costa Rica, prices from €289 to €367 per month – last updated July 27, 2026.
 
 ## All colivings
 

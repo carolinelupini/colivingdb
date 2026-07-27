@@ -1,6 +1,6 @@
 # The Jelgavas Iela (Jelgavas Iela Hub)
 
-> Coliving in Riga, Latvia. Last updated July 25, 2026.
+> Coliving in Riga, Latvia. Last updated July 27, 2026.
 
 - **Location:** Riga, Latvia
 - **Type:** Permanent coliving

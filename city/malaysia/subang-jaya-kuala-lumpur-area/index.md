@@ -1,6 +1,6 @@
 # Coliving in Subang Jaya (Kuala Lumpur area), Malaysia
 
-> 1 colivings in Subang Jaya (Kuala Lumpur area), Malaysia, prices from €270 to €270 per month – last updated July 25, 2026.
+> 1 colivings in Subang Jaya (Kuala Lumpur area), Malaysia, prices from €270 to €270 per month – last updated July 27, 2026.
 
 ## All colivings
 

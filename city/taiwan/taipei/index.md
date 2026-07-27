@@ -1,6 +1,6 @@
 # Coliving in Taipei, Taiwan
 
-> 3 colivings in Taipei, Taiwan, prices from €350 to €350 per month – last updated July 25, 2026.
+> 3 colivings in Taipei, Taiwan, prices from €350 to €350 per month – last updated July 27, 2026.
 
 ## All colivings
 

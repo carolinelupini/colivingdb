@@ -1,6 +1,6 @@
 # Coliving The VALLEY with Coworking Space
 
-> Coliving in Rogé, Vale de Cambra, Portugal. Last updated July 25, 2026.
+> Coliving in Rogé, Vale de Cambra, Portugal. Last updated July 27, 2026.
 
 - **Location:** Rogé, Vale de Cambra, Portugal
 - **Type:** Permanent coliving

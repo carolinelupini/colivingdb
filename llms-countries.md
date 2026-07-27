@@ -1,6 +1,6 @@
 # colivingDB — all countries
 
-> 602 colivings across 83 countries. Last updated July 25, 2026.
+> 608 colivings across 86 countries. Last updated July 27, 2026.
 
 | Country | Colivings | From (EUR/mo) |
 |---|---|---|
@@ -27,6 +27,7 @@
 | [Morocco](/country/morocco/index.md) | 8 | €61 |
 | [Vietnam](/country/vietnam/index.md) | 8 | €283 |
 | [Argentina](/country/argentina/index.md) | 6 | €506 |
+| [Kenya](/country/kenya/index.md) | 6 | €500 |
 | [Philippines](/country/philippines/index.md) | 6 | €525 |
 | [United Kingdom](/country/united-kingdom/index.md) | 6 | €470 |
 | [Germany](/country/germany/index.md) | 5 | €645 |
@@ -36,13 +37,13 @@
 | [Serbia](/country/serbia/index.md) | 5 | €297 |
 | [Tanzania](/country/tanzania/index.md) | 5 | €1,219 |
 | [Egypt](/country/egypt/index.md) | 4 | €167 |
-| [Kenya](/country/kenya/index.md) | 4 | €500 |
 | [Poland](/country/poland/index.md) | 4 | €513 |
 | [Romania](/country/romania/index.md) | 4 | €670 |
 | [Turkey](/country/turkey/index.md) | 4 | €435 |
 | [Belize](/country/belize/index.md) | 3 | — |
 | [Cyprus](/country/cyprus/index.md) | 3 | €1,160 |
 | [Georgia](/country/georgia/index.md) | 3 | €192 |
+| [Malawi](/country/malawi/index.md) | 3 | — |
 | [Panama](/country/panama/index.md) | 3 | €595 |
 | [South Korea](/country/south-korea/index.md) | 3 | €525 |
 | [Taiwan](/country/taiwan/index.md) | 3 | €350 |
@@ -56,7 +57,6 @@
 | [Guatemala](/country/guatemala/index.md) | 2 | €819 |
 | [Hungary](/country/hungary/index.md) | 2 | €900 |
 | [Lithuania](/country/lithuania/index.md) | 2 | €685 |
-| [Malawi](/country/malawi/index.md) | 2 | — |
 | [New Zealand](/country/new-zealand/index.md) | 2 | €763 |
 | [Nicaragua](/country/nicaragua/index.md) | 2 | €1,249 |
 | [Puerto Rico](/country/puerto-rico/index.md) | 2 | €2,184 |
@@ -65,6 +65,7 @@
 | [Albania](/country/albania/index.md) | 1 | €700 |
 | [Armenia](/country/armenia/index.md) | 1 | — |
 | [Bolivia](/country/bolivia/index.md) | 1 | €1,043 |
+| [Botswana](/country/botswana/index.md) | 1 | — |
 | [Cape Verde](/country/cape-verde/index.md) | 1 | — |
 | [Chile](/country/chile/index.md) | 1 | — |
 | [Czechia](/country/czechia/index.md) | 1 | — |
@@ -81,9 +82,11 @@
 | [Nigeria](/country/nigeria/index.md) | 1 | — |
 | [North Macedonia](/country/north-macedonia/index.md) | 1 | €1,043 |
 | [Peru](/country/peru/index.md) | 1 | €956 |
+| [Rwanda](/country/rwanda/index.md) | 1 | — |
 | [Scotland (UK)](/country/scotland-uk/index.md) | 1 | €1,482 |
 | [Seychelles](/country/seychelles/index.md) | 1 | €1,394 |
 | [Singapore](/country/singapore/index.md) | 1 | €1,800 |
 | [Slovenia](/country/slovenia/index.md) | 1 | €420 |
 | [Svalbard (Norway)](/country/svalbard-norway/index.md) | 1 | — |
 | [Sweden](/country/sweden/index.md) | 1 | €870 |
+| [Zambia](/country/zambia/index.md) | 1 | — |

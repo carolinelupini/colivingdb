@@ -1,6 +1,6 @@
 # Humant Coliving - Cancún, México
 
-> Coliving in Cancún, Mexico. Last updated July 25, 2026.
+> Coliving in Cancún, Mexico. Last updated July 27, 2026.
 
 - **Location:** Cancún, Mexico
 - **Type:** Permanent coliving

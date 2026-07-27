@@ -1,6 +1,6 @@
 # Coliving in Jambiani, Zanzibar, Tanzania
 
-> 1 colivings in Jambiani, Zanzibar, Tanzania – last updated July 25, 2026.
+> 1 colivings in Jambiani, Zanzibar, Tanzania – last updated July 27, 2026.
 
 ## All colivings
 
@@ -10,6 +10,6 @@
 
 ## Upcoming pop-ups
 
-- AfricaNomads Zanzibar — Oct 2026 / May 10 - Jun 7, 2027
+- AfricaNomads Zanzibar — Mar 28 - Apr 25, 2027
 
 Source: https://colivingdb.com/city/tanzania/jambiani-zanzibar/
