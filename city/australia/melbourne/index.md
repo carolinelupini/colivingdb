@@ -1,6 +1,6 @@
 # Coliving in Melbourne, Australia
 
-> 2 colivings in Melbourne, Australia – last updated July 27, 2026.
+> 2 colivings in Melbourne, Australia – last updated July 29, 2026.
 
 ## All colivings
 

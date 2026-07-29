@@ -1,6 +1,6 @@
 # Surfescape
 
-> Coliving in Lajares, Fuerteventura, Spain. Last updated July 27, 2026.
+> Coliving in Lajares, Fuerteventura, Spain. Last updated July 29, 2026.
 
 - **Location:** Lajares, Fuerteventura, Spain
 - **Type:** Permanent coliving

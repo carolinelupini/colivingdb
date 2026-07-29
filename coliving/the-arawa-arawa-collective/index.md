@@ -1,6 +1,6 @@
 # The Arawa (Arawa Collective)
 
-> Coliving in Rotorua, New Zealand. Last updated July 27, 2026.
+> Coliving in Rotorua, New Zealand. Last updated July 29, 2026.
 
 - **Location:** Rotorua, New Zealand
 - **Type:** Permanent coliving

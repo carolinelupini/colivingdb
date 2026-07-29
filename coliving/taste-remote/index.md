@@ -1,6 +1,6 @@
 # Taste Remote
 
-> Coliving in Civita Castellana, Italy. Last updated July 27, 2026.
+> Coliving in Civita Castellana, Italy. Last updated July 29, 2026.
 
 - **Location:** Civita Castellana, Italy
 - **Type:** Pop-up / dated edition

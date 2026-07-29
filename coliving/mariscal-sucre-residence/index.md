@@ -1,6 +1,6 @@
 # Mariscal Sucre Residence
 
-> Coliving in Quito, Ecuador. Last updated July 27, 2026.
+> Coliving in Quito, Ecuador. Last updated July 29, 2026.
 
 - **Location:** Quito, Ecuador
 - **Type:** Permanent coliving

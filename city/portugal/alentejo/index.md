@@ -1,6 +1,6 @@
 # Coliving in Alentejo, Portugal
 
-> 1 colivings in Alentejo, Portugal – last updated July 27, 2026.
+> 1 colivings in Alentejo, Portugal – last updated July 29, 2026.
 
 ## All colivings
 

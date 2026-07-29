@@ -1,6 +1,6 @@
 # WiFi Tribe — Cusco
 
-> Coliving in Cusco, Peru. Last updated July 27, 2026.
+> Coliving in Cusco, Peru. Last updated July 29, 2026.
 
 - **Location:** Cusco, Peru
 - **Type:** Pop-up / dated edition

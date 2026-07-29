@@ -1,6 +1,6 @@
 # Coliving in Sibiu, Romania
 
-> 1 colivings in Sibiu, Romania – last updated July 27, 2026.
+> 1 colivings in Sibiu, Romania – last updated July 29, 2026.
 
 ## All colivings
 

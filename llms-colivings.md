@@ -1,6 +1,6 @@
 # colivingDB — all colivings
 
-> 607 listings. Last updated July 27, 2026.
+> 607 listings. Last updated July 29, 2026.
 
 | Coliving | City | Country | Price from | Min stay | Type |
 |---|---|---|---|---|---|
@@ -326,7 +326,7 @@
 | [Boundless Life — Sintra](/coliving/boundless-life-sintra/index.md) | Sintra | Portugal | from €1,700/mo | — | Pop-up |
 | [Cabeco Alto Home](/coliving/cabeco-alto-home/index.md) | Santo da Serra (Madeira) | Portugal | from $1,143/mo | 30 nights | Permanent |
 | [Calcada Coliving (Calçada Guesthouse)](/coliving/calcada-coliving-calcada-guesthouse/index.md) | Tavira | Portugal | from €780/mo | 29 nights | Permanent |
-| [Caminho Coliving](/coliving/caminho-coliving/index.md) | Moreira, Maia (Porto area) | Portugal | from €595/mo | — | Permanent |
+| [Caminho Coliving](/coliving/caminho-coliving/index.md) | Moreira, Maia (Porto area) | Portugal | from €700/mo | 30 nights | Permanent |
 | [Casa Basilico — Madeira](/coliving/casa-basilico-madeira/index.md) | Madeira | Portugal | from €2,249/mo | 14 nights | Pop-up |
 | [Casa do Pico](/coliving/casa-do-pico/index.md) | Funchal, Madeira | Portugal | from €1,050/mo | 7 nights | Permanent |
 | [Casa15 Azores](/coliving/casa15-azores/index.md) | Sao Miguel, Azores | Portugal | from €950/mo | — | Permanent |

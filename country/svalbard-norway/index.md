@@ -1,6 +1,6 @@
 # Coliving in Svalbard (Norway)
 
-> 1 colivings in Svalbard (Norway) – last updated July 27, 2026.
+> 1 colivings in Svalbard (Norway) – last updated July 29, 2026.
 
 ## All colivings
 

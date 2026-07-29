@@ -1,6 +1,6 @@
 # The Coh
 
-> Coliving in Auckland, New Zealand. Last updated July 27, 2026.
+> Coliving in Auckland, New Zealand. Last updated July 29, 2026.
 
 - **Location:** Auckland, New Zealand
 - **Type:** Permanent coliving

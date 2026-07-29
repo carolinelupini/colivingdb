@@ -1,6 +1,6 @@
 # Communal Coliving
 
-> Coliving in Santa Fe, Siargao, Philippines. Last updated July 27, 2026.
+> Coliving in Santa Fe, Siargao, Philippines. Last updated July 29, 2026.
 
 - **Location:** Santa Fe, Siargao, Philippines
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # The Chile
 
-> Coliving in Buenos Aires, Argentina. Last updated July 27, 2026.
+> Coliving in Buenos Aires, Argentina. Last updated July 29, 2026.
 
 - **Location:** Buenos Aires, Argentina
 - **Type:** Permanent coliving

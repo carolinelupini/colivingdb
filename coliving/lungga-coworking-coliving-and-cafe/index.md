@@ -1,6 +1,6 @@
 # Lungga Coworking, Coliving & Cafe
 
-> Coliving in General Luna (Siargao), Philippines. Last updated July 27, 2026.
+> Coliving in General Luna (Siargao), Philippines. Last updated July 29, 2026.
 
 - **Location:** General Luna (Siargao), Philippines
 - **Type:** Permanent coliving

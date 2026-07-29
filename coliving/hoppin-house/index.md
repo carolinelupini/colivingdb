@@ -1,6 +1,6 @@
 # Hoppin House
 
-> Coliving in Seoul (Yeonnam/Hongdae), South Korea. Last updated July 27, 2026.
+> Coliving in Seoul (Yeonnam/Hongdae), South Korea. Last updated July 29, 2026.
 
 - **Location:** Seoul (Yeonnam/Hongdae), South Korea
 - **Type:** Permanent coliving

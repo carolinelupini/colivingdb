@@ -1,6 +1,6 @@
 # Coliving in Laconi (Sardinia), Italy
 
-> 1 colivings in Laconi (Sardinia), Italy – last updated July 27, 2026.
+> 1 colivings in Laconi (Sardinia), Italy – last updated July 29, 2026.
 
 ## All colivings
 

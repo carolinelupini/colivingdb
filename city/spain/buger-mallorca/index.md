@@ -1,6 +1,6 @@
 # Coliving in Búger, Mallorca, Spain
 
-> 1 colivings in Búger, Mallorca, Spain, prices from €490 to €490 per month – last updated July 27, 2026.
+> 1 colivings in Búger, Mallorca, Spain, prices from €490 to €490 per month – last updated July 29, 2026.
 
 ## All colivings
 

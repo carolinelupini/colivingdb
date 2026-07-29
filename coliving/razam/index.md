@@ -1,6 +1,6 @@
 # RAZAM
 
-> Coliving in Grodzisk Mazowiecki, Poland. Last updated July 27, 2026.
+> Coliving in Grodzisk Mazowiecki, Poland. Last updated July 29, 2026.
 
 - **Location:** Grodzisk Mazowiecki, Poland
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # INFINI Coliving
 
-> Coliving in Jauá (Camaçari), near Salvador, Brazil. Last updated July 27, 2026.
+> Coliving in Jauá (Camaçari), near Salvador, Brazil. Last updated July 29, 2026.
 
 - **Location:** Jauá (Camaçari), near Salvador, Brazil
 - **Type:** Permanent coliving
@@ -9,7 +9,8 @@
 - **Rating:** <a href="https://maps.google.com/?cid=3086301761505460501&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (27 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Vibe:** A growth- and nature-focused villa community emphasizing mindful living, creativity, collaboration, and connection near Salvador, Brazil.
+- **Wi-Fi (on-site):** 190 Mbps down <small>· operator-reported</small><br><small>Operator speedtest 2026-07-28: 190.8 Mbps down / 153.8 up, 87 ms, 0% loss, on a 300 Mbps Brisanet fibre line (measured, not the advertised line speed).</small>
+- **Vibe:** A small oceanfront creative coliving in Bahia built around a slower pace and real immersion in Brazilian culture. Guests are remote workers, creatives, artists and slow travellers, and the house is run to balance community with personal space.
 - **Minimum stay:** 1 night
 - **Region:** Latin America
 - **Timezone:** GMT-3 <small>· US East: full workday overlap · Central Europe: good overlap</small>
@@ -28,6 +29,6 @@ INFINI Coliving does not publish a nightly or weekly rate.
 
 ## About
 
-Permanent coliving in Jauá/Camaçari near Salvador, Bahia; 7 private rooms, ~€270/mo promo rate (from €300), from €10/night; no dorm beds mentioned.
+Small oceanfront house near Salvador with private rooms. The founder also runs Ondas de Arte, an art and environmental project working with the local community through murals, creative residencies and cultural exchange.
 
 Source: https://colivingdb.com/coliving/infini-coliving/

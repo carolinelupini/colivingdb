@@ -1,6 +1,6 @@
 # Nomad's Ville (Mirante de Pipa)
 
-> Coliving in Praia da Pipa, Brazil. Last updated July 27, 2026.
+> Coliving in Praia da Pipa, Brazil. Last updated July 29, 2026.
 
 - **Location:** Praia da Pipa, Brazil
 - **Type:** Permanent coliving

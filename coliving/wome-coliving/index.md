@@ -1,6 +1,6 @@
 # Wome coliving
 
-> Coliving in Campo Tartano (Val Tartano), Italy. Last updated July 27, 2026.
+> Coliving in Campo Tartano (Val Tartano), Italy. Last updated July 29, 2026.
 
 - **Location:** Campo Tartano (Val Tartano), Italy
 - **Type:** Permanent coliving

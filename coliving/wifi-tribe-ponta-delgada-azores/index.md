@@ -1,6 +1,6 @@
 # WiFi Tribe — Ponta Delgada (Azores)
 
-> Coliving in Ponta Delgada (Azores), Portugal. Last updated July 27, 2026.
+> Coliving in Ponta Delgada (Azores), Portugal. Last updated July 29, 2026.
 
 - **Location:** Ponta Delgada (Azores), Portugal
 - **Type:** Pop-up / dated edition

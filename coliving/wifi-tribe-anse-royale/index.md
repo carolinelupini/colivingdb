@@ -1,6 +1,6 @@
 # WiFi Tribe — Anse Royale
 
-> Coliving in Anse Royale, Seychelles. Last updated July 27, 2026.
+> Coliving in Anse Royale, Seychelles. Last updated July 29, 2026.
 
 - **Location:** Anse Royale, Seychelles
 - **Type:** Pop-up / dated edition

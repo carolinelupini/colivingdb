@@ -1,6 +1,6 @@
 # Outpost
 
-> Coliving in Multiple (Bali, Sri Lanka). Last updated July 27, 2026.
+> Coliving in Multiple (Bali, Sri Lanka). Last updated July 29, 2026.
 
 - **Location:** Multiple (Bali, Sri Lanka)
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # Balai Polis Residence
 
-> Coliving in Kuala Lumpur, Malaysia. Last updated July 27, 2026.
+> Coliving in Kuala Lumpur, Malaysia. Last updated July 29, 2026.
 
 - **Location:** Kuala Lumpur, Malaysia
 - **Type:** Permanent coliving

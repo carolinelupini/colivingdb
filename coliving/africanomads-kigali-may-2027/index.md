@@ -1,6 +1,6 @@
 # AfricaNomads — Kigali (May 2027)
 
-> Coliving in Kigali, Rwanda. Last updated July 27, 2026.
+> Coliving in Kigali, Rwanda. Last updated July 29, 2026.
 
 - **Location:** Kigali, Rwanda
 - **Type:** Pop-up / dated edition

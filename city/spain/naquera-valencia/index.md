@@ -1,6 +1,6 @@
 # Coliving in Náquera (Valencia), Spain
 
-> 1 colivings in Náquera (Valencia), Spain, prices from €800 to €800 per month – last updated July 27, 2026.
+> 1 colivings in Náquera (Valencia), Spain, prices from €800 to €800 per month – last updated July 29, 2026.
 
 ## All colivings
 

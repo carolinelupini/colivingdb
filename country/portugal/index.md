@@ -1,6 +1,6 @@
 # Coliving in Portugal
 
-> 64 colivings in Portugal, prices from €150 to €2,249 per month – last updated July 27, 2026.
+> 64 colivings in Portugal, prices from €150 to €2,249 per month – last updated July 29, 2026.
 
 ## All colivings
 
@@ -10,10 +10,10 @@
 | Coliving The VALLEY with Coworking Space | Rogé, Vale de Cambra | from €510/mo | 5.0 (33) | private | 5 nights | Permanent |
 | Quinta Da Carvalheira | Soure | from €510/mo | 5.0 (14) | — | 1 night | Permanent |
 | Nomadico Coliving Ericeira | Ericeira | from €542/mo | 4.9 (28) | private, shared | 7 nights | Pop-up |
-| Caminho Coliving | Moreira, Maia (Porto area) | from €595/mo | 4.9 (9) | private, dorm | — | Permanent |
 | LIV Colife - Coliving | Porto | from €660/mo | 3.9 (54) | private | — | Permanent |
 | Wild Oasis Algarve | Monchique | from €650/mo | 4.6 (73) | private | — | Permanent |
 | Novovento | Ginetes, São Miguel, Azores | from €300/mo | 4.8 (48) | private | 7 nights | Permanent |
+| Caminho Coliving | Moreira, Maia (Porto area) | from €700/mo | 4.9 (9) | private | 30 nights | Permanent |
 | Lava Coliving & Coworking | Ribeira Grande, São Miguel | from €25/night | 4.9 (60) | private, shared | 7 nights | Permanent |
 | Calcada Coliving (Calçada Guesthouse) | Tavira | from €780/mo | 4.9 (90) | private | 29 nights | Permanent |
 | Barefoot Guesthouse & Coliving Ericeira | Ericeira | from €800/mo | 4.9 (127) | private | 30 nights | Permanent |

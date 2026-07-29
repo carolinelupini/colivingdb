@@ -1,6 +1,6 @@
 # Horizonte Coliving - Mangabeiras
 
-> Coliving in Belo Horizonte, Brazil. Last updated July 27, 2026.
+> Coliving in Belo Horizonte, Brazil. Last updated July 29, 2026.
 
 - **Location:** Belo Horizonte, Brazil
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # Outsite Algarve - Sagres
 
-> Coliving in Sagres, Portugal. Last updated July 27, 2026.
+> Coliving in Sagres, Portugal. Last updated July 29, 2026.
 
 - **Location:** Sagres, Portugal
 - **Type:** Permanent coliving
