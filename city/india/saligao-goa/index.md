@@ -1,6 +1,6 @@
 # Coliving in Saligao, Goa, India
 
-> 1 colivings in Saligao, Goa, India, prices from €369 to €369 per month – last updated July 29, 2026.
+> 1 colivings in Saligao, Goa, India, prices from €369 to €369 per month – last updated July 30, 2026.
 
 ## All colivings
 

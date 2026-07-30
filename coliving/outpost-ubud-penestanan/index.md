@@ -1,6 +1,6 @@
 # Outpost Ubud Penestanan
 
-> Coliving in Ubud, Bali, Indonesia. Last updated July 29, 2026.
+> Coliving in Ubud, Bali, Indonesia. Last updated July 30, 2026.
 
 - **Location:** Ubud, Bali, Indonesia
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # Coliving in Tunisia
 
-> 2 colivings in Tunisia – last updated July 29, 2026.
+> 2 colivings in Tunisia – last updated July 30, 2026.
 
 ## All colivings
 

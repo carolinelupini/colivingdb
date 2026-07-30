@@ -1,6 +1,6 @@
 # Coliving in Bolivia
 
-> 1 colivings in Bolivia, prices from €1,043 to €1,043 per month – last updated July 29, 2026.
+> 1 colivings in Bolivia, prices from €1,043 to €1,043 per month – last updated July 30, 2026.
 
 ## All colivings
 

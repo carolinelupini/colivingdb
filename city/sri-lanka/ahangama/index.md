@@ -1,6 +1,6 @@
 # Coliving in Ahangama, Sri Lanka
 
-> 1 colivings in Ahangama, Sri Lanka, prices from €750 to €750 per month – last updated July 29, 2026.
+> 1 colivings in Ahangama, Sri Lanka, prices from €750 to €750 per month – last updated July 30, 2026.
 
 ## All colivings
 

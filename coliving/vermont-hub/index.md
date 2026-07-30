@@ -1,6 +1,6 @@
 # Vermont Hub
 
-> Coliving in Leysin, Switzerland. Last updated July 29, 2026.
+> Coliving in Leysin, Switzerland. Last updated July 30, 2026.
 
 - **Location:** Leysin, Switzerland
 - **Type:** Permanent coliving

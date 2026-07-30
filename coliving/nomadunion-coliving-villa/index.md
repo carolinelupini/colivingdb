@@ -1,6 +1,6 @@
 # NomadUnion Coliving (Villa)
 
-> Coliving in Biot, France. Last updated July 29, 2026.
+> Coliving in Biot, France. Last updated July 30, 2026.
 
 - **Location:** Biot, France
 - **Type:** Permanent coliving

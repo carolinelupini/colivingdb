@@ -1,6 +1,6 @@
 # Fuerteventura Coliving (Casa las Dunas)
 
-> Coliving in Corralejo, Fuerteventura, Spain. Last updated July 29, 2026.
+> Coliving in Corralejo, Fuerteventura, Spain. Last updated July 30, 2026.
 
 - **Location:** Corralejo, Fuerteventura, Spain
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # Niu WTC Departamentos
 
-> Coliving in Mexico City, Mexico. Last updated July 29, 2026.
+> Coliving in Mexico City, Mexico. Last updated July 30, 2026.
 
 - **Location:** Mexico City, Mexico
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # PAS Rural Coliving
 
-> Coliving in Villegar, Spain. Last updated July 29, 2026.
+> Coliving in Villegar, Spain. Last updated July 30, 2026.
 
 - **Location:** Villegar, Spain
 - **Type:** Permanent coliving

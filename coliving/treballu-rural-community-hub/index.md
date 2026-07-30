@@ -1,6 +1,6 @@
 # Treballu Rural Community Hub
 
-> Coliving in Laconi (Sardinia), Italy. Last updated July 29, 2026.
+> Coliving in Laconi (Sardinia), Italy. Last updated July 30, 2026.
 
 - **Location:** Laconi (Sardinia), Italy
 - **Type:** Permanent coliving

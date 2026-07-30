@@ -1,6 +1,6 @@
 # Coliving in Hurghada, Egypt
 
-> 1 colivings in Hurghada, Egypt, prices from €631 to €631 per month – last updated July 29, 2026.
+> 1 colivings in Hurghada, Egypt, prices from €631 to €631 per month – last updated July 30, 2026.
 
 ## All colivings
 

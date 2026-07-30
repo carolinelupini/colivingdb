@@ -1,6 +1,6 @@
 # play:space cluj Spatiu Evenimente Coworking Coliving
 
-> Coliving in Cluj-Napoca, Romania. Last updated July 29, 2026.
+> Coliving in Cluj-Napoca, Romania. Last updated July 30, 2026.
 
 - **Location:** Cluj-Napoca, Romania
 - **Type:** Permanent coliving

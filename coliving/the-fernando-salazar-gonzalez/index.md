@@ -1,6 +1,6 @@
 # The Fernando Salazar Gonzalez
 
-> Coliving in Las Galletas, Spain. Last updated July 29, 2026.
+> Coliving in Las Galletas, Spain. Last updated July 30, 2026.
 
 - **Location:** Las Galletas, Spain
 - **Type:** Permanent coliving

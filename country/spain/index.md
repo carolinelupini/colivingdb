@@ -1,6 +1,6 @@
 # Coliving in Spain
 
-> 93 colivings in Spain, prices from €71 to €2,600 per month – last updated July 29, 2026.
+> 93 colivings in Spain, prices from €71 to €2,600 per month – last updated July 30, 2026.
 
 ## All colivings
 
@@ -55,7 +55,7 @@
 | The Better Neighbours — Lloret de Mar | Lloret de Mar | from €925/mo | — | — | — | Pop-up |
 | Cohausing Cabanyal | Valencia | from €930/mo | 4.8 (108) | private | 30 nights | Permanent |
 | Eco-living Finca La Palmera | La Zarzuela (Tarifa), Cádiz | from €930/mo | 4.7 (88) | private | 30 nights | Permanent |
-| Maraya Coliving & Coworking | Candelaria, Tenerife | from €940/mo | 4.9 (98) | private, shared | 7 nights | Permanent |
+| Maraya Coliving & Coworking | Candelaria, Tenerife | from €940/mo | 4.9 (98) | private, shared, dorm | 14 nights | Permanent |
 | Bedndesk | S'Arenal (Mallorca) | from €750/mo | 4.7 (68) | private | 30 nights | Permanent |
 | Circles House | Coliving & Coworking | Barcelona | from €950/mo | 4.7 (99) | private, dorm | — | Permanent |
 | Casa Capitán Coliving | Guargacho, Tenerife | from €960/mo | 5.0 (18) | private | 1 night | Permanent |

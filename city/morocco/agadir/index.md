@@ -1,6 +1,6 @@
 # Coliving in Agadir, Morocco
 
-> 1 colivings in Agadir, Morocco, prices from €61 to €61 per month – last updated July 29, 2026.
+> 1 colivings in Agadir, Morocco, prices from €61 to €61 per month – last updated July 30, 2026.
 
 ## All colivings
 

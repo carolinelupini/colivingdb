@@ -1,6 +1,6 @@
 # Nomad Coliving
 
-> Coliving in Montreal, Canada. Last updated July 29, 2026.
+> Coliving in Montreal, Canada. Last updated July 30, 2026.
 
 - **Location:** Montreal, Canada
 - **Type:** Permanent coliving

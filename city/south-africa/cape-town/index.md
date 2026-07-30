@@ -1,6 +1,6 @@
 # Coliving in Cape Town, South Africa
 
-> 17 colivings in Cape Town, South Africa, prices from €170 to €3,506 per month – last updated July 29, 2026.
+> 17 colivings in Cape Town, South Africa, prices from €170 to €3,506 per month – last updated July 30, 2026.
 
 ## All colivings
 

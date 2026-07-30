@@ -1,6 +1,6 @@
 # colivingDB — all colivings
 
-> 607 listings. Last updated July 29, 2026.
+> 607 listings. Last updated July 30, 2026.
 
 | Coliving | City | Country | Price from | Min stay | Type |
 |---|---|---|---|---|---|
@@ -466,7 +466,7 @@
 | [La Toza Coworking & Coliving](/coliving/la-toza-coworking-and-coliving/index.md) | Cabrero | Spain | from €870/mo | 15 nights | Permanent |
 | [Laberint Coliving](/coliving/laberint-coliving/index.md) | Palma de Mallorca | Spain | from €1,200/mo | 32 nights | Permanent |
 | [Macaw 25 Coliving](/coliving/macaw-25-coliving/index.md) | Las Palmas de Gran Canaria | Spain | from €754/mo | — | Permanent |
-| [Maraya Coliving & Coworking](/coliving/maraya-coliving-and-coworking/index.md) | Candelaria, Tenerife | Spain | from €940/mo | 7 nights | Permanent |
+| [Maraya Coliving & Coworking](/coliving/maraya-coliving-and-coworking/index.md) | Candelaria, Tenerife | Spain | from €940/mo | 14 nights | Permanent |
 | [Mas Pujols](/coliving/mas-pujols/index.md) | Sant Boi de Llucanes (Catalonia) | Spain | On request | — | Permanent |
 | [Nine Coliving](/coliving/nine-coliving/index.md) | La Orotava, Tenerife | Spain | from €900/mo | 14 nights | Permanent |
 | [Nomadico Coliving Tarifa](/coliving/nomadico-coliving-tarifa/index.md) | Tarifa | Spain | from €688/mo | — | Pop-up |

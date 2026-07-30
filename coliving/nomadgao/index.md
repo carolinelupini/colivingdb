@@ -1,6 +1,6 @@
 # NomadGao
 
-> Coliving in Goa, India. Last updated July 29, 2026.
+> Coliving in Goa, India. Last updated July 30, 2026.
 
 - **Location:** Goa, India
 - **Type:** Permanent coliving

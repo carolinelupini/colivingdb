@@ -1,6 +1,6 @@
 # Coliving in Pipa, Brazil
 
-> 1 colivings in Pipa, Brazil – last updated July 29, 2026.
+> 1 colivings in Pipa, Brazil – last updated July 30, 2026.
 
 ## All colivings
 

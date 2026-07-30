@@ -1,6 +1,6 @@
 # García Morato Home
 
-> Coliving in Las Palmas, Spain. Last updated July 29, 2026.
+> Coliving in Las Palmas, Spain. Last updated July 30, 2026.
 
 - **Location:** Las Palmas, Spain
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # Coliving in Belo Horizonte, Brazil
 
-> 2 colivings in Belo Horizonte, Brazil, prices from €274 to €291 per month – last updated July 29, 2026.
+> 2 colivings in Belo Horizonte, Brazil, prices from €274 to €291 per month – last updated July 30, 2026.
 
 ## All colivings
 

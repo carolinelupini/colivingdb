@@ -1,6 +1,6 @@
 # Taeparak Home
 
-> Coliving in Chiang Mai, Thailand. Last updated July 29, 2026.
+> Coliving in Chiang Mai, Thailand. Last updated July 30, 2026.
 
 - **Location:** Chiang Mai, Thailand
 - **Type:** Permanent coliving

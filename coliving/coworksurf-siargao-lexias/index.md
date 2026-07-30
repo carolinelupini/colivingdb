@@ -1,6 +1,6 @@
 # Coworksurf Siargao (Lexias)
 
-> Coliving in Siargao, Philippines. Last updated July 29, 2026.
+> Coliving in Siargao, Philippines. Last updated July 30, 2026.
 
 - **Location:** Siargao, Philippines
 - **Type:** Permanent coliving

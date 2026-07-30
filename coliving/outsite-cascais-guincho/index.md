@@ -1,6 +1,6 @@
 # Outsite Cascais - Guincho
 
-> Coliving in Cascais, Portugal. Last updated July 29, 2026.
+> Coliving in Cascais, Portugal. Last updated July 30, 2026.
 
 - **Location:** Cascais, Portugal
 - **Type:** Permanent coliving

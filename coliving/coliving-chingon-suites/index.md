@@ -1,6 +1,6 @@
 # Coliving Chingon Suites
 
-> Coliving in Guadalajara, Mexico. Last updated July 29, 2026.
+> Coliving in Guadalajara, Mexico. Last updated July 30, 2026.
 
 - **Location:** Guadalajara, Mexico
 - **Type:** Permanent coliving

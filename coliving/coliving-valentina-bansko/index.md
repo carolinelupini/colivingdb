@@ -1,6 +1,6 @@
 # Coliving Valentina Bansko
 
-> Coliving in Bansko, Bulgaria. Last updated July 29, 2026.
+> Coliving in Bansko, Bulgaria. Last updated July 30, 2026.
 
 - **Location:** Bansko, Bulgaria
 - **Type:** Permanent coliving

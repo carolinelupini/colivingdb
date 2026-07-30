@@ -1,6 +1,6 @@
 # Coliving in Folkestad, Norway
 
-> 1 colivings in Folkestad, Norway, prices from €700 to €700 per month – last updated July 29, 2026.
+> 1 colivings in Folkestad, Norway, prices from €700 to €700 per month – last updated July 30, 2026.
 
 ## All colivings
 

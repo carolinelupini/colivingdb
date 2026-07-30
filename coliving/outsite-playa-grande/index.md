@@ -1,6 +1,6 @@
 # Outsite Playa Grande
 
-> Coliving in Playa Grande, Costa Rica. Last updated July 29, 2026.
+> Coliving in Playa Grande, Costa Rica. Last updated July 30, 2026.
 
 - **Location:** Playa Grande, Costa Rica
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # Langeais Co-Living Castle (La Roche-Cotard)
 
-> Coliving in Langeais, France. Last updated July 29, 2026.
+> Coliving in Langeais, France. Last updated July 30, 2026.
 
 - **Location:** Langeais, France
 - **Type:** Permanent coliving

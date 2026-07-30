@@ -1,6 +1,6 @@
 # Beachbums Coliving Madiha
 
-> Coliving in Weligama, Sri Lanka. Last updated July 29, 2026.
+> Coliving in Weligama, Sri Lanka. Last updated July 30, 2026.
 
 - **Location:** Weligama, Sri Lanka
 - **Type:** Permanent coliving

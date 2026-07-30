@@ -1,6 +1,6 @@
 # Coliving in Cagliari (Sardinia), Italy
 
-> 1 colivings in Cagliari (Sardinia), Italy – last updated July 29, 2026.
+> 1 colivings in Cagliari (Sardinia), Italy – last updated July 30, 2026.
 
 ## All colivings
 
