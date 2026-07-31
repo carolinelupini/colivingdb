@@ -1,6 +1,6 @@
 # Coliving in Malawi
 
-> 3 colivings in Malawi – last updated July 30, 2026.
+> 3 colivings in Malawi – last updated July 31, 2026.
 
 ## All colivings
 

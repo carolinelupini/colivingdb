@@ -1,6 +1,6 @@
 # Coliving in Spain
 
-> 93 colivings in Spain, prices from €71 to €2,600 per month – last updated July 30, 2026.
+> 93 colivings in Spain, prices from €71 to €2,600 per month – last updated July 31, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Mimos Coliving - Bogota
 
-> Coliving in Bogotá, Colombia. Last updated July 30, 2026.
+> Coliving in Bogotá, Colombia. Last updated July 31, 2026.
 
 - **Location:** Bogotá, Colombia
 - **Type:** Permanent coliving

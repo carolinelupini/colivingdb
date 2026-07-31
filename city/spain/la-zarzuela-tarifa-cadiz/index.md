@@ -1,6 +1,6 @@
 # Coliving in La Zarzuela (Tarifa), Cádiz, Spain
 
-> 1 colivings in La Zarzuela (Tarifa), Cádiz, Spain, prices from €930 to €930 per month – last updated July 30, 2026.
+> 1 colivings in La Zarzuela (Tarifa), Cádiz, Spain, prices from €930 to €930 per month – last updated July 31, 2026.
 
 ## All colivings
 

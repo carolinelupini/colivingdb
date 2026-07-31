@@ -1,6 +1,6 @@
 # The Cocotera Hostel & Coworking
 
-> Coliving in Tarifa, Spain. Last updated July 30, 2026.
+> Coliving in Tarifa, Spain. Last updated July 31, 2026.
 
 - **Location:** Tarifa, Spain
 - **Type:** Permanent coliving

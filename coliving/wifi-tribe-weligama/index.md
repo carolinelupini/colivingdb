@@ -1,6 +1,6 @@
 # WiFi Tribe — Weligama
 
-> Coliving in Weligama, Sri Lanka. Last updated July 30, 2026.
+> Coliving in Weligama, Sri Lanka. Last updated July 31, 2026.
 
 - **Location:** Weligama, Sri Lanka
 - **Type:** Pop-up / dated edition

@@ -1,11 +1,11 @@
 # INFINI Coliving
 
-> Coliving in Jauá (Camaçari), near Salvador, Brazil. Last updated July 30, 2026.
+> Coliving in Jauá (Camaçari), near Salvador, Brazil. Last updated July 31, 2026.
 
 - **Location:** Jauá (Camaçari), near Salvador, Brazil
 - **Type:** Permanent coliving
-- **Price:** from €270/mo
-- **Price note:** €270/mo (promo from €300); from €10/night
+- **Price:** from BRL 3,813/mo
+- **Price note:** From R$3,813/month in low season for the smallest room (about R$123/night); the premium ocean-view room with a private bathroom starts at R$5,363/month (about R$173/night). Rates vary by season, length of stay and room, so check their booking page for real dates.
 - **Rating:** <a href="https://maps.google.com/?cid=3086301761505460501&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (27 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
@@ -21,11 +21,12 @@
 
 ## Rates
 
-| Stay length | Private |
+| Stay length | From |
 |---|---|
-| Per month | €270 |
+| Per night | BRL 123 |
+| Per month | BRL 3,813 |
 
-INFINI Coliving does not publish a nightly or weekly rate.
+INFINI Coliving does not publish a weekly rate.
 
 ## About
 

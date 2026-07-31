@@ -1,6 +1,6 @@
 # Coliving in Franschhoek, South Africa
 
-> 1 colivings in Franschhoek, South Africa, prices from €536 to €536 per month – last updated July 30, 2026.
+> 1 colivings in Franschhoek, South Africa, prices from €536 to €536 per month – last updated July 31, 2026.
 
 ## All colivings
 

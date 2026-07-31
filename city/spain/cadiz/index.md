@@ -1,6 +1,6 @@
 # Coliving in Cádiz, Spain
 
-> 1 colivings in Cádiz, Spain – last updated July 30, 2026.
+> 1 colivings in Cádiz, Spain – last updated July 31, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Coliving in San Diego, United States
 
-> 1 colivings in San Diego, United States, prices from €4,063 to €4,063 per month – last updated July 30, 2026.
+> 1 colivings in San Diego, United States, prices from €4,063 to €4,063 per month – last updated July 31, 2026.
 
 ## All colivings
 

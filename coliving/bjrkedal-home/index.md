@@ -1,6 +1,6 @@
 # Bjørkedal Home
 
-> Coliving in Volda, Norway. Last updated July 30, 2026.
+> Coliving in Volda, Norway. Last updated July 31, 2026.
 
 - **Location:** Volda, Norway
 - **Type:** Permanent coliving

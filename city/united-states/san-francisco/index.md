@@ -1,6 +1,6 @@
 # Coliving in San Francisco, United States
 
-> 6 colivings in San Francisco, United States, prices from €1,283 to €6,892 per month – last updated July 30, 2026.
+> 6 colivings in San Francisco, United States, prices from €1,283 to €6,892 per month – last updated July 31, 2026.
 
 ## All colivings
 

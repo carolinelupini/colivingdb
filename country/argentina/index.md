@@ -1,6 +1,6 @@
 # Coliving in Argentina
 
-> 6 colivings in Argentina, prices from €506 to €1,131 per month – last updated July 30, 2026.
+> 6 colivings in Argentina, prices from €506 to €1,131 per month – last updated July 31, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Tulia Guesthouse
 
-> Coliving in Los Realejos, Spain. Last updated July 30, 2026.
+> Coliving in Los Realejos, Spain. Last updated July 31, 2026.
 
 - **Location:** Los Realejos, Spain
 - **Type:** Permanent coliving

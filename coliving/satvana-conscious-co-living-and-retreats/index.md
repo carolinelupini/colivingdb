@@ -1,6 +1,6 @@
 # Satvana Conscious Co-living & Retreats
 
-> Coliving in Alentejo, Portugal. Last updated July 30, 2026.
+> Coliving in Alentejo, Portugal. Last updated July 31, 2026.
 
 - **Location:** Alentejo, Portugal
 - **Type:** Permanent coliving

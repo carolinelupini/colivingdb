@@ -1,6 +1,6 @@
 # Coliving in Grodzisk Mazowiecki, Poland
 
-> 1 colivings in Grodzisk Mazowiecki, Poland, prices from €900 to €900 per month – last updated July 30, 2026.
+> 1 colivings in Grodzisk Mazowiecki, Poland, prices from €900 to €900 per month – last updated July 31, 2026.
 
 ## All colivings
 

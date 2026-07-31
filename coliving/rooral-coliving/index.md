@@ -1,6 +1,6 @@
 # Rooral Coliving
 
-> Coliving in Benarrabá, Spain. Last updated July 30, 2026.
+> Coliving in Benarrabá, Spain. Last updated July 31, 2026.
 
 - **Location:** Benarrabá, Spain
 - **Type:** Permanent coliving

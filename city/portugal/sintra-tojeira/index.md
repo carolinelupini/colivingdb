@@ -1,6 +1,6 @@
 # Coliving in Sintra (Tojeira), Portugal
 
-> 1 colivings in Sintra (Tojeira), Portugal, prices from €1,118 to €1,118 per month – last updated July 30, 2026.
+> 1 colivings in Sintra (Tojeira), Portugal, prices from €1,118 to €1,118 per month – last updated July 31, 2026.
 
 ## All colivings
 

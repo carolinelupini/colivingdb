@@ -1,6 +1,6 @@
 # POMAR Coliving - NA PRAIA
 
-> Coliving in Fuseta, Portugal. Last updated July 30, 2026.
+> Coliving in Fuseta, Portugal. Last updated July 31, 2026.
 
 - **Location:** Fuseta, Portugal
 - **Type:** Permanent coliving

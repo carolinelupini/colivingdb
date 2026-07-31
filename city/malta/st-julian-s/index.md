@@ -1,6 +1,6 @@
 # Coliving in St Julian's, Malta
 
-> 2 colivings in St Julian's, Malta, prices from €420 to €420 per month – last updated July 30, 2026.
+> 2 colivings in St Julian's, Malta, prices from €420 to €420 per month – last updated July 31, 2026.
 
 ## All colivings
 

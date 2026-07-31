@@ -1,6 +1,6 @@
 # Coliving in Goa, India
 
-> 1 colivings in Goa, India, prices from €390 to €390 per month – last updated July 30, 2026.
+> 1 colivings in Goa, India, prices from €390 to €390 per month – last updated July 31, 2026.
 
 ## All colivings
 

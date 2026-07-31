@@ -1,6 +1,6 @@
 # Banana House (Ponta do Sol Coliving)
 
-> Coliving in Ponta do Sol, Madeira, Portugal. Last updated July 30, 2026.
+> Coliving in Ponta do Sol, Madeira, Portugal. Last updated July 31, 2026.
 
 - **Location:** Ponta do Sol, Madeira, Portugal
 - **Type:** Permanent coliving

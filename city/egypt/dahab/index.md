@@ -1,6 +1,6 @@
 # Coliving in Dahab, Egypt
 
-> 1 colivings in Dahab, Egypt – last updated July 30, 2026.
+> 1 colivings in Dahab, Egypt – last updated July 31, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Coliving in Puglia, Italy
 
-> 3 colivings in Puglia, Italy, prices from €690 to €1,247 per month – last updated July 30, 2026.
+> 3 colivings in Puglia, Italy, prices from €690 to €1,247 per month – last updated July 31, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # POSADA DE LA LUZ
 
-> Coliving in Torralba de Ribota, Spain. Last updated July 30, 2026.
+> Coliving in Torralba de Ribota, Spain. Last updated July 31, 2026.
 
 - **Location:** Torralba de Ribota, Spain
 - **Type:** Permanent coliving

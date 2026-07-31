@@ -1,6 +1,6 @@
 # Somewhere Different
 
-> Coliving in Blackpool, United Kingdom. Last updated July 30, 2026.
+> Coliving in Blackpool, United Kingdom. Last updated July 31, 2026.
 
 - **Location:** Blackpool, United Kingdom
 - **Type:** Permanent coliving

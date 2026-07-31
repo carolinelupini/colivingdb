@@ -1,6 +1,6 @@
 # Coliving in Praia das Maçãs (Sintra), Portugal
 
-> 1 colivings in Praia das Maçãs (Sintra), Portugal – last updated July 30, 2026.
+> 1 colivings in Praia das Maçãs (Sintra), Portugal – last updated July 31, 2026.
 
 ## All colivings
 

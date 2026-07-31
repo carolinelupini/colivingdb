@@ -1,6 +1,6 @@
 # Hubs Swiss Alps Lenk
 
-> Coliving in Lenk, Switzerland. Last updated July 30, 2026.
+> Coliving in Lenk, Switzerland. Last updated July 31, 2026.
 
 - **Location:** Lenk, Switzerland
 - **Type:** Permanent coliving

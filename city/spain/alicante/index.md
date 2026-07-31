@@ -1,6 +1,6 @@
 # Coliving in Alicante, Spain
 
-> 1 colivings in Alicante, Spain, prices from €899 to €899 per month – last updated July 30, 2026.
+> 1 colivings in Alicante, Spain, prices from €899 to €899 per month – last updated July 31, 2026.
 
 ## All colivings
 

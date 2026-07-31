@@ -1,6 +1,6 @@
 # Banana Coliving
 
-> Coliving in Taipei, Taiwan. Last updated July 30, 2026.
+> Coliving in Taipei, Taiwan. Last updated July 31, 2026.
 
 - **Location:** Taipei, Taiwan
 - **Type:** Permanent coliving

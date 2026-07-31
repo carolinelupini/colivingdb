@@ -1,6 +1,6 @@
 # colivingDB — all colivings
 
-> 607 listings. Last updated July 30, 2026.
+> 607 listings. Last updated July 31, 2026.
 
 | Coliving | City | Country | Price from | Min stay | Type |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [AfricaNomads — Botswana (Jun 2027)](/coliving/africanomads-botswana-jun-2027/index.md) | Maun | Botswana | from $440/wk | — | Pop-up |
 | [Horizonte Coliving - Mangabeiras](/coliving/horizonte-coliving-mangabeiras/index.md) | Belo Horizonte | Brazil | from BRL 1,600/mo | 30 nights | Permanent |
 | [Horizonte Coliving - Santa Tereza](/coliving/horizonte-coliving-santa-tereza/index.md) | Belo Horizonte | Brazil | from BRL 1,700/mo | 30 nights | Permanent |
-| [INFINI Coliving](/coliving/infini-coliving/index.md) | Jauá (Camaçari), near Salvador | Brazil | from €270/mo | 1 night | Permanent |
+| [INFINI Coliving](/coliving/infini-coliving/index.md) | Jauá (Camaçari), near Salvador | Brazil | from BRL 3,813/mo | 1 night | Permanent |
 | [João Pachêco Da Costa Home](/coliving/joao-pacheco-da-costa-home/index.md) | Florianópolis | Brazil | from $273/mo | 30 nights | Permanent |
 | [Manoel Pedro da Silveira Home](/coliving/manoel-pedro-da-silveira-home/index.md) | Florianópolis | Brazil | from $465/mo | 30 nights | Permanent |
 | [Neighbor.HUB Hostel & Coliving - Floripa](/coliving/neighbor-hub-hostel-and-coliving-floripa/index.md) | Florianópolis | Brazil | On request | — | Permanent |

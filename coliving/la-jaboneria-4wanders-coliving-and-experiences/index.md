@@ -1,6 +1,6 @@
 # La Jabonería | 4wanders | Coliving & Experiences
 
-> Coliving in Valencia, Spain. Last updated July 30, 2026.
+> Coliving in Valencia, Spain. Last updated July 31, 2026.
 
 - **Location:** Valencia, Spain
 - **Type:** Permanent coliving

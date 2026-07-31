@@ -1,6 +1,6 @@
 # Pyren'Escape
 
-> Coliving in Guchen (Saubissan), Pyrenees, France. Last updated July 30, 2026.
+> Coliving in Guchen (Saubissan), Pyrenees, France. Last updated July 31, 2026.
 
 - **Location:** Guchen (Saubissan), Pyrenees, France
 - **Type:** Permanent coliving

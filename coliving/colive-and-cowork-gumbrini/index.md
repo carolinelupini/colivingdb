@@ -1,6 +1,6 @@
 # Colive & Cowork Gumbrini
 
-> Coliving in Tskaltubo, Georgia. Last updated July 30, 2026.
+> Coliving in Tskaltubo, Georgia. Last updated July 31, 2026.
 
 - **Location:** Tskaltubo, Georgia
 - **Type:** Permanent coliving

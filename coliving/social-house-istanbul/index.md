@@ -1,6 +1,6 @@
 # Social House Istanbul
 
-> Coliving in Istanbul, Turkey. Last updated July 30, 2026.
+> Coliving in Istanbul, Turkey. Last updated July 31, 2026.
 
 - **Location:** Istanbul, Turkey
 - **Type:** Permanent coliving

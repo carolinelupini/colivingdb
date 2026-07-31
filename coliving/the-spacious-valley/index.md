@@ -1,6 +1,6 @@
 # The Spacious Valley
 
-> Coliving in Ericeira, Portugal. Last updated July 30, 2026.
+> Coliving in Ericeira, Portugal. Last updated July 31, 2026.
 
 - **Location:** Ericeira, Portugal
 - **Type:** Permanent coliving

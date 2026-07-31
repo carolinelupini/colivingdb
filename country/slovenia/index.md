@@ -1,6 +1,6 @@
 # Coliving in Slovenia
 
-> 1 colivings in Slovenia, prices from €420 to €420 per month – last updated July 30, 2026.
+> 1 colivings in Slovenia, prices from €420 to €420 per month – last updated July 31, 2026.
 
 ## All colivings
 
