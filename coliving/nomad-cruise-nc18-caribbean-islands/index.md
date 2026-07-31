@@ -22,6 +22,6 @@
 
 ## About
 
-Barcelona to four Caribbean islands, ~300 nomads; Starlink wifi, workshops, social events. Pin = Barcelona, the embarkation port. Ticket is per cruise, not per month.
+Barcelona to La Romana in the Dominican Republic aboard the MSC Opera, calling at Antigua and Barbuda, St. Maarten, and St. Kitts and Nevis. Around 300 nomads, with keynotes, workshops and masterminds run across the Atlantic crossing, and Starlink wifi on board. Pin = Barcelona, the embarkation port. Ticket is per cruise, not per month.
 
 Source: https://colivingdb.com/coliving/nomad-cruise-nc18-caribbean-islands/
