@@ -7,7 +7,7 @@
 - **Dates:** Aug 30 - Sept 27, 2026
 - **Price:** from $440/wk
 - **Price note:** Brand-wide: stays start from $440/week depending on destination, 2-week minimum (long-stay rates from 2 months). Per-edition pricing is not published — request it from AfricaNomads.
-- **Room types:** —
+- **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 91 Mbps down <small>· operator-reported</small><br><small>Operator speedtest 2026-07: 91 Mbps, plus extra routers.</small>
 - **Vibe:** Blends work with cultural immersion — 'the perfect mix of inspiration, culture and community' for digital nomads.

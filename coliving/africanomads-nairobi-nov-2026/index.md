@@ -7,7 +7,7 @@
 - **Dates:** Nov 22 - Dec 13, 2026
 - **Price:** from $1,760/mo
 - **Price note:** From $1,760/mo (Standard tier). Also: D+Work $1,840/mo, Master $1,980/mo. Book 2+ months → $100 off each. Includes: private room, WiFi & Starlink, local SIM w/ data, weekly communal dinner, weekend activities, hosts + community.
-- **Room types:** —
+- **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 86 Mbps down <small>· operator-reported</small><br><small>Operator speedtest 2026-07: 86-140 Mbps across the house.</small>
 - **Vibe:** A community- and adventure-oriented space blending private rooms with shared living, weekly communal dinners, and a coworking area for remote workers exploring Nairobi's wildlife, markets, and culture.

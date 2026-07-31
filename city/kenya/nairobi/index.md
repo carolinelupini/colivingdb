@@ -6,8 +6,8 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| AfricaNomads — Nairobi (Jul 2026) | Nairobi | from $1,760/mo | — | — | — | Pop-up |
-| AfricaNomads — Nairobi (Nov 2026) | Nairobi | from $1,760/mo | — | — | — | Pop-up |
+| AfricaNomads — Nairobi (Jul 2026) | Nairobi | from $1,760/mo | — | private | — | Pop-up |
+| AfricaNomads — Nairobi (Nov 2026) | Nairobi | from $1,760/mo | — | private | — | Pop-up |
 
 ## Price distribution
 

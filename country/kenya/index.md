@@ -7,11 +7,11 @@
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
 | Skippers | Diani Beach | from €500/mo | 4.6 (67) | private | 28 nights | Permanent |
-| AfricaNomads — Nairobi (Jul 2026) | Nairobi | from $1,760/mo | — | — | — | Pop-up |
-| AfricaNomads — Nairobi (Nov 2026) | Nairobi | from $1,760/mo | — | — | — | Pop-up |
-| AfricaNomads — Lamu Island | Lamu Island | from $440/wk | — | — | — | Pop-up |
-| AfricaNomads — Watamu (Jan 2027) | Watamu | from $440/wk | — | — | — | Pop-up |
-| AfricaNomads — Watamu (Oct 2027) | Watamu | from $440/wk | — | — | — | Pop-up |
+| AfricaNomads — Nairobi (Jul 2026) | Nairobi | from $1,760/mo | — | private | — | Pop-up |
+| AfricaNomads — Nairobi (Nov 2026) | Nairobi | from $1,760/mo | — | private | — | Pop-up |
+| AfricaNomads — Lamu Island | Lamu Island | from $440/wk | — | private | — | Pop-up |
+| AfricaNomads — Watamu (Jan 2027) | Watamu | from $440/wk | — | private | — | Pop-up |
+| AfricaNomads — Watamu (Oct 2027) | Watamu | from $440/wk | — | private | — | Pop-up |
 
 ## Price distribution
 

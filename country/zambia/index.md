@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| AfricaNomads — Zambia (Jul 2027) | Livingstone | from $440/wk | — | — | — | Pop-up |
+| AfricaNomads — Zambia (Jul 2027) | Livingstone | from $440/wk | — | private | — | Pop-up |
 
 ## Upcoming pop-ups
 

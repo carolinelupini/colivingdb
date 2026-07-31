@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| AfricaNomads Zanzibar | Jambiani, Zanzibar | from $440/wk | — | — | — | Pop-up |
+| AfricaNomads Zanzibar | Jambiani, Zanzibar | from $440/wk | — | private | — | Pop-up |
 
 ## Upcoming pop-ups
 

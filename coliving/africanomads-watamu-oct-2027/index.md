@@ -7,7 +7,7 @@
 - **Dates:** Oct 10 - Nov 7, 2027
 - **Price:** from $440/wk
 - **Price note:** Brand-wide: stays start from $440/week depending on destination, 2-week minimum (long-stay rates from 2 months). Per-edition pricing is not published — request it from AfricaNomads.
-- **Room types:** —
+- **Room types:** private
 - **Dorm available:** No
 - **Vibe:** The October edition of the Watamu house: pool, en-suite AC rooms, rooftop yoga and organised marine and cultural excursions.
 - **Minimum stay:** —

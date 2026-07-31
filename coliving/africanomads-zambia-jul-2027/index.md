@@ -7,7 +7,7 @@
 - **Dates:** Jul 18 - Aug 15, 2027
 - **Price:** from $440/wk
 - **Price note:** Brand-wide: stays start from $440/week depending on destination, 2-week minimum (long-stay rates from 2 months). Per-edition pricing is not published — request it from AfricaNomads.
-- **Room types:** —
+- **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Based in Livingstone, home to Victoria Falls, with adventures on the Zambezi River and nearby national parks.
 - **Minimum stay:** —

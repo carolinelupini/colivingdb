@@ -7,7 +7,7 @@
 - **Dates:** Jan 31 - Feb 28, 2027
 - **Price:** from $440/wk
 - **Price note:** Brand-wide: stays start from $440/week depending on destination, 2-week minimum (long-stay rates from 2 months). Per-edition pricing is not published — request it from AfricaNomads.
-- **Room types:** —
+- **Room types:** private
 - **Dorm available:** No
 - **Vibe:** A beach-adjacent coliving house ten minutes' walk from the sand, with a pool, en-suite AC rooms, rooftop yoga and organised marine and cultural excursions.
 - **Minimum stay:** —

@@ -6,8 +6,8 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| AfricaNomads — Watamu (Jan 2027) | Watamu | from $440/wk | — | — | — | Pop-up |
-| AfricaNomads — Watamu (Oct 2027) | Watamu | from $440/wk | — | — | — | Pop-up |
+| AfricaNomads — Watamu (Jan 2027) | Watamu | from $440/wk | — | private | — | Pop-up |
+| AfricaNomads — Watamu (Oct 2027) | Watamu | from $440/wk | — | private | — | Pop-up |
 
 ## Upcoming pop-ups
 

@@ -6,9 +6,9 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| AfricaNomads — Malawi (Lake Malawi) (Jun 2026) | Malawi (Lake Malawi) | from $440/wk | — | — | — | Pop-up |
-| AfricaNomads — Malawi (Lake Malawi) (Oct 2026) | Malawi (Lake Malawi) | from $440/wk | — | — | — | Pop-up |
-| AfricaNomads — Malawi (Lake Malawi) (Aug 2027) | Nkhata Bay (Lake Malawi) | from $440/wk | — | — | — | Pop-up |
+| AfricaNomads — Malawi (Lake Malawi) (Jun 2026) | Malawi (Lake Malawi) | from $440/wk | — | private | — | Pop-up |
+| AfricaNomads — Malawi (Lake Malawi) (Oct 2026) | Malawi (Lake Malawi) | from $440/wk | — | private | — | Pop-up |
+| AfricaNomads — Malawi (Lake Malawi) (Aug 2027) | Nkhata Bay (Lake Malawi) | from $440/wk | — | private | — | Pop-up |
 
 ## Upcoming pop-ups
 

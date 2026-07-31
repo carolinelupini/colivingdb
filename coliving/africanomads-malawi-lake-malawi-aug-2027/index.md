@@ -7,7 +7,7 @@
 - **Dates:** Aug 15 - Sep 12, 2027
 - **Price:** from $440/wk
 - **Price note:** Brand-wide: stays start from $440/week depending on destination, 2-week minimum (long-stay rates from 2 months). Per-edition pricing is not published — request it from AfricaNomads.
-- **Room types:** —
+- **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Lakeside coliving in Nkhata Bay on Lake Malawi, with private or deluxe lake-facing rooms, a weekly communal dinner and optional weekend activities.
 - **Minimum stay:** —

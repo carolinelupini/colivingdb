@@ -7,7 +7,7 @@
 - **Dates:** Jun 20 - Jul 18, 2027
 - **Price:** from $440/wk
 - **Price note:** Brand-wide: stays start from $440/week depending on destination, 2-week minimum (long-stay rates from 2 months). Per-edition pricing is not published — request it from AfricaNomads.
-- **Room types:** —
+- **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Begins in Maun, the gateway to the Okavango Delta, with a final week across the Makgadikgadi Salt Pans and Chobe National Park.
 - **Minimum stay:** —

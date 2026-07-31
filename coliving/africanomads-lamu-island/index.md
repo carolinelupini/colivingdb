@@ -7,7 +7,7 @@
 - **Dates:** Aug 2 - Aug 30, 2026
 - **Price:** from $440/wk
 - **Price note:** Brand-wide: stays start from $440/week depending on destination, 2-week minimum (long-stay rates from 2 months). Per-edition pricing is not published — request it from AfricaNomads.
-- **Room types:** —
+- **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 99 Mbps down <small>· operator-reported</small><br><small>Operator speedtest 2026-07: ~99 Mbps.</small>
 - **Vibe:** A laid-back wellness-and-adventure retreat blending remote work with immersive island culture, yoga, and conservation.

@@ -6,7 +6,7 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| AfricaNomads — Botswana (Jun 2027) | Maun | from $440/wk | — | — | — | Pop-up |
+| AfricaNomads — Botswana (Jun 2027) | Maun | from $440/wk | — | private | — | Pop-up |
 
 ## Upcoming pop-ups
 

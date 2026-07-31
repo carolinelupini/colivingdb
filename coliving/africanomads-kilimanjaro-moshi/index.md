@@ -7,7 +7,7 @@
 - **Dates:** Dec 13 - Dec 21, 2026 (Kilimanjaro expedition)
 - **Price:** from $440/wk
 - **Price note:** Brand-wide: stays start from $440/week depending on destination, 2-week minimum (long-stay rates from 2 months). Per-edition pricing is not published — request it from AfricaNomads.
-- **Room types:** —
+- **Room types:** private
 - **Dorm available:** No
 - **Vibe:** An 8-night Kilimanjaro mountaineering expedition (Machame Route) rather than a standard coliving stay, built around adventure and the summit challenge.
 - **Minimum stay:** —

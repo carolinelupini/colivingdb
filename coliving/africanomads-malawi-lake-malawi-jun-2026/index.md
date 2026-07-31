@@ -7,7 +7,7 @@
 - **Dates:** June 7 - July 5, 2026
 - **Price:** from $440/wk
 - **Price note:** Brand-wide: stays start from $440/week depending on destination, 2-week minimum (long-stay rates from 2 months). Per-edition pricing is not published — request it from AfricaNomads.
-- **Room types:** —
+- **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 160 Mbps down <small>· operator-reported</small><br><small>Operator speedtest 2026-07: 160 Mbps via Starlink.</small>
 - **Vibe:** Relaxed, nature-connected lakeside community for remote workers, creatives, and entrepreneurs balancing productivity with intentional slowing-down.
