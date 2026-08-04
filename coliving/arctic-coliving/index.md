@@ -1,8 +1,8 @@
 # Arctic Coliving
 
-> Coliving in Voss (Mjolfjell) / Henningsvaer, Lofoten, Norway. Last updated August 4, 2026.
+> Coliving in Mjølfjell (Voss), Norway. Last updated August 4, 2026.
 
-- **Location:** Voss (Mjolfjell) / Henningsvaer, Lofoten, Norway
+- **Location:** Mjølfjell (Voss), Norway
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** community stays by week or season; price on request
@@ -22,6 +22,6 @@
 
 ## About
 
-Two permanent lodge locations confirmed (Lofoten Pier Lodge in Henningsvær + Voss Mountain Lodge in Mjølfjell); stays by week or season; no pricing published, directs to sign-up portal.
+Voss Mountain Lodge in Mjølfjell — mountain biking, rock climbing and skiing, on the Bergen–Oslo railway. Arctic Coliving's Lofoten Pier Lodge in Henningsvær is listed separately.
 
 Source: https://colivingdb.com/coliving/arctic-coliving/

@@ -1,6 +1,6 @@
 # colivingDB — all colivings
 
-> 616 listings. Last updated August 4, 2026.
+> 617 listings. Last updated August 4, 2026.
 
 | Coliving | City | Country | Price from | Min stay | Type |
 |---|---|---|---|---|---|
@@ -301,7 +301,8 @@
 | [WiFi Tribe — San Juan del Sur](/coliving/wifi-tribe-san-juan-del-sur/index.md) | San Juan del Sur | Nicaragua | from $1,690/mo | 28 nights | Pop-up |
 | [Seven Space: Coliving](/coliving/seven-space-coliving/index.md) | Lagos | Nigeria | from $30/night | 30 nights | Permanent |
 | [WiFi Tribe — Lake Ohrid](/coliving/wifi-tribe-lake-ohrid/index.md) | Lake Ohrid | North Macedonia | from $1,590/mo | 28 nights | Pop-up |
-| [Arctic Coliving](/coliving/arctic-coliving/index.md) | Voss (Mjolfjell) / Henningsvaer, Lofoten | Norway | On request | 7 nights | Permanent |
+| [Arctic Coliving](/coliving/arctic-coliving/index.md) | Mjølfjell (Voss) | Norway | On request | 7 nights | Permanent |
+| [Arctic Coliving — Lofoten Pier Lodge](/coliving/arctic-coliving-lofoten-pier-lodge/index.md) | Henningsvær | Norway | On request | 7 nights | Permanent |
 | [Bjørkedal Home](/coliving/bjrkedal-home/index.md) | Volda | Norway | from $720/mo | 30 nights | Permanent |
 | [Moritsgarden (Digital Nomad Norway)](/coliving/moritsgarden-digital-nomad-norway/index.md) | Folkestad | Norway | from €700/mo | — | Permanent |
 | [Ungsmaløya Residence](/coliving/ungsmalya-residence/index.md) | Nyksund | Norway | from $569/mo | 30 nights | Permanent |

@@ -1,6 +1,6 @@
 # colivingDB — all countries
 
-> 616 colivings across 87 countries. Last updated August 4, 2026.
+> 617 colivings across 87 countries. Last updated August 4, 2026.
 
 | Country | Colivings | From (EUR/mo) |
 |---|---|---|
@@ -29,11 +29,11 @@
 | [Philippines](/country/philippines/index.md) | 7 | €525 |
 | [Argentina](/country/argentina/index.md) | 6 | €506 |
 | [Kenya](/country/kenya/index.md) | 6 | €500 |
+| [Norway](/country/norway/index.md) | 6 | €522 |
 | [United Kingdom](/country/united-kingdom/index.md) | 6 | €470 |
 | [Germany](/country/germany/index.md) | 5 | €645 |
 | [Malaysia](/country/malaysia/index.md) | 5 | €172 |
 | [Malta](/country/malta/index.md) | 5 | €420 |
-| [Norway](/country/norway/index.md) | 5 | €522 |
 | [Serbia](/country/serbia/index.md) | 5 | €297 |
 | [Tanzania](/country/tanzania/index.md) | 5 | €1,219 |
 | [Egypt](/country/egypt/index.md) | 4 | €167 |
