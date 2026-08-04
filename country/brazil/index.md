@@ -1,6 +1,6 @@
 # Coliving in Brazil
 
-> 11 colivings in Brazil, prices from €238 to €1,131 per month – last updated August 4, 2026.
+> 12 colivings in Brazil, prices from €238 to €1,131 per month – last updated August 4, 2026.
 
 ## All colivings
 
@@ -14,6 +14,7 @@
 | Manoel Pedro da Silveira Home | Florianópolis | from $465/mo | — | private, dorm | 30 nights | Permanent |
 | INFINI Coliving | Jauá (Camaçari), near Salvador | from BRL 3,813/mo | 4.6 (27) | private | 1 night | Permanent |
 | WiFi Tribe — Florianópolis | Florianópolis | from $1,690/mo | — | private, shared | 28 nights | Pop-up |
+| WiFi Tribe — Pipa | Pipa | from $1,690/mo | — | private, shared | 28 nights | Pop-up |
 | Neighbor.HUB Hostel & Coliving - Floripa | Florianópolis | On request | 4.4 (45) | private, shared, dorm | — | Permanent |
 | Noma Collective — Pipa | Pipa | from $2,090/event | — | — | — | Pop-up |
 | Nomad's Ville (Mirante de Pipa) | Praia da Pipa | On request | 4.7 (738) | private | — | Permanent |
@@ -24,12 +25,13 @@
 |---|---|
 | 0–500 | 6 |
 | 500–800 | 1 |
-| 800–1200 | 1 |
+| 800–1200 | 2 |
 
 ## Upcoming pop-ups
 
 - Noma Collective — Pipa — Oct 3 - Oct 24, 2026
 - Nomadico Coliving Florianópolis — Mar–Dec (seasonal)
 - WiFi Tribe — Florianópolis — Nov 20 - Dec 18, 2026
+- WiFi Tribe — Pipa — Feb 12 - Mar 12, 2027
 
 Source: https://colivingdb.com/country/brazil/

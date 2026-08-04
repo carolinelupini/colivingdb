@@ -1,6 +1,6 @@
 # Coliving in Cape Town, South Africa
 
-> 17 colivings in Cape Town, South Africa, prices from €170 to €3,506 per month – last updated August 4, 2026.
+> 20 colivings in Cape Town, South Africa, prices from €170 to €3,506 per month – last updated August 4, 2026.
 
 ## All colivings
 
@@ -19,6 +19,9 @@
 | Cape Coliving | Cape Town | from €2,069/mo | 5.0 (70) | private | 7 nights | Permanent |
 | Neighbourgood 84 Harrington | Cape Town | from R24,170/mo | 4.7 (277) | private | — | Permanent |
 | The Hill | Cape Town | from $1,103/mo | — | private | 30 nights | Permanent |
+| WiFi Tribe — Cape Town (Mar 2027) | Cape Town | from $1,790/mo | — | private, shared | 28 nights | Pop-up |
+| WiFi Tribe — Cape Town (Jan 2027) | Cape Town | from $1,990/mo | — | private, shared | 28 nights | Pop-up |
+| WiFi Tribe — Cape Town (Feb 2027) | Cape Town | from $1,990/mo | — | private, shared | 28 nights | Pop-up |
 | The Romney | Cape Town | from $2,145/mo | — | private | 30 nights | Permanent |
 | Waterkant Residence | Cape Town | from $2,343/mo | 4.3 (70) | private | 30 nights | Permanent |
 | Ideas Cartel at The Old Foundry | Cape Town | On request | 4.4 (220) | private | — | Permanent |
@@ -31,11 +34,14 @@
 | 0–500 | 2 |
 | 500–800 | 9 |
 | 800–1200 | 1 |
-| 1200–2000 | 1 |
+| 1200–2000 | 4 |
 | 2000–∞ | 2 |
 
 ## Upcoming pop-ups
 
 - Nomad Summer Camp — Camp Big Daddy — Feb 12 - Feb 15, 2027
+- WiFi Tribe — Cape Town (Jan 2027) — Jan 15 - Feb 11, 2027
+- WiFi Tribe — Cape Town (Feb 2027) — Feb 12 - Mar 11, 2027
+- WiFi Tribe — Cape Town (Mar 2027) — Mar 12 - Apr 9, 2027
 
 Source: https://colivingdb.com/city/south-africa/cape-town/

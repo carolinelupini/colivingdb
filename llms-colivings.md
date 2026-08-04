@@ -1,6 +1,6 @@
 # colivingDB — all colivings
 
-> 607 listings. Last updated August 4, 2026.
+> 616 listings. Last updated August 4, 2026.
 
 | Coliving | City | Country | Price from | Min stay | Type |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Treehouse Toowong](/coliving/treehouse-toowong/index.md) | Brisbane | Australia | from A$1,333/mo | — | Permanent |
 | [UKO](/coliving/uko/index.md) | Sydney | Australia | On request | — | Permanent |
 | [UKO Melbourne Central](/coliving/uko-melbourne-central/index.md) | Melbourne | Australia | On request | — | Permanent |
+| [WiFi Tribe — Melbourne](/coliving/wifi-tribe-melbourne/index.md) | Melbourne | Australia | from $2,290/mo | 28 nights | Pop-up |
 | [Coworkerei Coliving](/coliving/coworkerei-coliving/index.md) | Mils / Innsbruck (Tyrol) | Austria | from €12/night | — | Permanent |
 | [Outsite Vienna (Zoku)](/coliving/outsite-vienna-zoku/index.md) | Vienna | Austria | from €1,700/mo | 2 nights | Permanent |
 | [Bord de Meuse](/coliving/bord-de-meuse/index.md) | Hermalle-sous-Argenteau (Liège) | Belgium | On request | — | Permanent |
@@ -40,6 +41,7 @@
 | [Nomadico Coliving Florianópolis](/coliving/nomadico-coliving-florianopolis/index.md) | Florianópolis | Brazil | from $380/mo | 7 nights | Pop-up |
 | [The Manoel João Ferreira](/coliving/the-manoel-joao-ferreira/index.md) | Florianópolis (Barra da Lagoa) | Brazil | from $273/mo | 30 nights | Permanent |
 | [WiFi Tribe — Florianópolis](/coliving/wifi-tribe-florianopolis/index.md) | Florianópolis | Brazil | from $1,690/mo | 28 nights | Pop-up |
+| [WiFi Tribe — Pipa](/coliving/wifi-tribe-pipa/index.md) | Pipa | Brazil | from $1,690/mo | 28 nights | Pop-up |
 | [Avalon Bansko](/coliving/avalon-bansko/index.md) | Bansko | Bulgaria | from €550/mo | 31 nights | Permanent |
 | [Burgas Coliving](/coliving/burgas-coliving/index.md) | Burgas | Bulgaria | from €1,400/mo | — | Permanent |
 | [Coliving Bansko by "Coworking Bansko" and Networking Premium](/coliving/coliving-bansko-by-coworking-bansko-and-networking-premium/index.md) | Bansko | Bulgaria | On request | — | Permanent |
@@ -138,6 +140,7 @@
 | [The Atsipopoulo (Atsipopoulo Home)](/coliving/the-atsipopoulo-atsipopoulo-home/index.md) | Atsipopoulo | Greece | from $5,488/mo | 30 nights | Permanent |
 | [The Plakias (Plakias Residence)](/coliving/the-plakias-plakias-residence/index.md) | Plakias | Greece | from $1,543/mo | 6 months | Permanent |
 | [Tursi Digital Nomads — Parga](/coliving/tursi-digital-nomads-parga/index.md) | Parga | Greece | from €799/event | — | Pop-up |
+| [WiFi Tribe — Athens](/coliving/wifi-tribe-athens/index.md) | Athens | Greece | from $1,990/mo | 28 nights | Pop-up |
 | [WiFi Tribe — Paros](/coliving/wifi-tribe-paros/index.md) | Paros | Greece | from $1,990/mo | 28 nights | Pop-up |
 | [Nomadico Antigua](/coliving/nomadico-antigua/index.md) | Antigua Guatemala | Guatemala | from $890/mo | — | Permanent |
 | [WiFi Tribe — Antigua](/coliving/wifi-tribe-antigua/index.md) | Antigua | Guatemala | from $1,490/mo | 28 nights | Pop-up |
@@ -289,11 +292,13 @@
 | [Nomadico](/coliving/nomadico/index.md) | Multiple | Multiple | from $955/mo | — | Permanent |
 | [Outpost](/coliving/outpost-2/index.md) | Multiple (Bali, Sri Lanka) | Multiple | from $849/mo | — | Permanent |
 | [Co404](/coliving/co404/index.md) | Multiple (Medellín; Oaxaca City; San Cristóbal) | Multiple (Colombia, Mexico) | from $362/mo | — | Permanent |
+| [WiFi Tribe — Swakopmund](/coliving/wifi-tribe-swakopmund/index.md) | Swakopmund | Namibia | from $1,890/mo | 28 nights | Pop-up |
 | [Outsite Amsterdam (Zoku)](/coliving/outsite-amsterdam-zoku/index.md) | Amsterdam | Netherlands | from €1,700/mo | — | Permanent |
 | [The Arawa (Arawa Collective)](/coliving/the-arawa-arawa-collective/index.md) | Rotorua | New Zealand | from $1,037/mo | 30 nights | Permanent |
 | [The Coh](/coliving/the-coh/index.md) | Auckland | New Zealand | from NZ$1,516/mo | 3 months | Permanent |
 | [Outsite San Juan del Sur](/coliving/outsite-san-juan-del-sur/index.md) | San Juan del Sur | Nicaragua | from €1,300/mo | 2 nights | Permanent |
 | [Waves & Wifi](/coliving/waves-and-wifi/index.md) | Popoyo | Nicaragua | from $1,425/mo | 3 nights | Permanent |
+| [WiFi Tribe — San Juan del Sur](/coliving/wifi-tribe-san-juan-del-sur/index.md) | San Juan del Sur | Nicaragua | from $1,690/mo | 28 nights | Pop-up |
 | [Seven Space: Coliving](/coliving/seven-space-coliving/index.md) | Lagos | Nigeria | from $30/night | 30 nights | Permanent |
 | [WiFi Tribe — Lake Ohrid](/coliving/wifi-tribe-lake-ohrid/index.md) | Lake Ohrid | North Macedonia | from $1,590/mo | 28 nights | Pop-up |
 | [Arctic Coliving](/coliving/arctic-coliving/index.md) | Voss (Mjolfjell) / Henningsvaer, Lofoten | Norway | On request | 7 nights | Permanent |
@@ -311,6 +316,7 @@
 | [El Nido Home II](/coliving/el-nido-home-ii/index.md) | El Nido | Philippines | from $6,667/mo | 30 nights | Permanent |
 | [Lungga Coworking, Coliving & Cafe](/coliving/lungga-coworking-coliving-and-cafe/index.md) | General Luna (Siargao) | Philippines | On request | — | Permanent |
 | [Nomads Hub](/coliving/nomads-hub/index.md) | Cebu | Philippines | On request | — | Permanent |
+| [WiFi Tribe — Siargao](/coliving/wifi-tribe-siargao/index.md) | Siargao | Philippines | from $1,690/mo | 28 nights | Pop-up |
 | [RAZAM](/coliving/razam/index.md) | Grodzisk Mazowiecki | Poland | from €900/mo | 5 nights | Permanent |
 | [SpotBase](/coliving/spotbase/index.md) | Iława, Masuria | Poland | from €2,580/mo | 1 night | Permanent |
 | [The Bolesławiecka (Bolesławiecka Home)](/coliving/the-bolesawiecka-bolesawiecka-home/index.md) | Wrocław | Poland | from $731/mo | 30 nights | Permanent |
@@ -414,6 +420,9 @@
 | [The Hill](/coliving/the-hill/index.md) | Cape Town | South Africa | from $1,103/mo | 30 nights | Permanent |
 | [The Romney](/coliving/the-romney/index.md) | Cape Town | South Africa | from $2,145/mo | 30 nights | Permanent |
 | [Waterkant Residence](/coliving/waterkant-residence/index.md) | Cape Town | South Africa | from $2,343/mo | 30 nights | Permanent |
+| [WiFi Tribe — Cape Town (Feb 2027)](/coliving/wifi-tribe-cape-town-feb-2027/index.md) | Cape Town | South Africa | from $1,990/mo | 28 nights | Pop-up |
+| [WiFi Tribe — Cape Town (Jan 2027)](/coliving/wifi-tribe-cape-town-jan-2027/index.md) | Cape Town | South Africa | from $1,990/mo | 28 nights | Pop-up |
+| [WiFi Tribe — Cape Town (Mar 2027)](/coliving/wifi-tribe-cape-town-mar-2027/index.md) | Cape Town | South Africa | from $1,790/mo | 28 nights | Pop-up |
 | [Hoppin House](/coliving/hoppin-house/index.md) | Seoul (Yeonnam/Hongdae) | South Korea | from KRW 900,000/mo | 7 nights | Permanent |
 | [Noma Collective — Busan](/coliving/noma-collective-busan/index.md) | Busan | South Korea | from $3,490/event | — | Pop-up |
 | [Seoul Nooks Community Living](/coliving/seoul-nooks-community-living/index.md) | Seoul | South Korea | from €990/mo | 14 nights | Permanent |

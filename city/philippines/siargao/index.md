@@ -1,11 +1,22 @@
 # Coliving in Siargao, Philippines
 
-> 1 colivings in Siargao, Philippines – last updated August 4, 2026.
+> 2 colivings in Siargao, Philippines, prices from €1,131 to €1,131 per month – last updated August 4, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
+| WiFi Tribe — Siargao | Siargao | from $1,690/mo | — | private, shared | 28 nights | Pop-up |
 | Coworksurf Siargao (Lexias) | Siargao | On request | — | private, dorm | — | Permanent |
+
+## Price distribution
+
+| Band (EUR/mo) | Colivings |
+|---|---|
+| 800–1200 | 1 |
+
+## Upcoming pop-ups
+
+- WiFi Tribe — Siargao — Mar 19 - Apr 16, 2027
 
 Source: https://colivingdb.com/city/philippines/siargao/
