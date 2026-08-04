@@ -1,6 +1,6 @@
 # Arctic Coliving 78° North (Svalbard)
 
-> Coliving in Longyearbyen, Svalbard (Norway). Last updated July 31, 2026.
+> Coliving in Longyearbyen, Svalbard (Norway). Last updated August 4, 2026.
 
 - **Location:** Longyearbyen, Svalbard (Norway)
 - **Type:** Pop-up / dated edition

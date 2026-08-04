@@ -1,6 +1,6 @@
 # AfricaNomads — Zanzibar
 
-> Coliving in Zanzibar, Tanzania. Last updated July 31, 2026.
+> Coliving in Zanzibar, Tanzania. Last updated August 4, 2026.
 
 - **Location:** Zanzibar, Tanzania
 - **Type:** Pop-up / dated edition

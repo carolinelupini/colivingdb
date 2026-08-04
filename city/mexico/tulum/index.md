@@ -1,6 +1,6 @@
 # Coliving in Tulum, Mexico
 
-> 3 colivings in Tulum, Mexico, prices from €199 to €844 per month – last updated July 31, 2026.
+> 3 colivings in Tulum, Mexico, prices from €199 to €844 per month – last updated August 4, 2026.
 
 ## All colivings
 

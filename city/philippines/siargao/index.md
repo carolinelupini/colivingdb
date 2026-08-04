@@ -1,6 +1,6 @@
 # Coliving in Siargao, Philippines
 
-> 1 colivings in Siargao, Philippines – last updated July 31, 2026.
+> 1 colivings in Siargao, Philippines – last updated August 4, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Mokrin House
 
-> Coliving in Mokrin, Serbia. Last updated July 31, 2026.
+> Coliving in Mokrin, Serbia. Last updated August 4, 2026.
 
 - **Location:** Mokrin, Serbia
 - **Type:** Permanent coliving

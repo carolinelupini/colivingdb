@@ -1,6 +1,6 @@
 # Coliving in Mexico
 
-> 28 colivings in Mexico, prices from €46 to €1,380 per month – last updated July 31, 2026.
+> 28 colivings in Mexico, prices from €46 to €1,380 per month – last updated August 4, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # WiFi Tribe — Lake Ohrid
 
-> Coliving in Lake Ohrid, North Macedonia. Last updated July 31, 2026.
+> Coliving in Lake Ohrid, North Macedonia. Last updated August 4, 2026.
 
 - **Location:** Lake Ohrid, North Macedonia
 - **Type:** Pop-up / dated edition

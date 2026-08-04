@@ -1,6 +1,6 @@
 # ReStation
 
-> Coliving in Las Palmas de Gran Canaria, Spain. Last updated July 31, 2026.
+> Coliving in Las Palmas de Gran Canaria, Spain. Last updated August 4, 2026.
 
 - **Location:** Las Palmas de Gran Canaria, Spain
 - **Type:** Permanent coliving

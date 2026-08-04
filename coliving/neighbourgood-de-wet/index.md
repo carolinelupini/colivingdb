@@ -1,6 +1,6 @@
 # Neighbourgood De Wet
 
-> Coliving in Franschhoek, South Africa. Last updated July 31, 2026.
+> Coliving in Franschhoek, South Africa. Last updated August 4, 2026.
 
 - **Location:** Franschhoek, South Africa
 - **Type:** Permanent coliving

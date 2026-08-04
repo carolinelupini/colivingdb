@@ -1,6 +1,6 @@
 # The Kotohira (Kotohira Residence)
 
-> Coliving in Kotohira, Japan. Last updated July 31, 2026.
+> Coliving in Kotohira, Japan. Last updated August 4, 2026.
 
 - **Location:** Kotohira, Japan
 - **Type:** Permanent coliving

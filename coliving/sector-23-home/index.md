@@ -1,6 +1,6 @@
 # Sector 23 Home
 
-> Coliving in Navi Mumbai, India. Last updated July 31, 2026.
+> Coliving in Navi Mumbai, India. Last updated August 4, 2026.
 
 - **Location:** Navi Mumbai, India
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # Ruralco Coliving
 
-> Coliving in Culla, Castellón, Spain. Last updated July 31, 2026.
+> Coliving in Culla, Castellón, Spain. Last updated August 4, 2026.
 
 - **Location:** Culla, Castellón, Spain
 - **Type:** Permanent coliving

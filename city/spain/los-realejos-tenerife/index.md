@@ -1,6 +1,6 @@
 # Coliving in Los Realejos, Tenerife, Spain
 
-> 1 colivings in Los Realejos, Tenerife, Spain, prices from €1,140 to €1,140 per month – last updated July 31, 2026.
+> 1 colivings in Los Realejos, Tenerife, Spain, prices from €1,140 to €1,140 per month – last updated August 4, 2026.
 
 ## All colivings
 

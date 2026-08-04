@@ -1,6 +1,6 @@
 # Coliving in Tisens, South Tyrol, Italy
 
-> 1 colivings in Tisens, South Tyrol, Italy, prices from €1,500 to €1,500 per month – last updated July 31, 2026.
+> 1 colivings in Tisens, South Tyrol, Italy, prices from €1,500 to €1,500 per month – last updated August 4, 2026.
 
 ## All colivings
 

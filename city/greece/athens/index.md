@@ -1,6 +1,6 @@
 # Coliving in Athens, Greece
 
-> 1 colivings in Athens, Greece – last updated July 31, 2026.
+> 1 colivings in Athens, Greece – last updated August 4, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # AfricaNomads Zanzibar
 
-> Coliving in Jambiani, Zanzibar, Tanzania. Last updated July 31, 2026.
+> Coliving in Jambiani, Zanzibar, Tanzania. Last updated August 4, 2026.
 
 - **Location:** Jambiani, Zanzibar, Tanzania
 - **Type:** Pop-up / dated edition

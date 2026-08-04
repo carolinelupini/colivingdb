@@ -1,6 +1,6 @@
 # ZAG Coliving
 
-> Coliving in Punta del Este, Uruguay. Last updated July 31, 2026.
+> Coliving in Punta del Este, Uruguay. Last updated August 4, 2026.
 
 - **Location:** Punta del Este, Uruguay
 - **Type:** Permanent coliving

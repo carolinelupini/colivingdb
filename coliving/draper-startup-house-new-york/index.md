@@ -1,6 +1,6 @@
 # Draper Startup House New York
 
-> Coliving in New York, United States. Last updated July 31, 2026.
+> Coliving in New York, United States. Last updated August 4, 2026.
 
 - **Location:** New York, United States
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # Coliving in United States
 
-> 21 colivings in United States, prices from €553 to €6,892 per month – last updated July 31, 2026.
+> 21 colivings in United States, prices from €553 to €6,892 per month – last updated August 4, 2026.
 
 ## All colivings
 

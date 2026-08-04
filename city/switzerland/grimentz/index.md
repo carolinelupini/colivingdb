@@ -1,6 +1,6 @@
 # Coliving in Grimentz, Switzerland
 
-> 2 colivings in Grimentz, Switzerland, prices from €953 to €2,196 per month – last updated July 31, 2026.
+> 2 colivings in Grimentz, Switzerland, prices from €953 to €2,196 per month – last updated August 4, 2026.
 
 ## All colivings
 

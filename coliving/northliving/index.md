@@ -1,6 +1,6 @@
 # Northliving
 
-> Coliving in Häggdånger, Sweden. Last updated July 31, 2026.
+> Coliving in Häggdånger, Sweden. Last updated August 4, 2026.
 
 - **Location:** Häggdånger, Sweden
 - **Type:** Permanent coliving

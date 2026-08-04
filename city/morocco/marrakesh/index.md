@@ -1,6 +1,6 @@
 # Coliving in Marrakesh, Morocco
 
-> 1 colivings in Marrakesh, Morocco – last updated July 31, 2026.
+> 1 colivings in Marrakesh, Morocco – last updated August 4, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Nomad Summer Camp — Camp Big Daddy
 
-> Coliving in Cape Town, South Africa. Last updated July 31, 2026.
+> Coliving in Cape Town, South Africa. Last updated August 4, 2026.
 
 - **Location:** Cape Town, South Africa
 - **Type:** Pop-up / dated edition

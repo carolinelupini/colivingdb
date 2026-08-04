@@ -1,6 +1,6 @@
 # colivingDB — all colivings
 
-> 607 listings. Last updated July 31, 2026.
+> 607 listings. Last updated August 4, 2026.
 
 | Coliving | City | Country | Price from | Min stay | Type |
 |---|---|---|---|---|---|
@@ -356,7 +356,7 @@
 | [Pipedream (Coworksurf Peniche)](/coliving/pipedream-coworksurf-peniche/index.md) | Ferrel, Peniche | Portugal | On request | — | Permanent |
 | [Pomar Coliving](/coliving/pomar-coliving/index.md) | Moncarapacho (Algarve) | Portugal | from €1,290/mo | 7 nights | Permanent |
 | [Quinta Da Carvalheira](/coliving/quinta-da-carvalheira/index.md) | Soure | Portugal | from €510/mo | 1 night | Permanent |
-| [Quinta do Bom Despacho](/coliving/quinta-do-bom-despacho/index.md) | Ponta Delgada | Portugal | On request | — | Permanent |
+| [Quinta do Bom Despacho](/coliving/quinta-do-bom-despacho/index.md) | Ponta Delgada | Portugal | from €900/mo | — | Permanent |
 | [Quinta do Cabeço Alto - Coliving & Coworking Retreat Venue - Madeira Island](/coliving/quinta-do-cabeco-alto-coliving-and-coworking-retreat-venue-madeira-island/index.md) | Ponta do Sol | Portugal | from €1,400/mo | — | Permanent |
 | [Satvana Conscious Co-living & Retreats](/coliving/satvana-conscious-co-living-and-retreats/index.md) | Alentejo | Portugal | On request | — | Permanent |
 | [Sea Urchin SurfHouse](/coliving/sea-urchin-surfhouse/index.md) | Ericeira | Portugal | On request | — | Permanent |

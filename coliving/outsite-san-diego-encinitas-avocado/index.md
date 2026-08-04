@@ -1,6 +1,6 @@
 # Outsite San Diego - Encinitas Avocado
 
-> Coliving in Encinitas, United States. Last updated July 31, 2026.
+> Coliving in Encinitas, United States. Last updated August 4, 2026.
 
 - **Location:** Encinitas, United States
 - **Type:** Permanent coliving

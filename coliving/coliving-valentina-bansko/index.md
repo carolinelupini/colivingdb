@@ -1,6 +1,6 @@
 # Coliving Valentina Bansko
 
-> Coliving in Bansko, Bulgaria. Last updated July 31, 2026.
+> Coliving in Bansko, Bulgaria. Last updated August 4, 2026.
 
 - **Location:** Bansko, Bulgaria
 - **Type:** Permanent coliving
@@ -9,6 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=7657526736195463959&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (106 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 80 Mbps down <small>· operator-reported</small><br><small>Operator-reported (Cristian Z, 2026-07-19): fibre business line, 300 Mbps by contract but 80–100 Mbps real-world at 30–50 concurrent users, plus a second backup line. The real-world floor is shown rather than the 300 contract headline.</small>
 - **Vibe:** Warm, cosy rooms with a genuine sense of community
 - **Minimum stay:** —
 - **Region:** Europe

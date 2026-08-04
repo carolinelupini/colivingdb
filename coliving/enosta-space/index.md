@@ -1,6 +1,6 @@
 # Enosta Space
 
-> Coliving in Da Nang, Vietnam. Last updated July 31, 2026.
+> Coliving in Da Nang, Vietnam. Last updated August 4, 2026.
 
 - **Location:** Da Nang, Vietnam
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # Coliving in Montreal, Canada
 
-> 1 colivings in Montreal, Canada – last updated July 31, 2026.
+> 1 colivings in Montreal, Canada – last updated August 4, 2026.
 
 ## All colivings
 

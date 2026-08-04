@@ -1,6 +1,6 @@
 # Coliving in Lisbon, Portugal
 
-> 3 colivings in Lisbon, Portugal, prices from €800 to €1,000 per month – last updated July 31, 2026.
+> 3 colivings in Lisbon, Portugal, prices from €800 to €1,000 per month – last updated August 4, 2026.
 
 ## All colivings
 

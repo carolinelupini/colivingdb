@@ -1,6 +1,6 @@
 # Coliving in Funchal, Madeira, Portugal
 
-> 3 colivings in Funchal, Madeira, Portugal, prices from €1,200 to €1,200 per month – last updated July 31, 2026.
+> 3 colivings in Funchal, Madeira, Portugal, prices from €1,200 to €1,200 per month – last updated August 4, 2026.
 
 ## All colivings
 

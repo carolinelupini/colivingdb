@@ -1,6 +1,6 @@
 # Coliving in Mexico City, Mexico
 
-> 9 colivings in Mexico City, Mexico, prices from €46 to €815 per month – last updated July 31, 2026.
+> 9 colivings in Mexico City, Mexico, prices from €46 to €815 per month – last updated August 4, 2026.
 
 ## All colivings
 

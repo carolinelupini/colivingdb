@@ -1,6 +1,6 @@
 # BOND Coliving
 
-> Coliving in Funchal, Madeira, Portugal. Last updated July 31, 2026.
+> Coliving in Funchal, Madeira, Portugal. Last updated August 4, 2026.
 
 - **Location:** Funchal, Madeira, Portugal
 - **Type:** Permanent coliving

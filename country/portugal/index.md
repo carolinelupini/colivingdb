@@ -1,6 +1,6 @@
 # Coliving in Portugal
 
-> 64 colivings in Portugal, prices from €150 to €2,249 per month – last updated July 31, 2026.
+> 64 colivings in Portugal, prices from €150 to €2,249 per month – last updated August 4, 2026.
 
 ## All colivings
 
@@ -24,6 +24,7 @@
 | samesame co-living | Lisbon | from €800/mo | 4.8 (84) | private | 8 nights | Permanent |
 | WiFi Tribe — Porto | Porto | from $2,490/mo | — | private, shared | 28 nights | Pop-up |
 | Colive Madeira | Ponta do Sol, Madeira | from €900/mo | — | private, shared | — | Permanent |
+| Quinta do Bom Despacho | Ponta Delgada | from €900/mo | 4.8 (141) | private, apartment | — | Permanent |
 | A ver o Mar 1 | Coliving & Coworking | Funchal, Madeira | Ponta do Sol | from €920/mo | 4.6 (51) | private, dorm | 14 nights | Permanent |
 | Casa15 Azores | Sao Miguel, Azores | from €950/mo | — | private | — | Permanent |
 | Swelldesk Coliving & Coworking | Baleal, Peniche | from €960/mo | 4.9 (20) | private, shared | — | Permanent |
@@ -59,7 +60,6 @@
 | Hacker Paradise — Porto | Porto | On request | — | — | — | Pop-up |
 | Lemon Bros Coliving | Ribeira Grande, São Miguel | On request | 4.9 (60) | private | 14 nights | Permanent |
 | Pipedream (Coworksurf Peniche) | Ferrel, Peniche | On request | 5.0 (32) | private, shared | — | Permanent |
-| Quinta do Bom Despacho | Ponta Delgada | On request | 4.8 (141) | — | — | Permanent |
 | Satvana Conscious Co-living & Retreats | Alentejo | On request | 5.0 (6) | private, shared | — | Permanent |
 | Sea Urchin SurfHouse | Ericeira | On request | 4.8 (85) | shared, private | — | Permanent |
 | Soul Co-Living Vila Franca de Xira | Ericeira | On request | 4.2 (26) | private, apartment | — | Permanent |
@@ -77,7 +77,7 @@
 |---|---|
 | 0–500 | 1 |
 | 500–800 | 9 |
-| 800–1200 | 20 |
+| 800–1200 | 21 |
 | 1200–2000 | 14 |
 | 2000–∞ | 3 |
 

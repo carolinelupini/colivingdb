@@ -1,6 +1,6 @@
 # WiFi Tribe — Porto
 
-> Coliving in Porto, Portugal. Last updated July 31, 2026.
+> Coliving in Porto, Portugal. Last updated August 4, 2026.
 
 - **Location:** Porto, Portugal
 - **Type:** Pop-up / dated edition

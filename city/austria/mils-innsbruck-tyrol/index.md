@@ -1,6 +1,6 @@
 # Coliving in Mils / Innsbruck (Tyrol), Austria
 
-> 1 colivings in Mils / Innsbruck (Tyrol), Austria – last updated July 31, 2026.
+> 1 colivings in Mils / Innsbruck (Tyrol), Austria – last updated August 4, 2026.
 
 ## All colivings
 

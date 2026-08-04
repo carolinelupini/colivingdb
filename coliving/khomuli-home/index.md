@@ -1,6 +1,6 @@
 # Khomuli Home
 
-> Coliving in Khomuli, Georgia. Last updated July 31, 2026.
+> Coliving in Khomuli, Georgia. Last updated August 4, 2026.
 
 - **Location:** Khomuli, Georgia
 - **Type:** Permanent coliving

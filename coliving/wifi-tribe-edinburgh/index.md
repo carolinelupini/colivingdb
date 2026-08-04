@@ -1,6 +1,6 @@
 # WiFi Tribe — Edinburgh
 
-> Coliving in Edinburgh, Scotland (UK). Last updated July 31, 2026.
+> Coliving in Edinburgh, Scotland (UK). Last updated August 4, 2026.
 
 - **Location:** Edinburgh, Scotland (UK)
 - **Type:** Pop-up / dated edition

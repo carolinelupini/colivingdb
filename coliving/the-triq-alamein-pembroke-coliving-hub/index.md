@@ -1,6 +1,6 @@
 # The Triq Alamein (Pembroke coliving hub)
 
-> Coliving in Pembroke, Malta. Last updated July 31, 2026.
+> Coliving in Pembroke, Malta. Last updated August 4, 2026.
 
 - **Location:** Pembroke, Malta
 - **Type:** Permanent coliving

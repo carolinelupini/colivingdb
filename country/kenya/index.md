@@ -1,6 +1,6 @@
 # Coliving in Kenya
 
-> 6 colivings in Kenya, prices from €500 to €1,543 per month – last updated July 31, 2026.
+> 6 colivings in Kenya, prices from €500 to €1,543 per month – last updated August 4, 2026.
 
 ## All colivings
 

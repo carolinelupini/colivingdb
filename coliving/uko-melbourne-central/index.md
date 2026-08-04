@@ -1,6 +1,6 @@
 # UKO Melbourne Central
 
-> Coliving in Melbourne, Australia. Last updated July 31, 2026.
+> Coliving in Melbourne, Australia. Last updated August 4, 2026.
 
 - **Location:** Melbourne, Australia
 - **Type:** Permanent coliving

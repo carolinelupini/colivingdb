@@ -1,6 +1,6 @@
 # Kotor Nest
 
-> Coliving in Kotor, Montenegro. Last updated July 31, 2026.
+> Coliving in Kotor, Montenegro. Last updated August 4, 2026.
 
 - **Location:** Kotor, Montenegro
 - **Type:** Permanent coliving

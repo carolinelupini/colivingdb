@@ -1,6 +1,6 @@
 # Boundless Life Kamakura
 
-> Coliving in Kamakura, Japan. Last updated July 31, 2026.
+> Coliving in Kamakura, Japan. Last updated August 4, 2026.
 
 - **Location:** Kamakura, Japan
 - **Type:** Permanent coliving

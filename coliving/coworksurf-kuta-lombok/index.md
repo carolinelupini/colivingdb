@@ -1,6 +1,6 @@
 # Coworksurf Kuta Lombok
 
-> Coliving in Kuta Lombok, Indonesia. Last updated July 31, 2026.
+> Coliving in Kuta Lombok, Indonesia. Last updated August 4, 2026.
 
 - **Location:** Kuta Lombok, Indonesia
 - **Type:** Permanent coliving

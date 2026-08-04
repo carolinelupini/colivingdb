@@ -1,6 +1,6 @@
 # Coliving in Santiago de Querétaro, Mexico
 
-> 1 colivings in Santiago de Querétaro, Mexico – last updated July 31, 2026.
+> 1 colivings in Santiago de Querétaro, Mexico – last updated August 4, 2026.
 
 ## All colivings
 
