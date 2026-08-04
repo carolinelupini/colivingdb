@@ -62,7 +62,7 @@
 | Pipedream (Coworksurf Peniche) | Ferrel, Peniche | On request | 5.0 (32) | private, shared | — | Permanent |
 | Satvana Conscious Co-living & Retreats | Alentejo | On request | 5.0 (6) | private, shared | — | Permanent |
 | Sea Urchin SurfHouse | Ericeira | On request | 4.8 (85) | shared, private | — | Permanent |
-| Soul Co-Living Vila Franca de Xira | Ericeira | On request | 4.2 (26) | private, apartment | — | Permanent |
+| Soul Co-Living Vila Franca de Xira | Vila Franca de Xira | On request | 4.2 (26) | private, apartment | — | Permanent |
 | The Luzia House Funchal | Funchal, Madeira | On request | 5.0 (45) | private | — | Permanent |
 | Villa dos Irmaos (Coworksurf) | Ericeira | On request | — | private, dorm | — | Permanent |
 | WOT Lodge Soul | Ericeira | from €451/wk | 4.1 (123) | private, dorm | 30 nights | Permanent |

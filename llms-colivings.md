@@ -366,7 +366,7 @@
 | [Quinta do Cabeço Alto - Coliving & Coworking Retreat Venue - Madeira Island](/coliving/quinta-do-cabeco-alto-coliving-and-coworking-retreat-venue-madeira-island/index.md) | Ponta do Sol | Portugal | from €1,400/mo | — | Permanent |
 | [Satvana Conscious Co-living & Retreats](/coliving/satvana-conscious-co-living-and-retreats/index.md) | Alentejo | Portugal | On request | — | Permanent |
 | [Sea Urchin SurfHouse](/coliving/sea-urchin-surfhouse/index.md) | Ericeira | Portugal | On request | — | Permanent |
-| [Soul Co-Living Vila Franca de Xira](/coliving/soul-co-living-vila-franca-de-xira/index.md) | Ericeira | Portugal | On request | — | Permanent |
+| [Soul Co-Living Vila Franca de Xira](/coliving/soul-co-living-vila-franca-de-xira/index.md) | Vila Franca de Xira | Portugal | On request | — | Permanent |
 | [StartArt Residency](/coliving/startart-residency/index.md) | Loureira (near Braga) | Portugal | from €150/mo | 1 night | Permanent |
 | [Swelldesk Coliving & Coworking](/coliving/swelldesk-coliving-and-coworking/index.md) | Baleal, Peniche | Portugal | from €960/mo | — | Permanent |
 | [The Carreira](/coliving/the-carreira/index.md) | Funchal | Portugal | from $1,944/mo | 30 nights | Permanent |

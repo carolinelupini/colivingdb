@@ -1,8 +1,8 @@
 # Soul Co-Living Vila Franca de Xira
 
-> Coliving in Ericeira, Portugal. Last updated August 4, 2026.
+> Coliving in Vila Franca de Xira, Portugal. Last updated August 4, 2026.
 
-- **Location:** Ericeira, Portugal
+- **Location:** Vila Franca de Xira, Portugal
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Rating:** <a href="https://maps.google.com/?cid=6089961036629379460&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.2 (26 reviews)</a> <small>· Google</small>
