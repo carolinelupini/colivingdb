@@ -29,6 +29,6 @@ Dolce Vita Coliving & Coworking does not publish a nightly rate.
 
 ## About
 
-Official pricing page lists single room from €750/mo... 39/night (~€750 Mapmelon discounted) and double from €783-900/mo; no dorm offered.
+A restored medieval village in Umbria, wired with a 10 Gigabit fibre line to the village — though no in-house speedtest has been published, so the usable Wi-Fi speed isn't known. Private rooms only, no dorm.
 
 Source: https://colivingdb.com/coliving/dolce-vita-coliving-and-coworking/

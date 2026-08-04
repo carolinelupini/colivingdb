@@ -28,6 +28,6 @@ Vivarium Coliving & Coworking does not publish a nightly or weekly rate.
 
 ## About
 
-Permanent small coliving in Valencia, 24 private rooms with private bathrooms, no dorm option mentioned on site.
+Small Valencia coliving of 24 private rooms, each with its own bathroom. The operator advertises a 1 Gbps fibre line, but publishes no measured speedtest. No dorm.
 
 Source: https://colivingdb.com/coliving/vivarium-coliving-and-coworking/
