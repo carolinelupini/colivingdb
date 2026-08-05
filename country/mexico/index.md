@@ -1,6 +1,6 @@
 # Coliving in Mexico
 
-> 28 colivings in Mexico, prices from €46 to €1,380 per month – last updated August 5, 2026.
+> 28 colivings in Mexico, prices from €46 to €1,466 per month – last updated August 5, 2026.
 
 ## All colivings
 
@@ -18,8 +18,8 @@
 | Humant Coliving - Cancún, México | Cancún | from MXN 15,250/mo | 4.9 (178) | private, shared | 30 nights | Permanent |
 | Covive Casa Del Valle Norte | Mexico City | from MXN 15,250/mo | 4.1 (28) | private | 30 nights | Permanent |
 | The Sur II | Tulum | from $1,091/mo | — | private | 30 nights | Permanent |
-| WiFi Tribe — Puerto Escondido | Puerto Escondido | from $1,690/mo | — | private, shared | 28 nights | Pop-up |
 | Amplitude Coliving | Puerto Escondido (La Punta) | from €1,380/mo | 5.0 (75) | private | 1 night | Permanent |
+| WiFi Tribe — Puerto Escondido | Puerto Escondido | from $1,690/mo | — | private, shared | 28 nights | Pop-up |
 | COLIVING ROMA | Mexico City | On request | 4.8 (25) | private | — | Permanent |
 | Casa Iris Coliving | Santiago de Querétaro | from $220/wk | 4.9 (21) | private, shared | — | Permanent |
 | Casa Luna by Terracotta MX | Mexico City | On request | 5.0 (2) | private | 7 nights | Permanent |
@@ -41,8 +41,8 @@
 |---|---|
 | 0–500 | 5 |
 | 500–800 | 5 |
-| 800–1200 | 3 |
-| 1200–2000 | 1 |
+| 800–1200 | 2 |
+| 1200–2000 | 2 |
 
 ## Upcoming pop-ups
 

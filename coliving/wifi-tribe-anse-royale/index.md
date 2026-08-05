@@ -6,7 +6,7 @@
 - **Type:** Pop-up / dated edition
 - **Dates:** Sep 11 - Oct 9, 2026
 - **Price:** from $1,990/mo
-- **Price note:** coliving accommodation (shared room, Veteran tier) + coworking + community activities for the month-long chapter
+- **Price note:** from $1,990 per chapter (about four weeks) for a shared room at the entry Member tier; returning members pay less and private rooms cost more — full tier table below
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 28 nights
@@ -18,9 +18,9 @@
 
 ## Rates
 
-| Stay length | Private | Shared |
-|---|---|---|
-| Per month | $3,290 | $1,990 |
+| Stay length | From |
+|---|---|
+| Per month | $1,990 |
 
 WiFi Tribe — Anse Royale does not publish a nightly or weekly rate.
 

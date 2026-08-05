@@ -10,7 +10,7 @@
 | Life at Selgars | Uffculme, Devon | from £950/mo | 4.8 (57) | private | 14 nights | Permanent |
 | Stay Lagom | Ballycastle, Northern Ireland | from £855/mo (≈€1,000) | — | private, shared, apartment | — | Permanent |
 | Froomies | Lostwithiel, Cornwall | from £1,100/mo | 5.0 (12) | private | 14 nights | Permanent |
-| WiFi Tribe — Edinburgh | Edinburgh | from $3,690/mo | — | private, shared | 28 nights | Pop-up |
+| WiFi Tribe — Edinburgh | Edinburgh | from $2,090/mo | — | private, shared | 28 nights | Pop-up |
 | SeaSpace | Newquay | from £1,625/mo | 4.8 (95) | private | — | Permanent |
 | Outsite London - Canary Wharf | London | On request | 4.7 (357) | private | 2 nights | Permanent |
 

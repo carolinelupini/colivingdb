@@ -6,6 +6,6 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Arctic Coliving | Mjølfjell (Voss) | On request | 5.0 (16) | shared, private | 7 nights | Permanent |
+| Arctic Coliving | Mjølfjell (Voss) | from NOK 650/night | 5.0 (16) | shared, private | 7 nights | Permanent |
 
 Source: https://colivingdb.com/city/norway/mjlfjell-voss/

@@ -13,13 +13,13 @@
 | Tertulia Coliving | Vicchio (Mugello, Florence) | from €699/mo | 4.8 (84) | private, shared | 14 nights | Permanent |
 | Il Fornello | Citta della Pieve (Umbria/Tuscany border) | from €700/mo | 4.4 (20) | private | — | Permanent |
 | La Vita Sukha | Roseto Valfortore | from €700/mo | 5.0 (29) | private, dorm | 13 nights | Permanent |
+| Galileo Galilei Home | Matera | from $856/mo | — | private, shared | 30 nights | Permanent |
 | Montino Coliving | Oggebbio, Lake Maggiore | from €750/mo | 4.3 (143) | private, shared | 7 nights | Permanent |
 | Nomadico Tuscany | Tuscany | from €627/mo | — | private, shared | — | Pop-up |
 | Beet - Botanical Garden (Cortile del Giuoco Home) | Palermo | from $1,143/mo | — | private | 30 nights | Permanent |
 | Tertulia Forest Coliving | Mugello, Tuscany | from €1,140/mo | 4.8 (84) | private | 7 nights | Permanent |
 | Casa Netural | Matera | from €950/mo | 4.9 (139) | private | 1 night | Permanent |
 | Coliving Sardinia | Porto Cervo, Sardinia | from €950/mo | — | private, shared | 14 nights | Permanent |
-| Galileo Galilei Home | Matera | from €950/mo | — | private, shared | 30 nights | Permanent |
 | ecoVita | San Priamo, San Vito, Sardinia | from €1,140/mo | 4.9 (19) | private | 3 nights | Permanent |
 | Canestanco 18 Living | Santa Croce Camerina, Sicily | from €1,200/mo | 5.0 (9) | private | — | Permanent |
 | Casa Basilico — Puglia | Puglia | from €1,247/mo | — | — | 14 nights | Pop-up |
@@ -43,8 +43,8 @@
 
 | Band (EUR/mo) | Colivings |
 |---|---|
-| 500–800 | 8 |
-| 800–1200 | 7 |
+| 500–800 | 9 |
+| 800–1200 | 6 |
 | 1200–2000 | 4 |
 | 2000–∞ | 2 |
 

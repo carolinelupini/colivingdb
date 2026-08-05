@@ -4,8 +4,8 @@
 
 - **Location:** Matera, Italy
 - **Type:** Permanent coliving
-- **Price:** from €950/mo
-- **Price note:** from €950/month for a single room; double rooms €1,425/month
+- **Price:** from $856/mo
+- **Price note:** from $856/month for a bed in a 4-bed mixed room
 - **Room types:** private, shared
 - **Dorm available:** Yes
 - **Wi-Fi (on-site):** 100 Mbps down <small>· operator-reported</small><br><small>100 Mbps down / 40 Mbps up (&quot;Super-fast Internet access&quot;)</small>
@@ -21,7 +21,7 @@
 
 | Stay length | From |
 |---|---|
-| Per month | €950 |
+| Per month | $856 |
 
 Galileo Galilei Home does not publish a nightly or weekly rate.
 

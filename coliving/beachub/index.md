@@ -4,7 +4,8 @@
 
 - **Location:** Koh Phangan, Thailand
 - **Type:** Permanent coliving
-- **Price:** from THB 6,500/mo
+- **Price:** from THB 30,000/mo
+- **Price note:** from ฿30,000++/month for a bungalow (single or double); ฿15,000++/week, ฿2,500++/night, low-season starting rates
 - **Rating:** <a href="https://maps.google.com/?cid=2904307983258154729&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.2 (145 reviews)</a> <small>· Google</small>
 - **Room types:** shared
 - **Dorm available:** No
@@ -14,17 +15,16 @@
 - **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** beach, coworking, island, wellness
 - **Nearest airports:** Samui International Airport (USM) ~24 km; Suvarnabhumi Airport (BKK) ~445 km; Surat Thani Airport (URT) ~115 km
-- **Website:** https://beachub.org/
+- **Website:** https://sites.google.com/view/beachub-phangan/home
 - **Rating:** 4.2 from 145 Google reviews
 
 ## Rates
 
 | Stay length | From |
 |---|---|
-| Per week | THB 2,000 |
-| Per month | THB 6,500 |
-
-beacHub does not publish a nightly rate.
+| Per night | THB 2,500 |
+| Per week | THB 15,000 |
+| Per month | THB 30,000 |
 
 ## About
 

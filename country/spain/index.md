@@ -72,8 +72,8 @@
 | Casa Gori — Coliving, Art Studio & Gardens | Valencia | from €1,200/mo | — | private | 3 months | Permanent |
 | Folks Coliving | Valencia | from €1,500/mo | 4.9 (45) | private | 11 nights | Permanent |
 | Laberint Coliving | Palma de Mallorca | from €1,200/mo | 5.0 (8) | private | 32 nights | Permanent |
-| WiFi Tribe — Gran Canaria | Gran Canaria | from $1,790/mo | — | private, shared | 28 nights | Pop-up |
 | Casa Turull (Palma Coliving Barcelona) | Barcelona | from €1,380/mo | 4.4 (54) | private | 30 nights | Permanent |
+| WiFi Tribe — Gran Canaria | Gran Canaria | from $1,790/mo | — | private, shared | 28 nights | Pop-up |
 | Repeople Casa Jardin Coliving | Las Palmas de Gran Canaria | from €1,677/mo | 4.0 (4) | private | — | Permanent |
 | Repeople Casa Vera Coliving | Las Palmas de Gran Canaria | from €1,677/mo | — | private | — | Permanent |
 | Repeople Casanova Coliving | Las Palmas de Gran Canaria | from €1,677/mo | 5.0 (2) | private | — | Permanent |

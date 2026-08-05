@@ -5,8 +5,8 @@
 - **Status:** <b>Not open yet</b> — opening September 2026
 - **Location:** Henningsvær, Norway
 - **Type:** Permanent coliving
-- **Price:** On request
-- **Price note:** Not open yet — opening 15 September 2026. Operator rates are in Norwegian kroner: from NOK 850/night in a shared room, NOK 1,275 for a private room solo, and NOK 1,500 for a private room for two. Seven-night minimum, with 10% off at two weeks, 20% at four and 30% at six.
+- **Price:** from NOK 850/night
+- **Price note:** from NOK 850/night in a shared room, NOK 1,275 for a private room solo and NOK 1,500 for a private room for two; seven-night minimum, with 10% off from two weeks, 20% from four and 30% from six
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** A ten-guest Arctic lodge in a converted fishing pier, with a hard seasonal identity and a house-not-hotel feel.
@@ -18,6 +18,14 @@
 - **Area:** Henningsvær, a working fishing village in the Lofoten islands above the Arctic Circle, with skiing, climbing, hiking and northern lights on the doorstep.
 - **Getting there:** Svolvær (SVJ) is about 30 minutes away and Leknes (LKN) about an hour, both with several flights a day. Parking on site is limited, with overflow in town, and there is no EV charging.
 - **Website:** https://www.arcticcoliving.com/locations/lofoten-pier-lodge
+
+## Rates
+
+| Stay length | Private | Shared |
+|---|---|---|
+| Per night | NOK 1,275 | NOK 850 |
+
+Arctic Coliving — Lofoten Pier Lodge does not publish a weekly or monthly rate.
 
 ## About
 

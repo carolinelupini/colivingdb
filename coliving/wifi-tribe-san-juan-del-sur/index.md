@@ -6,7 +6,7 @@
 - **Type:** Pop-up / dated edition
 - **Dates:** Jan 8 - Feb 5, 2027
 - **Price:** from $1,690/mo
-- **Price note:** boutique chapter accommodation (shared room, Veteran tier) + coworking + community activities for the month-long chapter
+- **Price note:** from $1,690 per chapter (about four weeks) for a shared room at the entry Member tier; returning members pay less and private rooms cost more — full tier table below
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 130 Mbps down <small>· operator-reported</small><br><small>Up to 130 Mbps</small>
@@ -19,9 +19,9 @@
 
 ## Rates
 
-| Stay length | Private | Shared |
-|---|---|---|
-| Per month | $2,990 | $1,690 |
+| Stay length | From |
+|---|---|
+| Per month | $1,690 |
 
 WiFi Tribe — San Juan del Sur does not publish a nightly or weekly rate.
 

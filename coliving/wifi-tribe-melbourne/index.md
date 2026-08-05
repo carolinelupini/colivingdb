@@ -6,7 +6,7 @@
 - **Type:** Pop-up / dated edition
 - **Dates:** Apr 23 - May 21, 2027
 - **Price:** from $2,290/mo
-- **Price note:** boutique chapter accommodation (shared room, Veteran tier) + coworking + community activities for the month-long chapter
+- **Price note:** from $2,290 per chapter (about four weeks) for a shared room at the entry Member tier; returning members pay less and private rooms cost more — full tier table below
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 80 Mbps down <small>· operator-reported</small><br><small>Up to 80 Mbps</small>
@@ -17,9 +17,9 @@
 
 ## Rates
 
-| Stay length | Private | Shared |
-|---|---|---|
-| Per month | $3,990 | $2,290 |
+| Stay length | From |
+|---|---|
+| Per month | $2,290 |
 
 WiFi Tribe — Melbourne does not publish a nightly or weekly rate.
 

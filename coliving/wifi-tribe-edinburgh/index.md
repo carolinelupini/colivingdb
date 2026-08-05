@@ -5,8 +5,8 @@
 - **Location:** Edinburgh, United Kingdom
 - **Type:** Pop-up / dated edition
 - **Dates:** Jul 10 - Aug 7, 2026
-- **Price:** from $3,690/mo
-- **Price note:** furnished ensuite room (shared, Veteran tier) + coworking + gym/cinema access for the month-long chapter
+- **Price:** from $2,090/mo
+- **Price note:** from $2,090 per chapter (about four weeks) for a shared room at the entry Member tier; returning members pay less and private rooms cost more — full tier table below
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 28 nights
@@ -18,9 +18,9 @@
 
 ## Rates
 
-| Stay length | Private |
+| Stay length | From |
 |---|---|
-| Per month | $3,690 |
+| Per month | $2,090 |
 
 WiFi Tribe — Edinburgh does not publish a nightly or weekly rate.
 

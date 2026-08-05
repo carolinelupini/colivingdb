@@ -6,7 +6,7 @@
 - **Type:** Pop-up / dated edition
 - **Dates:** Sep 11 - Oct 9, 2026
 - **Price:** from $1,990/mo
-- **Price note:** guesthouse accommodation (shared room, Veteran tier) + coworking + community activities for the month-long chapter
+- **Price note:** from $1,990 per chapter (about four weeks) for a shared room at the entry Member tier; returning members pay less and private rooms cost more — full tier table below
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** A month-long coliving/coworking chapter of 15-25 remote professionals and entrepreneurs balanced across genders, nationalities, and experience levels, mixing productive work weeks with weekend adventures — hiking to crater lakes, chasing waterfalls, and soaking in thermal baths.
@@ -19,9 +19,9 @@
 
 ## Rates
 
-| Stay length | Private | Shared |
-|---|---|---|
-| Per month | $3,490 | $1,990 |
+| Stay length | From |
+|---|---|
+| Per month | $1,990 |
 
 WiFi Tribe — Ponta Delgada (Azores) does not publish a nightly or weekly rate.
 

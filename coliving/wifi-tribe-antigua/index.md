@@ -6,7 +6,7 @@
 - **Type:** Pop-up / dated edition
 - **Dates:** Nov 20 - Dec 18, 2026
 - **Price:** from $1,490/mo
-- **Price note:** coliving accommodation (shared room, Veteran tier) + coworking + communal meals + community activities for the month-long chapter
+- **Price note:** from $1,490 per chapter (about four weeks) for a shared room at the entry Member tier; returning members pay less and private rooms cost more — full tier table below
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** A curated, small monthly coliving chapter (10-26 people) in colonial Antigua among volcanoes and coffee culture, co-created by values-vetted remote professionals.
@@ -20,9 +20,9 @@
 
 ## Rates
 
-| Stay length | Private | Shared |
-|---|---|---|
-| Per month | $2,590 | $1,490 |
+| Stay length | From |
+|---|---|
+| Per month | $1,490 |
 
 WiFi Tribe — Antigua does not publish a nightly or weekly rate.
 

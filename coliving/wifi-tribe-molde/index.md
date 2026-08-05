@@ -6,7 +6,7 @@
 - **Type:** Pop-up / dated edition
 - **Dates:** Jul 3 - 31, 2026
 - **Price:** from $2,990/mo
-- **Price note:** private room in shared apartment (Veteran tier; no shared-room option offered) + gym/canteen access for the month-long chapter
+- **Price note:** from $2,990 per chapter (about four weeks) for a private room at the entry Member tier; returning members pay less and private rooms cost more — full tier table below
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** Summer coliving chapter in Norway's fjord town of Molde for values-vetted remote professionals and entrepreneurs, pairing daytime coworking with kayaking, climbing, and fjord adventures.
@@ -19,7 +19,7 @@
 
 ## Rates
 
-| Stay length | Private |
+| Stay length | From |
 |---|---|
 | Per month | $2,990 |
 

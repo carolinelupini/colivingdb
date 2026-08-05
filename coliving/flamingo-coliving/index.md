@@ -4,8 +4,8 @@
 
 - **Location:** Santa Marta, Colombia
 - **Type:** Permanent coliving
-- **Price:** from $362/mo
-- **Price note:** not published; hostel + cowork + coliving
+- **Price:** On request
+- **Price note:** Price on request — enquire with the operator
 - **Rating:** <a href="https://maps.google.com/?cid=6091613119890526817&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (106 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
@@ -17,14 +17,6 @@
 - **Nearest airports:** Simón Bolívar International Airport (SMR) ~14 km; Ernesto Cortissoz International Airport (BAQ) ~73 km; Alfonso López Pumarejo Airport (VUP) ~138 km
 - **Website:** https://flamingocoworking.com/
 - **Rating:** 4.3 from 106 Google reviews
-
-## Rates
-
-| Stay length | Private |
-|---|---|
-| Per month | $362 |
-
-Flamingo Coliving does not publish a nightly or weekly rate.
 
 ## About
 

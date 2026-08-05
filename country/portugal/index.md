@@ -21,7 +21,6 @@
 | Outsite Ericeira - Centro | Ericeira | from €800/mo | 4.7 (34) | private | — | Permanent |
 | Outsite Lisbon - Cais do Sodre | Lisbon | from €800/mo | 4.5 (175) | private | 2 nights | Permanent |
 | samesame co-living | Lisbon | from €800/mo | 4.8 (84) | private | 8 nights | Permanent |
-| WiFi Tribe — Porto | Porto | from $2,490/mo | — | private, shared | 28 nights | Pop-up |
 | Colive Madeira | Ponta do Sol, Madeira | from €900/mo | — | private, shared | — | Permanent |
 | Quinta do Bom Despacho | Ponta Delgada | from €900/mo | 4.8 (141) | private, apartment | — | Permanent |
 | A ver o Mar 1 | Coliving & Coworking | Funchal, Madeira | Ponta do Sol | from €920/mo | 4.6 (51) | private, dorm | 14 nights | Permanent |
@@ -38,10 +37,10 @@
 | VivendaFelicidade Regenerative Farm & Surf Coliving | Sintra (Tojeira) | from €1,040/mo | 5.0 (47) | private | 7 nights | Permanent |
 | Casa do Pico | Funchal, Madeira | from €1,050/mo | 5.0 (32) | private, shared | 7 nights | Permanent |
 | POMAR Coliving - NA PRAIA | Fuseta | from €1,200/mo | 5.0 (77) | private | 28 nights | Permanent |
+| WiFi Tribe — Porto | Porto | from $1,390/mo | — | private, shared | 28 nights | Pop-up |
 | Birds of Paradise | Aljezur | from €42/night | 5.0 (145) | private | 14 nights | Permanent |
 | The Spacious Valley | Ericeira | from €1,260/mo | — | private | 30 nights | Permanent |
 | Pomar Coliving | Moncarapacho (Algarve) | from €1,290/mo | 5.0 (77) | private | 7 nights | Permanent |
-| WiFi Tribe — Ponta Delgada (Azores) | Ponta Delgada (Azores) | from $1,990/mo | — | private, shared | 28 nights | Pop-up |
 | Quinta do Cabeço Alto - Coliving & Coworking Retreat Venue - Madeira Island | Ponta do Sol | from €1,400/mo | 5.0 (23) | private, shared | — | Permanent |
 | NomaVillage | Lagos | from €1,420/mo | 4.8 (18) | private | 14 nights | Permanent |
 | Onda Co-Living | Ferrel (Baleal), Peniche | from €1,470/mo | 5.0 (27) | private | 14 nights | Permanent |
@@ -49,6 +48,7 @@
 | Homeoffice Madeira | Santo da Serra, Santa Cruz (Madeira) | from €1,400/mo | 5.0 (243) | private | 1 night | Permanent |
 | Outsite Madeira - Ponta do Sol | Ponta do Sol, Madeira | from €1,700/mo | 4.8 (119) | private | 2 nights | Permanent |
 | The Carreira | Funchal | from $1,944/mo | 3.9 (691) | private | 30 nights | Permanent |
+| WiFi Tribe — Ponta Delgada (Azores) | Ponta Delgada (Azores) | from $1,990/mo | — | private, shared | 28 nights | Pop-up |
 | Wild Souls Ericeira | Ericeira | from €1,800/mo | 5.0 (25) | private | 7 nights | Permanent |
 | Boundless Life — Sintra | Sintra | from €1,700/mo | — | — | — | Pop-up |
 | Dwell Azores | Fenais da Luz, São Miguel, Azores | from €2,160/mo | 5.0 (89) | private, shared | 28 nights | Permanent |
@@ -77,8 +77,8 @@
 |---|---|
 | 0–500 | 1 |
 | 500–800 | 8 |
-| 800–1200 | 21 |
-| 1200–2000 | 14 |
+| 800–1200 | 20 |
+| 1200–2000 | 15 |
 | 2000–∞ | 3 |
 
 ## Upcoming pop-ups

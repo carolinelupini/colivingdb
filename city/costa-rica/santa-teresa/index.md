@@ -1,14 +1,14 @@
 # Coliving in Santa Teresa, Costa Rica
 
-> 3 colivings in Santa Teresa, Costa Rica, prices from €1,219 to €1,400 per month – last updated August 5, 2026.
+> 3 colivings in Santa Teresa, Costa Rica, prices from €1,400 to €1,553 per month – last updated August 5, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| WiFi Tribe — Santa Teresa | Santa Teresa | from $1,790/mo | — | private, shared | 28 nights | Pop-up |
 | Outsite Santa Teresa - Maramar | Santa Teresa | from $120/night | — | private | — | Permanent |
 | Outsite Santa Teresa - Playa | Santa Teresa | from $2,154/mo | 4.8 (47) | private | 2 nights | Permanent |
+| WiFi Tribe — Santa Teresa | Santa Teresa | from $1,790/mo | — | private, shared | 28 nights | Pop-up |
 
 ## Price distribution
 

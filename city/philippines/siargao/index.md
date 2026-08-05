@@ -1,6 +1,6 @@
 # Coliving in Siargao, Philippines
 
-> 2 colivings in Siargao, Philippines, prices from €1,131 to €1,131 per month – last updated August 5, 2026.
+> 2 colivings in Siargao, Philippines, prices from €1,466 to €1,466 per month – last updated August 5, 2026.
 
 ## All colivings
 
@@ -13,7 +13,7 @@
 
 | Band (EUR/mo) | Colivings |
 |---|---|
-| 800–1200 | 1 |
+| 1200–2000 | 1 |
 
 ## Upcoming pop-ups
 

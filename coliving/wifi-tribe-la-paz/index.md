@@ -6,7 +6,7 @@
 - **Type:** Pop-up / dated edition
 - **Dates:** Oct 16 - Nov 13, 2026
 - **Price:** from $1,590/mo
-- **Price note:** coliving accommodation (shared room, Veteran tier) for the month-long chapter
+- **Price note:** from $1,590 per chapter (about four weeks) for a shared room at the entry Member tier; returning members pay less and private rooms cost more — full tier table below
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 400 Mbps down <small>· operator-reported</small><br><small>Up to 400 Mbps</small>
@@ -21,9 +21,9 @@
 
 ## Rates
 
-| Stay length | Private | Shared |
-|---|---|---|
-| Per month | $2,690 | $1,590 |
+| Stay length | From |
+|---|---|
+| Per month | $1,590 |
 
 WiFi Tribe — La Paz does not publish a nightly or weekly rate.
 

@@ -11,8 +11,8 @@
 | [South Africa](/country/south-africa/index.md) | 22 | €345 |
 | [United States](/country/united-states/index.md) | 21 | €553 |
 | [Indonesia](/country/indonesia/index.md) | 20 | €363 |
-| [Colombia](/country/colombia/index.md) | 19 | €317 |
-| [Thailand](/country/thailand/index.md) | 19 | €170 |
+| [Colombia](/country/colombia/index.md) | 19 | €333 |
+| [Thailand](/country/thailand/index.md) | 19 | €249 |
 | [France](/country/france/index.md) | 15 | €370 |
 | [Greece](/country/greece/index.md) | 13 | €449 |
 | [Sri Lanka](/country/sri-lanka/index.md) | 13 | €87 |
@@ -35,7 +35,7 @@
 | [Malaysia](/country/malaysia/index.md) | 5 | €172 |
 | [Malta](/country/malta/index.md) | 5 | €420 |
 | [Serbia](/country/serbia/index.md) | 5 | €297 |
-| [Tanzania](/country/tanzania/index.md) | 5 | €1,219 |
+| [Tanzania](/country/tanzania/index.md) | 5 | €1,553 |
 | [Egypt](/country/egypt/index.md) | 4 | €167 |
 | [Poland](/country/poland/index.md) | 4 | €513 |
 | [Romania](/country/romania/index.md) | 4 | €670 |
@@ -44,7 +44,7 @@
 | [Cyprus](/country/cyprus/index.md) | 3 | €1,160 |
 | [Georgia](/country/georgia/index.md) | 3 | €192 |
 | [Malawi](/country/malawi/index.md) | 3 | — |
-| [Nicaragua](/country/nicaragua/index.md) | 3 | €1,131 |
+| [Nicaragua](/country/nicaragua/index.md) | 3 | €1,249 |
 | [Panama](/country/panama/index.md) | 3 | €595 |
 | [South Korea](/country/south-korea/index.md) | 3 | €525 |
 | [Taiwan](/country/taiwan/index.md) | 3 | €212 |
@@ -64,7 +64,7 @@
 | [United Arab Emirates](/country/united-arab-emirates/index.md) | 2 | €238 |
 | [Albania](/country/albania/index.md) | 1 | €700 |
 | [Armenia](/country/armenia/index.md) | 1 | — |
-| [Bolivia](/country/bolivia/index.md) | 1 | €1,043 |
+| [Bolivia](/country/bolivia/index.md) | 1 | €1,380 |
 | [Botswana](/country/botswana/index.md) | 1 | — |
 | [Cape Verde](/country/cape-verde/index.md) | 1 | — |
 | [Chile](/country/chile/index.md) | 1 | — |
@@ -77,13 +77,13 @@
 | [Jamaica](/country/jamaica/index.md) | 1 | €1,093 |
 | [La Réunion](/country/la-reunion/index.md) | 1 | — |
 | [Latvia](/country/latvia/index.md) | 1 | €697 |
-| [Namibia](/country/namibia/index.md) | 1 | €1,306 |
+| [Namibia](/country/namibia/index.md) | 1 | €1,640 |
 | [Netherlands](/country/netherlands/index.md) | 1 | €1,700 |
 | [Nigeria](/country/nigeria/index.md) | 1 | — |
-| [North Macedonia](/country/north-macedonia/index.md) | 1 | €1,043 |
-| [Peru](/country/peru/index.md) | 1 | €956 |
+| [North Macedonia](/country/north-macedonia/index.md) | 1 | €1,380 |
+| [Peru](/country/peru/index.md) | 1 | €1,293 |
 | [Rwanda](/country/rwanda/index.md) | 1 | — |
-| [Seychelles](/country/seychelles/index.md) | 1 | €1,394 |
+| [Seychelles](/country/seychelles/index.md) | 1 | €1,727 |
 | [Singapore](/country/singapore/index.md) | 1 | €1,800 |
 | [Slovenia](/country/slovenia/index.md) | 1 | €420 |
 | [Sweden](/country/sweden/index.md) | 1 | €870 |

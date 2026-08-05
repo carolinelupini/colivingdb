@@ -6,7 +6,7 @@
 - **Type:** Pop-up / dated edition
 - **Dates:** Oct 16 - Nov 13, 2026
 - **Price:** from $1,690/mo
-- **Price note:** beachfront coliving accommodation (shared room, Veteran tier) + coworking + pool + communal kitchen for the month-long chapter
+- **Price note:** from $1,690 per chapter (about four weeks) for a shared room at the entry Member tier; returning members pay less and private rooms cost more — full tier table below
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 240 Mbps down <small>· operator-reported</small><br><small>Up to 240 Mbps</small>
@@ -20,9 +20,9 @@
 
 ## Rates
 
-| Stay length | Private | Shared |
-|---|---|---|
-| Per month | $2,890 | $1,690 |
+| Stay length | From |
+|---|---|
+| Per month | $1,690 |
 
 WiFi Tribe — Weligama does not publish a nightly or weekly rate.
 

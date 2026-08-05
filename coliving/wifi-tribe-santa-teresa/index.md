@@ -6,7 +6,7 @@
 - **Type:** Pop-up / dated edition
 - **Dates:** Oct 23 - Nov 20, 2026
 - **Price:** from $1,790/mo
-- **Price note:** coliving accommodation (shared room, Veteran tier) for the month-long chapter
+- **Price note:** from $1,790 per chapter (about four weeks) for a shared room at the entry Member tier; returning members pay less and private rooms cost more — full tier table below
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 170 Mbps down <small>· operator-reported</small>
@@ -21,9 +21,9 @@
 
 ## Rates
 
-| Stay length | Private | Shared |
-|---|---|---|
-| Per month | $3,190 | $1,790 |
+| Stay length | From |
+|---|---|
+| Per month | $1,790 |
 
 WiFi Tribe — Santa Teresa does not publish a nightly or weekly rate.
 

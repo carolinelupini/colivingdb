@@ -6,6 +6,6 @@
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Arctic Coliving — Lofoten Pier Lodge | Henningsvær | On request | — | private, shared | 7 nights | Permanent |
+| Arctic Coliving — Lofoten Pier Lodge | Henningsvær | from NOK 850/night | — | private, shared | 7 nights | Permanent |
 
 Source: https://colivingdb.com/city/norway/henningsvr/

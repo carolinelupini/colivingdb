@@ -6,7 +6,7 @@
 - **Type:** Pop-up / dated edition
 - **Dates:** Jan 15 - Feb 11, 2027
 - **Price:** from $1,890/mo
-- **Price note:** boutique chapter accommodation (shared room, Veteran tier) + coworking + community activities for the month-long chapter
+- **Price note:** from $1,890 per chapter (about four weeks) for a shared room at the entry Member tier; returning members pay less and private rooms cost more — full tier table below
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 60 Mbps down <small>· operator-reported</small><br><small>Up to 60 Mbps fibre</small>
@@ -17,9 +17,9 @@
 
 ## Rates
 
-| Stay length | Private | Shared |
-|---|---|---|
-| Per month | $3,190 | $1,890 |
+| Stay length | From |
+|---|---|
+| Per month | $1,890 |
 
 WiFi Tribe — Swakopmund does not publish a nightly or weekly rate.
 
