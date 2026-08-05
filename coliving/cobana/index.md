@@ -1,6 +1,6 @@
 # Cobana
 
-> Coliving in Zărnești, Romania. Last updated August 4, 2026.
+> Coliving in Zărnești, Romania. Last updated August 5, 2026.
 
 - **Location:** Zărnești, Romania
 - **Type:** Permanent coliving

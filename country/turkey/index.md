@@ -1,6 +1,6 @@
 # Coliving in Turkey
 
-> 4 colivings in Turkey, prices from €435 to €435 per month – last updated August 4, 2026.
+> 4 colivings in Turkey, prices from €435 to €435 per month – last updated August 5, 2026.
 
 ## All colivings
 

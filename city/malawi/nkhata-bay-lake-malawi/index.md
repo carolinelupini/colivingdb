@@ -1,6 +1,6 @@
 # Coliving in Nkhata Bay (Lake Malawi), Malawi
 
-> 1 colivings in Nkhata Bay (Lake Malawi), Malawi – last updated August 4, 2026.
+> 1 colivings in Nkhata Bay (Lake Malawi), Malawi – last updated August 5, 2026.
 
 ## All colivings
 

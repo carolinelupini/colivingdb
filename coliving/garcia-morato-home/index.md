@@ -1,11 +1,11 @@
 # García Morato Home
 
-> Coliving in Las Palmas, Spain. Last updated August 4, 2026.
+> Coliving in Las Palmas, Spain. Last updated August 5, 2026.
 
 - **Location:** Las Palmas, Spain
 - **Type:** Permanent coliving
 - **Price:** from $1,143/mo
-- **Price note:** from BGN 1,536/mo private ≈ €785
+- **Price note:** from $1,141/month for a single room
 - **Rating:** <a href="https://maps.google.com/?cid=16767292269131221328&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.0 (530 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No

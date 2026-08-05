@@ -1,6 +1,6 @@
 # FEM Coliving
 
-> Coliving in Sant Joan de les Abadesses, Spain. Last updated August 4, 2026.
+> Coliving in Sant Joan de les Abadesses, Spain. Last updated August 5, 2026.
 
 - **Location:** Sant Joan de les Abadesses, Spain
 - **Type:** Permanent coliving
@@ -16,7 +16,7 @@
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** mountain, rural, community, coworking
 - **Nearest airports:** Girona-Costa Brava Airport (GRO) ~53 km; Pirineus - la Seu d'Urgel Airport (LEU) ~73 km; Perpignan-Rivesaltes (Llabanère) Airport (PGF) ~74 km
-- **Website:** https://www.mapmelon.com/colivings/fem-coliving
+- **Website:** https://femcoliving.com/
 - **Rating:** 5.0 from 85 Google reviews
 
 ## Rates

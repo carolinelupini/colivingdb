@@ -1,11 +1,11 @@
 # The Triq Alamein (Pembroke coliving hub)
 
-> Coliving in Pembroke, Malta. Last updated August 4, 2026.
+> Coliving in Pembroke, Malta. Last updated August 5, 2026.
 
 - **Location:** Pembroke, Malta
 - **Type:** Permanent coliving
 - **Price:** from $4,686/mo
-- **Price note:** from BGN 5,237/mo single room; dorm beds exist but price not shown
+- **Price note:** from $4,675/month
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Vibe:** A social, arcade-style hub for digital nomads, remote workers, startups, and young professionals, with weekly welcome parties and themed events (pizza nights, sushi workshops, movie nights) built around networking and relationship-building.

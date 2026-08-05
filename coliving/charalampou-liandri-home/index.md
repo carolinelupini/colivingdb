@@ -1,6 +1,6 @@
 # Charalampou Liandri Home
 
-> Coliving in Atsipopoulo, Greece. Last updated August 4, 2026.
+> Coliving in Atsipopoulo, Greece. Last updated August 5, 2026.
 
 - **Location:** Atsipopoulo, Greece
 - **Type:** Permanent coliving

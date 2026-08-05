@@ -1,11 +1,11 @@
 # Neighbourgood East City
 
-> Coliving in Cape Town, South Africa. Last updated August 4, 2026.
+> Coliving in Cape Town, South Africa. Last updated August 5, 2026.
 
 - **Location:** Cape Town, South Africa
 - **Type:** Permanent coliving
-- **Price:** from R10,000/mo
-- **Price note:** co-living suites from R5,950/mo (~€300); shared dorm from ~€345/2wk
+- **Price:** On request
+- **Price note:** Price on request; the operator quotes per-night rates through their booking system and publishes no monthly figure
 - **Rating:** <a href="https://maps.google.com/?cid=9329984901720326076&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (367 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared, dorm
 - **Dorm available:** Yes
@@ -19,14 +19,6 @@
 - **Getting there:** Cape Town International (CPT) is the nearest airport, roughly 20-30 minutes by car depending on the location.
 - **Website:** https://www.neighbourgood.co
 - **Rating:** 4.4 from 367 Google reviews
-
-## Rates
-
-| Stay length | Shared |
-|---|---|
-| Per month | R6,000 |
-
-Neighbourgood East City does not publish a nightly or weekly rate.
 
 ## About
 

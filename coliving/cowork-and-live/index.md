@@ -1,6 +1,6 @@
 # Cowork & Live
 
-> Coliving in Casablanca, Morocco. Last updated August 4, 2026.
+> Coliving in Casablanca, Morocco. Last updated August 5, 2026.
 
 - **Location:** Casablanca, Morocco
 - **Type:** Permanent coliving

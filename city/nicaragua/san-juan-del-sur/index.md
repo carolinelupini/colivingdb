@@ -1,6 +1,6 @@
 # Coliving in San Juan del Sur, Nicaragua
 
-> 2 colivings in San Juan del Sur, Nicaragua, prices from €1,131 to €1,300 per month – last updated August 4, 2026.
+> 2 colivings in San Juan del Sur, Nicaragua, prices from €1,131 to €1,300 per month – last updated August 5, 2026.
 
 ## All colivings
 

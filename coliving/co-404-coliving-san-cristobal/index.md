@@ -1,11 +1,11 @@
 # co.404 Coliving San Cristóbal
 
-> Coliving in San Cristóbal de las Casas, Mexico. Last updated August 4, 2026.
+> Coliving in San Cristóbal de las Casas, Mexico. Last updated August 5, 2026.
 
 - **Location:** San Cristóbal de las Casas, Mexico
 - **Type:** Permanent coliving
-- **Price:** from $1,290/mo
-- **Price note:** est. from ~$38/night private, dorms cheaper (~€450/mo est.)
+- **Price:** from $401/mo
+- **Price note:** from $401/month, with discounts for longer stays
 - **Rating:** <a href="https://maps.google.com/?cid=5715453666132333859&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (81 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
@@ -21,9 +21,9 @@
 
 ## Rates
 
-| Stay length | Private | Shared |
-|---|---|---|
-| Per month | $2,390 | $1,290 |
+| Stay length | From |
+|---|---|
+| Per month | $401 |
 
 co.404 Coliving San Cristóbal does not publish a nightly or weekly rate.
 

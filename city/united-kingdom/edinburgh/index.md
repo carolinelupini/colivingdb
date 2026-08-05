@@ -1,6 +1,6 @@
-# Coliving in Edinburgh, Scotland (UK)
+# Coliving in Edinburgh, United Kingdom
 
-> 1 colivings in Edinburgh, Scotland (UK), prices from €1,482 to €1,482 per month – last updated August 4, 2026.
+> 1 colivings in Edinburgh, United Kingdom, prices from €1,482 to €1,482 per month – last updated August 5, 2026.
 
 ## All colivings
 
@@ -18,4 +18,4 @@
 
 - WiFi Tribe — Edinburgh — Jul 10 - Aug 7, 2026
 
-Source: https://colivingdb.com/city/scotland-uk/edinburgh/
+Source: https://colivingdb.com/city/united-kingdom/edinburgh/

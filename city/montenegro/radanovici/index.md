@@ -1,6 +1,6 @@
 # Coliving in Radanovici, Montenegro
 
-> 1 colivings in Radanovici, Montenegro, prices from €838 to €838 per month – last updated August 4, 2026.
+> 1 colivings in Radanovici, Montenegro, prices from €838 to €838 per month – last updated August 5, 2026.
 
 ## All colivings
 

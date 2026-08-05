@@ -1,6 +1,6 @@
 # Coliving Compostela
 
-> Coliving in Santiago de Compostela, Spain. Last updated August 4, 2026.
+> Coliving in Santiago de Compostela, Spain. Last updated August 5, 2026.
 
 - **Location:** Santiago de Compostela, Spain
 - **Type:** Permanent coliving
@@ -16,7 +16,7 @@
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, coworking, community
 - **Nearest airports:** Santiago-Rosalía de Castro Airport (SCQ) ~10 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~490 km; A Coruña Airport (LCG) ~49 km
-- **Website:** https://www.mapmelon.com/colivings/coliving-compostela
+- **Website:** https://colivingcompostela.com/
 - **Rating:** 4.7 from 91 Google reviews
 
 ## Rates

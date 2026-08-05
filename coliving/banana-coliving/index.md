@@ -1,11 +1,11 @@
 # Banana Coliving
 
-> Coliving in Taipei, Taiwan. Last updated August 4, 2026.
+> Coliving in Taipei, Taiwan. Last updated August 5, 2026.
 
 - **Location:** Taipei, Taiwan
 - **Type:** Permanent coliving
-- **Price:** from TWD 4,400/mo
-- **Price note:** est. ~NT$12,000/month; flexible rental from 1 month
+- **Price:** from TWD 7,900/mo
+- **Price note:** from NT$7,900/month (Ximen, triple room); rates vary by location
 - **Rating:** <a href="https://maps.google.com/?cid=15484336006979637128&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.2 (46 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
@@ -20,9 +20,9 @@
 
 ## Rates
 
-| Stay length | Private | Dorm |
-|---|---|---|
-| Per month | TWD 9,900 | TWD 4,400 |
+| Stay length | From |
+|---|---|
+| Per month | TWD 7,900 |
 
 Banana Coliving does not publish a nightly or weekly rate.
 

@@ -1,6 +1,6 @@
 # Buddha Coliving
 
-> Coliving in San Isidro (Tenerife), Spain. Last updated August 4, 2026.
+> Coliving in San Isidro (Tenerife), Spain. Last updated August 5, 2026.
 
 - **Location:** San Isidro (Tenerife), Spain
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # Saakadze Home
 
-> Coliving in Dusheti, Georgia. Last updated August 4, 2026.
+> Coliving in Dusheti, Georgia. Last updated August 5, 2026.
 
 - **Location:** Dusheti, Georgia
 - **Type:** Permanent coliving

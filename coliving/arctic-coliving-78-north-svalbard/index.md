@@ -1,8 +1,8 @@
 # Arctic Coliving 78° North (Svalbard)
 
-> Coliving in Longyearbyen, Svalbard (Norway). Last updated August 4, 2026.
+> Coliving in Longyearbyen, Norway. Last updated August 5, 2026.
 
-- **Location:** Longyearbyen, Svalbard (Norway)
+- **Location:** Longyearbyen, Norway
 - **Type:** Pop-up / dated edition
 - **Dates:** October - December 2026 (polar night season)
 - **Price:** from €280/wk

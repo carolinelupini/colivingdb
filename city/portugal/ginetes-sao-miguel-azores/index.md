@@ -1,6 +1,6 @@
 # Coliving in Ginetes, São Miguel, Azores, Portugal
 
-> 1 colivings in Ginetes, São Miguel, Azores, Portugal, prices from €660 to €660 per month – last updated August 4, 2026.
+> 1 colivings in Ginetes, São Miguel, Azores, Portugal, prices from €300 to €300 per month – last updated August 5, 2026.
 
 ## All colivings
 
@@ -12,6 +12,6 @@
 
 | Band (EUR/mo) | Colivings |
 |---|---|
-| 500–800 | 1 |
+| 0–500 | 1 |
 
 Source: https://colivingdb.com/city/portugal/ginetes-sao-miguel-azores/

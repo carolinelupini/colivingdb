@@ -1,6 +1,6 @@
 # Coliving in Mjølfjell (Voss), Norway
 
-> 1 colivings in Mjølfjell (Voss), Norway – last updated August 4, 2026.
+> 1 colivings in Mjølfjell (Voss), Norway – last updated August 5, 2026.
 
 ## All colivings
 

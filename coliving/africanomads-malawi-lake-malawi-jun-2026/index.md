@@ -1,6 +1,6 @@
 # AfricaNomads — Malawi (Lake Malawi) (Jun 2026)
 
-> Coliving in Malawi (Lake Malawi), Malawi. Last updated August 4, 2026.
+> Coliving in Malawi (Lake Malawi), Malawi. Last updated August 5, 2026.
 
 - **Location:** Malawi (Lake Malawi), Malawi
 - **Type:** Pop-up / dated edition

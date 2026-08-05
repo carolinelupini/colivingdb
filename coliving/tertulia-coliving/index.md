@@ -1,6 +1,6 @@
 # Tertulia Coliving
 
-> Coliving in Vicchio (Mugello, Florence), Italy. Last updated August 4, 2026.
+> Coliving in Vicchio (Mugello, Florence), Italy. Last updated August 5, 2026.
 
 - **Location:** Vicchio (Mugello, Florence), Italy
 - **Type:** Permanent coliving

@@ -1,10 +1,11 @@
 # J Startup House, Jaipur - C Scheme
 
-> Coliving in Jaipur, India. Last updated August 4, 2026.
+> Coliving in Jaipur, India. Last updated August 5, 2026.
 
 - **Location:** Jaipur, India
 - **Type:** Permanent coliving
-- **Price:** from INR 400/night
+- **Price:** from INR 8,000/mo
+- **Price note:** from ₹8,000/month for a dorm bed; private rooms ₹30,000/month
 - **Rating:** <a href="https://maps.google.com/?cid=6806970836498749206&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (298 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
@@ -24,8 +25,8 @@
 
 | Stay length | Private | Dorm |
 |---|---|---|
-| Per night | INR 1,500 | INR 400 |
+| Per month | INR 30,000 | INR 8,000 |
 
-J Startup House, Jaipur - C Scheme does not publish a weekly or monthly rate.
+J Startup House, Jaipur - C Scheme does not publish a nightly or weekly rate.
 
 Source: https://colivingdb.com/coliving/j-startup-house-jaipur-c-scheme/

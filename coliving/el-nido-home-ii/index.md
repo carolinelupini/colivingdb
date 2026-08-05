@@ -1,11 +1,11 @@
 # El Nido Home II
 
-> Coliving in El Nido, Philippines. Last updated August 4, 2026.
+> Coliving in El Nido, Philippines. Last updated August 5, 2026.
 
 - **Location:** El Nido, Philippines
 - **Type:** Permanent coliving
-- **Price:** from $6,667/mo
-- **Price note:** from BGN 3,215/mo private room w/ ensuite
+- **Price:** from $1,875/mo
+- **Price note:** from $1,875/month
 - **Rating:** <a href="https://maps.google.com/?cid=5788718082649157130&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.0 (1 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
@@ -23,7 +23,7 @@
 
 | Stay length | From |
 |---|---|
-| Per month | $6,667 |
+| Per month | $1,875 |
 
 El Nido Home II does not publish a nightly or weekly rate.
 

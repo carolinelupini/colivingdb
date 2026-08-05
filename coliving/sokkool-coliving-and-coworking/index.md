@@ -1,11 +1,11 @@
 # Sokkool Coliving & Coworking
 
-> Coliving in Canggu (Berawa), Bali, Indonesia. Last updated August 4, 2026.
+> Coliving in Canggu (Berawa), Bali, Indonesia. Last updated August 5, 2026.
 
 - **Location:** Canggu (Berawa), Bali, Indonesia
 - **Type:** Permanent coliving
-- **Price:** from IDR 616,000/mo
-- **Price note:** est. from IDR 880k/night private studio (~€48) with long-stay discounts
+- **Price:** from IDR 880,000/night
+- **Price note:** Price on request; the operator publishes per-night rates only (from IDR 880,000/night single), with 5–15% long-stay discounts
 - **Rating:** <a href="https://maps.google.com/?cid=11358701192485460034&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (177 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
@@ -20,12 +20,11 @@
 
 ## Rates
 
-| Stay length | Private |
+| Stay length | From |
 |---|---|
 | Per night | IDR 880,000 |
-| Per month | IDR 18,480,000 |
 
-Sokkool Coliving & Coworking does not publish a weekly rate.
+Sokkool Coliving & Coworking does not publish a weekly or monthly rate.
 
 ## About
 

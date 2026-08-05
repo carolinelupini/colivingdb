@@ -1,6 +1,6 @@
 # Coliving in Indonesia
 
-> 20 colivings in Indonesia, prices from €363 to €1,500 per month – last updated August 4, 2026.
+> 20 colivings in Indonesia, prices from €363 to €1,500 per month – last updated August 5, 2026.
 
 ## All colivings
 
@@ -16,7 +16,6 @@
 | Outpost Ubud Nyuh Kuning | Ubud, Bali | from $849/mo | 4.7 (320) | private, shared | 14 nights | Permanent |
 | The Ubud Residence (Raya Nyuh Kuning) | Ubud | from $949/mo | 5.0 (131) | private | 30 nights | Permanent |
 | Tropical Nomad Coliving | Canggu | from $950/mo | 4.4 (377) | private | — | Permanent |
-| Sokkool Coliving & Coworking | Canggu (Berawa), Bali | from IDR 616,000/mo | 4.9 (177) | private | 7 nights | Permanent |
 | Berawa Collective | Berawa (Canggu, Bali) | from $1,754/mo | 4.4 (52) | private | 30 nights | Permanent |
 | Boundless Life — Canggu, Bali | Canggu, Bali | from €1,500/mo | — | — | — | Pop-up |
 | Coworksurf Berawa (Canggu) | Canggu | On request | 4.3 (20) | private | — | Permanent |
@@ -25,6 +24,7 @@
 | Dream Cowork Hotel Lombok | Kuta Lombok | On request | 4.1 (402) | private, dorm | — | Permanent |
 | Markaz Collective Space | Bandung | On request | 4.7 (96) | — | — | Permanent |
 | Outsite Bali - Pererenan | Pererenan, Bali | On request | 4.4 (80) | private, shared | — | Permanent |
+| Sokkool Coliving & Coworking | Canggu (Berawa), Bali | from IDR 880,000/night | 4.9 (177) | private | 7 nights | Permanent |
 | Tribal Bali | Pererenan | On request | 4.6 (675) | private, dorm | — | Permanent |
 
 ## Price distribution
@@ -34,7 +34,7 @@
 | 0–500 | 2 |
 | 500–800 | 6 |
 | 800–1200 | 2 |
-| 1200–2000 | 3 |
+| 1200–2000 | 2 |
 
 ## Upcoming pop-ups
 

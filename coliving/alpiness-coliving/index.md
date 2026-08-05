@@ -1,6 +1,6 @@
 # Alpiness Coliving
 
-> Coliving in Evolène, Switzerland. Last updated August 4, 2026.
+> Coliving in Evolène, Switzerland. Last updated August 5, 2026.
 
 - **Location:** Evolène, Switzerland
 - **Type:** Permanent coliving
@@ -16,7 +16,7 @@
 - **Elevation:** 1,411 m
 - **Tags:** mountain, ski, rural, community, coworking, wellness
 - **Nearest airports:** Bern Airport (BRN) ~89 km; Zürich Airport (ZRH) ~170 km; Turin Airport (TRN) ~102 km
-- **Website:** https://www.mapmelon.com/colivings/alpiness-coliving
+- **Website:** https://alpiness-coliving.com/
 - **Rating:** 5.0 from 54 Google reviews
 
 ## Rates

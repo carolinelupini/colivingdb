@@ -1,6 +1,6 @@
 # Casa Basilico — Madeira
 
-> Coliving in Madeira, Portugal. Last updated August 4, 2026.
+> Coliving in Madeira, Portugal. Last updated August 5, 2026.
 
 - **Location:** Madeira, Portugal
 - **Type:** Pop-up / dated edition

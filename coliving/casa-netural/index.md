@@ -1,6 +1,6 @@
 # Casa Netural
 
-> Coliving in Matera, Italy. Last updated August 4, 2026.
+> Coliving in Matera, Italy. Last updated August 5, 2026.
 
 - **Location:** Matera, Italy
 - **Type:** Permanent coliving

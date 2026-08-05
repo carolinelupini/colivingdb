@@ -1,6 +1,6 @@
 # Draper Startup House Hyderabad
 
-> Coliving in Hyderabad, India. Last updated August 4, 2026.
+> Coliving in Hyderabad, India. Last updated August 5, 2026.
 
 - **Location:** Hyderabad, India
 - **Type:** Permanent coliving

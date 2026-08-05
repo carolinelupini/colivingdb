@@ -1,12 +1,12 @@
 # Coliving in Jaipur, India
 
-> 1 colivings in Jaipur, India, prices from €140 to €140 per month – last updated August 4, 2026.
+> 1 colivings in Jaipur, India, prices from €73 to €73 per month – last updated August 5, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| J Startup House, Jaipur - C Scheme | Jaipur | from INR 400/night | 4.7 (298) | private, dorm | — | Permanent |
+| J Startup House, Jaipur - C Scheme | Jaipur | from INR 8,000/mo | 4.7 (298) | private, dorm | — | Permanent |
 
 ## Price distribution
 

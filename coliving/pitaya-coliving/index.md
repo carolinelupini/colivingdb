@@ -1,6 +1,6 @@
 # Pitaya coliving
 
-> Coliving in Arrecife, Spain. Last updated August 4, 2026.
+> Coliving in Arrecife, Spain. Last updated August 5, 2026.
 
 - **Location:** Arrecife, Spain
 - **Type:** Permanent coliving
@@ -16,7 +16,7 @@
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** island, beach, surf, coworking, community, wellness
 - **Nearest airports:** César Manrique-Lanzarote Airport (ACE) ~6 km; Fuerteventura Airport (FUE) ~64 km
-- **Website:** https://www.mapmelon.com/colivings/pitaya-coliving
+- **Website:** https://www.pitayacoliving.com/
 - **Rating:** 5.0 from 64 Google reviews
 
 ## Rates

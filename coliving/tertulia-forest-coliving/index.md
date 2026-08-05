@@ -1,6 +1,6 @@
 # Tertulia Forest Coliving
 
-> Coliving in Mugello, Tuscany, Italy. Last updated August 4, 2026.
+> Coliving in Mugello, Tuscany, Italy. Last updated August 5, 2026.
 
 - **Location:** Mugello, Tuscany, Italy
 - **Type:** Permanent coliving
@@ -16,7 +16,7 @@
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, mountain, eco, coworking, community
 - **Nearest airports:** Florence Airport, Peretola (FLR) ~28 km; Rome–Fiumicino Leonardo da Vinci International Airport (FCO) ~257 km; Bologna Guglielmo Marconi Airport (BLQ) ~57 km
-- **Website:** https://www.mapmelon.com/colivings/tertulia-forest-coliving
+- **Website:** https://tertulia.farm/coliving/
 - **Rating:** 4.8 from 84 Google reviews
 
 ## Rates

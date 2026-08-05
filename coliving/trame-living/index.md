@@ -1,6 +1,6 @@
 # Trame Living
 
-> Coliving in Puglia, Italy. Last updated August 4, 2026.
+> Coliving in Puglia, Italy. Last updated August 5, 2026.
 
 - **Location:** Puglia, Italy
 - **Type:** Pop-up / dated edition

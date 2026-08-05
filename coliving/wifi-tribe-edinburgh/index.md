@@ -1,8 +1,8 @@
 # WiFi Tribe — Edinburgh
 
-> Coliving in Edinburgh, Scotland (UK). Last updated August 4, 2026.
+> Coliving in Edinburgh, United Kingdom. Last updated August 5, 2026.
 
-- **Location:** Edinburgh, Scotland (UK)
+- **Location:** Edinburgh, United Kingdom
 - **Type:** Pop-up / dated edition
 - **Dates:** Jul 10 - Aug 7, 2026
 - **Price:** from $3,690/mo

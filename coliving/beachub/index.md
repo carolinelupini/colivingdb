@@ -1,6 +1,6 @@
 # beacHub
 
-> Coliving in Koh Phangan, Thailand. Last updated August 4, 2026.
+> Coliving in Koh Phangan, Thailand. Last updated August 5, 2026.
 
 - **Location:** Koh Phangan, Thailand
 - **Type:** Permanent coliving

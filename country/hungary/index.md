@@ -1,19 +1,13 @@
 # Coliving in Hungary
 
-> 2 colivings in Hungary, prices from €900 to €900 per month – last updated August 4, 2026.
+> 2 colivings in Hungary – last updated August 5, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Portus Home Coliving | Vászoly | from HUF 750,000/mo | 4.8 (19) | private | 5 nights | Permanent |
 | Noma Collective — Budapest | Budapest | from $1,990/event | — | — | — | Pop-up |
-
-## Price distribution
-
-| Band (EUR/mo) | Colivings |
-|---|---|
-| 800–1200 | 1 |
+| Portus Home Coliving | Vászoly | from HUF 25,000/night | 4.8 (19) | private | 5 nights | Permanent |
 
 ## Upcoming pop-ups
 

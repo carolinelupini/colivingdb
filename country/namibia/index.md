@@ -1,6 +1,6 @@
 # Coliving in Namibia
 
-> 1 colivings in Namibia, prices from €1,306 to €1,306 per month – last updated August 4, 2026.
+> 1 colivings in Namibia, prices from €1,306 to €1,306 per month – last updated August 5, 2026.
 
 ## All colivings
 

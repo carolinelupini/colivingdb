@@ -1,6 +1,6 @@
 # WiFi Tribe — Zanzibar City
 
-> Coliving in Zanzibar City, Tanzania. Last updated August 4, 2026.
+> Coliving in Zanzibar City, Tanzania. Last updated August 5, 2026.
 
 - **Location:** Zanzibar City, Tanzania
 - **Type:** Pop-up / dated edition

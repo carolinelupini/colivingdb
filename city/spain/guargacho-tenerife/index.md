@@ -1,6 +1,6 @@
 # Coliving in Guargacho, Tenerife, Spain
 
-> 1 colivings in Guargacho, Tenerife, Spain, prices from €960 to €960 per month – last updated August 4, 2026.
+> 1 colivings in Guargacho, Tenerife, Spain, prices from €960 to €960 per month – last updated August 5, 2026.
 
 ## All colivings
 

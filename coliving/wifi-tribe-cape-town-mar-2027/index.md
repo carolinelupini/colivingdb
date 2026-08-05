@@ -1,6 +1,6 @@
 # WiFi Tribe — Cape Town (Mar 2027)
 
-> Coliving in Cape Town, South Africa. Last updated August 4, 2026.
+> Coliving in Cape Town, South Africa. Last updated August 5, 2026.
 
 - **Location:** Cape Town, South Africa
 - **Type:** Pop-up / dated edition

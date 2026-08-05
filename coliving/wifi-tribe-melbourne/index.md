@@ -1,6 +1,6 @@
 # WiFi Tribe — Melbourne
 
-> Coliving in Melbourne, Australia. Last updated August 4, 2026.
+> Coliving in Melbourne, Australia. Last updated August 5, 2026.
 
 - **Location:** Melbourne, Australia
 - **Type:** Pop-up / dated edition

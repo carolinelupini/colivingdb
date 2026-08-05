@@ -1,6 +1,6 @@
 # Coliving in Pembroke, Malta
 
-> 1 colivings in Pembroke, Malta, prices from €2,678 to €2,678 per month – last updated August 4, 2026.
+> 1 colivings in Pembroke, Malta, prices from €4,066 to €4,066 per month – last updated August 5, 2026.
 
 ## All colivings
 

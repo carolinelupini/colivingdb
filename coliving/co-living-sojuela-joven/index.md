@@ -1,6 +1,6 @@
 # Co-living Sojuela Joven
 
-> Coliving in Sojuela, Spain. Last updated August 4, 2026.
+> Coliving in Sojuela, Spain. Last updated August 5, 2026.
 
 - **Location:** Sojuela, Spain
 - **Type:** Permanent coliving

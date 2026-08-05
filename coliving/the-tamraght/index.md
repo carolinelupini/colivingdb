@@ -1,11 +1,11 @@
 # The Tamraght
 
-> Coliving in Agadir, Morocco. Last updated August 4, 2026.
+> Coliving in Agadir, Morocco. Last updated August 5, 2026.
 
 - **Location:** Agadir, Morocco
 - **Type:** Permanent coliving
-- **Price:** from $697/mo
-- **Price note:** from BGN 1,269/month (~€649)
+- **Price:** from €715/mo
+- **Price note:** from €715/month for a private room (Downtown Tamraght house)
 - **Room types:** private, shared, dorm
 - **Dorm available:** Yes
 - **Wi-Fi (on-site):** 77 Mbps down <small>· operator-reported</small><br><small>77 Mbps down / 20 Mbps up published</small>
@@ -21,7 +21,7 @@
 
 | Stay length | From |
 |---|---|
-| Per month | $697 |
+| Per month | €715 |
 
 The Tamraght does not publish a nightly or weekly rate.
 

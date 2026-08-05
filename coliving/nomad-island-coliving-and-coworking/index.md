@@ -1,6 +1,6 @@
 # Nomad Island Coliving & Coworking
 
-> Coliving in Tirana, Albania. Last updated August 4, 2026.
+> Coliving in Tirana, Albania. Last updated August 5, 2026.
 
 - **Location:** Tirana, Albania
 - **Type:** Permanent coliving

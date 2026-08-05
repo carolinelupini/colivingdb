@@ -1,11 +1,11 @@
 # Waterkant Residence
 
-> Coliving in Cape Town, South Africa. Last updated August 4, 2026.
+> Coliving in Cape Town, South Africa. Last updated August 5, 2026.
 
 - **Location:** Cape Town, South Africa
 - **Type:** Permanent coliving
-- **Price:** from $2,343/mo
-- **Price note:** from BGN 3,518/mo studio ≈ €1,799
+- **Price:** On request
+- **Price note:** Price on request; the operator publishes per-night rates only (ZAR 1,260–1,450/night)
 - **Rating:** <a href="https://maps.google.com/?cid=3333255371605467079&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (70 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
@@ -18,14 +18,6 @@
 - **Nearest airports:** Cape Town International Airport (CPT) ~18 km
 - **Website:** https://coliving.com/spaces/cjg0vc6x
 - **Rating:** 4.3 from 70 Google reviews
-
-## Rates
-
-| Stay length | From |
-|---|---|
-| Per month | $2,343 |
-
-Waterkant Residence does not publish a nightly or weekly rate.
 
 ## About
 

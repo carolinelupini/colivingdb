@@ -1,6 +1,6 @@
 # Amplitude Coliving
 
-> Coliving in Puerto Escondido (La Punta), Mexico. Last updated August 4, 2026.
+> Coliving in Puerto Escondido (La Punta), Mexico. Last updated August 5, 2026.
 
 - **Location:** Puerto Escondido (La Punta), Mexico
 - **Type:** Permanent coliving
@@ -16,7 +16,7 @@
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Tags:** beach, surf, coworking, community, wellness
 - **Nearest airports:** Puerto Escondido International Airport (PXM) ~5 km; Mexico City Benito Juárez International Airport (MEX) ~453 km; Bahías de Huatulco International Airport (HUX) ~85 km
-- **Website:** https://www.mapmelon.com/colivings/amplitude-coliving
+- **Website:** https://www.amplitude-coliving.com/
 - **Rating:** 5.0 from 75 Google reviews
 
 ## Rates

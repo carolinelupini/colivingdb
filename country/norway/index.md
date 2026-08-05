@@ -1,6 +1,6 @@
 # Coliving in Norway
 
-> 6 colivings in Norway, prices from €522 to €2,096 per month – last updated August 4, 2026.
+> 7 colivings in Norway, prices from €522 to €2,096 per month – last updated August 5, 2026.
 
 ## All colivings
 
@@ -11,6 +11,7 @@
 | Moritsgarden (Digital Nomad Norway) | Folkestad | from €700/mo | 4.8 (16) | private | — | Permanent |
 | WiFi Tribe — Molde | Molde | from $2,990/mo | — | private, shared | 28 nights | Pop-up |
 | Arctic Coliving | Mjølfjell (Voss) | On request | 5.0 (16) | shared, private | 7 nights | Permanent |
+| Arctic Coliving 78° North (Svalbard) | Longyearbyen | from €280/wk | — | private | 14 nights | Pop-up |
 | Arctic Coliving — Lofoten Pier Lodge | Henningsvær | On request | — | private, shared | 7 nights | Permanent |
 
 ## Price distribution
@@ -23,5 +24,6 @@
 ## Upcoming pop-ups
 
 - WiFi Tribe — Molde — Jul 3 - 31, 2026
+- Arctic Coliving 78° North (Svalbard) — October - December 2026 (polar night season)
 
 Source: https://colivingdb.com/country/norway/

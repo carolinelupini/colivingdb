@@ -1,18 +1,17 @@
 # Coliving in Portugal
 
-> 64 colivings in Portugal, prices from €150 to €2,249 per month – last updated August 4, 2026.
+> 64 colivings in Portugal, prices from €300 to €2,249 per month – last updated August 5, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| StartArt Residency | Loureira (near Braga) | from €150/mo | 5.0 (103) | shared | 1 night | Permanent |
+| Novovento | Ginetes, São Miguel, Azores | from €300/mo | 4.8 (48) | private | 7 nights | Permanent |
 | Coliving The VALLEY with Coworking Space | Rogé, Vale de Cambra | from €510/mo | 5.0 (33) | private | 5 nights | Permanent |
 | Quinta Da Carvalheira | Soure | from €510/mo | 5.0 (14) | — | 1 night | Permanent |
 | Nomadico Coliving Ericeira | Ericeira | from €542/mo | 4.9 (28) | private, shared | 7 nights | Pop-up |
 | LIV Colife - Coliving | Porto | from €660/mo | 3.9 (54) | private | — | Permanent |
 | Wild Oasis Algarve | Monchique | from €650/mo | 4.6 (73) | private | — | Permanent |
-| Novovento | Ginetes, São Miguel, Azores | from €300/mo | 4.8 (48) | private | 7 nights | Permanent |
 | Caminho Coliving | Moreira, Maia (Porto area) | from €700/mo | 4.9 (9) | private | 30 nights | Permanent |
 | Lava Coliving & Coworking | Ribeira Grande, São Miguel | from €25/night | 4.9 (60) | private, shared | 7 nights | Permanent |
 | Calcada Coliving (Calçada Guesthouse) | Tavira | from €780/mo | 4.9 (90) | private | 29 nights | Permanent |
@@ -63,6 +62,7 @@
 | Satvana Conscious Co-living & Retreats | Alentejo | On request | 5.0 (6) | private, shared | — | Permanent |
 | Sea Urchin SurfHouse | Ericeira | On request | 4.8 (85) | shared, private | — | Permanent |
 | Soul Co-Living Vila Franca de Xira | Vila Franca de Xira | On request | 4.2 (26) | private, apartment | — | Permanent |
+| StartArt Residency | Loureira (near Braga) | from €420/wk | 5.0 (103) | shared | 1 night | Permanent |
 | The Luzia House Funchal | Funchal, Madeira | On request | 5.0 (45) | private | — | Permanent |
 | Villa dos Irmaos (Coworksurf) | Ericeira | On request | — | private, dorm | — | Permanent |
 | WOT Lodge Soul | Ericeira | from €451/wk | 4.1 (123) | private, dorm | 30 nights | Permanent |
@@ -76,7 +76,7 @@
 | Band (EUR/mo) | Colivings |
 |---|---|
 | 0–500 | 1 |
-| 500–800 | 9 |
+| 500–800 | 8 |
 | 800–1200 | 21 |
 | 1200–2000 | 14 |
 | 2000–∞ | 3 |

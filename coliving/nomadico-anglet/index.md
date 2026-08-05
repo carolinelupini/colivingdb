@@ -1,12 +1,12 @@
 # Nomadico Anglet
 
-> Coliving in Anglet, France. Last updated August 4, 2026.
+> Coliving in Anglet, France. Last updated August 5, 2026.
 
 - **Location:** Anglet, France
 - **Type:** Pop-up / dated edition
 - **Dates:** Sept–Dec & Mar–Jun (seasonal)
 - **Price:** from €370/mo
-- **Price note:** from EUR790/month
+- **Price note:** from €370 per 4 weeks for a shared room in shoulder season; private rooms from €790
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** 'Live Globally, Connect Locally' — community managers organize events and adventures at every Nomadico location.
@@ -19,9 +19,9 @@
 
 ## Rates
 
-| Stay length | Private | Shared |
-|---|---|---|
-| Per month | €790 | €370 |
+| Stay length | From |
+|---|---|
+| Per month | €370 |
 
 Nomadico Anglet does not publish a nightly or weekly rate.
 

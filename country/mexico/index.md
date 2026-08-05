@@ -1,6 +1,6 @@
 # Coliving in Mexico
 
-> 28 colivings in Mexico, prices from €46 to €1,380 per month – last updated August 4, 2026.
+> 28 colivings in Mexico, prices from €46 to €1,380 per month – last updated August 5, 2026.
 
 ## All colivings
 
@@ -8,7 +8,7 @@
 |---|---|---|---|---|---|---|
 | Outsite Mexico City - Roma Sur | Mexico City | from $53/mo | 4.4 (79) | private | 2 nights | Permanent |
 | Polar Home | Tulum | from $228/mo | — | dorm | 30 nights | Permanent |
-| co.404 Coliving San Cristóbal | San Cristóbal de las Casas | from $1,290/mo | 4.8 (81) | private, dorm | 30 nights | Permanent |
+| co.404 Coliving San Cristóbal | San Cristóbal de las Casas | from $401/mo | 4.8 (81) | private, dorm | 30 nights | Permanent |
 | U-Co Roma Coliving | Mexico City | from €381/mo | 4.3 (102) | private, studio | — | Permanent |
 | The Polar II | Tulum | from $570/mo | 3.8 (76) | private | 30 nights | Permanent |
 | Co.404 Oaxaca City | Oaxaca | from $570/mo | 4.7 (162) | private | 30 nights | Permanent |

@@ -1,11 +1,11 @@
 # The Mozart
 
-> Coliving in Las Palmas, Spain. Last updated August 4, 2026.
+> Coliving in Las Palmas, Spain. Last updated August 5, 2026.
 
 - **Location:** Las Palmas, Spain
 - **Type:** Permanent coliving
-- **Price:** from $2,058/mo
-- **Price note:** from BGN 3,111/mo, double ensuite
+- **Price:** On request
+- **Price note:** Price on request
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 600 Mbps down <small>· operator-reported</small><br><small>600↓/600↑ Mbps</small>
@@ -16,14 +16,6 @@
 - **Tags:** city, beach, coworking, community
 - **Nearest airports:** Gran Canaria Airport (LPA) ~22 km; Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~97 km; Tenerife Sur Airport (TFS) ~111 km
 - **Website:** https://coliving.com/spaces/dgbue4kn
-
-## Rates
-
-| Stay length | From |
-|---|---|
-| Per month | $2,058 |
-
-The Mozart does not publish a nightly or weekly rate.
 
 ## About
 

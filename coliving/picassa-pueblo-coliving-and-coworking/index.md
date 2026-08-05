@@ -1,6 +1,6 @@
 # Picassa • Pueblo Coliving & Coworking
 
-> Coliving in Purchena, Spain. Last updated August 4, 2026.
+> Coliving in Purchena, Spain. Last updated August 5, 2026.
 
 - **Location:** Purchena, Spain
 - **Type:** Permanent coliving
@@ -16,7 +16,7 @@
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, mountain, coworking, community
 - **Nearest airports:** Almería Airport (LEI) ~55 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~366 km; Region of Murcia International Airport (RMU) ~120 km
-- **Website:** https://www.mapmelon.com/colivings/picassa-pueblo-coliving-coworking
+- **Website:** https://picassacoliving.com/
 - **Rating:** 5.0 from 17 Google reviews
 
 ## Rates

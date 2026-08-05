@@ -1,6 +1,6 @@
 # NomadGao Vila Nova
 
-> Coliving in Anjuna, Goa, India. Last updated August 4, 2026.
+> Coliving in Anjuna, Goa, India. Last updated August 5, 2026.
 
 - **Location:** Anjuna, Goa, India
 - **Type:** Permanent coliving

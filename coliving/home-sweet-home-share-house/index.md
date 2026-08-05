@@ -1,6 +1,6 @@
 # Home Sweet Home Share House
 
-> Coliving in Taipei, Taiwan. Last updated August 4, 2026.
+> Coliving in Taipei, Taiwan. Last updated August 5, 2026.
 
 - **Location:** Taipei, Taiwan
 - **Type:** Permanent coliving

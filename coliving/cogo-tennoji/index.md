@@ -1,6 +1,6 @@
 # COGO TENNOJI
 
-> Coliving in Osaka, Japan. Last updated August 4, 2026.
+> Coliving in Osaka, Japan. Last updated August 5, 2026.
 
 - **Location:** Osaka, Japan
 - **Type:** Permanent coliving

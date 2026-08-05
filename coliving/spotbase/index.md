@@ -1,6 +1,6 @@
 # SpotBase
 
-> Coliving in Iława, Masuria, Poland. Last updated August 4, 2026.
+> Coliving in Iława, Masuria, Poland. Last updated August 5, 2026.
 
 - **Location:** Iława, Masuria, Poland
 - **Type:** Permanent coliving

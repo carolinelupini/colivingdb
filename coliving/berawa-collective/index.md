@@ -1,6 +1,6 @@
 # Berawa Collective
 
-> Coliving in Berawa (Canggu, Bali), Indonesia. Last updated August 4, 2026.
+> Coliving in Berawa (Canggu, Bali), Indonesia. Last updated August 5, 2026.
 
 - **Location:** Berawa (Canggu, Bali), Indonesia
 - **Type:** Permanent coliving

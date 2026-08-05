@@ -1,11 +1,11 @@
 # Portus Home Coliving
 
-> Coliving in Vászoly, Hungary. Last updated August 4, 2026.
+> Coliving in Vászoly, Hungary. Last updated August 5, 2026.
 
 - **Location:** Vászoly, Hungary
 - **Type:** Permanent coliving
-- **Price:** from HUF 750,000/mo
-- **Price note:** from €24/day, est. monthly
+- **Price:** from HUF 25,000/night
+- **Price note:** from Ft25,000/night (Rock Szoba); the operator publishes nightly rates only
 - **Rating:** <a href="https://maps.google.com/?cid=13844542627599520063&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (19 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
@@ -23,9 +23,8 @@
 | Stay length | Private |
 |---|---|
 | Per night | HUF 25,000 |
-| Per month | HUF 750,000 |
 
-Portus Home Coliving does not publish a weekly rate.
+Portus Home Coliving does not publish a weekly or monthly rate.
 
 ## About
 

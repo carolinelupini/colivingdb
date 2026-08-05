@@ -1,6 +1,6 @@
 # Coliving in Costa Adeje, Tenerife, Spain
 
-> 1 colivings in Costa Adeje, Tenerife, Spain – last updated August 4, 2026.
+> 1 colivings in Costa Adeje, Tenerife, Spain – last updated August 5, 2026.
 
 ## All colivings
 

@@ -1,11 +1,11 @@
 # Coliving Sardinia
 
-> Coliving in Porto Cervo, Sardinia, Italy. Last updated August 4, 2026.
+> Coliving in Porto Cervo, Sardinia, Italy. Last updated August 5, 2026.
 
 - **Location:** Porto Cervo, Sardinia, Italy
 - **Type:** Permanent coliving
 - **Price:** from €950/mo
-- **Price note:** from €40/night single; monthly from €950
+- **Price note:** from €950/month; the operator also publishes a €40/night rate for shorter stays
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 100 Mbps down <small>· operator-reported</small>

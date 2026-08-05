@@ -1,6 +1,6 @@
 # Coliving in Pipa, Brazil
 
-> 2 colivings in Pipa, Brazil, prices from €1,131 to €1,131 per month – last updated August 4, 2026.
+> 2 colivings in Pipa, Brazil, prices from €1,131 to €1,131 per month – last updated August 5, 2026.
 
 ## All colivings
 

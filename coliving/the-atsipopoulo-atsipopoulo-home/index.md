@@ -1,11 +1,11 @@
 # The Atsipopoulo (Atsipopoulo Home)
 
-> Coliving in Atsipopoulo, Greece. Last updated August 4, 2026.
+> Coliving in Atsipopoulo, Greece. Last updated August 5, 2026.
 
 - **Location:** Atsipopoulo, Greece
 - **Type:** Permanent coliving
-- **Price:** from $5,488/mo
-- **Price note:** est. ~$640/mo cheapest studio; listing BGN figures inconsistent
+- **Price:** On request
+- **Price note:** Price on request; the operator gates booking behind a date picker and publishes no rates
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Community-living concept for like-minded people to live, work, and play together, with traditional Greek hospitality
@@ -15,14 +15,6 @@
 - **Tags:** community, coworking, rural
 - **Nearest airports:** Chania International Airport (CHQ) ~32 km; Athens Eleftherios Venizelos International Airport (ATH) ~291 km; Heraklion International Nikos Kazantzakis Airport (HER) ~68 km
 - **Website:** https://coliving.com/spaces/twxho8lo
-
-## Rates
-
-| Stay length | From |
-|---|---|
-| Per month | $5,488 |
-
-The Atsipopoulo (Atsipopoulo Home) does not publish a nightly or weekly rate.
 
 ## About
 

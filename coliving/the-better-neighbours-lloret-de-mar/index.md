@@ -1,6 +1,6 @@
 # The Better Neighbours — Lloret de Mar
 
-> Coliving in Lloret de Mar, Spain. Last updated August 4, 2026.
+> Coliving in Lloret de Mar, Spain. Last updated August 5, 2026.
 
 - **Location:** Lloret de Mar, Spain
 - **Type:** Pop-up / dated edition

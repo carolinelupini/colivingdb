@@ -1,12 +1,12 @@
 # Coliving in India
 
-> 9 colivings in India, prices from €140 to €540 per month – last updated August 4, 2026.
+> 9 colivings in India, prices from €73 to €540 per month – last updated August 5, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| J Startup House, Jaipur - C Scheme | Jaipur | from INR 400/night | 4.7 (298) | private, dorm | — | Permanent |
+| J Startup House, Jaipur - C Scheme | Jaipur | from INR 8,000/mo | 4.7 (298) | private, dorm | — | Permanent |
 | Sector 23 Home | Navi Mumbai | from $141/mo | — | dorm | 30 nights | Permanent |
 | NomadGao Vila Nova | Anjuna, Goa | from INR 35,000/mo | 4.8 (281) | private | 3 nights | Permanent |
 | Draper Startup House Hyderabad | Hyderabad | from €360/mo | 4.7 (521) | private, shared, dorm | — | Permanent |

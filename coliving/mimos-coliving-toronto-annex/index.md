@@ -1,11 +1,11 @@
 # Mimos Coliving - Toronto Annex
 
-> Coliving in Toronto, Canada. Last updated August 4, 2026.
+> Coliving in Toronto, Canada. Last updated August 5, 2026.
 
 - **Location:** Toronto, Canada
 - **Type:** Permanent coliving
 - **Price:** from C$1,440/mo
-- **Price note:** €1,440/mo (discounted from €1,710); €48/night
+- **Price note:** from CA$1,440/month for a private room (discounted from CA$1,710); CA$48/night
 - **Rating:** <a href="https://maps.google.com/?cid=1295760361061846920&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (17 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No

@@ -1,6 +1,6 @@
-# Coliving in Longyearbyen, Svalbard (Norway)
+# Coliving in Longyearbyen, Norway
 
-> 1 colivings in Longyearbyen, Svalbard (Norway) – last updated August 4, 2026.
+> 1 colivings in Longyearbyen, Norway – last updated August 5, 2026.
 
 ## All colivings
 
@@ -12,4 +12,4 @@
 
 - Arctic Coliving 78° North (Svalbard) — October - December 2026 (polar night season)
 
-Source: https://colivingdb.com/city/svalbard-norway/longyearbyen/
+Source: https://colivingdb.com/city/norway/longyearbyen/

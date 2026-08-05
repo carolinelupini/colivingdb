@@ -1,11 +1,11 @@
 # KoHub
 
-> Coliving in Ko Lanta, Thailand. Last updated August 4, 2026.
+> Coliving in Ko Lanta, Thailand. Last updated August 5, 2026.
 
 - **Location:** Ko Lanta, Thailand
 - **Type:** Permanent coliving
 - **Price:** from THB 49,500/mo
-- **Price note:** from ~18,000 THB/mo all-inclusive (room + 2 meals/day + coworking), low/mid season
+- **Price note:** from ฿49,500/month (low season), bundling the coliving room, coworking and meals
 - **Rating:** <a href="https://maps.google.com/?cid=6312496478468385216&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (175 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No

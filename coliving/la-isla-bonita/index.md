@@ -1,11 +1,11 @@
 # La Isla Bonita
 
-> Coliving in Weligama, Sri Lanka. Last updated August 4, 2026.
+> Coliving in Weligama, Sri Lanka. Last updated August 5, 2026.
 
 - **Location:** Weligama, Sri Lanka
 - **Type:** Permanent coliving
 - **Price:** from $500/mo
-- **Price note:** est. from ~$35/night; ocean- or jungle-view rooms
+- **Price note:** from $500/month for a double room
 - **Rating:** <a href="https://maps.google.com/?cid=13685436236449680825&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (13 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
@@ -21,11 +21,11 @@
 
 ## Rates
 
-| Stay length | Private |
+| Stay length | From |
 |---|---|
-| Per night | $35 |
-| Per week | $185 |
 | Per month | $500 |
+
+La Isla Bonita does not publish a nightly or weekly rate.
 
 ## About
 

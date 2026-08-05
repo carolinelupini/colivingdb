@@ -1,11 +1,11 @@
 # StartArt Residency
 
-> Coliving in Loureira (near Braga), Portugal. Last updated August 4, 2026.
+> Coliving in Loureira (near Braga), Portugal. Last updated August 5, 2026.
 
 - **Location:** Loureira (near Braga), Portugal
 - **Type:** Permanent coliving
-- **Price:** from €150/mo
-- **Price note:** €150/month regular (€60 with Mapmelon discount) — unusually low, may reflect residency/work-exchange model
+- **Price:** from €420/wk
+- **Price note:** from €420/week + IVA for a bed in a 4-bed room, up to €940/week + IVA private; 7–14 night minimum, meals and studio access included
 - **Rating:** <a href="https://maps.google.com/?cid=3607568290422296719&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (103 reviews)</a> <small>· Google</small>
 - **Room types:** shared
 - **Dorm available:** No
@@ -16,20 +16,19 @@
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** rural, community, eco, wellness
 - **Nearest airports:** Francisco de Sá Carneiro Airport (OPO) ~40 km; Lisbon Humberto Delgado Airport (LIS) ~314 km; Vila Real Airport (VRL) ~66 km
-- **Website:** https://www.mapmelon.com/colivings/startart-residency
+- **Website:** https://www.startartresidency.com/
 - **Rating:** 5.0 from 103 Google reviews
 
 ## Rates
 
-| Stay length | From |
-|---|---|
-| Per night | €5 |
-| Per month | €150 |
+| Stay length | Private | Dorm |
+|---|---|---|
+| Per week | €940 | €420 |
 
-StartArt Residency does not publish a weekly rate.
+StartArt Residency does not publish a nightly or monthly rate.
 
 ## About
 
-Permanent creative residency near Braga; confirmed €150/month regular shared-room rate (€60 with Mapmelon discount), very low cost reflects rural/residency model.
+A paid artist residency near Braga rather than a conventional coliving — rates are weekly and include meals and studio access. A separate unpaid work-exchange track also exists.
 
 Source: https://colivingdb.com/coliving/startart-residency/

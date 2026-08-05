@@ -1,11 +1,11 @@
 # Digital Nomad Adventures
 
-> Coliving in Koh Phangan, Thailand. Last updated August 4, 2026.
+> Coliving in Koh Phangan, Thailand. Last updated August 5, 2026.
 
 - **Location:** Koh Phangan, Thailand
 - **Type:** Permanent coliving
-- **Price:** from $695/mo
-- **Price note:** Koh-Live $2495/month incl. accommodation + meals; Koh-Munity $695/month without lodging
+- **Price:** from $1,645/mo
+- **Price note:** from $1,645/month each for a shared room; $2,495/month solo, accommodation included
 - **Rating:** <a href="https://maps.google.com/?cid=18000937719135426810&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (39 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
@@ -20,12 +20,11 @@
 
 ## Rates
 
-| Stay length | Private | Shared |
-|---|---|---|
-| Per week | $625 | $425 |
-| Per month | $2,495 | $1,645 |
+| Stay length | From |
+|---|---|
+| Per month | $1,645 |
 
-Digital Nomad Adventures does not publish a nightly rate.
+Digital Nomad Adventures does not publish a nightly or weekly rate.
 
 ## About
 

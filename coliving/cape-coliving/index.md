@@ -1,11 +1,11 @@
 # Cape Coliving
 
-> Coliving in Cape Town, South Africa. Last updated August 4, 2026.
+> Coliving in Cape Town, South Africa. Last updated August 5, 2026.
 
 - **Location:** Cape Town, South Africa
 - **Type:** Permanent coliving
 - **Price:** from €2,069/mo
-- **Price note:** from ~$850/mo (est. EUR)
+- **Price note:** from €2,069/month for a Queen Suite on a 3-month summer booking; rates tier by season and length of stay
 - **Rating:** <a href="https://maps.google.com/?cid=11459430011803667920&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (70 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
@@ -20,9 +20,9 @@
 
 ## Rates
 
-| Stay length | Private |
+| Stay length | From |
 |---|---|
-| Per month | €2,190 |
+| Per month | €2,069 |
 
 Cape Coliving does not publish a nightly or weekly rate.
 

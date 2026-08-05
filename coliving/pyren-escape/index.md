@@ -1,11 +1,11 @@
 # Pyren'Escape
 
-> Coliving in Guchen (Saubissan), Pyrenees, France. Last updated August 4, 2026.
+> Coliving in Guchen (Saubissan), Pyrenees, France. Last updated August 5, 2026.
 
 - **Location:** Guchen (Saubissan), Pyrenees, France
 - **Type:** Permanent coliving
-- **Price:** from €1,110/mo
-- **Price note:** €660/month (discounted from €1,110); €33/night
+- **Price:** On request
+- **Price note:** Price on request; the operator publishes per-night rates only (€22–€110/night depending on room and length of stay)
 - **Rating:** <a href="https://maps.google.com/?cid=2991060845133542725&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (164 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared, studio, apartment
 - **Dorm available:** No
@@ -17,17 +17,8 @@
 - **Elevation:** 1,072 m
 - **Tags:** mountain, rural, coworking, community, wellness
 - **Nearest airports:** Tarbes-Lourdes-Pyrénées Airport (LDE) ~44 km; Toulouse-Blagnac Airport (TLS) ~119 km; Pau Pyrénées Airport (PUF) ~83 km
-- **Website:** https://www.mapmelon.com/colivings/pyren-escape
+- **Website:** https://pyrenescape.com/
 - **Rating:** 4.9 from 164 Google reviews
-
-## Rates
-
-| Stay length | From |
-|---|---|
-| Per night | €37 |
-| Per month | €1,110 |
-
-Pyren'Escape does not publish a weekly rate.
 
 ## About
 

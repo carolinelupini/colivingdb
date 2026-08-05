@@ -1,6 +1,6 @@
 # Coliving in Peru
 
-> 1 colivings in Peru, prices from €956 to €956 per month – last updated August 4, 2026.
+> 1 colivings in Peru, prices from €956 to €956 per month – last updated August 5, 2026.
 
 ## All colivings
 

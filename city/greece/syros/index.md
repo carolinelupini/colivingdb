@@ -1,6 +1,6 @@
 # Coliving in Syros, Greece
 
-> 1 colivings in Syros, Greece, prices from €2,300 to €2,300 per month – last updated August 4, 2026.
+> 1 colivings in Syros, Greece, prices from €2,300 to €2,300 per month – last updated August 5, 2026.
 
 ## All colivings
 

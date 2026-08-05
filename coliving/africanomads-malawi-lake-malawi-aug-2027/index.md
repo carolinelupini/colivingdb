@@ -1,6 +1,6 @@
 # AfricaNomads — Malawi (Lake Malawi) (Aug 2027)
 
-> Coliving in Nkhata Bay (Lake Malawi), Malawi. Last updated August 4, 2026.
+> Coliving in Nkhata Bay (Lake Malawi), Malawi. Last updated August 5, 2026.
 
 - **Location:** Nkhata Bay (Lake Malawi), Malawi
 - **Type:** Pop-up / dated edition

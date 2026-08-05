@@ -1,11 +1,11 @@
 # Commune
 
-> Coliving in Siem Reap, Cambodia. Last updated August 4, 2026.
+> Coliving in Siem Reap, Cambodia. Last updated August 5, 2026.
 
 - **Location:** Siem Reap, Cambodia
 - **Type:** Permanent coliving
-- **Price:** from $734/mo
-- **Price note:** from $171/week (~€640/month est.)
+- **Price:** from $171/wk
+- **Price note:** from $171/week for a private room; the operator publishes no monthly rate
 - **Rating:** <a href="https://maps.google.com/?cid=9188583200278775652&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 3.9 (19 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
@@ -24,9 +24,8 @@
 | Stay length | Private |
 |---|---|
 | Per week | $171 |
-| Per month | $734 |
 
-Commune does not publish a nightly rate.
+Commune does not publish a nightly or monthly rate.
 
 ## About
 

@@ -1,12 +1,12 @@
 # Boundless Life — La Barra
 
-> Coliving in La Barra, Uruguay. Last updated August 4, 2026.
+> Coliving in La Barra, Uruguay. Last updated August 5, 2026.
 
 - **Location:** La Barra, Uruguay
 - **Type:** Pop-up / dated edition
 - **Dates:** Apr-Jun 2026 / Sept-Nov 2026 / Dec 2026 / Jan-Mar 2027 / Apr-Jun 2027 (plus Summer Camps)
-- **Price:** from $1,090/mo
-- **Price note:** children's education (5 days/wk, ages 1.5-14), all meals, 24/7 coworking, community activities, furnished apartment + utilities
+- **Price:** from €1,800/mo
+- **Price note:** from €1,800/month — a family package including children's schooling, not a room-only rate
 - **Room types:** —
 - **Dorm available:** No
 - **Vibe:** A family-focused remote-work community in Punta del Este's La Barra blending coworking with cultural immersion, arts, and daily social connection for globally-minded families.
@@ -21,9 +21,9 @@
 
 ## Rates
 
-| Stay length | Private | Shared |
-|---|---|---|
-| Per month | $2,190 | $1,090 |
+| Stay length | From |
+|---|---|
+| Per month | €1,800 |
 
 Boundless Life — La Barra does not publish a nightly or weekly rate.
 

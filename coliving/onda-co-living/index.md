@@ -1,6 +1,6 @@
 # Onda Co-Living
 
-> Coliving in Ferrel (Baleal), Peniche, Portugal. Last updated August 4, 2026.
+> Coliving in Ferrel (Baleal), Peniche, Portugal. Last updated August 5, 2026.
 
 - **Location:** Ferrel (Baleal), Peniche, Portugal
 - **Type:** Permanent coliving
@@ -16,7 +16,7 @@
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** beach, surf, coworking, community, wellness
 - **Nearest airports:** Lisbon Humberto Delgado Airport (LIS) ~68 km; Cascais Airport (CAT) ~72 km
-- **Website:** https://www.mapmelon.com/colivings/onda-co-living
+- **Website:** https://www.ondacoliving.com/
 - **Rating:** 5.0 from 27 Google reviews
 
 ## Rates

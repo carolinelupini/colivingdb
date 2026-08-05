@@ -1,6 +1,6 @@
 # Nomads Hub
 
-> Coliving in Cebu, Philippines. Last updated August 4, 2026.
+> Coliving in Cebu, Philippines. Last updated August 5, 2026.
 
 - **Location:** Cebu, Philippines
 - **Type:** Permanent coliving

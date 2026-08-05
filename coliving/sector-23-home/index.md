@@ -1,11 +1,11 @@
 # Sector 23 Home
 
-> Coliving in Navi Mumbai, India. Last updated August 4, 2026.
+> Coliving in Navi Mumbai, India. Last updated August 5, 2026.
 
 - **Location:** Navi Mumbai, India
 - **Type:** Permanent coliving
 - **Price:** from $141/mo
-- **Price note:** from BGN 242/mo (bunk bed)
+- **Price note:** from $141/month for a bunk bed
 - **Room types:** dorm
 - **Dorm available:** Yes
 - **Wi-Fi (on-site):** 82 Mbps down <small>· operator-reported</small>

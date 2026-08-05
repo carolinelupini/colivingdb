@@ -1,12 +1,12 @@
 # Coliving in Presjeka, Nikšić, Montenegro
 
-> 1 colivings in Presjeka, Nikšić, Montenegro, prices from €1,400 to €1,400 per month – last updated August 4, 2026.
+> 1 colivings in Presjeka, Nikšić, Montenegro, prices from €1,397 to €1,397 per month – last updated August 5, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Zaselje Home | Presjeka, Nikšić | from $857/mo | — | private | 30 nights | Permanent |
+| Zaselje Home | Presjeka, Nikšić | from $1,610/mo | — | private | 30 nights | Permanent |
 
 ## Price distribution
 

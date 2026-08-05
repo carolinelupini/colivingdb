@@ -1,11 +1,11 @@
 # The Fernando Salazar Gonzalez
 
-> Coliving in Las Galletas, Spain. Last updated August 4, 2026.
+> Coliving in Las Galletas, Spain. Last updated August 5, 2026.
 
 - **Location:** Las Galletas, Spain
 - **Type:** Permanent coliving
-- **Price:** from $857/mo
-- **Price note:** from BGN 1,467/mo for bed in 6-bed shared room
+- **Price:** from $856/mo
+- **Price note:** from $856/month for a bed in a 6-bed shared room; private rooms from $970/month
 - **Room types:** private, shared
 - **Dorm available:** Yes
 - **Wi-Fi (on-site):** 39 Mbps down <small>· operator-reported</small><br><small>Listed as 39 Mbps down / 84 Mbps up</small>
@@ -21,7 +21,7 @@
 
 | Stay length | From |
 |---|---|
-| Per month | $857 |
+| Per month | $856 |
 
 The Fernando Salazar Gonzalez does not publish a nightly or weekly rate.
 

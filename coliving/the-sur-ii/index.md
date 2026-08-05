@@ -1,6 +1,6 @@
 # The Sur II
 
-> Coliving in Tulum, Mexico. Last updated August 4, 2026.
+> Coliving in Tulum, Mexico. Last updated August 5, 2026.
 
 - **Location:** Tulum, Mexico
 - **Type:** Permanent coliving

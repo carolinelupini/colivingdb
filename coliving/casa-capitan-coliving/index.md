@@ -1,6 +1,6 @@
 # Casa Capitán Coliving
 
-> Coliving in Guargacho, Tenerife, Spain. Last updated August 4, 2026.
+> Coliving in Guargacho, Tenerife, Spain. Last updated August 5, 2026.
 
 - **Location:** Guargacho, Tenerife, Spain
 - **Type:** Permanent coliving
@@ -16,7 +16,7 @@
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** island, coworking, community, beach, rural
 - **Nearest airports:** Tenerife Sur Airport (TFS) ~6 km; Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~58 km; Gran Canaria Airport (LPA) ~123 km
-- **Website:** https://www.mapmelon.com/colivings/casa-capitan-coliving
+- **Website:** https://casacapitantenerife.com/
 - **Rating:** 5.0 from 18 Google reviews
 
 ## Rates

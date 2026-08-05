@@ -1,6 +1,6 @@
 # Villa dos Irmaos (Coworksurf)
 
-> Coliving in Ericeira, Portugal. Last updated August 4, 2026.
+> Coliving in Ericeira, Portugal. Last updated August 5, 2026.
 
 - **Location:** Ericeira, Portugal
 - **Type:** Permanent coliving

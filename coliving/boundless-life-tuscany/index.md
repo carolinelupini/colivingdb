@@ -1,11 +1,11 @@
 # Boundless Life Tuscany
 
-> Coliving in Pistoia, Italy. Last updated August 4, 2026.
+> Coliving in Pistoia, Italy. Last updated August 5, 2026.
 
 - **Location:** Pistoia, Italy
 - **Type:** Permanent coliving
-- **Price:** from €2,100/mo
-- **Price note:** est. from ~EUR1,100/mo per package
+- **Price:** from €3,500/mo
+- **Price note:** from €3,500/month for the 2026–27 cohort — a family package including children's schooling, not a room-only rate
 - **Rating:** <a href="https://maps.google.com/?cid=9564498967080220646&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (1 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
@@ -19,9 +19,9 @@
 
 ## Rates
 
-| Stay length | Private |
+| Stay length | From |
 |---|---|
-| Per month | €2,100 |
+| Per month | €3,500 |
 
 Boundless Life Tuscany does not publish a nightly or weekly rate.
 

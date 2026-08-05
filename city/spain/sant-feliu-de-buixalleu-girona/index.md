@@ -1,6 +1,6 @@
 # Coliving in Sant Feliu de Buixalleu, Girona, Spain
 
-> 1 colivings in Sant Feliu de Buixalleu, Girona, Spain, prices from €750 to €750 per month – last updated August 4, 2026.
+> 1 colivings in Sant Feliu de Buixalleu, Girona, Spain, prices from €750 to €750 per month – last updated August 5, 2026.
 
 ## All colivings
 

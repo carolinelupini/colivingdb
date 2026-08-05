@@ -1,6 +1,6 @@
 # As We Flow Coliving
 
-> Coliving in Porto Cervo, Sardinia, Italy. Last updated August 4, 2026.
+> Coliving in Porto Cervo, Sardinia, Italy. Last updated August 5, 2026.
 
 - **Location:** Porto Cervo, Sardinia, Italy
 - **Type:** Permanent coliving
@@ -16,7 +16,7 @@
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** beach, community, coworking, wellness
 - **Nearest airports:** Olbia Costa Smeralda Airport (OLB) ~27 km; Rome–Fiumicino Leonardo da Vinci International Airport (FCO) ~238 km; Figari Sud-Corse Airport (FSC) ~55 km
-- **Website:** https://www.mapmelon.com/colivings/as-we-flow-coliving
+- **Website:** https://asweflow.it/
 - **Rating:** 4.9 from 45 Google reviews
 
 ## Rates

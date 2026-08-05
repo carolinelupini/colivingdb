@@ -1,6 +1,6 @@
 # Coliving in Es Canar, Ibiza, Spain
 
-> 1 colivings in Es Canar, Ibiza, Spain, prices from €1,000 to €1,000 per month – last updated August 4, 2026.
+> 1 colivings in Es Canar, Ibiza, Spain, prices from €1,000 to €1,000 per month – last updated August 5, 2026.
 
 ## All colivings
 

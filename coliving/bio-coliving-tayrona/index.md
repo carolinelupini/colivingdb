@@ -1,11 +1,11 @@
 # Bio Coliving TAYRONA
 
-> Coliving in Santa Marta (near Tayrona Park), Colombia. Last updated August 4, 2026.
+> Coliving in Santa Marta (near Tayrona Park), Colombia. Last updated August 5, 2026.
 
 - **Location:** Santa Marta (near Tayrona Park), Colombia
 - **Type:** Permanent coliving
-- **Price:** from €650/mo
-- **Price note:** from €150/month per Mapmelon listing
+- **Price:** On request
+- **Price note:** Price on request; the operator publishes only a bundled day-package rate (from COP$60,000/day)
 - **Rating:** <a href="https://maps.google.com/?cid=2762998578243031467&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (48 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
@@ -16,19 +16,11 @@
 - **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Tags:** eco, rural, coworking, community, wellness
 - **Nearest airports:** Simón Bolívar International Airport (SMR) ~25 km; Ernesto Cortissoz International Airport (BAQ) ~90 km; Almirante Padilla Airport (RCH) ~126 km
-- **Website:** https://www.mapmelon.com/colivings/bio-coliving-tayrona
+- **Website:** https://biocolivingtayrona.com/
 - **Rating:** 4.7 from 48 Google reviews
-
-## Rates
-
-| Stay length | Private |
-|---|---|
-| Per month | €650 |
-
-Bio Coliving TAYRONA does not publish a nightly or weekly rate.
 
 ## About
 
-Fixed regenerative coliving near Tayrona Park, Santa Marta; from EUR150/month (EUR5/night), private rooms only, no dorm mentioned.
+Regenerative coliving and wellness retreat near Tayrona Park, Santa Marta; private rooms, no dorm.
 
 Source: https://colivingdb.com/coliving/bio-coliving-tayrona/

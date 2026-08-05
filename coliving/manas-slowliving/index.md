@@ -1,6 +1,6 @@
 # Manas Slowliving
 
-> Coliving in Sines, Portugal. Last updated August 4, 2026.
+> Coliving in Sines, Portugal. Last updated August 5, 2026.
 
 - **Location:** Sines, Portugal
 - **Type:** Permanent coliving
@@ -16,7 +16,7 @@
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** beach, surf, coworking, community, wellness
 - **Nearest airports:** Portimão Airport (PRM) ~94 km; Lisbon Humberto Delgado Airport (LIS) ~94 km; Cascais Airport (CAT) ~95 km
-- **Website:** https://www.mapmelon.com/colivings/manas-slowliving
+- **Website:** https://slowlivingmanas.com/sines
 - **Rating:** 4.9 from 27 Google reviews
 
 ## Rates

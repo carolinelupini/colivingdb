@@ -1,6 +1,6 @@
 # Coliving in Zanzibar City, Tanzania
 
-> 1 colivings in Zanzibar City, Tanzania, prices from €1,219 to €1,219 per month – last updated August 4, 2026.
+> 1 colivings in Zanzibar City, Tanzania, prices from €1,219 to €1,219 per month – last updated August 5, 2026.
 
 ## All colivings
 

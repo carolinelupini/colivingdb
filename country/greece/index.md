@@ -1,6 +1,6 @@
 # Coliving in Greece
 
-> 13 colivings in Greece, prices from €449 to €5,794 per month – last updated August 4, 2026.
+> 13 colivings in Greece, prices from €449 to €5,794 per month – last updated August 5, 2026.
 
 ## All colivings
 
@@ -10,7 +10,6 @@
 | Greek Escape | Gerani, Crete | from €750/mo | 4.5 (6) | private | 8 nights | Permanent |
 | Greek Escape (by ESCAPE) | Gerani (Crete) | from €750/mo | 4.5 (6) | private, shared | 7 nights | Permanent |
 | Calergi Residence | Atsipopoulo / Rethymno (Crete) | from €800/mo | 4.6 (85) | private | — | Permanent |
-| The Atsipopoulo (Atsipopoulo Home) | Atsipopoulo | from $5,488/mo | — | private | 30 nights | Permanent |
 | Escape (Greek Escape) | Gerani, Crete (near Rethymno) | from €750/mo | 4.5 (6) | private, shared | 7 nights | Permanent |
 | The Plakias (Plakias Residence) | Plakias | from $1,543/mo | 4.8 (22) | private | 6 months | Permanent |
 | WiFi Tribe — Paros | Paros | from $1,990/mo | — | private, shared | 28 nights | Pop-up |
@@ -18,6 +17,7 @@
 | Boundless Life — Syros | Syros | from €2,300/mo | — | — | — | Pop-up |
 | Charalampou Liandri Home | Atsipopoulo | from $6,608/mo | — | private | 30 nights | Permanent |
 | Noma Collective — Athens | Athens | from $2,390/event | — | — | — | Pop-up |
+| The Atsipopoulo (Atsipopoulo Home) | Atsipopoulo | On request | — | private | 30 nights | Permanent |
 | Tursi Digital Nomads — Parga | Parga | from €799/event | — | — | — | Pop-up |
 
 ## Price distribution
@@ -26,7 +26,7 @@
 |---|---|
 | 0–500 | 1 |
 | 500–800 | 2 |
-| 800–1200 | 3 |
+| 800–1200 | 2 |
 | 1200–2000 | 3 |
 | 2000–∞ | 2 |
 

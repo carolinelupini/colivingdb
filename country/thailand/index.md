@@ -1,6 +1,6 @@
 # Coliving in Thailand
 
-> 19 colivings in Thailand, prices from €170 to €2,120 per month – last updated August 4, 2026.
+> 19 colivings in Thailand, prices from €170 to €1,427 per month – last updated August 5, 2026.
 
 ## All colivings
 
@@ -12,12 +12,12 @@
 | Taeparak Home | Chiang Mai | from $324/mo | — | private, dorm | 30 nights | Permanent |
 | Socialer Coliving & Coworking Space | Chiang Mai | from €390/mo | 4.6 (70) | dorm | 1 night | Permanent |
 | The Capsule by UnionSPACE | bangkok | from THB 13,500/mo | 3.9 (24) | private | 1 night | Permanent |
-| KoHub | Ko Lanta | from THB 49,500/mo | 4.8 (175) | private | 30 nights | Permanent |
 | HOMA Phuket Town | Phuket | from THB 18,000/mo | 4.7 (938) | private | — | Permanent |
 | THE SOCIAL CLUB | Chiang Mai | from $800/mo | 4.9 (200) | private | — | Permanent |
 | The Chiang Mai-Lamphun | Chiang Mai | from $842/mo | — | private | 30 nights | Permanent |
 | The Arak | Chiang Mai | from $929/mo | 4.3 (87) | private | 30 nights | Permanent |
-| Digital Nomad Adventures | Koh Phangan | from $695/mo | 4.7 (39) | private | 7 nights | Permanent |
+| KoHub | Ko Lanta | from THB 49,500/mo | 4.8 (175) | private | 30 nights | Permanent |
+| Digital Nomad Adventures | Koh Phangan | from $1,645/mo | 4.7 (39) | private | 7 nights | Permanent |
 | 4Seas Nimman Coliving Coworking Space | Chiang Mai | On request | 4.9 (148) | private | — | Permanent |
 | Alt Coliving | Chiang Mai | from THB 1,445/night | 4.9 (242) | private | 6 nights | Permanent |
 | Alt_PingRiver | Chiang Mai | from THB 1,637/night | 4.8 (109) | private | 6 nights | Permanent |
@@ -30,10 +30,10 @@
 
 | Band (EUR/mo) | Colivings |
 |---|---|
-| 0–500 | 8 |
+| 0–500 | 7 |
 | 500–800 | 2 |
 | 800–1200 | 1 |
-| 2000–∞ | 1 |
+| 1200–2000 | 2 |
 
 ## Upcoming pop-ups
 

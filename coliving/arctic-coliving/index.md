@@ -1,6 +1,6 @@
 # Arctic Coliving
 
-> Coliving in Mjølfjell (Voss), Norway. Last updated August 4, 2026.
+> Coliving in Mjølfjell (Voss), Norway. Last updated August 5, 2026.
 
 - **Location:** Mjølfjell (Voss), Norway
 - **Type:** Permanent coliving
