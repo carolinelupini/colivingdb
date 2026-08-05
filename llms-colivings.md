@@ -496,7 +496,7 @@
 | [Repeople Casa Vera Coliving](/coliving/repeople-casa-vera-coliving/index.md) | Las Palmas de Gran Canaria | Spain | from €1,677/mo | — | Permanent |
 | [Repeople Casanova Coliving](/coliving/repeople-casanova-coliving/index.md) | Las Palmas de Gran Canaria | Spain | from €1,677/mo | — | Permanent |
 | [Repeople El Cabo Coliving](/coliving/repeople-el-cabo-coliving/index.md) | Agaete, Gran Canaria | Spain | from €870/mo | 30 nights | Permanent |
-| [Repeople La Luna Coliving](/coliving/repeople-la-luna-coliving/index.md) | Santa Cruz de Tenerife | Spain | from €390/mo | — | Permanent |
+| [Repeople La Luna Coliving](/coliving/repeople-la-luna-coliving/index.md) | Santa Cruz de Tenerife | Spain | from €990/mo | — | Permanent |
 | [Rooral Coliving](/coliving/rooral-coliving/index.md) | Benarrabá | Spain | from €810/mo | 1 night | Permanent |
 | [Ruralco Coliving](/coliving/ruralco-coliving/index.md) | Culla, Castellón | Spain | from €550/mo | — | Permanent |
 | [SOMOS Coliving Palma de Mallorca](/coliving/somos-coliving-palma-de-mallorca/index.md) | Palma de Mallorca | Spain | from €1,800/mo | 30 nights | Permanent |
@@ -504,7 +504,7 @@
 | [Sende Coliving](/coliving/sende-coliving/index.md) | Senderiz, Ourense, Galicia | Spain | from €850/mo | 7 nights | Permanent |
 | [Suiters](/coliving/suiters/index.md) | Alicante | Spain | from €899/mo | 30 nights | Permanent |
 | [Sun and Co.](/coliving/sun-and-co/index.md) | Jávea | Spain | from €690/mo | — | Permanent |
-| [Surfescape](/coliving/surfescape/index.md) | Lajares, Fuerteventura | Spain | from €850/mo | — | Permanent |
+| [Surfescape](/coliving/surfescape/index.md) | Lajares, Fuerteventura | Spain | from €2,500/mo | — | Permanent |
 | [Taoro Coliving](/coliving/taoro-coliving/index.md) | Santa Úrsula, Tenerife | Spain | from €1,297/mo | 7 nights | Permanent |
 | [The Better Neighbours — Lloret de Mar](/coliving/the-better-neighbours-lloret-de-mar/index.md) | Lloret de Mar | Spain | from €925/mo | — | Pop-up |
 | [The Cocotera Hostel & Coworking](/coliving/the-cocotera-hostel-and-coworking/index.md) | Tarifa | Spain | from €15/night | — | Permanent |

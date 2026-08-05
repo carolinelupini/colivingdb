@@ -4,8 +4,8 @@
 
 - **Location:** Santa Cruz de Tenerife, Spain
 - **Type:** Permanent coliving
-- **Price:** from €390/mo
-- **Price note:** per-house rate not listed; network from ~EUR390/week
+- **Price:** from €990/mo
+- **Price note:** from €990/month on stays of two months or more
 - **Rating:** <a href="https://maps.google.com/?cid=11928412938559340621&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (22 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
@@ -22,7 +22,7 @@
 
 | Stay length | From |
 |---|---|
-| Per month | €390 |
+| Per month | €990 |
 
 Repeople La Luna Coliving does not publish a nightly or weekly rate.
 

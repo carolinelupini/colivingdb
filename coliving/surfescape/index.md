@@ -4,17 +4,18 @@
 
 - **Location:** Lajares, Fuerteventura, Spain
 - **Type:** Permanent coliving
-- **Price:** from €850/mo
-- **Price note:** rooms from €850/month
+- **Price:** from €2,500/mo
+- **Price note:** from €2,500/month
 - **Rating:** <a href="https://maps.google.com/?cid=11122961150786496828&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (1096 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared, apartment
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 100 Mbps down <small>· operator-reported</small><br><small>Operator-reported, 2026-08-05.</small>
 - **Vibe:** boutique surf-lifestyle, design and connection
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** surf, beach, island, coworking, community, wellness
-- **Included:** Private bathroom, balcony/terrace, work desk, AC/fan, in-room wifi, Breakfast (in apartments and some room types), Coworking space free for hotel guests (150 Mbps wifi, 50+ desks, cafe/restaurant access), On-site surf school, kite lessons, yoga studio
+- **Included:** Private bathroom, balcony/terrace, work desk, AC/fan, in-room wifi, Breakfast (in apartments and some room types), Coworking space free for hotel guests (50+ desks, cafe/restaurant access), On-site surf school, kite lessons, yoga studio
 - **Not included:** External (non-guest) coworking day passes (paid, €10-150), Private call rooms (€5/hour)
 - **Area:** Based in Lajares, a surf village in Fuerteventura known for consistent year-round waves and wind, popular with surfers and kitesurfers.
 - **Nearest airports:** Fuerteventura Airport (FUE) ~26 km; César Manrique-Lanzarote Airport (ACE) ~44 km
@@ -26,7 +27,7 @@
 
 | Stay length | From |
 |---|---|
-| Per month | €850 |
+| Per month | €2,500 |
 
 Surfescape does not publish a nightly or weekly rate.
 

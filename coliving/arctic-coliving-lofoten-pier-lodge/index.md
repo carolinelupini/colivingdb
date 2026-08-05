@@ -17,7 +17,7 @@
 - **Not included:** Food — the lodge is self-catering
 - **Area:** Henningsvær, a working fishing village in the Lofoten islands above the Arctic Circle, with skiing, climbing, hiking and northern lights on the doorstep.
 - **Getting there:** Svolvær (SVJ) is about 30 minutes away and Leknes (LKN) about an hour, both with several flights a day. Parking on site is limited, with overflow in town, and there is no EV charging.
-- **Website:** https://www.arcticcoliving.com/locations/lofoten-pier-lodge
+- **Website:** https://go.arcticcoliving.com/CVt7Shb
 
 ## Rates
 

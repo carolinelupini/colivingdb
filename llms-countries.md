@@ -4,7 +4,7 @@
 
 | Country | Colivings | From (EUR/mo) |
 |---|---|---|
-| [Spain](/country/spain/index.md) | 93 | €390 |
+| [Spain](/country/spain/index.md) | 93 | €450 |
 | [Portugal](/country/portugal/index.md) | 64 | €300 |
 | [Italy](/country/italy/index.md) | 32 | €540 |
 | [Mexico](/country/mexico/index.md) | 28 | €46 |

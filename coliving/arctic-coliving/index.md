@@ -17,7 +17,7 @@
 - **Area:** Mjølfjell, in the mountains above Voss, with mountain biking, rock climbing and hiking from the door. Open to individual coliving guests from 15 May to 15 September.
 - **Nearest airports:** Bergen Airport, Flesland (BGO) ~78 km; Oslo-Gardermoen International Airport (OSL) ~262 km; Stord Airport, Sørstokken (SRP) ~114 km
 - **Getting there:** Svolvær Airport (SVJ) is nearest to Henningsvær (~40 min drive); Bergen Airport (BGO) is the nearest major airport to Voss/Mjølfjell (~1.5h drive), and Voss also sits on the Bergen–Oslo railway.
-- **Website:** https://www.arcticcoliving.com/
+- **Website:** https://go.arcticcoliving.com/7RCVysV
 - **Rating:** 5.0 from 16 Google reviews
 
 ## Rates
