@@ -1,6 +1,6 @@
 # Coliving Sardinia
 
-> Coliving in Porto Cervo, Sardinia, Italy. Last updated August 5, 2026.
+> Coliving in Porto Cervo, Sardinia, Italy. Last updated August 13, 2026.
 
 - **Location:** Porto Cervo, Sardinia, Italy
 - **Type:** Permanent coliving
@@ -15,7 +15,7 @@
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** beach, island, coworking, community, wellness
 - **Nearest airports:** Olbia Costa Smeralda Airport (OLB) ~27 km; Rome–Fiumicino Leonardo da Vinci International Airport (FCO) ~238 km; Figari Sud-Corse Airport (FSC) ~55 km
-- **Website:** https://colivingcompass.com/region/italy/coliving-sardinia/
+- **Website:** https://asweflow.it/coliving-sardinia/
 
 ## Rates
 

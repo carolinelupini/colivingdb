@@ -1,6 +1,6 @@
 # Coliving in Rome, Italy
 
-> 1 colivings in Rome, Italy – last updated August 5, 2026.
+> 1 colivings in Rome, Italy – last updated August 13, 2026.
 
 ## All colivings
 

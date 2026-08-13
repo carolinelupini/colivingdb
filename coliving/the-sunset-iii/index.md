@@ -1,6 +1,6 @@
 # The Sunset III
 
-> Coliving in Kuta, Indonesia. Last updated August 5, 2026.
+> Coliving in Kuta, Indonesia. Last updated August 13, 2026.
 
 - **Location:** Kuta, Indonesia
 - **Type:** Permanent coliving

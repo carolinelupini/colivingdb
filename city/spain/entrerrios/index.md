@@ -1,6 +1,6 @@
 # Coliving in Entrerríos, Spain
 
-> 1 colivings in Entrerríos, Spain, prices from €630 to €630 per month – last updated August 5, 2026.
+> 1 colivings in Entrerríos, Spain, prices from €630 to €630 per month – last updated August 13, 2026.
 
 ## All colivings
 

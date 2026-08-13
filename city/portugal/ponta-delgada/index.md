@@ -1,6 +1,6 @@
 # Coliving in Ponta Delgada, Portugal
 
-> 1 colivings in Ponta Delgada, Portugal, prices from €900 to €900 per month – last updated August 5, 2026.
+> 1 colivings in Ponta Delgada, Portugal, prices from €900 to €900 per month – last updated August 13, 2026.
 
 ## All colivings
 

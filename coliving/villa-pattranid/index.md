@@ -1,6 +1,6 @@
 # Villa Pattranid
 
-> Coliving in Chiang Mai, Thailand. Last updated August 5, 2026.
+> Coliving in Chiang Mai, Thailand. Last updated August 13, 2026.
 
 - **Location:** Chiang Mai, Thailand
 - **Type:** Permanent coliving

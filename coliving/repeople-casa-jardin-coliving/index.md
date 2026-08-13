@@ -1,6 +1,6 @@
 # Repeople Casa Jardin Coliving
 
-> Coliving in Las Palmas de Gran Canaria, Spain. Last updated August 5, 2026.
+> Coliving in Las Palmas de Gran Canaria, Spain. Last updated August 13, 2026.
 
 - **Location:** Las Palmas de Gran Canaria, Spain
 - **Type:** Permanent coliving

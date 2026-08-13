@@ -1,6 +1,6 @@
 # AfricaNomads — Watamu (Jan 2027)
 
-> Coliving in Watamu, Kenya. Last updated August 5, 2026.
+> Coliving in Watamu, Kenya. Last updated August 13, 2026.
 
 - **Location:** Watamu, Kenya
 - **Type:** Pop-up / dated edition

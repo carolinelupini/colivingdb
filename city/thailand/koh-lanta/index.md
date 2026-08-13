@@ -1,12 +1,12 @@
 # Coliving in Koh Lanta, Thailand
 
-> 1 colivings in Koh Lanta, Thailand – last updated August 5, 2026.
+> 1 colivings in Koh Lanta, Thailand – last updated August 13, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Noma Collective — Koh Lanta | Koh Lanta | from $3,190/event | — | — | — | Pop-up |
+| Noma Collective — Koh Lanta | Koh Lanta | from $2,790/event | — | — | — | Pop-up |
 
 ## Upcoming pop-ups
 

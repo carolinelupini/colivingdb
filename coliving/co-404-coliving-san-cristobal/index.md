@@ -1,6 +1,6 @@
 # co.404 Coliving San Cristóbal
 
-> Coliving in San Cristóbal de las Casas, Mexico. Last updated August 5, 2026.
+> Coliving in San Cristóbal de las Casas, Mexico. Last updated August 13, 2026.
 
 - **Location:** San Cristóbal de las Casas, Mexico
 - **Type:** Permanent coliving

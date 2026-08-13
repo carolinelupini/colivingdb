@@ -1,6 +1,6 @@
 # Coliving in Sri Lanka
 
-> 13 colivings in Sri Lanka, prices from €87 to €1,971 per month – last updated August 5, 2026.
+> 14 colivings in Sri Lanka, prices from €87 to €1,971 per month – last updated August 13, 2026.
 
 ## All colivings
 
@@ -13,6 +13,7 @@
 | Habaraduwa Home | Habaraduwa, Galle | from $845/mo | 4.7 (14) | private, shared | 30 nights | Permanent |
 | Colive Me (ColiveMe) | Ahangama | from €668/mo | 4.9 (109) | private | 3 nights | Permanent |
 | Outpost Weligama | Weligama | from $849/mo | 4.7 (145) | private, shared | — | Permanent |
+| Surfescape Sri Lanka | Midigama | from €900/mo | — | — | — | Permanent |
 | WiFi Tribe — Weligama | Weligama | from $1,690/mo | — | private, shared | 28 nights | Pop-up |
 | Weligama Bay Residence | Weligama | from $2,250/mo | 4.7 (58) | private | 30 nights | Permanent |
 | Beachbums Coliving Madiha | Weligama | On request | 5.0 (7) | private, dorm | — | Permanent |
@@ -26,6 +27,7 @@
 |---|---|
 | 0–500 | 3 |
 | 500–800 | 4 |
+| 800–1200 | 1 |
 | 1200–2000 | 2 |
 
 ## Upcoming pop-ups

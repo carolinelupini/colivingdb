@@ -1,6 +1,6 @@
 # NomaVillage
 
-> Coliving in Lagos, Portugal. Last updated August 5, 2026.
+> Coliving in Lagos, Portugal. Last updated August 13, 2026.
 
 - **Location:** Lagos, Portugal
 - **Type:** Permanent coliving
@@ -19,6 +19,6 @@
 
 ## About
 
-Site returned 403 Forbidden on fetch attempts; using given listing data (private ensuite ~1360-1480/mo incl. breakfast).
+Private ensuite rooms, roughly €1,360-1,480/month including breakfast — confirm current pricing with the operator.
 
 Source: https://colivingdb.com/coliving/nomavillage/

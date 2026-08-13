@@ -1,6 +1,6 @@
 # Nomad's House
 
-> Coliving in Brussels, Belgium. Last updated August 5, 2026.
+> Coliving in Brussels, Belgium. Last updated August 13, 2026.
 
 - **Location:** Brussels, Belgium
 - **Type:** Permanent coliving

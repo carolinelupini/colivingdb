@@ -1,6 +1,6 @@
 # Coliving Valentina Bansko
 
-> Coliving in Bansko, Bulgaria. Last updated August 5, 2026.
+> Coliving in Bansko, Bulgaria. Last updated August 13, 2026.
 
 - **Location:** Bansko, Bulgaria
 - **Type:** Permanent coliving
@@ -29,6 +29,6 @@ Coliving Valentina Bansko does not publish a nightly or weekly rate.
 
 ## About
 
-Permanent, est. 2018, Bansko's first coliving; studio/apartment from €750/mo all-inclusive (higher than prior €650 note); planning Bangkok/Manila expansion 2026.
+Permanent, est. 2018, Bansko's first coliving; studio/apartment from €750/mo all-inclusive (higher than prior €650 note); planning Bangkok/Manila expansion 2026. Book direct at valentinabansko.com or email valentinaheights@gmail.com — mention colivingDB when you enquire.
 
 Source: https://colivingdb.com/coliving/coliving-valentina-bansko/

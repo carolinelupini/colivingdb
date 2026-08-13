@@ -1,6 +1,6 @@
 # Kiệt Residence
 
-> Coliving in Hoi An, Vietnam. Last updated August 5, 2026.
+> Coliving in Hoi An, Vietnam. Last updated August 13, 2026.
 
 - **Location:** Hoi An, Vietnam
 - **Type:** Permanent coliving

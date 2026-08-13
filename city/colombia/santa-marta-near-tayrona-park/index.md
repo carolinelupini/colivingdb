@@ -1,6 +1,6 @@
 # Coliving in Santa Marta (near Tayrona Park), Colombia
 
-> 1 colivings in Santa Marta (near Tayrona Park), Colombia – last updated August 5, 2026.
+> 1 colivings in Santa Marta (near Tayrona Park), Colombia – last updated August 13, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Birds of Paradise
 
-> Coliving in Aljezur, Portugal. Last updated August 5, 2026.
+> Coliving in Aljezur, Portugal. Last updated August 13, 2026.
 
 - **Location:** Aljezur, Portugal
 - **Type:** Permanent coliving
@@ -28,6 +28,6 @@ Birds of Paradise does not publish a weekly or monthly rate.
 
 ## About
 
-Site returned 403 on fetch; retained provided data (seasonal Jan-Apr, private room €1,260/mo) unverified this pass.
+Seasonal January-April coliving; private rooms from €1,260/month — confirm current pricing with the operator.
 
 Source: https://colivingdb.com/coliving/birds-of-paradise/

@@ -1,6 +1,6 @@
 # Coliving in Häggdånger, Sweden
 
-> 1 colivings in Häggdånger, Sweden, prices from €870 to €870 per month – last updated August 5, 2026.
+> 1 colivings in Häggdånger, Sweden, prices from €870 to €870 per month – last updated August 13, 2026.
 
 ## All colivings
 

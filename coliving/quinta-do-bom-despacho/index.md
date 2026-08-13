@@ -1,6 +1,6 @@
 # Quinta do Bom Despacho
 
-> Coliving in Ponta Delgada, Portugal. Last updated August 5, 2026.
+> Coliving in Ponta Delgada, Portugal. Last updated August 13, 2026.
 
 - **Location:** Ponta Delgada, Portugal
 - **Type:** Permanent coliving

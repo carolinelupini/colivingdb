@@ -1,6 +1,6 @@
 # Coliving in Thailand
 
-> 19 colivings in Thailand, prices from €249 to €1,427 per month – last updated August 5, 2026.
+> 19 colivings in Thailand, prices from €249 to €1,427 per month – last updated August 13, 2026.
 
 ## All colivings
 
@@ -23,7 +23,7 @@
 | Alt_PingRiver | Chiang Mai | from THB 1,637/night | 4.8 (109) | private | 6 nights | Permanent |
 | Chiangmai Inn Guesthouse | Chiang Mai | On request | 4.3 (107) | private | — | Permanent |
 | LITA Bangkok | bangkok | On request | 4.7 (174) | private, dorm | — | Permanent |
-| Noma Collective — Koh Lanta | Koh Lanta | from $3,190/event | — | — | — | Pop-up |
+| Noma Collective — Koh Lanta | Koh Lanta | from $2,790/event | — | — | — | Pop-up |
 | Villa Pattranid | Chiang Mai | On request | 5.0 (51) | private | — | Permanent |
 
 ## Price distribution

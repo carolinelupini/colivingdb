@@ -1,6 +1,6 @@
 # VIU Sagrada Familia
 
-> Coliving in Barcelona, Spain. Last updated August 5, 2026.
+> Coliving in Barcelona, Spain. Last updated August 13, 2026.
 
 - **Location:** Barcelona, Spain
 - **Type:** Permanent coliving

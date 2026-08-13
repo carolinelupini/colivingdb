@@ -1,6 +1,6 @@
 # Coliving Hurghada (Villa Residence)
 
-> Coliving in Hurghada, Egypt. Last updated August 5, 2026.
+> Coliving in Hurghada, Egypt. Last updated August 13, 2026.
 
 - **Location:** Hurghada, Egypt
 - **Type:** Permanent coliving

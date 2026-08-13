@@ -1,6 +1,6 @@
 # Coliving in Belgium
 
-> 2 colivings in Belgium, prices from €690 to €690 per month – last updated August 5, 2026.
+> 2 colivings in Belgium, prices from €690 to €690 per month – last updated August 13, 2026.
 
 ## All colivings
 

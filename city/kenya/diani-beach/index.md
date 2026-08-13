@@ -1,6 +1,6 @@
 # Coliving in Diani Beach, Kenya
 
-> 1 colivings in Diani Beach, Kenya, prices from €500 to €500 per month – last updated August 5, 2026.
+> 1 colivings in Diani Beach, Kenya, prices from €500 to €500 per month – last updated August 13, 2026.
 
 ## All colivings
 

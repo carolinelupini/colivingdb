@@ -1,6 +1,6 @@
 # Mimos Coliving - Bogota
 
-> Coliving in Bogotá, Colombia. Last updated August 5, 2026.
+> Coliving in Bogotá, Colombia. Last updated August 13, 2026.
 
 - **Location:** Bogotá, Colombia
 - **Type:** Permanent coliving
@@ -29,6 +29,6 @@ Mimos Coliving - Bogota does not publish a nightly or weekly rate.
 
 ## About
 
-Site returned 403 on fetch; used provided priceNote (€480/mo discounted private room) as best available figure — could not independently verify or find dorm info.
+Private rooms from €480/month at the discounted rate — confirm current pricing with the operator.
 
 Source: https://colivingdb.com/coliving/mimos-coliving-bogota/

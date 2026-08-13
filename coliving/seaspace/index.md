@@ -1,6 +1,6 @@
 # SeaSpace
 
-> Coliving in Newquay, United Kingdom. Last updated August 5, 2026.
+> Coliving in Newquay, United Kingdom. Last updated August 13, 2026.
 
 - **Location:** Newquay, United Kingdom
 - **Type:** Permanent coliving

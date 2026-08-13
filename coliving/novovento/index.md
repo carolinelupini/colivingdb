@@ -1,6 +1,6 @@
 # Novovento
 
-> Coliving in Ginetes, São Miguel, Azores, Portugal. Last updated August 5, 2026.
+> Coliving in Ginetes, São Miguel, Azores, Portugal. Last updated August 13, 2026.
 
 - **Location:** Ginetes, São Miguel, Azores, Portugal
 - **Type:** Permanent coliving

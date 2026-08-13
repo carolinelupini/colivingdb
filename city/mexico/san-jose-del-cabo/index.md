@@ -1,6 +1,6 @@
 # Coliving in San Jose del Cabo, Mexico
 
-> 1 colivings in San Jose del Cabo, Mexico – last updated August 5, 2026.
+> 1 colivings in San Jose del Cabo, Mexico – last updated August 13, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Neighbourgood Romney
 
-> Coliving in Cape Town, South Africa. Last updated August 5, 2026.
+> Coliving in Cape Town, South Africa. Last updated August 13, 2026.
 
 - **Location:** Cape Town, South Africa
 - **Type:** Permanent coliving

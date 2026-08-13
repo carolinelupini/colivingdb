@@ -1,6 +1,6 @@
 # Cobana
 
-> Coliving in Zărnești, Romania. Last updated August 5, 2026.
+> Coliving in Zărnești, Romania. Last updated August 13, 2026.
 
 - **Location:** Zărnești, Romania
 - **Type:** Permanent coliving
@@ -28,6 +28,6 @@ Cobana does not publish a nightly or weekly rate.
 
 ## About
 
-Confirmed permanent guesthouse/coliving-coworking hub in Zarnesti, Transylvania; all rooms private ensuite, min 1-week stay, ~EUR775/month per given priceNote (site itself returned 403 on fetch).
+Permanent guesthouse and coliving-coworking hub in Zarnesti, Transylvania. All rooms are private ensuites, minimum one-week stay, around €775/month.
 
 Source: https://colivingdb.com/coliving/cobana/

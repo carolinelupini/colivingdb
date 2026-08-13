@@ -1,6 +1,6 @@
 # Coliving Cadiz
 
-> Coliving in Cádiz, Spain. Last updated August 5, 2026.
+> Coliving in Cádiz, Spain. Last updated August 13, 2026.
 
 - **Location:** Cádiz, Spain
 - **Type:** Permanent coliving

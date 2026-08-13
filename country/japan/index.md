@@ -1,6 +1,6 @@
 # Coliving in Japan
 
-> 9 colivings in Japan, prices from €378 to €3,000 per month – last updated August 5, 2026.
+> 10 colivings in Japan, prices from €378 to €3,000 per month – last updated August 13, 2026.
 
 ## All colivings
 
@@ -15,6 +15,7 @@
 | LivingAnywhere Commons田川 | Fukuoka | from ¥6,600/night | — | dorm, private | 1 night | Permanent |
 | Noma Collective — Osaka | Osaka | from $3,490/event | — | — | — | Pop-up |
 | The Pier | Goto Nagasaki | Goto (Fukue), Nagasaki | On request | 5.0 (12) | private | — | Permanent |
+| Colive Fukuoka — Hoppin Program (Oct 2026) | Fukuoka | from ¥112,800/event | — | private, shared | 14 nights | Pop-up |
 
 ## Price distribution
 
@@ -27,5 +28,6 @@
 ## Upcoming pop-ups
 
 - Noma Collective — Osaka — May 23 - Jun 20, 2027
+- Colive Fukuoka — Hoppin Program (Oct 2026) — Sep 29 - Oct 13, 2026
 
 Source: https://colivingdb.com/country/japan/

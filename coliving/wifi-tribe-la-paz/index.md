@@ -1,6 +1,6 @@
 # WiFi Tribe — La Paz
 
-> Coliving in La Paz, Bolivia. Last updated August 5, 2026.
+> Coliving in La Paz, Bolivia. Last updated August 13, 2026.
 
 - **Location:** La Paz, Bolivia
 - **Type:** Pop-up / dated edition

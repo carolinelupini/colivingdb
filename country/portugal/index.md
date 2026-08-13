@@ -1,6 +1,6 @@
 # Coliving in Portugal
 
-> 64 colivings in Portugal, prices from €300 to €2,249 per month – last updated August 5, 2026.
+> 61 colivings in Portugal, prices from €300 to €2,160 per month – last updated August 13, 2026.
 
 ## All colivings
 
@@ -15,6 +15,7 @@
 | Caminho Coliving | Moreira, Maia (Porto area) | from €700/mo | 4.9 (9) | private | 30 nights | Permanent |
 | Lava Coliving & Coworking | Ribeira Grande, São Miguel | from €25/night | 4.9 (60) | private, shared | 7 nights | Permanent |
 | Calcada Coliving (Calçada Guesthouse) | Tavira | from €780/mo | 4.9 (90) | private | 29 nights | Permanent |
+| Banana House (Ponta do Sol Coliving) | Ponta do Sol, Madeira | from €798/mo | 4.3 (13) | private | 30 nights | Permanent |
 | Barefoot Guesthouse & Coliving Ericeira | Ericeira | from €800/mo | 4.9 (127) | private | 30 nights | Permanent |
 | Outsite Algarve - Sagres | Sagres | from €800/mo | 4.4 (23) | private | 2 nights | Permanent |
 | Outsite Ericeira - Boavista | Ericeira | from €800/mo | — | private | — | Permanent |
@@ -26,7 +27,6 @@
 | A ver o Mar 1 | Coliving & Coworking | Funchal, Madeira | Ponta do Sol | from €920/mo | 4.6 (51) | private, dorm | 14 nights | Permanent |
 | Casa15 Azores | Sao Miguel, Azores | from €950/mo | — | private | — | Permanent |
 | Swelldesk Coliving & Coworking | Baleal, Peniche | from €960/mo | 4.9 (20) | private, shared | — | Permanent |
-| Banana House (Ponta do Sol Coliving) | Ponta do Sol, Madeira | from €997/mo | 4.3 (13) | private | 30 nights | Permanent |
 | Cabeco Alto Home | Santo da Serra (Madeira) | from $1,143/mo | 5.0 (23) | private, shared | 30 nights | Permanent |
 | Outsite Algarve - Vilamoura | Vilamoura | from €1,000/mo | 4.7 (15) | private | — | Permanent |
 | Outsite Cascais - Guincho | Cascais | from €1,000/mo | 4.6 (34) | private | 2 nights | Permanent |
@@ -37,7 +37,6 @@
 | VivendaFelicidade Regenerative Farm & Surf Coliving | Sintra (Tojeira) | from €1,040/mo | 5.0 (47) | private | 7 nights | Permanent |
 | Casa do Pico | Funchal, Madeira | from €1,050/mo | 5.0 (32) | private, shared | 7 nights | Permanent |
 | POMAR Coliving - NA PRAIA | Fuseta | from €1,200/mo | 5.0 (77) | private | 28 nights | Permanent |
-| WiFi Tribe — Porto | Porto | from $1,390/mo | — | private, shared | 28 nights | Pop-up |
 | Birds of Paradise | Aljezur | from €42/night | 5.0 (145) | private | 14 nights | Permanent |
 | The Spacious Valley | Ericeira | from €1,260/mo | — | private | 30 nights | Permanent |
 | Pomar Coliving | Moncarapacho (Algarve) | from €1,290/mo | 5.0 (77) | private | 7 nights | Permanent |
@@ -52,11 +51,9 @@
 | Wild Souls Ericeira | Ericeira | from €1,800/mo | 5.0 (25) | private | 7 nights | Permanent |
 | Boundless Life — Sintra | Sintra | from €1,700/mo | — | — | — | Pop-up |
 | Dwell Azores | Fenais da Luz, São Miguel, Azores | from €2,160/mo | 5.0 (89) | private, shared | 28 nights | Permanent |
-| Casa Basilico — Madeira | Madeira | from €2,249/mo | — | — | 14 nights | Pop-up |
 | Algarve Watersport Surf House Coliving | Lagos | On request | 4.9 (697) | private | — | Permanent |
 | Behappy Lodge | Esmoriz | On request | 4.9 (338) | private, shared, dorm | — | Permanent |
 | Bela Vista Coliving and Retreat | Olhão (Algarve) | On request | 4.7 (47) | private | — | Permanent |
-| Hacker Paradise — Porto | Porto | On request | — | — | — | Pop-up |
 | Lemon Bros Coliving | Ribeira Grande, São Miguel | On request | 4.9 (60) | private | 14 nights | Permanent |
 | Pipedream (Coworksurf Peniche) | Ferrel, Peniche | On request | 5.0 (32) | private, shared | — | Permanent |
 | Satvana Conscious Co-living & Retreats | Alentejo | On request | 5.0 (6) | private, shared | — | Permanent |
@@ -76,18 +73,15 @@
 | Band (EUR/mo) | Colivings |
 |---|---|
 | 0–500 | 1 |
-| 500–800 | 8 |
-| 800–1200 | 20 |
-| 1200–2000 | 15 |
-| 2000–∞ | 3 |
+| 500–800 | 9 |
+| 800–1200 | 19 |
+| 1200–2000 | 14 |
+| 2000–∞ | 2 |
 
 ## Upcoming pop-ups
 
 - Boundless Life — Sintra — Apr-Jun 2026 / Sept-Nov 2026 / Dec 2026 / Jan-Mar 2027 / Apr-Jun 2027 (plus Summer Camps)
-- Casa Basilico — Madeira — Jun 1 - Jul 31, 2026
-- Hacker Paradise — Porto — 2026 (month unconfirmed)
 - Nomadico Coliving Ericeira — Nov–Dec (seasonal; unverified — confirm)
 - WiFi Tribe — Ponta Delgada (Azores) — Sep 11 - Oct 9, 2026
-- WiFi Tribe — Porto — Jul 3 - 31, 2026
 
 Source: https://colivingdb.com/country/portugal/

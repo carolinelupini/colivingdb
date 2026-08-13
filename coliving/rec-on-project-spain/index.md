@@ -1,6 +1,6 @@
 # REC.ON Project Spain
 
-> Coliving in Bolaimi (Sierra Maria-Los Velez, Almeria), Spain. Last updated August 5, 2026.
+> Coliving in Bolaimi (Sierra Maria-Los Velez, Almeria), Spain. Last updated August 13, 2026.
 
 - **Location:** Bolaimi (Sierra Maria-Los Velez, Almeria), Spain
 - **Type:** Permanent coliving

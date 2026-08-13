@@ -1,10 +1,10 @@
 # WiFi Tribe — Melbourne
 
-> Coliving in Melbourne, Australia. Last updated August 5, 2026.
+> Coliving in Melbourne, Australia. Last updated August 13, 2026.
 
 - **Location:** Melbourne, Australia
 - **Type:** Pop-up / dated edition
-- **Dates:** Apr 23 - May 21, 2027
+- **Dates:** Feb 12 - Mar 12, 2027
 - **Price:** from $2,290/mo
 - **Price note:** from $2,290 per chapter (about four weeks) for a shared room at the entry Member tier; returning members pay less and private rooms cost more — full tier table below
 - **Room types:** private, shared

@@ -1,12 +1,12 @@
 # Nomad Cruise — NC18 Caribbean Islands
 
-> Coliving in Barcelona → Caribbean. Last updated August 5, 2026.
+> Coliving in Barcelona → Caribbean. Last updated August 13, 2026.
 
 - **Location:** Barcelona → Caribbean
 - **Type:** Pop-up / dated edition
 - **Dates:** Nov 2 - Nov 16, 2026
-- **Price:** On request
-- **Price note:** Cabin price not published; a €500 deposit secures a cabin. Ticket covers cabin, all onboard meals, wifi and the full programme.
+- **Price:** from €1,900/cruise
+- **Price note:** cabins from €1,900 per person (shared inside, early-bird; from €120/day all-in); €250 deposit, and bookings made after Aug 4 need full payment within 7 days. Ticket covers cabin, all onboard meals, wifi and the full programme.
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** 'The world's largest workation at sea' — part cruise, part conference, part party, bringing together freelancers, entrepreneurs and remote workers.

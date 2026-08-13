@@ -1,11 +1,11 @@
 # Noma Collective — Playa Grande
 
-> Coliving in Playa Grande, Costa Rica. Last updated August 5, 2026.
+> Coliving in Playa Grande, Costa Rica. Last updated August 13, 2026.
 
 - **Location:** Playa Grande, Costa Rica
 - **Type:** Pop-up / dated edition
 - **Dates:** Aug 16 - Sep 6, 2026
-- **Price:** from $1,590/event
+- **Price:** from $1,090/event
 - **Price note:** pp, + fees and taxes (not included)
 - **Room types:** —
 - **Dorm available:** No

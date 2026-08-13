@@ -1,6 +1,6 @@
 # Coliving in Venice, California, United States
 
-> 1 colivings in Venice, California, United States, prices from €915 to €915 per month – last updated August 5, 2026.
+> 1 colivings in Venice, California, United States, prices from €915 to €915 per month – last updated August 13, 2026.
 
 ## All colivings
 

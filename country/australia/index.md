@@ -1,6 +1,6 @@
 # Coliving in Australia
 
-> 9 colivings in Australia, prices from €473 to €2,126 per month – last updated August 5, 2026.
+> 9 colivings in Australia, prices from €473 to €2,126 per month – last updated August 13, 2026.
 
 ## All colivings
 
@@ -28,6 +28,6 @@
 
 ## Upcoming pop-ups
 
-- WiFi Tribe — Melbourne — Apr 23 - May 21, 2027
+- WiFi Tribe — Melbourne — Feb 12 - Mar 12, 2027
 
 Source: https://colivingdb.com/country/australia/

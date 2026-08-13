@@ -1,6 +1,6 @@
 # Coliving in Sapporo, Japan
 
-> 1 colivings in Sapporo, Japan, prices from €500 to €500 per month – last updated August 5, 2026.
+> 1 colivings in Sapporo, Japan, prices from €500 to €500 per month – last updated August 13, 2026.
 
 ## All colivings
 

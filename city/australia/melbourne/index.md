@@ -1,6 +1,6 @@
 # Coliving in Melbourne, Australia
 
-> 3 colivings in Melbourne, Australia, prices from €1,987 to €1,987 per month – last updated August 5, 2026.
+> 3 colivings in Melbourne, Australia, prices from €1,987 to €1,987 per month – last updated August 13, 2026.
 
 ## All colivings
 
@@ -18,6 +18,6 @@
 
 ## Upcoming pop-ups
 
-- WiFi Tribe — Melbourne — Apr 23 - May 21, 2027
+- WiFi Tribe — Melbourne — Feb 12 - Mar 12, 2027
 
 Source: https://colivingdb.com/city/australia/melbourne/

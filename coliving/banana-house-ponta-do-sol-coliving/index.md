@@ -1,11 +1,11 @@
 # Banana House (Ponta do Sol Coliving)
 
-> Coliving in Ponta do Sol, Madeira, Portugal. Last updated August 5, 2026.
+> Coliving in Ponta do Sol, Madeira, Portugal. Last updated August 13, 2026.
 
 - **Location:** Ponta do Sol, Madeira, Portugal
 - **Type:** Permanent coliving
-- **Price:** from €997/mo
-- **Price note:** from EUR997/mo; 7 pasta-named private rooms
+- **Price:** from €798/mo
+- **Price note:** from €798/month (launch rate, listed from €997); rooms run €997-€1,327/month; 10% off 2-month stays, 20% off 3 months or more
 - **Rating:** <a href="https://maps.google.com/?cid=8226354413972776474&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (13 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
@@ -20,14 +20,14 @@
 
 ## Rates
 
-| Stay length | Private |
+| Stay length | From |
 |---|---|
-| Per month | €997 |
+| Per month | €798 |
 
 Banana House (Ponta do Sol Coliving) does not publish a nightly or weekly rate.
 
 ## About
 
-Confirmed permanent, Ponta do Sol Madeira; rooms range EUR997 (single shared bath) to EUR1347 (double ensuite ocean view); no dorm option; bills+cleaning included, 1-month minimum.
+Run by Casa Basilico as their year-round Madeira house — the seasonal chapter model replaced by a permanent coliving in Ponta do Sol, open every month, with the brand's shared-dinners and community model.
 
 Source: https://colivingdb.com/coliving/banana-house-ponta-do-sol-coliving/

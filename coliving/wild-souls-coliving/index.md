@@ -1,6 +1,6 @@
 # Wild Souls Coliving
 
-> Coliving in Ericeira, Portugal. Last updated August 5, 2026.
+> Coliving in Ericeira, Portugal. Last updated August 13, 2026.
 
 - **Location:** Ericeira, Portugal
 - **Type:** Permanent coliving

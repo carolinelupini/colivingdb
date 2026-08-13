@@ -1,6 +1,6 @@
 # Luis Cordero Residence
 
-> Coliving in Quito, Ecuador. Last updated August 5, 2026.
+> Coliving in Quito, Ecuador. Last updated August 13, 2026.
 
 - **Location:** Quito, Ecuador
 - **Type:** Permanent coliving

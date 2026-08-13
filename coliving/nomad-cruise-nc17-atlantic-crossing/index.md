@@ -1,12 +1,12 @@
 # Nomad Cruise — NC17 Atlantic Crossing
 
-> Coliving in Southampton → New York. Last updated August 5, 2026.
+> Coliving in Southampton → New York. Last updated August 13, 2026.
 
 - **Location:** Southampton → New York
 - **Type:** Pop-up / dated edition
 - **Dates:** Sep 19 - Sep 26, 2026
-- **Price:** On request
-- **Price note:** Cabin price not published; a €500 deposit secures a cabin. Ticket covers cabin, all onboard meals, wifi and the full programme.
+- **Price:** from €2,300/cruise
+- **Price note:** cabins from €2,300 per person (shared inside, early-bird); €300 deposit, balance due 90 days before departure. Ticket covers cabin, all onboard meals, wifi and the full programme.
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** A hybrid cruise/conference/party/friendship event — part networking conference, part social party, part community for lifelong connections.

@@ -1,6 +1,6 @@
 # Coliving in Houmt Souk, Tunisia
 
-> 1 colivings in Houmt Souk, Tunisia – last updated August 5, 2026.
+> 1 colivings in Houmt Souk, Tunisia – last updated August 13, 2026.
 
 ## All colivings
 

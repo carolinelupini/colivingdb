@@ -1,6 +1,6 @@
 # The Plakias (Plakias Residence)
 
-> Coliving in Plakias, Greece. Last updated August 5, 2026.
+> Coliving in Plakias, Greece. Last updated August 13, 2026.
 
 - **Location:** Plakias, Greece
 - **Type:** Permanent coliving

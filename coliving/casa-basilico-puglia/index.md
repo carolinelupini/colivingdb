@@ -1,12 +1,12 @@
 # Casa Basilico — Puglia
 
-> Coliving in Puglia, Italy. Last updated August 5, 2026.
+> Coliving in Puglia, Italy. Last updated August 13, 2026.
 
 - **Location:** Puglia, Italy
 - **Type:** Pop-up / dated edition
-- **Dates:** Sep - Oct 2026
-- **Price:** from €1,247/mo
-- **Price note:** private room, wifi, weekly cleaning, towels & linens, coworking space, shared dinners & cooking classes
+- **Dates:** Aug 29 - Oct 25, 2026
+- **Price:** from €997/mo
+- **Price note:** from €997/month (Standard Double); bookable by month or as a 2-week half; €500 deposit
 - **Room types:** —
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 1000 Mbps down <small>· operator-reported</small>
@@ -23,9 +23,9 @@
 
 ## Rates
 
-| Stay length | Private | Shared |
-|---|---|---|
-| Per month | €1,247 | €1,547 |
+| Stay length | From |
+|---|---|
+| Per month | €997 |
 
 Casa Basilico — Puglia does not publish a nightly or weekly rate.
 

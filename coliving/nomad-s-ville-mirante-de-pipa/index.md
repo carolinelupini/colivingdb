@@ -1,11 +1,11 @@
 # Nomad's Ville (Mirante de Pipa)
 
-> Coliving in Praia da Pipa, Brazil. Last updated August 5, 2026.
+> Coliving in Praia da Pipa, Brazil. Last updated August 13, 2026.
 
 - **Location:** Praia da Pipa, Brazil
 - **Type:** Permanent coliving
-- **Price:** On request
-- **Price note:** pricing not published; daily or monthly rentals
+- **Price:** from BRL 3,900/mo
+- **Price note:** From R$3,900/month. Rates vary with season and availability, so this is a starting point — check with them for real dates.
 - **Rating:** <a href="https://maps.google.com/?cid=17269873536458194234&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (738 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
@@ -20,8 +20,16 @@
 - **Website:** https://www.mirantedepipa.com.br/en/refuge-of-digital-nomads/
 - **Rating:** 4.7 from 738 Google reviews
 
+## Rates
+
+| Stay length | From |
+|---|---|
+| Per month | BRL 3,900 |
+
+Nomad's Ville (Mirante de Pipa) does not publish a nightly or weekly rate.
+
 ## About
 
-Site returned 403 Forbidden via WebFetch; could not verify pricing or format, presumed permanent guesthouse based on listing name.
+Fixed guesthouse/coliving in Praia da Pipa. Monthly 'from' rate supplied directly by the operator (Carol, Reservas) 2026-08-05; they book through their own website.
 
 Source: https://colivingdb.com/coliving/nomad-s-ville-mirante-de-pipa/

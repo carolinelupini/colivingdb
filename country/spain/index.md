@@ -1,6 +1,6 @@
 # Coliving in Spain
 
-> 93 colivings in Spain, prices from €450 to €2,600 per month – last updated August 5, 2026.
+> 92 colivings in Spain, prices from €450 to €2,600 per month – last updated August 13, 2026.
 
 ## All colivings
 
@@ -60,7 +60,6 @@
 | Nomadico Gran Canaria | Las Palmas de Gran Canaria | from €980/mo | — | private, shared | — | Pop-up |
 | Vivarium Coliving & Coworking | Valencia | from €985/mo | 4.9 (65) | private | 31 nights | Permanent |
 | Repeople La Luna Coliving | Santa Cruz de Tenerife | from €990/mo | 4.5 (22) | private | — | Permanent |
-| García Morato Home | Las Palmas | from $1,143/mo | 4.0 (530) | private | 30 nights | Permanent |
 | Coliving Rural Els Masos d'en Coll | Llabià, Fontanilles (Girona) | from €1,000/mo | 4.6 (271) | private, shared, apartment | 7 nights | Permanent |
 | Outsite Ibiza - Es Canar | Es Canar, Ibiza | from €1,000/mo | 4.2 (58) | private | — | Permanent |
 | VIU Sagrada Familia | Barcelona | from €1,000/mo | 4.9 (48) | private | 28 nights | Permanent |
@@ -96,9 +95,9 @@
 | The Mozart | Las Palmas | On request | — | private | 30 nights | Permanent |
 | The Wave Temple | Surfhouse, Coliving | Las Palmas de Gran Canaria | On request | 4.9 (55) | — | — | Permanent |
 | Tulia Guesthouse | Los Realejos | On request | 4.5 (22) | private, shared | — | Permanent |
-| Tursi Digital Nomads — Tenerife (Canary Islands) | Tenerife (Canary Islands) | from €400/event | — | — | — | Pop-up |
 | Zen Den Coliving | Arona (Tenerife) | On request | 4.7 (12) | private | — | Permanent |
 | iSlow Coliving | Laxe, A Coruña, Galicia | from €70/night | 5.0 (81) | private, shared | 7 nights | Permanent |
+| WiFi Tribe — Palma de Mallorca | Palma de Mallorca | On request | — | private, shared | 28 nights | Pop-up |
 
 ## Price distribution
 
@@ -106,7 +105,7 @@
 |---|---|
 | 0–500 | 4 |
 | 500–800 | 25 |
-| 800–1200 | 33 |
+| 800–1200 | 32 |
 | 1200–2000 | 10 |
 | 2000–∞ | 2 |
 
@@ -117,7 +116,7 @@
 - Nomadico Gran Canaria — Jun–Dec (seasonal; labeled 'pop-up')
 - Nomadico Mallorca Coliving — Mar–Aug & Sep–Nov (seasonal)
 - The Better Neighbours — Lloret de Mar — Oct 4 - Nov 1, 2026 (Autumn)
-- Tursi Digital Nomads — Tenerife (Canary Islands) — Jul 17 - 31, 2026
 - WiFi Tribe — Gran Canaria — Aug 7 - Sep 4, 2026
+- WiFi Tribe — Palma de Mallorca — Apr 23 - May 21, 2027
 
 Source: https://colivingdb.com/country/spain/

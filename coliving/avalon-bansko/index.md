@@ -1,6 +1,6 @@
 # Avalon Bansko
 
-> Coliving in Bansko, Bulgaria. Last updated August 5, 2026.
+> Coliving in Bansko, Bulgaria. Last updated August 13, 2026.
 
 - **Location:** Bansko, Bulgaria
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # Nomio
 
-> Coliving in Tivat, Montenegro. Last updated August 5, 2026.
+> Coliving in Tivat, Montenegro. Last updated August 13, 2026.
 
 - **Location:** Tivat, Montenegro
 - **Type:** Permanent coliving
@@ -28,6 +28,6 @@ Nomio does not publish a nightly or weekly rate.
 
 ## About
 
-Fixed coliving in Kavač near Tivat/Kotor Bay with pool, sauna, gym, rooftop cafe; pricing from €500/mo per search results, direct site fetch returned 403.
+Fixed coliving in Kavač near Tivat and Kotor Bay, with a pool, sauna, gym and rooftop cafe. The €500/month figure is an estimate — confirm with the operator.
 
 Source: https://colivingdb.com/coliving/nomio/

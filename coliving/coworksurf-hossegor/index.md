@@ -1,6 +1,6 @@
 # Coworksurf Hossegor
 
-> Coliving in Hossegor, France. Last updated August 5, 2026.
+> Coliving in Hossegor, France. Last updated August 13, 2026.
 
 - **Location:** Hossegor, France
 - **Type:** Permanent coliving

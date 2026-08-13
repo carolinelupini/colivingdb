@@ -1,6 +1,6 @@
 # The Hatchery Place
 
-> Coliving in Subang Jaya (Kuala Lumpur area), Malaysia. Last updated August 5, 2026.
+> Coliving in Subang Jaya (Kuala Lumpur area), Malaysia. Last updated August 13, 2026.
 
 - **Location:** Subang Jaya (Kuala Lumpur area), Malaysia
 - **Type:** Permanent coliving

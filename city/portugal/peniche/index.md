@@ -1,6 +1,6 @@
 # Coliving in Peniche, Portugal
 
-> 1 colivings in Peniche, Portugal – last updated August 5, 2026.
+> 1 colivings in Peniche, Portugal – last updated August 13, 2026.
 
 ## All colivings
 

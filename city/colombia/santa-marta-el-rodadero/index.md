@@ -1,6 +1,6 @@
 # Coliving in Santa Marta (El Rodadero), Colombia
 
-> 1 colivings in Santa Marta (El Rodadero), Colombia, prices from €598 to €598 per month – last updated August 5, 2026.
+> 1 colivings in Santa Marta (El Rodadero), Colombia, prices from €598 to €598 per month – last updated August 13, 2026.
 
 ## All colivings
 

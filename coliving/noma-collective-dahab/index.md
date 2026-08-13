@@ -1,6 +1,6 @@
 # Noma Collective — Dahab
 
-> Coliving in Dahab, Egypt. Last updated August 5, 2026.
+> Coliving in Dahab, Egypt. Last updated August 13, 2026.
 
 - **Location:** Dahab, Egypt
 - **Type:** Pop-up / dated edition

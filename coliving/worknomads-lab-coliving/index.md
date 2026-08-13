@@ -1,11 +1,11 @@
 # WorkNomads LAB Coliving
 
-> Coliving in Sofia, Bulgaria. Last updated August 5, 2026.
+> Coliving in Sofia, Bulgaria. Last updated August 13, 2026.
 
 - **Location:** Sofia, Bulgaria
 - **Type:** Permanent coliving
 - **Price:** from €1,095/mo
-- **Price note:** from ~€70/night hotel-style; long-stay rates on request
+- **Price note:** €1,095/month including utilities (operator-confirmed)
 - **Rating:** <a href="https://maps.google.com/?cid=4962261341778012356&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (480 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No

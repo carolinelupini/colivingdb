@@ -1,6 +1,6 @@
 # The Luzia House Funchal
 
-> Coliving in Funchal, Madeira, Portugal. Last updated August 5, 2026.
+> Coliving in Funchal, Madeira, Portugal. Last updated August 13, 2026.
 
 - **Location:** Funchal, Madeira, Portugal
 - **Type:** Permanent coliving
@@ -21,6 +21,6 @@
 
 ## About
 
-Direct site returned 403; per Airbnb/Booking listings this is a 4-bedroom villa in Funchal bookable whole or by room, from ~€142/night, no fixed monthly coliving rate published — nightly-rental model, not a structured coliving program.
+A four-bedroom villa in Funchal bookable whole or by the room, from about €142/night on the major booking platforms. There is no fixed monthly coliving rate — it runs on a nightly-rental model rather than a structured coliving program.
 
 Source: https://colivingdb.com/coliving/the-luzia-house-funchal/

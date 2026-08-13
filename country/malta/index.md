@@ -1,6 +1,6 @@
 # Coliving in Malta
 
-> 5 colivings in Malta, prices from €420 to €4,066 per month – last updated August 5, 2026.
+> 4 colivings in Malta, prices from €420 to €845 per month – last updated August 13, 2026.
 
 ## All colivings
 
@@ -9,7 +9,6 @@
 | SC Coliving | St Julian's | from €420/mo | — | private, shared | — | Permanent |
 | EVOLVE Coliving | San Gwann | from €845/mo | 4.7 (111) | private | 30 nights | Permanent |
 | Evolve Coliving Malta | Malta | from €845/mo | 4.7 (111) | private, shared | 30 nights | Permanent |
-| The Triq Alamein (Pembroke coliving hub) | Pembroke | from $4,686/mo | — | private, dorm | 30 nights | Permanent |
 | SC Club Village | St Julian's | On request | 3.2 (83) | private, shared | — | Permanent |
 
 ## Price distribution
@@ -18,6 +17,5 @@
 |---|---|
 | 0–500 | 1 |
 | 800–1200 | 2 |
-| 2000–∞ | 1 |
 
 Source: https://colivingdb.com/country/malta/

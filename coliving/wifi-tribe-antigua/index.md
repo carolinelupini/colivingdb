@@ -1,6 +1,6 @@
 # WiFi Tribe — Antigua
 
-> Coliving in Antigua, Guatemala. Last updated August 5, 2026.
+> Coliving in Antigua, Guatemala. Last updated August 13, 2026.
 
 - **Location:** Antigua, Guatemala
 - **Type:** Pop-up / dated edition

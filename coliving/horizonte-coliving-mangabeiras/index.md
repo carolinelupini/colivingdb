@@ -1,13 +1,15 @@
 # Horizonte Coliving - Mangabeiras
 
-> Coliving in Belo Horizonte, Brazil. Last updated August 5, 2026.
+> Coliving in Belo Horizonte, Brazil. Last updated August 13, 2026.
 
 - **Location:** Belo Horizonte, Brazil
 - **Type:** Permanent coliving
-- **Price:** from BRL 1,600/mo
+- **Price:** from BRL 2,390/mo
+- **Price note:** from R$2,390/month on a 1-month stay; longer contracts average R$2,000/mo (3 months) and R$1,870/mo (6 months); rooms range R$1,200-3,000 by size and stay length
 - **Rating:** <a href="https://maps.google.com/?cid=16757248674255325013&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (44 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 200 Mbps down <small>· operator-reported</small><br><small>Operator-reported 200-400 Mbps over Wi-Fi; two fibre lines (1 GB + 800 MB) with automatic failover and multiple routers.</small>
 - **Vibe:** Life transitions with lightness, comfort, and community
 - **Community size:** 10-room house
 - **Minimum stay:** 30 nights
@@ -21,9 +23,9 @@
 
 ## Rates
 
-| Stay length | Private |
+| Stay length | From |
 |---|---|
-| Per month | BRL 1,600 |
+| Per month | BRL 2,390 |
 
 Horizonte Coliving - Mangabeiras does not publish a nightly or weekly rate.
 

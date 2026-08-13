@@ -1,6 +1,6 @@
 # Coliving in Oaxaca, Mexico
 
-> 2 colivings in Oaxaca, Mexico, prices from €525 to €525 per month – last updated August 5, 2026.
+> 2 colivings in Oaxaca, Mexico, prices from €525 to €525 per month – last updated August 13, 2026.
 
 ## All colivings
 
