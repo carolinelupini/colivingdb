@@ -1,6 +1,6 @@
 # Noma Collective — Family Edition (Honduras)
 
-> Coliving in Roatan, Honduras. Last updated August 13, 2026.
+> Coliving in Roatan, Honduras. Last updated August 24, 2026.
 
 - **Location:** Roatan, Honduras
 - **Type:** Pop-up / dated edition

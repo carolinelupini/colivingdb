@@ -1,6 +1,6 @@
 # Coliving in Adeje, Spain
 
-> 1 colivings in Adeje, Spain, prices from €620 to €620 per month – last updated August 13, 2026.
+> 1 colivings in Adeje, Spain, prices from €620 to €620 per month – last updated August 24, 2026.
 
 ## All colivings
 

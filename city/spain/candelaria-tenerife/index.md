@@ -1,6 +1,6 @@
 # Coliving in Candelaria, Tenerife, Spain
 
-> 1 colivings in Candelaria, Tenerife, Spain, prices from €940 to €940 per month – last updated August 13, 2026.
+> 1 colivings in Candelaria, Tenerife, Spain, prices from €940 to €940 per month – last updated August 24, 2026.
 
 ## All colivings
 

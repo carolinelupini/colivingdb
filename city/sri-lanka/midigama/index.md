@@ -1,6 +1,6 @@
 # Coliving in Midigama, Sri Lanka
 
-> 1 colivings in Midigama, Sri Lanka, prices from €900 to €900 per month – last updated August 13, 2026.
+> 1 colivings in Midigama, Sri Lanka, prices from €900 to €900 per month – last updated August 24, 2026.
 
 ## All colivings
 

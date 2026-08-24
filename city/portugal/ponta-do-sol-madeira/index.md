@@ -1,6 +1,6 @@
 # Coliving in Ponta do Sol, Madeira, Portugal
 
-> 3 colivings in Ponta do Sol, Madeira, Portugal, prices from €798 to €1,700 per month – last updated August 13, 2026.
+> 3 colivings in Ponta do Sol, Madeira, Portugal, prices from €798 to €1,700 per month – last updated August 24, 2026.
 
 ## All colivings
 

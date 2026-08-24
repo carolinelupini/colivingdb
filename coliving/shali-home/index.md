@@ -1,6 +1,6 @@
 # Shali Home
 
-> Coliving in Siwa, Egypt. Last updated August 13, 2026.
+> Coliving in Siwa, Egypt. Last updated August 24, 2026.
 
 - **Location:** Siwa, Egypt
 - **Type:** Permanent coliving

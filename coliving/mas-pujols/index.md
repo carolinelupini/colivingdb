@@ -1,6 +1,6 @@
 # Mas Pujols
 
-> Coliving in Sant Boi de Llucanes (Catalonia), Spain. Last updated August 13, 2026.
+> Coliving in Sant Boi de Llucanes (Catalonia), Spain. Last updated August 24, 2026.
 
 - **Location:** Sant Boi de Llucanes (Catalonia), Spain
 - **Type:** Permanent coliving

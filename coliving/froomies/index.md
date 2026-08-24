@@ -1,6 +1,6 @@
 # Froomies
 
-> Coliving in Lostwithiel, Cornwall, United Kingdom. Last updated August 13, 2026.
+> Coliving in Lostwithiel, Cornwall, United Kingdom. Last updated August 24, 2026.
 
 - **Location:** Lostwithiel, Cornwall, United Kingdom
 - **Type:** Permanent coliving

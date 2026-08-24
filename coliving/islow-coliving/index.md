@@ -1,19 +1,20 @@
 # iSlow Coliving
 
-> Coliving in Laxe, A Coruña, Galicia, Spain. Last updated August 13, 2026.
+> Coliving in Laxe, A Coruña, Galicia, Spain. Last updated August 24, 2026.
 
 - **Location:** Laxe, A Coruña, Galicia, Spain
 - **Type:** Permanent coliving
 - **Price:** from €70/night
-- **Price note:** from €32/night, est. monthly
+- **Price note:** from €1,020/month (2-week minimum stay — a slow coliving, not short-stay)
 - **Rating:** <a href="https://maps.google.com/?cid=9197429182222288268&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (81 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 600 Mbps down <small>· operator-reported</small><br><small>600 Mbps fiber, operator-reported by Inés 2026-08-21.</small>
 - **Vibe:** Rural coastal coliving to slow down, connect, and create
-- **Minimum stay:** 7 nights
+- **Minimum stay:** 14 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
-- **Tags:** rural, beach, community, coworking
+- **Tags:** rural, beach, community, coworking, surf, eco
 - **Nearest airports:** A Coruña Airport (LCG) ~51 km; Santiago-Rosalía de Castro Airport (SCQ) ~60 km; Vigo Airport (VGO) ~114 km
 - **Website:** https://islowcoliving.com/
 - **Rating:** 5.0 from 81 Google reviews
@@ -28,6 +29,6 @@ iSlow Coliving does not publish a weekly or monthly rate.
 
 ## About
 
-Permanent coliving/coworking in Laxe, Galicia; no monthly EUR rate published, site directs to booking/availability tool instead.
+Permanent coliving/coworking in Laxe, Galicia. Confirmed 2026-08-21 by Inés: 600 Mbps fiber, from €1,020/month (2-week min stay), reviews shown here undercounted per operator (Google-sync figure, see reviews field).
 
 Source: https://colivingdb.com/coliving/islow-coliving/

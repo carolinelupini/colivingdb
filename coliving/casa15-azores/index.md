@@ -1,6 +1,6 @@
 # Casa15 Azores
 
-> Coliving in Sao Miguel, Azores, Portugal. Last updated August 13, 2026.
+> Coliving in Sao Miguel, Azores, Portugal. Last updated August 24, 2026.
 
 - **Location:** Sao Miguel, Azores, Portugal
 - **Type:** Permanent coliving

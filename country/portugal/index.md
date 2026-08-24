@@ -1,6 +1,6 @@
 # Coliving in Portugal
 
-> 61 colivings in Portugal, prices from €300 to €2,160 per month – last updated August 13, 2026.
+> 61 colivings in Portugal, prices from €300 to €2,160 per month – last updated August 24, 2026.
 
 ## All colivings
 
@@ -21,6 +21,7 @@
 | Outsite Ericeira - Boavista | Ericeira | from €800/mo | — | private | — | Permanent |
 | Outsite Ericeira - Centro | Ericeira | from €800/mo | 4.7 (34) | private | — | Permanent |
 | Outsite Lisbon - Cais do Sodre | Lisbon | from €800/mo | 4.5 (175) | private | 2 nights | Permanent |
+| Três Bandeiras Coliving | Carvoeira (near Ericeira) | from €800/mo | 4.5 (41) | private | 30 nights | Permanent |
 | samesame co-living | Lisbon | from €800/mo | 4.8 (84) | private | 8 nights | Permanent |
 | Colive Madeira | Ponta do Sol, Madeira | from €900/mo | — | private, shared | — | Permanent |
 | Quinta do Bom Despacho | Ponta Delgada | from €900/mo | 4.8 (141) | private, apartment | — | Permanent |
@@ -33,7 +34,6 @@
 | Outsite Ericeira - Praia do Sul | Ericeira | from €1,000/mo | 4.8 (15) | private | — | Permanent |
 | Outsite Lisbon - Intendente | Lisbon | from €1,000/mo | 4.4 (35) | private | — | Permanent |
 | Manas Slowliving | Sines | from €1,050/mo | 4.9 (27) | private | 7 nights | Permanent |
-| Três Bandeiras Coliving | Carvoeira (near Ericeira) | from €800/mo | 4.5 (41) | private | 28 nights | Permanent |
 | VivendaFelicidade Regenerative Farm & Surf Coliving | Sintra (Tojeira) | from €1,040/mo | 5.0 (47) | private | 7 nights | Permanent |
 | Casa do Pico | Funchal, Madeira | from €1,050/mo | 5.0 (32) | private, shared | 7 nights | Permanent |
 | POMAR Coliving - NA PRAIA | Fuseta | from €1,200/mo | 5.0 (77) | private | 28 nights | Permanent |

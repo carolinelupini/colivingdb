@@ -1,6 +1,6 @@
 # Coworksurf Berawa (Canggu)
 
-> Coliving in Canggu, Indonesia. Last updated August 13, 2026.
+> Coliving in Canggu, Indonesia. Last updated August 24, 2026.
 
 - **Location:** Canggu, Indonesia
 - **Type:** Permanent coliving

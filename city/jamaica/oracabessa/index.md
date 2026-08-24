@@ -1,6 +1,6 @@
 # Coliving in Oracabessa, Jamaica
 
-> 1 colivings in Oracabessa, Jamaica, prices from €1,093 to €1,093 per month – last updated August 13, 2026.
+> 1 colivings in Oracabessa, Jamaica, prices from €1,093 to €1,093 per month – last updated August 24, 2026.
 
 ## All colivings
 

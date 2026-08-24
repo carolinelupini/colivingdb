@@ -1,6 +1,6 @@
 # Montino Coliving
 
-> Coliving in Oggebbio, Lake Maggiore, Italy. Last updated August 13, 2026.
+> Coliving in Oggebbio, Lake Maggiore, Italy. Last updated August 24, 2026.
 
 - **Location:** Oggebbio, Lake Maggiore, Italy
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # Mi Casa Coliving
 
-> Coliving in Puerto Escondido, Mexico. Last updated August 13, 2026.
+> Coliving in Puerto Escondido, Mexico. Last updated August 24, 2026.
 
 - **Location:** Puerto Escondido, Mexico
 - **Type:** Permanent coliving
@@ -16,7 +16,7 @@
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Tags:** beach, surf, coworking, community, wellness
 - **Nearest airports:** Puerto Escondido International Airport (PXM) ~9 km; Mexico City Benito Juárez International Airport (MEX) ~456 km; Bahías de Huatulco International Airport (HUX) ~82 km
-- **Website:** https://www.mapmelon.com/colivings/mi-casa-coliving
+- **Website:** https://www.mapmelon.com/colivings/mi-casa-coliving?ref=colivingdb
 - **Rating:** 5.0 from 5 Google reviews
 
 ## Rates

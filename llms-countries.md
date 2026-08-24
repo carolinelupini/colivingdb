@@ -1,6 +1,6 @@
 # colivingDB — all countries
 
-> 619 colivings across 85 countries. Last updated August 13, 2026.
+> 617 colivings across 85 countries. Last updated August 24, 2026.
 
 | Country | Colivings | From (EUR/mo) |
 |---|---|---|
@@ -16,9 +16,9 @@
 | [France](/country/france/index.md) | 15 | €370 |
 | [Sri Lanka](/country/sri-lanka/index.md) | 14 | €87 |
 | [Brazil](/country/brazil/index.md) | 13 | €238 |
-| [Greece](/country/greece/index.md) | 13 | €449 |
 | [Costa Rica](/country/costa-rica/index.md) | 12 | €289 |
 | [Switzerland](/country/switzerland/index.md) | 12 | €500 |
+| [Greece](/country/greece/index.md) | 11 | €449 |
 | [Japan](/country/japan/index.md) | 10 | €378 |
 | [Australia](/country/australia/index.md) | 9 | €473 |
 | [Bulgaria](/country/bulgaria/index.md) | 9 | €280 |

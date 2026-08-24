@@ -1,11 +1,11 @@
 # colivingDB
 
-> A free, curated directory of 619 colivings worldwide — one map, native-currency pricing, no login and no email wall. Covers permanent colivings, dated pop-up editions and nomad festivals across 85 countries. Last updated August 13, 2026.
+> A free, curated directory of 617 colivings worldwide — one map, native-currency pricing, no login and no email wall. Covers permanent colivings, dated pop-up editions and nomad festivals across 85 countries. Last updated August 24, 2026.
 
 colivingDB is built and maintained by Caroline Lupini, a full-time digital nomad since 2014 who has lived and worked across more than a hundred countries. Listings are nomad-style colivings (shared living plus community, usually with coworking) plus a small number of nomad festivals, each tagged as such — not student housing or urban rent-by-the-room operators. Every listing links to the operator's own site. Dead links are audited and removed.
 
 Key facts:
-- 619 colivings, 85 countries
+- 617 colivings, 85 countries
 - 100 dated editions (traveling programs, cruises, camps, and nomad festivals)
 - Prices from €46 to €6,892 per month
 - Filters: country, city, room type, minimum stay, price, pop-up month, currency
@@ -26,10 +26,10 @@ Key facts:
 - [Coliving in Colombia](/country/colombia/index.md): 19 colivings
 - [Coliving in France](/country/france/index.md): 15 colivings
 - [Coliving in Sri Lanka](/country/sri-lanka/index.md): 14 colivings
-- [Coliving in Greece](/country/greece/index.md): 13 colivings
 - [Coliving in Brazil](/country/brazil/index.md): 13 colivings
 - [Coliving in Switzerland](/country/switzerland/index.md): 12 colivings
 - [Coliving in Costa Rica](/country/costa-rica/index.md): 12 colivings
+- [Coliving in Greece](/country/greece/index.md): 11 colivings
 - [Coliving in Japan](/country/japan/index.md): 10 colivings
 - [Coliving in Kenya](/country/kenya/index.md): 9 colivings
 - [Coliving in India](/country/india/index.md): 9 colivings

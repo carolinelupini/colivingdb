@@ -1,6 +1,6 @@
 # La Vita Sukha
 
-> Coliving in Roseto Valfortore, Italy. Last updated August 13, 2026.
+> Coliving in Roseto Valfortore, Italy. Last updated August 24, 2026.
 
 - **Location:** Roseto Valfortore, Italy
 - **Type:** Permanent coliving

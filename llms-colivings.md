@@ -1,6 +1,6 @@
 # colivingDB — all colivings
 
-> 619 listings. Last updated August 13, 2026.
+> 617 listings. Last updated August 24, 2026.
 
 | Coliving | City | Country | Price from | Min stay | Type |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Noma Collective — Placencia (Nov 2026)](/coliving/noma-collective-placencia-nov-2026/index.md) | Placencia | Belize | from $1,790/event | — | Pop-up |
 | [WiFi Tribe — La Paz](/coliving/wifi-tribe-la-paz/index.md) | La Paz | Bolivia | from $1,590/mo | 28 nights | Pop-up |
 | [AfricaNomads — Botswana (Jun 2027)](/coliving/africanomads-botswana-jun-2027/index.md) | Maun | Botswana | from $440/wk | — | Pop-up |
-| [Casa Basilico — Pipa](/coliving/casa-basilico-pipa/index.md) | Pipa (Tibau do Sul) | Brazil | from €1,997/mo | 14 nights | Pop-up |
+| [Casa Basilico — Pipa](/coliving/casa-basilico-pipa/index.md) | Pipa (Tibau do Sul) | Brazil | from €1,997/mo | 28 nights | Pop-up |
 | [Horizonte Coliving - Mangabeiras](/coliving/horizonte-coliving-mangabeiras/index.md) | Belo Horizonte | Brazil | from BRL 2,390/mo | 30 nights | Permanent |
 | [Horizonte Coliving - Santa Tereza](/coliving/horizonte-coliving-santa-tereza/index.md) | Belo Horizonte | Brazil | from BRL 2,650/mo | 30 nights | Permanent |
 | [INFINI Coliving](/coliving/infini-coliving/index.md) | Jauá (Camaçari), near Salvador | Brazil | from BRL 3,813/mo | 1 night | Permanent |
@@ -137,9 +137,7 @@
 | [Boundless Life — Syros](/coliving/boundless-life-syros/index.md) | Syros | Greece | from €2,300/mo | — | Pop-up |
 | [Calergi Residence](/coliving/calergi-residence/index.md) | Atsipopoulo / Rethymno (Crete) | Greece | from €800/mo | — | Permanent |
 | [Charalampou Liandri Home](/coliving/charalampou-liandri-home/index.md) | Atsipopoulo | Greece | from $6,608/mo | 30 nights | Permanent |
-| [Escape (Greek Escape)](/coliving/escape-greek-escape/index.md) | Gerani, Crete (near Rethymno) | Greece | from €750/mo | 7 nights | Permanent |
-| [Greek Escape](/coliving/greek-escape/index.md) | Gerani, Crete | Greece | from €750/mo | 8 nights | Permanent |
-| [Greek Escape (by ESCAPE)](/coliving/greek-escape-by-escape/index.md) | Gerani (Crete) | Greece | from €750/mo | 7 nights | Permanent |
+| [Greek Escape](/coliving/greek-escape/index.md) | Gerani, Crete (near Rethymno) | Greece | from €750/mo | 7 nights | Permanent |
 | [Noma Collective — Athens (Mar 2027)](/coliving/noma-collective-athens-mar-2027/index.md) | Athens | Greece | from $2,390/event | — | Pop-up |
 | [Noma Collective — Athens (Sep 2026)](/coliving/noma-collective-athens-sep-2026/index.md) | Athens | Greece | from $2,290/event | — | Pop-up |
 | [The Plakias (Plakias Residence)](/coliving/the-plakias-plakias-residence/index.md) | Plakias | Greece | from $1,543/mo | 6 months | Permanent |
@@ -377,7 +375,7 @@
 | [The Luzia House Funchal](/coliving/the-luzia-house-funchal/index.md) | Funchal, Madeira | Portugal | On request | — | Permanent |
 | [The Santa Luzia](/coliving/the-santa-luzia/index.md) | Funchal | Portugal | from $1,704/mo | 30 nights | Permanent |
 | [The Spacious Valley](/coliving/the-spacious-valley/index.md) | Ericeira | Portugal | from €1,260/mo | 30 nights | Permanent |
-| [Três Bandeiras Coliving](/coliving/tres-bandeiras-coliving/index.md) | Carvoeira (near Ericeira) | Portugal | from €800/mo | 28 nights | Permanent |
+| [Três Bandeiras Coliving](/coliving/tres-bandeiras-coliving/index.md) | Carvoeira (near Ericeira) | Portugal | from €800/mo | 30 nights | Permanent |
 | [Villa dos Irmaos (Coworksurf)](/coliving/villa-dos-irmaos-coworksurf/index.md) | Ericeira | Portugal | On request | — | Permanent |
 | [VivendaFelicidade Regenerative Farm & Surf Coliving](/coliving/vivendafelicidade-regenerative-farm-and-surf-coliving/index.md) | Sintra (Tojeira) | Portugal | from €1,040/mo | 7 nights | Permanent |
 | [WOT Lodge Soul](/coliving/wot-lodge-soul/index.md) | Ericeira | Portugal | from €451/wk | 30 nights | Permanent |
@@ -487,7 +485,7 @@
 | [Outsite Barcelona - Gothic Quarter](/coliving/outsite-barcelona-gothic-quarter/index.md) | Barcelona | Spain | from €1,700/mo | 2 nights | Permanent |
 | [Outsite Ibiza - Es Canar](/coliving/outsite-ibiza-es-canar/index.md) | Es Canar, Ibiza | Spain | from €1,000/mo | — | Permanent |
 | [PAS Rural Coliving](/coliving/pas-rural-coliving/index.md) | Villegar | Spain | from €810/mo | 15 nights | Permanent |
-| [POSADA DE LA LUZ](/coliving/posada-de-la-luz/index.md) | Torralba de Ribota | Spain | from €450/mo | 15 nights | Permanent |
+| [POSADA DE LA LUZ](/coliving/posada-de-la-luz/index.md) | Torralba de Ribota | Spain | from €600/mo | 15 nights | Permanent |
 | [Picassa • Pueblo Coliving & Coworking](/coliving/picassa-pueblo-coliving-and-coworking/index.md) | Purchena | Spain | from €450/mo | 14 nights | Permanent |
 | [Pitaya coliving](/coliving/pitaya-coliving/index.md) | Arrecife | Spain | from €1,050/mo | 10 nights | Permanent |
 | [REC.ON Project Spain](/coliving/rec-on-project-spain/index.md) | Bolaimi (Sierra Maria-Los Velez, Almeria) | Spain | from €660/mo | 12 nights | Permanent |
@@ -519,7 +517,7 @@
 | [WiFi Tribe — Palma de Mallorca](/coliving/wifi-tribe-palma-de-mallorca/index.md) | Palma de Mallorca | Spain | On request | 28 nights | Pop-up |
 | [Wonder House Coliving](/coliving/wonder-house-coliving/index.md) | Sant Feliu de Buixalleu, Girona | Spain | from €750/mo | 30 nights | Permanent |
 | [Zen Den Coliving](/coliving/zen-den-coliving/index.md) | Arona (Tenerife) | Spain | On request | — | Permanent |
-| [iSlow Coliving](/coliving/islow-coliving/index.md) | Laxe, A Coruña, Galicia | Spain | from €70/night | 7 nights | Permanent |
+| [iSlow Coliving](/coliving/islow-coliving/index.md) | Laxe, A Coruña, Galicia | Spain | from €70/night | 14 nights | Permanent |
 | [Beachbums Coliving Madiha](/coliving/beachbums-coliving-madiha/index.md) | Weligama | Sri Lanka | On request | — | Permanent |
 | [Colive Me (ColiveMe)](/coliving/colive-me-coliveme/index.md) | Ahangama | Sri Lanka | from €668/mo | 3 nights | Permanent |
 | [Habaraduwa Home](/coliving/habaraduwa-home/index.md) | Habaraduwa, Galle | Sri Lanka | from $845/mo | 30 nights | Permanent |
@@ -535,7 +533,7 @@
 | [Weligama Bay Residence](/coliving/weligama-bay-residence/index.md) | Weligama | Sri Lanka | from $2,250/mo | 30 nights | Permanent |
 | [WiFi Tribe — Weligama](/coliving/wifi-tribe-weligama/index.md) | Weligama | Sri Lanka | from $1,690/mo | 28 nights | Pop-up |
 | [Northliving](/coliving/northliving/index.md) | Häggdånger | Sweden | from €850/mo | 6 nights | Permanent |
-| [Alpiness Coliving](/coliving/alpiness-coliving/index.md) | Evolène | Switzerland | from CHF 1,200/mo | 15 nights | Permanent |
+| [Alpiness Coliving](/coliving/alpiness-coliving/index.md) | Evolène | Switzerland | from CHF 900/mo | 15 nights | Permanent |
 | [Batteuse Home](/coliving/batteuse-home/index.md) | Grimentz | Switzerland | from $2,511/mo | 30 nights | Permanent |
 | [Coliving Frilingue](/coliving/coliving-frilingue/index.md) | Liddes | Switzerland | from €500/mo | — | Permanent |
 | [Fond de Ville Home II](/coliving/fond-de-ville-home-ii/index.md) | Liddes | Switzerland | from $994/mo | 30 nights | Permanent |

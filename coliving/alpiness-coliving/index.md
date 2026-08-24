@@ -1,11 +1,11 @@
 # Alpiness Coliving
 
-> Coliving in Evolène, Switzerland. Last updated August 13, 2026.
+> Coliving in Evolène, Switzerland. Last updated August 24, 2026.
 
 - **Location:** Evolène, Switzerland
 - **Type:** Permanent coliving
-- **Price:** from CHF 1,200/mo
-- **Price note:** from €990/month (€44/night)
+- **Price:** from CHF 900/mo
+- **Price note:** from CHF 900/month for a shared room (operator-confirmed); private from CHF 1,590.
 - **Rating:** <a href="https://maps.google.com/?cid=2104685986087285298&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (54 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
@@ -23,13 +23,13 @@
 
 | Stay length | Private | Shared |
 |---|---|---|
-| Per night | CHF 53 | CHF 40 |
-| Per month | CHF 1,590 | CHF 1,200 |
+| Per night | CHF 53 | CHF 30 |
+| Per month | CHF 1,590 | CHF 900 |
 
 Alpiness Coliving does not publish a weekly rate.
 
 ## About
 
-Confirmed permanent fixed location in Evolène; site shows discounted monthly rate of €990 (from €1,320), no clear shared/dorm breakdown found.
+Operator-confirmed 2026-08-17: shared from CHF 900/month. Supersedes the conflicting EUR990 / CHF1,200 figures - both were wrong, and the currency was too.
 
 Source: https://colivingdb.com/coliving/alpiness-coliving/

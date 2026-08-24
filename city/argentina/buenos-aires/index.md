@@ -1,6 +1,6 @@
 # Coliving in Buenos Aires, Argentina
 
-> 7 colivings in Buenos Aires, Argentina, prices from €506 to €625 per month – last updated August 13, 2026.
+> 7 colivings in Buenos Aires, Argentina, prices from €506 to €625 per month – last updated August 24, 2026.
 
 ## All colivings
 

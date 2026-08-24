@@ -1,6 +1,6 @@
 # Coliving in Andalusia (Malaga area), Spain
 
-> 1 colivings in Andalusia (Malaga area), Spain, prices from €2,600 to €2,600 per month – last updated August 13, 2026.
+> 1 colivings in Andalusia (Malaga area), Spain, prices from €2,600 to €2,600 per month – last updated August 24, 2026.
 
 ## All colivings
 

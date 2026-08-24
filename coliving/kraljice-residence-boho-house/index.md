@@ -1,6 +1,6 @@
 # Kraljice Residence (Boho House)
 
-> Coliving in Pakoštane, Croatia. Last updated August 13, 2026.
+> Coliving in Pakoštane, Croatia. Last updated August 24, 2026.
 
 - **Location:** Pakoštane, Croatia
 - **Type:** Permanent coliving

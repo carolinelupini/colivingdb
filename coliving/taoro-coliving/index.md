@@ -1,6 +1,6 @@
 # Taoro Coliving
 
-> Coliving in Santa Úrsula, Tenerife, Spain. Last updated August 13, 2026.
+> Coliving in Santa Úrsula, Tenerife, Spain. Last updated August 24, 2026.
 
 - **Location:** Santa Úrsula, Tenerife, Spain
 - **Type:** Permanent coliving

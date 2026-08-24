@@ -1,6 +1,6 @@
 # Coliving in Vietnam
 
-> 8 colivings in Vietnam, prices from €283 to €834 per month – last updated August 13, 2026.
+> 8 colivings in Vietnam, prices from €283 to €834 per month – last updated August 24, 2026.
 
 ## All colivings
 

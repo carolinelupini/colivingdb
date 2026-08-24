@@ -1,6 +1,6 @@
 # Nine Coliving
 
-> Coliving in La Orotava, Tenerife, Spain. Last updated August 13, 2026.
+> Coliving in La Orotava, Tenerife, Spain. Last updated August 24, 2026.
 
 - **Location:** La Orotava, Tenerife, Spain
 - **Type:** Permanent coliving

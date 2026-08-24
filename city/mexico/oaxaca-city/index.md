@@ -1,6 +1,6 @@
 # Coliving in Oaxaca City, Mexico
 
-> 1 colivings in Oaxaca City, Mexico – last updated August 13, 2026.
+> 1 colivings in Oaxaca City, Mexico – last updated August 24, 2026.
 
 ## All colivings
 

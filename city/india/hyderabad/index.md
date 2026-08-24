@@ -1,6 +1,6 @@
 # Coliving in Hyderabad, India
 
-> 1 colivings in Hyderabad, India, prices from €360 to €360 per month – last updated August 13, 2026.
+> 1 colivings in Hyderabad, India, prices from €360 to €360 per month – last updated August 24, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Coliving in Brazil
 
-> 13 colivings in Brazil, prices from €238 to €1,997 per month – last updated August 13, 2026.
+> 13 colivings in Brazil, prices from €238 to €1,997 per month – last updated August 24, 2026.
 
 ## All colivings
 
@@ -16,7 +16,7 @@
 | Nomad's Ville (Mirante de Pipa) | Praia da Pipa | from BRL 3,900/mo | 4.7 (738) | private | — | Permanent |
 | WiFi Tribe — Florianópolis | Florianópolis | from $1,690/mo | — | private, shared | 28 nights | Pop-up |
 | WiFi Tribe — Pipa | Pipa | from $1,690/mo | — | private, shared | 28 nights | Pop-up |
-| Casa Basilico — Pipa | Pipa (Tibau do Sul) | from €1,997/mo | — | — | 14 nights | Pop-up |
+| Casa Basilico — Pipa | Pipa (Tibau do Sul) | from €1,997/mo | — | private | 28 nights | Pop-up |
 | Neighbor.HUB Hostel & Coliving - Floripa | Florianópolis | On request | 4.4 (45) | private, shared, dorm | — | Permanent |
 | Noma Collective — Pipa | Pipa | from $2,090/event | — | — | — | Pop-up |
 

@@ -1,6 +1,6 @@
 # Coliving in Switzerland
 
-> 12 colivings in Switzerland, prices from €500 to €2,196 per month – last updated August 13, 2026.
+> 12 colivings in Switzerland, prices from €500 to €2,196 per month – last updated August 24, 2026.
 
 ## All colivings
 
@@ -12,7 +12,7 @@
 | Swiss Alps Coliving | Liddes | from CHF 700/mo | — | private, shared | 7 nights | Permanent |
 | Fond de Ville Home II | Liddes | from $994/mo | — | private, shared | 30 nights | Permanent |
 | Swiss Escape | Grimentz | from CHF 990/mo | 5.0 (64) | private, shared | 7 nights | Permanent |
-| Alpiness Coliving | Evolène | from CHF 1,200/mo | 5.0 (54) | private, shared | 15 nights | Permanent |
+| Alpiness Coliving | Evolène | from CHF 900/mo | 5.0 (54) | private, shared | 15 nights | Permanent |
 | Batteuse Home | Grimentz | from $2,511/mo | — | private | 30 nights | Permanent |
 | Hyve - meet, sleep, work and eat! | Basel | On request | 4.4 (857) | private, dorm | — | Permanent |
 | Mont Blanc Coliving | Finhaut | On request | 4.0 (1) | private, shared, dorm | — | Permanent |

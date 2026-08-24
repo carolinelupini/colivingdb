@@ -1,6 +1,6 @@
 # WiFi Tribe — Oman
 
-> Coliving in Oman (city not yet announced), Oman. Last updated August 13, 2026.
+> Coliving in Oman (city not yet announced), Oman. Last updated August 24, 2026.
 
 - **Location:** Oman (city not yet announced), Oman
 - **Type:** Pop-up / dated edition

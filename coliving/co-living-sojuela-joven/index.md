@@ -1,6 +1,6 @@
 # Co-living Sojuela Joven
 
-> Coliving in Sojuela, Spain. Last updated August 13, 2026.
+> Coliving in Sojuela, Spain. Last updated August 24, 2026.
 
 - **Location:** Sojuela, Spain
 - **Type:** Permanent coliving
@@ -16,7 +16,7 @@
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, community, mountain
 - **Nearest airports:** Vitoria Airport (VIT) ~60 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~224 km; Pamplona Airport (PNA) ~87 km
-- **Website:** https://www.mapmelon.com/colivings/co-living-sojuela-joven
+- **Website:** https://www.mapmelon.com/colivings/co-living-sojuela-joven?ref=colivingdb
 - **Rating:** 5.0 from 25 Google reviews
 
 ## Rates

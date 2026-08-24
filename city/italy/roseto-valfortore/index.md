@@ -1,6 +1,6 @@
 # Coliving in Roseto Valfortore, Italy
 
-> 1 colivings in Roseto Valfortore, Italy, prices from €700 to €700 per month – last updated August 13, 2026.
+> 1 colivings in Roseto Valfortore, Italy, prices from €700 to €700 per month – last updated August 24, 2026.
 
 ## All colivings
 

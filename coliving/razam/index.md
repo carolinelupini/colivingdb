@@ -1,6 +1,6 @@
 # RAZAM
 
-> Coliving in Grodzisk Mazowiecki, Poland. Last updated August 13, 2026.
+> Coliving in Grodzisk Mazowiecki, Poland. Last updated August 24, 2026.
 
 - **Location:** Grodzisk Mazowiecki, Poland
 - **Type:** Permanent coliving
@@ -16,7 +16,7 @@
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** community, coworking
 - **Nearest airports:** Warsaw Chopin Airport (WAW) ~24 km; Warsaw Modlin Airport (WMI) ~38 km; Warsaw Radom Airport (RDO) ~90 km
-- **Website:** https://www.mapmelon.com/colivings/razam
+- **Website:** https://www.mapmelon.com/colivings/razam?ref=colivingdb
 - **Rating:** 4.6 from 29 Google reviews
 
 ## Rates

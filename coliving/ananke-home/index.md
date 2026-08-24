@@ -1,6 +1,6 @@
 # Ananke Home
 
-> Coliving in Nicosia, Cyprus. Last updated August 13, 2026.
+> Coliving in Nicosia, Cyprus. Last updated August 24, 2026.
 
 - **Location:** Nicosia, Cyprus
 - **Type:** Permanent coliving
@@ -16,7 +16,7 @@
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, eco, community, wellness
 - **Nearest airports:** Ercan International Airport (ECN) ~13 km; Larnaca International Airport (LCA) ~40 km; Lefkoniko Airport / Geçitkale Air Base (GEC) ~33 km
-- **Website:** https://www.mapmelon.com/colivings/ananke-home
+- **Website:** https://www.mapmelon.com/colivings/ananke-home?ref=colivingdb
 - **Rating:** 4.8 from 42 Google reviews
 
 ## Rates

@@ -1,6 +1,6 @@
 # CoworkSurf
 
-> Coliving in Multiple (Ericeira, Canggu, others). Last updated August 13, 2026.
+> Coliving in Multiple (Ericeira, Canggu, others). Last updated August 24, 2026.
 
 - **Location:** Multiple (Ericeira, Canggu, others)
 - **Type:** Permanent coliving

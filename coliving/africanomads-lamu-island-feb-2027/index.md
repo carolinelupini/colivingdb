@@ -1,6 +1,6 @@
 # AfricaNomads — Lamu Island (Feb 2027)
 
-> Coliving in Lamu Island, Kenya. Last updated August 13, 2026.
+> Coliving in Lamu Island, Kenya. Last updated August 24, 2026.
 
 - **Location:** Lamu Island, Kenya
 - **Type:** Pop-up / dated edition

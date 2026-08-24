@@ -1,6 +1,6 @@
 # Coliving in Oman (city not yet announced), Oman
 
-> 1 colivings in Oman (city not yet announced), Oman – last updated August 13, 2026.
+> 1 colivings in Oman (city not yet announced), Oman – last updated August 24, 2026.
 
 ## All colivings
 

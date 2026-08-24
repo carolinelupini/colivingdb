@@ -1,6 +1,6 @@
 # Outpost Ubud Nyuh Kuning
 
-> Coliving in Ubud, Bali, Indonesia. Last updated August 13, 2026.
+> Coliving in Ubud, Bali, Indonesia. Last updated August 24, 2026.
 
 - **Location:** Ubud, Bali, Indonesia
 - **Type:** Permanent coliving

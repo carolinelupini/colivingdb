@@ -1,6 +1,6 @@
 # Calcada Coliving (Calçada Guesthouse)
 
-> Coliving in Tavira, Portugal. Last updated August 13, 2026.
+> Coliving in Tavira, Portugal. Last updated August 24, 2026.
 
 - **Location:** Tavira, Portugal
 - **Type:** Permanent coliving

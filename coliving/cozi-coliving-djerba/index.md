@@ -1,6 +1,6 @@
 # CoZi Coliving Djerba
 
-> Coliving in Djerba (Mezraia), Tunisia. Last updated August 13, 2026.
+> Coliving in Djerba (Mezraia), Tunisia. Last updated August 24, 2026.
 
 - **Location:** Djerba (Mezraia), Tunisia
 - **Type:** Permanent coliving

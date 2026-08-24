@@ -1,6 +1,6 @@
 # Coliving in Ljubljana, Slovenia
 
-> 1 colivings in Ljubljana, Slovenia, prices from €420 to €420 per month – last updated August 13, 2026.
+> 1 colivings in Ljubljana, Slovenia, prices from €420 to €420 per month – last updated August 24, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Navitas Coliving
 
-> Coliving in Civitanova Marche, Italy. Last updated August 13, 2026.
+> Coliving in Civitanova Marche, Italy. Last updated August 24, 2026.
 
 - **Location:** Civitanova Marche, Italy
 - **Type:** Permanent coliving

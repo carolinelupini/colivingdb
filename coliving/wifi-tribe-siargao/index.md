@@ -1,6 +1,6 @@
 # WiFi Tribe — Siargao
 
-> Coliving in Siargao, Philippines. Last updated August 13, 2026.
+> Coliving in Siargao, Philippines. Last updated August 24, 2026.
 
 - **Location:** Siargao, Philippines
 - **Type:** Pop-up / dated edition

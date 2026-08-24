@@ -1,11 +1,11 @@
 # POSADA DE LA LUZ
 
-> Coliving in Torralba de Ribota, Spain. Last updated August 13, 2026.
+> Coliving in Torralba de Ribota, Spain. Last updated August 24, 2026.
 
 - **Location:** Torralba de Ribota, Spain
 - **Type:** Permanent coliving
-- **Price:** from €450/mo
-- **Price note:** from €17/night, €450/month with 15% discount
+- **Price:** from €600/mo
+- **Price note:** from €20/night (rooms €20–30 by type); €600/month at 30 nights. They take 10% off stays over 30 days.
 - **Rating:** <a href="https://maps.google.com/?cid=12726164606418883101&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (21 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
@@ -23,13 +23,13 @@
 
 | Stay length | From |
 |---|---|
-| Per night | €17 |
-| Per month | €450 |
+| Per night | €20 |
+| Per month | €600 |
 
 POSADA DE LA LUZ does not publish a weekly rate.
 
 ## About
 
-Confirmed permanent rural coliving in Torralba de Ribota; private room EUR450/mo with 15% Mapmelon discount (EUR600/mo regular).
+Operator-confirmed 2026-08-14: €20-30/night by room; standing 10% discount on stays over 30 days (their own public policy, not a colivingDB reader code). The former €450 was a Mapmelon-channel rate and did not apply to direct booking.
 
 Source: https://colivingdb.com/coliving/posada-de-la-luz/

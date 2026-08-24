@@ -1,6 +1,6 @@
 # Skippers
 
-> Coliving in Diani Beach, Kenya. Last updated August 13, 2026.
+> Coliving in Diani Beach, Kenya. Last updated August 24, 2026.
 
 - **Location:** Diani Beach, Kenya
 - **Type:** Permanent coliving

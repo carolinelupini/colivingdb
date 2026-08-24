@@ -1,12 +1,11 @@
 # Coliving in Spain
 
-> 92 colivings in Spain, prices from €450 to €2,600 per month – last updated August 13, 2026.
+> 92 colivings in Spain, prices from €450 to €2,600 per month – last updated August 24, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| POSADA DE LA LUZ | Torralba de Ribota | from €450/mo | 5.0 (21) | private | 15 nights | Permanent |
 | Picassa • Pueblo Coliving & Coworking | Purchena | from €450/mo | 5.0 (17) | private | 14 nights | Permanent |
 | Nomadico Mallorca Coliving | Búger, Mallorca | from €560/mo | 5.0 (30) | private, shared | 7 nights | Pop-up |
 | Banama Surfhouse - Coliving Coworking & Yoga | Corralejo, Fuerteventura | from €499/mo | 4.9 (137) | private, shared | — | Permanent |
@@ -14,6 +13,7 @@
 | Hamlet's Friends | Nuño Gómez, Toledo | from €540/mo | 5.0 (184) | private | 28 nights | Permanent |
 | ALMANSA 11 APARTAMENTOS COLIVING | Sevilla | from €550/mo | 4.6 (27) | private | 7 nights | Permanent |
 | Buddha Coliving | San Isidro (Tenerife) | from €550/mo | 3.8 (12) | private | — | Permanent |
+| POSADA DE LA LUZ | Torralba de Ribota | from €600/mo | 5.0 (21) | private | 15 nights | Permanent |
 | Ruralco Coliving | Culla, Castellón | from €550/mo | 4.9 (70) | private, shared | — | Permanent |
 | Cactus Coliving Adeje | Adeje | from €620/mo | — | private | 2 months | Permanent |
 | Co-living Sojuela Joven | Sojuela | from €630/mo | 5.0 (25) | private | 1 night | Permanent |
@@ -64,6 +64,7 @@
 | Outsite Ibiza - Es Canar | Es Canar, Ibiza | from €1,000/mo | 4.2 (58) | private | — | Permanent |
 | VIU Sagrada Familia | Barcelona | from €1,000/mo | 4.9 (48) | private | 28 nights | Permanent |
 | Kalart | Montseny Valley, Catalonia | from €1,020/mo | 4.9 (69) | private | 30 nights | Permanent |
+| iSlow Coliving | Laxe, A Coruña, Galicia | from €70/night | 5.0 (81) | private, shared | 14 nights | Permanent |
 | Pitaya coliving | Arrecife | from €1,050/mo | 5.0 (64) | private | 10 nights | Permanent |
 | Taoro Coliving | Santa Úrsula, Tenerife | from €1,297/mo | 5.0 (151) | private | 7 nights | Permanent |
 | Tulia Community | Los Realejos, Tenerife | from €1,140/mo | 4.5 (22) | private, apartment | 6 nights | Permanent |
@@ -96,16 +97,15 @@
 | The Wave Temple | Surfhouse, Coliving | Las Palmas de Gran Canaria | On request | 4.9 (55) | — | — | Permanent |
 | Tulia Guesthouse | Los Realejos | On request | 4.5 (22) | private, shared | — | Permanent |
 | Zen Den Coliving | Arona (Tenerife) | On request | 4.7 (12) | private | — | Permanent |
-| iSlow Coliving | Laxe, A Coruña, Galicia | from €70/night | 5.0 (81) | private, shared | 7 nights | Permanent |
 | WiFi Tribe — Palma de Mallorca | Palma de Mallorca | On request | — | private, shared | 28 nights | Pop-up |
 
 ## Price distribution
 
 | Band (EUR/mo) | Colivings |
 |---|---|
-| 0–500 | 4 |
-| 500–800 | 25 |
-| 800–1200 | 32 |
+| 0–500 | 3 |
+| 500–800 | 26 |
+| 800–1200 | 33 |
 | 1200–2000 | 10 |
 | 2000–∞ | 2 |
 

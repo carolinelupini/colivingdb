@@ -1,6 +1,6 @@
 # WiFi Tribe — Edinburgh (Fringe)
 
-> Coliving in Edinburgh, United Kingdom. Last updated August 13, 2026.
+> Coliving in Edinburgh, United Kingdom. Last updated August 24, 2026.
 
 - **Location:** Edinburgh, United Kingdom
 - **Type:** Pop-up / dated edition
