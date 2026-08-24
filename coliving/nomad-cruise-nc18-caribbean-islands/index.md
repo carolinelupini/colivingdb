@@ -18,7 +18,7 @@
 - **Area:** NC18 sails Barcelona to the Caribbean, November 2-16, 2026, calling at four Caribbean islands (not yet named on the site), with around 300 passengers aboard.
 - **Nearest airports:** Josep Tarradellas Barcelona-El Prat Airport (BCN) ~13 km; Girona-Costa Brava Airport (GRO) ~75 km; Reus Airport (REU) ~88 km
 - **Getting there:** Barcelona-El Prat Airport (BCN) is the departure-port airport.
-- **Website:** https://www.nomadcruise.com/
+- **Website:** https://www.nomadcruise.com/?ref=7868&utm_source=aff
 
 ## About
 

@@ -7,7 +7,7 @@
 - **Price:** from €70/night
 - **Price note:** from €1,020/month (2-week minimum stay — a slow coliving, not short-stay)
 - **Rating:** <a href="https://maps.google.com/?cid=9197429182222288268&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (81 reviews)</a> <small>· Google</small>
-- **Room types:** private, shared
+- **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 600 Mbps down <small>· operator-reported</small><br><small>600 Mbps fiber, operator-reported by Inés 2026-08-21.</small>
 - **Vibe:** Rural coastal coliving to slow down, connect, and create

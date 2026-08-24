@@ -64,7 +64,7 @@
 | Outsite Ibiza - Es Canar | Es Canar, Ibiza | from €1,000/mo | 4.2 (58) | private | — | Permanent |
 | VIU Sagrada Familia | Barcelona | from €1,000/mo | 4.9 (48) | private | 28 nights | Permanent |
 | Kalart | Montseny Valley, Catalonia | from €1,020/mo | 4.9 (69) | private | 30 nights | Permanent |
-| iSlow Coliving | Laxe, A Coruña, Galicia | from €70/night | 5.0 (81) | private, shared | 14 nights | Permanent |
+| iSlow Coliving | Laxe, A Coruña, Galicia | from €70/night | 5.0 (81) | private | 14 nights | Permanent |
 | Pitaya coliving | Arrecife | from €1,050/mo | 5.0 (64) | private | 10 nights | Permanent |
 | Taoro Coliving | Santa Úrsula, Tenerife | from €1,297/mo | 5.0 (151) | private | 7 nights | Permanent |
 | Tulia Community | Los Realejos, Tenerife | from €1,140/mo | 4.5 (22) | private, apartment | 6 nights | Permanent |
