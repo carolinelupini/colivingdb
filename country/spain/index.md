@@ -66,11 +66,11 @@
 | Kalart | Montseny Valley, Catalonia | from €1,020/mo | 4.9 (69) | private | 30 nights | Permanent |
 | iSlow Coliving | Laxe, A Coruña, Galicia | from €70/night | 5.0 (81) | private | 14 nights | Permanent |
 | Pitaya coliving | Arrecife | from €1,050/mo | 5.0 (64) | private | 10 nights | Permanent |
-| Taoro Coliving | Santa Úrsula, Tenerife | from €1,297/mo | 5.0 (151) | private | 7 nights | Permanent |
 | Tulia Community | Los Realejos, Tenerife | from €1,140/mo | 4.5 (22) | private, apartment | 6 nights | Permanent |
 | Casa Gori — Coliving, Art Studio & Gardens | Valencia | from €1,200/mo | — | private | 3 months | Permanent |
 | Folks Coliving | Valencia | from €1,500/mo | 4.9 (45) | private | 11 nights | Permanent |
 | Laberint Coliving | Palma de Mallorca | from €1,200/mo | 5.0 (8) | private | 32 nights | Permanent |
+| Taoro Coliving | Santa Úrsula, Tenerife | from €1,299/mo | 5.0 (151) | private | 7 nights | Permanent |
 | Casa Turull (Palma Coliving Barcelona) | Barcelona | from €1,380/mo | 4.4 (54) | private | 30 nights | Permanent |
 | WiFi Tribe — Gran Canaria | Gran Canaria | from $1,790/mo | — | private, shared | 28 nights | Pop-up |
 | Repeople Casa Jardin Coliving | Las Palmas de Gran Canaria | from €1,677/mo | 4.0 (4) | private | — | Permanent |
@@ -105,8 +105,8 @@
 |---|---|
 | 0–500 | 3 |
 | 500–800 | 26 |
-| 800–1200 | 33 |
-| 1200–2000 | 10 |
+| 800–1200 | 32 |
+| 1200–2000 | 11 |
 | 2000–∞ | 2 |
 
 ## Upcoming pop-ups

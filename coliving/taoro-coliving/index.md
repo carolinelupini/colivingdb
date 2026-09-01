@@ -4,11 +4,12 @@
 
 - **Location:** Santa Úrsula, Tenerife, Spain
 - **Type:** Permanent coliving
-- **Price:** from €1,297/mo
-- **Price note:** €1,097–1,372/month; 25% off stays 28+ nights
+- **Price:** from €1,299/mo
+- **Price note:** from €1,299/month for a private room; 25% off stays of 28+ nights.
 - **Rating:** <a href="https://maps.google.com/?cid=6913317794548179327&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (151 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 350 Mbps down <small>· operator-reported</small><br><small>200–350 Mbps, operator-reported</small>
 - **Vibe:** nurturing, family-like community, rest and connection
 - **Minimum stay:** 7 nights
 - **Region:** Europe
@@ -23,7 +24,7 @@
 | Stay length | Private |
 |---|---|
 | Per week | €432 |
-| Per month | €1,297 |
+| Per month | €1,299 |
 
 Taoro Coliving does not publish a nightly rate.
 

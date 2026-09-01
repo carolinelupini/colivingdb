@@ -503,7 +503,7 @@
 | [Suiters](/coliving/suiters/index.md) | Alicante | Spain | from €899/mo | 30 nights | Permanent |
 | [Sun and Co.](/coliving/sun-and-co/index.md) | Jávea | Spain | from €690/mo | — | Permanent |
 | [Surfescape](/coliving/surfescape/index.md) | Lajares, Fuerteventura | Spain | from €2,500/mo | — | Permanent |
-| [Taoro Coliving](/coliving/taoro-coliving/index.md) | Santa Úrsula, Tenerife | Spain | from €1,297/mo | 7 nights | Permanent |
+| [Taoro Coliving](/coliving/taoro-coliving/index.md) | Santa Úrsula, Tenerife | Spain | from €1,299/mo | 7 nights | Permanent |
 | [The Better Neighbours — Lloret de Mar](/coliving/the-better-neighbours-lloret-de-mar/index.md) | Lloret de Mar | Spain | from €925/mo | — | Pop-up |
 | [The Cocotera Hostel & Coworking](/coliving/the-cocotera-hostel-and-coworking/index.md) | Tarifa | Spain | from €15/night | — | Permanent |
 | [The Fernando Salazar Gonzalez](/coliving/the-fernando-salazar-gonzalez/index.md) | Las Galletas | Spain | from $856/mo | 30 nights | Permanent |
