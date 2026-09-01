@@ -1,6 +1,6 @@
 # Outsite Paris (Zoku)
 
-> Coliving in Paris, France. Last updated August 24, 2026.
+> Coliving in Paris, France. Last updated September 1, 2026.
 
 - **Location:** Paris, France
 - **Type:** Permanent coliving

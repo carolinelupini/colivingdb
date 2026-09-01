@@ -1,6 +1,6 @@
 # Tulia Community
 
-> Coliving in Los Realejos, Tenerife, Spain. Last updated August 24, 2026.
+> Coliving in Los Realejos, Tenerife, Spain. Last updated September 1, 2026.
 
 - **Location:** Los Realejos, Tenerife, Spain
 - **Type:** Permanent coliving
@@ -16,7 +16,7 @@
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** island, beach, community, coworking, rural
 - **Nearest airports:** Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~28 km; Tenerife Sur Airport (TFS) ~35 km; La Palma Airport (SPC) ~118 km
-- **Website:** https://www.tuliaguesthouse.com/
+- **Website:** https://www.mapmelon.com/colivings/tulia-community?ref=colivingdb
 - **Rating:** 4.5 from 22 Google reviews
 
 ## Rates

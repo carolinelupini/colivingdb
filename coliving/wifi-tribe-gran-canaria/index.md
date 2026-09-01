@@ -1,6 +1,6 @@
 # WiFi Tribe — Gran Canaria
 
-> Coliving in Gran Canaria, Spain. Last updated August 24, 2026.
+> Coliving in Gran Canaria, Spain. Last updated September 1, 2026.
 
 - **Location:** Gran Canaria, Spain
 - **Type:** Pop-up / dated edition

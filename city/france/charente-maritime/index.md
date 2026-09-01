@@ -1,6 +1,6 @@
 # Coliving in Charente-Maritime, France
 
-> 1 colivings in Charente-Maritime, France – last updated August 24, 2026.
+> 1 colivings in Charente-Maritime, France – last updated September 1, 2026.
 
 ## All colivings
 

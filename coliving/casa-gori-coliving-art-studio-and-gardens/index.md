@@ -1,6 +1,6 @@
 # Casa Gori — Coliving, Art Studio & Gardens
 
-> Coliving in Valencia, Spain. Last updated August 24, 2026.
+> Coliving in Valencia, Spain. Last updated September 1, 2026.
 
 - **Status:** <b>Not open yet</b> — opening April 2027
 - **Location:** Valencia, Spain

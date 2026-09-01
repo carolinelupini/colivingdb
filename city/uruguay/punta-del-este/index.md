@@ -1,6 +1,6 @@
 # Coliving in Punta del Este, Uruguay
 
-> 1 colivings in Punta del Este, Uruguay, prices from €569 to €569 per month – last updated August 24, 2026.
+> 1 colivings in Punta del Este, Uruguay, prices from €569 to €569 per month – last updated September 1, 2026.
 
 ## All colivings
 

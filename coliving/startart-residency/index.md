@@ -1,6 +1,6 @@
 # StartArt Residency
 
-> Coliving in Loureira (near Braga), Portugal. Last updated August 24, 2026.
+> Coliving in Loureira (near Braga), Portugal. Last updated September 1, 2026.
 
 - **Location:** Loureira (near Braga), Portugal
 - **Type:** Permanent coliving
@@ -16,7 +16,7 @@
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** rural, community, eco, wellness
 - **Nearest airports:** Francisco de Sá Carneiro Airport (OPO) ~40 km; Lisbon Humberto Delgado Airport (LIS) ~314 km; Vila Real Airport (VRL) ~66 km
-- **Website:** https://www.startartresidency.com/
+- **Website:** https://www.mapmelon.com/colivings/startart-residency?ref=colivingdb
 - **Rating:** 5.0 from 103 Google reviews
 
 ## Rates

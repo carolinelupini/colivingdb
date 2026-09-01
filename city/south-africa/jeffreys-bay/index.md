@@ -1,6 +1,6 @@
 # Coliving in Jeffreys Bay, South Africa
 
-> 1 colivings in Jeffreys Bay, South Africa – last updated August 24, 2026.
+> 1 colivings in Jeffreys Bay, South Africa – last updated September 1, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # WiFi Tribe — San Juan del Sur
 
-> Coliving in San Juan del Sur, Nicaragua. Last updated August 24, 2026.
+> Coliving in San Juan del Sur, Nicaragua. Last updated September 1, 2026.
 
 - **Location:** San Juan del Sur, Nicaragua
 - **Type:** Pop-up / dated edition

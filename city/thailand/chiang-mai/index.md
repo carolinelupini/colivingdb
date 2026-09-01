@@ -1,6 +1,6 @@
 # Coliving in Chiang Mai, Thailand
 
-> 11 colivings in Chiang Mai, Thailand, prices from €249 to €811 per month – last updated August 24, 2026.
+> 11 colivings in Chiang Mai, Thailand, prices from €249 to €811 per month – last updated September 1, 2026.
 
 ## All colivings
 

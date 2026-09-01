@@ -1,6 +1,6 @@
 # Santa Marta Life Coliving
 
-> Coliving in Santa Marta (El Rodadero), Colombia. Last updated August 24, 2026.
+> Coliving in Santa Marta (El Rodadero), Colombia. Last updated September 1, 2026.
 
 - **Location:** Santa Marta (El Rodadero), Colombia
 - **Type:** Permanent coliving

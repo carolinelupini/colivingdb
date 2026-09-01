@@ -1,6 +1,6 @@
 # Casa Luna by Terracotta MX
 
-> Coliving in Mexico City, Mexico. Last updated August 24, 2026.
+> Coliving in Mexico City, Mexico. Last updated September 1, 2026.
 
 - **Location:** Mexico City, Mexico
 - **Type:** Permanent coliving

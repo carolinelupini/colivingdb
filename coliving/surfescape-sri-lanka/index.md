@@ -1,6 +1,6 @@
 # Surfescape Sri Lanka
 
-> Coliving in Midigama, Sri Lanka. Last updated August 24, 2026.
+> Coliving in Midigama, Sri Lanka. Last updated September 1, 2026.
 
 - **Location:** Midigama, Sri Lanka
 - **Type:** Permanent coliving

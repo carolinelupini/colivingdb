@@ -1,6 +1,6 @@
 # Tokyo Chapter
 
-> Coliving in Tokyo, Japan. Last updated August 24, 2026.
+> Coliving in Tokyo, Japan. Last updated September 1, 2026.
 
 - **Location:** Tokyo, Japan
 - **Type:** Permanent coliving

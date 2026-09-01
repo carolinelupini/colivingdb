@@ -1,6 +1,6 @@
 # Outsite Vienna (Zoku)
 
-> Coliving in Vienna, Austria. Last updated August 24, 2026.
+> Coliving in Vienna, Austria. Last updated September 1, 2026.
 
 - **Location:** Vienna, Austria
 - **Type:** Permanent coliving

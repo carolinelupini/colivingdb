@@ -1,6 +1,6 @@
 # Laberint Coliving
 
-> Coliving in Palma de Mallorca, Spain. Last updated August 24, 2026.
+> Coliving in Palma de Mallorca, Spain. Last updated September 1, 2026.
 
 - **Location:** Palma de Mallorca, Spain
 - **Type:** Permanent coliving
@@ -15,7 +15,7 @@
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, island, coworking, community
 - **Nearest airports:** Palma de Mallorca Airport (PMI) ~8 km; Ibiza Airport (IBZ) ~135 km; Menorca Airport (MAH) ~138 km
-- **Website:** https://laberintcoliving.com
+- **Website:** https://www.mapmelon.com/colivings/laberint-coliving-palma-de-mallorca?ref=colivingdb
 - **Rating:** 5.0 from 8 Google reviews
 
 ## Rates

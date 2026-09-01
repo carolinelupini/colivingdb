@@ -1,6 +1,6 @@
 # La Loba - The Space
 
-> Coliving in Entrerríos, Spain. Last updated August 24, 2026.
+> Coliving in Entrerríos, Spain. Last updated September 1, 2026.
 
 - **Location:** Entrerríos, Spain
 - **Type:** Permanent coliving
@@ -16,7 +16,7 @@
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, community, coworking, wellness
 - **Nearest airports:** Santiago-Rosalía de Castro Airport (SCQ) ~22 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~470 km; Vigo Airport (VGO) ~55 km
-- **Website:** https://www.espaciolaloba.com/
+- **Website:** https://www.mapmelon.com/colivings/la-loba-the-space?ref=colivingdb
 - **Rating:** 5.0 from 4 Google reviews
 
 ## Rates

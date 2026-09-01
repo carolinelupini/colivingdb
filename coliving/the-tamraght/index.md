@@ -1,6 +1,6 @@
 # The Tamraght
 
-> Coliving in Agadir, Morocco. Last updated August 24, 2026.
+> Coliving in Agadir, Morocco. Last updated September 1, 2026.
 
 - **Location:** Agadir, Morocco
 - **Type:** Permanent coliving

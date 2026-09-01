@@ -1,6 +1,6 @@
 # Coliving in Bulgaria
 
-> 9 colivings in Bulgaria, prices from €280 to €1,400 per month – last updated August 24, 2026.
+> 9 colivings in Bulgaria, prices from €280 to €1,400 per month – last updated September 1, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Riverside ecoliving
 
-> Coliving in Jericó, Colombia. Last updated August 24, 2026.
+> Coliving in Jericó, Colombia. Last updated September 1, 2026.
 
 - **Location:** Jericó, Colombia
 - **Type:** Permanent coliving
@@ -17,7 +17,7 @@
 - **Elevation:** 2,004 m
 - **Tags:** rural, eco, coworking, community, wellness
 - **Nearest airports:** Enrique Olaya Herrera Airport (EOH) ~53 km; El Dorado International Airport (BOG) ~219 km; Jose Maria Córdova International Airport (MDE) ~58 km
-- **Website:** https://riversideecoliving.com/
+- **Website:** https://www.mapmelon.com/colivings/riverside-ecoliving?ref=colivingdb
 - **Rating:** 4.8 from 100 Google reviews
 
 ## Rates

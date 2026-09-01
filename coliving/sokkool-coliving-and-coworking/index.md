@@ -1,6 +1,6 @@
 # Sokkool Coliving & Coworking
 
-> Coliving in Canggu (Berawa), Bali, Indonesia. Last updated August 24, 2026.
+> Coliving in Canggu (Berawa), Bali, Indonesia. Last updated September 1, 2026.
 
 - **Location:** Canggu (Berawa), Bali, Indonesia
 - **Type:** Permanent coliving

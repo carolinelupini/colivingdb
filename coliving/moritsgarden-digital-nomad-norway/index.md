@@ -1,6 +1,6 @@
 # Moritsgarden (Digital Nomad Norway)
 
-> Coliving in Folkestad, Norway. Last updated August 24, 2026.
+> Coliving in Folkestad, Norway. Last updated September 1, 2026.
 
 - **Location:** Folkestad, Norway
 - **Type:** Permanent coliving

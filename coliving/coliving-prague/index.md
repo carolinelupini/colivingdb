@@ -1,6 +1,6 @@
 # Coliving Prague
 
-> Coliving in Prague, Czechia. Last updated August 24, 2026.
+> Coliving in Prague, Czechia. Last updated September 1, 2026.
 
 - **Location:** Prague, Czechia
 - **Type:** Permanent coliving

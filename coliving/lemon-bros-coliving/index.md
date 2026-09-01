@@ -1,6 +1,6 @@
 # Lemon Bros Coliving
 
-> Coliving in Ribeira Grande, São Miguel, Portugal. Last updated August 24, 2026.
+> Coliving in Ribeira Grande, São Miguel, Portugal. Last updated September 1, 2026.
 
 - **Location:** Ribeira Grande, São Miguel, Portugal
 - **Type:** Permanent coliving

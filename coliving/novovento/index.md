@@ -1,6 +1,6 @@
 # Novovento
 
-> Coliving in Ginetes, São Miguel, Azores, Portugal. Last updated August 24, 2026.
+> Coliving in Ginetes, São Miguel, Azores, Portugal. Last updated September 1, 2026.
 
 - **Location:** Ginetes, São Miguel, Azores, Portugal
 - **Type:** Permanent coliving
@@ -16,7 +16,7 @@
 - **Timezone:** GMT-1 winter / GMT+0 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** island, rural, surf, coworking, community, wellness
 - **Nearest airports:** João Paulo II Airport (PDL) ~19 km; Santa Maria Airport (SMA) ~115 km; Lajes Airport (TER) ~148 km
-- **Website:** https://www.novovento-coworkation.com/
+- **Website:** https://www.mapmelon.com/colivings/novovento?ref=colivingdb
 - **Rating:** 4.8 from 48 Google reviews
 
 ## Rates

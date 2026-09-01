@@ -1,6 +1,6 @@
 # colivingDB — all colivings
 
-> 617 listings. Last updated August 24, 2026.
+> 617 listings. Last updated September 1, 2026.
 
 | Coliving | City | Country | Price from | Min stay | Type |
 |---|---|---|---|---|---|
@@ -243,7 +243,7 @@
 | [Evolve Coliving Malta](/coliving/evolve-coliving-malta/index.md) | Malta | Malta | from €845/mo | 30 nights | Permanent |
 | [SC Club Village](/coliving/sc-club-village/index.md) | St Julian's | Malta | On request | — | Permanent |
 | [SC Coliving](/coliving/sc-coliving/index.md) | St Julian's | Malta | from €420/mo | — | Permanent |
-| [Amplitude Coliving](/coliving/amplitude-coliving/index.md) | Puerto Escondido (La Punta) | Mexico | from €1,380/mo | 1 night | Permanent |
+| [Amplitude Coliving](/coliving/amplitude-coliving/index.md) | Puerto Escondido (La Punta) | Mexico | from $1,300/mo | 1 night | Permanent |
 | [COLIVING ROMA](/coliving/coliving-roma/index.md) | Mexico City | Mexico | On request | — | Permanent |
 | [Casa Iris Coliving](/coliving/casa-iris-coliving/index.md) | Santiago de Querétaro | Mexico | from $220/wk | — | Permanent |
 | [Casa Luna by Terracotta MX](/coliving/casa-luna-by-terracotta-mx/index.md) | Mexico City | Mexico | On request | 7 nights | Permanent |

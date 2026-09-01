@@ -1,6 +1,6 @@
 # PAS Rural Coliving
 
-> Coliving in Villegar, Spain. Last updated August 24, 2026.
+> Coliving in Villegar, Spain. Last updated September 1, 2026.
 
 - **Location:** Villegar, Spain
 - **Type:** Permanent coliving
@@ -16,7 +16,7 @@
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, mountain, coworking, community, wellness
 - **Nearest airports:** Seve Ballesteros-Santander Airport (SDR) ~23 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~307 km; Bilbao Airport (BIO) ~84 km
-- **Website:** https://pascoliving.co/
+- **Website:** https://www.mapmelon.com/colivings/pas-rural-coliving?ref=colivingdb
 - **Rating:** 5.0 from 50 Google reviews
 
 ## Rates

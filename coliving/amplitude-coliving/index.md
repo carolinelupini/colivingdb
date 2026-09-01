@@ -1,11 +1,11 @@
 # Amplitude Coliving
 
-> Coliving in Puerto Escondido (La Punta), Mexico. Last updated August 24, 2026.
+> Coliving in Puerto Escondido (La Punta), Mexico. Last updated September 1, 2026.
 
 - **Location:** Puerto Escondido (La Punta), Mexico
 - **Type:** Permanent coliving
-- **Price:** from €1,380/mo
-- **Price note:** from €1,380/month (€80/night private)
+- **Price:** from $1,300/mo
+- **Price note:** from $1,300/month May–October, rising to $1,800/month November–April.
 - **Rating:** <a href="https://maps.google.com/?cid=6360831088542217689&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (75 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
@@ -23,7 +23,7 @@
 
 | Stay length | Private |
 |---|---|
-| Per month | €1,380 |
+| Per month | $1,300 |
 
 Amplitude Coliving does not publish a nightly or weekly rate.
 

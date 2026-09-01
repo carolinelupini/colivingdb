@@ -1,6 +1,6 @@
 # Northliving
 
-> Coliving in Häggdånger, Sweden. Last updated August 24, 2026.
+> Coliving in Häggdånger, Sweden. Last updated September 1, 2026.
 
 - **Location:** Häggdånger, Sweden
 - **Type:** Permanent coliving
@@ -16,7 +16,7 @@
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, beach, coworking, community
 - **Nearest airports:** Sundsvall-Härnösand Airport (SDL) ~22 km; Stockholm-Arlanda Airport (ARN) ~326 km; Kramfors-Sollefteå Höga Kusten Airport (KRF) ~52 km
-- **Website:** https://www.northlivingsweden.com/
+- **Website:** https://www.mapmelon.com/colivings/northliving?ref=colivingdb
 - **Rating:** 5.0 from 9 Google reviews
 
 ## Rates

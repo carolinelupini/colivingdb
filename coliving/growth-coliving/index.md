@@ -1,6 +1,6 @@
 # Growth Coliving
 
-> Coliving in Pousa, Galicia, Spain. Last updated August 24, 2026.
+> Coliving in Pousa, Galicia, Spain. Last updated September 1, 2026.
 
 - **Location:** Pousa, Galicia, Spain
 - **Type:** Permanent coliving
@@ -16,7 +16,7 @@
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, community, coworking, wellness
 - **Nearest airports:** Vigo Airport (VGO) ~15 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~459 km; Santiago-Rosalía de Castro Airport (SCQ) ~63 km
-- **Website:** https://growthcoliving.com/en/
+- **Website:** https://www.mapmelon.com/colivings/growth-coliving?ref=colivingdb
 - **Rating:** 4.8 from 35 Google reviews
 
 ## Rates

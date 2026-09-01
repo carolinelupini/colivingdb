@@ -1,6 +1,6 @@
 # The Manoel João Ferreira
 
-> Coliving in Florianópolis (Barra da Lagoa), Brazil. Last updated August 24, 2026.
+> Coliving in Florianópolis (Barra da Lagoa), Brazil. Last updated September 1, 2026.
 
 - **Location:** Florianópolis (Barra da Lagoa), Brazil
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # Casa Basilico — Puglia
 
-> Coliving in Puglia, Italy. Last updated August 24, 2026.
+> Coliving in Puglia, Italy. Last updated September 1, 2026.
 
 - **Location:** Puglia, Italy
 - **Type:** Pop-up / dated edition

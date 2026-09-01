@@ -1,6 +1,6 @@
 # Sende Coliving
 
-> Coliving in Senderiz, Ourense, Galicia, Spain. Last updated August 24, 2026.
+> Coliving in Senderiz, Ourense, Galicia, Spain. Last updated September 1, 2026.
 
 - **Location:** Senderiz, Ourense, Galicia, Spain
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # The Svetog Save (Mokrin House)
 
-> Coliving in Mokrin, Serbia. Last updated August 24, 2026.
+> Coliving in Mokrin, Serbia. Last updated September 1, 2026.
 
 - **Location:** Mokrin, Serbia
 - **Type:** Permanent coliving

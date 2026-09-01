@@ -1,6 +1,6 @@
 # Circles House Barcelona
 
-> Coliving in Barcelona, Spain. Last updated August 24, 2026.
+> Coliving in Barcelona, Spain. Last updated September 1, 2026.
 
 - **Location:** Barcelona, Spain
 - **Type:** Permanent coliving
@@ -16,7 +16,7 @@
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, community, coworking, startup
 - **Nearest airports:** Josep Tarradellas Barcelona-El Prat Airport (BCN) ~13 km; Girona-Costa Brava Airport (GRO) ~75 km; Reus Airport (REU) ~88 km
-- **Website:** https://www.circles.house/
+- **Website:** https://www.mapmelon.com/colivings/circles-house-barcelona?ref=colivingdb
 - **Rating:** 4.7 from 99 Google reviews
 
 ## Rates

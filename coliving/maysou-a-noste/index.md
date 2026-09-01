@@ -1,6 +1,6 @@
 # Maysou A Noste
 
-> Coliving in Lurbe-Saint-Christau, France. Last updated August 24, 2026.
+> Coliving in Lurbe-Saint-Christau, France. Last updated September 1, 2026.
 
 - **Location:** Lurbe-Saint-Christau, France
 - **Type:** Permanent coliving

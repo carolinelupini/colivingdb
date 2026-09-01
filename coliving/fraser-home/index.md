@@ -1,6 +1,6 @@
 # Fraser Home
 
-> Coliving in Kuala Lumpur, Malaysia. Last updated August 24, 2026.
+> Coliving in Kuala Lumpur, Malaysia. Last updated September 1, 2026.
 
 - **Location:** Kuala Lumpur, Malaysia
 - **Type:** Permanent coliving

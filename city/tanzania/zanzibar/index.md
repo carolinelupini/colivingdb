@@ -1,6 +1,6 @@
 # Coliving in Zanzibar, Tanzania
 
-> 1 colivings in Zanzibar, Tanzania – last updated August 24, 2026.
+> 1 colivings in Zanzibar, Tanzania – last updated September 1, 2026.
 
 ## All colivings
 

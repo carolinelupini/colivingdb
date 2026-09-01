@@ -1,6 +1,6 @@
 # Coliving in Civita Castellana, Italy
 
-> 1 colivings in Civita Castellana, Italy – last updated August 24, 2026.
+> 1 colivings in Civita Castellana, Italy – last updated September 1, 2026.
 
 ## All colivings
 

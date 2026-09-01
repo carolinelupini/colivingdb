@@ -1,6 +1,6 @@
 # Coliving in Gerani, Crete (near Rethymno), Greece
 
-> 1 colivings in Gerani, Crete (near Rethymno), Greece, prices from €750 to €750 per month – last updated August 24, 2026.
+> 1 colivings in Gerani, Crete (near Rethymno), Greece, prices from €750 to €750 per month – last updated September 1, 2026.
 
 ## All colivings
 

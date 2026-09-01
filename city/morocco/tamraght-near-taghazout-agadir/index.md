@@ -1,6 +1,6 @@
 # Coliving in Tamraght (near Taghazout/Agadir), Morocco
 
-> 1 colivings in Tamraght (near Taghazout/Agadir), Morocco, prices from €300 to €300 per month – last updated August 24, 2026.
+> 1 colivings in Tamraght (near Taghazout/Agadir), Morocco, prices from €300 to €300 per month – last updated September 1, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # SunDesk Coliving
 
-> Coliving in Taghazout, Morocco. Last updated August 24, 2026.
+> Coliving in Taghazout, Morocco. Last updated September 1, 2026.
 
 - **Location:** Taghazout, Morocco
 - **Type:** Permanent coliving

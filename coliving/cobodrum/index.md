@@ -1,6 +1,6 @@
 # CoBodrum
 
-> Coliving in Bodrum, Turkey. Last updated August 24, 2026.
+> Coliving in Bodrum, Turkey. Last updated September 1, 2026.
 
 - **Location:** Bodrum, Turkey
 - **Type:** Permanent coliving

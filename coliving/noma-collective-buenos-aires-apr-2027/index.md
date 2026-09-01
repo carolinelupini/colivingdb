@@ -1,6 +1,6 @@
 # Noma Collective — Buenos Aires (Apr 2027)
 
-> Coliving in Buenos Aires, Argentina. Last updated August 24, 2026.
+> Coliving in Buenos Aires, Argentina. Last updated September 1, 2026.
 
 - **Location:** Buenos Aires, Argentina
 - **Type:** Pop-up / dated edition

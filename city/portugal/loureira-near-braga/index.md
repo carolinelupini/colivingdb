@@ -1,6 +1,6 @@
 # Coliving in Loureira (near Braga), Portugal
 
-> 1 colivings in Loureira (near Braga), Portugal – last updated August 24, 2026.
+> 1 colivings in Loureira (near Braga), Portugal – last updated September 1, 2026.
 
 ## All colivings
 

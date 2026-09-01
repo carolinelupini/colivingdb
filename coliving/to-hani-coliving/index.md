@@ -1,6 +1,6 @@
 # To Hani Coliving
 
-> Coliving in Paramytha (Limassol), Cyprus. Last updated August 24, 2026.
+> Coliving in Paramytha (Limassol), Cyprus. Last updated September 1, 2026.
 
 - **Location:** Paramytha (Limassol), Cyprus
 - **Type:** Permanent coliving

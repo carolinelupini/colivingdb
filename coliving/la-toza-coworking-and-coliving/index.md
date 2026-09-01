@@ -1,6 +1,6 @@
 # La Toza Coworking & Coliving
 
-> Coliving in Cabrero, Spain. Last updated August 24, 2026.
+> Coliving in Cabrero, Spain. Last updated September 1, 2026.
 
 - **Location:** Cabrero, Spain
 - **Type:** Permanent coliving
@@ -16,7 +16,7 @@
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, mountain, eco, coworking, community, wellness
 - **Nearest airports:** Salamanca Airport (SLM) ~104 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~200 km; Badajoz Airport (BJZ) ~154 km
-- **Website:** https://latoza.es/
+- **Website:** https://www.mapmelon.com/colivings/la-toza-cowoking-coliving?ref=colivingdb
 - **Rating:** 5.0 from 4 Google reviews
 
 ## Rates

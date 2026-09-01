@@ -1,6 +1,6 @@
 # Folks Coliving
 
-> Coliving in Valencia, Spain. Last updated August 24, 2026.
+> Coliving in Valencia, Spain. Last updated September 1, 2026.
 
 - **Location:** Valencia, Spain
 - **Type:** Permanent coliving
@@ -16,7 +16,7 @@
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, beach, coworking, community, wellness
 - **Nearest airports:** Valencia Airport (VLC) ~9 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~295 km; Castellón-Costa Azahar Airport (CDT) ~91 km
-- **Website:** https://folkscoliving.com/
+- **Website:** https://www.mapmelon.com/colivings/folks-coliving?ref=colivingdb
 - **Rating:** 4.9 from 45 Google reviews
 
 ## Rates

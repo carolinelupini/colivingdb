@@ -1,6 +1,6 @@
 # Coliving in Rendsburg, Germany
 
-> 1 colivings in Rendsburg, Germany, prices from €819 to €819 per month – last updated August 24, 2026.
+> 1 colivings in Rendsburg, Germany, prices from €819 to €819 per month – last updated September 1, 2026.
 
 ## All colivings
 

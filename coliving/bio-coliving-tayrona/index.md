@@ -1,6 +1,6 @@
 # Bio Coliving TAYRONA
 
-> Coliving in Santa Marta (near Tayrona Park), Colombia. Last updated August 24, 2026.
+> Coliving in Santa Marta (near Tayrona Park), Colombia. Last updated September 1, 2026.
 
 - **Location:** Santa Marta (near Tayrona Park), Colombia
 - **Type:** Permanent coliving
@@ -16,7 +16,7 @@
 - **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Tags:** eco, rural, coworking, community, wellness
 - **Nearest airports:** Simón Bolívar International Airport (SMR) ~25 km; Ernesto Cortissoz International Airport (BAQ) ~90 km; Almirante Padilla Airport (RCH) ~126 km
-- **Website:** https://biocolivingtayrona.com/
+- **Website:** https://www.mapmelon.com/colivings/bio-coliving-tayrona?ref=colivingdb
 - **Rating:** 4.7 from 48 Google reviews
 
 ## About

@@ -1,6 +1,6 @@
 # Pyren'Escape
 
-> Coliving in Guchen (Saubissan), Pyrenees, France. Last updated August 24, 2026.
+> Coliving in Guchen (Saubissan), Pyrenees, France. Last updated September 1, 2026.
 
 - **Location:** Guchen (Saubissan), Pyrenees, France
 - **Type:** Permanent coliving
@@ -17,7 +17,7 @@
 - **Elevation:** 1,072 m
 - **Tags:** mountain, rural, coworking, community, wellness
 - **Nearest airports:** Tarbes-Lourdes-Pyrénées Airport (LDE) ~44 km; Toulouse-Blagnac Airport (TLS) ~119 km; Pau Pyrénées Airport (PUF) ~83 km
-- **Website:** https://pyrenescape.com/
+- **Website:** https://www.mapmelon.com/colivings/pyren-escape?ref=colivingdb
 - **Rating:** 4.9 from 164 Google reviews
 
 ## About

@@ -1,6 +1,6 @@
 # Coliving Frilingue
 
-> Coliving in Liddes, Switzerland. Last updated August 24, 2026.
+> Coliving in Liddes, Switzerland. Last updated September 1, 2026.
 
 - **Location:** Liddes, Switzerland
 - **Type:** Permanent coliving

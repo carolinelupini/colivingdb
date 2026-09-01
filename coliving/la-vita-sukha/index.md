@@ -1,6 +1,6 @@
 # La Vita Sukha
 
-> Coliving in Roseto Valfortore, Italy. Last updated August 24, 2026.
+> Coliving in Roseto Valfortore, Italy. Last updated September 1, 2026.
 
 - **Location:** Roseto Valfortore, Italy
 - **Type:** Permanent coliving
@@ -16,7 +16,7 @@
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, mountain, eco, community, coworking, wellness
 - **Nearest airports:** Foggia Gino Lisa Airport (FOG) ~37 km; Rome–Fiumicino Leonardo da Vinci International Airport (FCO) ~242 km; Salerno Costa d'Amalfi Airport (QSR) ~85 km
-- **Website:** https://lavitasukha.com/coliving-italy/
+- **Website:** https://www.mapmelon.com/colivings/la-vita-sukha?ref=colivingdb
 - **Rating:** 5.0 from 29 Google reviews
 
 ## Rates

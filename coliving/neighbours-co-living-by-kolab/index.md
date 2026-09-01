@@ -1,6 +1,6 @@
 # Neighbours Co-living by Kolab
 
-> Coliving in Ho Chi Minh City, Vietnam. Last updated August 24, 2026.
+> Coliving in Ho Chi Minh City, Vietnam. Last updated September 1, 2026.
 
 - **Location:** Ho Chi Minh City, Vietnam
 - **Type:** Permanent coliving

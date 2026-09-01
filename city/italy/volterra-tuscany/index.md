@@ -1,6 +1,6 @@
 # Coliving in Volterra (Tuscany), Italy
 
-> 1 colivings in Volterra (Tuscany), Italy – last updated August 24, 2026.
+> 1 colivings in Volterra (Tuscany), Italy – last updated September 1, 2026.
 
 ## All colivings
 

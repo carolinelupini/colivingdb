@@ -1,6 +1,6 @@
 # Hamlet's Friends
 
-> Coliving in Nuño Gómez, Toledo, Spain. Last updated August 24, 2026.
+> Coliving in Nuño Gómez, Toledo, Spain. Last updated September 1, 2026.
 
 - **Location:** Nuño Gómez, Toledo, Spain
 - **Type:** Permanent coliving
@@ -16,7 +16,7 @@
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, mountain, community, coworking
 - **Nearest airports:** Adolfo Suárez Madrid–Barajas Airport (MAD) ~102 km; Salamanca Airport (SLM) ~124 km; Valladolid Airport (VLL) ~184 km
-- **Website:** https://www.hamletsfriends.com/village
+- **Website:** https://www.mapmelon.com/colivings/hamlet-s-friends?ref=colivingdb
 - **Rating:** 5.0 from 184 Google reviews
 
 ## Rates

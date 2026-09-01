@@ -1,6 +1,6 @@
 # Coliving in Málaga, Spain
 
-> 1 colivings in Málaga, Spain, prices from €740 to €740 per month – last updated August 24, 2026.
+> 1 colivings in Málaga, Spain, prices from €740 to €740 per month – last updated September 1, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # The Mẹ Thứ
 
-> Coliving in Hoi An, Vietnam. Last updated August 24, 2026.
+> Coliving in Hoi An, Vietnam. Last updated September 1, 2026.
 
 - **Location:** Hoi An, Vietnam
 - **Type:** Permanent coliving

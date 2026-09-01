@@ -1,6 +1,6 @@
 # franz&mathilde Coliving
 
-> Coliving in Tisens, South Tyrol, Italy. Last updated August 24, 2026.
+> Coliving in Tisens, South Tyrol, Italy. Last updated September 1, 2026.
 
 - **Location:** Tisens, South Tyrol, Italy
 - **Type:** Permanent coliving
