@@ -1,6 +1,6 @@
 # The Ive Andrića (Sonta rural coliving)
 
-> Coliving in Sonta, Serbia. Last updated September 1, 2026.
+> Coliving in Sonta, Serbia. Last updated September 11, 2026.
 
 - **Location:** Sonta, Serbia
 - **Type:** Permanent coliving

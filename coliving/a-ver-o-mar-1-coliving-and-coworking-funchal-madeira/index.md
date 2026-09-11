@@ -1,11 +1,11 @@
 # A ver o Mar 1 | Coliving & Coworking | Funchal, Madeira
 
-> Coliving in Ponta do Sol, Portugal. Last updated September 1, 2026.
+> Coliving in Ponta do Sol, Portugal. Last updated September 11, 2026.
 
 - **Location:** Ponta do Sol, Portugal
 - **Type:** Permanent coliving
 - **Price:** from €920/mo
-- **Rating:** <a href="https://maps.google.com/?cid=11306775948244084964&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (51 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=11306775948244084964&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (52 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Vibe:** Continue your career while experiencing island adventures
@@ -15,7 +15,7 @@
 - **Tags:** coworking, island, community, wellness
 - **Nearest airports:** Cristiano Ronaldo International Airport (FNC) ~14 km; Porto Santo Airport (PXO) ~70 km
 - **Website:** https://www.averomar.pt/
-- **Rating:** 4.6 from 51 Google reviews
+- **Rating:** 4.7 from 52 Google reviews
 
 ## Rates
 

@@ -1,11 +1,11 @@
 # Coliving in Leysin, Switzerland
 
-> 1 colivings in Leysin, Switzerland – last updated September 1, 2026.
+> 1 colivings in Leysin, Switzerland – last updated September 11, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Vermont Hub | Leysin | On request | 4.7 (12) | private, shared | 7 nights | Permanent |
+| Vermont Hub | Leysin | On request | 4.7 (13) | private, shared | 7 nights | Permanent |
 
 Source: https://colivingdb.com/city/switzerland/leysin/

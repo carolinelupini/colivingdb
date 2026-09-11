@@ -1,12 +1,12 @@
 # Kraljice Residence (Boho House)
 
-> Coliving in Pakoštane, Croatia. Last updated September 1, 2026.
+> Coliving in Pakoštane, Croatia. Last updated September 11, 2026.
 
 - **Location:** Pakoštane, Croatia
 - **Type:** Permanent coliving
 - **Price:** from $683/mo
 - **Price note:** from ~€598/mo private ensuite
-- **Rating:** <a href="https://maps.google.com/?cid=9953403889476337674&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (52 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=9953403889476337674&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (57 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 20 Mbps down <small>· operator-reported</small>
@@ -16,7 +16,7 @@
 - **Tags:** beach, coworking, community
 - **Nearest airports:** Zadar Airport (ZAD) ~24 km; Zagreb Franjo Tuđman International Airport (ZAG) ~209 km; Split Saint Jerome Airport (SPU) ~76 km
 - **Website:** https://coliving.com/spaces/ty46jyef
-- **Rating:** 4.5 from 52 Google reviews
+- **Rating:** 4.5 from 57 Google reviews
 
 ## Rates
 

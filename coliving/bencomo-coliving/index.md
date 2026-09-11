@@ -1,12 +1,12 @@
 # Bencomo Coliving
 
-> Coliving in Santa Úrsula, Tenerife, Spain. Last updated September 1, 2026.
+> Coliving in Santa Úrsula, Tenerife, Spain. Last updated September 11, 2026.
 
 - **Location:** Santa Úrsula, Tenerife, Spain
 - **Type:** Permanent coliving
 - **Price:** from €37/night
 - **Price note:** from €837/month (€30/night) private
-- **Rating:** <a href="https://maps.google.com/?cid=3227069245181315105&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (36 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=3227069245181315105&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (39 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Balance between morning yoga and family-style dinners
@@ -16,7 +16,7 @@
 - **Tags:** island, coworking, community, rural, wellness
 - **Nearest airports:** Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~16 km; Tenerife Sur Airport (TFS) ~44 km; Gran Canaria Airport (LPA) ~122 km
 - **Website:** https://bencomocoliving.com/en
-- **Rating:** 4.9 from 36 Google reviews
+- **Rating:** 4.9 from 39 Google reviews
 
 ## Rates
 

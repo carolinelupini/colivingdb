@@ -1,12 +1,12 @@
 # Bela Vista Coliving and Retreat
 
-> Coliving in Olhão (Algarve), Portugal. Last updated September 1, 2026.
+> Coliving in Olhão (Algarve), Portugal. Last updated September 11, 2026.
 
 - **Location:** Olhão (Algarve), Portugal
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** rates on request via booking page
-- **Rating:** <a href="https://maps.google.com/?cid=1554863558132117065&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (47 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=1554863558132117065&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (49 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Family-run, sea-view coliving and kitesurfing retreat in the Algarve blending coworking with watersports, nature adventures, and shared community dinners.
@@ -16,7 +16,7 @@
 - **Tags:** rural, beach, eco, community, coworking, wellness
 - **Nearest airports:** Faro - Gago Coutinho International Airport (FAO) ~16 km; Lisbon Humberto Delgado Airport (LIS) ~227 km; Portimão Airport (PRM) ~71 km
 - **Website:** https://www.belavistacoliving.com/
-- **Rating:** 4.7 from 47 Google reviews
+- **Rating:** 4.7 from 49 Google reviews
 
 ## About
 

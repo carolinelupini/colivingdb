@@ -1,6 +1,6 @@
 # The Switch
 
-> Coliving in Sydney, Australia. Last updated September 1, 2026.
+> Coliving in Sydney, Australia. Last updated September 11, 2026.
 
 - **Location:** Sydney, Australia
 - **Type:** Permanent coliving

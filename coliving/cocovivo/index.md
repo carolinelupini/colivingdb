@@ -1,12 +1,12 @@
 # CocoVivo
 
-> Coliving in Bocas del Toro, Panama. Last updated September 1, 2026.
+> Coliving in Bocas del Toro, Panama. Last updated September 11, 2026.
 
 - **Location:** Bocas del Toro, Panama
 - **Type:** Permanent coliving
 - **Price:** from $1,650/mo
 - **Price note:** cabins priced nightly via Airbnb; monthly rate unpublished
-- **Rating:** <a href="https://maps.google.com/?cid=5942642560669622486&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (96 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=5942642560669622486&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (98 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Off-grid jungle-meets-reef nature immersion retreat
@@ -16,7 +16,7 @@
 - **Tags:** island, eco, community, wellness
 - **Nearest airports:** Bocas del Toro "Isla Colón" International Airport (BOC) ~7 km; Tocumen International Airport (PTY) ~318 km; Changuinola Captain Manuel Niño International Airport (CHX) ~33 km
 - **Website:** https://cocovivo.com
-- **Rating:** 4.8 from 96 Google reviews
+- **Rating:** 4.8 from 98 Google reviews
 
 ## Rates
 

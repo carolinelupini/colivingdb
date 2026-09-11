@@ -1,12 +1,12 @@
 # Sea Urchin SurfHouse
 
-> Coliving in Ericeira, Portugal. Last updated September 1, 2026.
+> Coliving in Ericeira, Portugal. Last updated September 11, 2026.
 
 - **Location:** Ericeira, Portugal
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** pricing on request; 30% winter discount advertised
-- **Rating:** <a href="https://maps.google.com/?cid=11394471517274920267&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (85 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=11394471517274920267&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (90 reviews)</a> <small>· Google</small>
 - **Room types:** shared, private
 - **Dorm available:** No
 - **Vibe:** Surf-centric coastal lifestyle in Ericeira's Surf City
@@ -16,7 +16,7 @@
 - **Tags:** surf, beach, community, wellness
 - **Nearest airports:** Cascais Airport (CAT) ~27 km; Lisbon Humberto Delgado Airport (LIS) ~32 km
 - **Website:** https://www.seaurchin-surfhouse.com/
-- **Rating:** 4.8 from 85 Google reviews
+- **Rating:** 4.8 from 90 Google reviews
 
 ## About
 

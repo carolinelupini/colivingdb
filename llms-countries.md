@@ -1,72 +1,72 @@
 # colivingDB — all countries
 
-> 617 colivings across 85 countries. Last updated September 1, 2026.
+> 637 colivings across 86 countries. Last updated September 11, 2026.
 
 | Country | Colivings | From (EUR/mo) |
 |---|---|---|
 | [Spain](/country/spain/index.md) | 92 | €450 |
-| [Portugal](/country/portugal/index.md) | 61 | €300 |
+| [Portugal](/country/portugal/index.md) | 60 | €300 |
 | [Italy](/country/italy/index.md) | 29 | €540 |
-| [Mexico](/country/mexico/index.md) | 28 | €46 |
-| [South Africa](/country/south-africa/index.md) | 22 | €345 |
-| [United States](/country/united-states/index.md) | 21 | €553 |
+| [Mexico](/country/mexico/index.md) | 29 | €46 |
+| [South Africa](/country/south-africa/index.md) | 25 | €345 |
+| [Thailand](/country/thailand/index.md) | 22 | €249 |
+| [United States](/country/united-states/index.md) | 22 | €553 |
 | [Indonesia](/country/indonesia/index.md) | 20 | €363 |
 | [Colombia](/country/colombia/index.md) | 19 | €333 |
-| [Thailand](/country/thailand/index.md) | 19 | €249 |
 | [France](/country/france/index.md) | 15 | €370 |
 | [Sri Lanka](/country/sri-lanka/index.md) | 14 | €87 |
 | [Brazil](/country/brazil/index.md) | 13 | €238 |
-| [Costa Rica](/country/costa-rica/index.md) | 12 | €289 |
-| [Switzerland](/country/switzerland/index.md) | 12 | €500 |
+| [Switzerland](/country/switzerland/index.md) | 13 | €500 |
+| [Japan](/country/japan/index.md) | 12 | €378 |
+| [Bulgaria](/country/bulgaria/index.md) | 11 | €280 |
+| [Costa Rica](/country/costa-rica/index.md) | 11 | €289 |
 | [Greece](/country/greece/index.md) | 11 | €449 |
-| [Japan](/country/japan/index.md) | 10 | €378 |
+| [Argentina](/country/argentina/index.md) | 9 | €506 |
 | [Australia](/country/australia/index.md) | 9 | €473 |
-| [Bulgaria](/country/bulgaria/index.md) | 9 | €280 |
 | [India](/country/india/index.md) | 9 | €73 |
-| [Kenya](/country/kenya/index.md) | 9 | €500 |
 | [Montenegro](/country/montenegro/index.md) | 9 | €360 |
-| [Argentina](/country/argentina/index.md) | 8 | €506 |
-| [Morocco](/country/morocco/index.md) | 8 | €300 |
-| [Vietnam](/country/vietnam/index.md) | 8 | €283 |
-| [Philippines](/country/philippines/index.md) | 7 | €525 |
-| [United Kingdom](/country/united-kingdom/index.md) | 7 | €470 |
+| [Morocco](/country/morocco/index.md) | 9 | €300 |
+| [Vietnam](/country/vietnam/index.md) | 9 | €283 |
+| [Kenya](/country/kenya/index.md) | 8 | €500 |
+| [Philippines](/country/philippines/index.md) | 8 | €525 |
 | [Norway](/country/norway/index.md) | 6 | €522 |
+| [Taiwan](/country/taiwan/index.md) | 6 | €212 |
+| [United Kingdom](/country/united-kingdom/index.md) | 6 | €470 |
 | [Germany](/country/germany/index.md) | 5 | €645 |
 | [Malaysia](/country/malaysia/index.md) | 5 | €172 |
 | [Serbia](/country/serbia/index.md) | 5 | €297 |
 | [Tanzania](/country/tanzania/index.md) | 5 | €900 |
 | [Turkey](/country/turkey/index.md) | 5 | €435 |
+| [Ecuador](/country/ecuador/index.md) | 4 | €310 |
 | [Egypt](/country/egypt/index.md) | 4 | €167 |
 | [Malta](/country/malta/index.md) | 4 | €420 |
-| [Poland](/country/poland/index.md) | 4 | €513 |
 | [Romania](/country/romania/index.md) | 4 | €670 |
+| [South Korea](/country/south-korea/index.md) | 4 | €525 |
 | [Belize](/country/belize/index.md) | 3 | — |
-| [Cyprus](/country/cyprus/index.md) | 3 | €1,160 |
-| [Ecuador](/country/ecuador/index.md) | 3 | €310 |
+| [Dominican Republic](/country/dominican-republic/index.md) | 3 | €880 |
 | [Ethiopia](/country/ethiopia/index.md) | 3 | — |
 | [Georgia](/country/georgia/index.md) | 3 | €192 |
+| [New Zealand](/country/new-zealand/index.md) | 3 | €763 |
 | [Nicaragua](/country/nicaragua/index.md) | 3 | €1,249 |
 | [Panama](/country/panama/index.md) | 3 | €595 |
-| [South Korea](/country/south-korea/index.md) | 3 | €525 |
-| [Taiwan](/country/taiwan/index.md) | 3 | €212 |
+| [Tunisia](/country/tunisia/index.md) | 3 | — |
 | [Uruguay](/country/uruguay/index.md) | 3 | €569 |
 | [Austria](/country/austria/index.md) | 2 | €1,700 |
 | [Belgium](/country/belgium/index.md) | 2 | €690 |
+| [Bolivia](/country/bolivia/index.md) | 2 | €1,380 |
 | [Canada](/country/canada/index.md) | 2 | €889 |
 | [Croatia](/country/croatia/index.md) | 2 | €598 |
-| [Dominican Republic](/country/dominican-republic/index.md) | 2 | €880 |
+| [Cyprus](/country/cyprus/index.md) | 2 | €1,160 |
 | [Guatemala](/country/guatemala/index.md) | 2 | €819 |
 | [Honduras](/country/honduras/index.md) | 2 | — |
 | [Hungary](/country/hungary/index.md) | 2 | — |
 | [Lithuania](/country/lithuania/index.md) | 2 | €685 |
 | [Malawi](/country/malawi/index.md) | 2 | — |
-| [New Zealand](/country/new-zealand/index.md) | 2 | €763 |
+| [Poland](/country/poland/index.md) | 2 | €513 |
 | [Puerto Rico](/country/puerto-rico/index.md) | 2 | €2,184 |
-| [Tunisia](/country/tunisia/index.md) | 2 | — |
 | [United Arab Emirates](/country/united-arab-emirates/index.md) | 2 | €238 |
 | [Albania](/country/albania/index.md) | 1 | €700 |
 | [Armenia](/country/armenia/index.md) | 1 | — |
-| [Bolivia](/country/bolivia/index.md) | 1 | €1,380 |
 | [Botswana](/country/botswana/index.md) | 1 | — |
 | [Cambodia](/country/cambodia/index.md) | 1 | €1,511 |
 | [Cape Verde](/country/cape-verde/index.md) | 1 | — |
@@ -77,15 +77,16 @@
 | [Jamaica](/country/jamaica/index.md) | 1 | €1,093 |
 | [La Réunion](/country/la-reunion/index.md) | 1 | — |
 | [Latvia](/country/latvia/index.md) | 1 | €697 |
+| [Mongolia](/country/mongolia/index.md) | 1 | — |
 | [Namibia](/country/namibia/index.md) | 1 | €1,640 |
 | [Netherlands](/country/netherlands/index.md) | 1 | €1,700 |
 | [Nigeria](/country/nigeria/index.md) | 1 | — |
-| [North Macedonia](/country/north-macedonia/index.md) | 1 | €1,380 |
-| [Oman](/country/oman/index.md) | 1 | — |
 | [Peru](/country/peru/index.md) | 1 | €1,293 |
 | [Rwanda](/country/rwanda/index.md) | 1 | — |
+| [Senegal](/country/senegal/index.md) | 1 | — |
 | [Seychelles](/country/seychelles/index.md) | 1 | €1,727 |
 | [Singapore](/country/singapore/index.md) | 1 | €1,800 |
 | [Slovenia](/country/slovenia/index.md) | 1 | €420 |
 | [Sweden](/country/sweden/index.md) | 1 | €870 |
+| [Uzbekistan](/country/uzbekistan/index.md) | 1 | — |
 | [Zambia](/country/zambia/index.md) | 1 | — |

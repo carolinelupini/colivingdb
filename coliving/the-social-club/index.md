@@ -1,12 +1,12 @@
 # THE SOCIAL CLUB
 
-> Coliving in Chiang Mai, Thailand. Last updated September 1, 2026.
+> Coliving in Chiang Mai, Thailand. Last updated September 11, 2026.
 
 - **Location:** Chiang Mai, Thailand
 - **Type:** Permanent coliving
 - **Price:** from $800/mo
 - **Price note:** from $800/month private room incl. coworking
-- **Rating:** <a href="https://maps.google.com/?cid=15391703322143782553&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (200 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=15391703322143782553&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (204 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** social community with nightlife and connection
@@ -19,7 +19,7 @@
 - **Nearest airports:** Chiang Mai International Airport (CNX) ~4 km; Lampang Airport (LPT) ~79 km; Mae Hong Son Airport (HGN) ~121 km
 - **Getting there:** Chiang Mai International Airport (CNX) is ~10-15 min by car from the Old Town.
 - **Website:** https://www.thesocialclub.asia/
-- **Rating:** 4.9 from 200 Google reviews
+- **Rating:** 4.9 from 204 Google reviews
 
 ## Rates
 

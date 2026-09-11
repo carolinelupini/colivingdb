@@ -1,12 +1,12 @@
 # Coliving in Nachamps, France
 
-> 1 colivings in Nachamps, France, prices from €870 to €870 per month – last updated September 1, 2026.
+> 1 colivings in Nachamps, France, prices from €870 to €870 per month – last updated September 11, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Enchanted Coliving | Nachamps | from €1,080/mo | 5.0 (17) | private | 14 nights | Permanent |
+| Enchanted Coliving | Nachamps | from €1,080/mo | 5.0 (18) | private | 14 nights | Permanent |
 
 ## Price distribution
 

@@ -1,12 +1,12 @@
 # Waterkant Residence
 
-> Coliving in Cape Town, South Africa. Last updated September 1, 2026.
+> Coliving in Cape Town, South Africa. Last updated September 11, 2026.
 
 - **Location:** Cape Town, South Africa
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** Price on request; the operator publishes per-night rates only (ZAR 1,260–1,450/night)
-- **Rating:** <a href="https://maps.google.com/?cid=3333255371605467079&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (70 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=3333255371605467079&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (71 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 100 Mbps down <small>· operator-reported</small>
@@ -17,7 +17,7 @@
 - **Tags:** city, coworking, community, wellness
 - **Nearest airports:** Cape Town International Airport (CPT) ~18 km
 - **Website:** https://coliving.com/spaces/cjg0vc6x
-- **Rating:** 4.3 from 70 Google reviews
+- **Rating:** 4.3 from 71 Google reviews
 
 ## About
 

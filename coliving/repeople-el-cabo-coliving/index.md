@@ -1,12 +1,12 @@
 # Repeople El Cabo Coliving
 
-> Coliving in Agaete, Gran Canaria, Spain. Last updated September 1, 2026.
+> Coliving in Agaete, Gran Canaria, Spain. Last updated September 11, 2026.
 
 - **Location:** Agaete, Gran Canaria, Spain
 - **Type:** Permanent coliving
 - **Price:** from €870/mo
 - **Price note:** from EUR29/night for 30+ night stays
-- **Rating:** <a href="https://maps.google.com/?cid=12185975336171238021&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (18 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=12185975336171238021&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (19 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** 'A unique building designed specifically to host remote workers and team retreats' — vibrant community for exploring collaborations while working remotely.
@@ -16,7 +16,7 @@
 - **Tags:** island, beach, coworking, community
 - **Nearest airports:** Gran Canaria Airport (LPA) ~36 km; Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~76 km; Tenerife Sur Airport (TFS) ~86 km
 - **Website:** https://repeople.co
-- **Rating:** 4.9 from 18 Google reviews
+- **Rating:** 4.9 from 19 Google reviews
 
 ## Rates
 

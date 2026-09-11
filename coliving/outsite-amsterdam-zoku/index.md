@@ -1,12 +1,12 @@
 # Outsite Amsterdam (Zoku)
 
-> Coliving in Amsterdam, Netherlands. Last updated September 1, 2026.
+> Coliving in Amsterdam, Netherlands. Last updated September 11, 2026.
 
 - **Location:** Amsterdam, Netherlands
 - **Type:** Permanent coliving
 - **Price:** from €1,700/mo
 - **Price note:** add dates for price
-- **Rating:** <a href="https://maps.google.com/?cid=17097233625519653896&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (3073 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=17097233625519653896&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (3115 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 100 Mbps down <small>· operator-reported</small>
@@ -21,7 +21,7 @@
 - **Nearest airports:** Amsterdam Airport Schiphol (AMS) ~11 km; Rotterdam The Hague Airport (RTM) ~55 km; Eindhoven Airport (EIN) ~106 km
 - **Getting there:** Amsterdam Airport Schiphol (AMS) is about 22 minutes away.
 - **Website:** https://www.outsite.co/locations/amsterdam-zoku
-- **Rating:** 4.7 from 3073 Google reviews
+- **Rating:** 4.7 from 3115 Google reviews
 
 ## Rates
 

@@ -1,12 +1,12 @@
 # Wonder House Coliving
 
-> Coliving in Sant Feliu de Buixalleu, Girona, Spain. Last updated September 1, 2026.
+> Coliving in Sant Feliu de Buixalleu, Girona, Spain. Last updated September 11, 2026.
 
 - **Location:** Sant Feliu de Buixalleu, Girona, Spain
 - **Type:** Permanent coliving
 - **Price:** from €750/mo
 - **Price note:** from €750/month shared; private €1,200
-- **Rating:** <a href="https://maps.google.com/?cid=1213299780199342348&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (34 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=1213299780199342348&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (41 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** Spontaneous adventures, unexpected friendships, and unforgettable moments
@@ -16,7 +16,7 @@
 - **Tags:** rural, mountain, coworking, community
 - **Nearest airports:** Girona-Costa Brava Airport (GRO) ~20 km; Josep Tarradellas Barcelona-El Prat Airport (BCN) ~69 km; Perpignan-Rivesaltes (Llabanère) Airport (PGF) ~109 km
 - **Website:** https://wonderhousecoliving.com/
-- **Rating:** 5.0 from 34 Google reviews
+- **Rating:** 5.0 from 41 Google reviews
 
 ## Rates
 

@@ -1,11 +1,11 @@
 # Humant Coliving - Cancún, México
 
-> Coliving in Cancún, Mexico. Last updated September 1, 2026.
+> Coliving in Cancún, Mexico. Last updated September 11, 2026.
 
 - **Location:** Cancún, Mexico
 - **Type:** Permanent coliving
 - **Price:** from MXN 15,250/mo
-- **Rating:** <a href="https://maps.google.com/?cid=1174137897061472643&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (178 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=1174137897061472643&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (183 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** live and work, share and grow, Caribbean community
@@ -15,7 +15,7 @@
 - **Tags:** beach, community, wellness
 - **Nearest airports:** Cancún International Airport (CUN) ~13 km; Cozumel International Airport (CZM) ~72 km; Felipe Carrillo Puerto International Airport Tulum (TQO) ~138 km
 - **Website:** https://humantcoliving.com/
-- **Rating:** 4.9 from 178 Google reviews
+- **Rating:** 4.9 from 183 Google reviews
 
 ## Rates
 

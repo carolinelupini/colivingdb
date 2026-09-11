@@ -1,12 +1,12 @@
 # WOT Ocean Soul
 
-> Coliving in Praia das Maçãs (Sintra), Portugal. Last updated September 1, 2026.
+> Coliving in Praia das Maçãs (Sintra), Portugal. Last updated September 11, 2026.
 
 - **Location:** Praia das Maçãs (Sintra), Portugal
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** nightly hotel rates; Cooliving monthly on request
-- **Rating:** <a href="https://maps.google.com/?cid=6842098634507836602&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.0 (439 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=6842098634507836602&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.0 (451 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** cozy beachfront retreat, relaxed coastal charm
@@ -19,7 +19,7 @@
 - **Nearest airports:** Cascais Airport (CAT) ~15 km; Lisbon Humberto Delgado Airport (LIS) ~29 km
 - **Getting there:** Lisbon Portela (LIS) is the nearest airport, roughly 35-45 minutes by car.
 - **Website:** https://www.wotsoul.com/en/our-hotels/wot-ocean-soul/
-- **Rating:** 4.0 from 439 Google reviews
+- **Rating:** 4.0 from 451 Google reviews
 
 ## About
 

@@ -1,11 +1,11 @@
 # La Alfarería | 4wanders | Coliving & Experiences
 
-> Coliving in Valencia, Spain. Last updated September 1, 2026.
+> Coliving in Valencia, Spain. Last updated September 11, 2026.
 
 - **Location:** Valencia, Spain
 - **Type:** Permanent coliving
 - **Price:** from €750/mo
-- **Rating:** <a href="https://maps.google.com/?cid=4662979779866735171&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 3.7 (13 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=4662979779866735171&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 3.6 (12 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Collaborative coworking community for intellectually curious digital nomads embracing a free, flexible, culturally open lifestyle
@@ -15,7 +15,7 @@
 - **Tags:** community, coworking, city
 - **Nearest airports:** Valencia Airport (VLC) ~13 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~298 km; Castellón-Costa Azahar Airport (CDT) ~91 km
 - **Website:** https://4wanders.com/
-- **Rating:** 3.7 from 13 Google reviews
+- **Rating:** 3.6 from 12 Google reviews
 
 ## Rates
 

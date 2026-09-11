@@ -1,6 +1,6 @@
 # Coliving in Parga, Greece
 
-> 1 colivings in Parga, Greece – last updated September 1, 2026.
+> 1 colivings in Parga, Greece – last updated September 11, 2026.
 
 ## All colivings
 
@@ -10,6 +10,6 @@
 
 ## Upcoming pop-ups
 
-- Tursi Digital Nomads — Parga — Oct 4 - 25, 2026
+- Tursi Digital Nomads — Parga — Oct 3 - 24, 2026
 
 Source: https://colivingdb.com/city/greece/parga/

@@ -1,12 +1,12 @@
 # WiFi Tribe — Bocas del Toro
 
-> Coliving in Bocas del Toro, Panama. Last updated September 1, 2026.
+> Coliving in Bocas del Toro, Panama. Last updated September 11, 2026.
 
 - **Location:** Bocas del Toro, Panama
 - **Type:** Pop-up / dated edition
 - **Dates:** Sep 11 - Oct 9, 2026
-- **Price:** from $1,690/mo
-- **Price note:** from $1,690 per chapter (about four weeks) for a shared room at the entry Member tier; returning members pay less and private rooms cost more — full tier table below
+- **Price:** from $1,790/mo
+- **Price note:** from $1,790 per chapter (about four weeks) for a shared room at the entry Member tier; returning members pay less and private rooms cost more ($2,990 for a private room)
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 360 Mbps down <small>· operator-reported</small>
@@ -22,7 +22,7 @@
 
 | Stay length | From |
 |---|---|
-| Per month | $1,690 |
+| Per month | $1,790 |
 
 WiFi Tribe — Bocas del Toro does not publish a nightly or weekly rate.
 

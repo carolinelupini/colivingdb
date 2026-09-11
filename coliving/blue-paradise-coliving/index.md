@@ -1,12 +1,12 @@
 # Blue Paradise Coliving
 
-> Coliving in Santa Cruz de Tenerife, Spain. Last updated September 1, 2026.
+> Coliving in Santa Cruz de Tenerife, Spain. Last updated September 11, 2026.
 
 - **Location:** Santa Cruz de Tenerife, Spain
 - **Type:** Permanent coliving
 - **Price:** from €695/mo
 - **Price note:** €810/month private ensuite (discounted from €885)
-- **Rating:** <a href="https://maps.google.com/?cid=3595143747378565394&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (27 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=3595143747378565394&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (30 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Shared-community coliving in Tenerife built around cooking together, sharing stories, and weekend island trips organized by the host.
@@ -16,7 +16,7 @@
 - **Tags:** island, city, coworking, community, surf
 - **Nearest airports:** Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~9 km; Tenerife Sur Airport (TFS) ~57 km; Gran Canaria Airport (LPA) ~104 km
 - **Website:** https://blueparadisecoliving.com/
-- **Rating:** 4.5 from 27 Google reviews
+- **Rating:** 4.6 from 30 Google reviews
 
 ## Rates
 

@@ -1,6 +1,6 @@
 # Coliving in Longyearbyen, Norway
 
-> 1 colivings in Longyearbyen, Norway – last updated September 1, 2026.
+> 1 colivings in Longyearbyen, Norway – last updated September 11, 2026.
 
 ## All colivings
 

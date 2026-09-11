@@ -1,11 +1,11 @@
 # Coliving in Alentejo, Portugal
 
-> 1 colivings in Alentejo, Portugal – last updated September 1, 2026.
+> 1 colivings in Alentejo, Portugal – last updated September 11, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Satvana Conscious Co-living & Retreats | Alentejo | On request | 5.0 (6) | private, shared | — | Permanent |
+| Satvana Conscious Co-living & Retreats | Alentejo | On request | 4.9 (15) | private, shared | — | Permanent |
 
 Source: https://colivingdb.com/city/portugal/alentejo/

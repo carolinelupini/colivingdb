@@ -1,12 +1,12 @@
 # Mokrin House
 
-> Coliving in Mokrin, Serbia. Last updated September 1, 2026.
+> Coliving in Mokrin, Serbia. Last updated September 11, 2026.
 
 - **Location:** Mokrin, Serbia
 - **Type:** Permanent coliving
 - **Price:** from €907/mo
 - **Price note:** ~€2,100/month all-inclusive with 3 meals/day (listed BGN 4,108)
-- **Rating:** <a href="https://maps.google.com/?cid=8358075020989643505&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (369 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=8358075020989643505&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (375 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** —
@@ -18,7 +18,7 @@
 - **Nearest airports:** Arad International Airport (ARW) ~71 km; Belgrade Nikola Tesla Airport (BEG) ~124 km; Timișoara Traian Vuia International Airport (TSR) ~73 km
 - **Getting there:** Belgrade Nikola Tesla (BEG) is the nearest major international airport, roughly 2-2.5 hours by car.
 - **Website:** https://www.mokrinhouse.com
-- **Rating:** 4.8 from 369 Google reviews
+- **Rating:** 4.8 from 375 Google reviews
 
 ## Rates
 

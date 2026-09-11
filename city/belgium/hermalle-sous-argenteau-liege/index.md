@@ -1,11 +1,11 @@
 # Coliving in Hermalle-sous-Argenteau (Liège), Belgium
 
-> 1 colivings in Hermalle-sous-Argenteau (Liège), Belgium – last updated September 1, 2026.
+> 1 colivings in Hermalle-sous-Argenteau (Liège), Belgium – last updated September 11, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Bord de Meuse | Hermalle-sous-Argenteau (Liège) | On request | 4.5 (8) | private | — | Permanent |
+| Bord de Meuse | Hermalle-sous-Argenteau (Liège) | On request | 4.6 (10) | private | — | Permanent |
 
 Source: https://colivingdb.com/city/belgium/hermalle-sous-argenteau-liege/

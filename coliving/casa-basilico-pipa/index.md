@@ -1,6 +1,6 @@
 # Casa Basilico — Pipa
 
-> Coliving in Pipa (Tibau do Sul), Brazil. Last updated September 1, 2026.
+> Coliving in Pipa (Tibau do Sul), Brazil. Last updated September 11, 2026.
 
 - **Location:** Pipa (Tibau do Sul), Brazil
 - **Type:** Pop-up / dated edition

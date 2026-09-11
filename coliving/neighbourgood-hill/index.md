@@ -1,12 +1,12 @@
 # Neighbourgood Hill
 
-> Coliving in Cape Town, South Africa. Last updated September 1, 2026.
+> Coliving in Cape Town, South Africa. Last updated September 11, 2026.
 
 - **Location:** Cape Town, South Africa
 - **Type:** Permanent coliving
 - **Price:** from R13,000/mo
 - **Price note:** brand-wide from ~€749/mo
-- **Rating:** <a href="https://maps.google.com/?cid=11191675604201722419&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.1 (132 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=11191675604201722419&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.1 (138 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** Community-focused coworking/coliving space for remote workers wanting to feel at home.
@@ -16,7 +16,7 @@
 - **Tags:** city, coworking, community
 - **Nearest airports:** Cape Town International Airport (CPT) ~19 km
 - **Website:** https://www.neighbourgood.co
-- **Rating:** 4.1 from 132 Google reviews
+- **Rating:** 4.1 from 138 Google reviews
 
 ## Rates
 

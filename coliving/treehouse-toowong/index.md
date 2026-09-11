@@ -1,11 +1,11 @@
 # Treehouse Toowong
 
-> Coliving in Brisbane, Australia. Last updated September 1, 2026.
+> Coliving in Brisbane, Australia. Last updated September 11, 2026.
 
 - **Location:** Brisbane, Australia
 - **Type:** Permanent coliving
 - **Price:** from A$1,333/mo
-- **Rating:** <a href="https://maps.google.com/?cid=8937728641687268928&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (26 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=8937728641687268928&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (26 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** A relaxed, respectful, friendly community built to "work smarter, relax fully, and connect effortlessly," combining a co-working hub and study areas with a rooftop lounge, outdoor cinema, games, and communal dining.
@@ -15,7 +15,7 @@
 - **Tags:** coworking, eco, wellness
 - **Nearest airports:** Brisbane International Airport (BNE) ~16 km; Gold Coast Airport (OOL) ~92 km; Sunshine Coast Airport (MCY) ~99 km
 - **Website:** https://www.treehousetoowong.com/
-- **Rating:** 4.4 from 26 Google reviews
+- **Rating:** 4.3 from 26 Google reviews
 
 ## Rates
 

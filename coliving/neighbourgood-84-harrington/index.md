@@ -1,12 +1,12 @@
 # Neighbourgood 84 Harrington
 
-> Coliving in Cape Town, South Africa. Last updated September 1, 2026.
+> Coliving in Cape Town, South Africa. Last updated September 11, 2026.
 
 - **Location:** Cape Town, South Africa
 - **Type:** Permanent coliving
 - **Price:** from R24,170/mo
 - **Price note:** from ~R22,500/mo (~EUR1,100) all-inclusive, 1-bed apartment
-- **Rating:** <a href="https://maps.google.com/?cid=1348794687952722576&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (277 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=1348794687952722576&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (294 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** modern elegance meets creative urban energy
@@ -18,7 +18,7 @@
 - **Nearest airports:** Cape Town International Airport (CPT) ~18 km
 - **Getting there:** Cape Town International (CPT) is the nearest airport, roughly 20-30 minutes by car.
 - **Website:** https://www.neighbourgood.co/84-harrington
-- **Rating:** 4.7 from 277 Google reviews
+- **Rating:** 4.7 from 294 Google reviews
 
 ## Rates
 

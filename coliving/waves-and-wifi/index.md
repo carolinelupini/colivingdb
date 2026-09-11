@@ -1,12 +1,12 @@
 # Waves & Wifi
 
-> Coliving in Popoyo, Nicaragua. Last updated September 1, 2026.
+> Coliving in Popoyo, Nicaragua. Last updated September 11, 2026.
 
 - **Location:** Popoyo, Nicaragua
 - **Type:** Permanent coliving
 - **Price:** from $1,425/mo
 - **Price note:** rates via Cloudbeds booking; not on homepage
-- **Rating:** <a href="https://maps.google.com/?cid=6336267292705522070&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (109 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=6336267292705522070&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (116 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 253 Mbps down <small>· operator-reported</small><br><small>Operator-reported (Ookla speedtest history sent by Leo 2026-07-23). Most recent test 2026-07-10: 253 Mbps down / 27.4 up. Solar-powered; speeds vary — roughly 180–520 Mbps down across 2026.</small>
@@ -17,7 +17,7 @@
 - **Tags:** surf, beach, coworking, community, wellness
 - **Nearest airports:** Augusto C. Sandino (Managua) International Airport (MGA) ~75 km; Daniel Oduber Quirós International Airport (LIR) ~116 km
 - **Website:** https://wavesandwifi.com
-- **Rating:** 4.9 from 109 Google reviews
+- **Rating:** 4.9 from 116 Google reviews
 
 ## Rates
 

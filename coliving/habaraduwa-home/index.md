@@ -1,6 +1,6 @@
 # Habaraduwa Home
 
-> Coliving in Habaraduwa, Galle, Sri Lanka. Last updated September 1, 2026.
+> Coliving in Habaraduwa, Galle, Sri Lanka. Last updated September 11, 2026.
 
 - **Location:** Habaraduwa, Galle, Sri Lanka
 - **Type:** Permanent coliving

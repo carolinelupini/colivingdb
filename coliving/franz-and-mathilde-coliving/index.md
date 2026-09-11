@@ -1,12 +1,12 @@
 # franz&mathilde Coliving
 
-> Coliving in Tisens, South Tyrol, Italy. Last updated September 1, 2026.
+> Coliving in Tisens, South Tyrol, Italy. Last updated September 11, 2026.
 
 - **Location:** Tisens, South Tyrol, Italy
 - **Type:** Permanent coliving
 - **Price:** from €1,620/mo
 - **Price note:** from €50/night, est. monthly
-- **Rating:** <a href="https://maps.google.com/?cid=7012996428482105416&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (75 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=7012996428482105416&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (85 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Quiet, relaxed workation retreat in the Italian Alps
@@ -16,7 +16,7 @@
 - **Tags:** mountain, rural, coworking, community, wellness
 - **Nearest airports:** Bolzano Airport (BZO) ~17 km; Treviso Airport (TSF) ~129 km; Innsbruck Airport (INN) ~78 km
 - **Website:** https://franzundmathilde.com/
-- **Rating:** 5.0 from 75 Google reviews
+- **Rating:** 5.0 from 85 Google reviews
 
 ## Rates
 

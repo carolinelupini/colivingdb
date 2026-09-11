@@ -1,12 +1,12 @@
 # Amarilla Co-living
 
-> Coliving in San Miguel de Abona, Tenerife, Spain. Last updated September 1, 2026.
+> Coliving in San Miguel de Abona, Tenerife, Spain. Last updated September 11, 2026.
 
 - **Location:** San Miguel de Abona, Tenerife, Spain
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** rates not published; villas and apartments, book via availability form
-- **Rating:** <a href="https://maps.google.com/?cid=16210141422749174637&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (293 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=16210141422749174637&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (316 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** tight-knit tropical nomad community, excellent vibes
@@ -20,7 +20,7 @@
 - **Nearest airports:** Tenerife Sur Airport (TFS) ~8 km; Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~51 km; Gran Canaria Airport (LPA) ~123 km
 - **Getting there:** Tenerife South Airport (TFS) is close by, roughly ~10-15 min by car.
 - **Website:** https://amarilla-co.com/
-- **Rating:** 4.6 from 293 Google reviews
+- **Rating:** 4.7 from 316 Google reviews
 
 ## About
 

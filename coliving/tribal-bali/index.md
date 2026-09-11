@@ -1,11 +1,11 @@
 # Tribal Bali
 
-> Coliving in Pererenan, Indonesia. Last updated September 1, 2026.
+> Coliving in Pererenan, Indonesia. Last updated September 11, 2026.
 
 - **Location:** Pererenan, Indonesia
 - **Type:** Permanent coliving
 - **Price:** On request
-- **Rating:** <a href="https://maps.google.com/?cid=9760897728039595040&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (675 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=9760897728039595040&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (691 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Vibe:** Creative, community-oriented coworking and gallery space
@@ -17,7 +17,7 @@
 - **Nearest airports:** Denpasar I Gusti Ngurah Rai International Airport (DPS) ~13 km; Lombok International Airport (LOP) ~128 km
 - **Getting there:** Ngurah Rai International (DPS) is roughly 45 minutes to an hour away depending on traffic.
 - **Website:** https://tribalbali.com
-- **Rating:** 4.6 from 675 Google reviews
+- **Rating:** 4.6 from 691 Google reviews
 
 ## About
 

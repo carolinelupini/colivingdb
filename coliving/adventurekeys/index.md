@@ -1,12 +1,12 @@
 # Adventurekeys
 
-> Coliving in Taghazout, Morocco. Last updated September 1, 2026.
+> Coliving in Taghazout, Morocco. Last updated September 11, 2026.
 
 - **Location:** Taghazout, Morocco
 - **Type:** Permanent coliving
 - **Price:** from €420/mo
 - **Price note:** €420/month (from €15/night)
-- **Rating:** <a href="https://maps.google.com/?cid=755009539911775306&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (398 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=755009539911775306&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (402 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Wi-Fi (on-site):** 200 Mbps down <small>· operator-reported</small>
@@ -20,8 +20,8 @@
 - **Area:** Located in Taghazout, a former fishing village on Morocco's southwest coast, 19km from Agadir. Known for surf breaks; also offers hiking and yoga, with small grocery stores nearby.
 - **Nearest airports:** Al Massira Airport (AGA) ~38 km; Mohammed V International Airport (CMN) ~372 km; Essaouira-Mogador Airport (ESU) ~94 km
 - **Getting there:** Agadir Al Massira Airport (AGA) is ~25-30 min away, roughly matching the stated 19km distance.
-- **Website:** https://www.mapmelon.com/colivings/adventurekeys?ref=colivingdb
-- **Rating:** 4.5 from 398 Google reviews
+- **Website:** https://www.adventurekeys.com/
+- **Rating:** 4.5 from 402 Google reviews
 
 ## Rates
 

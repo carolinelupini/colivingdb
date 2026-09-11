@@ -1,12 +1,12 @@
 # Nomadico Coliving Taghazout
 
-> Coliving in Taghazout, Morocco. Last updated September 1, 2026.
+> Coliving in Taghazout, Morocco. Last updated September 11, 2026.
 
 - **Location:** Taghazout, Morocco
 - **Type:** Permanent coliving
 - **Price:** from €715/mo
 - **Price note:** from €715/month for a private room
-- **Rating:** <a href="https://maps.google.com/?cid=9998611476335671694&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (86 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=9998611476335671694&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (85 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** Community-driven digital nomad hub pairing remote-work infrastructure with authentic local adventure and cultural immersion
@@ -16,7 +16,7 @@
 - **Tags:** beach, surf, coworking, community
 - **Nearest airports:** Al Massira Airport (AGA) ~38 km; Mohammed V International Airport (CMN) ~372 km; Essaouira-Mogador Airport (ESU) ~94 km
 - **Website:** https://www.nomadico.io/
-- **Rating:** 4.9 from 86 Google reviews
+- **Rating:** 4.9 from 85 Google reviews
 
 ## Rates
 

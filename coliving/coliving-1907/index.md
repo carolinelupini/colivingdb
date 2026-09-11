@@ -1,12 +1,12 @@
 # Coliving 1907
 
-> Coliving in Las Palmas, Gran Canaria, Spain. Last updated September 1, 2026.
+> Coliving in Las Palmas, Gran Canaria, Spain. Last updated September 11, 2026.
 
 - **Location:** Las Palmas, Gran Canaria, Spain
 - **Type:** Permanent coliving
 - **Price:** from €870/mo
 - **Price note:** from ~€29/night, est. €870/month
-- **Rating:** <a href="https://maps.google.com/?cid=15615792980859060786&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (134 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=15615792980859060786&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (138 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 7 nights
@@ -15,7 +15,7 @@
 - **Tags:** city, island, coworking, beach
 - **Nearest airports:** Gran Canaria Airport (LPA) ~22 km; Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~97 km; Tenerife Sur Airport (TFS) ~111 km
 - **Website:** https://coliving1907.com/en/
-- **Rating:** 4.8 from 134 Google reviews
+- **Rating:** 4.8 from 138 Google reviews
 
 ## Rates
 

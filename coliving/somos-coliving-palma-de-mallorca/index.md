@@ -1,11 +1,11 @@
 # SOMOS Coliving Palma de Mallorca
 
-> Coliving in Palma de Mallorca, Spain. Last updated September 1, 2026.
+> Coliving in Palma de Mallorca, Spain. Last updated September 11, 2026.
 
 - **Location:** Palma de Mallorca, Spain
 - **Type:** Permanent coliving
 - **Price:** from €1,800/mo
-- **Rating:** <a href="https://maps.google.com/?cid=10874431798943093154&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (5 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=10874431798943093154&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (12 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 1000 Mbps down <small>· operator-reported</small><br><small>&#x27;Fiber internet (1000+ Mbps)&#x27;</small>
@@ -16,7 +16,7 @@
 - **Tags:** community, coworking, city
 - **Nearest airports:** Palma de Mallorca Airport (PMI) ~7 km; Ibiza Airport (IBZ) ~136 km; Menorca Airport (MAH) ~137 km
 - **Website:** https://www.colivingcommunity.com/find-a-coliving/somos-coliving?src=deal&amp;dealId=cml6gjccq0001kz049qa9o64c
-- **Rating:** 5.0 from 5 Google reviews
+- **Rating:** 5.0 from 12 Google reviews
 
 ## Rates
 

@@ -1,12 +1,12 @@
 # Suiters
 
-> Coliving in Alicante, Spain. Last updated September 1, 2026.
+> Coliving in Alicante, Spain. Last updated September 11, 2026.
 
 - **Location:** Alicante, Spain
 - **Type:** Permanent coliving
 - **Price:** from €899/mo
 - **Price note:** from €899/mo (Alicante Comfort); cheaper for 6mo+ stays
-- **Rating:** <a href="https://maps.google.com/?cid=3873951701856221987&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (110 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=3873951701856221987&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (117 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** A Spain-wide coliving brand offering private furnished suites with a dedicated coworking space — 'live and work in Spain your way, in your own suite' within a community full of shared affinities.
@@ -16,7 +16,7 @@
 - **Tags:** city, coworking, community, beach
 - **Nearest airports:** Alicante-Elche Miguel Hernández Airport (ALC) ~10 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~357 km; Region of Murcia International Airport (RMU) ~83 km
 - **Website:** https://wearesuiters.com
-- **Rating:** 4.6 from 110 Google reviews
+- **Rating:** 4.6 from 117 Google reviews
 
 ## Rates
 

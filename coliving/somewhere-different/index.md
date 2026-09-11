@@ -1,12 +1,12 @@
 # Somewhere Different
 
-> Coliving in Blackpool, United Kingdom. Last updated September 1, 2026.
+> Coliving in Blackpool, United Kingdom. Last updated September 11, 2026.
 
 - **Location:** Blackpool, United Kingdom
 - **Type:** Permanent coliving
 - **Price:** from £400/mo
 - **Price note:** rates on booking page; ~Chiang Mai-comparable
-- **Rating:** <a href="https://maps.google.com/?cid=12897437038564931951&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (33 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=12897437038564931951&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (34 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 1000 Mbps down <small>· operator-reported</small>
@@ -17,7 +17,7 @@
 - **Tags:** city, coworking, community
 - **Nearest airports:** Liverpool John Lennon Airport (LPL) ~55 km; London Heathrow Airport (LHR) ~314 km; Manchester Airport (MAN) ~73 km
 - **Website:** https://www.somewheredifferent.com/uk/
-- **Rating:** 4.6 from 33 Google reviews
+- **Rating:** 4.6 from 34 Google reviews
 
 ## Rates
 

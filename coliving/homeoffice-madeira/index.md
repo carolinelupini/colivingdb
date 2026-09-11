@@ -1,12 +1,12 @@
 # Homeoffice Madeira
 
-> Coliving in Santo da Serra, Santa Cruz (Madeira), Portugal. Last updated September 1, 2026.
+> Coliving in Santo da Serra, Santa Cruz (Madeira), Portugal. Last updated September 11, 2026.
 
 - **Location:** Santo da Serra, Santa Cruz (Madeira), Portugal
 - **Type:** Permanent coliving
 - **Price:** from €1,400/mo
 - **Price note:** est. from reported EUR 800 per two weeks
-- **Rating:** <a href="https://maps.google.com/?cid=6015537550028755787&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (243 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=6015537550028755787&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (251 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 350 Mbps down <small>· operator-reported</small>
@@ -21,7 +21,7 @@
 - **Nearest airports:** Cristiano Ronaldo International Airport (FNC) ~5 km; Porto Santo Airport (PXO) ~59 km
 - **Getting there:** Madeira Airport (FNC) is about 15 minutes away (taxi ~€17.50).
 - **Website:** https://en.homeoffice-madeira.com/
-- **Rating:** 5.0 from 243 Google reviews
+- **Rating:** 5.0 from 251 Google reviews
 
 ## Rates
 

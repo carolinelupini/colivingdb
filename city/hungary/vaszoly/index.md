@@ -1,6 +1,6 @@
 # Coliving in Vászoly, Hungary
 
-> 1 colivings in Vászoly, Hungary – last updated September 1, 2026.
+> 1 colivings in Vászoly, Hungary – last updated September 11, 2026.
 
 ## All colivings
 

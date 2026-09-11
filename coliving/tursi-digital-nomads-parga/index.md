@@ -1,12 +1,12 @@
 # Tursi Digital Nomads — Parga
 
-> Coliving in Parga, Greece. Last updated September 1, 2026.
+> Coliving in Parga, Greece. Last updated September 11, 2026.
 
 - **Location:** Parga, Greece
 - **Type:** Pop-up / dated edition
-- **Dates:** Oct 4 - 25, 2026
+- **Dates:** Oct 3 - 24, 2026
 - **Price:** from €799/event
-- **Price note:** shared studio, per person, 3-week program; workspace, high-speed internet, utilities, community management
+- **Price note:** shared studio, per person, 3-week program; a Private Studio is €1,299; workspace, high-speed internet, utilities, community management. 2 spots left on September 11, 2026.
 - **Room types:** —
 - **Dorm available:** No
 - **Vibe:** Coastal Greek retreat balancing work with creativity-fostering activities, bonding trips, and slow sunsets.

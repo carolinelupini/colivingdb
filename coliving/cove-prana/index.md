@@ -1,11 +1,11 @@
 # Cove Prana
 
-> Coliving in Uluwatu, Indonesia. Last updated September 1, 2026.
+> Coliving in Uluwatu, Indonesia. Last updated September 11, 2026.
 
 - **Location:** Uluwatu, Indonesia
 - **Type:** Permanent coliving
 - **Price:** from IDR 9,900,000/mo
-- **Rating:** <a href="https://maps.google.com/?cid=6380131208890979198&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (173 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=6380131208890979198&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (179 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** ocean-view retreat blending comfort and luxury
@@ -15,7 +15,7 @@
 - **Tags:** community, beach, surf
 - **Nearest airports:** Denpasar I Gusti Ngurah Rai International Airport (DPS) ~13 km; Lombok International Airport (LOP) ~132 km
 - **Website:** https://cove.id/en/properties/cove-prana
-- **Rating:** 4.4 from 173 Google reviews
+- **Rating:** 4.3 from 179 Google reviews
 
 ## Rates
 

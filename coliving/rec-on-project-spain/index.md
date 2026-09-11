@@ -1,12 +1,12 @@
 # REC.ON Project Spain
 
-> Coliving in Bolaimi (Sierra Maria-Los Velez, Almeria), Spain. Last updated September 1, 2026.
+> Coliving in Bolaimi (Sierra Maria-Los Velez, Almeria), Spain. Last updated September 11, 2026.
 
 - **Location:** Bolaimi (Sierra Maria-Los Velez, Almeria), Spain
 - **Type:** Permanent coliving
 - **Price:** from €660/mo
 - **Price note:** €660/month (from €749); ~€25/night
-- **Rating:** <a href="https://maps.google.com/?cid=12668262004711917288&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (100 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=12668262004711917288&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (103 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 190 Mbps down <small>· operator-reported</small>
@@ -18,7 +18,7 @@
 - **Tags:** mountain, rural, coworking, community
 - **Nearest airports:** Region of Murcia International Airport (RMU) ~92 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~333 km; Almería Airport (LEI) ~98 km
 - **Website:** https://www.mapmelon.com/colivings/rec-on-project-spain?ref=colivingdb
-- **Rating:** 4.9 from 100 Google reviews
+- **Rating:** 4.9 from 103 Google reviews
 
 ## Rates
 

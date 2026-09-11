@@ -1,11 +1,11 @@
 # Cohausing Cabanyal
 
-> Coliving in Valencia, Spain. Last updated September 1, 2026.
+> Coliving in Valencia, Spain. Last updated September 11, 2026.
 
 - **Location:** Valencia, Spain
 - **Type:** Permanent coliving
 - **Price:** from €930/mo
-- **Rating:** <a href="https://maps.google.com/?cid=10426676291314943223&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (108 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=10426676291314943223&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (109 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Mixed community space balancing shared encounters with quiet privacy
@@ -15,7 +15,7 @@
 - **Tags:** beach, community, city
 - **Nearest airports:** Valencia Airport (VLC) ~13 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~299 km; Castellón-Costa Azahar Airport (CDT) ~90 km
 - **Website:** http://www.cohausingvalencia.com/
-- **Rating:** 4.8 from 108 Google reviews
+- **Rating:** 4.8 from 109 Google reviews
 
 ## Rates
 

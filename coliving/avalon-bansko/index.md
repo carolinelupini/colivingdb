@@ -1,12 +1,12 @@
 # Avalon Bansko
 
-> Coliving in Bansko, Bulgaria. Last updated September 1, 2026.
+> Coliving in Bansko, Bulgaria. Last updated September 11, 2026.
 
 - **Location:** Bansko, Bulgaria
 - **Type:** Permanent coliving
 - **Price:** from €550/mo
 - **Price note:** single rooms from ~€460-499/mo incl. bills
-- **Rating:** <a href="https://maps.google.com/?cid=270151437617966294&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (125 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=270151437617966294&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (126 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 200 Mbps down <small>· operator-reported</small>
@@ -17,7 +17,7 @@
 - **Tags:** ski, mountain, coworking, community
 - **Nearest airports:** Sofia Airport (SOF) ~95 km; Plovdiv International Airport (PDV) ~115 km; Kavala Alexander the Great International Airport (KVA) ~140 km
 - **Website:** https://avalonhotelbansko.com/avalon-coliving-coworking-bansko/
-- **Rating:** 4.7 from 125 Google reviews
+- **Rating:** 4.7 from 126 Google reviews
 
 ## Rates
 

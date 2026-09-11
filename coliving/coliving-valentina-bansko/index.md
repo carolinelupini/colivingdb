@@ -1,12 +1,12 @@
 # Coliving Valentina Bansko
 
-> Coliving in Bansko, Bulgaria. Last updated September 1, 2026.
+> Coliving in Bansko, Bulgaria. Last updated September 11, 2026.
 
 - **Location:** Bansko, Bulgaria
 - **Type:** Permanent coliving
 - **Price:** from €750/mo
 - **Price note:** studio from €650/month
-- **Rating:** <a href="https://maps.google.com/?cid=7657526736195463959&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (106 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=7657526736195463959&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (108 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 80 Mbps down <small>· operator-reported</small><br><small>Operator-reported (Cristian Z, 2026-07-19): fibre business line, 300 Mbps by contract but 80–100 Mbps real-world at 30–50 concurrent users, plus a second backup line. The real-world floor is shown rather than the 300 contract headline.</small>
@@ -17,7 +17,7 @@
 - **Tags:** mountain, ski, coworking, community, wellness
 - **Nearest airports:** Sofia Airport (SOF) ~95 km; Plovdiv International Airport (PDV) ~115 km; Kavala Alexander the Great International Airport (KVA) ~140 km
 - **Website:** https://valentinabansko.com/
-- **Rating:** 4.7 from 106 Google reviews
+- **Rating:** 4.6 from 108 Google reviews
 
 ## Rates
 

@@ -1,11 +1,11 @@
 # Coliving Tenerife - Villa La Laguna
 
-> Coliving in Santa Cruz de Tenerife, Spain. Last updated September 1, 2026.
+> Coliving in Santa Cruz de Tenerife, Spain. Last updated September 11, 2026.
 
 - **Location:** Santa Cruz de Tenerife, Spain
 - **Type:** Permanent coliving
 - **Price:** On request
-- **Rating:** <a href="https://maps.google.com/?cid=12491269909446122587&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (29 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=12491269909446122587&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (30 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Boutique historical townhouse for slow living and remote work
@@ -15,6 +15,6 @@
 - **Tags:** community, coworking, island
 - **Nearest airports:** Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~2 km; Tenerife Sur Airport (TFS) ~55 km; Gran Canaria Airport (LPA) ~111 km
 - **Website:** http://www.colivingtenerife.net/
-- **Rating:** 4.9 from 29 Google reviews
+- **Rating:** 4.9 from 30 Google reviews
 
 Source: https://colivingdb.com/coliving/coliving-tenerife-villa-la-laguna/

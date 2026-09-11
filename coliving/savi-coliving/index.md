@@ -1,12 +1,12 @@
 # Savi Coliving
 
-> Coliving in Náquera (Valencia), Spain. Last updated September 1, 2026.
+> Coliving in Náquera (Valencia), Spain. Last updated September 11, 2026.
 
 - **Location:** Náquera (Valencia), Spain
 - **Type:** Permanent coliving
 - **Price:** from €800/mo
 - **Price note:** single rooms from ~€800/month, most from €1,100
-- **Rating:** <a href="https://maps.google.com/?cid=8220068475405040602&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (52 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=8220068475405040602&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (58 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 500 Mbps down <small>· operator-reported</small><br><small>&#x27;Starlink WiFi up to 500Mbps&#x27;, dual screens at every coworking desk</small>
@@ -17,7 +17,7 @@
 - **Tags:** mountain, rural, coworking, community, startup
 - **Nearest airports:** Valencia Airport (VLC) ~20 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~285 km; Castellón-Costa Azahar Airport (CDT) ~74 km
 - **Website:** https://savicoliving.com/
-- **Rating:** 4.9 from 52 Google reviews
+- **Rating:** 4.9 from 58 Google reviews
 
 ## Rates
 

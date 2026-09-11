@@ -1,11 +1,11 @@
 # Noma Collective — Hoi An
 
-> Coliving in Hoi An, Vietnam. Last updated September 1, 2026.
+> Coliving in Hoi An, Vietnam. Last updated September 11, 2026.
 
 - **Location:** Hoi An, Vietnam
 - **Type:** Pop-up / dated edition
 - **Dates:** Jan 10 - Feb 7, 2027
-- **Price:** from $1,690/event
+- **Price:** from $2,290/event
 - **Price note:** pp, all fees and taxes included
 - **Room types:** —
 - **Dorm available:** No

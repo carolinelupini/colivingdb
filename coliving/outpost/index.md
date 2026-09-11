@@ -1,12 +1,12 @@
 # Outpost
 
-> Coliving in Canggu, Bali, Indonesia. Last updated September 1, 2026.
+> Coliving in Canggu, Bali, Indonesia. Last updated September 11, 2026.
 
 - **Location:** Canggu, Bali, Indonesia
 - **Type:** Permanent coliving
 - **Price:** from $1,095/mo
 - **Price note:** private rooms from $1,095/month
-- **Rating:** <a href="https://maps.google.com/?cid=7305650197426571912&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (320 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=7305650197426571912&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (323 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** community-driven coliving with cowork spaces
@@ -18,7 +18,7 @@
 - **Nearest airports:** Denpasar I Gusti Ngurah Rai International Airport (DPS) ~11 km; Lombok International Airport (LOP) ~124 km
 - **Getting there:** Ngurah Rai International (DPS) is roughly 30-45 minutes by car depending on traffic.
 - **Website:** https://destinationoutpost.co/
-- **Rating:** 4.7 from 320 Google reviews
+- **Rating:** 4.7 from 323 Google reviews
 
 ## Rates
 

@@ -1,12 +1,12 @@
 # Outsite Medellin - El Poblado
 
-> Coliving in Medellin, Colombia. Last updated September 1, 2026.
+> Coliving in Medellin, Colombia. Last updated September 11, 2026.
 
 - **Location:** Medellin, Colombia
 - **Type:** Permanent coliving
 - **Price:** from $955/mo
 - **Price note:** est. from ~$68/night; fixed monthly rates available
-- **Rating:** <a href="https://maps.google.com/?cid=15930307732693635066&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 2.6 (5 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=15930307732693635066&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 3.6 (11 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** 'Bright, airy living in a leafy neighborhood,' blending modern design with greenery — 'the perfect mix of urban convenience and tropical calm' in Medellín's most social neighborhood.
@@ -17,7 +17,7 @@
 - **Tags:** city, coworking, community
 - **Nearest airports:** Enrique Olaya Herrera Airport (EOH) ~3 km; El Dorado International Airport (BOG) ~230 km; Jose Maria Córdova International Airport (MDE) ~17 km
 - **Website:** https://www.outsite.co/locations/medellin-el-poblado
-- **Rating:** 2.6 from 5 Google reviews
+- **Rating:** 3.6 from 11 Google reviews
 
 ## Rates
 

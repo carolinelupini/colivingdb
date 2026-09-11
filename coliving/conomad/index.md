@@ -1,12 +1,12 @@
 # CoNomad
 
-> Coliving in Corralejo, Spain. Last updated September 1, 2026.
+> Coliving in Corralejo, Spain. Last updated September 11, 2026.
 
 - **Location:** Corralejo, Spain
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** rates not published; monthly bookings only
-- **Rating:** <a href="https://maps.google.com/?cid=9550345403064005468&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (106 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=9550345403064005468&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (107 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** International, safe and peaceful space for remote workers
@@ -16,7 +16,7 @@
 - **Tags:** island, beach, surf, coworking, community, wellness
 - **Nearest airports:** Fuerteventura Airport (FUE) ~31 km; César Manrique-Lanzarote Airport (ACE) ~35 km
 - **Website:** https://conomad.es/en/coliving/
-- **Rating:** 4.7 from 106 Google reviews
+- **Rating:** 4.7 from 107 Google reviews
 
 ## About
 

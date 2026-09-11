@@ -1,6 +1,6 @@
 # Nomad Cruise — NC18 Caribbean Islands
 
-> Coliving in Barcelona → Caribbean. Last updated September 1, 2026.
+> Coliving in Barcelona → Caribbean. Last updated September 11, 2026.
 
 - **Location:** Barcelona → Caribbean
 - **Type:** Pop-up / dated edition

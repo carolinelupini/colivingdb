@@ -1,12 +1,12 @@
 # Nomad's Ville (Mirante de Pipa)
 
-> Coliving in Praia da Pipa, Brazil. Last updated September 1, 2026.
+> Coliving in Praia da Pipa, Brazil. Last updated September 11, 2026.
 
 - **Location:** Praia da Pipa, Brazil
 - **Type:** Permanent coliving
 - **Price:** from BRL 3,900/mo
 - **Price note:** From R$3,900/month. Rates vary with season and availability, so this is a starting point — check with them for real dates.
-- **Rating:** <a href="https://maps.google.com/?cid=17269873536458194234&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (738 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=17269873536458194234&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (742 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** A retreat designed exclusively for digital nomads to work amid nature and sea views, balancing productivity with sunset-bar leisure
@@ -18,7 +18,7 @@
 - **Nearest airports:** Rio Grande do Norte/São Gonçalo do Amarante–Governador Aluízio Alves International Airport (NAT) ~62 km; Presidente Castro Pinto International Airport (JPA) ~103 km; Presidente João Suassuna Airport (CPV) ~149 km
 - **Getting there:** Natal Airport (NAT) is the nearest airport, roughly 1.5-2 hours by car/shuttle.
 - **Website:** https://www.mirantedepipa.com.br/en/refuge-of-digital-nomads/
-- **Rating:** 4.7 from 738 Google reviews
+- **Rating:** 4.7 from 742 Google reviews
 
 ## Rates
 

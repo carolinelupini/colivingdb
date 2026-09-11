@@ -1,12 +1,12 @@
 # Kiệt Residence
 
-> Coliving in Hoi An, Vietnam. Last updated September 1, 2026.
+> Coliving in Hoi An, Vietnam. Last updated September 11, 2026.
 
 - **Location:** Hoi An, Vietnam
 - **Type:** Permanent coliving
 - **Price:** from $449/mo
 - **Price note:** from BGN 771/mo dorm ≈ €394; privates up to ~€1,104
-- **Rating:** <a href="https://maps.google.com/?cid=5341532801769262967&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (44 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=5341532801769262967&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (43 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Wi-Fi (on-site):** 150 Mbps down <small>· operator-reported</small>
@@ -16,7 +16,7 @@
 - **Tags:** beach, community, coworking
 - **Nearest airports:** Da Nang International Airport (DAD) ~23 km; Phu Bai International Airport (HUI) ~89 km
 - **Website:** https://coliving.com/spaces/3wdyi4jg
-- **Rating:** 4.5 from 44 Google reviews
+- **Rating:** 4.6 from 43 Google reviews
 
 ## Rates
 

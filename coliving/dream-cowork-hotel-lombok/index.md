@@ -1,11 +1,11 @@
 # Dream Cowork Hotel Lombok
 
-> Coliving in Kuta Lombok, Indonesia. Last updated September 1, 2026.
+> Coliving in Kuta Lombok, Indonesia. Last updated September 11, 2026.
 
 - **Location:** Kuta Lombok, Indonesia
 - **Type:** Permanent coliving
 - **Price:** On request
-- **Rating:** <a href="https://maps.google.com/?cid=7858861650071848918&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.1 (402 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=7858861650071848918&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.1 (444 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Vibe:** calm, connected tropical island work retreat
@@ -18,7 +18,7 @@
 - **Nearest airports:** Lombok International Airport (LOP) ~16 km; Denpasar I Gusti Ngurah Rai International Airport (DPS) ~123 km
 - **Getting there:** Lombok International (LOP), ~35–45 min drive — approximate, not stated on site.
 - **Website:** https://dreamcoworkhotels.com/
-- **Rating:** 4.1 from 402 Google reviews
+- **Rating:** 4.1 from 444 Google reviews
 
 ## About
 

@@ -1,12 +1,12 @@
 # Outsite Algarve - Sagres
 
-> Coliving in Sagres, Portugal. Last updated September 1, 2026.
+> Coliving in Sagres, Portugal. Last updated September 11, 2026.
 
 - **Location:** Sagres, Portugal
 - **Type:** Permanent coliving
 - **Price:** from €800/mo
 - **Price note:** from EUR800/month winter rate
-- **Rating:** <a href="https://maps.google.com/?cid=3354911249333557472&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (23 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=3354911249333557472&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (25 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 400 Mbps down <small>· operator-reported</small>
@@ -17,7 +17,7 @@
 - **Tags:** beach, surf, coworking, community
 - **Nearest airports:** Portimão Airport (PRM) ~35 km; Lisbon Humberto Delgado Airport (LIS) ~198 km; Faro - Gago Coutinho International Airport (FAO) ~86 km
 - **Website:** https://www.outsite.co/locations/sagres
-- **Rating:** 4.4 from 23 Google reviews
+- **Rating:** 4.4 from 25 Google reviews
 
 ## Rates
 

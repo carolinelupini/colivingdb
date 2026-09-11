@@ -1,12 +1,11 @@
 # Neighbourgood Sutter
 
-> Coliving in San Francisco, United States. Last updated September 1, 2026.
+> Coliving in San Francisco, United States. Last updated September 11, 2026.
 
 - **Location:** San Francisco, United States
 - **Type:** Permanent coliving
 - **Price:** from $7,860/mo
 - **Price note:** est.; former Mansion on Sutter, nightly from ~$262
-- **Rating:** <a href="https://maps.google.com/?cid=3969824695504617731&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (192 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** boutique Victorian charm with contemporary luxury
@@ -20,7 +19,6 @@
 - **Nearest airports:** Oakland San Francisco Bay Airport (OAK) ~19 km; San Francisco International Airport (SFO) ~19 km; San Carlos Airport (SQL) ~34 km
 - **Getting there:** San Francisco International (SFO) — approximate, not stated on site.
 - **Website:** https://www.neighbourgood.co
-- **Rating:** 4.6 from 192 Google reviews
 
 ## Rates
 

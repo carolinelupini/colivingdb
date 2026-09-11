@@ -1,12 +1,12 @@
 # Coliving in San José, Costa Rica
 
-> 4 colivings in San José, Costa Rica, prices from €289 to €367 per month – last updated September 1, 2026.
+> 4 colivings in San José, Costa Rica, prices from €289 to €367 per month – last updated September 11, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Unity Coliving | San José | from $330/mo | 4.6 (68) | private | — | Permanent |
+| Unity Coliving | San José | from $330/mo | 4.6 (70) | private | — | Permanent |
 | Stolas Coliving | San José | from $420/mo | 4.7 (55) | private | — | Permanent |
 | Stolas Garden | San José | from $420/mo | 4.5 (2) | private | — | Permanent |
 | Protopia Community | San José | On request | 4.9 (18) | private, dorm | 14 nights | Permanent |

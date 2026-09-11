@@ -1,12 +1,12 @@
 # Wild Oasis Algarve
 
-> Coliving in Monchique, Portugal. Last updated September 1, 2026.
+> Coliving in Monchique, Portugal. Last updated September 11, 2026.
 
 - **Location:** Monchique, Portugal
 - **Type:** Permanent coliving
 - **Price:** from €650/mo
 - **Price note:** private rooms from €650/month (coliving.community)
-- **Rating:** <a href="https://maps.google.com/?cid=13225568788441282041&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (73 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=13225568788441282041&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (74 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Magical, remote location set in nature and mountains
@@ -16,7 +16,7 @@
 - **Tags:** rural, mountain, community, eco, wellness
 - **Nearest airports:** Portimão Airport (PRM) ~19 km; Lisbon Humberto Delgado Airport (LIS) ~170 km; Faro - Gago Coutinho International Airport (FAO) ~61 km
 - **Website:** https://coliving.community/at/wild-oasis
-- **Rating:** 4.6 from 73 Google reviews
+- **Rating:** 4.6 from 74 Google reviews
 
 ## Rates
 

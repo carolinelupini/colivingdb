@@ -1,12 +1,12 @@
 # Cloud Citadel Coliving
 
-> Coliving in Briançon, France. Last updated September 1, 2026.
+> Coliving in Briançon, France. Last updated September 11, 2026.
 
 - **Location:** Briançon, France
 - **Type:** Permanent coliving
 - **Price:** from €966/mo
 - **Price note:** Japanese dorm €966/28 days (spring); dorm from €39/night autumn
-- **Rating:** <a href="https://maps.google.com/?cid=8968250624006441913&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (78 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=8968250624006441913&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (80 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm, studio
 - **Dorm available:** Yes
 - **Minimum stay:** 14 nights
@@ -16,7 +16,7 @@
 - **Tags:** mountain, ski, coworking, community
 - **Nearest airports:** Turin Airport (TRN) ~86 km; Cuneo International Airport (CUF) ~87 km; Chambéry Aix les Bains airport (CMF) ~101 km
 - **Website:** https://cloudcitadel.co/
-- **Rating:** 4.9 from 78 Google reviews
+- **Rating:** 5.0 from 80 Google reviews
 
 ## Rates
 

@@ -1,12 +1,12 @@
 # Outsite Copenhagen (Zoku)
 
-> Coliving in Copenhagen, Denmark. Last updated September 1, 2026.
+> Coliving in Copenhagen, Denmark. Last updated September 11, 2026.
 
 - **Location:** Copenhagen, Denmark
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** nightly private, add dates for rate
-- **Rating:** <a href="https://maps.google.com/?cid=11504420508262308759&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (1503 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=11504420508262308759&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (1555 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 100 Mbps down <small>· operator-reported</small>
@@ -20,7 +20,7 @@
 - **Nearest airports:** Copenhagen Kastrup Airport (CPH) ~9 km; Copenhagen Roskilde Airport (RKE) ~29 km; Malmö Sturup Airport (MMX) ~53 km
 - **Getting there:** Copenhagen Airport (CPH), ~12 min.
 - **Website:** https://www.outsite.co/locations/copenhagen-zoku
-- **Rating:** 4.7 from 1503 Google reviews
+- **Rating:** 4.7 from 1555 Google reviews
 
 ## About
 

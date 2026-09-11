@@ -1,12 +1,12 @@
 # Onda Co-Living
 
-> Coliving in Ferrel (Baleal), Peniche, Portugal. Last updated September 1, 2026.
+> Coliving in Ferrel (Baleal), Peniche, Portugal. Last updated September 11, 2026.
 
 - **Location:** Ferrel (Baleal), Peniche, Portugal
 - **Type:** Permanent coliving
 - **Price:** from €1,470/mo
 - **Price note:** €1,470/month (from €68/night)
-- **Rating:** <a href="https://maps.google.com/?cid=8634409562765290527&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (27 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=8634409562765290527&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (30 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 800 Mbps down <small>· operator-reported</small>
@@ -16,8 +16,8 @@
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** beach, surf, coworking, community, wellness
 - **Nearest airports:** Lisbon Humberto Delgado Airport (LIS) ~68 km; Cascais Airport (CAT) ~72 km
-- **Website:** https://www.mapmelon.com/colivings/onda-co-living?ref=colivingdb
-- **Rating:** 5.0 from 27 Google reviews
+- **Website:** https://www.ondacoliving.com/
+- **Rating:** 5.0 from 30 Google reviews
 
 ## Rates
 

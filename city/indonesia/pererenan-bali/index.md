@@ -1,11 +1,11 @@
 # Coliving in Pererenan, Bali, Indonesia
 
-> 1 colivings in Pererenan, Bali, Indonesia – last updated September 1, 2026.
+> 1 colivings in Pererenan, Bali, Indonesia – last updated September 11, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Outsite Bali - Pererenan | Pererenan, Bali | On request | 4.4 (80) | private, shared | — | Permanent |
+| Outsite Bali - Pererenan | Pererenan, Bali | On request | 4.3 (81) | private, shared | — | Permanent |
 
 Source: https://colivingdb.com/city/indonesia/pererenan-bali/

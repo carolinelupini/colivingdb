@@ -1,12 +1,12 @@
 # WiFi Tribe — La Paz
 
-> Coliving in La Paz, Bolivia. Last updated September 1, 2026.
+> Coliving in La Paz, Bolivia. Last updated September 11, 2026.
 
 - **Location:** La Paz, Bolivia
 - **Type:** Pop-up / dated edition
 - **Dates:** Oct 16 - Nov 13, 2026
 - **Price:** from $1,590/mo
-- **Price note:** from $1,590 per chapter (about four weeks) for a shared room at the entry Member tier; returning members pay less and private rooms cost more — full tier table below
+- **Price note:** FULLY BOOKED (per WiFi Tribe, September 11, 2026) — from $1,590 per chapter (about four weeks) for a shared room at the entry Member tier; returning members pay less and private rooms cost more — full tier table below
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 400 Mbps down <small>· operator-reported</small><br><small>Up to 400 Mbps</small>

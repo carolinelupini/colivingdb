@@ -1,12 +1,12 @@
 # Tulia Guesthouse
 
-> Coliving in Los Realejos, Spain. Last updated September 1, 2026.
+> Coliving in Los Realejos, Spain. Last updated September 11, 2026.
 
 - **Location:** Los Realejos, Spain
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** nightly from ~€41pp; 20% off monthly stays
-- **Rating:** <a href="https://maps.google.com/?cid=4326956000851281722&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (22 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=4326956000851281722&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (24 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** A basecamp for outdoor lovers and slow travelers in an authentic Canarian house in North Tenerife, close to local people, nature, and tradition.
@@ -16,7 +16,7 @@
 - **Tags:** community, coworking, island, rural
 - **Nearest airports:** Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~26 km; Tenerife Sur Airport (TFS) ~37 km; La Palma Airport (SPC) ~118 km
 - **Website:** https://tuliaguesthouse.com
-- **Rating:** 4.5 from 22 Google reviews
+- **Rating:** 4.5 from 24 Google reviews
 
 ## About
 

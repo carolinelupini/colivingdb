@@ -1,12 +1,12 @@
 # Coliving in Ferrel (Baleal), Peniche, Portugal
 
-> 1 colivings in Ferrel (Baleal), Peniche, Portugal, prices from €1,470 to €1,470 per month – last updated September 1, 2026.
+> 1 colivings in Ferrel (Baleal), Peniche, Portugal, prices from €1,470 to €1,470 per month – last updated September 11, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Onda Co-Living | Ferrel (Baleal), Peniche | from €1,470/mo | 5.0 (27) | private | 14 nights | Permanent |
+| Onda Co-Living | Ferrel (Baleal), Peniche | from €1,470/mo | 5.0 (30) | private | 14 nights | Permanent |
 
 ## Price distribution
 

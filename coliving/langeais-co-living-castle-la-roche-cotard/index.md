@@ -1,12 +1,12 @@
 # Langeais Co-Living Castle (La Roche-Cotard)
 
-> Coliving in Langeais, France. Last updated September 1, 2026.
+> Coliving in Langeais, France. Last updated September 11, 2026.
 
 - **Location:** Langeais, France
 - **Type:** Permanent coliving
 - **Price:** from €655/mo
 - **Price note:** price on request
-- **Rating:** <a href="https://maps.google.com/?cid=11940381359591249416&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (16 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=11940381359591249416&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (17 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Château coliving pairing a caring community and teleworking library with wellness-focused tranquility in the Loire Valley
@@ -16,7 +16,7 @@
 - **Tags:** coworking, community, rural, wellness
 - **Nearest airports:** Tours Val de Loire Airport (TUF) ~26 km; Charles de Gaulle International Airport (CDG) ~245 km; Le Mans-Arnage Airport (LME) ~71 km
 - **Website:** https://www.larochecotard.com/en/home/
-- **Rating:** 5.0 from 16 Google reviews
+- **Rating:** 5.0 from 17 Google reviews
 
 ## Rates
 

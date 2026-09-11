@@ -1,12 +1,12 @@
 # Lemon Bros Coliving
 
-> Coliving in Ribeira Grande, São Miguel, Portugal. Last updated September 1, 2026.
+> Coliving in Ribeira Grande, São Miguel, Portugal. Last updated September 11, 2026.
 
 - **Location:** Ribeira Grande, São Miguel, Portugal
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** pricing not published; est. mid-range private rooms
-- **Rating:** <a href="https://maps.google.com/?cid=13609923248219951486&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (60 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=13609923248219951486&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (64 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** 'Adventure coliving' with 'private rooms, a dedicated coworking space, surf, hikes and a small community of remote workers,' run by three brothers, right on the beach.
@@ -16,7 +16,7 @@
 - **Tags:** island, surf, community, coworking
 - **Nearest airports:** João Paulo II Airport (PDL) ~18 km; Santa Maria Airport (SMA) ~99 km
 - **Website:** https://lemonbrosazores.com/
-- **Rating:** 4.9 from 60 Google reviews
+- **Rating:** 4.9 from 64 Google reviews
 
 ## About
 

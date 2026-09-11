@@ -1,12 +1,12 @@
 # Nomadico Coliving Hiriketiya
 
-> Coliving in Hiriketiya (Nilwella), Sri Lanka. Last updated September 1, 2026.
+> Coliving in Hiriketiya (Nilwella), Sri Lanka. Last updated September 11, 2026.
 
 - **Location:** Hiriketiya (Nilwella), Sri Lanka
 - **Type:** Permanent coliving
 - **Price:** from €436/mo
 - **Price note:** from €750/mo (operator site); mapmelon €960 discounted
-- **Rating:** <a href="https://maps.google.com/?cid=6754065876422474822&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (38 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=6754065876422474822&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (42 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Relaxed but buzzing island community where jungle cliffs meet warm waves
@@ -16,7 +16,7 @@
 - **Tags:** beach, surf, coworking, community, wellness
 - **Nearest airports:** Koggala Airport (KCT) ~42 km; Bandaranaike International Colombo Airport (CMB) ~161 km; Mattala Rajapaksa International Airport (HRI) ~58 km
 - **Website:** https://www.nomadico.io/
-- **Rating:** 5.0 from 38 Google reviews
+- **Rating:** 5.0 from 42 Google reviews
 
 ## Rates
 

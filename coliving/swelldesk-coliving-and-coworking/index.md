@@ -1,12 +1,12 @@
 # Swelldesk Coliving & Coworking
 
-> Coliving in Baleal, Peniche, Portugal. Last updated September 1, 2026.
+> Coliving in Baleal, Peniche, Portugal. Last updated September 11, 2026.
 
 - **Location:** Baleal, Peniche, Portugal
 - **Type:** Permanent coliving
 - **Price:** from €960/mo
 - **Price note:** from EUR32/night (Farol room), ~EUR960/mo
-- **Rating:** <a href="https://maps.google.com/?cid=11010198859690122320&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (20 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=11010198859690122320&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (21 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** —
@@ -15,7 +15,7 @@
 - **Tags:** surf, beach, coworking, community
 - **Nearest airports:** Lisbon Humberto Delgado Airport (LIS) ~68 km; Cascais Airport (CAT) ~72 km
 - **Website:** https://www.swelldesk.com/
-- **Rating:** 4.9 from 20 Google reviews
+- **Rating:** 4.9 from 21 Google reviews
 
 ## Rates
 

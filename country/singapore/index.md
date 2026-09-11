@@ -1,12 +1,12 @@
 # Coliving in Singapore
 
-> 1 colivings in Singapore, prices from €1,800 to €1,800 per month – last updated September 1, 2026.
+> 1 colivings in Singapore, prices from €1,800 to €1,800 per month – last updated September 11, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Outsite Singapore (Alma House) | Singapore | from €1,800/mo | 4.2 (185) | private | 6 nights | Permanent |
+| Outsite Singapore (Alma House) | Singapore | from €1,800/mo | 4.2 (193) | private | 6 nights | Permanent |
 
 ## Price distribution
 

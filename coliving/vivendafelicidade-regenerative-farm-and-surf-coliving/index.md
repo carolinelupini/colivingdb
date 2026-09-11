@@ -1,12 +1,12 @@
 # VivendaFelicidade Regenerative Farm & Surf Coliving
 
-> Coliving in Sintra (Tojeira), Portugal. Last updated September 1, 2026.
+> Coliving in Sintra (Tojeira), Portugal. Last updated September 11, 2026.
 
 - **Location:** Sintra (Tojeira), Portugal
 - **Type:** Permanent coliving
 - **Price:** from €1,040/mo
 - **Price note:** EUR230/week, ~EUR920/mo on 3-mo stay
-- **Rating:** <a href="https://maps.google.com/?cid=15997334694397107264&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (47 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=15997334694397107264&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (51 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 340 Mbps down <small>· operator-reported</small>
@@ -17,7 +17,7 @@
 - **Tags:** surf, eco, rural, beach, coworking, community, wellness
 - **Nearest airports:** Cascais Airport (CAT) ~14 km; Lisbon Humberto Delgado Airport (LIS) ~25 km
 - **Website:** https://www.vivendafelicidade.org/coliving
-- **Rating:** 5.0 from 47 Google reviews
+- **Rating:** 5.0 from 51 Google reviews
 
 ## Rates
 

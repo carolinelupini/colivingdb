@@ -1,11 +1,11 @@
 # Dot Coliv
 
-> Coliving in Dubai, United Arab Emirates. Last updated September 1, 2026.
+> Coliving in Dubai, United Arab Emirates. Last updated September 11, 2026.
 
 - **Location:** Dubai, United Arab Emirates
 - **Type:** Permanent coliving
 - **Price:** from AED 1,000/mo
-- **Rating:** <a href="https://maps.google.com/?cid=8041276839613101444&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (61 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=8041276839613101444&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (65 reviews)</a> <small>· Google</small>
 - **Room types:** shared, private
 - **Dorm available:** No
 - **Minimum stay:** —
@@ -14,7 +14,7 @@
 - **Tags:** community, city
 - **Nearest airports:** Dubai International Airport (DXB) ~4 km; Sharjah International Airport (SHJ) ~15 km; Al Maktoum International Airport (DWC) ~49 km
 - **Website:** https://dotcoliv.com/
-- **Rating:** 4.4 from 61 Google reviews
+- **Rating:** 4.5 from 65 Google reviews
 
 ## Rates
 

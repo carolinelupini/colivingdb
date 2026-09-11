@@ -1,11 +1,11 @@
 # Wild Souls Coliving
 
-> Coliving in Ericeira, Portugal. Last updated September 1, 2026.
+> Coliving in Ericeira, Portugal. Last updated September 11, 2026.
 
 - **Location:** Ericeira, Portugal
 - **Type:** Permanent coliving
 - **Price:** On request
-- **Rating:** <a href="https://maps.google.com/?cid=2843576997518348241&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (25 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=2843576997518348241&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (31 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Surf-in-the-morning, work-with-an-ocean-view coliving that draws 'people from every corner of the world,' with skill-shares, weekly family dinners and playful social events.
@@ -15,6 +15,6 @@
 - **Tags:** surf, coworking, community
 - **Nearest airports:** Cascais Airport (CAT) ~33 km; Lisbon Humberto Delgado Airport (LIS) ~36 km
 - **Website:** https://wildsoulscoliving.com/
-- **Rating:** 5.0 from 25 Google reviews
+- **Rating:** 5.0 from 31 Google reviews
 
 Source: https://colivingdb.com/coliving/wild-souls-coliving/

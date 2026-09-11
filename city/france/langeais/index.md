@@ -1,12 +1,12 @@
 # Coliving in Langeais, France
 
-> 1 colivings in Langeais, France, prices from €655 to €655 per month – last updated September 1, 2026.
+> 1 colivings in Langeais, France, prices from €655 to €655 per month – last updated September 11, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Langeais Co-Living Castle (La Roche-Cotard) | Langeais | from €655/mo | 5.0 (16) | private | — | Permanent |
+| Langeais Co-Living Castle (La Roche-Cotard) | Langeais | from €655/mo | 5.0 (17) | private | — | Permanent |
 
 ## Price distribution
 

@@ -1,6 +1,6 @@
 # Coliving in Quito, Ecuador
 
-> 3 colivings in Quito, Ecuador, prices from €310 to €342 per month – last updated September 1, 2026.
+> 3 colivings in Quito, Ecuador, prices from €310 to €1,284 per month – last updated September 11, 2026.
 
 ## All colivings
 
@@ -8,16 +8,17 @@
 |---|---|---|---|---|---|---|
 | Luis Cordero Residence | Quito | from $300/mo | — | private | 30 nights | Permanent |
 | Mariscal Sucre Residence | Quito | from $391/mo | — | private, shared | 30 nights | Permanent |
-| WiFi Tribe — Quito | Quito | On request | — | private, shared | 28 nights | Pop-up |
+| WiFi Tribe — Quito | Quito | from $1,480/mo | — | private, shared | 28 nights | Pop-up |
 
 ## Price distribution
 
 | Band (EUR/mo) | Colivings |
 |---|---|
 | 0–500 | 2 |
+| 1200–2000 | 1 |
 
 ## Upcoming pop-ups
 
-- WiFi Tribe — Quito — Apr 23 - May 21, 2027
+- WiFi Tribe — Quito — May 28 - Jun 25, 2027
 
 Source: https://colivingdb.com/city/ecuador/quito/

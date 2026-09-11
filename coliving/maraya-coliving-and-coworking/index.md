@@ -1,12 +1,12 @@
 # Maraya Coliving & Coworking
 
-> Coliving in Candelaria, Tenerife, Spain. Last updated September 1, 2026.
+> Coliving in Candelaria, Tenerife, Spain. Last updated September 11, 2026.
 
 - **Location:** Candelaria, Tenerife, Spain
 - **Type:** Permanent coliving
 - **Price:** from €940/mo
 - **Price note:** Shared room from €940/month (2025–26 season), before the monthly discount. A 6-bed shared dorm is also available. Minimum stay 14 nights in winter, more flexible in summer.
-- **Rating:** <a href="https://maps.google.com/?cid=307747229006359696&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (98 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=307747229006359696&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (100 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared, dorm
 - **Dorm available:** Yes
 - **Wi-Fi (on-site):** 642 Mbps down <small>· operator-reported</small><br><small>Operator speedtest 2026-07-16: 642 Mbps down / 484 up, 26 ms.</small>
@@ -17,7 +17,7 @@
 - **Tags:** coworking, community, surf, island, beach, wellness
 - **Nearest airports:** Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~15 km; Tenerife Sur Airport (TFS) ~39 km; Gran Canaria Airport (LPA) ~107 km
 - **Website:** https://www.marayacoliving.com
-- **Rating:** 4.9 from 98 Google reviews
+- **Rating:** 4.9 from 100 Google reviews
 
 ## Rates
 

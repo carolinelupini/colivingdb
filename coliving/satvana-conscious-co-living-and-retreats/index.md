@@ -1,12 +1,12 @@
 # Satvana Conscious Co-living & Retreats
 
-> Coliving in Alentejo, Portugal. Last updated September 1, 2026.
+> Coliving in Alentejo, Portugal. Last updated September 11, 2026.
 
 - **Location:** Alentejo, Portugal
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** prices not published
-- **Rating:** <a href="https://maps.google.com/?cid=10490577631420821259&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (6 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=10490577631420821259&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (15 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** A gently restored off-grid sanctuary in Alentejo where silence, nature, and community support inner work and transformation for writers, artists, digital nomads, and healers seeking presence away from noise and screens.
@@ -16,7 +16,7 @@
 - **Tags:** rural, eco, community, wellness
 - **Nearest airports:** Portimão Airport (PRM) ~53 km; Lisbon Humberto Delgado Airport (LIS) ~146 km; Faro - Gago Coutinho International Airport (FAO) ~75 km
 - **Website:** https://satvana.org/
-- **Rating:** 5.0 from 6 Google reviews
+- **Rating:** 4.9 from 15 Google reviews
 
 ## About
 

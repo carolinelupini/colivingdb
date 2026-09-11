@@ -1,6 +1,6 @@
 # Tursi Digital Nomads — Matera
 
-> Coliving in Matera, Italy. Last updated September 1, 2026.
+> Coliving in Matera, Italy. Last updated September 11, 2026.
 
 - **Location:** Matera, Italy
 - **Type:** Pop-up / dated edition
@@ -9,7 +9,6 @@
 - **Price note:** standard private bedroom, per person, 3-week program; premium bedroom with private bath €1,199
 - **Room types:** —
 - **Dorm available:** No
-- **Vibe:** Coastal Greek retreat balancing work with creativity-fostering activities, bonding trips, and slow sunsets.
 - **Minimum stay:** —
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

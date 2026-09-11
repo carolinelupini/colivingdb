@@ -1,12 +1,12 @@
 # Coliving in Cabrero, Spain
 
-> 1 colivings in Cabrero, Spain, prices from €870 to €870 per month – last updated September 1, 2026.
+> 1 colivings in Cabrero, Spain, prices from €870 to €870 per month – last updated September 11, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| La Toza Coworking & Coliving | Cabrero | from €870/mo | 5.0 (4) | private | 15 nights | Permanent |
+| La Toza Coworking & Coliving | Cabrero | from €870/mo | 5.0 (7) | private | 15 nights | Permanent |
 
 ## Price distribution
 

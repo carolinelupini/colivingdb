@@ -1,12 +1,12 @@
 # Calergi Residence
 
-> Coliving in Atsipopoulo / Rethymno (Crete), Greece. Last updated September 1, 2026.
+> Coliving in Atsipopoulo / Rethymno (Crete), Greece. Last updated September 11, 2026.
 
 - **Location:** Atsipopoulo / Rethymno (Crete), Greece
 - **Type:** Permanent coliving
 - **Price:** from €800/mo
 - **Price note:** from ~€800/mo studio (BGN 1,561 conv.)
-- **Rating:** <a href="https://maps.google.com/?cid=7259064230283207513&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (85 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=7259064230283207513&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (90 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
@@ -15,7 +15,7 @@
 - **Tags:** coworking, community
 - **Nearest airports:** Chania International Airport (CHQ) ~33 km; Athens Eleftherios Venizelos International Airport (ATH) ~291 km; Heraklion International Nikos Kazantzakis Airport (HER) ~67 km
 - **Website:** https://calergi.gr/
-- **Rating:** 4.6 from 85 Google reviews
+- **Rating:** 4.6 from 90 Google reviews
 
 ## Rates
 

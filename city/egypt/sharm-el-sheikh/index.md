@@ -1,12 +1,12 @@
 # Coliving in Sharm El-Sheikh, Egypt
 
-> 1 colivings in Sharm El-Sheikh, Egypt, prices from €526 to €526 per month – last updated September 1, 2026.
+> 1 colivings in Sharm El-Sheikh, Egypt, prices from €526 to €526 per month – last updated September 11, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Roma Residence (Serenity Lodge) | Sharm El-Sheikh | from $600/mo | 4.3 (210) | private, dorm | 30 nights | Permanent |
+| Roma Residence (Serenity Lodge) | Sharm El-Sheikh | from $600/mo | 4.3 (232) | private, dorm | 30 nights | Permanent |
 
 ## Price distribution
 

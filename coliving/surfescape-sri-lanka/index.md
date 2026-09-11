@@ -1,11 +1,12 @@
 # Surfescape Sri Lanka
 
-> Coliving in Midigama, Sri Lanka. Last updated September 1, 2026.
+> Coliving in Midigama, Sri Lanka. Last updated September 11, 2026.
 
 - **Location:** Midigama, Sri Lanka
 - **Type:** Permanent coliving
 - **Price:** from €900/mo
 - **Price note:** from €900/month
+- **Rating:** <a href="https://maps.google.com/?cid=3224898053612710682&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.2 (85 reviews)</a> <small>· Google</small>
 - **Room types:** —
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 100 Mbps down <small>· operator-reported</small><br><small>Operator-reported, 2026-08-05.</small>
@@ -14,6 +15,7 @@
 - **Tags:** beach, surf, coworking, community
 - **Area:** Midigama, a fishing village on the south coast between Weligama and Ahangama, on one of Asia's best-known surf stretches.
 - **Website:** https://www.surfescape.com/destinations/sri-lanka
+- **Rating:** 4.2 from 85 Google reviews
 
 ## Rates
 

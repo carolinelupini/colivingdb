@@ -1,12 +1,12 @@
 # Coco Surfhouse
 
-> Coliving in Corralejo, Fuerteventura, Spain. Last updated September 1, 2026.
+> Coliving in Corralejo, Fuerteventura, Spain. Last updated September 11, 2026.
 
 - **Location:** Corralejo, Fuerteventura, Spain
 - **Type:** Permanent coliving
 - **Price:** from €840/mo
 - **Price note:** from EUR28/night dorm bed, EUR50-55/night private
-- **Rating:** <a href="https://maps.google.com/?cid=7169270636620208468&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (81 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=7169270636620208468&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (84 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Vibe:** Live wireless, live Coco — remote work meets surf leisure lifestyle
@@ -16,7 +16,7 @@
 - **Tags:** beach, surf, coworking, community, island, wellness
 - **Nearest airports:** Fuerteventura Airport (FUE) ~31 km; César Manrique-Lanzarote Airport (ACE) ~35 km
 - **Website:** https://cocosurfhouse.com/
-- **Rating:** 5.0 from 81 Google reviews
+- **Rating:** 5.0 from 84 Google reviews
 
 ## Rates
 

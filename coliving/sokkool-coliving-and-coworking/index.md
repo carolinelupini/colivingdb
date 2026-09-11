@@ -1,12 +1,12 @@
 # Sokkool Coliving & Coworking
 
-> Coliving in Canggu (Berawa), Bali, Indonesia. Last updated September 1, 2026.
+> Coliving in Canggu (Berawa), Bali, Indonesia. Last updated September 11, 2026.
 
 - **Location:** Canggu (Berawa), Bali, Indonesia
 - **Type:** Permanent coliving
 - **Price:** from IDR 880,000/night
 - **Price note:** Price on request; the operator publishes per-night rates only (from IDR 880,000/night single), with 5–15% long-stay discounts
-- **Rating:** <a href="https://maps.google.com/?cid=11358701192485460034&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (177 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=11358701192485460034&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (194 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** surf, share, and connect; productivity meets paradise
@@ -16,7 +16,7 @@
 - **Tags:** beach, surf, coworking, community
 - **Nearest airports:** Denpasar I Gusti Ngurah Rai International Airport (DPS) ~11 km; Lombok International Airport (LOP) ~125 km
 - **Website:** https://sokkool.com/
-- **Rating:** 4.9 from 177 Google reviews
+- **Rating:** 4.9 from 194 Google reviews
 
 ## Rates
 

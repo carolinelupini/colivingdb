@@ -1,12 +1,12 @@
 # Outsite Paris (Zoku)
 
-> Coliving in Paris, France. Last updated September 1, 2026.
+> Coliving in Paris, France. Last updated September 11, 2026.
 
 - **Location:** Paris, France
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** pricing shown only after entering dates
-- **Rating:** <a href="https://maps.google.com/?cid=598150023369955832&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (884 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=598150023369955832&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (906 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 100 Mbps down <small>· operator-reported</small>
@@ -20,7 +20,7 @@
 - **Nearest airports:** Paris-Le Bourget International Airport (LBG) ~12 km; Charles de Gaulle International Airport (CDG) ~22 km; Paris-Orly Airport (ORY) ~18 km
 - **Getting there:** Charles de Gaulle (CDG) is ~27 minutes away.
 - **Website:** https://www.outsite.co/locations/paris-zoku
-- **Rating:** 4.6 from 884 Google reviews
+- **Rating:** 4.6 from 906 Google reviews
 
 ## About
 

@@ -1,6 +1,6 @@
 # Ungsmaløya Residence
 
-> Coliving in Nyksund, Norway. Last updated September 1, 2026.
+> Coliving in Nyksund, Norway. Last updated September 11, 2026.
 
 - **Location:** Nyksund, Norway
 - **Type:** Permanent coliving

@@ -1,12 +1,12 @@
 # WiFi Tribe — Tribe Fest 2027
 
-> Nomad festival in Volterra (Tuscany), Italy. Last updated September 1, 2026.
+> Nomad festival in Volterra (Tuscany), Italy. Last updated September 11, 2026.
 
 - **Location:** Volterra (Tuscany), Italy
 - **Type:** Nomad festival / dated event
 - **Dates:** Sep 4 - 8, 2027
 - **Price:** from $790/event
-- **Price note:** from $790 per person (shared triple) for the five-day festival; shared twin $890, private room $1,690; $300 deposit
+- **Price note:** SOLD OUT (September 11, 2026), waitlist only. Tickets were from $790 per person (shared triple) for the five-day festival; shared twin $890, private room $1,690; $300 deposit
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** WiFi Tribe's community festival — five days of talks, activities and villa life with a hundred-odd tribers on one Tuscan estate.

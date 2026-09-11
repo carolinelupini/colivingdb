@@ -1,13 +1,13 @@
 # Coliving in Lagos, Portugal
 
-> 2 colivings in Lagos, Portugal, prices from €1,420 to €1,420 per month – last updated September 1, 2026.
+> 2 colivings in Lagos, Portugal, prices from €1,420 to €1,420 per month – last updated September 11, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
 | NomaVillage | Lagos | from €1,420/mo | 4.8 (18) | private | 14 nights | Permanent |
-| Algarve Watersport Surf House Coliving | Lagos | On request | 4.9 (697) | private | — | Permanent |
+| Algarve Watersport Surf House Coliving | Lagos | On request | 4.9 (747) | private | — | Permanent |
 
 ## Price distribution
 

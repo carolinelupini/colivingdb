@@ -1,12 +1,12 @@
 # Coliving in Bad Belzig (Klein Glien), Germany
 
-> 1 colivings in Bad Belzig (Klein Glien), Germany, prices from €1,200 to €1,200 per month – last updated September 1, 2026.
+> 1 colivings in Bad Belzig (Klein Glien), Germany, prices from €1,200 to €1,200 per month – last updated September 11, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Coconat | Bad Belzig (Klein Glien) | from €1,200/mo | 4.4 (202) | private, shared | — | Permanent |
+| Coconat | Bad Belzig (Klein Glien) | from €1,200/mo | 4.4 (203) | private, shared | — | Permanent |
 
 ## Price distribution
 

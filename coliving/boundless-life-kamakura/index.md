@@ -1,11 +1,11 @@
 # Boundless Life Kamakura
 
-> Coliving in Kamakura, Japan. Last updated September 1, 2026.
+> Coliving in Kamakura, Japan. Last updated September 11, 2026.
 
 - **Location:** Kamakura, Japan
 - **Type:** Permanent coliving
 - **Price:** from €2,600/mo
-- **Price note:** family bundle (housing+education+coworking); ~€3,000+/mo est., varies by family size/apartment
+- **Price note:** from €2,600/month (the September–December 2027 cohort; January–March 2027 is €2,800 and March–June €3,300) — a family package with children's schooling, housing and coworking
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
@@ -25,6 +25,6 @@ Boundless Life Kamakura does not publish a nightly or weekly rate.
 
 ## About
 
-Fixed Kamakura base sold as scheduled worldschool cohorts (Jan–Mar, Apr–Jun, Sep–Nov 2026); pricing is quoted through the operator's calculator or by contact.
+Fixed Kamakura base sold as scheduled worldschool cohorts: in 2027 they run January 3–March 19, March 25–June 10 and September 15–December 5, plus a summer camp from July 27 to August 21.
 
 Source: https://colivingdb.com/coliving/boundless-life-kamakura/

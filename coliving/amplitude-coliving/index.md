@@ -1,12 +1,12 @@
 # Amplitude Coliving
 
-> Coliving in Puerto Escondido (La Punta), Mexico. Last updated September 1, 2026.
+> Coliving in Puerto Escondido (La Punta), Mexico. Last updated September 11, 2026.
 
 - **Location:** Puerto Escondido (La Punta), Mexico
 - **Type:** Permanent coliving
 - **Price:** from $1,300/mo
 - **Price note:** from $1,300/month May–October, rising to $1,800/month November–April.
-- **Rating:** <a href="https://maps.google.com/?cid=6360831088542217689&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (75 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=6360831088542217689&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (90 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 350 Mbps down <small>· operator-reported</small>
@@ -17,7 +17,7 @@
 - **Tags:** beach, surf, coworking, community, wellness
 - **Nearest airports:** Puerto Escondido International Airport (PXM) ~5 km; Mexico City Benito Juárez International Airport (MEX) ~453 km; Bahías de Huatulco International Airport (HUX) ~85 km
 - **Website:** https://www.amplitude-coliving.com/
-- **Rating:** 5.0 from 75 Google reviews
+- **Rating:** 5.0 from 90 Google reviews
 
 ## Rates
 

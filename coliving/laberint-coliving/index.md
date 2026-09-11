@@ -1,12 +1,12 @@
 # Laberint Coliving
 
-> Coliving in Palma de Mallorca, Spain. Last updated September 1, 2026.
+> Coliving in Palma de Mallorca, Spain. Last updated September 11, 2026.
 
 - **Location:** Palma de Mallorca, Spain
 - **Type:** Permanent coliving
 - **Price:** from €1,200/mo
 - **Price note:** €1,200/mo (discounted from €1,320); from €44/night
-- **Rating:** <a href="https://maps.google.com/?cid=13129825398249313793&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (8 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=13129825398249313793&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (13 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** A family-run, community-focused coliving in Mallorca bridging local heritage with a conscious, purposeful remote-work lifestyle balanced by hiking and local experiences.
@@ -16,7 +16,7 @@
 - **Tags:** city, island, coworking, community
 - **Nearest airports:** Palma de Mallorca Airport (PMI) ~8 km; Ibiza Airport (IBZ) ~135 km; Menorca Airport (MAH) ~138 km
 - **Website:** https://www.mapmelon.com/colivings/laberint-coliving-palma-de-mallorca?ref=colivingdb
-- **Rating:** 5.0 from 8 Google reviews
+- **Rating:** 5.0 from 13 Google reviews
 
 ## Rates
 

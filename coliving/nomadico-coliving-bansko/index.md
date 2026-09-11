@@ -1,13 +1,13 @@
 # Nomadico Coliving Bansko
 
-> Coliving in Bansko, Bulgaria. Last updated September 1, 2026.
+> Coliving in Bansko, Bulgaria. Last updated September 11, 2026.
 
 - **Location:** Bansko, Bulgaria
 - **Type:** Pop-up / dated edition
 - **Dates:** June–July (seasonal; ski/summer season)
 - **Price:** from €638/mo
 - **Price note:** EUR 42/night, EUR 840/month
-- **Rating:** <a href="https://maps.google.com/?cid=3266246530591464880&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (16 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=3266246530591464880&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (18 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** A mountain-lifestyle coliving space themed around "Mountains, Focus, Adventure" — a calm mountain pace with a strong year-round community, cold plunges, yoga, cowork sessions, saunas, and shared dinners.
@@ -17,7 +17,7 @@
 - **Tags:** mountain, ski, coworking, community, wellness
 - **Nearest airports:** Sofia Airport (SOF) ~95 km; Plovdiv International Airport (PDV) ~115 km; Kavala Alexander the Great International Airport (KVA) ~140 km
 - **Website:** https://www.nomadico.io/bansko-coliving
-- **Rating:** 4.9 from 16 Google reviews
+- **Rating:** 4.9 from 18 Google reviews
 
 ## Rates
 

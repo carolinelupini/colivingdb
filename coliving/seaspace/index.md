@@ -1,12 +1,12 @@
 # SeaSpace
 
-> Coliving in Newquay, United Kingdom. Last updated September 1, 2026.
+> Coliving in Newquay, United Kingdom. Last updated September 11, 2026.
 
 - **Location:** Newquay, United Kingdom
 - **Type:** Permanent coliving
 - **Price:** from £1,625/mo
 - **Price note:** from £1625/month bills included, studio
-- **Rating:** <a href="https://maps.google.com/?cid=3295520278676856395&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (95 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=3295520278676856395&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (109 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Freedom, style, and a better rhythm for remote workers
@@ -16,7 +16,7 @@
 - **Tags:** beach, surf, coworking, community, wellness
 - **Nearest airports:** Cornwall Airport Newquay (NQY) ~7 km; London Heathrow Airport (LHR) ~344 km; Exeter International Airport (EXT) ~123 km
 - **Website:** https://sea.space/stay-with-us/digital-nomads
-- **Rating:** 4.8 from 95 Google reviews
+- **Rating:** 4.6 from 109 Google reviews
 
 ## Rates
 

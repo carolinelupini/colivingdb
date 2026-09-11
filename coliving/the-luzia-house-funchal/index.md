@@ -1,12 +1,12 @@
 # The Luzia House Funchal
 
-> Coliving in Funchal, Madeira, Portugal. Last updated September 1, 2026.
+> Coliving in Funchal, Madeira, Portugal. Last updated September 11, 2026.
 
 - **Location:** Funchal, Madeira, Portugal
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** rooms booked via Airbnb; monthly rate not published
-- **Rating:** <a href="https://maps.google.com/?cid=17360444985268529816&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (45 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=17360444985268529816&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (46 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 474 Mbps down <small>· operator-reported</small><br><small>Operator speedtest 2026-07: 473.71 Mbps down / 428.55 up, MEO fibre, 4 ms ping (Funchal server).</small>
@@ -17,7 +17,7 @@
 - **Tags:** island, city, community
 - **Nearest airports:** Cristiano Ronaldo International Airport (FNC) ~14 km; Porto Santo Airport (PXO) ~70 km
 - **Website:** https://luziahousemadeira.com/
-- **Rating:** 5.0 from 45 Google reviews
+- **Rating:** 5.0 from 46 Google reviews
 
 ## About
 

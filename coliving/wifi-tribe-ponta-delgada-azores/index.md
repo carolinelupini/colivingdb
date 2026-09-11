@@ -1,12 +1,12 @@
 # WiFi Tribe — Ponta Delgada (Azores)
 
-> Coliving in Ponta Delgada (Azores), Portugal. Last updated September 1, 2026.
+> Coliving in Ponta Delgada (Azores), Portugal. Last updated September 11, 2026.
 
 - **Location:** Ponta Delgada (Azores), Portugal
 - **Type:** Pop-up / dated edition
 - **Dates:** Sep 11 - Oct 9, 2026
 - **Price:** from $1,990/mo
-- **Price note:** from $1,990 per chapter (about four weeks) for a shared room at the entry Member tier; returning members pay less and private rooms cost more — full tier table below
+- **Price note:** FULLY BOOKED (per WiFi Tribe, September 11, 2026) — from $1,990 per chapter (about four weeks) for a shared room at the entry Member tier; returning members pay less and private rooms cost more — full tier table below
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** A month-long coliving/coworking chapter of 15-25 remote professionals and entrepreneurs balanced across genders, nationalities, and experience levels, mixing productive work weeks with weekend adventures — hiking to crater lakes, chasing waterfalls, and soaking in thermal baths.

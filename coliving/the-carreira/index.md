@@ -1,12 +1,12 @@
 # The Carreira
 
-> Coliving in Funchal, Portugal. Last updated September 1, 2026.
+> Coliving in Funchal, Portugal. Last updated September 11, 2026.
 
 - **Location:** Funchal, Portugal
 - **Type:** Permanent coliving
 - **Price:** from $1,944/mo
 - **Price note:** from BGN 3,325/mo private studio-style room
-- **Rating:** <a href="https://maps.google.com/?cid=8628061308985100487&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 3.9 (691 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=8628061308985100487&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 3.9 (701 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 600 Mbps down <small>· operator-reported</small>
@@ -22,7 +22,7 @@
 - **Nearest airports:** Cristiano Ronaldo International Airport (FNC) ~14 km; Porto Santo Airport (PXO) ~70 km
 - **Getting there:** Madeira/Cristiano Ronaldo International Airport (FNC) is ~20-25 min from Funchal center.
 - **Website:** https://coliving.com/spaces/a8esyj1a
-- **Rating:** 3.9 from 691 Google reviews
+- **Rating:** 3.9 from 701 Google reviews
 
 ## Rates
 

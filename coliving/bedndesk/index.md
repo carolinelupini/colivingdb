@@ -1,12 +1,12 @@
 # Bedndesk
 
-> Coliving in S'Arenal (Mallorca), Spain. Last updated September 1, 2026.
+> Coliving in S'Arenal (Mallorca), Spain. Last updated September 11, 2026.
 
 - **Location:** S'Arenal (Mallorca), Spain
 - **Type:** Permanent coliving
 - **Price:** from €750/mo
 - **Price note:** advertised as under €1,000/month; est.
-- **Rating:** <a href="https://maps.google.com/?cid=2410423559436058146&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (68 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=2410423559436058146&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (69 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Relaxed, intimate atmosphere to focus and connect
@@ -16,7 +16,7 @@
 - **Tags:** beach, island, coworking, community, wellness
 - **Nearest airports:** Palma de Mallorca Airport (PMI) ~5 km; Menorca Airport (MAH) ~132 km; Ibiza Airport (IBZ) ~138 km
 - **Website:** https://www.bedndesk.com
-- **Rating:** 4.7 from 68 Google reviews
+- **Rating:** 4.7 from 69 Google reviews
 
 ## Rates
 

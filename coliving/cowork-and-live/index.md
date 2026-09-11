@@ -1,11 +1,11 @@
 # Cowork & Live
 
-> Coliving in Casablanca, Morocco. Last updated September 1, 2026.
+> Coliving in Casablanca, Morocco. Last updated September 11, 2026.
 
 - **Location:** Casablanca, Morocco
 - **Type:** Permanent coliving
 - **Price:** On request
-- **Rating:** <a href="https://maps.google.com/?cid=14713542458055947730&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (73 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=14713542458055947730&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (74 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Where productivity and well-being meet
@@ -15,6 +15,6 @@
 - **Tags:** coworking, startup, city, wellness
 - **Nearest airports:** Mohammed V International Airport (CMN) ~26 km; Rabat-Salé Airport (RBA) ~95 km
 - **Website:** https://www.coworklive.ma/
-- **Rating:** 4.8 from 73 Google reviews
+- **Rating:** 4.8 from 74 Google reviews
 
 Source: https://colivingdb.com/coliving/cowork-and-live/

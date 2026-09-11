@@ -1,12 +1,12 @@
 # Coliving in Monchique, Portugal
 
-> 1 colivings in Monchique, Portugal, prices from €650 to €650 per month – last updated September 1, 2026.
+> 1 colivings in Monchique, Portugal, prices from €650 to €650 per month – last updated September 11, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Wild Oasis Algarve | Monchique | from €650/mo | 4.6 (73) | private | — | Permanent |
+| Wild Oasis Algarve | Monchique | from €650/mo | 4.6 (74) | private | — | Permanent |
 
 ## Price distribution
 

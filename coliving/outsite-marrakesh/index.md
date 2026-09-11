@@ -1,12 +1,12 @@
 # Outsite Marrakesh
 
-> Coliving in Marrakesh, Morocco. Last updated September 1, 2026.
+> Coliving in Marrakesh, Morocco. Last updated September 11, 2026.
 
 - **Location:** Marrakesh, Morocco
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** est. from ~$47/night
-- **Rating:** <a href="https://maps.google.com/?cid=9988442975400267735&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (98 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=9988442975400267735&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (99 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 70 Mbps down <small>· operator-reported</small>
@@ -17,7 +17,7 @@
 - **Tags:** city, coworking, community, wellness
 - **Nearest airports:** Marrakesh Menara Airport (RAK) ~5 km; Mohammed V International Airport (CMN) ~197 km; Ouarzazate International Airport (OZZ) ~128 km
 - **Website:** https://www.outsite.co/locations/marrakesh
-- **Rating:** 4.7 from 98 Google reviews
+- **Rating:** 4.7 from 99 Google reviews
 
 ## About
 

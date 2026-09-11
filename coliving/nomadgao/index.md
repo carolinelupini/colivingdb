@@ -1,12 +1,12 @@
 # NomadGao
 
-> Coliving in Goa, India. Last updated September 1, 2026.
+> Coliving in Goa, India. Last updated September 11, 2026.
 
 - **Location:** Goa, India
 - **Type:** Permanent coliving
 - **Price:** from INR 35,000/mo
 - **Price note:** est. ~₹35,000/month private; pricing via book.nomadgao.com
-- **Rating:** <a href="https://maps.google.com/?cid=13602404376892886786&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (281 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=13602404376892886786&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (280 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** Yes
 - **Vibe:** live-work-play digital nomad community in nature
@@ -18,7 +18,7 @@
 - **Nearest airports:** Manohar International Airport (GOX) ~23 km; Goa Dabolim International Airport (GOI) ~23 km; Sindhudurg Airport (SDW) ~53 km
 - **Getting there:** Goa (Dabolim/Manohar International, GOI) — approximate, not stated on site.
 - **Website:** https://nomadgao.com
-- **Rating:** 4.8 from 281 Google reviews
+- **Rating:** 4.8 from 280 Google reviews
 
 ## Rates
 

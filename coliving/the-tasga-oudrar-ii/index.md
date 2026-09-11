@@ -1,6 +1,6 @@
 # The Tasga Oudrar II
 
-> Coliving in Taghazout, Morocco. Last updated September 1, 2026.
+> Coliving in Taghazout, Morocco. Last updated September 11, 2026.
 
 - **Location:** Taghazout, Morocco
 - **Type:** Permanent coliving

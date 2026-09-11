@@ -1,6 +1,6 @@
 # Noma Collective — Pipa
 
-> Coliving in Pipa, Brazil. Last updated September 1, 2026.
+> Coliving in Pipa, Brazil. Last updated September 11, 2026.
 
 - **Location:** Pipa, Brazil
 - **Type:** Pop-up / dated edition

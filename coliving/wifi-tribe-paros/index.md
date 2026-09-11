@@ -1,12 +1,12 @@
 # WiFi Tribe — Paros
 
-> Coliving in Paros, Greece. Last updated September 1, 2026.
+> Coliving in Paros, Greece. Last updated September 11, 2026.
 
 - **Location:** Paros, Greece
 - **Type:** Pop-up / dated edition
 - **Dates:** Sep 11 - Oct 9, 2026
 - **Price:** from $1,990/mo
-- **Price note:** from $1,990 per chapter (about four weeks) for a shared room at the entry Member tier; returning members pay less and private rooms cost more — full tier table below
+- **Price note:** FULLY BOOKED (per WiFi Tribe, September 11, 2026) — from $1,990 per chapter (about four weeks) for a shared room at the entry Member tier; returning members pay less and private rooms cost more — full tier table below
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 80 Mbps down <small>· operator-reported</small><br><small>Up to 80 Mbps</small>

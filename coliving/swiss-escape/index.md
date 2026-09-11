@@ -1,12 +1,12 @@
 # Swiss Escape
 
-> Coliving in Grimentz, Switzerland. Last updated September 1, 2026.
+> Coliving in Grimentz, Switzerland. Last updated September 11, 2026.
 
 - **Location:** Grimentz, Switzerland
 - **Type:** Permanent coliving
 - **Price:** from CHF 990/mo
 - **Price note:** CHF 990/mo shared room
-- **Rating:** <a href="https://maps.google.com/?cid=1395580175886322396&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (64 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=1395580175886322396&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (65 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 100 Mbps down <small>· operator-reported</small>
@@ -18,7 +18,7 @@
 - **Tags:** mountain, ski, coworking, community, wellness
 - **Nearest airports:** Bern Airport (BRN) ~83 km; Zürich Airport (ZRH) ~161 km; Lugano Airport (LUG) ~105 km
 - **Website:** https://www.ourescape.co/swiss-escape
-- **Rating:** 5.0 from 64 Google reviews
+- **Rating:** 5.0 from 65 Google reviews
 
 ## Rates
 

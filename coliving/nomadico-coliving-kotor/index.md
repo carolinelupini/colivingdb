@@ -1,13 +1,13 @@
 # Nomadico Coliving Kotor
 
-> Coliving in Kotor, Montenegro. Last updated September 1, 2026.
+> Coliving in Kotor, Montenegro. Last updated September 11, 2026.
 
 - **Location:** Kotor, Montenegro
 - **Type:** Pop-up / dated edition
 - **Dates:** Oct–Dec & Mar–Apr (seasonal)
 - **Price:** from €690/mo
 - **Price note:** €1,530/mo discounted (reg. €1,800); ~€60/night
-- **Rating:** <a href="https://maps.google.com/?cid=3129399485750453374&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (4 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=3129399485750453374&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (5 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** 'Mornings begin with the sound of church bells and walks along the bay... Workdays flow quietly from deep focus in cosy corners to sunset hikes or music at a nearby bar.'
@@ -17,7 +17,7 @@
 - **Tags:** mountain, coworking, community, city
 - **Nearest airports:** Tivat Airport (TIV) ~4 km; Podgorica Airport / Podgorica Golubovci Airbase (TGD) ~40 km; Dubrovnik Ruđer Bošković Airport (DBV) ~44 km
 - **Website:** https://www.nomadico.io/kotor-coliving
-- **Rating:** 4.5 from 4 Google reviews
+- **Rating:** 4.6 from 5 Google reviews
 
 ## Rates
 

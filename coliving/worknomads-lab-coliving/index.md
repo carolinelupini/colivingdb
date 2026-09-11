@@ -1,12 +1,12 @@
 # WorkNomads LAB Coliving
 
-> Coliving in Sofia, Bulgaria. Last updated September 1, 2026.
+> Coliving in Sofia, Bulgaria. Last updated September 11, 2026.
 
 - **Location:** Sofia, Bulgaria
 - **Type:** Permanent coliving
 - **Price:** from €1,095/mo
 - **Price note:** €1,095/month including utilities (operator-confirmed)
-- **Rating:** <a href="https://maps.google.com/?cid=4962261341778012356&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (480 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=4962261341778012356&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (513 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 50 Mbps down <small>· operator-reported</small><br><small>Operator speedtest 2026-08-14 (Svetlin Dimitrov): 50.7 Mbps down / 45.6 up, 10.6 ms latency, 0% packet loss, Sofia. The capture shows the test still running, so treat as indicative rather than a settled figure.</small>
@@ -20,7 +20,7 @@
 - **Nearest airports:** Sofia Airport (SOF) ~8 km; Niš Constantine the Great Airport (INI) ~138 km; Plovdiv International Airport (PDV) ~144 km
 - **Getting there:** Sofia Airport (SOF); a guest review cites ~15 min from the airport — not confirmed on the official site.
 - **Website:** https://www.worknomadshotel.com/
-- **Rating:** 4.5 from 480 Google reviews
+- **Rating:** 4.5 from 513 Google reviews
 
 ## Rates
 

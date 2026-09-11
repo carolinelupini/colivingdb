@@ -1,12 +1,12 @@
 # Coliving in Ukropci (above Kotor Bay), Montenegro
 
-> 1 colivings in Ukropci (above Kotor Bay), Montenegro, prices from €695 to €695 per month – last updated September 1, 2026.
+> 1 colivings in Ukropci (above Kotor Bay), Montenegro, prices from €695 to €695 per month – last updated September 11, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Pachamama Farm Retreat | Ukropci (above Kotor Bay) | from €695/mo | 4.8 (229) | private, shared | 14 nights | Permanent |
+| Pachamama Farm Retreat | Ukropci (above Kotor Bay) | from €695/mo | 4.8 (243) | private, shared | 14 nights | Permanent |
 
 ## Price distribution
 

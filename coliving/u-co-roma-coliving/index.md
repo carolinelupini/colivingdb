@@ -1,11 +1,11 @@
 # U-Co Roma Coliving
 
-> Coliving in Mexico City, Mexico. Last updated September 1, 2026.
+> Coliving in Mexico City, Mexico. Last updated September 11, 2026.
 
 - **Location:** Mexico City, Mexico
 - **Type:** Permanent coliving
 - **Price:** from €381/mo
-- **Rating:** <a href="https://maps.google.com/?cid=9611710269797198987&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (102 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=9611710269797198987&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (107 reviews)</a> <small>· Google</small>
 - **Room types:** private, studio
 - **Dorm available:** No
 - **Vibe:** Live free, stay flexible, connect with community
@@ -17,7 +17,7 @@
 - **Tags:** community, coworking, city, wellness
 - **Nearest airports:** Mexico City Benito Juárez International Airport (MEX) ~10 km; Felipe Ángeles International Airport (NLU) ~39 km; Adolfo López Mateos International Airport (TLC) ~44 km
 - **Website:** https://u-co.co/
-- **Rating:** 4.3 from 102 Google reviews
+- **Rating:** 4.3 from 107 Google reviews
 
 ## Rates
 

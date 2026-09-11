@@ -1,16 +1,18 @@
 # INHIVE Co-Living
 
-> Coliving in Istanbul, Turkey. Last updated September 1, 2026.
+> Coliving in Istanbul, Turkey. Last updated September 11, 2026.
 
 - **Location:** Istanbul, Turkey
 - **Type:** Permanent coliving
 - **Price:** On request
+- **Rating:** <a href="https://maps.google.com/?cid=12911355181145714959&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (9 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Asia
 - **Tags:** community, coworking, city
 - **Website:** https://www.inhiveliving.com
+- **Rating:** 4.4 from 9 Google reviews
 
 ## About
 

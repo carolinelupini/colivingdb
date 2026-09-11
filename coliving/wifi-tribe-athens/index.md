@@ -1,6 +1,6 @@
 # WiFi Tribe — Athens
 
-> Coliving in Athens, Greece. Last updated September 1, 2026.
+> Coliving in Athens, Greece. Last updated September 11, 2026.
 
 - **Location:** Athens, Greece
 - **Type:** Pop-up / dated edition

@@ -1,11 +1,11 @@
 # The Cocotera Hostel & Coworking
 
-> Coliving in Tarifa, Spain. Last updated September 1, 2026.
+> Coliving in Tarifa, Spain. Last updated September 11, 2026.
 
 - **Location:** Tarifa, Spain
 - **Type:** Permanent coliving
 - **Price:** from €15/night
-- **Rating:** <a href="https://maps.google.com/?cid=8022063335138835484&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (282 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=8022063335138835484&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (287 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Vibe:** welcoming digital-nomad home with surf-and-work balance
@@ -19,7 +19,7 @@
 - **Nearest airports:** Gibraltar Airport (GIB) ~27 km; Tangier Ibn Battuta Airport (TNG) ~42 km; Sania Ramel Airport (TTU) ~53 km
 - **Getting there:** Gibraltar (GIB) is the nearest airport (~45 min); Jerez (XRY, ~1h) and Málaga (AGP, ~2h) are alternatives.
 - **Website:** http://lacocotera.com/
-- **Rating:** 4.4 from 282 Google reviews
+- **Rating:** 4.4 from 287 Google reviews
 
 ## Rates
 

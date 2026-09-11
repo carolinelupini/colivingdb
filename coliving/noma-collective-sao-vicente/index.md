@@ -1,12 +1,12 @@
 # Noma Collective — Sao Vicente
 
-> Coliving in Sao Vicente, Cape Verde. Last updated September 1, 2026.
+> Coliving in Sao Vicente, Cape Verde. Last updated September 11, 2026.
 
 - **Location:** Sao Vicente, Cape Verde
 - **Type:** Pop-up / dated edition
 - **Dates:** Nov 29 - Dec 20, 2026
 - **Price:** from $2,290/event
-- **Price note:** pp, + fees and taxes (not included)
+- **Price note:** SOLD OUT (per Noma Collective, September 11, 2026) — pp, + fees and taxes (not included)
 - **Room types:** —
 - **Dorm available:** No
 - **Vibe:** Vibrant, culturally immersive travel-coliving edition centered on Cape Verde's music scene, volcano hikes, and authentic island discovery.

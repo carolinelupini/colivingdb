@@ -1,12 +1,12 @@
 # Coliving in Dubai, United Arab Emirates
 
-> 2 colivings in Dubai, United Arab Emirates, prices from €238 to €238 per month – last updated September 1, 2026.
+> 2 colivings in Dubai, United Arab Emirates, prices from €238 to €238 per month – last updated September 11, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Dot Coliv | Dubai | from AED 1,000/mo | 4.4 (61) | shared, private | — | Permanent |
+| Dot Coliv | Dubai | from AED 1,000/mo | 4.5 (65) | shared, private | — | Permanent |
 | HIVE | Dubai | On request | 4.3 (54) | private | — | Permanent |
 
 ## Price distribution

@@ -1,12 +1,12 @@
 # Outsite San Diego - Golden Hill
 
-> Coliving in San Diego, United States. Last updated September 1, 2026.
+> Coliving in San Diego, United States. Last updated September 11, 2026.
 
 - **Location:** San Diego, United States
 - **Type:** Permanent coliving
 - **Price:** from $4,634/mo
 - **Price note:** pricing shown only after entering dates
-- **Rating:** <a href="https://maps.google.com/?cid=10478319696536920192&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (8 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=10478319696536920192&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 3.7 (11 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** A comfortable, community-oriented home designed for both productivity and downtime, blending inner-city convenience with a leafy, charming neighborhood, outdoor terrace, and warm-weather outdoor access.
@@ -16,7 +16,7 @@
 - **Tags:** city, coworking, community
 - **Nearest airports:** San Diego International Airport (SAN) ~6 km; General Abelardo L. Rodriguez International Airport (TIJ) ~25 km; McClellan-Palomar Airport (CLD) ~48 km
 - **Website:** https://www.outsite.co/locations/san-diego-golden-hill
-- **Rating:** 4.3 from 8 Google reviews
+- **Rating:** 3.7 from 11 Google reviews
 
 ## Rates
 

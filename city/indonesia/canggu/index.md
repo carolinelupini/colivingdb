@@ -1,13 +1,13 @@
 # Coliving in Canggu, Indonesia
 
-> 3 colivings in Canggu, Indonesia, prices from €363 to €831 per month – last updated September 1, 2026.
+> 3 colivings in Canggu, Indonesia, prices from €363 to €831 per month – last updated September 11, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Matra Bali | Canggu | from IDR 7,500,000/mo | 4.3 (122) | private | — | Permanent |
-| Tropical Nomad Coliving | Canggu | from $950/mo | 4.4 (377) | private | — | Permanent |
+| Matra Bali | Canggu | from IDR 7,500,000/mo | 4.3 (123) | private | — | Permanent |
+| Tropical Nomad Coliving | Canggu | from $950/mo | 4.5 (401) | private | — | Permanent |
 | Coworksurf Berawa (Canggu) | Canggu | On request | 4.3 (20) | private | — | Permanent |
 
 ## Price distribution

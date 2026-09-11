@@ -1,11 +1,11 @@
 # Ideas Cartel at The Old Foundry
 
-> Coliving in Cape Town, South Africa. Last updated September 1, 2026.
+> Coliving in Cape Town, South Africa. Last updated September 11, 2026.
 
 - **Location:** Cape Town, South Africa
 - **Type:** Permanent coliving
 - **Price:** On request
-- **Rating:** <a href="https://maps.google.com/?cid=17373958623654247520&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (220 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=17373958623654247520&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (222 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** premium coworking with modern comforts
@@ -17,6 +17,6 @@
 - **Nearest airports:** Cape Town International Airport (CPT) ~18 km
 - **Getting there:** Cape Town International (CPT) is the nearest airport, roughly 20-30 minutes by car.
 - **Website:** https://www.ideascartel.com/
-- **Rating:** 4.4 from 220 Google reviews
+- **Rating:** 4.4 from 222 Google reviews
 
 Source: https://colivingdb.com/coliving/ideas-cartel-at-the-old-foundry/

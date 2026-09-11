@@ -1,12 +1,12 @@
 # The Sunset III
 
-> Coliving in Kuta, Indonesia. Last updated September 1, 2026.
+> Coliving in Kuta, Indonesia. Last updated September 11, 2026.
 
 - **Location:** Kuta, Indonesia
 - **Type:** Permanent coliving
 - **Price:** from $573/mo
 - **Price note:** from BGN 1,025/mo studio
-- **Rating:** <a href="https://maps.google.com/?cid=9442416139873896520&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (104 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=9442416139873896520&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (112 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 200 Mbps down <small>· operator-reported</small>
@@ -17,7 +17,7 @@
 - **Tags:** beach, island, coworking, community, wellness
 - **Nearest airports:** Denpasar I Gusti Ngurah Rai International Airport (DPS) ~4 km; Lombok International Airport (LOP) ~122 km
 - **Website:** https://coliving.com/spaces/tjvbozco
-- **Rating:** 4.8 from 104 Google reviews
+- **Rating:** 4.7 from 112 Google reviews
 
 ## Rates
 

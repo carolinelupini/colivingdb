@@ -1,12 +1,12 @@
 # Covive Casa Del Valle Norte
 
-> Coliving in Mexico City, Mexico. Last updated September 1, 2026.
+> Coliving in Mexico City, Mexico. Last updated September 11, 2026.
 
 - **Location:** Mexico City, Mexico
 - **Type:** Permanent coliving
 - **Price:** from MXN 15,250/mo
 - **Price note:** from ~13,000 MXN/month all-inclusive; est.
-- **Rating:** <a href="https://maps.google.com/?cid=14137048940801511251&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.1 (28 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=14137048940801511251&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.2 (29 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** A vibrant, design-forward coliving in Mexico City for international young professionals, blending shared coworking and social spaces with a warm, community-building ethos.
@@ -17,7 +17,7 @@
 - **Tags:** city, coworking, community
 - **Nearest airports:** Mexico City Benito Juárez International Airport (MEX) ~12 km; Adolfo López Mateos International Airport (TLC) ~42 km; Felipe Ángeles International Airport (NLU) ~43 km
 - **Website:** https://covive.mx/en/casa/del-valle-norte/
-- **Rating:** 4.1 from 28 Google reviews
+- **Rating:** 4.2 from 29 Google reviews
 
 ## Rates
 

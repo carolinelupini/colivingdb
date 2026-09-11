@@ -1,11 +1,11 @@
 # Mojo Cohouse
 
-> Coliving in Palermo, Italy. Last updated September 1, 2026.
+> Coliving in Palermo, Italy. Last updated September 11, 2026.
 
 - **Location:** Palermo, Italy
 - **Type:** Permanent coliving
 - **Price:** On request
-- **Rating:** <a href="https://maps.google.com/?cid=10517042737486563256&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (51 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=10517042737486563256&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (59 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Artsy meeting point for creatives, remote workers, and families in Palermo
@@ -15,6 +15,6 @@
 - **Tags:** community, coworking, city
 - **Nearest airports:** Falcone–Borsellino Airport (PMO) ~24 km; Rome–Fiumicino Leonardo da Vinci International Airport (FCO) ~420 km; Vincenzo Florio Airport Trapani-Birgi (TPS) ~80 km
 - **Website:** https://mojocohouse.com/
-- **Rating:** 4.7 from 51 Google reviews
+- **Rating:** 4.6 from 59 Google reviews
 
 Source: https://colivingdb.com/coliving/mojo-cohouse/

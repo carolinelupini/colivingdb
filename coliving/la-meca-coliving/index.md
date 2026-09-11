@@ -1,12 +1,12 @@
 # La Meca Coliving
 
-> Coliving in Los Caños de Meca, Spain. Last updated September 1, 2026.
+> Coliving in Los Caños de Meca, Spain. Last updated September 11, 2026.
 
 - **Location:** Los Caños de Meca, Spain
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** not published on site
-- **Rating:** <a href="https://maps.google.com/?cid=15747821536353866142&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (43 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=15747821536353866142&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (46 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Slow life — disconnect and reconnect with the rhythm of nature
@@ -16,7 +16,7 @@
 - **Tags:** beach, surf, rural, coworking, community, wellness
 - **Nearest airports:** Tangier Ibn Battuta Airport (TNG) ~52 km; Gibraltar Airport (GIB) ~60 km; Jerez Airport (XRY) ~62 km
 - **Website:** https://lamecacoworking.com/en/coliving-near-el-palmar/
-- **Rating:** 4.9 from 43 Google reviews
+- **Rating:** 4.9 from 46 Google reviews
 
 ## About
 

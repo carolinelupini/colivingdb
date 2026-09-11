@@ -1,12 +1,12 @@
 # Sende Coliving
 
-> Coliving in Senderiz, Ourense, Galicia, Spain. Last updated September 1, 2026.
+> Coliving in Senderiz, Ourense, Galicia, Spain. Last updated September 11, 2026.
 
 - **Location:** Senderiz, Ourense, Galicia, Spain
 - **Type:** Permanent coliving
 - **Price:** from €850/mo
 - **Price note:** €850/mo shared, €960/mo private; €245-280/week
-- **Rating:** <a href="https://maps.google.com/?cid=3988840509198319102&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (46 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=3988840509198319102&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (48 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 160 Mbps down <small>· operator-reported</small>
@@ -17,7 +17,7 @@
 - **Tags:** rural, mountain, community, coworking
 - **Nearest airports:** Vigo Airport (VGO) ~60 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~405 km; Vila Real Airport (VRL) ~78 km
 - **Website:** https://www.sende.co/
-- **Rating:** 5.0 from 46 Google reviews
+- **Rating:** 5.0 from 48 Google reviews
 
 ## Rates
 

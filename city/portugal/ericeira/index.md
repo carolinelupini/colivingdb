@@ -1,22 +1,22 @@
 # Coliving in Ericeira, Portugal
 
-> 11 colivings in Ericeira, Portugal, prices from €542 to €1,800 per month – last updated September 1, 2026.
+> 11 colivings in Ericeira, Portugal, prices from €542 to €1,800 per month – last updated September 11, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
 | Nomadico Coliving Ericeira | Ericeira | from €542/mo | 4.9 (28) | private, shared | 7 nights | Pop-up |
-| Barefoot Guesthouse & Coliving Ericeira | Ericeira | from €800/mo | 4.9 (127) | private | 30 nights | Permanent |
-| Outsite Ericeira - Boavista | Ericeira | from €800/mo | — | private | — | Permanent |
+| Barefoot Guesthouse & Coliving Ericeira | Ericeira | from €800/mo | 4.9 (129) | private | 30 nights | Permanent |
+| Outsite Ericeira - Boavista | Ericeira | from €800/mo | 5.0 (5) | private | — | Permanent |
 | Outsite Ericeira - Centro | Ericeira | from €800/mo | 4.7 (34) | private | — | Permanent |
-| Outsite Ericeira - Praia do Sul | Ericeira | from €1,000/mo | 4.8 (15) | private | — | Permanent |
+| Outsite Ericeira - Praia do Sul | Ericeira | from €1,000/mo | 4.8 (16) | private | — | Permanent |
 | The Spacious Valley | Ericeira | from €1,260/mo | — | private | 30 nights | Permanent |
-| Wild Souls Ericeira | Ericeira | from €1,800/mo | 5.0 (25) | private | 7 nights | Permanent |
-| Sea Urchin SurfHouse | Ericeira | On request | 4.8 (85) | shared, private | — | Permanent |
+| Wild Souls Ericeira | Ericeira | from €1,800/mo | 5.0 (31) | private | 7 nights | Permanent |
+| Sea Urchin SurfHouse | Ericeira | On request | 4.8 (90) | shared, private | — | Permanent |
 | Villa dos Irmaos (Coworksurf) | Ericeira | On request | — | private, dorm | — | Permanent |
-| WOT Lodge Soul | Ericeira | from €451/wk | 4.1 (123) | private, dorm | 30 nights | Permanent |
-| Wild Souls Coliving | Ericeira | On request | 5.0 (25) | private | — | Permanent |
+| WOT Lodge Soul | Ericeira | from €451/wk | 4.0 (137) | private, dorm | 30 nights | Permanent |
+| Wild Souls Coliving | Ericeira | On request | 5.0 (31) | private | — | Permanent |
 
 ## Price distribution
 

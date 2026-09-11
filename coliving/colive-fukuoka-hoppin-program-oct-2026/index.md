@@ -1,6 +1,6 @@
 # Colive Fukuoka — Hoppin Program (Oct 2026)
 
-> Coliving in Fukuoka, Japan. Last updated September 1, 2026.
+> Coliving in Fukuoka, Japan. Last updated September 11, 2026.
 
 - **Location:** Fukuoka, Japan
 - **Type:** Pop-up / dated edition

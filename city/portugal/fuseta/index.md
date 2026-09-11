@@ -1,12 +1,12 @@
 # Coliving in Fuseta, Portugal
 
-> 1 colivings in Fuseta, Portugal, prices from €1,200 to €1,200 per month – last updated September 1, 2026.
+> 1 colivings in Fuseta, Portugal, prices from €1,200 to €1,200 per month – last updated September 11, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| POMAR Coliving - NA PRAIA | Fuseta | from €1,200/mo | 5.0 (77) | private | 28 nights | Permanent |
+| POMAR Coliving - NA PRAIA | Fuseta | from €1,200/mo | 5.0 (79) | private | 28 nights | Permanent |
 
 ## Price distribution
 

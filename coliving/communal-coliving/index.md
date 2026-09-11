@@ -1,12 +1,12 @@
 # Communal Coliving
 
-> Coliving in Santa Fe, Siargao, Philippines. Last updated September 1, 2026.
+> Coliving in Santa Fe, Siargao, Philippines. Last updated September 11, 2026.
 
 - **Location:** Santa Fe, Siargao, Philippines
 - **Type:** Permanent coliving
 - **Price:** from PHP 35,000/mo
 - **Price note:** from PHP 35,000/month dorm (~€525); private studio PHP 60,000
-- **Rating:** <a href="https://maps.google.com/?cid=12416010899305160988&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (33 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=12416010899305160988&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (38 reviews)</a> <small>· Google</small>
 - **Room types:** dorm, shared, private
 - **Dorm available:** Yes
 - **Vibe:** Not just a place to stay — a place to become
@@ -16,7 +16,7 @@
 - **Tags:** island, surf, beach, coworking, community, eco
 - **Nearest airports:** Surigao Airport (SUG) ~62 km; Laguindingan International Airport (CGY) ~222 km; Bancasi Airport (BXU) ~118 km
 - **Website:** https://www.communalcoliving.com/
-- **Rating:** 5.0 from 33 Google reviews
+- **Rating:** 5.0 from 38 Google reviews
 
 ## Rates
 

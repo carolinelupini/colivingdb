@@ -1,12 +1,12 @@
 # Coliving in Anglet, France
 
-> 1 colivings in Anglet, France, prices from €370 to €370 per month – last updated September 1, 2026.
+> 1 colivings in Anglet, France, prices from €370 to €370 per month – last updated September 11, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Nomadico Anglet | Anglet | from €370/mo | — | private, shared | — | Pop-up |
+| Nomadico Anglet | Anglet | from €370/mo | 5.0 (1) | private, shared | — | Pop-up |
 
 ## Price distribution
 

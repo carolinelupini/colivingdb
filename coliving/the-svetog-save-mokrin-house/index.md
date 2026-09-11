@@ -1,12 +1,12 @@
 # The Svetog Save (Mokrin House)
 
-> Coliving in Mokrin, Serbia. Last updated September 1, 2026.
+> Coliving in Mokrin, Serbia. Last updated September 11, 2026.
 
 - **Location:** Mokrin, Serbia
 - **Type:** Permanent coliving
 - **Price:** from $2,401/mo
 - **Price note:** from BGN 4,108/mo shared bed, three daily meals included
-- **Rating:** <a href="https://maps.google.com/?cid=8358075020989643505&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (369 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=8358075020989643505&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (375 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Vibe:** peaceful rural retreat for focused remote work
@@ -19,7 +19,7 @@
 - **Nearest airports:** Arad International Airport (ARW) ~71 km; Belgrade Nikola Tesla Airport (BEG) ~124 km; Timișoara Traian Vuia International Airport (TSR) ~72 km
 - **Getting there:** Within roughly 2h of three airports: Budapest (BUD), Belgrade (BEG), and Timișoara (TSR); the property arranges transfers.
 - **Website:** https://coliving.com/spaces/uvcl3xdi
-- **Rating:** 4.8 from 369 Google reviews
+- **Rating:** 4.8 from 375 Google reviews
 
 ## Rates
 

@@ -1,12 +1,12 @@
 # Coliving in Tskaltubo, Georgia
 
-> 1 colivings in Tskaltubo, Georgia, prices from €192 to €192 per month – last updated September 1, 2026.
+> 1 colivings in Tskaltubo, Georgia, prices from €192 to €192 per month – last updated September 11, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Colive & Cowork Gumbrini | Tskaltubo | from $219/mo | 4.9 (51) | private, shared, dorm | — | Permanent |
+| Colive & Cowork Gumbrini | Tskaltubo | from $219/mo | 4.9 (53) | private, shared, dorm | — | Permanent |
 
 ## Price distribution
 

@@ -1,11 +1,11 @@
 # Coliving in Czechia
 
-> 1 colivings in Czechia – last updated September 1, 2026.
+> 1 colivings in Czechia – last updated September 11, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Coliving Prague | Prague | On request | 4.5 (2) | — | 3 months | Permanent |
+| Coliving Prague | Prague | On request | 4.3 (3) | — | 3 months | Permanent |
 
 Source: https://colivingdb.com/country/czechia/

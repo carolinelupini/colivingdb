@@ -1,12 +1,12 @@
 # Hub53 Coworking & Coliving
 
-> Coliving in Chiang Mai, Thailand. Last updated September 1, 2026.
+> Coliving in Chiang Mai, Thailand. Last updated September 11, 2026.
 
 - **Location:** Chiang Mai, Thailand
 - **Type:** Permanent coliving
 - **Price:** from THB 9,500/mo
 - **Price note:** From THB 9,500/month for a Standard A room (twin bed, 8 sq m, shared bathroom); two-month stays drop to THB 9,000/month. Eight room types, up to a 25 sq m King at THB 19,500/month. Daily from THB 550, weekly from THB 2,800. VAT included, with weekly cleaning and 24-hour coworking access for one person; an extra person is THB 3,000/month. Daily and weekly rates include water and electricity; on stays of a month or longer utilities are billed separately — water THB 500 per person per month, electricity THB 7 per unit.
-- **Rating:** <a href="https://maps.google.com/?cid=2549259346114526668&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (187 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=2549259346114526668&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (194 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 310 Mbps down <small>· operator-reported</small><br><small>Operator speedtest 2026-07-31: 311 Mbps down, 22 ms ping. The operator reports upload at around the same, though their screenshot was taken before the upload test finished.</small>
@@ -19,7 +19,7 @@
 - **Nearest airports:** Chiang Mai International Airport (CNX) ~3 km; Lampang Airport (LPT) ~81 km; Mae Hong Son Airport (HGN) ~118 km
 - **Getting there:** Chiang Mai International (CNX) is roughly 15-20 minutes by car from the Suthep neighborhood.
 - **Website:** https://hub53.com
-- **Rating:** 4.6 from 187 Google reviews
+- **Rating:** 4.6 from 194 Google reviews
 
 ## Rates
 

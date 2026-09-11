@@ -1,12 +1,12 @@
 # Cactus Coliving
 
-> Coliving in Valle San Lorenzo (Arona), Tenerife, Spain. Last updated September 1, 2026.
+> Coliving in Valle San Lorenzo (Arona), Tenerife, Spain. Last updated September 11, 2026.
 
 - **Location:** Valle San Lorenzo (Arona), Tenerife, Spain
 - **Type:** Permanent coliving
 - **Price:** from €686/mo
 - **Price note:** from €37/night shared (listing); site nightly rates higher, 30-35% long-stay discounts
-- **Rating:** <a href="https://maps.google.com/?cid=13451054714016547275&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (120 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=13451054714016547275&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (126 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** Welcoming shared-living community with nature and family-style dinners
@@ -17,7 +17,7 @@
 - **Tags:** island, mountain, rural, community, coworking, wellness
 - **Nearest airports:** Tenerife Sur Airport (TFS) ~14 km; Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~49 km; La Palma Airport (SPC) ~120 km
 - **Website:** https://www.cactuscoliving.com/
-- **Rating:** 4.9 from 120 Google reviews
+- **Rating:** 4.9 from 126 Google reviews
 
 ## Rates
 

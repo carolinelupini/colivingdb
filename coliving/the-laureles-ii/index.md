@@ -1,12 +1,12 @@
 # The Laureles II
 
-> Coliving in Medellin, Colombia. Last updated September 1, 2026.
+> Coliving in Medellin, Colombia. Last updated September 11, 2026.
 
 - **Location:** Medellin, Colombia
 - **Type:** Permanent coliving
 - **Price:** from $1,931/mo
 - **Price note:** from BGN 3,041/mo (Essential Room)
-- **Rating:** <a href="https://maps.google.com/?cid=14977108501707291652&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (3574 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=14977108501707291652&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (3592 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 600 Mbps down <small>· operator-reported</small>
@@ -23,7 +23,7 @@
 - **Nearest airports:** Enrique Olaya Herrera Airport (EOH) ~3 km; El Dorado International Airport (BOG) ~235 km; Jose Maria Córdova International Airport (MDE) ~21 km
 - **Getting there:** Olaya Herrera (EOH), the city airport, is ~15 min away; José María Córdova International (MDE) is ~35-45 min by car.
 - **Website:** https://coliving.com/spaces/rgxjdwme
-- **Rating:** 4.5 from 3574 Google reviews
+- **Rating:** 4.5 from 3592 Google reviews
 
 ## Rates
 

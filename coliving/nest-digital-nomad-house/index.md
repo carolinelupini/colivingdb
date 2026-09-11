@@ -1,11 +1,11 @@
 # Nest Digital Nomad House
 
-> Coliving in Istanbul, Turkey. Last updated September 1, 2026.
+> Coliving in Istanbul, Turkey. Last updated September 11, 2026.
 
 - **Location:** Istanbul, Turkey
 - **Type:** Permanent coliving
 - **Price:** from €435/mo
-- **Rating:** <a href="https://maps.google.com/?cid=16428264220361876854&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (143 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=16428264220361876854&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.2 (164 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 500 Mbps down <small>· operator-reported</small>
@@ -16,7 +16,7 @@
 - **Tags:** community, coworking, city
 - **Nearest airports:** Istanbul Sabiha Gökçen International Airport (SAW) ~26 km; İstanbul Airport (IST) ~40 km; Bursa Yenişehir Airport (YEI) ~93 km
 - **Website:** https://www.nestdigitalnomad.com/
-- **Rating:** 4.4 from 143 Google reviews
+- **Rating:** 4.2 from 164 Google reviews
 
 ## Rates
 

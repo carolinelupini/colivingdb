@@ -1,12 +1,12 @@
 # Nomadico Antigua
 
-> Coliving in Antigua Guatemala, Guatemala. Last updated September 1, 2026.
+> Coliving in Antigua Guatemala, Guatemala. Last updated September 11, 2026.
 
 - **Location:** Antigua Guatemala, Guatemala
 - **Type:** Permanent coliving
 - **Price:** from $890/mo
 - **Price note:** from $890/month; new home opening Aug 1
-- **Rating:** <a href="https://maps.google.com/?cid=439356359560696761&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (1 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=439356359560696761&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (2 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** 'The community feels calm, creative, and homey, with roaming animals adding an exotic touch.'
@@ -17,7 +17,7 @@
 - **Tags:** city, coworking, community
 - **Nearest airports:** La Aurora International Airport (GUA) ~22 km; Retalhuleu Airport (RER) ~104 km
 - **Website:** https://nomadico.io
-- **Rating:** 5.0 from 1 Google reviews
+- **Rating:** 5.0 from 2 Google reviews
 
 ## Rates
 

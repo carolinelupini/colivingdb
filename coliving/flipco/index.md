@@ -1,11 +1,11 @@
 # Flipco
 
-> Coliving in Madrid, Spain. Last updated September 1, 2026.
+> Coliving in Madrid, Spain. Last updated September 11, 2026.
 
 - **Location:** Madrid, Spain
 - **Type:** Permanent coliving
 - **Price:** from €740/mo
-- **Rating:** <a href="https://maps.google.com/?cid=12016362249336379468&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 3.5 (46 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=12016362249336379468&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 3.4 (47 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Hotel comfort, apartment freedom — disconnect to connect
@@ -15,7 +15,7 @@
 - **Tags:** community, coworking, city, wellness
 - **Nearest airports:** Adolfo Suárez Madrid–Barajas Airport (MAD) ~11 km
 - **Website:** https://flipcoliving.com/
-- **Rating:** 3.5 from 46 Google reviews
+- **Rating:** 3.4 from 47 Google reviews
 
 ## Rates
 

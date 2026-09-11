@@ -1,12 +1,12 @@
 # Coliving in Matera, Italy
 
-> 2 colivings in Matera, Italy, prices from €950 to €950 per month – last updated September 1, 2026.
+> 2 colivings in Matera, Italy, prices from €950 to €950 per month – last updated September 11, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Casa Netural | Matera | from €950/mo | 4.9 (139) | private | 1 night | Permanent |
+| Casa Netural | Matera | from €950/mo | 4.9 (142) | private | 1 night | Permanent |
 | Tursi Digital Nomads — Matera | Matera | from €799/event | — | — | — | Pop-up |
 
 ## Price distribution

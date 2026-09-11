@@ -1,11 +1,11 @@
 # Four Leaf Clover Bansko - Coliving
 
-> Coliving in Bansko, Bulgaria. Last updated September 1, 2026.
+> Coliving in Bansko, Bulgaria. Last updated September 11, 2026.
 
 - **Location:** Bansko, Bulgaria
 - **Type:** Permanent coliving
 - **Price:** from €280/mo
-- **Rating:** <a href="https://maps.google.com/?cid=9342879820444473159&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (6 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=9342879820444473159&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (7 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Warm, welcoming community of digital nomads, tourists, and expats built to enrich residents' social life
@@ -15,7 +15,7 @@
 - **Tags:** community, coworking, mountain
 - **Nearest airports:** Sofia Airport (SOF) ~95 km; Plovdiv International Airport (PDV) ~116 km; Kavala Alexander the Great International Airport (KVA) ~140 km
 - **Website:** https://fourleafclover-bansko.com/
-- **Rating:** 5.0 from 6 Google reviews
+- **Rating:** 5.0 from 7 Google reviews
 
 ## Rates
 

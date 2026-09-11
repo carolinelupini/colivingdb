@@ -1,12 +1,12 @@
 # ecoVita
 
-> Coliving in San Priamo, San Vito, Sardinia, Italy. Last updated September 1, 2026.
+> Coliving in San Priamo, San Vito, Sardinia, Italy. Last updated September 11, 2026.
 
 - **Location:** San Priamo, San Vito, Sardinia, Italy
 - **Type:** Permanent coliving
 - **Price:** from €1,140/mo
 - **Price note:** €1,020/month Mapmelon rate (from €38/night)
-- **Rating:** <a href="https://maps.google.com/?cid=9402151034402156328&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (19 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=9402151034402156328&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (23 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 3 nights
@@ -15,7 +15,7 @@
 - **Tags:** rural, eco, island, community
 - **Nearest airports:** Cagliari Elmas Airport (CAG) ~44 km; Rome–Fiumicino Leonardo da Vinci International Airport (FCO) ~360 km
 - **Website:** https://www.ecovitaexperience.com/en/
-- **Rating:** 4.9 from 19 Google reviews
+- **Rating:** 4.9 from 23 Google reviews
 
 ## Rates
 

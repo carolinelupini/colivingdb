@@ -1,12 +1,12 @@
 # Ikigai Coliving
 
-> Coliving in Puerto de la Cruz, Tenerife, Spain. Last updated September 1, 2026.
+> Coliving in Puerto de la Cruz, Tenerife, Spain. Last updated September 11, 2026.
 
 - **Location:** Puerto de la Cruz, Tenerife, Spain
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** rates on request/booking page
-- **Rating:** <a href="https://maps.google.com/?cid=2545024632256509310&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (97 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=2545024632256509310&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (98 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 1000 Mbps down <small>· operator-reported</small>
@@ -17,7 +17,7 @@
 - **Tags:** island, coworking, community, wellness
 - **Nearest airports:** Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~22 km; Tenerife Sur Airport (TFS) ~41 km; La Palma Airport (SPC) ~120 km
 - **Website:** https://www.ikigaicoliving.com/
-- **Rating:** 4.9 from 97 Google reviews
+- **Rating:** 4.9 from 98 Google reviews
 
 ## About
 

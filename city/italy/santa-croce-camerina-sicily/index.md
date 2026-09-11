@@ -1,12 +1,12 @@
 # Coliving in Santa Croce Camerina, Sicily, Italy
 
-> 1 colivings in Santa Croce Camerina, Sicily, Italy, prices from €1,200 to €1,200 per month – last updated September 1, 2026.
+> 1 colivings in Santa Croce Camerina, Sicily, Italy, prices from €1,200 to €1,200 per month – last updated September 11, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Canestanco 18 Living | Santa Croce Camerina, Sicily | from €1,200/mo | 5.0 (9) | private | — | Permanent |
+| Canestanco 18 Living | Santa Croce Camerina, Sicily | from €1,200/mo | 5.0 (11) | private | — | Permanent |
 
 ## Price distribution
 

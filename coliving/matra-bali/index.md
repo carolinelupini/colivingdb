@@ -1,11 +1,11 @@
 # Matra Bali
 
-> Coliving in Canggu, Indonesia. Last updated September 1, 2026.
+> Coliving in Canggu, Indonesia. Last updated September 11, 2026.
 
 - **Location:** Canggu, Indonesia
 - **Type:** Permanent coliving
 - **Price:** from IDR 7,500,000/mo
-- **Rating:** <a href="https://maps.google.com/?cid=2814453507977176675&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (122 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=2814453507977176675&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (123 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Great rooftop-view atmosphere at a family-run surf camp
@@ -15,7 +15,7 @@
 - **Tags:** coworking, community, surf, wellness
 - **Nearest airports:** Denpasar I Gusti Ngurah Rai International Airport (DPS) ~11 km; Lombok International Airport (LOP) ~126 km
 - **Website:** https://www.matrabali.com/coliving-and-coworking-space
-- **Rating:** 4.3 from 122 Google reviews
+- **Rating:** 4.3 from 123 Google reviews
 
 ## Rates
 

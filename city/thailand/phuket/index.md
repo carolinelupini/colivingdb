@@ -1,12 +1,12 @@
 # Coliving in Phuket, Thailand
 
-> 1 colivings in Phuket, Thailand, prices from €471 to €471 per month – last updated September 1, 2026.
+> 1 colivings in Phuket, Thailand, prices from €471 to €471 per month – last updated September 11, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| HOMA Phuket Town | Phuket | from THB 18,000/mo | 4.7 (938) | private | — | Permanent |
+| HOMA Phuket Town | Phuket | from THB 18,000/mo | 4.7 (1081) | private | — | Permanent |
 
 ## Price distribution
 

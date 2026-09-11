@@ -1,12 +1,12 @@
 # Anceu Coliving
 
-> Coliving in Ponte Caldelas, Galicia, Spain. Last updated September 1, 2026.
+> Coliving in Ponte Caldelas, Galicia, Spain. Last updated September 11, 2026.
 
 - **Location:** Ponte Caldelas, Galicia, Spain
 - **Type:** Permanent coliving
 - **Price:** from €882/mo
 - **Price note:** private ensuite from €882/month
-- **Rating:** <a href="https://maps.google.com/?cid=7425605936732552814&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (73 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=7425605936732552814&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (76 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 1000 Mbps down <small>· operator-reported</small>
@@ -17,7 +17,7 @@
 - **Tags:** rural, coworking, community, eco, wellness
 - **Nearest airports:** Vigo Airport (VGO) ~25 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~457 km; Santiago-Rosalía de Castro Airport (SCQ) ~55 km
 - **Website:** https://anceu.com/
-- **Rating:** 4.9 from 73 Google reviews
+- **Rating:** 4.9 from 76 Google reviews
 
 ## Rates
 

@@ -1,12 +1,12 @@
 # Outsite Santa Teresa - Playa
 
-> Coliving in Santa Teresa, Costa Rica. Last updated September 1, 2026.
+> Coliving in Santa Teresa, Costa Rica. Last updated September 11, 2026.
 
 - **Location:** Santa Teresa, Costa Rica
 - **Type:** Permanent coliving
 - **Price:** from $2,154/mo
 - **Price note:** est.; fixed monthly rates promoted, exact behind date-select
-- **Rating:** <a href="https://maps.google.com/?cid=4739854609563625798&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (47 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=4739854609563625798&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (49 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 200 Mbps down <small>· operator-reported</small>
@@ -17,7 +17,7 @@
 - **Tags:** surf, beach, coworking, community, wellness
 - **Nearest airports:** Nosara Airport (NOB) ~65 km; Juan Santamaría International Airport (SJO) ~112 km; La Fortuna Arenal Airport (FON) ~113 km
 - **Website:** https://www.outsite.co/locations/santa-teresa-playa
-- **Rating:** 4.8 from 47 Google reviews
+- **Rating:** 4.7 from 49 Google reviews
 
 ## Rates
 

@@ -1,12 +1,12 @@
 # Bio Coliving TAYRONA
 
-> Coliving in Santa Marta (near Tayrona Park), Colombia. Last updated September 1, 2026.
+> Coliving in Santa Marta (near Tayrona Park), Colombia. Last updated September 11, 2026.
 
 - **Location:** Santa Marta (near Tayrona Park), Colombia
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** Price on request; the operator publishes only a bundled day-package rate (from COP$60,000/day)
-- **Rating:** <a href="https://maps.google.com/?cid=2762998578243031467&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (48 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=2762998578243031467&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (49 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 60 Mbps down <small>· operator-reported</small>
@@ -16,8 +16,8 @@
 - **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Tags:** eco, rural, coworking, community, wellness
 - **Nearest airports:** Simón Bolívar International Airport (SMR) ~25 km; Ernesto Cortissoz International Airport (BAQ) ~90 km; Almirante Padilla Airport (RCH) ~126 km
-- **Website:** https://www.mapmelon.com/colivings/bio-coliving-tayrona?ref=colivingdb
-- **Rating:** 4.7 from 48 Google reviews
+- **Website:** https://biocolivingtayrona.com/
+- **Rating:** 4.6 from 49 Google reviews
 
 ## About
 

@@ -1,12 +1,12 @@
 # Folks Coliving
 
-> Coliving in Valencia, Spain. Last updated September 1, 2026.
+> Coliving in Valencia, Spain. Last updated September 11, 2026.
 
 - **Location:** Valencia, Spain
 - **Type:** Permanent coliving
 - **Price:** from €1,500/mo
 - **Price note:** €1,200/mo (disc. from €1,500); €48/night
-- **Rating:** <a href="https://maps.google.com/?cid=13225535051693322885&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (45 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=13225535051693322885&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (49 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 15 Mbps down <small>· operator-reported</small>
@@ -17,7 +17,7 @@
 - **Tags:** city, beach, coworking, community, wellness
 - **Nearest airports:** Valencia Airport (VLC) ~9 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~295 km; Castellón-Costa Azahar Airport (CDT) ~91 km
 - **Website:** https://www.mapmelon.com/colivings/folks-coliving?ref=colivingdb
-- **Rating:** 4.9 from 45 Google reviews
+- **Rating:** 4.9 from 49 Google reviews
 
 ## Rates
 

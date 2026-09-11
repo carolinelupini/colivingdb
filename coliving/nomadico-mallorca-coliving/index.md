@@ -1,13 +1,13 @@
 # Nomadico Mallorca Coliving
 
-> Coliving in Búger, Mallorca, Spain. Last updated September 1, 2026.
+> Coliving in Búger, Mallorca, Spain. Last updated September 11, 2026.
 
 - **Location:** Búger, Mallorca, Spain
 - **Type:** Pop-up / dated edition
 - **Dates:** Mar–Aug & Sep–Nov (seasonal)
 - **Price:** from €560/mo
 - **Price note:** from €490/month shared (low season); private higher
-- **Rating:** <a href="https://maps.google.com/?cid=2619042474139222600&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (30 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=2619042474139222600&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (32 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** Grounded, familiar, nature — a genuine Balearic experience
@@ -17,7 +17,7 @@
 - **Tags:** rural, island, coworking, community, wellness
 - **Nearest airports:** Palma de Mallorca Airport (PMI) ~31 km; Menorca Airport (MAH) ~106 km
 - **Website:** https://www.nomadico.io/mallorca-coliving
-- **Rating:** 5.0 from 30 Google reviews
+- **Rating:** 5.0 from 32 Google reviews
 
 ## Rates
 

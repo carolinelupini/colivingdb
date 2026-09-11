@@ -1,12 +1,12 @@
 # Dwell Azores
 
-> Coliving in Fenais da Luz, São Miguel, Azores, Portugal. Last updated September 1, 2026.
+> Coliving in Fenais da Luz, São Miguel, Azores, Portugal. Last updated September 11, 2026.
 
 - **Location:** Fenais da Luz, São Miguel, Azores, Portugal
 - **Type:** Permanent coliving
 - **Price:** from €2,160/mo
 - **Price note:** €2,160/month on Mapmelon (from ~€76/night)
-- **Rating:** <a href="https://maps.google.com/?cid=13531360197260148216&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (89 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=13531360197260148216&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (93 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** Homey, laid-back community with ocean and nature access
@@ -16,7 +16,7 @@
 - **Tags:** island, surf, coworking, community
 - **Nearest airports:** João Paulo II Airport (PDL) ~10 km; Santa Maria Airport (SMA) ~103 km
 - **Website:** https://dwellazores.com/
-- **Rating:** 5.0 from 89 Google reviews
+- **Rating:** 5.0 from 93 Google reviews
 
 ## About
 

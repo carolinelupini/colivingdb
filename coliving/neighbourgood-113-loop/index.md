@@ -1,12 +1,12 @@
 # Neighbourgood 113 Loop
 
-> Coliving in Cape Town, South Africa. Last updated September 1, 2026.
+> Coliving in Cape Town, South Africa. Last updated September 11, 2026.
 
 - **Location:** Cape Town, South Africa
 - **Type:** Permanent coliving
 - **Price:** from €345/mo
 - **Price note:** est.; CBD suites from ~€25/night, up to 40% monthly discount
-- **Rating:** <a href="https://maps.google.com/?cid=13593289329098828994&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (63 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=13593289329098828994&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (62 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** Yes
 - **Vibe:** Connected living and workspaces for a modern travelling community
@@ -16,7 +16,7 @@
 - **Tags:** city, coworking, community
 - **Nearest airports:** Cape Town International Airport (CPT) ~18 km
 - **Website:** https://www.neighbourgood.co
-- **Rating:** 4.6 from 63 Google reviews
+- **Rating:** 4.7 from 62 Google reviews
 
 ## About
 

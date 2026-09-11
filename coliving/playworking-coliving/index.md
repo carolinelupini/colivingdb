@@ -1,12 +1,12 @@
 # Playworking Coliving
 
-> Coliving in Đuraševići, Luštica Peninsula, Montenegro. Last updated September 1, 2026.
+> Coliving in Đuraševići, Luštica Peninsula, Montenegro. Last updated September 11, 2026.
 
 - **Location:** Đuraševići, Luštica Peninsula, Montenegro
 - **Type:** Permanent coliving
 - **Price:** from €600/mo
 - **Price note:** from €20/night, est. monthly
-- **Rating:** <a href="https://maps.google.com/?cid=11078413160578093255&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (70 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=11078413160578093255&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (72 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 600 Mbps down <small>· operator-reported</small>
@@ -17,7 +17,7 @@
 - **Tags:** rural, beach, coworking, community, wellness
 - **Nearest airports:** Tivat Airport (TIV) ~3 km; Podgorica Airport / Podgorica Golubovci Airbase (TGD) ~46 km; Dubrovnik Ruđer Bošković Airport (DBV) ~39 km
 - **Website:** https://www.playworking.me/
-- **Rating:** 4.5 from 70 Google reviews
+- **Rating:** 4.5 from 72 Google reviews
 
 ## About
 

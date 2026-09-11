@@ -1,11 +1,11 @@
 # Tropical Nomad Coliving
 
-> Coliving in Canggu, Indonesia. Last updated September 1, 2026.
+> Coliving in Canggu, Indonesia. Last updated September 11, 2026.
 
 - **Location:** Canggu, Indonesia
 - **Type:** Permanent coliving
 - **Price:** from $950/mo
-- **Rating:** <a href="https://maps.google.com/?cid=1600082166356726553&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (377 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=1600082166356726553&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (401 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 500 Mbps down <small>· operator-reported</small>
@@ -19,7 +19,7 @@
 - **Nearest airports:** Denpasar I Gusti Ngurah Rai International Airport (DPS) ~11 km; Lombok International Airport (LOP) ~126 km
 - **Getting there:** Ngurah Rai/Denpasar (DPS), ~45–60 min drive depending on traffic — approximate, not stated on site.
 - **Website:** https://tropicalnomad.id/
-- **Rating:** 4.4 from 377 Google reviews
+- **Rating:** 4.5 from 401 Google reviews
 
 ## Rates
 

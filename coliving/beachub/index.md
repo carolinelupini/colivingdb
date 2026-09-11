@@ -1,12 +1,12 @@
 # beacHub
 
-> Coliving in Koh Phangan, Thailand. Last updated September 1, 2026.
+> Coliving in Koh Phangan, Thailand. Last updated September 11, 2026.
 
 - **Location:** Koh Phangan, Thailand
 - **Type:** Permanent coliving
 - **Price:** from THB 30,000/mo
 - **Price note:** from ฿30,000++/month for a bungalow (single or double); ฿15,000++/week, ฿2,500++/night, low-season starting rates
-- **Rating:** <a href="https://maps.google.com/?cid=2904307983258154729&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.2 (145 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=2904307983258154729&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.2 (144 reviews)</a> <small>· Google</small>
 - **Room types:** shared
 - **Dorm available:** No
 - **Vibe:** the world's chillest coworking space, ocean breeze relaxation
@@ -16,7 +16,7 @@
 - **Tags:** beach, coworking, island, wellness
 - **Nearest airports:** Samui International Airport (USM) ~24 km; Suvarnabhumi Airport (BKK) ~445 km; Surat Thani Airport (URT) ~115 km
 - **Website:** https://sites.google.com/view/beachub-phangan/home
-- **Rating:** 4.2 from 145 Google reviews
+- **Rating:** 4.2 from 144 Google reviews
 
 ## Rates
 

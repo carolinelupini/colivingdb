@@ -1,11 +1,11 @@
 # The Ubud Residence (Raya Nyuh Kuning)
 
-> Coliving in Ubud, Indonesia. Last updated September 1, 2026.
+> Coliving in Ubud, Indonesia. Last updated September 11, 2026.
 
 - **Location:** Ubud, Indonesia
 - **Type:** Permanent coliving
 - **Price:** from $949/mo
-- **Rating:** <a href="https://maps.google.com/?cid=6992275322276467825&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (131 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=6992275322276467825&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (253 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Peaceful village setting balancing quiet with convenience
@@ -15,7 +15,7 @@
 - **Tags:** community, rural, coworking, wellness
 - **Nearest airports:** Denpasar I Gusti Ngurah Rai International Airport (DPS) ~26 km; Lombok International Airport (LOP) ~115 km
 - **Website:** https://coliving.com/spaces/7eq4qcbw
-- **Rating:** 5.0 from 131 Google reviews
+- **Rating:** 5.0 from 253 Google reviews
 
 ## Rates
 

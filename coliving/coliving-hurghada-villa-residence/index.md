@@ -1,12 +1,12 @@
 # Coliving Hurghada (Villa Residence)
 
-> Coliving in Hurghada, Egypt. Last updated September 1, 2026.
+> Coliving in Hurghada, Egypt. Last updated September 11, 2026.
 
 - **Location:** Hurghada, Egypt
 - **Type:** Permanent coliving
 - **Price:** from $720/mo
 - **Price note:** from BGN 1,236/mo single private (~€632)
-- **Rating:** <a href="https://maps.google.com/?cid=4597789900775384149&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (58 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=4597789900775384149&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (59 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 50 Mbps down <small>· operator-reported</small>
@@ -17,7 +17,7 @@
 - **Tags:** beach, coworking, community
 - **Nearest airports:** Hurghada International Airport (HRG) ~10 km; Cairo International Airport (CAI) ~395 km; Sharm El Sheikh International Airport (SSH) ~98 km
 - **Website:** https://coliving.com/spaces/iyyt0bxc
-- **Rating:** 4.8 from 58 Google reviews
+- **Rating:** 4.8 from 59 Google reviews
 
 ## Rates
 

@@ -1,11 +1,11 @@
 # Zeta House
 
-> Coliving in Austin, United States. Last updated September 1, 2026.
+> Coliving in Austin, United States. Last updated September 11, 2026.
 
 - **Location:** Austin, United States
 - **Type:** Permanent coliving
 - **Price:** from $1,160/wk
-- **Rating:** <a href="https://maps.google.com/?cid=15084291569146886748&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (10 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=15084291569146886748&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (11 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 1000 Mbps down <small>· operator-reported</small><br><small>&quot;Business-grade 1 Gbps symmetric Google Fibre&quot; stated</small>
@@ -17,7 +17,7 @@
 - **Tags:** startup, coworking, community
 - **Nearest airports:** Austin Bergstrom International Airport (AUS) ~10 km; Killeen Regional Airport / Robert Gray Army Airfield (GRK) ~90 km; San Antonio International Airport (SAT) ~108 km
 - **Website:** https://zeta.house/
-- **Rating:** 4.9 from 10 Google reviews
+- **Rating:** 4.9 from 11 Google reviews
 
 ## Rates
 

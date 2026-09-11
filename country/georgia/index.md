@@ -1,12 +1,12 @@
 # Coliving in Georgia
 
-> 3 colivings in Georgia, prices from €192 to €560 per month – last updated September 1, 2026.
+> 3 colivings in Georgia, prices from €192 to €560 per month – last updated September 11, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Colive & Cowork Gumbrini | Tskaltubo | from $219/mo | 4.9 (51) | private, shared, dorm | — | Permanent |
+| Colive & Cowork Gumbrini | Tskaltubo | from $219/mo | 4.9 (53) | private, shared, dorm | — | Permanent |
 | Khomuli Home | Khomuli | from $219/mo | — | private, shared | 30 nights | Permanent |
 | Saakadze Home | Dusheti | from $639/mo | — | private | 30 nights | Permanent |
 

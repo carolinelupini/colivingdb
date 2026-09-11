@@ -1,12 +1,12 @@
 # Bord de Meuse
 
-> Coliving in Hermalle-sous-Argenteau (Liège), Belgium. Last updated September 1, 2026.
+> Coliving in Hermalle-sous-Argenteau (Liège), Belgium. Last updated September 11, 2026.
 
 - **Location:** Hermalle-sous-Argenteau (Liège), Belgium
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** pricing not published
-- **Rating:** <a href="https://maps.google.com/?cid=8061426583435092539&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (8 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=8061426583435092539&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (10 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Elegant, upscale professional coliving blending business productivity with wellness-oriented tranquility and refined community networking.
@@ -16,7 +16,7 @@
 - **Tags:** coworking, community, wellness
 - **Nearest airports:** Liège Airport (LGG) ~19 km; Brussels Airport (BRU) ~86 km; Maastricht Aachen Airport (MST) ~22 km
 - **Website:** https://borddemeuse.com/
-- **Rating:** 4.5 from 8 Google reviews
+- **Rating:** 4.6 from 10 Google reviews
 
 ## About
 

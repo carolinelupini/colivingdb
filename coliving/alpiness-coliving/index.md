@@ -1,12 +1,12 @@
 # Alpiness Coliving
 
-> Coliving in Evolène, Switzerland. Last updated September 1, 2026.
+> Coliving in Evolène, Switzerland. Last updated September 11, 2026.
 
 - **Location:** Evolène, Switzerland
 - **Type:** Permanent coliving
 - **Price:** from CHF 900/mo
 - **Price note:** from CHF 900/month for a shared room (operator-confirmed); private from CHF 1,590.
-- **Rating:** <a href="https://maps.google.com/?cid=2104685986087285298&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (54 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=2104685986087285298&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (59 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 400 Mbps down <small>· operator-reported</small>
@@ -17,7 +17,7 @@
 - **Tags:** mountain, ski, rural, community, coworking, wellness
 - **Nearest airports:** Bern Airport (BRN) ~89 km; Zürich Airport (ZRH) ~170 km; Turin Airport (TRN) ~102 km
 - **Website:** https://alpiness-coliving.com/
-- **Rating:** 5.0 from 54 Google reviews
+- **Rating:** 5.0 from 59 Google reviews
 
 ## Rates
 

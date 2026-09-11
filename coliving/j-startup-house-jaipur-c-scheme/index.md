@@ -1,12 +1,12 @@
 # J Startup House, Jaipur - C Scheme
 
-> Coliving in Jaipur, India. Last updated September 1, 2026.
+> Coliving in Jaipur, India. Last updated September 11, 2026.
 
 - **Location:** Jaipur, India
 - **Type:** Permanent coliving
 - **Price:** from INR 8,000/mo
 - **Price note:** from ₹8,000/month for a dorm bed; private rooms ₹30,000/month
-- **Rating:** <a href="https://maps.google.com/?cid=6806970836498749206&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (298 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=6806970836498749206&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (322 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Vibe:** quiet home for loud ideas, founder community
@@ -19,7 +19,7 @@
 - **Nearest airports:** Jaipur International Airport (JAI) ~9 km; Indira Gandhi International Airport (DEL) ~224 km; Kishangarh Airport Ajmer (KQH) ~103 km
 - **Getting there:** Jaipur International (JAI) — approximate, not stated on site.
 - **Website:** https://www.jstartuphouse.com/
-- **Rating:** 4.7 from 298 Google reviews
+- **Rating:** 4.7 from 322 Google reviews
 
 ## Rates
 

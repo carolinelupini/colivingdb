@@ -1,11 +1,11 @@
 # Surf & Zen Coworking and Coliving
 
-> Coliving in Galle, Sri Lanka. Last updated September 1, 2026.
+> Coliving in Galle, Sri Lanka. Last updated September 11, 2026.
 
 - **Location:** Galle, Sri Lanka
 - **Type:** Permanent coliving
 - **Price:** from $25/night
-- **Rating:** <a href="https://maps.google.com/?cid=4330893061079356100&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (72 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=4330893061079356100&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (73 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Wi-Fi (on-site):** 100 Mbps down <small>· operator-reported</small>
@@ -16,7 +16,7 @@
 - **Tags:** surf, beach, coworking, wellness
 - **Nearest airports:** Koggala Airport (KCT) ~1 km; Bandaranaike International Colombo Airport (CMB) ~139 km; Mattala Rajapaksa International Airport (HRI) ~95 km
 - **Website:** https://www.surfandzen.com/
-- **Rating:** 4.3 from 72 Google reviews
+- **Rating:** 4.3 from 73 Google reviews
 
 ## Rates
 

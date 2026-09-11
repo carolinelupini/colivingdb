@@ -1,11 +1,11 @@
 # Coliving in San Miguel de Abona, Tenerife, Spain
 
-> 1 colivings in San Miguel de Abona, Tenerife, Spain – last updated September 1, 2026.
+> 1 colivings in San Miguel de Abona, Tenerife, Spain – last updated September 11, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Amarilla Co-living | San Miguel de Abona, Tenerife | On request | 4.6 (293) | private, shared | — | Permanent |
+| Amarilla Co-living | San Miguel de Abona, Tenerife | On request | 4.7 (316) | private, shared | — | Permanent |
 
 Source: https://colivingdb.com/city/spain/san-miguel-de-abona-tenerife/

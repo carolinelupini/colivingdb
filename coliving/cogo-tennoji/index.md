@@ -1,11 +1,11 @@
 # COGO TENNOJI
 
-> Coliving in Osaka, Japan. Last updated September 1, 2026.
+> Coliving in Osaka, Japan. Last updated September 11, 2026.
 
 - **Location:** Osaka, Japan
 - **Type:** Permanent coliving
 - **Price:** On request
-- **Rating:** <a href="https://maps.google.com/?cid=7912511014941946427&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (580 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=7912511014941946427&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (592 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** coliving hotel blending focused work and rest
@@ -19,6 +19,6 @@
 - **Nearest airports:** Osaka Itami International Airport (ITM) ~16 km; Tokyo Haneda International Airport (HND) ~401 km; Kobe Airport (UKB) ~27 km
 - **Getting there:** Kansai International Airport (KIX) is ~50-60 min via the Haruka express train.
 - **Website:** https://co-go.jp/tennoji/
-- **Rating:** 4.6 from 580 Google reviews
+- **Rating:** 4.6 from 592 Google reviews
 
 Source: https://colivingdb.com/coliving/cogo-tennoji/

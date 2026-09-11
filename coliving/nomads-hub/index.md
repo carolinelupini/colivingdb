@@ -1,11 +1,11 @@
 # Nomads Hub
 
-> Coliving in Cebu, Philippines. Last updated September 1, 2026.
+> Coliving in Cebu, Philippines. Last updated September 11, 2026.
 
 - **Location:** Cebu, Philippines
 - **Type:** Permanent coliving
 - **Price:** On request
-- **Rating:** <a href="https://maps.google.com/?cid=8361653863153762444&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.2 (142 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=8361653863153762444&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.2 (143 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Minimum stay:** —
@@ -14,7 +14,7 @@
 - **Tags:** community, coworking, city
 - **Nearest airports:** Mactan Cebu International Airport (CEB) ~10 km; Bohol-Panglao International Airport (TAG) ~84 km; Bacolod-Silay International Airport (BCD) ~108 km
 - **Website:** https://nomadshub.ph/
-- **Rating:** 4.2 from 142 Google reviews
+- **Rating:** 4.2 from 143 Google reviews
 
 ## About
 

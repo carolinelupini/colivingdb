@@ -1,11 +1,11 @@
 # HOMA Phuket Town
 
-> Coliving in Phuket, Thailand. Last updated September 1, 2026.
+> Coliving in Phuket, Thailand. Last updated September 11, 2026.
 
 - **Location:** Phuket, Thailand
 - **Type:** Permanent coliving
 - **Price:** from THB 18,000/mo
-- **Rating:** <a href="https://maps.google.com/?cid=12366488088118234829&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (938 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=12366488088118234829&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (1081 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** premium serviced apartments, distraction-free productivity
@@ -18,7 +18,7 @@
 - **Nearest airports:** Phuket International Airport (HKT) ~27 km; Krabi International Airport (KBV) ~70 km; Trang Airport (TST) ~141 km
 - **Getting there:** Phuket International (HKT), ~35–45 min drive — approximate, not stated on site.
 - **Website:** https://www.homa.co/phuket-town
-- **Rating:** 4.7 from 938 Google reviews
+- **Rating:** 4.7 from 1081 Google reviews
 
 ## Rates
 

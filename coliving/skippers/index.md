@@ -1,12 +1,12 @@
 # Skippers
 
-> Coliving in Diani Beach, Kenya. Last updated September 1, 2026.
+> Coliving in Diani Beach, Kenya. Last updated September 11, 2026.
 
 - **Location:** Diani Beach, Kenya
 - **Type:** Permanent coliving
 - **Price:** from €500/mo
 - **Price note:** est.; en-suite AC rooms, meal plans avail
-- **Rating:** <a href="https://maps.google.com/?cid=5180216401480882720&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (67 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=5180216401480882720&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (69 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 200 Mbps down <small>· operator-reported</small>
@@ -17,7 +17,7 @@
 - **Tags:** beach, coworking, community, surf
 - **Nearest airports:** Moi International Airport (MBA) ~27 km; Jomo Kenyatta International Airport (NBO) ~442 km; Tanga Airport (TGT) ~107 km
 - **Website:** https://www.teamskippers.com/
-- **Rating:** 4.6 from 67 Google reviews
+- **Rating:** 4.6 from 69 Google reviews
 
 ## Rates
 

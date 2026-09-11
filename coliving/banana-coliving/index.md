@@ -1,12 +1,12 @@
 # Banana Coliving
 
-> Coliving in Taipei, Taiwan. Last updated September 1, 2026.
+> Coliving in Taipei, Taiwan. Last updated September 11, 2026.
 
 - **Location:** Taipei, Taiwan
 - **Type:** Permanent coliving
 - **Price:** from TWD 7,900/mo
 - **Price note:** from NT$7,900/month (Ximen, triple room); rates vary by location
-- **Rating:** <a href="https://maps.google.com/?cid=15484336006979637128&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.2 (46 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=15484336006979637128&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.2 (45 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** Rebuilding community and connection in the busy, alienated city
@@ -16,7 +16,7 @@
 - **Tags:** city, community, coworking
 - **Nearest airports:** Taipei Songshan International Airport (TSA) ~4 km; Taiwan Taoyuan International Airport (TPE) ~34 km; Hualien Chiashan Airport (HUN) ~112 km
 - **Website:** https://www.bananacoliving.com/en
-- **Rating:** 4.2 from 46 Google reviews
+- **Rating:** 4.2 from 45 Google reviews
 
 ## Rates
 

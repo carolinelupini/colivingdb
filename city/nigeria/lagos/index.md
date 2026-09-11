@@ -1,6 +1,6 @@
 # Coliving in Lagos, Nigeria
 
-> 1 colivings in Lagos, Nigeria – last updated September 1, 2026.
+> 1 colivings in Lagos, Nigeria – last updated September 11, 2026.
 
 ## All colivings
 

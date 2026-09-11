@@ -1,12 +1,12 @@
 # Outpost Ubud Penestanan
 
-> Coliving in Ubud, Bali, Indonesia. Last updated September 1, 2026.
+> Coliving in Ubud, Bali, Indonesia. Last updated September 11, 2026.
 
 - **Location:** Ubud, Bali, Indonesia
 - **Type:** Permanent coliving
 - **Price:** from $849/mo
 - **Price note:** Colive+ from $849/mo (~€780 est.)
-- **Rating:** <a href="https://maps.google.com/?cid=12990142167726034090&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (321 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=12990142167726034090&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (328 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** community-focused coliving for digital nomads
@@ -20,7 +20,7 @@
 - **Nearest airports:** Denpasar I Gusti Ngurah Rai International Airport (DPS) ~28 km; Lombok International Airport (LOP) ~116 km
 - **Getting there:** I Gusti Ngurah Rai International (DPS), ~28 km away; paid airport shuttle offered — approximate, per third-party listing, not confirmed on Outpost's own page.
 - **Website:** https://destinationoutpost.co
-- **Rating:** 4.6 from 321 Google reviews
+- **Rating:** 4.6 from 328 Google reviews
 
 ## Rates
 

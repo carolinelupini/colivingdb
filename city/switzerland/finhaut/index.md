@@ -1,6 +1,6 @@
 # Coliving in Finhaut, Switzerland
 
-> 1 colivings in Finhaut, Switzerland – last updated September 1, 2026.
+> 1 colivings in Finhaut, Switzerland – last updated September 11, 2026.
 
 ## All colivings
 

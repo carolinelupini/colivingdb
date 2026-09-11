@@ -1,12 +1,12 @@
 # NomadGao Vila Nova
 
-> Coliving in Anjuna, Goa, India. Last updated September 1, 2026.
+> Coliving in Anjuna, Goa, India. Last updated September 11, 2026.
 
 - **Location:** Anjuna, Goa, India
 - **Type:** Permanent coliving
 - **Price:** from INR 35,000/mo
 - **Price note:** from ~$58/night private (Booking.com); monthly membership rates on request
-- **Rating:** <a href="https://maps.google.com/?cid=13602404376892886786&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (281 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=13602404376892886786&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (280 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 200 Mbps down <small>· operator-reported</small>
@@ -21,7 +21,7 @@
 - **Nearest airports:** Manohar International Airport (GOX) ~21 km; Goa Dabolim International Airport (GOI) ~25 km; Sindhudurg Airport (SDW) ~51 km
 - **Getting there:** Manohar International Airport, Mopa (GOX) is ~35-45 min by car; Dabolim/Goa International (GOI) is ~1-1.5h.
 - **Website:** https://nomadgao.com/coliving/
-- **Rating:** 4.8 from 281 Google reviews
+- **Rating:** 4.8 from 280 Google reviews
 
 ## Rates
 

@@ -1,11 +1,11 @@
 # Soul Co-Living Vila Franca de Xira
 
-> Coliving in Vila Franca de Xira, Portugal. Last updated September 1, 2026.
+> Coliving in Vila Franca de Xira, Portugal. Last updated September 11, 2026.
 
 - **Location:** Vila Franca de Xira, Portugal
 - **Type:** Permanent coliving
 - **Price:** On request
-- **Rating:** <a href="https://maps.google.com/?cid=6089961036629379460&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.2 (26 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=6089961036629379460&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (30 reviews)</a> <small>· Google</small>
 - **Room types:** private, apartment
 - **Dorm available:** No
 - **Vibe:** A reset-focused co-living space for artists, entrepreneurs, and nomads, set in a timeless village, blending art, work, and well-being.
@@ -16,6 +16,6 @@
 - **Tags:** community, rural, wellness
 - **Nearest airports:** Lisbon Humberto Delgado Airport (LIS) ~23 km; Cascais Airport (CAT) ~40 km
 - **Website:** http://www.soulcoliving.com/
-- **Rating:** 4.2 from 26 Google reviews
+- **Rating:** 4.3 from 30 Google reviews
 
 Source: https://colivingdb.com/coliving/soul-co-living-vila-franca-de-xira/

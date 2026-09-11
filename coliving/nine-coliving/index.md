@@ -1,12 +1,12 @@
 # Nine Coliving
 
-> Coliving in La Orotava, Tenerife, Spain. Last updated September 1, 2026.
+> Coliving in La Orotava, Tenerife, Spain. Last updated September 11, 2026.
 
 - **Location:** La Orotava, Tenerife, Spain
 - **Type:** Permanent coliving
 - **Price:** from €900/mo
 - **Price note:** from €30/night; 10-20% long-stay and summer discounts
-- **Rating:** <a href="https://maps.google.com/?cid=628981135892213440&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (110 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=628981135892213440&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (111 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** Finding your people while doing life your way
@@ -16,7 +16,7 @@
 - **Tags:** island, community, coworking, wellness
 - **Nearest airports:** Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~20 km; Tenerife Sur Airport (TFS) ~39 km; Gran Canaria Airport (LPA) ~122 km
 - **Website:** https://www.ninecoliving.com/
-- **Rating:** 4.9 from 110 Google reviews
+- **Rating:** 4.9 from 111 Google reviews
 
 ## About
 

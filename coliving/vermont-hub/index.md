@@ -1,12 +1,12 @@
 # Vermont Hub
 
-> Coliving in Leysin, Switzerland. Last updated September 1, 2026.
+> Coliving in Leysin, Switzerland. Last updated September 11, 2026.
 
 - **Location:** Leysin, Switzerland
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** chapter pricing not published; book by season
-- **Rating:** <a href="https://maps.google.com/?cid=13801232407049238775&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (12 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=13801232407049238775&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (13 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** 'Structured to be unstructured in order to find a balanced, work-life rhythm' — 'live, work, and play' alongside 'like-minded people' in a 'restorative setting.'
@@ -17,7 +17,7 @@
 - **Tags:** mountain, ski, coworking, community, wellness
 - **Nearest airports:** Geneva International Airport (GVA) ~70 km; Zürich Airport (ZRH) ~171 km; Bern Airport (BRN) ~74 km
 - **Website:** https://www.vermonthub.ch/coliving-chapters
-- **Rating:** 4.7 from 12 Google reviews
+- **Rating:** 4.7 from 13 Google reviews
 
 ## About
 

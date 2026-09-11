@@ -1,12 +1,12 @@
 # Mi Casa Coliving
 
-> Coliving in Puerto Escondido, Mexico. Last updated September 1, 2026.
+> Coliving in Puerto Escondido, Mexico. Last updated September 11, 2026.
 
 - **Location:** Puerto Escondido, Mexico
 - **Type:** Permanent coliving
 - **Price:** from €720/mo
 - **Price note:** €720/mo (discounted from €900); from €30/night
-- **Rating:** <a href="https://maps.google.com/?cid=6708242565196513279&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (5 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=6708242565196513279&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (4 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 320 Mbps down <small>· operator-reported</small><br><small>320 Mbps published</small>
@@ -17,7 +17,7 @@
 - **Tags:** beach, surf, coworking, community, wellness
 - **Nearest airports:** Puerto Escondido International Airport (PXM) ~9 km; Mexico City Benito Juárez International Airport (MEX) ~456 km; Bahías de Huatulco International Airport (HUX) ~82 km
 - **Website:** https://www.mapmelon.com/colivings/mi-casa-coliving?ref=colivingdb
-- **Rating:** 5.0 from 5 Google reviews
+- **Rating:** 5.0 from 4 Google reviews
 
 ## Rates
 

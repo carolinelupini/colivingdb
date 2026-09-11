@@ -1,11 +1,11 @@
 # Circles House | Coliving & Coworking
 
-> Coliving in Barcelona, Spain. Last updated September 1, 2026.
+> Coliving in Barcelona, Spain. Last updated September 11, 2026.
 
 - **Location:** Barcelona, Spain
 - **Type:** Permanent coliving
 - **Price:** from €950/mo
-- **Rating:** <a href="https://maps.google.com/?cid=470403822856206400&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (99 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=470403822856206400&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (102 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Vibe:** Boutique coliving for entrepreneurs seeking meaningful connection and wellbeing
@@ -15,7 +15,7 @@
 - **Tags:** coworking, startup, community, wellness
 - **Nearest airports:** Josep Tarradellas Barcelona-El Prat Airport (BCN) ~14 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~488 km; Girona-Costa Brava Airport (GRO) ~76 km
 - **Website:** http://www.circles.house/
-- **Rating:** 4.7 from 99 Google reviews
+- **Rating:** 4.7 from 102 Google reviews
 
 ## Rates
 

@@ -1,6 +1,6 @@
 # Coliving in Sintra, Portugal
 
-> 1 colivings in Sintra, Portugal, prices from €2,100 to €2,100 per month – last updated September 1, 2026.
+> 1 colivings in Sintra, Portugal, prices from €1,700 to €1,700 per month – last updated September 11, 2026.
 
 ## All colivings
 
@@ -12,10 +12,10 @@
 
 | Band (EUR/mo) | Colivings |
 |---|---|
-| 2000–∞ | 1 |
+| 1200–2000 | 1 |
 
 ## Upcoming pop-ups
 
-- Boundless Life — Sintra — Apr-Jun 2026 / Sept-Nov 2026 / Dec 2026 / Jan-Mar 2027 / Apr-Jun 2027 (plus Summer Camps)
+- Boundless Life — Sintra — Jan 3 - Mar 19, 2027 / Mar 25 - Jun 10, 2027 / Sep 15 - Dec 5, 2027
 
 Source: https://colivingdb.com/city/portugal/sintra/

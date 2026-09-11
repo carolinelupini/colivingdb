@@ -1,12 +1,12 @@
 # Coliving in Atsipopoulo / Rethymno (Crete), Greece
 
-> 1 colivings in Atsipopoulo / Rethymno (Crete), Greece, prices from €800 to €800 per month – last updated September 1, 2026.
+> 1 colivings in Atsipopoulo / Rethymno (Crete), Greece, prices from €800 to €800 per month – last updated September 11, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Calergi Residence | Atsipopoulo / Rethymno (Crete) | from €800/mo | 4.6 (85) | private | — | Permanent |
+| Calergi Residence | Atsipopoulo / Rethymno (Crete) | from €800/mo | 4.6 (90) | private | — | Permanent |
 
 ## Price distribution
 

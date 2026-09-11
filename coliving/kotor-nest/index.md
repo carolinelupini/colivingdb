@@ -1,12 +1,12 @@
 # Kotor Nest
 
-> Coliving in Kotor, Montenegro. Last updated September 1, 2026.
+> Coliving in Kotor, Montenegro. Last updated September 11, 2026.
 
 - **Location:** Kotor, Montenegro
 - **Type:** Permanent coliving
 - **Price:** from €650/mo
 - **Price note:** est.; rates not published (EUR, pay on arrival), booking via nomadico.io
-- **Rating:** <a href="https://maps.google.com/?cid=15530625909079387208&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (160 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=15530625909079387208&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (176 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 400 Mbps down <small>· operator-reported</small>
@@ -17,7 +17,7 @@
 - **Tags:** city, community, coworking, wellness
 - **Nearest airports:** Tivat Airport (TIV) ~4 km; Podgorica Airport / Podgorica Golubovci Airbase (TGD) ~40 km; Dubrovnik Ruđer Bošković Airport (DBV) ~44 km
 - **Website:** https://nestcoliving.me/
-- **Rating:** 4.7 from 160 Google reviews
+- **Rating:** 4.7 from 176 Google reviews
 
 ## Rates
 

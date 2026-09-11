@@ -1,12 +1,12 @@
 # Coliving in Brisbane, Australia
 
-> 1 colivings in Brisbane, Australia, prices from €809 to €809 per month – last updated September 1, 2026.
+> 1 colivings in Brisbane, Australia, prices from €809 to €809 per month – last updated September 11, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Treehouse Toowong | Brisbane | from A$1,333/mo | 4.4 (26) | private | — | Permanent |
+| Treehouse Toowong | Brisbane | from A$1,333/mo | 4.3 (26) | private | — | Permanent |
 
 ## Price distribution
 

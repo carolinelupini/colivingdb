@@ -5,10 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>colivingDB — every coliving worldwide, one map</title>
 <meta name="description" content="A free directory of coliving spaces worldwide — one map, native-currency pricing, ratings, and no login. Browse permanent colivings, pop-ups and nomad festivals by country, city, price, room type and stay length.">
-<!--OG-START--><!-- Link previews. RE-ADDED 2026-08-05: colivingdb.md records this as shipped on 2026-07-19,
-     but NO og:image existed anywhere on the site — not here, not on generated pages — so every share of
-     any colivingdb.com URL rendered a bare, imageless preview. Found while refreshing social-card.png,
-     which was pointless on its own: the image was stale AND unreferenced. Keep these inside the markers. -->
+
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://colivingdb.com/">
 <meta property="og:site_name" content="colivingDB">
@@ -21,18 +18,13 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="colivingDB — every coliving worldwide, one map">
 <meta name="twitter:description" content="A free directory of coliving spaces worldwide — one map, native-currency pricing, ratings, and no login.">
-<meta name="twitter:image" content="https://colivingdb.com/social-card.png"><!--OG-END-->
-<!--FAVICON-START--><link rel="icon" href="/favicon.ico" sizes="32x32"><link rel="icon" href="/favicon-48.png" type="image/png" sizes="48x48"><link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><!--FAVICON-END-->
-<!-- Google tag (gtag.js) -->
+<meta name="twitter:image" content="https://colivingdb.com/social-card.png">
+<link rel="icon" href="/favicon.ico" sizes="32x32"><link rel="icon" href="/favicon-48.png" type="image/png" sizes="48x48"><link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-GBDMVK7LWL"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
-  // Consent Mode v2: declare all four consent types up front (ad_* stay denied permanently — colivingDB runs no ads).
-  // Declaring ad_user_data here fixes GA4's "(not set) / event sent before ad_user_data" attribution warning.
   gtag('consent','default',{'ad_storage':'denied','ad_user_data':'denied','ad_personalization':'denied','analytics_storage':'denied','wait_for_update':500});
-  // Decide analytics consent BEFORE config so session_start is attributed for the majority (non-EEA) traffic.
-  // EEA/UK stays denied until the visitor accepts the banner (handled near </body>).
   (function(){try{
     var c=localStorage.getItem('cdb_consent');
     if(c==='granted'){ gtag('consent','update',{'analytics_storage':'granted'}); return; }
@@ -44,13 +36,11 @@
   gtag('js', new Date());
   gtag('config', 'G-GBDMVK7LWL');
 </script>
-<!-- GetYourGuide partner analytics -->
 <script async defer src="https://widget.getyourguide.com/dist/pa.umd.production.min.js" data-gyg-partner-id="HGTHLQS"></script>
 <link rel="preconnect" href="https://a.tile.openstreetmap.org" crossorigin>
 <link rel="preconnect" href="https://b.tile.openstreetmap.org" crossorigin>
 <link rel="preconnect" href="https://c.tile.openstreetmap.org" crossorigin>
-<style>/* required styles */
-
+<style>
 .leaflet-pane,
 .leaflet-tile,
 .leaflet-marker-icon,
@@ -76,15 +66,12 @@
 	        user-select: none;
 	  -webkit-user-drag: none;
 	}
-/* Prevents IE11 from highlighting tiles in blue */
 .leaflet-tile::selection {
 	background: transparent;
 }
-/* Safari renders non-retina tile on retina better with this, but Chrome is worse */
 .leaflet-safari .leaflet-tile {
 	image-rendering: -webkit-optimize-contrast;
 	}
-/* hack that prevents hw layers "stretching" when loading new tiles */
 .leaflet-safari .leaflet-tile-container {
 	width: 1600px;
 	height: 1600px;
@@ -94,8 +81,6 @@
 .leaflet-marker-shadow {
 	display: block;
 	}
-/* .leaflet-container svg: reset svg max-width decleration shipped in Joomla! (joomla.org) 3.x */
-/* .leaflet-container img: map is broken in FF if you have max-width: 100% on tiles */
 .leaflet-container .leaflet-overlay-pane svg {
 	max-width: none !important;
 	max-height: none !important;
@@ -112,7 +97,6 @@
 	}
 
 .leaflet-container img.leaflet-tile {
-	/* See: https://bugs.chromium.org/p/chromium/issues/detail?id=600120 */
 	mix-blend-mode: plus-lighter;
 }
 
@@ -122,7 +106,6 @@
 	}
 .leaflet-container.leaflet-touch-drag {
 	-ms-touch-action: pinch-zoom;
-	/* Fallback for FF which doesn't support pinch-zoom */
 	touch-action: none;
 	touch-action: pinch-zoom;
 }
@@ -150,7 +133,6 @@
 	     box-sizing: border-box;
 	z-index: 800;
 	}
-/* workaround for https://bugzilla.mozilla.org/show_bug.cgi?id=888319 */
 .leaflet-overlay-pane svg {
 	-moz-user-select: none;
 	}
@@ -178,12 +160,11 @@
 	}
 
 
-/* control positioning */
 
 .leaflet-control {
 	position: relative;
 	z-index: 800;
-	pointer-events: visiblePainted; /* IE 9-10 doesn't have auto */
+	pointer-events: visiblePainted; 
 	pointer-events: auto;
 	}
 .leaflet-top,
@@ -225,7 +206,6 @@
 	}
 
 
-/* zoom and fade animations */
 
 .leaflet-fade-anim .leaflet-popup {
 	opacity: 0;
@@ -262,7 +242,6 @@ svg.leaflet-zoom-animated {
 	}
 
 
-/* cursors */
 
 .leaflet-interactive {
 	cursor: pointer;
@@ -289,7 +268,6 @@ svg.leaflet-zoom-animated {
 	cursor:         grabbing;
 	}
 
-/* marker & overlays interactivity */
 .leaflet-marker-icon,
 .leaflet-marker-shadow,
 .leaflet-image-layer,
@@ -302,11 +280,10 @@ svg.leaflet-zoom-animated {
 .leaflet-image-layer.leaflet-interactive,
 .leaflet-pane > svg path.leaflet-interactive,
 svg.leaflet-image-layer.leaflet-interactive path {
-	pointer-events: visiblePainted; /* IE 9-10 doesn't have auto */
+	pointer-events: visiblePainted; 
 	pointer-events: auto;
 	}
 
-/* visual tweaks */
 
 .leaflet-container {
 	background: #ddd;
@@ -321,7 +298,6 @@ svg.leaflet-image-layer.leaflet-interactive path {
 	}
 
 
-/* general typography */
 .leaflet-container {
 	font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
 	font-size: 12px;
@@ -330,7 +306,6 @@ svg.leaflet-image-layer.leaflet-interactive path {
 	}
 
 
-/* general toolbar styles */
 
 .leaflet-bar {
 	box-shadow: 0 1px 5px rgba(0,0,0,0.65);
@@ -386,7 +361,6 @@ svg.leaflet-image-layer.leaflet-interactive path {
 	border-bottom-right-radius: 2px;
 	}
 
-/* zoom control */
 
 .leaflet-control-zoom-in,
 .leaflet-control-zoom-out {
@@ -399,7 +373,6 @@ svg.leaflet-image-layer.leaflet-interactive path {
 	}
 
 
-/* layers control */
 
 .leaflet-control-layers {
 	box-shadow: 0 1px 5px rgba(0,0,0,0.4);
@@ -453,13 +426,11 @@ svg.leaflet-image-layer.leaflet-interactive path {
 	margin: 5px -10px 5px -6px;
 	}
 
-/* Default icon URLs */
-.leaflet-default-icon-path { /* used only in path-guessing heuristic, see L.Icon.Default */
+.leaflet-default-icon-path { 
 	background-image: url(images/marker-icon.png);
 	}
 
 
-/* attribution and scale controls */
 
 .leaflet-container .leaflet-control-attribution {
 	background: #fff;
@@ -523,7 +494,6 @@ svg.leaflet-image-layer.leaflet-interactive path {
 	}
 
 
-/* popup */
 
 .leaflet-popup {
 	position: absolute;
@@ -615,7 +585,6 @@ svg.leaflet-image-layer.leaflet-interactive path {
 	}
 
 
-/* div icon */
 
 .leaflet-div-icon {
 	background: #fff;
@@ -623,8 +592,6 @@ svg.leaflet-image-layer.leaflet-interactive path {
 	}
 
 
-/* Tooltip */
-/* Base styles for the element that has a tooltip */
 .leaflet-tooltip {
 	position: absolute;
 	padding: 6px;
@@ -655,7 +622,6 @@ svg.leaflet-image-layer.leaflet-interactive path {
 	content: "";
 	}
 
-/* Directions */
 
 .leaflet-tooltip-bottom {
 	margin-top: 6px;
@@ -701,17 +667,14 @@ svg.leaflet-image-layer.leaflet-interactive path {
 	border-right-color: #fff;
 	}
 
-/* Printing */
 
 @media print {
-	/* Prevent printers from removing background-images of controls. */
 	.leaflet-control {
 		-webkit-print-color-adjust: exact;
 		print-color-adjust: exact;
 		}
 	}
-</style>  <!-- build-pages inlines vendor/leaflet.css here (no render-blocking cross-origin request) -->
-<style>
+</style><style>
   :root{
     --ink:#1a2333; --muted:#5b6779; --line:#e5e9f0; --bg:#f7f9fc; --card:#ffffff;
     --accent:#0e7c66; --accent-soft:#e2f3ef; --warn:#8a6d1a; --warn-bg:#fdf6e0;
@@ -719,7 +682,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
     --wrap:1120px;
   }
   *{box-sizing:border-box; margin:0; padding:0;}
-  html,body{max-width:100%; overflow-x:hidden;}   /* no phantom horizontal scroll on mobile */
+  html,body{max-width:100%; overflow-x:hidden;}   
   body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif; color:var(--ink); background:var(--bg);}
   a{color:var(--accent);}
 
@@ -729,7 +692,6 @@ svg.leaflet-image-layer.leaflet-interactive path {
   .tagline{color:var(--muted); font-size:.85rem;}
   .cur-select{margin-left:auto; padding:7px 10px; border:1px solid var(--line); border-radius:8px; font-size:.82rem; background:var(--card); color:var(--ink); cursor:pointer;}
 
-  /* prominent hero search — always visible, centered */
   .hero-search{padding:20px 22px 2px; display:flex; justify-content:center;}
   .hero-search .box{position:relative; width:100%; max-width:660px;}
   #suggest{position:absolute; top:calc(100% + 4px); left:0; right:0; background:var(--card); border:1px solid var(--line);
@@ -740,13 +702,11 @@ svg.leaflet-image-layer.leaflet-interactive path {
   .hero-search input:focus{outline:2px solid var(--accent-soft); border-color:var(--accent);}
   .hero-search .ico{position:absolute; left:16px; top:50%; transform:translateY(-50%); color:var(--muted); font-size:1.05rem;}
 
-  /* filter bar — list view only, below the map */
   .filters{padding:12px 18px; display:flex; flex-direction:column; gap:10px; max-width:var(--wrap); margin:14px auto 0; background:var(--card); border:1px solid var(--line); border-radius:12px;}
   .frline{display:flex; gap:8px 10px; align-items:center; flex-wrap:wrap;}
   .controls-box{display:flex; flex-direction:column; gap:9px; padding:10px 0; border-top:1px solid var(--line); border-bottom:1px solid var(--line);}
   .rates-row{gap:8px;}
   .unit-lbl{font-size:.8rem; color:var(--muted); margin-right:2px;}
-  /* dual-handle price range slider (two overlaid range inputs; only the thumbs are interactive) */
   .priceslider{width:216px; flex:0 0 auto;}
   .ps-head{display:flex; justify-content:space-between; align-items:center; gap:6px; margin-bottom:2px;}
   .ps-io{display:inline-flex; align-items:center; gap:3px;}
@@ -769,7 +729,6 @@ svg.leaflet-image-layer.leaflet-interactive path {
   .chip:hover{border-color:var(--accent);}
   .chip.on{background:var(--accent); border-color:var(--accent); color:#fff;}
   .chip.tag.on{background:var(--accent-soft); color:var(--accent); border-color:var(--accent);}
-  /* vibe chips — a distinct dimension from interest tags (violet vs green) */
   .chip.vibe{border-style:dashed;}
   .chip.vibe.on{background:#efeaff; color:#5b4bc4; border-color:#7c6ce0; border-style:solid;}
   .vibeline{align-items:center; gap:8px;}
@@ -795,23 +754,18 @@ svg.leaflet-image-layer.leaflet-interactive path {
   .controls-box select{min-width:0;}
 
   #map{height:38vh; min-height:250px; z-index:1; max-width:var(--wrap); margin:16px auto 0; border-radius:12px; overflow:hidden; border:1px solid var(--line);}
-  /* ocean colour so any not-yet-tiled area reads as sea, never a grey band */
   #map, .leaflet-container{background:#aad3df;}
   .map-legend{background:rgba(255,255,255,.93); border:1px solid var(--line); border-radius:8px; padding:6px 10px; font-size:.74rem; color:var(--ink); display:flex; gap:13px; box-shadow:0 1px 4px rgba(20,40,80,.12); pointer-events:none;}
-  /* the legend + attribution are informational overlays — let taps fall through to the map
-     (they were eating map taps on mobile = dead clicks); keep the OSM link itself tappable */
   .leaflet-control-attribution{pointer-events:none;}
   .leaflet-control-attribution a{pointer-events:auto;}
   .map-legend span{display:flex; align-items:center; gap:5px;}
   .map-legend i{width:10px; height:10px; border-radius:50%; display:inline-block; border:1.5px solid rgba(0,0,0,.15);}
 
-  /* browse landing */
   #landing{max-width:var(--wrap); margin:0 auto; padding:6px 22px 8px;}
   .browse-h{font-size:1.1rem; font-weight:700; text-align:center; margin:28px 0 4px;}
   .browse-sub{color:var(--muted); font-size:.85rem; text-align:center; margin-bottom:16px;}
-  /* fixed column counts that divide the card sets evenly, so rows stay even + centered at any width */
-  .cards-grid{display:grid; gap:12px; grid-template-columns:repeat(3,minmax(0,1fr));}   /* 6 regions -> 3+3 */
-  .cards-grid.types{grid-template-columns:repeat(4,minmax(0,1fr));}                       /* 12 types  -> 4+4+4 */
+  .cards-grid{display:grid; gap:12px; grid-template-columns:repeat(3,minmax(0,1fr));}   
+  .cards-grid.types{grid-template-columns:repeat(4,minmax(0,1fr));}                       
   @media(max-width:900px){ .cards-grid{grid-template-columns:repeat(2,minmax(0,1fr));} .cards-grid.types{grid-template-columns:repeat(3,minmax(0,1fr));} }
   @media(max-width:560px){ .cards-grid{grid-template-columns:1fr;} .cards-grid.types{grid-template-columns:repeat(2,minmax(0,1fr));} }
   .card-b{border:1px solid var(--line); border-radius:12px; padding:14px 16px; cursor:pointer; transition:transform .1s, box-shadow .12s; display:flex; align-items:center; justify-content:space-between; gap:8px; min-width:0;}
@@ -835,7 +789,6 @@ svg.leaflet-image-layer.leaflet-interactive path {
   .modal-close{position:absolute; top:6px; right:12px; z-index:2; background:none; border:none; font-size:1.7rem; line-height:1; color:var(--muted); cursor:pointer;}
   .modal-close:hover{color:var(--ink);}
   .modal-panel iframe{width:100%; height:84vh; border:none; display:block;}
-  /* always-visible feedback affordance (bug / filter request / feature idea) */
   .fab{position:fixed; right:18px; bottom:18px; z-index:1500; display:inline-flex; align-items:center; gap:7px;
        background:var(--accent); color:#fff; border:none; border-radius:999px; padding:11px 17px;
        font:inherit; font-size:.86rem; font-weight:600; cursor:pointer;
@@ -844,7 +797,6 @@ svg.leaflet-image-layer.leaflet-interactive path {
   .fab svg{width:15px; height:15px; fill:none; stroke:currentColor; stroke-width:2; stroke-linecap:round; stroke-linejoin:round;}
   @media(max-width:640px){ .fab{right:12px; bottom:12px; padding:10px 14px;} .fab .fab-t{display:none;} }
 
-  /* cookie consent banner (EEA/UK only); hides the feedback FAB while open so they never overlap */
   body.cb-open .fab{display:none !important;}
   #cookieBanner{position:fixed; left:0; right:0; bottom:0; z-index:3000; background:#12332b; color:#fff;
     font-size:.85rem; line-height:1.4; padding:12px 18px; display:flex; gap:8px 16px; align-items:center;
@@ -856,7 +808,6 @@ svg.leaflet-image-layer.leaflet-interactive path {
   #ckAccept{background:#0e7c66; color:#fff; border:none; font-weight:600;}
   #ckDecline{background:transparent; color:#cdd8d3; border:1px solid #4a7d6e;}
 
-  /* desktop slide-over for listing details (Airbnb-style); mobile keeps full-page navigation */
   #detailPanel{position:fixed; inset:0; z-index:2200; display:none;}
   #detailPanel.open{display:block;}
   .dp-backdrop{position:absolute; inset:0; background:rgba(20,30,50,.45);}
@@ -870,7 +821,6 @@ svg.leaflet-image-layer.leaflet-interactive path {
   .dp-close:hover{color:var(--ink);}
   .dp-frame{flex:1; border:none; width:100%;}
 
-  /* compare */
   .r-link .cmp{display:block; margin-top:5px; font-size:.72rem; padding:2px 8px; border:1px solid var(--line); border-radius:6px; background:#fff; color:var(--muted); cursor:pointer;}
   .r-link .cmp:hover{border-color:var(--accent); color:var(--accent);}
   .r-link .cmp.on{background:var(--accent-soft); border-color:var(--accent); color:var(--accent); font-weight:600;}
@@ -886,12 +836,9 @@ svg.leaflet-image-layer.leaflet-interactive path {
   .cmptab th{font-size:.92rem;}
   .cmptab .cl{font-size:.72rem; text-transform:uppercase; letter-spacing:.04em; color:var(--muted); min-width:80px;}
 
-  /* columnar list */
   .list{max-width:var(--wrap); margin:0 auto; padding:16px 22px 0;}
   .cols{display:grid; grid-template-columns:minmax(0,2.4fr) 0.8fr 1.05fr 0.75fr 1.05fr auto; gap:14px; align-items:center;}
   .r-rating{font-size:.82rem;}
-  /* sticky: the column labels stay visible while scrolling the list */
-  /* sticks just below the (also sticky) site header; --hdrh is measured in JS */
   .list-head{position:sticky; top:var(--hdrh, 56px); z-index:500; background:var(--bg); padding:8px 18px 10px; font-size:.7rem; text-transform:uppercase; letter-spacing:.05em; color:var(--muted); border:1px solid transparent; border-bottom:1px solid var(--line);}
   .list-head .r-price, .row .r-price{text-align:right;}
   .list-head .hsort{cursor:pointer; user-select:none;}
@@ -943,7 +890,6 @@ svg.leaflet-image-layer.leaflet-interactive path {
   .r-link .none{color:var(--muted); font-size:.78rem; font-weight:400;}
 
   .signup-form{width:100%; max-width:380px; height:48px; border:none; display:block;}
-  /* slim signup band shown in the browse/list view (the landing keeps the full one) */
   .listsignup{max-width:var(--wrap); margin:12px auto 0; padding:0 22px;}
   .listsignup-inner{display:flex; align-items:center; gap:8px 16px; flex-wrap:wrap; background:var(--accent-soft); border:1px solid color-mix(in srgb, var(--accent) 22%, white); border-radius:12px; padding:9px 16px;}
   .listsignup .ls-txt{display:flex; flex-direction:column; flex:1 1 200px; min-width:0;}
@@ -964,10 +910,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
   .seg button.on{background:var(--accent); color:#fff; font-weight:600;}
   .seg button:not(.on):hover{background:var(--accent-soft); color:var(--accent);}
   .onreq small{font-weight:400; opacity:.75;}
-  /* a rate quoted for a DIFFERENT stay length than the one selected — muted so it reads as a fallback */
   .r-price .from.alt{color:var(--muted);}
-  /* flex-wrap, not inline flow: the links are emitted with no whitespace between them, so an
-     inline layout has no break opportunities and the row can't wrap on narrow screens */
   .seolinks{max-width:var(--wrap); margin:26px auto 0; padding:0 22px; font-size:.8rem; display:flex; flex-wrap:wrap; gap:6px 14px; line-height:1.6;}
   .seolinks a{color:var(--muted); text-decoration:none; white-space:nowrap;}
   .seolinks a:hover{color:var(--accent); text-decoration:underline;}
@@ -984,7 +927,6 @@ svg.leaflet-image-layer.leaflet-interactive path {
     .row .r-price{grid-column:2; grid-row:3; text-align:right; align-self:end;}
     .row .r-link{grid-column:1 / -1; grid-row:4; margin-top:4px;}
     .r-link a{display:inline;}
-    /* cards self-describe on mobile; the 6-column header no longer lines up with them */
     .list-head{display:none;}
   }
 </style>
@@ -1004,22 +946,19 @@ svg.leaflet-image-layer.leaflet-interactive path {
 </div>
 
 <div id="map"></div>
-<!-- one slim signup band, always visible between the map and the filters (both browse + list modes) --><div class="listsignup" id="listSignup">
+<div class="listsignup" id="listSignup">
   <div class="listsignup-inner">
     <div class="ls-txt"><b>New colivings in your inbox</b><span>New spaces, upcoming pop-ups, and coliving discount codes.</span></div>
     <iframe class="signup-form" src="https://subscribe-forms.beehiiv.com/e2050a21-3afe-41f0-a9de-132528b8cda6?utm_source=colivingdb&utm_medium=home&utm_campaign=map-band" title="Subscribe to colivingDB" frameborder="0" scrolling="no"></iframe>
   </div>
 </div>
 
-<!-- filter bar: appears below the map only after you drill in -->
 <div class="filters" id="filters" style="display:none">
-  <!-- row 1: navigation + regions + count -->
   <div class="frline">
     <button class="back" id="back">← Browse</button>
-    <div class="frow regions" id="regions"><button class="chip on" data-region="All">All</button><button class="chip" data-region="Europe">Europe</button><button class="chip" data-region="Asia">Asia</button><button class="chip" data-region="Latin America">Latin America</button><button class="chip" data-region="Africa">Africa</button><button class="chip" data-region="North America">North America</button><button class="chip" data-region="Oceania">Oceania</button><button class="chip" data-region="Middle East">Middle East</button></div>
+    <div class="frow regions" id="regions"><button class="chip on" data-region="All">All</button><button class="chip" data-region="Europe">Europe</button><button class="chip" data-region="Asia">Asia</button><button class="chip" data-region="Latin America">Latin America</button><button class="chip" data-region="Africa">Africa</button><button class="chip" data-region="North America">North America</button><button class="chip" data-region="Oceania">Oceania</button></div>
     <div id="count"></div>
   </div>
-  <!-- row 2: dropdown filters, then a dedicated row for rate unit + price -->
   <div class="controls-box">
     <div class="frline">
       <select id="country" autocomplete="off"><option value="">All countries</option></select>
@@ -1079,10 +1018,9 @@ svg.leaflet-image-layer.leaflet-interactive path {
       </select>
     </div>
   </div>
-  <!-- row 3: interest chips (what you do) + vibe chips (what it's like) — labelled dimensions -->
   <div class="frline vibeline">
     <span class="vibe-lbl">Interests</span>
-    <div class="frow tags" id="tags"><button class="chip tag" data-tag="community">community</button><button class="chip tag" data-tag="coworking">coworking</button><button class="chip tag" data-tag="wellness">wellness</button><button class="chip tag" data-tag="city">city</button><button class="chip tag" data-tag="beach">beach</button><button class="chip tag" data-tag="rural">rural</button><button class="chip tag" data-tag="surf">surf</button><button class="chip tag" data-tag="island">island</button><button class="chip tag" data-tag="mountain">mountain</button><button class="chip tag" data-tag="eco">eco</button><button class="chip tag" data-tag="ski">ski</button><button class="chip tag" data-tag="startup">startup</button></div>
+    <div class="frow tags" id="tags"><button class="chip tag" data-tag="community">community</button><button class="chip tag" data-tag="coworking">coworking</button><button class="chip tag" data-tag="wellness">wellness</button><button class="chip tag" data-tag="city">city</button><button class="chip tag" data-tag="beach">beach</button><button class="chip tag" data-tag="rural">rural</button><button class="chip tag" data-tag="surf">surf</button><button class="chip tag" data-tag="island">island</button><button class="chip tag" data-tag="mountain">mountain</button><button class="chip tag" data-tag="eco">eco</button><button class="chip tag" data-tag="startup">startup</button><button class="chip tag" data-tag="ski">ski</button></div>
     <button id="reset">Reset filters</button>
   </div>
   <div class="frline vibeline" id="vibeRow">
@@ -1093,14 +1031,14 @@ svg.leaflet-image-layer.leaflet-interactive path {
 
 <div id="landing">
   <div class="browse-h">Browse by region</div>
-  <div class="cards-grid" id="regionCards"><div class="card-b" data-region="Europe" style="background:color-mix(in srgb, #3f6fb0 7%, white);border-color:color-mix(in srgb, #3f6fb0 24%, white)"><span class="cb-name"><span class="cb-dot" style="background:#3f6fb0"></span>Europe</span><span class="cb-count" style="background:#3f6fb0">303</span></div><div class="card-b" data-region="Asia" style="background:color-mix(in srgb, #c0533a 7%, white);border-color:color-mix(in srgb, #c0533a 24%, white)"><span class="cb-name"><span class="cb-dot" style="background:#c0533a"></span>Asia</span><span class="cb-count" style="background:#c0533a">108</span></div><div class="card-b" data-region="Latin America" style="background:color-mix(in srgb, #d19a2e 7%, white);border-color:color-mix(in srgb, #d19a2e 24%, white)"><span class="cb-name"><span class="cb-dot" style="background:#d19a2e"></span>Latin America</span><span class="cb-count" style="background:#d19a2e">104</span></div><div class="card-b" data-region="Africa" style="background:color-mix(in srgb, #c67a34 7%, white);border-color:color-mix(in srgb, #c67a34 24%, white)"><span class="cb-name"><span class="cb-dot" style="background:#c67a34"></span>Africa</span><span class="cb-count" style="background:#c67a34">63</span></div><div class="card-b" data-region="North America" style="background:color-mix(in srgb, #8a6ea8 7%, white);border-color:color-mix(in srgb, #8a6ea8 24%, white)"><span class="cb-name"><span class="cb-dot" style="background:#8a6ea8"></span>North America</span><span class="cb-count" style="background:#8a6ea8">27</span></div><div class="card-b" data-region="Oceania" style="background:color-mix(in srgb, #2fa39a 7%, white);border-color:color-mix(in srgb, #2fa39a 24%, white)"><span class="cb-name"><span class="cb-dot" style="background:#2fa39a"></span>Oceania</span><span class="cb-count" style="background:#2fa39a">11</span></div><div class="card-b" data-region="Middle East" style="background:color-mix(in srgb, #b06a4e 7%, white);border-color:color-mix(in srgb, #b06a4e 24%, white)"><span class="cb-name"><span class="cb-dot" style="background:#b06a4e"></span>Middle East</span><span class="cb-count" style="background:#b06a4e">1</span></div></div>
+  <div class="cards-grid" id="regionCards"><div class="card-b" data-region="Europe" style="background:color-mix(in srgb, #3f6fb0 7%, white);border-color:color-mix(in srgb, #3f6fb0 24%, white)"><span class="cb-name"><span class="cb-dot" style="background:#3f6fb0"></span>Europe</span><span class="cb-count" style="background:#3f6fb0">300</span></div><div class="card-b" data-region="Asia" style="background:color-mix(in srgb, #c0533a 7%, white);border-color:color-mix(in srgb, #c0533a 24%, white)"><span class="cb-name"><span class="cb-dot" style="background:#c0533a"></span>Asia</span><span class="cb-count" style="background:#c0533a">121</span></div><div class="card-b" data-region="Latin America" style="background:color-mix(in srgb, #d19a2e 7%, white);border-color:color-mix(in srgb, #d19a2e 24%, white)"><span class="cb-name"><span class="cb-dot" style="background:#d19a2e"></span>Latin America</span><span class="cb-count" style="background:#d19a2e">108</span></div><div class="card-b" data-region="Africa" style="background:color-mix(in srgb, #c67a34 7%, white);border-color:color-mix(in srgb, #c67a34 24%, white)"><span class="cb-name"><span class="cb-dot" style="background:#c67a34"></span>Africa</span><span class="cb-count" style="background:#c67a34">68</span></div><div class="card-b" data-region="North America" style="background:color-mix(in srgb, #8a6ea8 7%, white);border-color:color-mix(in srgb, #8a6ea8 24%, white)"><span class="cb-name"><span class="cb-dot" style="background:#8a6ea8"></span>North America</span><span class="cb-count" style="background:#8a6ea8">28</span></div><div class="card-b" data-region="Oceania" style="background:color-mix(in srgb, #2fa39a 7%, white);border-color:color-mix(in srgb, #2fa39a 24%, white)"><span class="cb-name"><span class="cb-dot" style="background:#2fa39a"></span>Oceania</span><span class="cb-count" style="background:#2fa39a">12</span></div></div>
   <div class="browse-h">Browse by interest</div>
-  <div class="cards-grid types" id="typeCards"><div class="card-b" data-tag="community" style="background:color-mix(in srgb, #c0523a 7%, white);border-color:color-mix(in srgb, #c0523a 24%, white)"><span class="cb-name"><span class="cb-dot" style="background:#c0523a"></span>community</span><span class="cb-count" style="background:#c0523a">518</span></div><div class="card-b" data-tag="beach" style="background:color-mix(in srgb, #2478c0 7%, white);border-color:color-mix(in srgb, #2478c0 24%, white)"><span class="cb-name"><span class="cb-dot" style="background:#2478c0"></span>beach</span><span class="cb-count" style="background:#2478c0">171</span></div><div class="card-b" data-tag="wellness" style="background:color-mix(in srgb, #8a67ab 7%, white);border-color:color-mix(in srgb, #8a67ab 24%, white)"><span class="cb-name"><span class="cb-dot" style="background:#8a67ab"></span>wellness</span><span class="cb-count" style="background:#8a67ab">237</span></div><div class="card-b" data-tag="island" style="background:color-mix(in srgb, #17976a 7%, white);border-color:color-mix(in srgb, #17976a 24%, white)"><span class="cb-name"><span class="cb-dot" style="background:#17976a"></span>island</span><span class="cb-count" style="background:#17976a">79</span></div><div class="card-b" data-tag="coworking" style="background:color-mix(in srgb, #5b5fc7 7%, white);border-color:color-mix(in srgb, #5b5fc7 24%, white)"><span class="cb-name"><span class="cb-dot" style="background:#5b5fc7"></span>coworking</span><span class="cb-count" style="background:#5b5fc7">470</span></div><div class="card-b" data-tag="eco" style="background:color-mix(in srgb, #3f9e57 7%, white);border-color:color-mix(in srgb, #3f9e57 24%, white)"><span class="cb-name"><span class="cb-dot" style="background:#3f9e57"></span>eco</span><span class="cb-count" style="background:#3f9e57">64</span></div><div class="card-b" data-tag="rural" style="background:color-mix(in srgb, #7e8d39 7%, white);border-color:color-mix(in srgb, #7e8d39 24%, white)"><span class="cb-name"><span class="cb-dot" style="background:#7e8d39"></span>rural</span><span class="cb-count" style="background:#7e8d39">128</span></div><div class="card-b" data-tag="startup" style="background:color-mix(in srgb, #b5791e 7%, white);border-color:color-mix(in srgb, #b5791e 24%, white)"><span class="cb-name"><span class="cb-dot" style="background:#b5791e"></span>startup</span><span class="cb-count" style="background:#b5791e">16</span></div><div class="card-b" data-tag="surf" style="background:color-mix(in srgb, #109cae 7%, white);border-color:color-mix(in srgb, #109cae 24%, white)"><span class="cb-name"><span class="cb-dot" style="background:#109cae"></span>surf</span><span class="cb-count" style="background:#109cae">103</span></div><div class="card-b" data-tag="mountain" style="background:color-mix(in srgb, #5f7387 7%, white);border-color:color-mix(in srgb, #5f7387 24%, white)"><span class="cb-name"><span class="cb-dot" style="background:#5f7387"></span>mountain</span><span class="cb-count" style="background:#5f7387">72</span></div><div class="card-b" data-tag="ski" style="background:color-mix(in srgb, #5a92d0 7%, white);border-color:color-mix(in srgb, #5a92d0 24%, white)"><span class="cb-name"><span class="cb-dot" style="background:#5a92d0"></span>ski</span><span class="cb-count" style="background:#5a92d0">18</span></div><div class="card-b" data-tag="city" style="background:color-mix(in srgb, #6f7681 7%, white);border-color:color-mix(in srgb, #6f7681 24%, white)"><span class="cb-name"><span class="cb-dot" style="background:#6f7681"></span>city</span><span class="cb-count" style="background:#6f7681">213</span></div></div>
+  <div class="cards-grid types" id="typeCards"><div class="card-b" data-tag="community" style="background:color-mix(in srgb, #c0523a 7%, white);border-color:color-mix(in srgb, #c0523a 24%, white)"><span class="cb-name"><span class="cb-dot" style="background:#c0523a"></span>community</span><span class="cb-count" style="background:#c0523a">542</span></div><div class="card-b" data-tag="beach" style="background:color-mix(in srgb, #2478c0 7%, white);border-color:color-mix(in srgb, #2478c0 24%, white)"><span class="cb-name"><span class="cb-dot" style="background:#2478c0"></span>beach</span><span class="cb-count" style="background:#2478c0">173</span></div><div class="card-b" data-tag="wellness" style="background:color-mix(in srgb, #8a67ab 7%, white);border-color:color-mix(in srgb, #8a67ab 24%, white)"><span class="cb-name"><span class="cb-dot" style="background:#8a67ab"></span>wellness</span><span class="cb-count" style="background:#8a67ab">233</span></div><div class="card-b" data-tag="island" style="background:color-mix(in srgb, #17976a 7%, white);border-color:color-mix(in srgb, #17976a 24%, white)"><span class="cb-name"><span class="cb-dot" style="background:#17976a"></span>island</span><span class="cb-count" style="background:#17976a">82</span></div><div class="card-b" data-tag="coworking" style="background:color-mix(in srgb, #5b5fc7 7%, white);border-color:color-mix(in srgb, #5b5fc7 24%, white)"><span class="cb-name"><span class="cb-dot" style="background:#5b5fc7"></span>coworking</span><span class="cb-count" style="background:#5b5fc7">473</span></div><div class="card-b" data-tag="eco" style="background:color-mix(in srgb, #3f9e57 7%, white);border-color:color-mix(in srgb, #3f9e57 24%, white)"><span class="cb-name"><span class="cb-dot" style="background:#3f9e57"></span>eco</span><span class="cb-count" style="background:#3f9e57">62</span></div><div class="card-b" data-tag="rural" style="background:color-mix(in srgb, #7e8d39 7%, white);border-color:color-mix(in srgb, #7e8d39 24%, white)"><span class="cb-name"><span class="cb-dot" style="background:#7e8d39"></span>rural</span><span class="cb-count" style="background:#7e8d39">125</span></div><div class="card-b" data-tag="startup" style="background:color-mix(in srgb, #b5791e 7%, white);border-color:color-mix(in srgb, #b5791e 24%, white)"><span class="cb-name"><span class="cb-dot" style="background:#b5791e"></span>startup</span><span class="cb-count" style="background:#b5791e">23</span></div><div class="card-b" data-tag="surf" style="background:color-mix(in srgb, #109cae 7%, white);border-color:color-mix(in srgb, #109cae 24%, white)"><span class="cb-name"><span class="cb-dot" style="background:#109cae"></span>surf</span><span class="cb-count" style="background:#109cae">106</span></div><div class="card-b" data-tag="mountain" style="background:color-mix(in srgb, #5f7387 7%, white);border-color:color-mix(in srgb, #5f7387 24%, white)"><span class="cb-name"><span class="cb-dot" style="background:#5f7387"></span>mountain</span><span class="cb-count" style="background:#5f7387">75</span></div><div class="card-b" data-tag="ski" style="background:color-mix(in srgb, #5a92d0 7%, white);border-color:color-mix(in srgb, #5a92d0 24%, white)"><span class="cb-name"><span class="cb-dot" style="background:#5a92d0"></span>ski</span><span class="cb-count" style="background:#5a92d0">19</span></div><div class="card-b" data-tag="city" style="background:color-mix(in srgb, #6f7681 7%, white);border-color:color-mix(in srgb, #6f7681 24%, white)"><span class="cb-name"><span class="cb-dot" style="background:#6f7681"></span>city</span><span class="cb-count" style="background:#6f7681">231</span></div></div>
   <div id="vibeBrowse">
     <div class="browse-h">Browse by vibe</div>
     <div class="frow vibes vibebrowse-row" id="vibeCards"><button class="chip vibe" data-vibe="social">social</button><button class="chip vibe" data-vibe="quiet">quiet</button><button class="chip vibe" data-vibe="party">party</button><button class="chip vibe" data-vibe="focused">focused</button><button class="chip vibe" data-vibe="luxury">luxury</button><button class="chip vibe" data-vibe="budget">budget</button><button class="chip vibe" data-vibe="family-friendly">family-friendly</button><button class="chip vibe" data-vibe="creative">creative</button><button class="chip vibe" data-vibe="fitness">fitness</button></div>
   </div>
-  <div class="browse-countries"><span class="bc-label">Popular countries</span><span id="countryChips" style="flex:1 1 100%;max-width:100%;display:flex;flex-wrap:wrap;gap:7px;justify-content:center"><button class="cc" data-country="Spain">Spain <small>92</small></button><button class="cc" data-country="Portugal">Portugal <small>61</small></button><button class="cc" data-country="Italy">Italy <small>29</small></button><button class="cc" data-country="Mexico">Mexico <small>28</small></button><button class="cc" data-country="South Africa">South Africa <small>22</small></button><button class="cc" data-country="United States">United States <small>21</small></button><button class="cc" data-country="Indonesia">Indonesia <small>20</small></button><button class="cc" data-country="Thailand">Thailand <small>19</small></button><button class="cc" data-country="Colombia">Colombia <small>19</small></button><button class="cc" data-country="France">France <small>15</small></button><button class="cc" data-country="Sri Lanka">Sri Lanka <small>14</small></button><button class="cc" data-country="Brazil">Brazil <small>13</small></button><button class="cc" data-country="Switzerland">Switzerland <small>12</small></button><button class="cc" data-country="Costa Rica">Costa Rica <small>12</small></button><button class="cc" data-country="Greece">Greece <small>11</small></button><button class="cc" data-country="Japan">Japan <small>10</small></button><button class="cc" data-country="Kenya">Kenya <small>9</small></button><button class="cc" data-country="India">India <small>9</small></button><button class="cc" data-country="Bulgaria">Bulgaria <small>9</small></button><button class="cc" data-country="Montenegro">Montenegro <small>9</small></button></span></div>
+  <div class="browse-countries"><span class="bc-label">Popular countries</span><span id="countryChips" style="flex:1 1 100%;max-width:100%;display:flex;flex-wrap:wrap;gap:7px;justify-content:center"><button class="cc" data-country="Spain">Spain <small>92</small></button><button class="cc" data-country="Portugal">Portugal <small>60</small></button><button class="cc" data-country="Italy">Italy <small>29</small></button><button class="cc" data-country="Mexico">Mexico <small>29</small></button><button class="cc" data-country="South Africa">South Africa <small>25</small></button><button class="cc" data-country="Thailand">Thailand <small>22</small></button><button class="cc" data-country="United States">United States <small>22</small></button><button class="cc" data-country="Indonesia">Indonesia <small>20</small></button><button class="cc" data-country="Colombia">Colombia <small>19</small></button><button class="cc" data-country="France">France <small>15</small></button><button class="cc" data-country="Sri Lanka">Sri Lanka <small>14</small></button><button class="cc" data-country="Switzerland">Switzerland <small>13</small></button><button class="cc" data-country="Brazil">Brazil <small>13</small></button><button class="cc" data-country="Japan">Japan <small>12</small></button><button class="cc" data-country="Bulgaria">Bulgaria <small>11</small></button><button class="cc" data-country="Greece">Greece <small>11</small></button><button class="cc" data-country="Costa Rica">Costa Rica <small>11</small></button><button class="cc" data-country="Morocco">Morocco <small>9</small></button><button class="cc" data-country="India">India <small>9</small></button><button class="cc" data-country="Vietnam">Vietnam <small>9</small></button></span></div>
   <div class="show-all-wrap"><button class="show-all" id="showAll">Show all colivings →</button></div>
   <div class="submit-cta">Run a coliving that isn't listed? <a id="submitLink" href="#">Add it to colivingDB →</a></div>
 </div>
@@ -1129,7 +1067,6 @@ svg.leaflet-image-layer.leaflet-interactive path {
   <button id="cmpClear" title="Clear selection">✕</button>
 </div>
 
-<!-- desktop slide-over: listing details in-place (mobile navigates to the page as before) -->
 <div id="detailPanel" aria-hidden="true">
   <div class="dp-backdrop"></div>
   <div class="dp-panel" role="dialog" aria-label="Coliving details">
@@ -1153,11 +1090,8 @@ svg.leaflet-image-layer.leaflet-interactive path {
   </div>
 </div>
 
-<!-- Static, crawlable entry points into the pre-generated hub pages. Google and LLM
-     crawlers never run our JS, so these must exist in the HTML source.
-     Regenerated by build-pages.py — edit there, not here. -->
 <nav class="seolinks" aria-label="Browse colivings by country">
-<!--SEO-LINKS-START--><span class="seo-h">Coliving by region</span><a href="/region/europe/">Coliving in Europe (298)</a><a href="/region/asia/">Coliving in Asia (108)</a><a href="/region/latin-america/">Coliving in Latin America (107)</a><a href="/region/africa/">Coliving in Africa (63)</a><a href="/region/north-america/">Coliving in North America (23)</a><a href="/region/oceania/">Coliving in Oceania (11)</a><a href="/region/middle-east/">Coliving in Middle East (1)</a><span class="seo-h">Coliving by country</span><a href="/country/spain/">Coliving in Spain (92)</a><a href="/country/portugal/">Coliving in Portugal (61)</a><a href="/country/italy/">Coliving in Italy (29)</a><a href="/country/mexico/">Coliving in Mexico (28)</a><a href="/country/south-africa/">Coliving in South Africa (22)</a><a href="/country/united-states/">Coliving in United States (21)</a><a href="/country/indonesia/">Coliving in Indonesia (20)</a><a href="/country/colombia/">Coliving in Colombia (19)</a><a href="/country/thailand/">Coliving in Thailand (19)</a><a href="/country/france/">Coliving in France (15)</a><a href="/country/sri-lanka/">Coliving in Sri Lanka (14)</a><a href="/country/brazil/">Coliving in Brazil (13)</a><a href="/countries/"><b>All 85 countries →</b></a><!--SEO-LINKS-END-->
+<span class="seo-h">Coliving by region</span><a href="/region/europe/">Coliving in Europe (295)</a><a href="/region/asia/">Coliving in Asia (121)</a><a href="/region/latin-america/">Coliving in Latin America (111)</a><a href="/region/africa/">Coliving in Africa (68)</a><a href="/region/north-america/">Coliving in North America (24)</a><a href="/region/oceania/">Coliving in Oceania (12)</a><span class="seo-h">Coliving by country</span><a href="/country/spain/">Coliving in Spain (92)</a><a href="/country/portugal/">Coliving in Portugal (60)</a><a href="/country/italy/">Coliving in Italy (29)</a><a href="/country/mexico/">Coliving in Mexico (29)</a><a href="/country/south-africa/">Coliving in South Africa (25)</a><a href="/country/thailand/">Coliving in Thailand (22)</a><a href="/country/united-states/">Coliving in United States (22)</a><a href="/country/indonesia/">Coliving in Indonesia (20)</a><a href="/country/colombia/">Coliving in Colombia (19)</a><a href="/country/france/">Coliving in France (15)</a><a href="/country/sri-lanka/">Coliving in Sri Lanka (14)</a><a href="/country/brazil/">Coliving in Brazil (13)</a><a href="/countries/"><b>All 86 countries →</b></a>
 </nav>
 
 <footer class="sitefoot">
@@ -1170,18 +1104,14 @@ svg.leaflet-image-layer.leaflet-interactive path {
 <script>
 const C = (window.COLIVINGS || []);
 C.forEach((x,i)=>x._i=i);
-// searchable location aliases: island GROUPS people type ("Canary Islands", "Balearics") that our
-// data stores only as specific islands/cities. Precomputed once, folded into search + suggestions.
 function locAlias(x){
   const city=(x.city||"").toLowerCase(), country=(x.country||"").toLowerCase();
   const c=city+" "+country, la=x.lat, ln=x.lng; let a="";
-  // island groups (stored as specific islands/cities)
   if(/tenerife|gran canaria|fuerteventura|lanzarote|la gomera|la palma|el hierro|las palmas/.test(c)
      || (la>27.4&&la<29.6&&ln>-18.6&&ln<-13)) a+=" canary islands canaries";
   if(/mallorca|majorca|menorca|minorca|ibiza|formentera/.test(c)) a+=" balearic islands balearics majorca mallorca";
   if(/madeira|funchal/.test(c)) a+=" madeira";
   if(/azores|s[aã]o miguel|ponta delgada/.test(c)) a+=" azores";
-  // sub-regions people type instead of the city (country-scoped so 'Lagos, Nigeria' ≠ Algarve)
   if(country.includes("portugal") && /lagos|sagres|faro|portim|albufeira|tavira|carvoeiro|olh|algarve/.test(city)) a+=" algarve";
   if(country.includes("spain") && /m[aá]laga|sevill|granada|c[aá]diz|tarifa|nerja|marbella|almer[ií]a/.test(city)) a+=" andalusia andalucia costa del sol";
   if(country.includes("indonesia") && /canggu|ubud|uluwatu|seminyak|pererenan|sanur|berawa|\bbali\b/.test(c)) a+=" bali";
@@ -1192,27 +1122,24 @@ function locAlias(x){
 C.forEach(x=>{ x._alias=locAlias(x); });
 const REGIONS = ["All","Europe","Asia","Latin America","Africa","North America","Oceania","Middle East"];
 
-// colour system — region hues + type/vibe category colours (green stays the base)
 const REGION_HUE = {
   "Europe":"#3f6fb0","Asia":"#c0533a","Latin America":"#d19a2e",
   "Africa":"#c67a34","North America":"#8a6ea8","Oceania":"#2fa39a","Middle East":"#b06a4e"
 };
-// colours chosen to be topically sensible (eco/rural green, water blue/teal, ski sky-blue,
-// city grey) AND kept visually distinct — clashing pairs also separated in TYPE_ORDER below
 const TYPE_HUE = {
-  community:"#c0523a",   // warm red
-  beach:"#2478c0",       // deep ocean blue
-  island:"#17976a",      // emerald / tropical green
-  family:"#bd6f90",      // rose
-  coworking:"#5b5fc7",   // indigo (professional)
-  eco:"#3f9e57",         // green
-  rural:"#7e8d39",       // olive
-  startup:"#b5791e",     // amber / gold (energy)
-  surf:"#109cae",        // turquoise / cyan
-  mountain:"#5f7387",    // slate
-  city:"#6f7681",        // concrete grey
-  ski:"#5a92d0",         // sky blue (lighter than beach)
-  wellness:"#8a67ab"     // soft violet (retreat/yoga)
+  community:"#c0523a",
+  beach:"#2478c0",
+  island:"#17976a",
+  family:"#bd6f90",
+  coworking:"#5b5fc7",
+  eco:"#3f9e57",
+  rural:"#7e8d39",
+  startup:"#b5791e",
+  surf:"#109cae",
+  mountain:"#5f7387",
+  city:"#6f7681",
+  ski:"#5a92d0",
+  wellness:"#8a67ab"
 };
 const typeHue = t => TYPE_HUE[t] || "#0e7c66";
 const tint = (hue,pct) => `color-mix(in srgb, ${hue} ${pct}%, white)`;
@@ -1220,18 +1147,13 @@ const tint = (hue,pct) => `color-mix(in srgb, ${hue} ${pct}%, white)`;
 const tagFreq = {};
 C.forEach(x => (x.tags||[]).forEach(t => tagFreq[t] = (tagFreq[t]||0)+1));
 const TAGS = Object.keys(tagFreq).sort((a,b)=>tagFreq[b]-tagFreq[a]);
-// order interleaves warm/cool so the look-alike pairs never sit next to each other
 const TYPE_ORDER = ["community","beach","family","island","coworking","eco","rural","startup","surf","mountain","ski","city"];
 
 const state = {region:"All", country:"", room:"", showPerm:true, showPop:true, showFest:true, months:new Set(), minStay:"", minRating:"", sort:"", tags:new Set(), vibes:new Set(), priceMin:0, priceMax:null, q:"", showAll:false, currency:"", unit:"month", bounds:null, compare:new Set()};
 
-// ---- pop-up month coverage: turn a popupDates string into the set of YYYY-MM it spans ----
 const MONTH_IDX={jan:1,feb:2,mar:3,apr:4,may:5,jun:6,jul:7,aug:8,sep:9,sept:9,oct:10,nov:11,dec:12,
   january:1,february:2,march:3,april:4,june:6,july:7,august:8,september:9,october:10,november:11,december:12};
 function popupMonths(dates){
-  // returns a Set of "YYYY-MM" the window covers; empty if undatable.
-  // Multi-cohort strings ("Apr-Jun 2026 / Sept-Nov 2026 / ...") are split on cohort
-  // separators so gap months between cohorts aren't wrongly included.
   const out=new Set(); const s=(dates||"").toLowerCase();
   if(!s) return out;
   const nowY=new Date().getFullYear();
@@ -1239,15 +1161,13 @@ function popupMonths(dates){
   for(const seg of s.split(/[/;&]|(?:\s+plus\s+)/)){
     const years=(seg.match(/20\d\d/g)||[]).map(Number);
     const mons=[]; for(const m of seg.match(/[a-z]+/g)||[]) if(m in MONTH_IDX) mons.push(MONTH_IDX[m]);
-    if(!mons.length) continue;   // a segment needs at least a month
+    if(!mons.length) continue;
     const m0=mons[0], m1=mons[mons.length-1];
     if(years.length){
       let y0=years[0], y1=years[years.length-1];
-      if(years.length===1 && m1<m0) y0=y1-1;   // "Dec - Jan 2027" crosses into the stated end year
+      if(years.length===1 && m1<m0) y0=y1-1;
       addRange(y0,m0,y1,m1);
     } else {
-      // seasonal with no stated year: assume it recurs — cover this year + next so it shows in the
-      // month filter (the monthly refresh corrects any that don't actually repeat annually).
       addRange(nowY,   m0, m1<m0?nowY+1:nowY,   m1);
       addRange(nowY+1, m0, m1<m0?nowY+2:nowY+1, m1);
     }
@@ -1256,12 +1176,7 @@ function popupMonths(dates){
 }
 function monthKeyLabel(k){ const [y,m]=k.split("-"); return new Date(y,m-1,1).toLocaleString("en",{month:"short"})+" "+y; }
 
-// ---- currency: live FX (base EUR) + convert/format. Default "" = each listing in its own local currency ----
-let RATES = {EUR:1};   // X per 1 EUR
-// Keep this list in sync with CUR in build-pages.py. They had DRIFTED (2026-08-05): the static
-// listing pages already supported NOK/CRC/SEK/KRW/TWD/AED/BGN while this homepage selector did
-// not, so an operator quoting kroner could not be shown natively on the map or list. Arctic
-// Coliving wrote in to say their pricing was live and ours wasn't — this was the cause.
+let RATES = {EUR:1};
 const CURRENCIES = ["EUR","USD","GBP","CHF","THB","IDR","VND","PHP","MYR","INR","MXN","COP","BRL","ZAR","MAD","TRY","GEL","AUD","CAD","NZD","SGD","JPY","CRC","NOK","SEK","KRW","TWD","AED","BGN"];
 const curSel=document.getElementById("currency");
 curSel.innerHTML = `<option value="">Local currency</option>` + CURRENCIES.map(c=>`<option value="${c}">${c}</option>`).join("");
@@ -1271,34 +1186,24 @@ const toEur   = (a,cur)=> a==null?null:((cur==="EUR"||!cur)?a:(RATES[cur]?a/RATE
 const fromEur = (e,cur)=> e==null?null:((cur==="EUR"||!cur)?e:(RATES[cur]?e*RATES[cur]:null));
 function fmtMoney(a,cur){ try{ return new Intl.NumberFormat('en',{style:'currency',currency:cur,maximumFractionDigits:0,currencyDisplay:'narrowSymbol'}).format(a);}catch(e){ return cur+" "+Math.round(a).toLocaleString(); } }
 const nativeCurOf = x => x.nativeCurrency || "EUR";
-// Google Maps rating — display only, attributed + linked to Google (their terms). Never our schema.org.
 function ratingBadge(x){
   if(!x.rating) return "";
   const t = `${x.rating.toFixed(1)}★ from ${x.reviews||0} Google reviews`;
   const inner = `<span class="star">★</span>${x.rating.toFixed(1)}${x.reviews?` <small>(${x.reviews})</small>`:""}`;
-  // cards never link out — the whole card goes to OUR detail page; the Google link lives there
   return ` <span class="rating" title="${t}">${inner}</span>`;
 }
-// label for a non-monthly price. "per cruise" reads better than "per event" on a cruise, and
-// "/ticket" distinguishes a ticket-only festival (book your own bed) from one whose price
-// includes the stay — the two look identical in browse otherwise.
 function unitLabel(x){
   if(x.priceUnit==="week") return "/wk";
   if(x.priceUnit==="ticket") return "/ticket";
   return /cruise/i.test(x.name) ? "/cruise" : "/event";
 }
-// ---- stay-length rates (night / week / month) --------------------------------------------
-// We store ONLY rates an operator actually publishes. Coliving pricing is steeply non-linear
-// (a monthly rate is ~40-60% of 30x nightly), so a derived rate would be a wrong rate.
 const UNITS = {night:{label:"night", suffix:"/night"}, week:{label:"week", suffix:"/wk"}, month:{label:"month", suffix:"/mo"}};
 const rateCurOf = x => x.rateCurrency || x.nativeCurrency || "EUR";
-// the rate block for the selected stay length, or null if this operator never published one
 const unitRates = x => (x.rates || {})[state.unit] || null;
-function rateAmount(x, tier){            // tier: "from" | "private" | "shared" | "dorm"
+function rateAmount(x, tier){
   const ur = unitRates(x);
   return (ur && typeof ur[tier] === "number") ? ur[tier] : null;
 }
-// convert a stored rate into the display currency
 function rateDisplay(x, tier){
   const amt = rateAmount(x, tier); if(amt == null) return null;
   const src = rateCurOf(x);
@@ -1307,12 +1212,6 @@ function rateDisplay(x, tier){
   return v == null ? null : {amt: Math.round(v), cur: target};
 }
 
-// Price range slider — dual handles + typeable min/max fields. Filter bounds are held in EUR
-// (state.priceMin / state.priceMax, null max = unbounded) so they survive currency + unit switches,
-// but the slider AND the number fields operate in the SELECTED display currency with round,
-// currency-native steps — so "max 2000" means 2000 of whatever currency is showing, not a EUR
-// figure run through the exchange rate. Each stay length has its own EUR ceiling (a €4000 nightly
-// cap would be nonsense); a handle/typed value at or above the top means "no upper bound".
 const PRICE_CEIL_EUR = {month:4000, week:1000, night:300};
 const ceilEur = () => PRICE_CEIL_EUR[state.unit] || 4000;
 const priceIsDefault = () => (state.priceMin||0) <= 0 && (state.priceMax==null || state.priceMax >= ceilEur());
@@ -1320,9 +1219,7 @@ const curCode = () => state.currency || "EUR";
 const _psMin=document.getElementById("psMin"), _psMax=document.getElementById("psMax"),
       _psFill=document.getElementById("psFill"), _psMinIn=document.getElementById("psMinIn"),
       _psMaxIn=document.getElementById("psMaxIn"), _psCur=document.getElementById("psCur");
-// a "nice" step (1/2/5 × 10ⁿ) giving ~80 slider positions across the range, whatever the currency
 function niceStep(max){ if(!(max>0)) return 1; const t=max/80, mag=Math.pow(10,Math.floor(Math.log10(t))), n=t/mag; return (n<1.5?1:n<3?2:n<7?5:10)*mag; }
-// the slider's scale in the current display currency: {cur, step, max}
 function priceScale(){
   const cur=curCode(); const raw=fromEur(ceilEur(),cur)||ceilEur();
   const step=niceStep(raw); const max=Math.ceil(raw/step)*step;
@@ -1330,20 +1227,19 @@ function priceScale(){
 }
 const eurToDisp = e => Math.round(fromEur(e, curCode()));
 const dispToEur = d => toEur(d, curCode());
-function priceSliderPaint(){   // state(EUR) -> UI(display); the single source that repaints slider + fields
+function priceSliderPaint(){
   const {cur,step,max}=priceScale();
   for(const el of [_psMin,_psMax,_psMinIn,_psMaxIn]){ el.max=max; el.step=step; }
   let loD=Math.max(0,Math.min(eurToDisp(state.priceMin||0),max));
   let hiD=(state.priceMax==null)?max:Math.max(loD,Math.min(eurToDisp(state.priceMax),max));
   _psMin.value=loD; _psMax.value=hiD;
   _psMinIn.value = loD>0 ? loD : "";
-  _psMaxIn.value = hiD>=max ? "" : hiD;    // empty = "Any" (no upper bound)
-  _psCur.textContent = fmtMoney(0,cur).replace(/[\d.,\s]/g,"") || cur;   // just the symbol, e.g. €/$
+  _psMaxIn.value = hiD>=max ? "" : hiD;
+  _psCur.textContent = fmtMoney(0,cur).replace(/[\d.,\s]/g,"") || cur;
   _psFill.style.left=(loD/max*100)+"%";
   _psFill.style.width=((hiD-loD)/max*100)+"%";
 }
 function priceSliderInit(){ if(state.priceMin==null) state.priceMin=0; priceSliderPaint(); }
-// commit display-currency lo/hi into EUR state; hi at/above the scale max = unbounded
 function priceCommit(loD, hiD){
   const {max}=priceScale();
   loD=Math.max(0,Math.min(loD,max)); hiD=Math.max(loD,Math.min(hiD,max));
@@ -1353,17 +1249,14 @@ function priceCommit(loD, hiD){
 }
 _psMin.oninput=()=>{ let lo=+_psMin.value, hi=+_psMax.value; if(lo>hi) hi=lo; priceCommit(lo,hi); };
 _psMax.oninput=()=>{ let lo=+_psMin.value, hi=+_psMax.value; if(hi<lo) lo=hi; priceCommit(lo,hi); };
-// typed fields: empty min = 0, empty max = no cap; typing any number is allowed (clamped to the scale)
 function readNum(el){ const v=parseFloat(el.value); return isNaN(v)?null:Math.max(0,v); }
 _psMinIn.onchange=()=>{ const {max}=priceScale(); const lo=readNum(_psMinIn)??0; const hi=readNum(_psMaxIn)??max; priceCommit(lo,hi); };
 _psMaxIn.onchange=()=>{ const {max}=priceScale(); const lo=readNum(_psMinIn)??0; const hi=readNum(_psMaxIn)??max; priceCommit(lo,hi); };
-// source amount + currency for a room tier (operator-native figure when we have one, else EUR estimate)
 function tierSource(x, tier){
   const pn=x.pricesNative; if(pn && pn[tier]!=null) return {amt:pn[tier], cur:nativeCurOf(x)};
   const pe=x.prices;       if(pe && pe[tier]!=null) return {amt:pe[tier], cur:"EUR"};
   return null;
 }
-// convert a tier into the currently-selected display currency (or the listing's local one)
 function tierDisplay(x, tier){
   const s=tierSource(x,tier); if(!s) return null;
   const target = state.currency || nativeCurOf(x);
@@ -1373,7 +1266,7 @@ function tierDisplay(x, tier){
 
 const AFFILIATES = {
   "outsite.co": ["rfsn", "9218925.def533"],
-  "coliving.com": ["i", "caroline-l-3"]   // partner deeplink param (disclosed on /how-listings-work/)
+  "coliving.com": ["i", "caroline-l-3"]
 };
 function affiliateUrl(url){
   if(!url) return url;
@@ -1389,28 +1282,21 @@ document.getElementById("search").placeholder = `Search ${C.length} colivings by
 document.getElementById("footer").innerHTML =
   `<b>colivingDB</b> indexes ${C.length} coliving spaces worldwide — permanent homes, seasonal pop-ups, moving programs, and nomad festivals. Prices are per month, shown in each coliving's own local currency (switch it up top), and change often; a price tagged <b>est.</b> is our own estimate we're still confirming with the operator, while untagged prices come from the operator's live listing or a figure they've confirmed directly. Pop-up dates shift season to season. Always confirm details on the operator's own site before booking. Some links are affiliate links — colivingDB may earn a commission if you book through them, at no extra cost to you. Map data © OpenStreetMap contributors.`;
 
-// Filter-bar chips + landing cards are now pre-rendered into the HTML at build time (so nothing
-// pops in after load = no layout shift). Here we just attach ONE delegated click listener per
-// container. Chip state ("on") is synced by render() via textContent, unchanged.
 document.getElementById("regions").addEventListener("click",e=>{const b=e.target.closest("[data-region]");if(!b)return;
-  // "All" in the filter bar shows every coliving in the list (stay), not the browse landing
   state.region=b.dataset.region; state.bounds=null; state.showAll=true; state.country=""; document.getElementById("country").value=""; render();});
 document.getElementById("tags").addEventListener("click",e=>{const b=e.target.closest("[data-tag]");if(!b)return;
   const t=b.dataset.tag; state.tags.has(t)?state.tags.delete(t):state.tags.add(t); render();});
 document.getElementById("vibes").addEventListener("click",e=>{const b=e.target.closest("[data-vibe]");if(!b)return;
   const v=b.dataset.vibe; state.vibes.has(v)?state.vibes.delete(v):state.vibes.add(v); render();});
-// country dropdown ("Multiple" excluded — not a real country)
 const countrySel=document.getElementById("country");
 [...new Set(C.map(x=>x.country))].filter(k=>k!=="Multiple").sort().forEach(k=>{
   const o=document.createElement("option"); o.value=k; o.textContent=k; countrySel.appendChild(o);
 });
 countrySel.onchange=e=>{state.country=e.target.value; state.bounds=null; window.scrollTo(0,0); render();};
 document.getElementById("room").onchange=e=>{state.room=e.target.value; render();};
-// type is now two checkboxes (both checked = show all, incl. any programs). Unchecking hides that type.
 document.getElementById("fPerm").onchange=e=>{state.showPerm=e.target.checked; render();};
 document.getElementById("fPop").onchange=e=>{state.showPop=e.target.checked; render();};
 document.getElementById("fFest").onchange=e=>{state.showFest=e.target.checked; render();};
-// month dropdown: every month any live pop-up (or festival) covers, from this month forward
 const monthOpts=document.getElementById("monthopts"), monthSum=document.getElementById("monthsum");
 { const nowKey=(()=>{const d=new Date();return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0");})();
   const all=new Set(); C.forEach(x=>{ if(x.format==="pop-up"||x.format==="festival") popupMonths(x.popupDates).forEach(k=>{ if(k>=nowKey) all.add(k); }); });
@@ -1422,11 +1308,9 @@ document.addEventListener("click",e=>{ const dd=document.getElementById("monthdd
 document.getElementById("minstay").onchange=e=>{state.minStay=e.target.value; render();};
 document.getElementById("minrating").onchange=e=>{state.minRating=e.target.value; render();};
 document.getElementById("sort").onchange=e=>{state.sort=e.target.value; render();};
-// measure the sticky site header so the list's column header can stick right below it
 const _siteHdr=document.querySelector("header");
 function _setHdrH(){ document.documentElement.style.setProperty("--hdrh", _siteHdr.offsetHeight+"px"); }
 _setHdrH(); addEventListener("resize", _setHdrH);
-// clickable column headers — Price toggles asc/desc, Rating sorts high->low; kept in sync w/ the dropdown
 document.querySelectorAll(".list-head .hsort").forEach(h=>{
   h.onclick=()=>{
     const base=h.dataset.sort;
@@ -1436,7 +1320,6 @@ document.querySelectorAll(".list-head .hsort").forEach(h=>{
     render();
   };
 });
-// stay-length toggle: switching unit re-scales the price buckets (a €600 nightly cap is nonsense)
 document.querySelectorAll("#unitSeg button").forEach(b=>{
   b.onclick=()=>{
     state.unit=b.dataset.unit;
@@ -1445,8 +1328,6 @@ document.querySelectorAll("#unitSeg button").forEach(b=>{
   };
 });
 priceSliderInit();
-// debounced: render() rebuilds all rows + 600 map markers, too heavy to run per keystroke
-// ---- search autocomplete: cities, countries, listing names ----
 const _searchEl=document.getElementById("search"), _sugEl=document.getElementById("suggest");
 let SUGGEST=[], _sugIdx=-1;
 function buildSuggest(){
@@ -1455,7 +1336,6 @@ function buildSuggest(){
     if(x.city && x.country!=="Multiple") cities.set(x.city+"|"+x.country,(cities.get(x.city+"|"+x.country)||0)+1);
     if(x.country && x.country!=="Multiple") countries.set(x.country,(countries.get(x.country)||0)+1);
   });
-  // island-group entries — the search alias resolves the query to every member island/city
   const groups=[["Canary Islands","canary islands","canary"],["Balearic Islands","balearic islands","balearic"],
     ["Algarve, Portugal","algarve","algarve"],["Andalusia, Spain","andalusia","andalusia"],
     ["Bali, Indonesia","bali","bali"],["Greek Islands","greek islands","greek islands"]];
@@ -1504,22 +1384,18 @@ document.getElementById("search").oninput=e=>{
   clearTimeout(_qTimer); _qTimer=setTimeout(render, 160);
 };
 
-// landing browse cards + popular-country chips are pre-rendered server-side; delegated handlers
 document.getElementById("regionCards").addEventListener("click",e=>{const c=e.target.closest("[data-region]");if(!c)return;
   state.region=c.dataset.region; state.showAll=false; state.country=""; countrySel.value=""; window.scrollTo(0,0); render();});
 document.getElementById("typeCards").addEventListener("click",e=>{const c=e.target.closest("[data-tag]");if(!c)return;
-  const t=c.dataset.tag; state.tags=(state.tags.size===1&&state.tags.has(t))?new Set():new Set([t]);  // click a selected interest to clear it
+  const t=c.dataset.tag; state.tags=(state.tags.size===1&&state.tags.has(t))?new Set():new Set([t]);
   state.region="All"; state.showAll=false; window.scrollTo(0,0); render();});
 document.getElementById("vibeCards").addEventListener("click",e=>{const c=e.target.closest("[data-vibe]");if(!c)return;
-  const v=c.dataset.vibe; state.vibes=(state.vibes.size===1&&state.vibes.has(v))?new Set():new Set([v]);  // click a selected vibe to clear it
+  const v=c.dataset.vibe; state.vibes=(state.vibes.size===1&&state.vibes.has(v))?new Set():new Set([v]);
   state.tags=new Set(); state.region="All"; state.showAll=false; window.scrollTo(0,0); render();});
 document.getElementById("countryChips").addEventListener("click",e=>{const c=e.target.closest("[data-country]");if(!c)return;
   state.country=c.dataset.country; state.region="All"; state.showAll=false; countrySel.value=c.dataset.country; window.scrollTo(0,0); render();
 });
 document.getElementById("showAll").onclick=()=>{state.showAll=true; render();};
-// email signup is the themed inline Beehiiv embed (captures directly, no redirect)
-// Google Forms in a modal (submissions land in Caroline's form/Sheet).
-// Two forms share one modal: "add your coliving" and the feedback/bug/feature form.
 const formModal=document.getElementById("formModal");
 const formFrame=document.getElementById("formFrame");
 const FORM_SRC="https://docs.google.com/forms/d/e/1FAIpQLSeSbbFdMMLi7TX9xqmHeNvjs3UfKBwv4xXy4l82hBfJfKiXoA/viewform?embedded=true&hl=en";
@@ -1528,7 +1404,7 @@ let formSrcLoaded="";
 function openForm(e, src, label){
   if(e) e.preventDefault();
   src = src || FORM_SRC;
-  if(formSrcLoaded !== src){ formFrame.src = src; formSrcLoaded = src; }   // swap only when the form changes
+  if(formSrcLoaded !== src){ formFrame.src = src; formSrcLoaded = src; }
   formFrame.title = label || "Add your coliving to colivingDB";
   formModal.setAttribute("aria-label", label || "Add your coliving");
   formModal.style.display="flex"; document.body.style.overflow="hidden";
@@ -1540,8 +1416,6 @@ document.getElementById("formClose").onclick=closeForm;
 formModal.querySelector(".modal-backdrop").onclick=closeForm;
 document.addEventListener("keydown",e=>{ if(e.key==="Escape" && formModal.style.display==="flex") closeForm(); });
 
-// clear every filter to default. `toBrowse` = also return to the browse landing (Back / logo);
-// otherwise stay on the current list view with the map + filters and all colivings shown (Reset).
 function resetFilters(toBrowse){
   Object.assign(state,{region:"All",country:"",room:"",showPerm:true,showPop:true,showFest:true,months:new Set(),minStay:"",minRating:"",sort:"",priceMin:0,priceMax:null,q:"",unit:"month",bounds:null});
   state.tags.clear(); state.vibes.clear();
@@ -1554,25 +1428,16 @@ function resetFilters(toBrowse){
   document.getElementById("search").value="";
   render();
 }
-document.getElementById("reset").onclick=()=>resetFilters(false);   // clear filters, stay on the list
-document.getElementById("back").onclick=()=>resetFilters(true);     // back to the browse landing
+document.getElementById("reset").onclick=()=>resetFilters(false);
+document.getElementById("back").onclick=()=>resetFilters(true);
 document.getElementById("home").onclick=()=>resetFilters(true);
-// bfcache restore keeps the full JS state alive — filters, list, and map survive Back from a
-// detail page untouched. (This used to resetFilters(true), which wiped the user's search on
-// every Back — the "I have to re-add my filters" bug.) Nothing to do on restore.
 
-// map
-// preferCanvas: draw the ~518 markers onto ONE canvas instead of 518 SVG DOM nodes — far less
-// main-thread work per render (the Total Blocking Time cost), and lighter memory.
 const map = L.map("map",{scrollWheelZoom:true, preferCanvas:true}).setView([25,10],2);
-map.attributionControl.setPrefix(false);   // drop the "Leaflet" prefix (BSD-2: no attribution required)
-// Leaflet measures its container at init; if fonts/layout are still settling the map renders at
-// the wrong size (grey band / squeezed world). Re-measure on load and on any container resize.
+map.attributionControl.setPrefix(false);
 window.addEventListener("load", ()=>map.invalidateSize());
-requestAnimationFrame(()=>map.invalidateSize());   // re-measure once the first layout is painted
-setTimeout(()=>map.invalidateSize(), 400);         // and after fonts/late layout settle
+requestAnimationFrame(()=>map.invalidateSize());
+setTimeout(()=>map.invalidateSize(), 400);
 if(window.ResizeObserver) new ResizeObserver(()=>map.invalidateSize()).observe(document.getElementById("map"));
-// OpenStreetMap attribution IS required (ODbL + tile usage policy) — keep "contributors" + link.
 L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",{attribution:'© colivingDB · © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> contributors', maxZoom:18}).addTo(map);
 const legend = L.control({position:"bottomleft"});
 legend.onAdd = () => {
@@ -1582,20 +1447,14 @@ legend.onAdd = () => {
 };
 legend.addTo(map);
 window.addEventListener("resize", () => map.invalidateSize());
-// markers live in one LayerGroup so a filter change is a single clearLayers() + batched add,
-// not ~518 individual removeLayer/addTo calls on the map (the main INP cost).
 const markerGroup=L.layerGroup().addTo(map);
 
-// Map viewport as a filter: when the user pans/zooms, the list narrows to colivings in view.
-// Programmatic fits go through fitMap() and set a flag so they don't count as a user move
-// (which would create a filter⇄fitBounds feedback loop). The flag also clears on a timer in
-// case fitBounds results in no movement (then no moveend fires).
 let _progMove=false;
-function fitMap(b,opts){ _progMove=true; map.fitBounds(b,opts); setTimeout(()=>{ _progMove=false; }, 1500); }   // fallback window > longest fit animation, else a late moveend reads as a user pan
+function fitMap(b,opts){ _progMove=true; map.fitBounds(b,opts); setTimeout(()=>{ _progMove=false; }, 1500); }
 map.on("moveend",()=>{
-  if(_progMove){ _progMove=false; return; }   // our own fit — ignore
+  if(_progMove){ _progMove=false; return; }
   state.bounds=map.getBounds(); state.showAll=true;
-  render(true);   // re-filter to the new viewport, but don't move the map back
+  render(true);
 });
 
 function isBrowse(){
@@ -1615,17 +1474,11 @@ function filtered(){
     (!state.months.size||((x.format==="pop-up"||x.format==="festival")&&[...state.months].some(k=>popupMonths(x.popupDates).has(k)))) &&
     (!state.minStay||(x.minStayNights&&x.minStayNights<=+state.minStay)) &&
     (!state.minRating||(x.rating&&x.rating>=+state.minRating)) &&
-    // price range: same number the row displays (selected stay length + selected room), in EUR.
-    // A handle at the ceiling means "no bound"; a full-range slider skips the filter (keeps unpriced).
     (priceIsDefault() || (()=>{ const ceil=ceilEur(), lo=state.priceMin||0, hi=(state.priceMax==null?ceil:state.priceMax), e=comparableEur(x);
        if(e===Infinity) return false; return e>=lo && (hi>=ceil || e<=hi); })()) &&
-    // interest chips use OR: someone into surf OR ski wants either, not only places that are both
     (!state.tags.size||[...state.tags].some(t=>(x.tags||[]).includes(t))) &&
-    // vibe is a separate AND dimension: "surf places that are also quiet" = interest AND vibe
     (!state.vibes.size||[...state.vibes].some(v=>((x.details||{}).vibeTags||[]).includes(v))) &&
-    // search also matches tags so typing "surf" (or "coworking", etc.) returns results
     (!state.q||((x.name+" "+(x.city||"")+" "+x.country+" "+(x.tags||[]).join(" ")).toLowerCase()+x._alias).includes(state.q)) &&
-    // map viewport filter: once the map has been panned/zoomed, only show colivings currently in view
     (!state.bounds || (x.lat!=null && x.lng!=null && state.bounds.contains([x.lat,x.lng])))
   );
 }
@@ -1642,16 +1495,13 @@ function focusRecord(idx){
   }
 }
 
-function priceCell(x){   // reader discounts are email-only — never badged on the site
+function priceCell(x){
   const s = _priceCore(x);
-  // Estimate prices (unconfirmed scrape) get a muted "est." tag. marketplace + operator-confirmed render clean.
   return x.priceConfidence==='estimate'
     ? `<div class="pest" title="Estimated — we're confirming this price with the operator">${s}</div>`
     : s;
 }
 function _priceCore(x){
-  // Non-monthly prices (cruise/camp tickets, weekly rates) sell something other than a month —
-  // never render "/mo" for them, and they carry no priceEurMonthly by construction.
   if(x.priceUnit && x.priceUnit!=="month"){
     if(x.priceNativeFrom!=null){
       const target = state.currency || nativeCurOf(x);
@@ -1660,13 +1510,9 @@ function _priceCore(x){
     }
     return `<div class="onreq">Price on request</div>`;
   }
-  // Rates for the selected stay length. If the operator never published one, say so plainly
-  // rather than deriving it from another duration.
   const suffix = UNITS[state.unit].suffix;
   const ur = unitRates(x);
   if(!ur){
-    // No rate for the chosen stay length. Show the cheapest rate they DO publish, labelled with
-    // its real unit — still never a derived figure, just an honestly-labelled different one.
     const alt = ["night","week","month"].filter(u=>u!==state.unit && (x.rates||{})[u]);
     if(alt.length){
       const u = alt[0];
@@ -1680,15 +1526,12 @@ function _priceCore(x){
   if(state.room){
     const d=rateDisplay(x,state.room);
     if(d) return `<div class="from">${fmtMoney(d.amt,d.cur)}<small>${suffix} · ${state.room}</small></div>`;
-    // No per-room rate, but if this room type IS offered and we have a single "from" rate,
-    // that "from" is this room's rate (esp. when it's the only room type) — show it.
     if((x.roomTypes||[]).includes(state.room)){
       const f=rateDisplay(x,"from");
       if(f) return `<div class="from"><small>from </small>${fmtMoney(f.amt,f.cur)}<small>${suffix} · ${state.room}</small></div>`;
     }
     return `<div class="onreq">No ${state.room} rate</div>`;
   }
-  // group room tiers that share a price ("dorm/shared €167")
   const byPrice = {};
   ["dorm","shared","private"].forEach(k=>{
     const d=rateDisplay(x,k);
@@ -1697,7 +1540,6 @@ function _priceCore(x){
   const amts = Object.keys(byPrice).map(Number).sort((a,b)=>a-b);
   if(amts.length){
     const cur=byPrice[amts[0]].cur;
-    // call out WHICH room the cheapest price is for, and list the others below
     const cheap=byPrice[amts[0]].tiers.join("/");
     const main=`<div class="from">${amts.length>1?'<small>from </small>':''}${fmtMoney(amts[0],cur)}<small>${suffix} · ${cheap}</small></div>`;
     const brk = amts.length>1
@@ -1707,7 +1549,6 @@ function _priceCore(x){
   }
   const f = rateDisplay(x,"from");
   if(f) return `<div class="from"><small>from </small>${fmtMoney(f.amt,f.cur)}<small>${suffix}</small></div>`;
-  // legacy single "from" fallback when no per-room breakdown exists
   const target = state.currency || nativeCurOf(x);
   const src = (x.priceNativeFrom!=null) ? {amt:x.priceNativeFrom, cur:nativeCurOf(x)}
             : (x.priceEurMonthly!=null) ? {amt:x.priceEurMonthly, cur:"EUR"} : null;
@@ -1720,7 +1561,6 @@ function typeCell(x){
   return `<span class="b ${cls}">${label}</span>`
     + (x.status!=="active"?`<br><span class="b b-unclear">⚠ unconfirmed</span>`:"");
 }
-// what each room type means — surfaced as a tooltip on the chip
 const ROOM_TIP = {
   private:"Your own private room",
   shared:"A twin/double room shared with one other person",
@@ -1741,15 +1581,12 @@ function tagChip(t){
   return `<span class="t" style="background:${tint(hue,10)};color:${hue};border-color:${tint(hue,28)}">${t}</span>`;
 }
 
-// EUR value of the rate the user is actually looking at (selected stay length; the selected
-// room's rate when a room filter is on, mirroring priceCell). Used by both the price cap and
-// price sorting so they can never disagree with what's displayed. No rate -> Infinity.
 function comparableEur(x){
   const ur=(x.rates||{})[state.unit]; if(!ur) return Infinity;
   let amt=null;
   if(state.room){
     amt = (typeof ur[state.room]==="number") ? ur[state.room]
-        : ((x.roomTypes||[]).includes(state.room) ? ur.from : null);   // same fallback as priceCell
+        : ((x.roomTypes||[]).includes(state.room) ? ur.from : null);
   }
   if(amt==null) amt = ur.from ?? Math.min(...Object.values(ur).filter(v=>typeof v==="number"));
   const e = toEur(amt, rateCurOf(x));
@@ -1765,7 +1602,6 @@ function render(skipFit){
   document.querySelectorAll("#regions .chip").forEach(b=>b.classList.toggle("on",b.textContent===state.region));
   document.querySelectorAll("#tags .chip").forEach(b=>b.classList.toggle("on",state.tags.has(b.textContent)));
   document.querySelectorAll("#vibes .chip").forEach(b=>b.classList.toggle("on",state.vibes.has(b.textContent)));
-  // reflect the active sort as an arrow on the clickable column headers
   document.querySelectorAll(".list-head .hsort").forEach(h=>{
     h.classList.remove("asc","desc");
     if(h.dataset.sort==="rating" && state.sort==="rating") h.classList.add("desc");
@@ -1806,8 +1642,6 @@ function render(skipFit){
       : `${x.city?x.city+", ":""}${x.country}`;
     const tagsHtml = (x.tags||[]).slice(0,5).map(tagChip).join("");
     const datesHtml = ((x.format==="pop-up"||x.format==="festival")&&x.popupDates) ? `<div class="dates">◷ ${x.popupDates}</div>` : "";
-    // Card now clicks INTO our own detail page (/coliving/<slug>/) — where the info + the affiliate
-    // "Visit official site" link live — rather than straight out to the operator. Mirrors esimdb.
     const detailUrl = x._slug ? `/coliving/${x._slug}/` : null;
     const linkHtml = (detailUrl?`<a href="${detailUrl}">Details →</a>`
         :(x.url?`<a href="${affiliateUrl(x.url)}" target="_blank" rel="noopener sponsored">Visit →</a>`:`<span class="none">no site</span>`))
@@ -1831,8 +1665,6 @@ function render(skipFit){
       row.onmouseenter=()=>x.__m.setStyle({radius:10,fillOpacity:.9});
       row.onmouseleave=()=>x.__m.setStyle({radius:7,fillOpacity:.55});
     }
-    // whole card clicks into the detail page (esimdb-style); inner links still work normally.
-    // Desktop opens the slide-over panel instead of navigating; mobile keeps full-page nav.
     if(detailUrl){
       row.classList.add("clickable");
       row.onclick=e=>{ if(!e.target.closest("a,button")){ if(dpDesktop()) openPanel(detailUrl); else window.location.href=detailUrl; } };
@@ -1840,7 +1672,7 @@ function render(skipFit){
     row.querySelector(".cmp").onclick=()=>toggleCompare(idx);
     frag.appendChild(row);
   });
-  rowsEl.appendChild(frag);   // one DOM insertion, not up to 599 individual appends
+  rowsEl.appendChild(frag);
 
   if(withCoords.length && !skipFit && !state.bounds){
     const tight = !browse && (state.region!=="All"||state.country||state.room||!state.showPerm||!state.showPop||!state.showFest||state.months.size||state.minStay||state.minRating||state.q||state.tags.size||state.vibes.size||!priceIsDefault());
@@ -1848,11 +1680,9 @@ function render(skipFit){
   }
   syncUrl();
 }
-// Mirror the active filters into the URL (replaceState — no history spam). Two jobs: Back from a
-// detail page restores the filtered view even without bfcache, and any filtered view is shareable.
 function syncUrl(){
   try{
-    if(typeof dpIsOpen!=="undefined" && dpIsOpen) return;   // panel owns the address bar while open
+    if(typeof dpIsOpen!=="undefined" && dpIsOpen) return;
     const p=new URLSearchParams();
     if(state.q) p.set("q",state.q);
     if(state.region!=="All") p.set("region",state.region);
@@ -1874,7 +1704,6 @@ function syncUrl(){
     history.replaceState(history.state,"", qs ? "?"+qs : location.pathname);
   }catch(e){}
 }
-// ---- side-by-side compare (esimdb-style): pick up to 4 from the list, table in a modal ----
 const cmpBar=document.getElementById("cmpBar"), cmpModal=document.getElementById("cmpModal");
 function toggleCompare(idx){
   if(state.compare.has(idx)) state.compare.delete(idx);
@@ -1919,9 +1748,6 @@ cmpModal.querySelector(".modal-close").onclick=()=>cmpModal.style.display="none"
 cmpModal.querySelector(".modal-backdrop").onclick=()=>cmpModal.style.display="none";
 document.addEventListener("keydown",e=>{ if(e.key==="Escape" && cmpModal.style.display==="flex") cmpModal.style.display="none"; });
 
-// ---- desktop slide-over for listing details ----
-// Opens the already-built static /coliving/<slug>/ page in an iframe (?embed=1 hides its site
-// chrome), pushState's the listing URL so the address bar is shareable and BACK closes the panel.
 const dpEl=document.getElementById("detailPanel"), dpFrame=document.getElementById("dpFrame");
 const dpDesktop=()=>window.matchMedia("(min-width: 900px)").matches;
 let dpIsOpen=false;
@@ -1936,27 +1762,20 @@ function closePanel(viaPop){
   dpEl.classList.remove("open"); dpEl.setAttribute("aria-hidden","true");
   dpIsOpen=false; document.body.style.overflow="";
   dpFrame.src="about:blank";
-  if(!viaPop) history.back();   // pop our pushed entry; the popstate sees dpIsOpen already false
+  if(!viaPop) history.back();
 }
 document.getElementById("dpClose").onclick=()=>closePanel(false);
 dpEl.querySelector(".dp-backdrop").onclick=()=>closePanel(false);
 document.addEventListener("keydown",e=>{ if(e.key==="Escape"&&dpIsOpen) closePanel(false); });
 window.addEventListener("popstate",()=>{ if(dpIsOpen) closePanel(true); });
-// every /coliving/ link on the page (row name links, Details →, map popups) routes into the
-// panel on desktop; modified clicks (new-tab intent) and mobile pass through untouched
 document.addEventListener("click",e=>{
   const a=e.target.closest('a[href^="/coliving/"]');
   if(!a || !dpDesktop() || e.metaKey || e.ctrlKey || e.shiftKey) return;
   e.preventDefault(); openPanel(a.getAttribute("href"));
 });
 
-// deep-link + restore: every filter dimension reads from the URL on load (written by syncUrl on
-// each render). Covers email links (?q=AfricaNomads) AND Back-from-a-detail-page restoring the
-// user's filtered search when bfcache didn't keep the page alive.
 (function(){ try{
   const p=new URLSearchParams(location.search);
-  // only KNOWN filter params trigger the restore — utm/tracking params alone must not
-  // kick visitors off the browse landing into list view
   const KNOWN=["q","region","country","room","perm","pop","months","stay","rating","sort","tags","vibes","pmin","pmax","unit","all"];
   if(!KNOWN.some(k=>p.has(k))) return;
   const g=k=>p.get(k);
@@ -1979,8 +1798,6 @@ document.addEventListener("click",e=>{
   if(g("pmin")||g("pmax")||g("unit")) priceSliderPaint();
   state.showAll=true;
 }catch(e){} })();
-// defer the first render (map markers) off the load-blocking path — the server-rendered shell
-// (search, filters, browse cards) is already interactive; markers paint a beat later.
 (window.requestIdleCallback || (cb=>setTimeout(cb,1)))(render, {timeout:600});
 </script>
 <div id="cookieBanner" hidden><span class="cb-msg">We use cookies for anonymous analytics. See our <a href="/privacy/">privacy &amp; terms</a>.</span><span class="cb-btns"><button id="ckAccept" type="button">Accept</button><button id="ckDecline" type="button">Decline</button></span></div>

@@ -1,12 +1,12 @@
 # Co.404 Medellin
 
-> Coliving in Medellin, Colombia. Last updated September 1, 2026.
+> Coliving in Medellin, Colombia. Last updated September 11, 2026.
 
 - **Location:** Medellin, Colombia
 - **Type:** Permanent coliving
 - **Price:** from $362/mo
 - **Price note:** from $362/month (est. EUR)
-- **Rating:** <a href="https://maps.google.com/?cid=1072672229439293317&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (64 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=1072672229439293317&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (68 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** City of eternal spring with a thriving nomad community
@@ -17,7 +17,7 @@
 - **Tags:** city, coworking, community
 - **Nearest airports:** Enrique Olaya Herrera Airport (EOH) ~3 km; El Dorado International Airport (BOG) ~230 km; Jose Maria Córdova International Airport (MDE) ~17 km
 - **Website:** https://co404.com
-- **Rating:** 4.8 from 64 Google reviews
+- **Rating:** 4.7 from 68 Google reviews
 
 ## Rates
 

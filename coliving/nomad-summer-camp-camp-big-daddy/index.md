@@ -1,12 +1,12 @@
 # Nomad Summer Camp — Camp Big Daddy
 
-> Coliving in Cape Town, South Africa. Last updated September 1, 2026.
+> Coliving in Cape Town, South Africa. Last updated September 11, 2026.
 
 - **Location:** Cape Town, South Africa
 - **Type:** Pop-up / dated edition
 - **Dates:** Feb 12 - Feb 15, 2027
 - **Price:** from $499/event
-- **Price note:** Starting ticket at the last edition; 2027 pricing not yet announced. Tickets ran $499–$1,049.
+- **Price note:** from $499 (dorm or tented camp) to $949 (private Premium room) for the three nights, with food, drinks, activities and transport included, per the organiser; $99 deposit, balance due December 12, 2026. 50% sold on September 11, 2026.
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** Adventure/social camp event — 'a little bit of epic, a dash of silly, and a whole lot of magic' — centered on joy, freedom, and connection.

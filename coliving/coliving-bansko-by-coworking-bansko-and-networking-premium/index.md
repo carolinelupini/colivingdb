@@ -1,11 +1,11 @@
 # Coliving Bansko by "Coworking Bansko" and Networking Premium
 
-> Coliving in Bansko, Bulgaria. Last updated September 1, 2026.
+> Coliving in Bansko, Bulgaria. Last updated September 11, 2026.
 
 - **Location:** Bansko, Bulgaria
 - **Type:** Permanent coliving
 - **Price:** On request
-- **Rating:** <a href="https://maps.google.com/?cid=16818103848329621620&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (112 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=16818103848329621620&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (116 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 300 Mbps down <small>· operator-reported</small>
@@ -16,6 +16,6 @@
 - **Tags:** community, coworking, mountain, wellness
 - **Nearest airports:** Sofia Airport (SOF) ~95 km; Plovdiv International Airport (PDV) ~115 km; Kavala Alexander the Great International Airport (KVA) ~140 km
 - **Website:** https://www.coworkingbansko.com/
-- **Rating:** 4.4 from 112 Google reviews
+- **Rating:** 4.4 from 116 Google reviews
 
 Source: https://colivingdb.com/coliving/coliving-bansko-by-coworking-bansko-and-networking-premium/

@@ -1,11 +1,11 @@
 # Iguana Co-living
 
-> Coliving in Oaxaca City, Mexico. Last updated September 1, 2026.
+> Coliving in Oaxaca City, Mexico. Last updated September 11, 2026.
 
 - **Location:** Oaxaca City, Mexico
 - **Type:** Permanent coliving
 - **Price:** On request
-- **Rating:** <a href="https://maps.google.com/?cid=4647457526582660108&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (7 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=4647457526582660108&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (16 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** A community space in Oaxaca City designed to foster connection while respecting personal space, with quiet mornings under the trees, evenings in conversation with new friends worldwide, and the warmth and hospitality Oaxaca is known for.
@@ -16,6 +16,6 @@
 - **Tags:** coworking, eco, community
 - **Nearest airports:** Xoxocotlán International Airport (OAX) ~8 km; Mexico City Benito Juárez International Airport (MEX) ~362 km; Puerto Escondido International Airport (PXM) ~138 km
 - **Website:** https://iguanahostel.com/co-living/
-- **Rating:** 4.6 from 7 Google reviews
+- **Rating:** 4.6 from 16 Google reviews
 
 Source: https://colivingdb.com/coliving/iguana-co-living/

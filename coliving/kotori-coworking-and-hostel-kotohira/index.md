@@ -1,12 +1,12 @@
 # Kotori Coworking & Hostel Kotohira
 
-> Coliving in Kotohira, Japan. Last updated September 1, 2026.
+> Coliving in Kotohira, Japan. Last updated September 11, 2026.
 
 - **Location:** Kotohira, Japan
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** 29+ night rates on inquiry; 14-28 nights 35% off standard rates
-- **Rating:** <a href="https://maps.google.com/?cid=9413628200047518598&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (94 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=9413628200047518598&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (102 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Vibe:** Travel like living in a coliving space, immersive local experiences for digital nomads
@@ -16,7 +16,7 @@
 - **Tags:** rural, coworking, community
 - **Nearest airports:** Takamatsu Airport (TAK) ~18 km; Okayama Momotaro Airport (OKJ) ~63 km; Tokushima Awaodori Airport / JMSDF Tokushima Air Base (TKS) ~73 km
 - **Website:** https://www.kotori-japan.com/en/coliving/
-- **Rating:** 4.9 from 94 Google reviews
+- **Rating:** 4.9 from 102 Google reviews
 
 ## About
 

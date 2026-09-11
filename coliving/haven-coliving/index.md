@@ -1,12 +1,12 @@
 # Haven Coliving
 
-> Coliving in Venice, California, United States. Last updated September 1, 2026.
+> Coliving in Venice, California, United States. Last updated September 11, 2026.
 
 - **Location:** Venice, California, United States
 - **Type:** Permanent coliving
 - **Price:** from $995/mo
 - **Price note:** from $895-995/month shared room, month-to-month
-- **Rating:** <a href="https://maps.google.com/?cid=11203409329430449803&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.2 (20 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=11203409329430449803&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.1 (19 reviews)</a> <small>· Google</small>
 - **Room types:** shared
 - **Dorm available:** No
 - **Vibe:** Intentional-living community blending wellness practices (yoga, meditation) with entrepreneurial networking and creative collaboration
@@ -16,7 +16,7 @@
 - **Tags:** beach, city, community, wellness
 - **Nearest airports:** Los Angeles International Airport (LAX) ~7 km; Jack Northrop Field Hawthorne Municipal Airport (HHR) ~14 km; Hollywood Burbank/Bob Hope Airport (BUR) ~25 km
 - **Website:** https://havencoliving.com/
-- **Rating:** 4.2 from 20 Google reviews
+- **Rating:** 4.1 from 19 Google reviews
 
 ## Rates
 

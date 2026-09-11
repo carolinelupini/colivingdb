@@ -1,11 +1,11 @@
 # Coworksurf Uluwatu
 
-> Coliving in Uluwatu, Indonesia. Last updated September 1, 2026.
+> Coliving in Uluwatu, Indonesia. Last updated September 11, 2026.
 
 - **Location:** Uluwatu, Indonesia
 - **Type:** Permanent coliving
 - **Price:** On request
-- **Rating:** <a href="https://maps.google.com/?cid=4722040520777533513&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (966 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=4722040520777533513&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (1228 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** laid-back surf destination, relaxed pace
@@ -17,7 +17,7 @@
 - **Nearest airports:** Denpasar I Gusti Ngurah Rai International Airport (DPS) ~13 km; Lombok International Airport (LOP) ~132 km
 - **Getting there:** Ngurah Rai International (DPS) is about a one-hour drive to Uluwatu by taxi, Gojek, or Grab.
 - **Website:** https://www.coworksurf.com/uluwatu
-- **Rating:** 5.0 from 966 Google reviews
+- **Rating:** 5.0 from 1228 Google reviews
 
 ## About
 

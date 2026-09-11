@@ -1,6 +1,6 @@
 # Coliving in Watamu, Kenya
 
-> 2 colivings in Watamu, Kenya – last updated September 1, 2026.
+> 2 colivings in Watamu, Kenya – last updated September 11, 2026.
 
 ## All colivings
 

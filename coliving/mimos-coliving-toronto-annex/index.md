@@ -1,12 +1,12 @@
 # Mimos Coliving - Toronto Annex
 
-> Coliving in Toronto, Canada. Last updated September 1, 2026.
+> Coliving in Toronto, Canada. Last updated September 11, 2026.
 
 - **Location:** Toronto, Canada
 - **Type:** Permanent coliving
 - **Price:** from C$1,440/mo
 - **Price note:** from CA$1,440/month for a private room (discounted from CA$1,710); CA$48/night
-- **Rating:** <a href="https://maps.google.com/?cid=1295760361061846920&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (17 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=1295760361061846920&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (18 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** A community-first, inclusive coliving home in Toronto for people in transition (newcomers to Canada, digital nomads, snowbirds, professionals between homes), offering flexible one-to-six-month stays with light shared chores and thoughtful applicant screening for community fit.
@@ -16,7 +16,7 @@
 - **Tags:** city, community, coworking
 - **Nearest airports:** Billy Bishop Toronto City Airport (YTZ) ~5 km; Toronto Pearson International Airport (YYZ) ~18 km; Niagara District Airport (YCM) ~57 km
 - **Website:** https://mimoscoliving.com/
-- **Rating:** 4.9 from 17 Google reviews
+- **Rating:** 4.9 from 18 Google reviews
 
 ## Rates
 

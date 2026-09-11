@@ -1,6 +1,6 @@
 # Coliving in Bogotá (El Virrey, Chapinero), Colombia
 
-> 1 colivings in Bogotá (El Virrey, Chapinero), Colombia, prices from €970 to €970 per month – last updated September 1, 2026.
+> 1 colivings in Bogotá (El Virrey, Chapinero), Colombia, prices from €970 to €970 per month – last updated September 11, 2026.
 
 ## All colivings
 

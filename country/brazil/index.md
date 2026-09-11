@@ -1,6 +1,6 @@
 # Coliving in Brazil
 
-> 13 colivings in Brazil, prices from €238 to €1,997 per month – last updated September 1, 2026.
+> 13 colivings in Brazil, prices from €238 to €1,997 per month – last updated September 11, 2026.
 
 ## All colivings
 
@@ -10,14 +10,14 @@
 | The Manoel João Ferreira | Florianópolis (Barra da Lagoa) | from $273/mo | — | private, shared | 30 nights | Permanent |
 | Nomadico Coliving Florianópolis | Florianópolis | from $380/mo | 5.0 (15) | private, shared | 7 nights | Pop-up |
 | Manoel Pedro da Silveira Home | Florianópolis | from $465/mo | — | private, dorm | 30 nights | Permanent |
-| Horizonte Coliving - Mangabeiras | Belo Horizonte | from BRL 2,390/mo | 5.0 (44) | private | 30 nights | Permanent |
-| Horizonte Coliving - Santa Tereza | Belo Horizonte | from BRL 2,650/mo | 5.0 (25) | private | 30 nights | Permanent |
+| Horizonte Coliving - Mangabeiras | Belo Horizonte | from BRL 2,390/mo | 5.0 (46) | private | 30 nights | Permanent |
+| Horizonte Coliving - Santa Tereza | Belo Horizonte | from BRL 2,650/mo | 5.0 (26) | private | 30 nights | Permanent |
 | INFINI Coliving | Jauá (Camaçari), near Salvador | from BRL 3,813/mo | 4.6 (27) | private | 1 night | Permanent |
-| Nomad's Ville (Mirante de Pipa) | Praia da Pipa | from BRL 3,900/mo | 4.7 (738) | private | — | Permanent |
+| Nomad's Ville (Mirante de Pipa) | Praia da Pipa | from BRL 3,900/mo | 4.7 (742) | private | — | Permanent |
 | WiFi Tribe — Florianópolis | Florianópolis | from $1,690/mo | — | private, shared | 28 nights | Pop-up |
 | WiFi Tribe — Pipa | Pipa | from $1,690/mo | — | private, shared | 28 nights | Pop-up |
 | Casa Basilico — Pipa | Pipa (Tibau do Sul) | from €1,997/mo | — | private | 28 nights | Pop-up |
-| Neighbor.HUB Hostel & Coliving - Floripa | Florianópolis | On request | 4.4 (45) | private, shared, dorm | — | Permanent |
+| Neighbor.HUB Hostel & Coliving - Floripa | Florianópolis | On request | 4.4 (47) | private, shared, dorm | — | Permanent |
 | Noma Collective — Pipa | Pipa | from $2,090/event | — | — | — | Pop-up |
 
 ## Price distribution

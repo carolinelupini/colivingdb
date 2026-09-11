@@ -1,6 +1,6 @@
 # Coliving in Vietnam
 
-> 8 colivings in Vietnam, prices from €283 to €834 per month – last updated September 1, 2026.
+> 9 colivings in Vietnam, prices from €283 to €834 per month – last updated September 11, 2026.
 
 ## All colivings
 
@@ -8,12 +8,13 @@
 |---|---|---|---|---|---|---|
 | Enosta Space | Da Nang | from VND 8,500,000/mo | 4.7 (73) | private, dorm | — | Permanent |
 | The Cây Giá Hạ | Hoi An | from $418/mo | — | private | 30 nights | Permanent |
-| Kiệt Residence | Hoi An | from $449/mo | 4.5 (44) | private, dorm | 30 nights | Permanent |
-| Hub Hoi An | Hoi An | from $449/mo | 4.8 (223) | dorm, private | 7 nights | Permanent |
+| Kiệt Residence | Hoi An | from $449/mo | 4.6 (43) | private, dorm | 30 nights | Permanent |
+| Hub Hoi An | Hoi An | from $449/mo | 4.8 (229) | dorm, private | 7 nights | Permanent |
 | Neighbours Co-living by Kolab | Ho Chi Minh City | from $600/mo | 5.0 (12) | private | 30 nights | Permanent |
 | The Mẹ Thứ | Hoi An | from $742/mo | — | private | 30 nights | Permanent |
-| Coworking Danang | Da Nang | from VND 25,000,000/mo | 4.9 (156) | private | 30 nights | Permanent |
-| Noma Collective — Hoi An | Hoi An | from $1,690/event | — | — | — | Pop-up |
+| Coworking Danang | Da Nang | from VND 25,000,000/mo | 4.9 (157) | private | 30 nights | Permanent |
+| Noma Collective — Hoi An | Hoi An | from $2,290/event | — | — | — | Pop-up |
+| Da Nang Nomad Fest 2027 | Da Nang | On request | — | — | — | Festival |
 
 ## Price distribution
 
@@ -26,5 +27,6 @@
 ## Upcoming pop-ups
 
 - Noma Collective — Hoi An — Jan 10 - Feb 7, 2027
+- Da Nang Nomad Fest 2027 — Mar 19 - 28, 2027
 
 Source: https://colivingdb.com/country/vietnam/

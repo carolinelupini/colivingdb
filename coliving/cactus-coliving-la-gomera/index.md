@@ -1,12 +1,12 @@
 # Cactus Coliving La Gomera
 
-> Coliving in San Sebastián de La Gomera, Spain. Last updated September 1, 2026.
+> Coliving in San Sebastián de La Gomera, Spain. Last updated September 11, 2026.
 
 - **Location:** San Sebastián de La Gomera, Spain
 - **Type:** Permanent coliving
 - **Price:** from €690/mo
 - **Price note:** from ~€33/night (~€690/month with discount) per Mapmelon
-- **Rating:** <a href="https://maps.google.com/?cid=15296178790543604382&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (55 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=15296178790543604382&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (58 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** Calm, safe and welcoming, balancing work with island exploration
@@ -16,7 +16,7 @@
 - **Tags:** island, mountain, coworking, community, wellness
 - **Nearest airports:** Tenerife Sur Airport (TFS) ~53 km; El Hierro Airport (VDE) ~82 km; La Palma Airport (SPC) ~87 km
 - **Website:** https://www.cactuscoliving.com/
-- **Rating:** 4.7 from 55 Google reviews
+- **Rating:** 4.7 from 58 Google reviews
 
 ## Rates
 

@@ -1,16 +1,18 @@
 # Stay Lagom
 
-> Coliving in Ballycastle, Northern Ireland, United Kingdom. Last updated September 1, 2026.
+> Coliving in Ballycastle, Northern Ireland, United Kingdom. Last updated September 11, 2026.
 
 - **Location:** Ballycastle, Northern Ireland, United Kingdom
 - **Type:** Permanent coliving
 - **Price:** from £855/mo (≈€1,000)
+- **Rating:** <a href="https://maps.google.com/?cid=1291021345219617415&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (56 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared, apartment
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
 - **Tags:** community, coworking, beach
 - **Website:** https://staylagom.com/
+- **Rating:** 5.0 from 56 Google reviews
 
 ## About
 

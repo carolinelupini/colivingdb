@@ -1,12 +1,12 @@
 # Draper Startup House Hyderabad
 
-> Coliving in Hyderabad, India. Last updated September 1, 2026.
+> Coliving in Hyderabad, India. Last updated September 11, 2026.
 
 - **Location:** Hyderabad, India
 - **Type:** Permanent coliving
 - **Price:** from €360/mo
 - **Price note:** from ~$13/night dorm (Booking/Hostelworld); ~€360/mo est.
-- **Rating:** <a href="https://maps.google.com/?cid=2963118552657843424&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (521 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=2963118552657843424&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (550 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared, dorm
 - **Dorm available:** Yes
 - **Vibe:** Entrepreneur-focused startup coliving/coworking community built for founders, innovators, and investors to collaborate.
@@ -19,7 +19,7 @@
 - **Nearest airports:** Rajiv Gandhi International Airport (HYD) ~25 km
 - **Getting there:** Rajiv Gandhi International Airport (HYD) is ~25-35 min from Gachibowli by car.
 - **Website:** https://draperstartuphouse.com/hyderabad/
-- **Rating:** 4.7 from 521 Google reviews
+- **Rating:** 4.6 from 550 Google reviews
 
 ## Rates
 

@@ -1,12 +1,12 @@
 # Pachamama Farm Retreat
 
-> Coliving in Ukropci (above Kotor Bay), Montenegro. Last updated September 1, 2026.
+> Coliving in Ukropci (above Kotor Bay), Montenegro. Last updated September 11, 2026.
 
 - **Location:** Ukropci (above Kotor Bay), Montenegro
 - **Type:** Permanent coliving
 - **Price:** from €695/mo
 - **Price note:** €695/month low-season campground; €31/night
-- **Rating:** <a href="https://maps.google.com/?cid=15531930625782724444&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (229 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=15531930625782724444&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (243 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** calm, community-rooted farmstay retreat
@@ -21,7 +21,7 @@
 - **Nearest airports:** Tivat Airport (TIV) ~5 km; Podgorica Airport / Podgorica Golubovci Airbase (TGD) ~45 km; Dubrovnik Ruđer Bošković Airport (DBV) ~39 km
 - **Getting there:** Tivat Airport (TIV), the closest to Kotor Bay — approximate, not stated on site.
 - **Website:** https://pachamamaretreat.me/coliving-coworking-farmstay
-- **Rating:** 4.8 from 229 Google reviews
+- **Rating:** 4.8 from 243 Google reviews
 
 ## Rates
 

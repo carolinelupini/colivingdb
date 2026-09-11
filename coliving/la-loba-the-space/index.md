@@ -1,12 +1,12 @@
 # La Loba - The Space
 
-> Coliving in Entrerríos, Spain. Last updated September 1, 2026.
+> Coliving in Entrerríos, Spain. Last updated September 11, 2026.
 
 - **Location:** Entrerríos, Spain
 - **Type:** Permanent coliving
 - **Price:** from €630/mo
 - **Price note:** €630/month (discounted from €750); from €24/night
-- **Rating:** <a href="https://maps.google.com/?cid=17522959810626877865&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (4 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=17522959810626877865&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (13 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 150 Mbps down <small>· operator-reported</small>
@@ -17,7 +17,7 @@
 - **Tags:** rural, community, coworking, wellness
 - **Nearest airports:** Santiago-Rosalía de Castro Airport (SCQ) ~22 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~470 km; Vigo Airport (VGO) ~55 km
 - **Website:** https://www.mapmelon.com/colivings/la-loba-the-space?ref=colivingdb
-- **Rating:** 5.0 from 4 Google reviews
+- **Rating:** 4.9 from 13 Google reviews
 
 ## Rates
 

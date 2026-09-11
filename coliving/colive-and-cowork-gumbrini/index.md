@@ -1,11 +1,11 @@
 # Colive & Cowork Gumbrini
 
-> Coliving in Tskaltubo, Georgia. Last updated September 1, 2026.
+> Coliving in Tskaltubo, Georgia. Last updated September 11, 2026.
 
 - **Location:** Tskaltubo, Georgia
 - **Type:** Permanent coliving
 - **Price:** from $219/mo
-- **Rating:** <a href="https://maps.google.com/?cid=16097278363319561127&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (51 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=16097278363319561127&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (53 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared, dorm
 - **Dorm available:** Yes
 - **Vibe:** Peaceful environment to relax or focus, affordable and eco-conscious
@@ -15,7 +15,7 @@
 - **Tags:** eco, rural, coworking, wellness
 - **Nearest airports:** David the Builder Kutaisi International Airport (KUT) ~14 km; Tbilisi International Airport (TBS) ~206 km; Alexander Kartveli Batumi International Airport (BUS) ~111 km
 - **Website:** https://www.colivingnewlevel.su/
-- **Rating:** 4.9 from 51 Google reviews
+- **Rating:** 4.9 from 53 Google reviews
 
 ## Rates
 

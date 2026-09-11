@@ -1,11 +1,11 @@
 # Coliving in Corralejo, Spain
 
-> 1 colivings in Corralejo, Spain – last updated September 1, 2026.
+> 1 colivings in Corralejo, Spain – last updated September 11, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| CoNomad | Corralejo | On request | 4.7 (106) | private | 30 nights | Permanent |
+| CoNomad | Corralejo | On request | 4.7 (107) | private | 30 nights | Permanent |
 
 Source: https://colivingdb.com/city/spain/corralejo/

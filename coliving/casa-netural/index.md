@@ -1,12 +1,12 @@
 # Casa Netural
 
-> Coliving in Matera, Italy. Last updated September 1, 2026.
+> Coliving in Matera, Italy. Last updated September 11, 2026.
 
 - **Location:** Matera, Italy
 - **Type:** Permanent coliving
 - **Price:** from €950/mo
 - **Price note:** prices on request
-- **Rating:** <a href="https://maps.google.com/?cid=3232151842898735556&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (139 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=3232151842898735556&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (142 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Creative, community-focused space for remote work, cultural exchange, and inspiration in Matera
@@ -16,7 +16,7 @@
 - **Tags:** city, coworking, community, eco
 - **Nearest airports:** Bari Karol Wojtyła International Airport (BRI) ~54 km; Rome–Fiumicino Leonardo da Vinci International Airport (FCO) ~385 km; Brindisi Airport (BDS) ~114 km
 - **Website:** https://www.benetural.com/en/
-- **Rating:** 4.9 from 139 Google reviews
+- **Rating:** 4.9 from 142 Google reviews
 
 ## Rates
 

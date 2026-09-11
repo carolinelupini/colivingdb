@@ -1,12 +1,12 @@
 # Co404
 
-> Coliving in Multiple (Medellín; Oaxaca City; San Cristóbal), Multiple (Colombia, Mexico). Last updated September 1, 2026.
+> Coliving in Multiple (Medellín; Oaxaca City; San Cristóbal), Multiple (Colombia, Mexico). Last updated September 11, 2026.
 
 - **Location:** Multiple (Medellín; Oaxaca City; San Cristóbal), Multiple (Colombia, Mexico)
 - **Type:** Permanent coliving
 - **Price:** from $362/mo
 - **Price note:** from $362/mo private room (Medellín); Oaxaca from $570
-- **Rating:** <a href="https://maps.google.com/?cid=7729065391284421933&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (162 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=7729065391284421933&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (130 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** hostel-hotel-coworking hybrid built for community
@@ -17,7 +17,7 @@
 - **Tags:** city, community, coworking
 - **Nearest airports:** Enrique Olaya Herrera Airport (EOH) ~3 km; El Dorado International Airport (BOG) ~233 km; Jose Maria Córdova International Airport (MDE) ~19 km
 - **Website:** https://co404.com
-- **Rating:** 4.7 from 162 Google reviews
+- **Rating:** 4.6 from 130 Google reviews
 
 ## Rates
 

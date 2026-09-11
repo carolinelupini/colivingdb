@@ -1,12 +1,12 @@
 # Neighbourgood East City
 
-> Coliving in Cape Town, South Africa. Last updated September 1, 2026.
+> Coliving in Cape Town, South Africa. Last updated September 11, 2026.
 
 - **Location:** Cape Town, South Africa
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** Price on request; the operator quotes per-night rates through their booking system and publishes no monthly figure
-- **Rating:** <a href="https://maps.google.com/?cid=9329984901720326076&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (367 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=9329984901720326076&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (384 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared, dorm
 - **Dorm available:** Yes
 - **Vibe:** Community-focused coliving/coworking — a productive home away from home for travellers and digital nomads, with a shared lounge for connecting with like-minded residents while preserving independence.
@@ -18,7 +18,7 @@
 - **Nearest airports:** Cape Town International Airport (CPT) ~18 km
 - **Getting there:** Cape Town International (CPT) is the nearest airport, roughly 20-30 minutes by car depending on the location.
 - **Website:** https://www.neighbourgood.co
-- **Rating:** 4.4 from 367 Google reviews
+- **Rating:** 4.4 from 384 Google reviews
 
 ## About
 

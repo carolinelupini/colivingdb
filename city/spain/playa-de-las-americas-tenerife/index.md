@@ -1,12 +1,12 @@
 # Coliving in Playa de las Americas, Tenerife, Spain
 
-> 1 colivings in Playa de las Americas, Tenerife, Spain, prices from €849 to €849 per month – last updated September 1, 2026.
+> 1 colivings in Playa de las Americas, Tenerife, Spain, prices from €849 to €849 per month – last updated September 11, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Oasis Coliving | Playa de las Americas, Tenerife | from €849/mo | 2.6 (188) | private | — | Permanent |
+| Oasis Coliving | Playa de las Americas, Tenerife | from €849/mo | 2.6 (198) | private | — | Permanent |
 
 ## Price distribution
 

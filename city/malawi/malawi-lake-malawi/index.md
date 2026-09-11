@@ -1,6 +1,6 @@
 # Coliving in Malawi (Lake Malawi), Malawi
 
-> 1 colivings in Malawi (Lake Malawi), Malawi – last updated September 1, 2026.
+> 1 colivings in Malawi (Lake Malawi), Malawi – last updated September 11, 2026.
 
 ## All colivings
 

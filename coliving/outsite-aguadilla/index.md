@@ -1,12 +1,12 @@
 # Outsite Aguadilla
 
-> Coliving in Aguadilla, Puerto Rico. Last updated September 1, 2026.
+> Coliving in Aguadilla, Puerto Rico. Last updated September 11, 2026.
 
 - **Location:** Aguadilla, Puerto Rico
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** fixed monthly rates live; add dates for price
-- **Rating:** <a href="https://maps.google.com/?cid=4405631355679757720&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.1 (18 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=4405631355679757720&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.2 (21 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** 'Your office has ocean views, and your breaks come with boardshorts' — surf and adventure alongside remote work.
@@ -16,7 +16,7 @@
 - **Tags:** beach, surf, coworking, community
 - **Nearest airports:** Rafael Hernández International Airport (BQN) ~8 km; Luis Munoz Marin International Airport (SJU) ~121 km; Eugenio Maria De Hostos Airport (MAZ) ~19 km
 - **Website:** https://www.outsite.co/locations/puerto-rico-aguadilla
-- **Rating:** 4.1 from 18 Google reviews
+- **Rating:** 4.2 from 21 Google reviews
 
 ## About
 

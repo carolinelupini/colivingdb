@@ -1,12 +1,12 @@
 # Coliving in Montevideo, Uruguay
 
-> 1 colivings in Montevideo, Uruguay, prices from €2,104 to €2,104 per month – last updated September 1, 2026.
+> 1 colivings in Montevideo, Uruguay, prices from €2,104 to €2,104 per month – last updated September 11, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Opta Coliving | Montevideo | from $2,400/mo | 4.3 (2266) | private | — | Permanent |
+| Opta Coliving | Montevideo | from $2,400/mo | 4.3 (2284) | private | — | Permanent |
 
 ## Price distribution
 

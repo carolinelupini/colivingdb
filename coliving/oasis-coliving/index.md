@@ -1,12 +1,12 @@
 # Oasis Coliving
 
-> Coliving in Playa de las Americas, Tenerife, Spain. Last updated September 1, 2026.
+> Coliving in Playa de las Americas, Tenerife, Spain. Last updated September 11, 2026.
 
 - **Location:** Playa de las Americas, Tenerife, Spain
 - **Type:** Permanent coliving
 - **Price:** from €849/mo
 - **Price note:** from EUR849/month winter season, EUR300 deposit
-- **Rating:** <a href="https://maps.google.com/?cid=14246472242687876557&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 2.6 (188 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=14246472242687876557&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 2.6 (198 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 600 Mbps down <small>· operator-reported</small>
@@ -20,7 +20,7 @@
 - **Nearest airports:** Tenerife Sur Airport (TFS) ~15 km; Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~60 km; El Hierro Airport (VDE) ~118 km
 - **Getting there:** Tenerife South Airport (TFS) is ~15-20 min by car.
 - **Website:** https://digitaltenerife.es/
-- **Rating:** 2.6 from 188 Google reviews
+- **Rating:** 2.6 from 198 Google reviews
 
 ## Rates
 

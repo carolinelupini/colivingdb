@@ -1,11 +1,11 @@
 # The Yard Hostel
 
-> Coliving in Bangkok, Thailand. Last updated September 1, 2026.
+> Coliving in Bangkok, Thailand. Last updated September 11, 2026.
 
 - **Location:** Bangkok, Thailand
 - **Type:** Permanent coliving
 - **Price:** from $300/mo
-- **Rating:** <a href="https://maps.google.com/?cid=14959720310593593130&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (811 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=14959720310593593130&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (828 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Vibe:** chill social hostel, quiet oasis feel
@@ -19,7 +19,7 @@
 - **Nearest airports:** Don Mueang International Airport (DMK) ~16 km; Suvarnabhumi Airport (BKK) ~24 km; U-Tapao–Rayong–Pattaya International Airport (UTP) ~132 km
 - **Getting there:** Don Mueang (DMK) is ~20-25 min by car from Ari; Suvarnabhumi (BKK) is ~45 min-1h depending on traffic.
 - **Website:** https://www.theyardhostels.com/
-- **Rating:** 4.7 from 811 Google reviews
+- **Rating:** 4.7 from 828 Google reviews
 
 ## Rates
 

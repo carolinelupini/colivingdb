@@ -1,12 +1,12 @@
 # Coliving in Sofia, Bulgaria
 
-> 1 colivings in Sofia, Bulgaria, prices from €1,095 to €1,095 per month – last updated September 1, 2026.
+> 1 colivings in Sofia, Bulgaria, prices from €1,095 to €1,095 per month – last updated September 11, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| WorkNomads LAB Coliving | Sofia | from €1,095/mo | 4.5 (480) | private | 30 nights | Permanent |
+| WorkNomads LAB Coliving | Sofia | from €1,095/mo | 4.5 (513) | private | 30 nights | Permanent |
 
 ## Price distribution
 

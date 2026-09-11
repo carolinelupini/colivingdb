@@ -1,12 +1,12 @@
 # Coliving in Newquay, United Kingdom
 
-> 1 colivings in Newquay, United Kingdom, prices from €1,885 to €1,885 per month – last updated September 1, 2026.
+> 1 colivings in Newquay, United Kingdom, prices from €1,885 to €1,885 per month – last updated September 11, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| SeaSpace | Newquay | from £1,625/mo | 4.8 (95) | private | — | Permanent |
+| SeaSpace | Newquay | from £1,625/mo | 4.6 (109) | private | — | Permanent |
 
 ## Price distribution
 

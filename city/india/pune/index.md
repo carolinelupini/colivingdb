@@ -1,11 +1,11 @@
 # Coliving in Pune, India
 
-> 1 colivings in Pune, India – last updated September 1, 2026.
+> 1 colivings in Pune, India – last updated September 11, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| COLIWO TROIS - Kharadi Pune (Colive/Cowork/Hostel) | Pune | On request | 4.4 (158) | dorm, shared | — | Permanent |
+| COLIWO TROIS - Kharadi Pune (Colive/Cowork/Hostel) | Pune | On request | 4.4 (161) | dorm, shared | — | Permanent |
 
 Source: https://colivingdb.com/city/india/pune/

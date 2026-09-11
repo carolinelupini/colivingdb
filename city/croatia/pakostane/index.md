@@ -1,12 +1,12 @@
 # Coliving in Pakoštane, Croatia
 
-> 2 colivings in Pakoštane, Croatia, prices from €598 to €650 per month – last updated September 1, 2026.
+> 2 colivings in Pakoštane, Croatia, prices from €598 to €650 per month – last updated September 11, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Kraljice Residence (Boho House) | Pakoštane | from $683/mo | 4.5 (52) | private | 30 nights | Permanent |
+| Kraljice Residence (Boho House) | Pakoštane | from $683/mo | 4.5 (57) | private | 30 nights | Permanent |
 | Ante Starčevića Home | Pakoštane | from $743/mo | — | private | 30 nights | Pop-up |
 
 ## Price distribution

@@ -1,12 +1,12 @@
 # Noma Collective — Dahab
 
-> Coliving in Dahab, Egypt. Last updated September 1, 2026.
+> Coliving in Dahab, Egypt. Last updated September 11, 2026.
 
 - **Location:** Dahab, Egypt
 - **Type:** Pop-up / dated edition
 - **Dates:** Nov 1 - Nov 22, 2026 (Alumni Exclusive)
 - **Price:** from $1,890/event
-- **Price note:** pp, plus fees and taxes
+- **Price note:** SOLD OUT, waiting list only (per Noma Collective, September 11, 2026) — pp, plus fees and taxes
 - **Room types:** —
 - **Dorm available:** No
 - **Vibe:** Laid-back, bohemian dive-town retreat built around diving, desert exploration, Bedouin culture, and slow living rather than productivity.

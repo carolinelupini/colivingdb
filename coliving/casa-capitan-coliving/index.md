@@ -1,12 +1,12 @@
 # Casa Capitán Coliving
 
-> Coliving in Guargacho, Tenerife, Spain. Last updated September 1, 2026.
+> Coliving in Guargacho, Tenerife, Spain. Last updated September 11, 2026.
 
 - **Location:** Guargacho, Tenerife, Spain
 - **Type:** Permanent coliving
 - **Price:** from €960/mo
 - **Price note:** from €42/night or €960/month
-- **Rating:** <a href="https://maps.google.com/?cid=9268707202288740420&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (18 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=9268707202288740420&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (28 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 1000 Mbps down <small>· operator-reported</small>
@@ -17,7 +17,7 @@
 - **Tags:** island, coworking, community, beach, rural
 - **Nearest airports:** Tenerife Sur Airport (TFS) ~6 km; Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~58 km; Gran Canaria Airport (LPA) ~123 km
 - **Website:** https://www.mapmelon.com/colivings/casa-capitan-coliving?ref=colivingdb
-- **Rating:** 5.0 from 18 Google reviews
+- **Rating:** 5.0 from 28 Google reviews
 
 ## Rates
 

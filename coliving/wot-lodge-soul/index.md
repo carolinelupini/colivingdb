@@ -1,12 +1,12 @@
 # WOT Lodge Soul
 
-> Coliving in Ericeira, Portugal. Last updated September 1, 2026.
+> Coliving in Ericeira, Portugal. Last updated September 11, 2026.
 
 - **Location:** Ericeira, Portugal
 - **Type:** Permanent coliving
 - **Price:** from €451/wk
 - **Price note:** Cooliving monthly rates on request (sales@wotels.com); hostel nightly rates bookable
-- **Rating:** <a href="https://maps.google.com/?cid=4773070737101326686&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.1 (123 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=4773070737101326686&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.0 (137 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Vibe:** Vintage charm with a touch of surf
@@ -16,7 +16,7 @@
 - **Tags:** surf, beach, coworking, community
 - **Nearest airports:** Cascais Airport (CAT) ~27 km; Lisbon Humberto Delgado Airport (LIS) ~32 km
 - **Website:** https://wotsoul.com/en/our-hotels/wot-soul-ericeira-lodge/
-- **Rating:** 4.1 from 123 Google reviews
+- **Rating:** 4.0 from 137 Google reviews
 
 ## Rates
 

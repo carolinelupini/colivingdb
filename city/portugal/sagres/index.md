@@ -1,12 +1,12 @@
 # Coliving in Sagres, Portugal
 
-> 1 colivings in Sagres, Portugal, prices from €800 to €800 per month – last updated September 1, 2026.
+> 1 colivings in Sagres, Portugal, prices from €800 to €800 per month – last updated September 11, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Outsite Algarve - Sagres | Sagres | from €800/mo | 4.4 (23) | private | 2 nights | Permanent |
+| Outsite Algarve - Sagres | Sagres | from €800/mo | 4.4 (25) | private | 2 nights | Permanent |
 
 ## Price distribution
 

@@ -1,12 +1,12 @@
 # Casa do Pico
 
-> Coliving in Funchal, Madeira, Portugal. Last updated September 1, 2026.
+> Coliving in Funchal, Madeira, Portugal. Last updated September 11, 2026.
 
 - **Location:** Funchal, Madeira, Portugal
 - **Type:** Permanent coliving
 - **Price:** from €1,050/mo
 - **Price note:** budget to premium ensuite rooms; rate not published on hub page
-- **Rating:** <a href="https://maps.google.com/?cid=13788590589298556186&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (32 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=13788590589298556186&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (39 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** Community-focused coliving in Funchal, Madeira with a busy calendar of 800+ yearly events (hikes, workshops, community lunches) blending remote work with island life.
@@ -16,7 +16,7 @@
 - **Tags:** island, city, coworking, community, eco
 - **Nearest airports:** Cristiano Ronaldo International Airport (FNC) ~14 km; Porto Santo Airport (PXO) ~70 km
 - **Website:** https://madeiraremote.com/casa-do-pico
-- **Rating:** 5.0 from 32 Google reviews
+- **Rating:** 5.0 from 39 Google reviews
 
 ## Rates
 

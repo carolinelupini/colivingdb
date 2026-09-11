@@ -1,12 +1,12 @@
 # Flamingo Coliving
 
-> Coliving in Santa Marta, Colombia. Last updated September 1, 2026.
+> Coliving in Santa Marta, Colombia. Last updated September 11, 2026.
 
 - **Location:** Santa Marta, Colombia
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** Price on request — enquire with the operator
-- **Rating:** <a href="https://maps.google.com/?cid=6091613119890526817&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (106 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=6091613119890526817&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (107 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Vibe:** Tropical workspace blending comfort, creativity, and home
@@ -16,7 +16,7 @@
 - **Tags:** coworking, community, beach, city
 - **Nearest airports:** Simón Bolívar International Airport (SMR) ~14 km; Ernesto Cortissoz International Airport (BAQ) ~73 km; Alfonso López Pumarejo Airport (VUP) ~138 km
 - **Website:** https://flamingocoworking.com/
-- **Rating:** 4.3 from 106 Google reviews
+- **Rating:** 4.3 from 107 Google reviews
 
 ## About
 

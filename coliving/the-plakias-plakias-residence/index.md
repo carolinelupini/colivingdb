@@ -1,12 +1,12 @@
 # The Plakias (Plakias Residence)
 
-> Coliving in Plakias, Greece. Last updated September 1, 2026.
+> Coliving in Plakias, Greece. Last updated September 11, 2026.
 
 - **Location:** Plakias, Greece
 - **Type:** Permanent coliving
 - **Price:** from $1,543/mo
 - **Price note:** from BGN 2,641/mo private room, breakfast included
-- **Rating:** <a href="https://maps.google.com/?cid=9837078619700085684&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (22 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=9837078619700085684&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (24 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 200 Mbps down <small>· operator-reported</small>
@@ -17,7 +17,7 @@
 - **Tags:** beach, community, rural, wellness
 - **Nearest airports:** Chania International Airport (CHQ) ~43 km; Athens Eleftherios Venizelos International Airport (ATH) ~308 km; Heraklion International Nikos Kazantzakis Airport (HER) ~75 km
 - **Website:** https://coliving.com/spaces/fptwoxym
-- **Rating:** 4.8 from 22 Google reviews
+- **Rating:** 4.8 from 24 Google reviews
 
 ## Rates
 

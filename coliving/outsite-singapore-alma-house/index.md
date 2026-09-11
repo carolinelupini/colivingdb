@@ -1,12 +1,12 @@
 # Outsite Singapore (Alma House)
 
-> Coliving in Singapore, Singapore. Last updated September 1, 2026.
+> Coliving in Singapore, Singapore. Last updated September 11, 2026.
 
 - **Location:** Singapore, Singapore
 - **Type:** Permanent coliving
 - **Price:** from €1,800/mo
 - **Price note:** est.; Outsite Curated, prices behind date-select
-- **Rating:** <a href="https://maps.google.com/?cid=6309922115786516998&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.2 (185 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=6309922115786516998&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.2 (193 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 100 Mbps down <small>· operator-reported</small>
@@ -20,7 +20,7 @@
 - **Nearest airports:** Seletar Airport (XSP) ~14 km; Singapore Changi Airport (SIN) ~18 km; Hang Nadim International Airport (BTH) ~36 km
 - **Getting there:** Singapore Changi Airport (SIN) is ~24 min away.
 - **Website:** https://www.outsite.co/locations/singapore-alma-house
-- **Rating:** 4.2 from 185 Google reviews
+- **Rating:** 4.2 from 193 Google reviews
 
 ## About
 

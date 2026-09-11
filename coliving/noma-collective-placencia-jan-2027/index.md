@@ -1,11 +1,11 @@
 # Noma Collective — Placencia (Jan 2027)
 
-> Coliving in Placencia, Belize. Last updated September 1, 2026.
+> Coliving in Placencia, Belize. Last updated September 11, 2026.
 
 - **Location:** Placencia, Belize
 - **Type:** Pop-up / dated edition
 - **Dates:** Jan 3 - Jan 31, 2027
-- **Price:** from $2,590/event
+- **Price:** from $3,390/event
 - **Price note:** pp, all fees and taxes included
 - **Room types:** —
 - **Dorm available:** No

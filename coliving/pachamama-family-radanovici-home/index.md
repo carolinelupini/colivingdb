@@ -1,12 +1,12 @@
 # Pachamama Family (Radanovici Home)
 
-> Coliving in Radanovici, Montenegro. Last updated September 1, 2026.
+> Coliving in Radanovici, Montenegro. Last updated September 11, 2026.
 
 - **Location:** Radanovici, Montenegro
 - **Type:** Permanent coliving
 - **Price:** from $960/mo
 - **Price note:** from BGN 1,643/mo incl. 3 meals/day
-- **Rating:** <a href="https://maps.google.com/?cid=15531930625782724444&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (229 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=15531930625782724444&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (243 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared, dorm
 - **Dorm available:** Yes
 - **Wi-Fi (on-site):** 200 Mbps down <small>· operator-reported</small>
@@ -22,7 +22,7 @@
 - **Nearest airports:** Tivat Airport (TIV) ~8 km; Podgorica Airport / Podgorica Golubovci Airbase (TGD) ~41 km; Dubrovnik Ruđer Bošković Airport (DBV) ~47 km
 - **Getting there:** Tivat (TIV) is the nearest airport, roughly 20-30 minutes by car; Podgorica (TGD) is farther.
 - **Website:** https://coliving.com/spaces/bn2ovnqc
-- **Rating:** 4.8 from 229 Google reviews
+- **Rating:** 4.8 from 243 Google reviews
 
 ## Rates
 

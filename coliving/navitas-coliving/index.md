@@ -1,12 +1,12 @@
 # Navitas Coliving
 
-> Coliving in Civitanova Marche, Italy. Last updated September 1, 2026.
+> Coliving in Civitanova Marche, Italy. Last updated September 11, 2026.
 
 - **Location:** Civitanova Marche, Italy
 - **Type:** Permanent coliving
 - **Price:** from €540/mo
 - **Price note:** from €18/night, est. ~€540/month
-- **Rating:** <a href="https://maps.google.com/?cid=5366637628185757289&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (71 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=5366637628185757289&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (77 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Live, work and enjoy your holiday in Marche region
@@ -16,7 +16,7 @@
 - **Tags:** rural, coworking, community
 - **Nearest airports:** Marche Airport (AOI) ~46 km; Rome–Fiumicino Leonardo da Vinci International Airport (FCO) ~206 km; Perugia San Francesco d'Assisi – Umbria International Airport (PEG) ~101 km
 - **Website:** https://navitascoliving.com/en/
-- **Rating:** 4.9 from 71 Google reviews
+- **Rating:** 4.9 from 77 Google reviews
 
 ## About
 

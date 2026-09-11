@@ -1,12 +1,12 @@
 # EVOLVE Coliving
 
-> Coliving in San Gwann, Malta. Last updated September 1, 2026.
+> Coliving in San Gwann, Malta. Last updated September 11, 2026.
 
 - **Location:** San Gwann, Malta
 - **Type:** Permanent coliving
 - **Price:** from €845/mo
 - **Price note:** private rooms from ~€845/mo
-- **Rating:** <a href="https://maps.google.com/?cid=15907212710429089252&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (111 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=15907212710429089252&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (113 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 1000 Mbps down <small>· operator-reported</small>
@@ -17,7 +17,7 @@
 - **Tags:** island, city, coworking, community, wellness
 - **Nearest airports:** Malta International Airport (MLA) ~7 km; Comiso Airport (CIY) ~121 km
 - **Website:** https://evolvecoliving.io/
-- **Rating:** 4.7 from 111 Google reviews
+- **Rating:** 4.8 from 113 Google reviews
 
 ## Rates
 

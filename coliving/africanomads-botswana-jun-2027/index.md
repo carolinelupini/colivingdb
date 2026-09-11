@@ -1,6 +1,6 @@
 # AfricaNomads — Botswana (Jun 2027)
 
-> Coliving in Maun, Botswana. Last updated September 1, 2026.
+> Coliving in Maun, Botswana. Last updated September 11, 2026.
 
 - **Location:** Maun, Botswana
 - **Type:** Pop-up / dated edition

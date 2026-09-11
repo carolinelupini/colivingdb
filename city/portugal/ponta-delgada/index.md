@@ -1,12 +1,12 @@
 # Coliving in Ponta Delgada, Portugal
 
-> 1 colivings in Ponta Delgada, Portugal, prices from €900 to €900 per month – last updated September 1, 2026.
+> 1 colivings in Ponta Delgada, Portugal, prices from €900 to €900 per month – last updated September 11, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Quinta do Bom Despacho | Ponta Delgada | from €900/mo | 4.8 (141) | private, apartment | — | Permanent |
+| Quinta do Bom Despacho | Ponta Delgada | from €900/mo | 4.8 (143) | private, apartment | — | Permanent |
 
 ## Price distribution
 

@@ -1,12 +1,12 @@
 # Lava Coliving & Coworking
 
-> Coliving in Ribeira Grande, São Miguel, Portugal. Last updated September 1, 2026.
+> Coliving in Ribeira Grande, São Miguel, Portugal. Last updated September 11, 2026.
 
 - **Location:** Ribeira Grande, São Miguel, Portugal
 - **Type:** Permanent coliving
 - **Price:** from €25/night
 - **Price note:** €780/mo (discounted from €930); from €31/night
-- **Rating:** <a href="https://maps.google.com/?cid=13609923248219951486&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (60 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=13609923248219951486&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (64 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** Perfect blend of coworking and community
@@ -16,7 +16,7 @@
 - **Tags:** island, surf, beach, mountain, coworking, community, wellness
 - **Nearest airports:** João Paulo II Airport (PDL) ~18 km; Santa Maria Airport (SMA) ~99 km
 - **Website:** https://www.lavacoliving.com/
-- **Rating:** 4.9 from 60 Google reviews
+- **Rating:** 4.9 from 64 Google reviews
 
 ## Rates
 

@@ -1,12 +1,12 @@
 # Hostel Kahlo
 
-> Coliving in Sierro, Almeria (Andalucia), Spain. Last updated September 1, 2026.
+> Coliving in Sierro, Almeria (Andalucia), Spain. Last updated September 11, 2026.
 
 - **Location:** Sierro, Almeria (Andalucia), Spain
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** nightly rates via Hostelworld only
-- **Rating:** <a href="https://maps.google.com/?cid=8652067400508108299&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 3.7 (3 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=8652067400508108299&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (3 reviews)</a> <small>· Google</small>
 - **Room types:** dorm, private
 - **Dorm available:** Yes
 - **Vibe:** 'A unique and tranquil experience for budget-conscious travelers seeking a social and welcoming atmosphere' in a peaceful mountain village setting.
@@ -16,7 +16,7 @@
 - **Tags:** rural, mountain, community
 - **Nearest airports:** Almería Airport (LEI) ~55 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~365 km; F.G.L. Airport Granada-Jaén Airport (GRX) ~123 km
 - **Website:** https://www.hostelworld.com/es/albergues/p/334001/hostel-kahlo/
-- **Rating:** 3.7 from 3 Google reviews
+- **Rating:** 5.0 from 3 Google reviews
 
 ## About
 

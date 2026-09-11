@@ -1,12 +1,12 @@
 # Alt Coliving
 
-> Coliving in Chiang Mai, Thailand. Last updated September 1, 2026.
+> Coliving in Chiang Mai, Thailand. Last updated September 11, 2026.
 
 - **Location:** Chiang Mai, Thailand
 - **Type:** Permanent coliving
 - **Price:** from THB 1,445/night
 - **Price note:** High-season rate, per night, 1 guest (VAT incl.). Range THB 1,445–2,793. Long-stay discounts: 20% off 9–18 nights, 35% off 19–28, 50% off 29+.
-- **Rating:** <a href="https://maps.google.com/?cid=12211908088202749556&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (242 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=12211908088202749556&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (247 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 250 Mbps down <small>· operator-reported</small><br><small>Operator-reported (Wan, Operations Manager, 2026-07-25): ~200–250 Mbps, symmetric (down/up). Same setup at both Alt locations.</small>
@@ -21,7 +21,7 @@
 - **Nearest airports:** Chiang Mai International Airport (CNX) ~4 km; Lampang Airport (LPT) ~79 km; Mae Hong Son Airport (HGN) ~121 km
 - **Getting there:** Chiang Mai International (CNX) — approximate, not stated on site (site itself was not directly fetchable; sourced via search aggregation of booking/coliving listing sites).
 - **Website:** https://www.altcoliving.com/
-- **Rating:** 4.9 from 242 Google reviews
+- **Rating:** 4.9 from 247 Google reviews
 
 ## Rates
 

@@ -1,12 +1,12 @@
 # Wild Souls Ericeira
 
-> Coliving in Ericeira, Portugal. Last updated September 1, 2026.
+> Coliving in Ericeira, Portugal. Last updated September 11, 2026.
 
 - **Location:** Ericeira, Portugal
 - **Type:** Permanent coliving
 - **Price:** from €1,800/mo
 - **Price note:** from €75/night or €1,800/month
-- **Rating:** <a href="https://maps.google.com/?cid=2843576997518348241&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (25 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=2843576997518348241&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (31 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 128 Mbps down <small>· operator-reported</small>
@@ -17,7 +17,7 @@
 - **Tags:** surf, beach, coworking, community
 - **Nearest airports:** Cascais Airport (CAT) ~27 km; Lisbon Humberto Delgado Airport (LIS) ~32 km
 - **Website:** https://www.mapmelon.com/colivings/wild-souls-ericeira?ref=colivingdb
-- **Rating:** 5.0 from 25 Google reviews
+- **Rating:** 5.0 from 31 Google reviews
 
 ## Rates
 

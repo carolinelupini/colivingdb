@@ -1,12 +1,12 @@
 # Roma Residence (Serenity Lodge)
 
-> Coliving in Sharm El-Sheikh, Egypt. Last updated September 1, 2026.
+> Coliving in Sharm El-Sheikh, Egypt. Last updated September 11, 2026.
 
 - **Location:** Sharm El-Sheikh, Egypt
 - **Type:** Permanent coliving
 - **Price:** from $600/mo
 - **Price note:** from BGN 1,030/mo 4-bed dorm (~€527); private from ~€1,053
-- **Rating:** <a href="https://maps.google.com/?cid=8643929092497600829&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (210 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=8643929092497600829&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (232 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Wi-Fi (on-site):** 30 Mbps down <small>· operator-reported</small>
@@ -22,7 +22,7 @@
 - **Nearest airports:** Sharm El Sheikh International Airport (SSH) ~2 km; Cairo International Airport (CAI) ~378 km; Neom Bay Airport (NUM) ~87 km
 - **Getting there:** Sharm El-Sheikh Airport (SSH), ~20 min drive; transfer available for $15/direction.
 - **Website:** https://coliving.com/spaces/2d1tbk1k
-- **Rating:** 4.3 from 210 Google reviews
+- **Rating:** 4.3 from 232 Google reviews
 
 ## Rates
 

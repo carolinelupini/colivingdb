@@ -1,12 +1,12 @@
 # Outsite Lisbon - Intendente
 
-> Coliving in Lisbon, Portugal. Last updated September 1, 2026.
+> Coliving in Lisbon, Portugal. Last updated September 11, 2026.
 
 - **Location:** Lisbon, Portugal
 - **Type:** Permanent coliving
 - **Price:** from €1,000/mo
 - **Price note:** from EUR1,000/month winter, members only
-- **Rating:** <a href="https://maps.google.com/?cid=6083954060034565864&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (35 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=6083954060034565864&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (36 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 50 Mbps down <small>· operator-reported</small>
@@ -17,7 +17,7 @@
 - **Tags:** city, coworking, community, wellness
 - **Nearest airports:** Lisbon Humberto Delgado Airport (LIS) ~7 km; Cascais Airport (CAT) ~19 km
 - **Website:** https://www.outsite.co/locations/lisbon-intendente
-- **Rating:** 4.4 from 35 Google reviews
+- **Rating:** 4.4 from 36 Google reviews
 
 ## Rates
 

@@ -1,12 +1,12 @@
 # Dolce Vita Coliving & Coworking
 
-> Coliving in Vallo di Nera (Umbria), Italy. Last updated September 1, 2026.
+> Coliving in Vallo di Nera (Umbria), Italy. Last updated September 11, 2026.
 
 - **Location:** Vallo di Nera (Umbria), Italy
 - **Type:** Permanent coliving
 - **Price:** from €599/mo
 - **Price note:** €750/month Mapmelon discounted rate (from €39/night; regular ~€1,380/mo)
-- **Rating:** <a href="https://maps.google.com/?cid=8698690295753212342&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (25 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=8698690295753212342&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (28 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** 'Live Like a Local' in a restored medieval hill-town village — sustainable, inclusive, pet-friendly community with shared pasta nights and sunset hikes.
@@ -16,7 +16,7 @@
 - **Tags:** rural, mountain, coworking, community, wellness
 - **Nearest airports:** Perugia San Francesco d'Assisi – Umbria International Airport (PEG) ~47 km; Rome–Fiumicino Leonardo da Vinci International Airport (FCO) ~118 km; Marche Airport (AOI) ~103 km
 - **Website:** https://www.dolcevitacoliving.com/
-- **Rating:** 4.7 from 25 Google reviews
+- **Rating:** 4.8 from 28 Google reviews
 
 ## Rates
 

@@ -1,12 +1,12 @@
 # Behappy Lodge
 
-> Coliving in Esmoriz, Portugal. Last updated September 1, 2026.
+> Coliving in Esmoriz, Portugal. Last updated September 11, 2026.
 
 - **Location:** Esmoriz, Portugal
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** est.; private and dorm rooms, rate not published
-- **Rating:** <a href="https://maps.google.com/?cid=11781000321310658695&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (338 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=11781000321310658695&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (357 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared, dorm
 - **Dorm available:** Yes
 - **Vibe:** surf coliving blending work and play
@@ -19,7 +19,7 @@
 - **Nearest airports:** Francisco de Sá Carneiro Airport (OPO) ~32 km; Lisbon Humberto Delgado Airport (LIS) ~246 km; Aerodromo Goncalves Lobato (Viseu Airport) (VSE) ~68 km
 - **Getting there:** Porto/Francisco Sá Carneiro Airport (OPO) is roughly ~35-40 min by car (Porto itself is ~30 min away).
 - **Website:** https://behappylodge.com/en/co-living/
-- **Rating:** 4.9 from 338 Google reviews
+- **Rating:** 4.9 from 357 Google reviews
 
 ## About
 

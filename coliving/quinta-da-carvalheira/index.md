@@ -1,12 +1,12 @@
 # Quinta Da Carvalheira
 
-> Coliving in Soure, Portugal. Last updated September 1, 2026.
+> Coliving in Soure, Portugal. Last updated September 11, 2026.
 
 - **Location:** Soure, Portugal
 - **Type:** Permanent coliving
 - **Price:** from €510/mo
 - **Price note:** €510/month (from €600); €20/night
-- **Rating:** <a href="https://maps.google.com/?cid=11724637721823963213&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (14 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=11724637721823963213&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (19 reviews)</a> <small>· Google</small>
 - **Room types:** —
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 457 Mbps down <small>· operator-reported</small>
@@ -17,7 +17,7 @@
 - **Tags:** rural, community, eco, wellness
 - **Nearest airports:** Aerodromo Goncalves Lobato (Viseu Airport) (VSE) ~97 km; Lisbon Humberto Delgado Airport (LIS) ~149 km; Francisco de Sá Carneiro Airport (OPO) ~132 km
 - **Website:** https://www.mapmelon.com/colivings/quinta-da-carvalheira?ref=colivingdb
-- **Rating:** 5.0 from 14 Google reviews
+- **Rating:** 5.0 from 19 Google reviews
 
 ## Rates
 

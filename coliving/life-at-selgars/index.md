@@ -1,12 +1,12 @@
 # Life at Selgars
 
-> Coliving in Uffculme, Devon, United Kingdom. Last updated September 1, 2026.
+> Coliving in Uffculme, Devon, United Kingdom. Last updated September 11, 2026.
 
 - **Location:** Uffculme, Devon, United Kingdom
 - **Type:** Permanent coliving
 - **Price:** from £950/mo
 - **Price note:** €990/mo on Mapmelon; operator lists £1,200/mo (£700 for 2-week min)
-- **Rating:** <a href="https://maps.google.com/?cid=9989946247605293803&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (57 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=9989946247605293803&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (62 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Intentional countryside community built for recharge and connection
@@ -16,7 +16,7 @@
 - **Tags:** rural, community, eco, wellness
 - **Nearest airports:** Exeter International Airport (EXT) ~20 km; London Heathrow Airport (LHR) ~209 km; Cardiff International Airport (CWL) ~54 km
 - **Website:** https://www.selgars.org/lifeatselgars
-- **Rating:** 4.8 from 57 Google reviews
+- **Rating:** 4.8 from 62 Google reviews
 
 ## Rates
 

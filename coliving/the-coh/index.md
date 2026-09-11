@@ -1,11 +1,11 @@
 # The Coh
 
-> Coliving in Auckland, New Zealand. Last updated September 1, 2026.
+> Coliving in Auckland, New Zealand. Last updated September 11, 2026.
 
 - **Location:** Auckland, New Zealand
 - **Type:** Permanent coliving
 - **Price:** from NZ$1,516/mo
-- **Rating:** <a href="https://maps.google.com/?cid=15868430693563452686&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (103 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=15868430693563452686&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (104 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** Modern, clean atmosphere great for meeting people worldwide
@@ -15,7 +15,7 @@
 - **Tags:** community, city
 - **Nearest airports:** Auckland International Airport (AKL) ~17 km; Hamilton International Airport (HLZ) ~123 km; Whangarei Airport (WRE) ~126 km
 - **Website:** https://thecoh.co.nz/
-- **Rating:** 4.8 from 103 Google reviews
+- **Rating:** 4.8 from 104 Google reviews
 
 ## Rates
 

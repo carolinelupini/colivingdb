@@ -1,12 +1,12 @@
 # Coliving in Lion-sur-Mer, France
 
-> 1 colivings in Lion-sur-Mer, France, prices from €893 to €893 per month – last updated September 1, 2026.
+> 1 colivings in Lion-sur-Mer, France, prices from €893 to €893 per month – last updated September 11, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Les Briques | Lion-sur-Mer | from €893/mo | 4.9 (106) | private | 6 nights | Permanent |
+| Les Briques | Lion-sur-Mer | from €893/mo | 4.9 (111) | private | 6 nights | Permanent |
 
 ## Price distribution
 

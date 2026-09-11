@@ -1,22 +1,23 @@
 # Coliving in Turkey
 
-> 5 colivings in Turkey, prices from €435 to €435 per month – last updated September 1, 2026.
+> 5 colivings in Turkey, prices from €435 to €1,727 per month – last updated September 11, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Nest Digital Nomad House | Istanbul | from €435/mo | 4.4 (143) | private | — | Permanent |
-| CoBodrum | Bodrum | On request | — | private | — | Permanent |
-| INHIVE Co-Living | Istanbul | On request | — | private, shared | — | Permanent |
-| Social House Istanbul | Istanbul | On request | — | private, shared | — | Permanent |
-| WiFi Tribe — Istanbul | Istanbul | On request | — | private, shared | 28 nights | Pop-up |
+| Nest Digital Nomad House | Istanbul | from €435/mo | 4.2 (164) | private | — | Permanent |
+| WiFi Tribe — Istanbul | Istanbul | from $1,990/mo | — | private, shared | 28 nights | Pop-up |
+| CoBodrum | Bodrum | On request | 4.7 (14) | private | — | Permanent |
+| INHIVE Co-Living | Istanbul | On request | 4.4 (9) | private, shared | — | Permanent |
+| Social House Istanbul | Istanbul | On request | 4.2 (90) | private, shared | — | Permanent |
 
 ## Price distribution
 
 | Band (EUR/mo) | Colivings |
 |---|---|
 | 0–500 | 1 |
+| 1200–2000 | 1 |
 
 ## Upcoming pop-ups
 

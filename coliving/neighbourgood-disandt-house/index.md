@@ -1,12 +1,12 @@
 # Neighbourgood Disandt House
 
-> Coliving in Cape Town, South Africa. Last updated September 1, 2026.
+> Coliving in Cape Town, South Africa. Last updated September 11, 2026.
 
 - **Location:** Cape Town, South Africa
 - **Type:** Permanent coliving
 - **Price:** from R13,000/mo
 - **Price note:** brand-wide from ~€749/mo; private standard ~€1,115+
-- **Rating:** <a href="https://maps.google.com/?cid=4551697731371283063&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (32 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=4551697731371283063&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (47 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** Yes
 - **Vibe:** A refined, calm coastal boutique hotel designed for slow mornings and quiet corners to unwind
@@ -16,7 +16,7 @@
 - **Tags:** city, coworking, community, wellness
 - **Nearest airports:** Cape Town International Airport (CPT) ~19 km
 - **Website:** https://www.neighbourgood.co
-- **Rating:** 4.9 from 32 Google reviews
+- **Rating:** 4.9 from 47 Google reviews
 
 ## Rates
 

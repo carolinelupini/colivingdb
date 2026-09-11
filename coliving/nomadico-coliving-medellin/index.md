@@ -1,12 +1,12 @@
 # Nomadico Coliving Medellín
 
-> Coliving in Medellín, Colombia. Last updated September 1, 2026.
+> Coliving in Medellín, Colombia. Last updated September 11, 2026.
 
 - **Location:** Medellín, Colombia
 - **Type:** Permanent coliving
 - **Price:** from $955/mo
 - **Price note:** €930/mo discounted (reg. €1,380); ~€46/night
-- **Rating:** <a href="https://maps.google.com/?cid=1569537357824445474&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (66 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=1569537357824445474&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (70 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Buzzing, family-run community with salsa nights and city adventures
@@ -17,7 +17,7 @@
 - **Tags:** city, coworking, community
 - **Nearest airports:** Enrique Olaya Herrera Airport (EOH) ~4 km; El Dorado International Airport (BOG) ~234 km; Jose Maria Córdova International Airport (MDE) ~20 km
 - **Website:** https://www.nomadico.io/medellin-coliving
-- **Rating:** 4.9 from 66 Google reviews
+- **Rating:** 4.8 from 70 Google reviews
 
 ## Rates
 

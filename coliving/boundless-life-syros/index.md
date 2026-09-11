@@ -1,12 +1,12 @@
 # Boundless Life — Syros
 
-> Coliving in Syros, Greece. Last updated September 1, 2026.
+> Coliving in Syros, Greece. Last updated September 11, 2026.
 
 - **Location:** Syros, Greece
 - **Type:** Pop-up / dated edition
-- **Dates:** Apr-Jun 2026 / Sept-Nov 2026 / Dec 2026 / Jan-Mar 2027 / Apr-Jun 2027 (plus Summer Camps)
-- **Price:** from €2,300/mo
-- **Price note:** children's education (5 days/wk, ages 1.5-14), all meals, 24/7 coworking, community activities, furnished apartment + utilities
+- **Dates:** Jan 3 - Mar 19, 2027 / Mar 25 - Jun 10, 2027 / Sep 15 - Dec 5, 2027 (plus summer camps, Jun 16 - Aug 21, 2027)
+- **Price:** from €1,600/mo
+- **Price note:** from €1,600/month (the January–March 2027 cohort; March–June is €2,700 and September–December €2,300) — children's education (5 days/wk, ages 1.5-14), all meals, 24/7 coworking, community activities, furnished apartment + utilities
 - **Room types:** —
 - **Dorm available:** No
 - **Vibe:** Family-focused remote-work community in Syros combining coworking infrastructure with adventure, culture, and daily social meetups for parents and kids.
@@ -24,7 +24,7 @@
 
 | Stay length | From |
 |---|---|
-| Per month | €2,300 |
+| Per month | €1,600 |
 
 Boundless Life — Syros does not publish a nightly or weekly rate.
 

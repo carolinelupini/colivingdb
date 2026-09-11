@@ -1,12 +1,12 @@
 # Coliving in Brussels, Belgium
 
-> 1 colivings in Brussels, Belgium, prices from €690 to €690 per month – last updated September 1, 2026.
+> 1 colivings in Brussels, Belgium, prices from €690 to €690 per month – last updated September 11, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Nomad's House | Brussels | from €690/mo | 5.0 (67) | private | — | Permanent |
+| Nomad's House | Brussels | from €690/mo | 5.0 (71) | private | — | Permanent |
 
 ## Price distribution
 

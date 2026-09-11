@@ -1,12 +1,12 @@
 # Noma Collective — Koh Lanta
 
-> Coliving in Koh Lanta, Thailand. Last updated September 1, 2026.
+> Coliving in Koh Lanta, Thailand. Last updated September 11, 2026.
 
 - **Location:** Koh Lanta, Thailand
 - **Type:** Pop-up / dated edition
 - **Dates:** Nov 1 - Nov 29, 2026
 - **Price:** from $2,790/event
-- **Price note:** pp, + fees and taxes (not included)
+- **Price note:** SOLD OUT (per Noma Collective, September 11, 2026) — pp, + fees and taxes (not included)
 - **Room types:** —
 - **Dorm available:** No
 - **Vibe:** Tranquil, low-key island edition — 'time to slow down and settle into paradise,' better for unwinding than partying.

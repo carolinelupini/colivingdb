@@ -1,12 +1,12 @@
 # Hub Hoi An
 
-> Coliving in Hoi An, Vietnam. Last updated September 1, 2026.
+> Coliving in Hoi An, Vietnam. Last updated September 11, 2026.
 
 - **Location:** Hoi An, Vietnam
 - **Type:** Permanent coliving
 - **Price:** from $449/mo
 - **Price note:** from ~$350/month dorm bed incl. coworking
-- **Rating:** <a href="https://maps.google.com/?cid=12496671437472004522&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (223 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=12496671437472004522&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (229 reviews)</a> <small>· Google</small>
 - **Room types:** dorm, private
 - **Dorm available:** Yes
 - **Vibe:** social and events-heavy coworking, tight-knit core group
@@ -21,7 +21,7 @@
 - **Nearest airports:** Da Nang International Airport (DAD) ~22 km; Phu Bai International Airport (HUI) ~88 km
 - **Getting there:** Da Nang International Airport (DAD); airport pickup is included in the stay.
 - **Website:** https://hubhoian.com/coliving/
-- **Rating:** 4.8 from 223 Google reviews
+- **Rating:** 4.8 from 229 Google reviews
 
 ## Rates
 

@@ -1,6 +1,6 @@
 # Coliving in Athens, Greece
 
-> 3 colivings in Athens, Greece, prices from €1,727 to €1,727 per month – last updated September 1, 2026.
+> 3 colivings in Athens, Greece, prices from €1,727 to €1,727 per month – last updated September 11, 2026.
 
 ## All colivings
 
@@ -18,7 +18,7 @@
 
 ## Upcoming pop-ups
 
-- Noma Collective — Athens (Mar 2027) — Mar 28 - Apr 25, 2027 (Waiting list)
+- Noma Collective — Athens (Mar 2027) — Mar 28 - Apr 25, 2027 (Coming soon)
 - WiFi Tribe — Athens — Apr 23 - May 21, 2027
 - Noma Collective — Athens (Sep 2026) — Sep 27 - Oct 25, 2026
 

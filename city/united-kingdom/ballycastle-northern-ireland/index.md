@@ -1,12 +1,12 @@
 # Coliving in Ballycastle, Northern Ireland, United Kingdom
 
-> 1 colivings in Ballycastle, Northern Ireland, United Kingdom, prices from €1,000 to €1,000 per month – last updated September 1, 2026.
+> 1 colivings in Ballycastle, Northern Ireland, United Kingdom, prices from €1,000 to €1,000 per month – last updated September 11, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Stay Lagom | Ballycastle, Northern Ireland | from £855/mo (≈€1,000) | — | private, shared, apartment | — | Permanent |
+| Stay Lagom | Ballycastle, Northern Ireland | from £855/mo (≈€1,000) | 5.0 (56) | private, shared, apartment | — | Permanent |
 
 ## Price distribution
 

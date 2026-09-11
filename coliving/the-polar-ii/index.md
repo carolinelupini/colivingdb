@@ -1,12 +1,12 @@
 # The Polar II
 
-> Coliving in Tulum, Mexico. Last updated September 1, 2026.
+> Coliving in Tulum, Mexico. Last updated September 11, 2026.
 
 - **Location:** Tulum, Mexico
 - **Type:** Permanent coliving
 - **Price:** from $570/mo
 - **Price note:** from BGN 979/month private suite (~€501)
-- **Rating:** <a href="https://maps.google.com/?cid=15410603927461238755&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 3.8 (76 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=15410603927461238755&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 3.7 (75 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 5 Mbps down <small>· operator-reported</small>
@@ -17,7 +17,7 @@
 - **Tags:** beach, community, coworking, wellness
 - **Nearest airports:** Felipe Carrillo Puerto International Airport Tulum (TQO) ~21 km; Cozumel International Airport (CZM) ~65 km; Cancún International Airport (CUN) ~111 km
 - **Website:** https://coliving.com/spaces/qrkosql3
-- **Rating:** 3.8 from 76 Google reviews
+- **Rating:** 3.7 from 75 Google reviews
 
 ## Rates
 
