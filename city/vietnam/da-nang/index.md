@@ -1,6 +1,6 @@
 # Coliving in Da Nang, Vietnam
 
-> 3 colivings in Da Nang, Vietnam, prices from €283 to €834 per month – last updated September 11, 2026.
+> 3 colivings in Da Nang, Vietnam, prices from €283 to €834 per month – last updated September 16, 2026.
 
 ## All colivings
 

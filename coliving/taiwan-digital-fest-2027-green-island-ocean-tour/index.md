@@ -1,6 +1,6 @@
 # Taiwan Digital Fest 2027 — Green Island Ocean Tour
 
-> Nomad festival in Green Island, Taiwan. Last updated September 11, 2026.
+> Nomad festival in Green Island, Taiwan. Last updated September 16, 2026.
 
 - **Location:** Green Island, Taiwan
 - **Type:** Nomad festival / dated event — accommodation not included
@@ -12,10 +12,12 @@
 - **Vibe:** Described by the organisers as 'an ocean coda. A slow, quiet finish after the main month.' Water-heavy and unhurried rather than programmed — a small group, mostly in the sea or on the ring road.
 - **Minimum stay:** —
 - **Region:** Asia
+- **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** island, beach, surf
 - **Included:** Travel and public-liability insurance, Round-trip ferry from Fugang, Two dinners
 - **Not included:** Accommodation — book separately, Scooter rental, Most meals, Optional diving, snorkelling, surf lessons and night tours
 - **Area:** Nanliao Village on Green Island, a volcanic islet 33 km off Taitung, ringed by a coastal road and reached by ferry from Fugang harbour.
+- **Nearest airports:** Taitung Airport (TTT) ~40 km; Taiwan Taoyuan International Airport (TPE) ~269 km; Lanyu Airport (KYD) ~72 km
 - **Website:** https://www.taiwandigitalfest.com/2027/green-island/
 
 ## About

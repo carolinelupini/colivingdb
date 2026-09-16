@@ -1,6 +1,6 @@
 # WiFi Tribe — Tribe Fest 2027
 
-> Nomad festival in Volterra (Tuscany), Italy. Last updated September 11, 2026.
+> Nomad festival in Volterra (Tuscany), Italy. Last updated September 16, 2026.
 
 - **Location:** Volterra (Tuscany), Italy
 - **Type:** Nomad festival / dated event
@@ -12,10 +12,12 @@
 - **Vibe:** WiFi Tribe's community festival — five days of talks, activities and villa life with a hundred-odd tribers on one Tuscan estate.
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** community
 - **Included:** Room in a villa on the estate (5 days / 4 nights), Activity program, Gala dinner
 - **Not included:** Transportation, Meals and snacks outside the gala dinner
 - **Area:** A private estate on a Tuscan hillside facing the walls and towers of Volterra — Volterra 15 minutes, Pisa 1 hour, Florence 1.5 hours.
+- **Nearest airports:** Pisa International Airport (PSA) ~49 km; Rome–Fiumicino Leonardo da Vinci International Airport (FCO) ~211 km; Florence Airport, Peretola (FLR) ~53 km
 - **Website:** https://tribefest.wifitribe.co/
 
 ## About

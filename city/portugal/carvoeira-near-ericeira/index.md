@@ -1,6 +1,6 @@
 # Coliving in Carvoeira (near Ericeira), Portugal
 
-> 1 colivings in Carvoeira (near Ericeira), Portugal, prices from €800 to €800 per month – last updated September 11, 2026.
+> 1 colivings in Carvoeira (near Ericeira), Portugal, prices from €800 to €800 per month – last updated September 16, 2026.
 
 ## All colivings
 

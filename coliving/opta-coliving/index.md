@@ -1,6 +1,6 @@
 # Opta Coliving
 
-> Coliving in Montevideo, Uruguay. Last updated September 11, 2026.
+> Coliving in Montevideo, Uruguay. Last updated September 16, 2026.
 
 - **Location:** Montevideo, Uruguay
 - **Type:** Permanent coliving

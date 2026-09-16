@@ -1,6 +1,6 @@
 # Coliving in Istanbul, Turkey
 
-> 4 colivings in Istanbul, Turkey, prices from €435 to €1,727 per month – last updated September 11, 2026.
+> 4 colivings in Istanbul, Turkey, prices from €435 to €1,727 per month – last updated September 16, 2026.
 
 ## All colivings
 

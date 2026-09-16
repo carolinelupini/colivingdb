@@ -1,6 +1,6 @@
 # Coliving in Tobia, Colombia
 
-> 1 colivings in Tobia, Colombia – last updated September 11, 2026.
+> 1 colivings in Tobia, Colombia – last updated September 16, 2026.
 
 ## All colivings
 

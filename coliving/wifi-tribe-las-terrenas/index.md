@@ -1,6 +1,6 @@
 # WiFi Tribe — Las Terrenas
 
-> Coliving in Las Terrenas, Dominican Republic. Last updated September 11, 2026.
+> Coliving in Las Terrenas, Dominican Republic. Last updated September 16, 2026.
 
 - **Location:** Las Terrenas, Dominican Republic
 - **Type:** Pop-up / dated edition
@@ -11,6 +11,8 @@
 - **Dorm available:** No
 - **Minimum stay:** 28 nights
 - **Region:** Latin America
+- **Timezone:** GMT-4 <small>· US East: full workday overlap · Central Europe: your mornings</small>
+- **Nearest airports:** Samaná El Catey International Airport (AZS) ~22 km; Punta Cana International Airport (PUJ) ~150 km; La Isabela International Airport (JBQ) ~96 km
 - **Website:** https://wifitribe.co/chapter-dominican-republic-las-terrenas/
 
 ## Rates

@@ -1,6 +1,6 @@
 # Waves & Wifi
 
-> Coliving in Popoyo, Nicaragua. Last updated September 11, 2026.
+> Coliving in Popoyo, Nicaragua. Last updated September 16, 2026.
 
 - **Location:** Popoyo, Nicaragua
 - **Type:** Permanent coliving

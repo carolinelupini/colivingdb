@@ -1,6 +1,6 @@
 # Tribal Bali
 
-> Coliving in Pererenan, Indonesia. Last updated September 11, 2026.
+> Coliving in Pererenan, Indonesia. Last updated September 16, 2026.
 
 - **Location:** Pererenan, Indonesia
 - **Type:** Permanent coliving

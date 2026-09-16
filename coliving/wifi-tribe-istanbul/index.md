@@ -1,6 +1,6 @@
 # WiFi Tribe — Istanbul
 
-> Coliving in Istanbul, Turkey. Last updated September 11, 2026.
+> Coliving in Istanbul, Turkey. Last updated September 16, 2026.
 
 - **Location:** Istanbul, Turkey
 - **Type:** Pop-up / dated edition
@@ -11,6 +11,8 @@
 - **Dorm available:** No
 - **Minimum stay:** 28 nights
 - **Region:** Europe
+- **Timezone:** GMT+3 <small>· US East: your evenings · Central Europe: full workday overlap</small>
+- **Nearest airports:** Istanbul Sabiha Gökçen International Airport (SAW) ~30 km; İstanbul Airport (IST) ~36 km; Tekirdağ Çorlu Airport (TEQ) ~90 km
 - **Website:** https://wifitribe.co/turkey-istanbul/
 
 ## Rates

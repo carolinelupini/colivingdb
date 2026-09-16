@@ -1,6 +1,6 @@
 # Cactus Coliving La Gomera
 
-> Coliving in San Sebastián de La Gomera, Spain. Last updated September 11, 2026.
+> Coliving in San Sebastián de La Gomera, Spain. Last updated September 16, 2026.
 
 - **Location:** San Sebastián de La Gomera, Spain
 - **Type:** Permanent coliving
@@ -14,7 +14,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** island, mountain, coworking, community, wellness
-- **Nearest airports:** Tenerife Sur Airport (TFS) ~53 km; El Hierro Airport (VDE) ~82 km; La Palma Airport (SPC) ~87 km
+- **Nearest airports:** La Gomera Airport (GMZ) ~12 km; Tenerife Sur Airport (TFS) ~53 km; El Hierro Airport (VDE) ~82 km
 - **Website:** https://www.cactuscoliving.com/
 - **Rating:** 4.7 from 58 Google reviews
 

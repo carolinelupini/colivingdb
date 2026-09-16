@@ -1,6 +1,6 @@
 # Nomad Week Cape Town 2027
 
-> Nomad festival in Cape Town, South Africa. Last updated September 11, 2026.
+> Nomad festival in Cape Town, South Africa. Last updated September 16, 2026.
 
 - **Location:** Cape Town, South Africa
 - **Type:** Nomad festival / dated event — accommodation not included

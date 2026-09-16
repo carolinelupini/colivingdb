@@ -1,6 +1,6 @@
 # AfricaNomads — Zambia (Jul 2027)
 
-> Coliving in Livingstone, Zambia. Last updated September 11, 2026.
+> Coliving in Livingstone, Zambia. Last updated September 16, 2026.
 
 - **Location:** Livingstone, Zambia
 - **Type:** Pop-up / dated edition
@@ -12,9 +12,11 @@
 - **Vibe:** Based in Livingstone, home to Victoria Falls, with adventures on the Zambezi River and nearby national parks.
 - **Minimum stay:** —
 - **Region:** Africa
+- **Timezone:** GMT+2 <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** wellness
 - **Included:** Private room in an AfricaNomads home, Reliable WiFi & Starlink, Local SIM card loaded with data + backup power, Weekly communal dinner, Optional weekend activities, Hosts & activity organizers, Access to coworking, A community of remote workers
 - **Second guest:** An extra person sharing a room pays 35% of the rate.
+- **Nearest airports:** Harry Mwanga Nkumbula International Airport (LVI) ~4 km; Victoria Falls International Airport (VFA) ~29 km; Kasane International Airport (BBK) ~72 km
 - **Website:** https://www.africanomads.co/digital-nomads-zambia
 
 Source: https://colivingdb.com/coliving/africanomads-zambia-jul-2027/

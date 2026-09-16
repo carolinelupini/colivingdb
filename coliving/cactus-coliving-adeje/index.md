@@ -1,6 +1,6 @@
 # Cactus Coliving Adeje
 
-> Coliving in Adeje, Spain. Last updated September 11, 2026.
+> Coliving in Adeje, Spain. Last updated September 16, 2026.
 
 - **Location:** Adeje, Spain
 - **Type:** Permanent coliving
@@ -12,7 +12,9 @@
 - **Wi-Fi (on-site):** 843 Mbps down <small>· operator-reported</small><br><small>Operator speedtest 2026-07-17: 843 Mbps down / 713 up.</small>
 - **Minimum stay:** 2 months
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** community, coworking, island
+- **Nearest airports:** Tenerife Sur Airport (TFS) ~18 km; Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~55 km; La Palma Airport (SPC) ~115 km
 - **Website:** https://www.cactuscoliving.com/tenerife-adeje
 - **Rating:** 4.8 from 15 Google reviews
 

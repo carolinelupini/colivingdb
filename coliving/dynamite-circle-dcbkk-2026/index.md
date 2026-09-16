@@ -1,6 +1,6 @@
 # Dynamite Circle — DCBKK 2026
 
-> Nomad festival in Bangkok, Thailand. Last updated September 11, 2026.
+> Nomad festival in Bangkok, Thailand. Last updated September 16, 2026.
 
 - **Location:** Bangkok, Thailand
 - **Type:** Nomad festival / dated event — accommodation not included
@@ -12,10 +12,12 @@
 - **Vibe:** A founder conference rather than a nomad party — speakers come from inside the community, work with a speaking coach, and share real numbers. Mastermind Day matches people into hot-seat groups of 6–8 by revenue and industry. Registered founders come from 45 countries; half are running businesses between $100K and $1M.
 - **Minimum stay:** —
 - **Region:** Asia
+- **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** city, startup, community
 - **Included:** All DCBKK programming and content, Mastermind participation, All four evening parties, Kids' Night access for children, Lunch, dinner and refreshments all four days, Access to all event zones at the Conrad, DC branded swag
 - **Not included:** Accommodation — book separately (discounted DCBKK rate at the Conrad), Airfare, Breakfast (included if you stay at the Conrad)
 - **Area:** The Conrad sits on Wireless Road in Bangkok's embassy district, a few minutes from Lumphini Park and the Ploenchit BTS. Members traditionally stay on in Bangkok to keep coworking after the closing party, and a good number carry on to Chiang Mai.
+- **Nearest airports:** Don Mueang International Airport (DMK) ~20 km; Suvarnabhumi Airport (BKK) ~22 km; U-Tapao–Rayong–Pattaya International Airport (UTP) ~128 km
 - **Website:** https://dynamitecircle.com/dcbkk/
 
 ## About

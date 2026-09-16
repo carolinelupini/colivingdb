@@ -1,6 +1,6 @@
 # WiFi Tribe — Quito
 
-> Coliving in Quito, Ecuador. Last updated September 11, 2026.
+> Coliving in Quito, Ecuador. Last updated September 16, 2026.
 
 - **Location:** Quito, Ecuador
 - **Type:** Pop-up / dated edition
@@ -11,6 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 28 nights
 - **Region:** Latin America
+- **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
+- **Elevation:** 2,903 m — expect a few days of altitude adjustment
+- **Nearest airports:** Mariscal Sucre International Airport (UIO) ~14 km; Cotopaxi International Airport (LTX) ~82 km; Lieutenant Colonel Luis A. Mantilla International Airport (TUA) ~139 km
 - **Website:** https://wifitribe.co/ecuador-quito/
 
 ## Rates

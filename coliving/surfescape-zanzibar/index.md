@@ -1,6 +1,6 @@
 # Surfescape Zanzibar
 
-> Coliving in Kiwengwa, Tanzania. Last updated September 11, 2026.
+> Coliving in Kiwengwa, Tanzania. Last updated September 16, 2026.
 
 - **Location:** Kiwengwa, Tanzania
 - **Type:** Permanent coliving
@@ -12,8 +12,10 @@
 - **Wi-Fi (on-site):** 20 Mbps down <small>· operator-reported</small><br><small>Operator-reported, 2026-08-05.</small>
 - **Minimum stay:** —
 - **Region:** Africa
+- **Timezone:** GMT+3 <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** beach, surf, coworking, community
 - **Area:** Kiwengwa, on the northeast coast of Unguja, known for its reef-sheltered beach and steady trade winds.
+- **Nearest airports:** Abeid Amani Karume International Airport (ZNZ) ~31 km; Julius Nyerere International Airport (DAR) ~100 km; Tanga Airport (TGT) ~106 km
 - **Website:** https://www.surfescape.com/destinations/zanzibar
 - **Rating:** 3.9 from 134 Google reviews
 

@@ -1,6 +1,6 @@
 # WiFi Tribe — Santa Teresa
 
-> Coliving in Santa Teresa, Costa Rica. Last updated September 11, 2026.
+> Coliving in Santa Teresa, Costa Rica. Last updated September 16, 2026.
 
 - **Location:** Santa Teresa, Costa Rica
 - **Type:** Pop-up / dated edition

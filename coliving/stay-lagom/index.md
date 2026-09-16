@@ -1,6 +1,6 @@
 # Stay Lagom
 
-> Coliving in Ballycastle, Northern Ireland, United Kingdom. Last updated September 11, 2026.
+> Coliving in Ballycastle, Northern Ireland, United Kingdom. Last updated September 16, 2026.
 
 - **Location:** Ballycastle, Northern Ireland, United Kingdom
 - **Type:** Permanent coliving
@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** community, coworking, beach
+- **Nearest airports:** Campbeltown Airport (CAL) ~44 km; Belfast International Airport (BFS) ~60 km; Islay Airport (ILY) ~54 km
 - **Website:** https://staylagom.com/
 - **Rating:** 5.0 from 56 Google reviews
 

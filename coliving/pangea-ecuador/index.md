@@ -1,6 +1,6 @@
 # Pangea — Ecuador
 
-> Coworking chapter in Ecuador (city not yet announced), Ecuador. Last updated September 11, 2026.
+> Coworking chapter in Ecuador (city not yet announced), Ecuador. Last updated September 16, 2026.
 
 - **Location:** Ecuador (city not yet announced), Ecuador
 - **Type:** Pop-up coworking chapter — accommodation not included
@@ -11,9 +11,11 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Latin America
+- **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Tags:** community
 - **Included:** The community in one place for the chapter, Community events and dinners, Local host and orientation, WhatsApp community group
 - **Not included:** Accommodation — book separately (Pangea helps you find it), Coworking space (Pangea points you to the best spots), Flights, Food and personal spending, Weekend trips — bookable separately
+- **Nearest airports:** Cotopaxi International Airport (LTX) ~97 km; Mariscal Sucre International Airport (UIO) ~176 km; José Joaquín de Olmedo International Airport (GYE) ~107 km
 - **Website:** https://www.pangeatrips.com/#/trip/quito-chapter
 
 ## About

@@ -1,6 +1,6 @@
 # Boundless Life Tuscany
 
-> Coliving in Pistoia, Italy. Last updated September 11, 2026.
+> Coliving in Pistoia, Italy. Last updated September 16, 2026.
 
 - **Location:** Pistoia, Italy
 - **Type:** Permanent coliving

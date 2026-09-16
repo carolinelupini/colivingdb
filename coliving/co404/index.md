@@ -1,6 +1,6 @@
 # Co404
 
-> Coliving in Multiple (Medellín; Oaxaca City; San Cristóbal), Multiple (Colombia, Mexico). Last updated September 11, 2026.
+> Coliving in Multiple (Medellín; Oaxaca City; San Cristóbal), Multiple (Colombia, Mexico). Last updated September 16, 2026.
 
 - **Location:** Multiple (Medellín; Oaxaca City; San Cristóbal), Multiple (Colombia, Mexico)
 - **Type:** Permanent coliving
@@ -15,7 +15,7 @@
 - **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Elevation:** 1,480 m
 - **Tags:** city, community, coworking
-- **Nearest airports:** Enrique Olaya Herrera Airport (EOH) ~3 km; El Dorado International Airport (BOG) ~233 km; Jose Maria Córdova International Airport (MDE) ~19 km
+- **Nearest airports:** Enrique Olaya Herrera Airport (EOH) ~3 km; Jose Maria Córdova International Airport (MDE) ~19 km; El Caraño Airport (UIB) ~132 km
 - **Website:** https://co404.com
 - **Rating:** 4.6 from 130 Google reviews
 

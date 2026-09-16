@@ -1,6 +1,6 @@
 # LITA Bangkok
 
-> Coliving in bangkok, Thailand. Last updated September 11, 2026.
+> Coliving in bangkok, Thailand. Last updated September 16, 2026.
 
 - **Location:** bangkok, Thailand
 - **Type:** Permanent coliving

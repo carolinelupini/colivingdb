@@ -1,6 +1,6 @@
 # Pangea — Uzbekistan
 
-> Coworking chapter in Uzbekistan (city not yet announced), Uzbekistan. Last updated September 11, 2026.
+> Coworking chapter in Uzbekistan (city not yet announced), Uzbekistan. Last updated September 16, 2026.
 
 - **Location:** Uzbekistan (city not yet announced), Uzbekistan
 - **Type:** Pop-up coworking chapter — accommodation not included
@@ -11,9 +11,11 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Asia
+- **Timezone:** GMT+5 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** community
 - **Included:** The community in one place for the chapter, Community events and dinners, Local host and orientation, WhatsApp community group
 - **Not included:** Accommodation — book separately (Pangea helps you find it), Coworking space (Pangea points you to the best spots), Flights, Food and personal spending, Weekend trips — bookable separately
+- **Nearest airports:** Navoi International Airport (NVI) ~169 km; Bukhara International Airport (BHK) ~178 km; Türkmenabat International Airport (CRZ) ~268 km
 - **Website:** https://www.pangeatrips.com/#/trip/uzbekistan-chapter
 
 ## About

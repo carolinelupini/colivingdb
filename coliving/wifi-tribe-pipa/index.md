@@ -1,6 +1,6 @@
 # WiFi Tribe — Pipa
 
-> Coliving in Pipa, Brazil. Last updated September 11, 2026.
+> Coliving in Pipa, Brazil. Last updated September 16, 2026.
 
 - **Location:** Pipa, Brazil
 - **Type:** Pop-up / dated edition
@@ -13,6 +13,8 @@
 - **Vibe:** Laid-back Brazilian beach town of clifftop views, blue lagoons and dependable surf, with more nightlife than most WiFi Tribe stops.
 - **Minimum stay:** 28 nights
 - **Region:** Latin America
+- **Timezone:** GMT-3 <small>· US East: full workday overlap · Central Europe: good overlap</small>
+- **Nearest airports:** Rio Grande do Norte/São Gonçalo do Amarante–Governador Aluízio Alves International Airport (NAT) ~63 km; Presidente Castro Pinto International Airport (JPA) ~103 km; Presidente João Suassuna Airport (CPV) ~149 km
 - **Website:** https://wifitribe.co/brazil-pipa/
 
 ## Rates

@@ -1,6 +1,6 @@
 # Dynamite Circle — DCMEX 2027
 
-> Nomad festival in Mexico City, Mexico. Last updated September 11, 2026.
+> Nomad festival in Mexico City, Mexico. Last updated September 16, 2026.
 
 - **Location:** Mexico City, Mexico
 - **Type:** Nomad festival / dated event — accommodation not included
@@ -12,10 +12,13 @@
 - **Vibe:** Smaller and more compact than Bangkok. Attendees come from 20 countries, heavily US, Mexican and Canadian, and skew toward consulting, SaaS and info products, with 59% in the $100K–$1M revenue band.
 - **Minimum stay:** —
 - **Region:** Latin America
+- **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
+- **Elevation:** 2,232 m
 - **Tags:** city, startup, community
 - **Included:** Mainstage talks and breakout sessions, Mastermind Day, matched into groups of 6–8, Tactical workshops and member-led meet-ups, Evening parties each night, DC BLACK Day for 7-figure founders
 - **Not included:** Accommodation — book separately, Airfare, Spouse access to daytime sessions (a separate Party Pass covers evening parties)
 - **Area:** The Hilton Mexico City Reforma faces Alameda Central in the historic centre, a short walk from Bellas Artes and the start of Reforma. Earlier Mexico editions ran in Playa del Carmen; the event has since moved inland to the capital.
+- **Nearest airports:** Mexico City Benito Juárez International Airport (MEX) ~8 km; Felipe Ángeles International Airport (NLU) ~38 km; Adolfo López Mateos International Airport (TLC) ~45 km
 - **Website:** https://dynamitecircle.com/event/2027/04/mexico/mexico-city/dcmex-2027/
 
 ## About

@@ -1,6 +1,6 @@
 # Coliving in Lamu → Zanzibar, Tanzania
 
-> 1 colivings in Lamu → Zanzibar, Tanzania – last updated September 11, 2026.
+> 1 colivings in Lamu → Zanzibar, Tanzania – last updated September 16, 2026.
 
 ## All colivings
 

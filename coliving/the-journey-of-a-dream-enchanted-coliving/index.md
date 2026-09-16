@@ -1,6 +1,6 @@
 # The Journey of a Dream · Enchanted Coliving
 
-> Coliving in Charente-Maritime, France. Last updated September 11, 2026.
+> Coliving in Charente-Maritime, France. Last updated September 16, 2026.
 
 - **Location:** Charente-Maritime, France
 - **Type:** Permanent coliving

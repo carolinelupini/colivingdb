@@ -1,6 +1,6 @@
 # Coliving in Pakoštane, Croatia
 
-> 2 colivings in Pakoštane, Croatia, prices from €598 to €650 per month – last updated September 11, 2026.
+> 2 colivings in Pakoštane, Croatia, prices from €598 to €650 per month – last updated September 16, 2026.
 
 ## All colivings
 

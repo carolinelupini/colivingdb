@@ -1,6 +1,6 @@
 # Alicante Nomad Summit 2027
 
-> Nomad festival in Alicante, Spain. Last updated September 11, 2026.
+> Nomad festival in Alicante, Spain. Last updated September 16, 2026.
 
 - **Location:** Alicante, Spain
 - **Type:** Nomad festival / dated event — accommodation not included
@@ -12,10 +12,12 @@
 - **Vibe:** International and entrepreneurial without tipping into pitch-fest. The programme splits three ways — Grow, Build and Belong — across wellbeing, AI, remote work and community building, and the organisers stretched it to a week on purpose so that, in their words, "conversations continue beyond a single coffee break." Attendee testimonials keep landing on the same two things: how easy people are to talk to, and how many of them are still in touch a year later.
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, community, coworking
 - **Included:** All talks, keynotes and panels, Workshops and hands-on sessions, Networking events and community socials, Coworking sessions, Welcome package, Nomadway app access — schedule, venue locations and attendee chat
 - **Not included:** Accommodation — book separately, Flights and travel to Alicante
 - **Area:** Central Alicante, minutes from the old town and the Explanada. The main conference venue sits by Puerta del Mar, walking distance to Postiguet beach and to the tram lines that run up the coast to Playa de San Juan and on to Benidorm. Alicante-Elche airport is a short ride out on the C6 bus (€3.85), and the high-speed train reaches Madrid in 2.5 hours, Valencia in 1.5.
+- **Nearest airports:** Alicante-Elche Miguel Hernández Airport (ALC) ~9 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~358 km; Region of Murcia International Airport (RMU) ~82 km
 - **Website:** https://alicantenomadsummit.com/
 
 ## About

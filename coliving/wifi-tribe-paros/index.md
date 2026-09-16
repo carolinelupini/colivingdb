@@ -1,6 +1,6 @@
 # WiFi Tribe — Paros
 
-> Coliving in Paros, Greece. Last updated September 11, 2026.
+> Coliving in Paros, Greece. Last updated September 16, 2026.
 
 - **Location:** Paros, Greece
 - **Type:** Pop-up / dated edition
@@ -15,7 +15,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Second guest:** In a private room each guest pays the shared-room rate — a private room fits one or two people for the same total, so a couple pays the same as booking two shared spots. Solo travellers can book a private room at the private rate.
-- **Nearest airports:** Mykonos Island National Airport (JMK) ~42 km; Athens Eleftherios Venizelos International Airport (ATH) ~142 km; Santorini International Airport (JTR) ~82 km
+- **Nearest airports:** Paros National Airport (PAS) ~8 km; Athens Eleftherios Venizelos International Airport (ATH) ~142 km; Mykonos Island National Airport (JMK) ~42 km
 - **Website:** https://wifitribe.co/chapter-greece-paros/
 
 ## Rates

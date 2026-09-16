@@ -1,6 +1,6 @@
 # Incheon Autumn Workation 2026
 
-> Nomad festival in Incheon, South Korea. Last updated September 11, 2026.
+> Nomad festival in Incheon, South Korea. Last updated September 16, 2026.
 
 - **Location:** Incheon, South Korea
 - **Type:** Nomad festival / dated event
@@ -12,10 +12,12 @@
 - **Vibe:** Startup-leaning and deliberately urban. Songdo is described as "a smart district built from scratch for productivity: coworking, parks, and gigabit everywhere" — coworking above cafés, broad walkways, Central Park in the middle. Island weekends are the counterweight to the founder programming.
 - **Minimum stay:** —
 - **Region:** Asia
+- **Timezone:** GMT+9 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** city, coworking, startup
 - **Included:** Coworking in Songdo, Founder exchanges and IFEZ ecosystem tours, Policy sessions with Incheon innovators, Island weekend trips to Muuido
 - **Not included:** Accommodation on the Event Pass — book separately
 - **Area:** Songdo International Business District, a purpose-built waterfront district of Incheon. The organisers put Seoul 55 minutes away and Incheon International Airport on the doorstep, with direct flights from 180+ cities.
+- **Nearest airports:** Incheon International Airport (ICN) ~19 km; Jeju International Airport (CJU) ~431 km; Seoul Gimpo International Airport (GMP) ~23 km
 - **Website:** https://www.digitalnomadsincheon.com/program/autumn
 
 ## About

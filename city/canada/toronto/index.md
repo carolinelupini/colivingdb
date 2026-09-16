@@ -1,6 +1,6 @@
 # Coliving in Toronto, Canada
 
-> 1 colivings in Toronto, Canada, prices from €889 to €889 per month – last updated September 11, 2026.
+> 1 colivings in Toronto, Canada, prices from €889 to €889 per month – last updated September 16, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Coliving in Italy
 
-> 29 colivings in Italy, prices from €540 to €1,500 per month – last updated September 11, 2026.
+> 29 colivings in Italy, prices from €540 to €1,500 per month – last updated September 16, 2026.
 
 ## All colivings
 

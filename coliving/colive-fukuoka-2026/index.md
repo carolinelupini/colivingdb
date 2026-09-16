@@ -1,6 +1,6 @@
 # Colive Fukuoka 2026
 
-> Nomad festival in Fukuoka, Japan. Last updated September 11, 2026.
+> Nomad festival in Fukuoka, Japan. Last updated September 16, 2026.
 
 - **Location:** Fukuoka, Japan
 - **Type:** Nomad festival / dated event — accommodation not included
@@ -12,10 +12,12 @@
 - **Vibe:** Founder-heavy and genuinely cross-cultural rather than a nomad bubble — 39% of 2025 attendees were entrepreneurs and 45% were Japanese. The organiser's framing is that you arrive as a "co-creator", not an attendee, and the program is weighted toward connecting visiting founders with local Japanese talent.
 - **Minimum stay:** —
 - **Region:** Asia
+- **Timezone:** GMT+9 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** city, startup, community
 - **Included:** Ikigai Academy, two days with 30+ speakers, Opening reception (September 30) and closing party, with meals, Nomad Impact Summit, Synapse Festival, Daily meetups, activities and workshops, Lunch buffet on both Academy days, Official Colive Fukuoka gift, Premium tier adds nightly dinners, an excursion, lounge access and an October 1-10 coworking pass
 - **Not included:** Accommodation — book separately, Most meals outside the listed parties and Academy lunches, Excursion (Standard tier), Flights and travel to Fukuoka, Travel and health insurance, 10% Japanese consumption tax, added at checkout
 - **Area:** Fukuoka is compact and walkable, a city of 1.5 million that the organiser pitches as 1.5 hours from Tokyo, an hour from Seoul and two from Shanghai. Event venues cluster around Tenjin and Daimyo in the centre. Hakata sits near the station and the airport, Nakasu splits the difference between the two, and Ohori Park is the quiet green option for anyone who wants distance from the nightlife.
+- **Nearest airports:** Fukuoka Airport (FUK) ~5 km; Kyushu Saga International Airport (HSG) ~50 km; Iki Airport (IKI) ~60 km
 - **Website:** https://www.colivefukuoka.com/2026
 
 ## About

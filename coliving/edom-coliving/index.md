@@ -1,6 +1,6 @@
 # Edom Coliving
 
-> Coliving in La Cañada (Paterna), Valencia, Spain. Last updated September 11, 2026.
+> Coliving in La Cañada (Paterna), Valencia, Spain. Last updated September 16, 2026.
 
 - **Location:** La Cañada (Paterna), Valencia, Spain
 - **Type:** Permanent coliving
@@ -12,7 +12,9 @@
 - **Wi-Fi (on-site):** 300 Mbps down <small>· operator-reported</small><br><small>Fiber; the operator advertises 300+ Mbps.</small>
 - **Minimum stay:** 30 nights
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** coworking, community
+- **Nearest airports:** Valencia Airport (VLC) ~5 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~285 km; Castellón-Costa Azahar Airport (CDT) ~89 km
 - **Website:** https://edomcoliving.com/
 - **Rating:** 5.0 from 40 Google reviews
 

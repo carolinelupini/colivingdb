@@ -1,6 +1,6 @@
 # Nomad Summit Chiang Mai 2027
 
-> Nomad festival in Chiang Mai, Thailand. Last updated September 11, 2026.
+> Nomad festival in Chiang Mai, Thailand. Last updated September 16, 2026.
 
 - **Location:** Chiang Mai, Thailand
 - **Type:** Nomad festival / dated event — accommodation not included
@@ -12,10 +12,12 @@
 - **Vibe:** Builder-heavy rather than lifestyle-heavy — the organiser puts it plainly: "This isn't a lifestyle festival." January is dry season, 20–30°C days and cooler evenings around 15°C.
 - **Minimum stay:** —
 - **Region:** Asia
+- **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** city, community, startup
 - **Included:** Two-day conference, Jan 16–17, Lunch buffets on both conference days, Saturday afterparty, Sunday pool party, Buildathon entry, Nomad Week side events
 - **Not included:** Accommodation — book separately, Flights
 - **Area:** Changklan Road in central Chiang Mai, minutes from the Night Bazaar and a short ride from the Old City. Nomad Week events scatter across coworking spaces, hotel venues and startup hubs city-wide.
+- **Nearest airports:** Chiang Mai International Airport (CNX) ~4 km; Lampang Airport (LPT) ~78 km; Mae Hong Son Airport (HGN) ~122 km
 - **Website:** https://www.nomadsummit.com/chiang-mai-2027
 
 ## About

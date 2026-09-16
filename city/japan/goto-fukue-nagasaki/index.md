@@ -1,6 +1,6 @@
 # Coliving in Goto (Fukue), Nagasaki, Japan
 
-> 1 colivings in Goto (Fukue), Nagasaki, Japan – last updated September 11, 2026.
+> 1 colivings in Goto (Fukue), Nagasaki, Japan – last updated September 16, 2026.
 
 ## All colivings
 

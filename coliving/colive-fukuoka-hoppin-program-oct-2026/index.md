@@ -1,6 +1,6 @@
 # Colive Fukuoka — Hoppin Program (Oct 2026)
 
-> Coliving in Fukuoka, Japan. Last updated September 11, 2026.
+> Coliving in Fukuoka, Japan. Last updated September 16, 2026.
 
 - **Location:** Fukuoka, Japan
 - **Type:** Pop-up / dated edition
@@ -12,9 +12,11 @@
 - **Vibe:** Two weeks of shared daily life in central Fukuoka with a cohort of nomads — built to turn a passing visit to Japan into living there.
 - **Minimum stay:** 14 nights
 - **Region:** Asia
+- **Timezone:** GMT+9 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** community, coworking, city
 - **Included:** Accommodation at HOTEL miino (14 nights), High-speed Wi-Fi, Private bathroom in every room, Exclusive co-working lounge access, Regular cleaning, Curated local community events
 - **Not included:** Colive Fukuoka pass and program participation fees, Japan's 10% consumption tax
+- **Nearest airports:** Fukuoka Airport (FUK) ~5 km; Kyushu Saga International Airport (HSG) ~50 km; Iki Airport (IKI) ~60 km
 - **Website:** https://hoppin.life/fukuoka
 
 ## About

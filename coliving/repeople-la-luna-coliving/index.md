@@ -1,6 +1,6 @@
 # Repeople La Luna Coliving
 
-> Coliving in Santa Cruz de Tenerife, Spain. Last updated September 11, 2026.
+> Coliving in Santa Cruz de Tenerife, Spain. Last updated September 16, 2026.
 
 - **Location:** Santa Cruz de Tenerife, Spain
 - **Type:** Permanent coliving

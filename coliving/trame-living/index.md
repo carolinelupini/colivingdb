@@ -1,6 +1,6 @@
 # Trame Living
 
-> Coliving in Puglia, Italy. Last updated September 11, 2026.
+> Coliving in Puglia, Italy. Last updated September 16, 2026.
 
 - **Location:** Puglia, Italy
 - **Type:** Pop-up / dated edition
@@ -11,7 +11,9 @@
 - **Dorm available:** No
 - **Minimum stay:** 7 nights
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** community, coworking
+- **Nearest airports:** Brindisi Airport (BDS) ~32 km; Rome–Fiumicino Leonardo da Vinci International Airport (FCO) ~461 km; Bari Karol Wojtyła International Airport (BRI) ~82 km
 - **Website:** https://trameliving.com
 
 ## About

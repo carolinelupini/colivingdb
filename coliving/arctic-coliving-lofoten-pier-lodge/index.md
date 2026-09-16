@@ -1,6 +1,6 @@
 # Arctic Coliving — Lofoten Pier Lodge
 
-> Coliving in Henningsvær, Norway. Last updated September 11, 2026.
+> Coliving in Henningsvær, Norway. Last updated September 16, 2026.
 
 - **Status:** <b>Not open yet</b> — opening September 2026
 - **Location:** Henningsvær, Norway
@@ -12,10 +12,12 @@
 - **Vibe:** A ten-guest Arctic lodge in a converted fishing pier, with a hard seasonal identity and a house-not-hotel feel.
 - **Minimum stay:** 7 nights
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** mountain, ski, community, rural, wellness
 - **Included:** Private sauna (6–8 people), Two full kitchens, Wood-fired pizza oven, Yoga and weights gym, Several lounges, Bathtub, Linens
 - **Not included:** Food — the lodge is self-catering
 - **Area:** Henningsvær, a working fishing village in the Lofoten islands above the Arctic Circle, with skiing, climbing, hiking and northern lights on the doorstep.
+- **Nearest airports:** Svolvær Airport, Helle (SVJ) ~22 km; Bodø Airport (BOO) ~98 km; Leknes Airport (LKN) ~24 km
 - **Getting there:** Svolvær (SVJ) is about 30 minutes away and Leknes (LKN) about an hour, both with several flights a day. Parking on site is limited, with overflow in town, and there is no EV charging.
 - **Website:** https://go.arcticcoliving.com/CVt7Shb
 

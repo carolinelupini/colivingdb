@@ -1,6 +1,6 @@
 # Outsite San Diego - Encinitas Ponto
 
-> Coliving in Encinitas, United States. Last updated September 11, 2026.
+> Coliving in Encinitas, United States. Last updated September 16, 2026.
 
 - **Location:** Encinitas, United States
 - **Type:** Permanent coliving

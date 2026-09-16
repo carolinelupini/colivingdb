@@ -1,6 +1,6 @@
 # Surfescape Sri Lanka
 
-> Coliving in Midigama, Sri Lanka. Last updated September 11, 2026.
+> Coliving in Midigama, Sri Lanka. Last updated September 16, 2026.
 
 - **Location:** Midigama, Sri Lanka
 - **Type:** Permanent coliving
@@ -12,8 +12,10 @@
 - **Wi-Fi (on-site):** 100 Mbps down <small>· operator-reported</small><br><small>Operator-reported, 2026-08-05.</small>
 - **Minimum stay:** —
 - **Region:** Asia
+- **Timezone:** GMT+5:30 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** beach, surf, coworking, community
 - **Area:** Midigama, a fishing village on the south coast between Weligama and Ahangama, on one of Asia's best-known surf stretches.
+- **Nearest airports:** Koggala Airport (KCT) ~8 km; Bandaranaike International Colombo Airport (CMB) ~146 km; Mattala Rajapaksa International Airport (HRI) ~88 km
 - **Website:** https://www.surfescape.com/destinations/sri-lanka
 - **Rating:** 4.2 from 85 Google reviews
 

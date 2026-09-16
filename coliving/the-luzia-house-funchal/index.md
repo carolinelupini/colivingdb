@@ -1,6 +1,6 @@
 # The Luzia House Funchal
 
-> Coliving in Funchal, Madeira, Portugal. Last updated September 11, 2026.
+> Coliving in Funchal, Madeira, Portugal. Last updated September 16, 2026.
 
 - **Location:** Funchal, Madeira, Portugal
 - **Type:** Permanent coliving

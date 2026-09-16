@@ -1,6 +1,6 @@
 # Mutuo Vive
 
-> Coliving in Guadalajara, Mexico. Last updated September 11, 2026.
+> Coliving in Guadalajara, Mexico. Last updated September 16, 2026.
 
 - **Location:** Guadalajara, Mexico
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # WiFi Tribe — Swakopmund
 
-> Coliving in Swakopmund, Namibia. Last updated September 11, 2026.
+> Coliving in Swakopmund, Namibia. Last updated September 16, 2026.
 
 - **Location:** Swakopmund, Namibia
 - **Type:** Pop-up / dated edition
@@ -13,6 +13,8 @@
 - **Vibe:** German colonial coastal town where the Namib Desert runs straight into the Atlantic. Coworking is in a three-storey hotel with a rooftop terrace and beach access; weekends go to sandboarding the dunes, Etosha safaris and the clay pans of Deadvlei.
 - **Minimum stay:** 28 nights
 - **Region:** Africa
+- **Timezone:** GMT+2 <small>· US East: your evenings · Central Europe: full workday overlap</small>
+- **Nearest airports:** Walvis Bay International Airport (WVB) ~35 km
 - **Website:** https://wifitribe.co/chapter-namibia-swakopmund/
 
 ## Rates

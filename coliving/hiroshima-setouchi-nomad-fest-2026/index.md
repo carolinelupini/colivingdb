@@ -1,6 +1,6 @@
 # Hiroshima Setouchi Nomad Fest 2026
 
-> Nomad festival in Hiroshima, Japan. Last updated September 11, 2026.
+> Nomad festival in Hiroshima, Japan. Last updated September 16, 2026.
 
 - **Location:** Hiroshima, Japan
 - **Type:** Nomad festival / dated event — accommodation not included
@@ -12,10 +12,12 @@
 - **Vibe:** Long-stay gathering rather than a conference. Weekdays are for working, weekends for island trips and outdoor activities around the Setouchi region. Programming runs in both Japanese and English, and it is organised by a six-person team of Japanese nomads led by Shoko Hirose, who founded the Digital Nomads Hiroshima community and ran the first edition in 2025.
 - **Minimum stay:** —
 - **Region:** Asia
+- **Timezone:** GMT+9 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** city, community, island
 - **Included:** Welcome party, Farewell party, Participant community access, The official programme in your pass area
 - **Not included:** Accommodation, Transportation, Meals and drinks, Coworking space access, Entrance fees, Paid experiences, tours and workshops
 - **Area:** Hiroshima City for the first two weeks — on the Tokaido-Sanyo shinkansen line between Shin-Osaka and Hakata, with an airport taking direct flights from Seoul, Cheongju, Taipei, Shanghai, Hong Kong and Hanoi. The second leg is Matsuyama on Shikoku, a ferry ride across the Seto Inland Sea, known for Dogo Onsen, its castle and its literary history.
+- **Nearest airports:** Iwakuni Kintaikyo Airport (IWK) ~33 km; Hiroshima Airport (HIJ) ~42 km; Matsuyama Airport (MYJ) ~66 km
 - **Website:** https://digitalnomadshiroshima.com/hsnf2026/
 
 ## About

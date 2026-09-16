@@ -1,6 +1,6 @@
 # Communal Coliving
 
-> Coliving in Santa Fe, Siargao, Philippines. Last updated September 11, 2026.
+> Coliving in Santa Fe, Siargao, Philippines. Last updated September 16, 2026.
 
 - **Location:** Santa Fe, Siargao, Philippines
 - **Type:** Permanent coliving
@@ -14,7 +14,8 @@
 - **Region:** Asia
 - **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** island, surf, beach, coworking, community, eco
-- **Nearest airports:** Surigao Airport (SUG) ~62 km; Laguindingan International Airport (CGY) ~222 km; Bancasi Airport (BXU) ~118 km
+- **Nearest airports:** Siargao Airport (IAO) ~3 km; Laguindingan International Airport (CGY) ~222 km; Surigao Airport (SUG) ~62 km
+- **Getting there:** Siargao Airport (IAO) is on the island. Most people fly in via Cebu, which has 10–20 flights a day to Siargao; Davao and Clark have fewer, Surigao has one or two a day, and there are no flights from Manila. The alternative is two ferries.
 - **Website:** https://www.communalcoliving.com/
 - **Rating:** 5.0 from 38 Google reviews
 

@@ -1,6 +1,6 @@
 # Social House Istanbul
 
-> Coliving in Istanbul, Turkey. Last updated September 11, 2026.
+> Coliving in Istanbul, Turkey. Last updated September 16, 2026.
 
 - **Location:** Istanbul, Turkey
 - **Type:** Permanent coliving
@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Asia
+- **Timezone:** GMT+3 <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** community, city
+- **Nearest airports:** Istanbul Sabiha Gökçen International Airport (SAW) ~30 km; İstanbul Airport (IST) ~36 km; Tekirdağ Çorlu Airport (TEQ) ~90 km
 - **Website:** https://www.booking.com/hotel/tr/social-house-istanbul.html
 - **Rating:** 4.2 from 90 Google reviews
 

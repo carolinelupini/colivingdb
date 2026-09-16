@@ -1,6 +1,6 @@
 # Pangea — Ulaanbaatar
 
-> Coworking chapter in Ulaanbaatar, Mongolia. Last updated September 11, 2026.
+> Coworking chapter in Ulaanbaatar, Mongolia. Last updated September 16, 2026.
 
 - **Location:** Ulaanbaatar, Mongolia
 - **Type:** Pop-up coworking chapter — accommodation not included
@@ -11,9 +11,12 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Asia
+- **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
+- **Elevation:** 1,302 m
 - **Tags:** community, city
 - **Included:** The community in one place for the chapter, Community events and dinners, Local host and orientation, WhatsApp community group
 - **Not included:** Accommodation — book separately (Pangea helps you find it), Coworking space (Pangea points you to the best spots), Flights, Food and personal spending, Weekend trips — bookable separately
+- **Nearest airports:** Ulaanbaatar Chinggis Khaan International Airport (UBN) ~31 km
 - **Website:** https://www.pangeatrips.com/#/trip/mongolia-chapter
 
 ## About

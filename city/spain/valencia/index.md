@@ -1,6 +1,6 @@
 # Coliving in Valencia, Spain
 
-> 6 colivings in Valencia, Spain, prices from €750 to €1,200 per month – last updated September 11, 2026.
+> 6 colivings in Valencia, Spain, prices from €750 to €1,200 per month – last updated September 16, 2026.
 
 ## All colivings
 

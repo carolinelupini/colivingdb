@@ -1,6 +1,6 @@
 # Coliving in Green Island, Taiwan
 
-> 1 colivings in Green Island, Taiwan – last updated September 11, 2026.
+> 1 colivings in Green Island, Taiwan – last updated September 16, 2026.
 
 ## All colivings
 

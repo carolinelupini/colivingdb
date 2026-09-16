@@ -1,6 +1,6 @@
 # WiFi Tribe — Siargao
 
-> Coliving in Siargao, Philippines. Last updated September 11, 2026.
+> Coliving in Siargao, Philippines. Last updated September 16, 2026.
 
 - **Location:** Siargao, Philippines
 - **Type:** Pop-up / dated edition
@@ -14,7 +14,8 @@
 - **Minimum stay:** 28 nights
 - **Region:** Asia
 - **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
-- **Nearest airports:** Surigao Airport (SUG) ~63 km; Laguindingan International Airport (CGY) ~223 km; Bancasi Airport (BXU) ~118 km
+- **Nearest airports:** Siargao Airport (IAO) ~4 km; Laguindingan International Airport (CGY) ~223 km; Surigao Airport (SUG) ~63 km
+- **Getting there:** Siargao Airport (IAO) is on the island. Most people fly in via Cebu, which has 10–20 flights a day to Siargao; Davao and Clark have fewer, Surigao has one or two a day, and there are no flights from Manila. The alternative is two ferries.
 - **Website:** https://wifitribe.co/chapter-philippines-siargao-island/
 
 ## Rates

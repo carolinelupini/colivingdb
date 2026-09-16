@@ -1,6 +1,6 @@
 # WiFi Tribe — Melbourne
 
-> Coliving in Melbourne, Australia. Last updated September 11, 2026.
+> Coliving in Melbourne, Australia. Last updated September 16, 2026.
 
 - **Location:** Melbourne, Australia
 - **Type:** Pop-up / dated edition
@@ -13,6 +13,8 @@
 - **Vibe:** South Yarra base in a city built on laneway street art, serious coffee and good food, with weekends running to Phillip Island penguins and Yarra Valley wine.
 - **Minimum stay:** 28 nights
 - **Region:** Oceania
+- **Timezone:** GMT+11 winter / GMT+10 summer <small>· US East: async only · Central Europe: async only</small>
+- **Nearest airports:** Melbourne Essendon Airport (MEB) ~15 km; Melbourne Airport (MEL) ~23 km; Melbourne Moorabbin Airport (MBW) ~18 km
 - **Website:** https://wifitribe.co/chapter-australia-melbourne/
 
 ## Rates

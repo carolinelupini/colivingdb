@@ -1,6 +1,6 @@
 # El Nido Home II
 
-> Coliving in El Nido, Philippines. Last updated September 11, 2026.
+> Coliving in El Nido, Philippines. Last updated September 16, 2026.
 
 - **Location:** El Nido, Philippines
 - **Type:** Permanent coliving
@@ -15,7 +15,7 @@
 - **Region:** Asia
 - **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** beach, eco, coworking, community
-- **Nearest airports:** Francisco B. Reyes (Busuanga) Airport (USU) ~127 km; Ninoy Aquino International Airport (MNL) ~408 km; Puerto Princesa International Airport / PAF Antonio Bautista Air Base (PPS) ~176 km
+- **Nearest airports:** El Nido Airport (ENI) ~1 km; Ninoy Aquino International Airport (MNL) ~408 km; Francisco B. Reyes (Busuanga) Airport (USU) ~127 km
 - **Website:** https://coliving.com/spaces/h6uiwcuq
 - **Rating:** 4.0 from 1 Google reviews
 

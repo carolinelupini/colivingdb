@@ -1,6 +1,6 @@
 # Coliving in Anglet, France
 
-> 1 colivings in Anglet, France, prices from €370 to €370 per month – last updated September 11, 2026.
+> 1 colivings in Anglet, France, prices from €370 to €370 per month – last updated September 16, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Pangea — Tunis
 
-> Coworking chapter in Tunis, Tunisia. Last updated September 11, 2026.
+> Coworking chapter in Tunis, Tunisia. Last updated September 16, 2026.
 
 - **Location:** Tunis, Tunisia
 - **Type:** Pop-up coworking chapter — accommodation not included
@@ -11,9 +11,11 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Africa
+- **Timezone:** GMT+1 <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** community, city
 - **Included:** The community in one place for the chapter, Community events and dinners, Local host and orientation, WhatsApp community group
 - **Not included:** Accommodation — book separately (Pangea helps you find it), Coworking space (Pangea points you to the best spots), Flights, Food and personal spending, Weekend trips — bookable separately
+- **Nearest airports:** Tunis Carthage International Airport (TUN) ~7 km; Enfidha - Hammamet International Airport (NBE) ~84 km; Tabarka-Aïn Draham International Airport (TBJ) ~118 km
 - **Website:** https://www.pangeatrips.com/#/trip/tunis-chapter
 
 ## About

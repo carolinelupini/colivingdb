@@ -1,6 +1,6 @@
 # Pangea — Bansko
 
-> Coworking chapter in Bansko, Bulgaria. Last updated September 11, 2026.
+> Coworking chapter in Bansko, Bulgaria. Last updated September 16, 2026.
 
 - **Location:** Bansko, Bulgaria
 - **Type:** Pop-up coworking chapter — accommodation not included
@@ -11,9 +11,11 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** community, mountain
 - **Included:** The community in one place for the chapter, Community events and dinners, Local host and orientation, WhatsApp community group
 - **Not included:** Accommodation — book separately (Pangea helps you find it), Coworking space (Pangea points you to the best spots), Flights, Food and personal spending, Weekend trips — bookable separately
+- **Nearest airports:** Sofia Airport (SOF) ~96 km; Plovdiv International Airport (PDV) ~116 km; Kavala Alexander the Great International Airport (KVA) ~139 km
 - **Website:** https://www.pangeatrips.com/#/trip/bansko-chapter
 
 ## About

@@ -1,6 +1,6 @@
 # LivingAnywhere Commons田川
 
-> Coliving in Fukuoka, Japan. Last updated September 11, 2026.
+> Coliving in Fukuoka, Japan. Last updated September 16, 2026.
 
 - **Location:** Fukuoka, Japan
 - **Type:** Permanent coliving

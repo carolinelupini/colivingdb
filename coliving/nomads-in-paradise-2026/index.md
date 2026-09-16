@@ -1,6 +1,6 @@
 # Nomads in Paradise 2026
 
-> Nomad festival in General Luna, Philippines. Last updated September 11, 2026.
+> Nomad festival in General Luna, Philippines. Last updated September 16, 2026.
 
 - **Location:** General Luna, Philippines
 - **Type:** Nomad festival / dated event — accommodation not included
@@ -17,7 +17,8 @@
 - **Included:** Welcome beach party, Keynote speeches, Workshops and masterminds, Unconference sessions, Networking sessions, JobConnect sessions, Startup pitch session, 60-minute group surf lesson, Yoga sessions, Ice bath discovery session, Wellgather wellness day, Coworking access during conference hours, Discounted rates at partner coworking spaces, Closing beach party, Full-day island hopping excursion with lunch (Gold ticket), Two buffet networking dinners (Gold ticket)
 - **Not included:** Accommodation — book separately, Flights, Daily meals, Optional tours beyond the included activities, Scooter rental, Travel insurance
 - **Area:** General Luna, the main hub on the south-east corner of Siargao Island, with the island's beaches, restaurants, bars and coworking spaces. Sayak Airport is about 45 minutes away by tricycle or van at ₱200–600; flights in are 20–30 minutes from Cebu or Davao, or about 2 hours from Clark, and there are no direct flights from Manila. The ferry from Surigao City to Dapa takes 1.5–2 hours. October is peak season — 27–32°C, consistent surf, and short afternoon rain that clears quickly.
-- **Nearest airports:** Surigao Airport (SUG) ~75 km; Laguindingan International Airport (CGY) ~228 km; Bancasi Airport (BXU) ~119 km
+- **Nearest airports:** Siargao Airport (IAO) ~18 km; Laguindingan International Airport (CGY) ~228 km; Surigao Airport (SUG) ~75 km
+- **Getting there:** Siargao Airport (IAO) is on the island. Most people fly in via Cebu, which has 10–20 flights a day to Siargao; Davao and Clark have fewer, Surigao has one or two a day, and there are no flights from Manila. The alternative is two ferries.
 - **Website:** https://nomads-in-paradise.com/
 
 ## About

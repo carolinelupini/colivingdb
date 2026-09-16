@@ -1,6 +1,6 @@
 # WiFi Tribe — Athens
 
-> Coliving in Athens, Greece. Last updated September 11, 2026.
+> Coliving in Athens, Greece. Last updated September 16, 2026.
 
 - **Location:** Athens, Greece
 - **Type:** Pop-up / dated edition
@@ -13,6 +13,8 @@
 - **Vibe:** Based in Pangrati, working from neighbourhood cafés between 2,500-year-old temples, with weekends out to the islands, Delphi and the Aegean coast.
 - **Minimum stay:** 28 nights
 - **Region:** Europe
+- **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
+- **Nearest airports:** Athens Eleftherios Venizelos International Airport (ATH) ~18 km; Skiathos Island National Airport (JSI) ~136 km
 - **Website:** https://wifitribe.co/greece-athens/
 
 ## Rates

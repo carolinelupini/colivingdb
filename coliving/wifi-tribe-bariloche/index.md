@@ -1,6 +1,6 @@
 # WiFi Tribe — Bariloche
 
-> Coliving in Bariloche, Argentina. Last updated September 11, 2026.
+> Coliving in Bariloche, Argentina. Last updated September 16, 2026.
 
 - **Location:** Bariloche, Argentina
 - **Type:** Pop-up / dated edition

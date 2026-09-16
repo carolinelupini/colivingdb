@@ -1,6 +1,6 @@
 # WiFi Tribe — Cape Town (Jan 2027)
 
-> Coliving in Cape Town, South Africa. Last updated September 11, 2026.
+> Coliving in Cape Town, South Africa. Last updated September 16, 2026.
 
 - **Location:** Cape Town, South Africa
 - **Type:** Pop-up / dated edition
@@ -13,6 +13,8 @@
 - **Vibe:** Peak-summer Cape Town from a heritage building in Green Point, with 8pm sunsets, a deep bench of coworking cafés and beaches, hiking, safaris and the winelands all within reach.
 - **Minimum stay:** 28 nights
 - **Region:** Africa
+- **Timezone:** GMT+2 <small>· US East: your evenings · Central Europe: full workday overlap</small>
+- **Nearest airports:** Cape Town International Airport (CPT) ~20 km
 - **Website:** https://wifitribe.co/coliving-cape-town/
 
 ## Rates

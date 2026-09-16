@@ -1,6 +1,6 @@
 # Nomadico Coliving Medellín
 
-> Coliving in Medellín, Colombia. Last updated September 11, 2026.
+> Coliving in Medellín, Colombia. Last updated September 16, 2026.
 
 - **Location:** Medellín, Colombia
 - **Type:** Permanent coliving

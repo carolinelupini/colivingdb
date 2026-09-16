@@ -1,6 +1,6 @@
 # Coliving in Romania
 
-> 4 colivings in Romania, prices from €670 to €775 per month – last updated September 11, 2026.
+> 4 colivings in Romania, prices from €670 to €775 per month – last updated September 16, 2026.
 
 ## All colivings
 

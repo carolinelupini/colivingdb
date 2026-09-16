@@ -1,6 +1,6 @@
 # Snomad Fest 2026
 
-> Nomad festival in Liddes, Switzerland. Last updated September 11, 2026.
+> Nomad festival in Liddes, Switzerland. Last updated September 16, 2026.
 
 - **Location:** Liddes, Switzerland
 - **Type:** Nomad festival / dated event — accommodation not included
@@ -12,10 +12,13 @@
 - **Vibe:** Ski week with a laptop - group transfers up in the morning, coworking and sessions around them, sauna and shared dinners at night.
 - **Minimum stay:** —
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
+- **Elevation:** 1,270 m
 - **Tags:** ski, mountain, community
 - **Included:** 7-day ski pass for 4 Vallees/Verbier plus the Grand St Bernard pass, Group transfer to the slopes, Breakfast and dinner, Keynotes, workshops and unconferences, Storytelling night and pitching competition, Coworking space
 - **Not included:** Accommodation — book separately, Lunch, Ski and boot rental
 - **Area:** Liddes and neighbouring Bourg-Saint-Pierre, in Valais on the road to the Great St Bernard Pass. Geneva Airport is 1h45 by train and bus via Martigny and Orsieres, Sion airport 50 minutes. The 4 Vallees and Verbier slopes are the reason to come in December.
+- **Nearest airports:** Annecy Meythet airport (NCY) ~84 km; Zürich Airport (ZRH) ~194 km; Geneva International Airport (GVA) ~87 km
 - **Website:** https://nomad-fest.com/events/festivals/snomad-fest-3rd-edition-in-switzerland
 
 ## About

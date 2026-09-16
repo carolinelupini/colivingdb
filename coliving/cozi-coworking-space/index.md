@@ -1,6 +1,6 @@
 # CoZi - Coworking Space
 
-> Coliving in Houmt Souk, Tunisia. Last updated September 11, 2026.
+> Coliving in Houmt Souk, Tunisia. Last updated September 16, 2026.
 
 - **Location:** Houmt Souk, Tunisia
 - **Type:** Permanent coliving

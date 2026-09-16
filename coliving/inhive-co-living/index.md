@@ -1,6 +1,6 @@
 # INHIVE Co-Living
 
-> Coliving in Istanbul, Turkey. Last updated September 11, 2026.
+> Coliving in Istanbul, Turkey. Last updated September 16, 2026.
 
 - **Location:** Istanbul, Turkey
 - **Type:** Permanent coliving
@@ -10,7 +10,9 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Asia
+- **Timezone:** GMT+3 <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** community, coworking, city
+- **Nearest airports:** İstanbul Airport (IST) ~32 km; Tekirdağ Çorlu Airport (TEQ) ~56 km; Istanbul Sabiha Gökçen International Airport (SAW) ~63 km
 - **Website:** https://www.inhiveliving.com
 - **Rating:** 4.4 from 9 Google reviews
 

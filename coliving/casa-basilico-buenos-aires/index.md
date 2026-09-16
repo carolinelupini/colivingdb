@@ -1,6 +1,6 @@
 # Casa Basilico — Buenos Aires
 
-> Coliving in Buenos Aires, Argentina. Last updated September 11, 2026.
+> Coliving in Buenos Aires, Argentina. Last updated September 16, 2026.
 
 - **Location:** Buenos Aires, Argentina
 - **Type:** Pop-up / dated edition
@@ -11,9 +11,11 @@
 - **Dorm available:** No
 - **Minimum stay:** 31 nights
 - **Region:** Latin America
+- **Timezone:** GMT-3 <small>· US East: full workday overlap · Central Europe: good overlap</small>
 - **Tags:** city, community
 - **Included:** Your room or bed for the month, Two community managers living in the villa, Organised shared dinners, cooking classes (including an asado masterclass) and weekend trips, Wi-Fi in the rooms
 - **Not included:** Food, Weekend activities, Flights and travel insurance
+- **Nearest airports:** Aeroparque Jorge Newbery (AEP) ~3 km; Ezeiza International Airport - Ministro Pistarini (EZE) ~29 km
 - **Website:** https://casabasilico.com/locations/buenos-aires-argentina
 
 ## Rates

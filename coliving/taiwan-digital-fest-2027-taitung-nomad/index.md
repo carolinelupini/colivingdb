@@ -1,6 +1,6 @@
 # Taiwan Digital Fest 2027 — Taitung Nomad
 
-> Nomad festival in Taitung City, Taiwan. Last updated September 11, 2026.
+> Nomad festival in Taitung City, Taiwan. Last updated September 16, 2026.
 
 - **Location:** Taitung City, Taiwan
 - **Type:** Nomad festival / dated event — accommodation not included
@@ -12,10 +12,12 @@
 - **Vibe:** The long, sprawling middle of the festival — 28 days of parallel programming you pick from rather than a fixed schedule you follow. Days stay yours for work; the cohort physically moves every week, sleeping in-region so nobody drives back at night.
 - **Minimum stay:** —
 - **Region:** Asia
+- **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** rural, community
 - **Included:** All-access to paid workshops and nomad activities within your pass window, Free community meetups, Inter-zone shuttles and luggage storage between regions, Public-liability, employer's-liability and travel insurance
 - **Not included:** Accommodation — book separately, Flights and trains, Meals, Scooter rental
 - **Area:** Taitung County on Taiwan's Pacific-facing southeast, rotating weekly through the Nanhui south, the inland Rift Valley, the coast around Dulan and finally Taitung City itself. Base is minutes from Tiehua Village, the night market and the railway art village.
+- **Nearest airports:** Taitung Airport (TTT) ~4 km; Taiwan Taoyuan International Airport (TPE) ~258 km; Kaohsiung International Airport (KHH) ~84 km
 - **Website:** https://www.taiwandigitalfest.com/2027/taitung/
 
 ## About

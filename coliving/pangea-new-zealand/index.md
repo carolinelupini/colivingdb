@@ -1,6 +1,6 @@
 # Pangea — New Zealand
 
-> Coworking chapter in New Zealand (hub city not yet announced), New Zealand. Last updated September 11, 2026.
+> Coworking chapter in New Zealand (hub city not yet announced), New Zealand. Last updated September 16, 2026.
 
 - **Location:** New Zealand (hub city not yet announced), New Zealand
 - **Type:** Pop-up coworking chapter — accommodation not included
@@ -11,9 +11,11 @@
 - **Dorm available:** No
 - **Minimum stay:** —
 - **Region:** Oceania
+- **Timezone:** GMT+13 winter / GMT+12 summer <small>· US East: async only · Central Europe: async only</small>
 - **Tags:** community
 - **Included:** The community in one place for the chapter, Community events and dinners, Local host and orientation, WhatsApp community group
 - **Not included:** Accommodation — book separately (Pangea helps you find it), Coworking space (Pangea points you to the best spots), Flights, Food and personal spending, Weekend trips — bookable separately
+- **Nearest airports:** Nelson Airport (NSN) ~40 km; Wellington International Airport (WLG) ~166 km; Woodbourne Airport (BHE) ~87 km
 - **Website:** https://www.pangeatrips.com/#/trip/nz-chapter
 
 ## About

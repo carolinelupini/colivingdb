@@ -1,6 +1,6 @@
 # Draper Startup House Buenos Aires
 
-> Coliving in Buenos Aires, Argentina. Last updated September 11, 2026.
+> Coliving in Buenos Aires, Argentina. Last updated September 16, 2026.
 
 - **Location:** Buenos Aires, Argentina
 - **Type:** Permanent coliving

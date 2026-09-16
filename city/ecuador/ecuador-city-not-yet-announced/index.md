@@ -1,6 +1,6 @@
 # Coliving in Ecuador (city not yet announced), Ecuador
 
-> 1 colivings in Ecuador (city not yet announced), Ecuador – last updated September 11, 2026.
+> 1 colivings in Ecuador (city not yet announced), Ecuador – last updated September 16, 2026.
 
 ## All colivings
 

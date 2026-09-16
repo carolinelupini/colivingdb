@@ -1,6 +1,6 @@
 # Coliving in Laxe, A Coruña, Galicia, Spain
 
-> 1 colivings in Laxe, A Coruña, Galicia, Spain, prices from €1,020 to €1,020 per month – last updated September 11, 2026.
+> 1 colivings in Laxe, A Coruña, Galicia, Spain, prices from €1,020 to €1,020 per month – last updated September 16, 2026.
 
 ## All colivings
 
