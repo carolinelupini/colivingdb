@@ -13,6 +13,17 @@ Key facts:
 ## Indexes
 - [All countries](/llms-countries.md): every country with counts and lowest price
 - [All colivings](/llms-colivings.md): the full listing index
+- [Nomad festivals (23)](/festivals/index.md)
+- [Pop-ups by month (93)](/pop-ups/index.md)
+- [WiFi Tribe chapters (26)](/brand/wifi-tribe/index.md)
+- [AfricaNomads chapters (19)](/brand/africanomads/index.md)
+- [Noma Collective editions (17)](/brand/noma-collective/index.md)
+- [Pangea coworking chapters (10)](/brand/pangea/index.md)
+- [Boundless Life locations (6)](/brand/boundless-life/index.md)
+- [Beach colivings (169)](/coliving/beach/index.md)
+- [Surf colivings (102)](/coliving/surf/index.md)
+- [Island colivings (78)](/coliving/island/index.md)
+- [Mountain colivings (71)](/coliving/mountain/index.md)
 
 ## Top destinations
 - [Coliving in Spain](/country/spain/index.md): 92 colivings
