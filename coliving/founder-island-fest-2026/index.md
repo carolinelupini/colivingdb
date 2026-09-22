@@ -1,6 +1,6 @@
 # Founder Island Fest 2026
 
-> Nomad festival in Madeira, Portugal. Last updated September 16, 2026.
+> Nomad festival in Madeira, Portugal. Last updated September 22, 2026.
 
 - **Location:** Madeira, Portugal
 - **Type:** Nomad festival / dated event
@@ -11,6 +11,7 @@
 - **Dorm available:** No
 - **Vibe:** Founder-heavy and built to avoid feeling like a conference. Red carpet opening, jeep safaris across the island, cold plunges, spa access and themed parties - the 2026 gala is 'The Great Unwritten', dress code architectural white. Days start with an 8am workout, run talks and workshops through the late morning, leave 1:00 to 3:30 open, then close with a three-course networking dinner and a late lounge session. The organiser is blunt that it is 'NOT for beginners' and aims it at people already running profitable businesses.
 - **Minimum stay:** —
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** island, startup, community

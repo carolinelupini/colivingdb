@@ -1,6 +1,6 @@
 # Outsite Mexico City - Colonia San Miguel
 
-> Coliving in Mexico City, Mexico. Last updated September 16, 2026.
+> Coliving in Mexico City, Mexico. Last updated September 22, 2026.
 
 - **Location:** Mexico City, Mexico
 - **Type:** Permanent coliving

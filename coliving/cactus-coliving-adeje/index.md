@@ -1,6 +1,6 @@
 # Cactus Coliving Adeje
 
-> Coliving in Adeje, Spain. Last updated September 16, 2026.
+> Coliving in Adeje, Spain. Last updated September 22, 2026.
 
 - **Location:** Adeje, Spain
 - **Type:** Permanent coliving
@@ -11,6 +11,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 843 Mbps down <small>· operator-reported</small><br><small>Operator speedtest 2026-07-17: 843 Mbps down / 713 up.</small>
 - **Minimum stay:** 2 months
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** community, coworking, island

@@ -1,6 +1,6 @@
 # Greek Escape
 
-> Coliving in Gerani, Crete (near Rethymno), Greece. Last updated September 16, 2026.
+> Coliving in Gerani, Crete (near Rethymno), Greece. Last updated September 22, 2026.
 
 - **Location:** Gerani, Crete (near Rethymno), Greece
 - **Type:** Permanent coliving
@@ -12,6 +12,7 @@
 - **Wi-Fi (on-site):** 428 Mbps down <small>· operator-reported</small><br><small>428 Mbps down / 49.45 up via Starlink, operator speedtest 2026-08-21 (Sarah, customer support). Supersedes the 300/100 Mbps estimates that came from the two now-merged duplicate records.</small>
 - **Vibe:** Coliving where freelancers, entrepreneurs, and teams work, play, and learn together, with community as a catalyst for personal and business growth.
 - **Minimum stay:** 7 nights
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Europe
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** beach, rural, island, coworking, community

@@ -1,6 +1,6 @@
 # WiFi Tribe — Swakopmund
 
-> Coliving in Swakopmund, Namibia. Last updated September 16, 2026.
+> Coliving in Swakopmund, Namibia. Last updated September 22, 2026.
 
 - **Location:** Swakopmund, Namibia
 - **Type:** Pop-up / dated edition

@@ -1,6 +1,6 @@
 # Quinta Da Carvalheira
 
-> Coliving in Soure, Portugal. Last updated September 16, 2026.
+> Coliving in Soure, Portugal. Last updated September 22, 2026.
 
 - **Location:** Soure, Portugal
 - **Type:** Permanent coliving
@@ -12,6 +12,7 @@
 - **Wi-Fi (on-site):** 457 Mbps down <small>· operator-reported</small>
 - **Vibe:** A restored 17th-century farm retreat in rural Soure balancing work, rest, and regenerative/sustainable living with hiking, yoga, and close-knit community.
 - **Minimum stay:** 1 night
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** rural, community, eco, wellness

@@ -1,6 +1,6 @@
 # Circles House Barcelona
 
-> Coliving in Barcelona, Spain. Last updated September 16, 2026.
+> Coliving in Barcelona, Spain. Last updated September 22, 2026.
 
 - **Location:** Barcelona, Spain
 - **Type:** Permanent coliving
@@ -12,6 +12,7 @@
 - **Wi-Fi (on-site):** 15 Mbps down <small>· operator-reported</small>
 - **Vibe:** Hub for entrepreneurs and creatives seeking community, growth, adventure
 - **Minimum stay:** 1 night
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, community, coworking, startup

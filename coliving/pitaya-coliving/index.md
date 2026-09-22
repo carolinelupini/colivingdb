@@ -1,6 +1,6 @@
 # Pitaya coliving
 
-> Coliving in Arrecife, Spain. Last updated September 16, 2026.
+> Coliving in Arrecife, Spain. Last updated September 22, 2026.
 
 - **Location:** Arrecife, Spain
 - **Type:** Permanent coliving
@@ -12,6 +12,7 @@
 - **Wi-Fi (on-site):** 300 Mbps down <small>· operator-reported</small>
 - **Vibe:** Lively, friendly environment where remote workers and travelers connect
 - **Minimum stay:** 10 nights
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** island, beach, surf, coworking, community, wellness

@@ -1,6 +1,6 @@
 # Incheon Autumn Workation 2026
 
-> Nomad festival in Incheon, South Korea. Last updated September 16, 2026.
+> Nomad festival in Incheon, South Korea. Last updated September 22, 2026.
 
 - **Location:** Incheon, South Korea
 - **Type:** Nomad festival / dated event

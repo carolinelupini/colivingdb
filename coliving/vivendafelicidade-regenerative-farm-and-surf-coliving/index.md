@@ -1,6 +1,6 @@
 # VivendaFelicidade Regenerative Farm & Surf Coliving
 
-> Coliving in Sintra (Tojeira), Portugal. Last updated September 16, 2026.
+> Coliving in Sintra (Tojeira), Portugal. Last updated September 22, 2026.
 
 - **Location:** Sintra (Tojeira), Portugal
 - **Type:** Permanent coliving

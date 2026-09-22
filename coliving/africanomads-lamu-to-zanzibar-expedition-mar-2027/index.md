@@ -1,6 +1,6 @@
 # AfricaNomads — Lamu to Zanzibar Expedition (Mar 2027)
 
-> Coliving in Lamu → Zanzibar, Tanzania. Last updated September 16, 2026.
+> Coliving in Lamu → Zanzibar, Tanzania. Last updated September 22, 2026.
 
 - **Location:** Lamu → Zanzibar, Tanzania
 - **Type:** Pop-up / dated edition
@@ -11,6 +11,7 @@
 - **Dorm available:** No
 - **Vibe:** A four-day traditional dhow sailing voyage down the East African coast from Lamu to Zanzibar, run between the Lamu and Zanzibar chapters — an expedition rather than a standard coliving stay.
 - **Minimum stay:** —
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Africa
 - **Timezone:** GMT+3 <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Included:** Private room in an AfricaNomads home, Reliable WiFi & Starlink, Local SIM card loaded with data + backup power, Weekly communal dinner, Optional weekend activities, Hosts & activity organizers, Access to coworking, A community of remote workers

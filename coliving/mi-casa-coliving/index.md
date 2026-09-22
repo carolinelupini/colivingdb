@@ -1,6 +1,6 @@
 # Mi Casa Coliving
 
-> Coliving in Puerto Escondido, Mexico. Last updated September 16, 2026.
+> Coliving in Puerto Escondido, Mexico. Last updated September 22, 2026.
 
 - **Location:** Puerto Escondido, Mexico
 - **Type:** Permanent coliving
@@ -12,6 +12,7 @@
 - **Wi-Fi (on-site):** 320 Mbps down <small>· operator-reported</small><br><small>320 Mbps published</small>
 - **Vibe:** An intentional-living coliving in Mexico for remote workers and travelers who want to slow down and feel part of local life rather than just pass through.
 - **Minimum stay:** 7 nights
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Tags:** beach, surf, coworking, community, wellness

@@ -1,6 +1,6 @@
 # Coliving in Kiwengwa, Tanzania
 
-> 1 colivings in Kiwengwa, Tanzania, prices from €900 to €900 per month – last updated September 16, 2026.
+> 1 colivings in Kiwengwa, Tanzania, prices from €900 to €900 per month – last updated September 22, 2026.
 
 ## All colivings
 

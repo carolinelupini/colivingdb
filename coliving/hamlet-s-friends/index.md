@@ -1,6 +1,6 @@
 # Hamlet's Friends
 
-> Coliving in Nuño Gómez, Toledo, Spain. Last updated September 16, 2026.
+> Coliving in Nuño Gómez, Toledo, Spain. Last updated September 22, 2026.
 
 - **Location:** Nuño Gómez, Toledo, Spain
 - **Type:** Permanent coliving
@@ -12,6 +12,7 @@
 - **Wi-Fi (on-site):** 600 Mbps down <small>· operator-reported</small>
 - **Vibe:** lively, friendly, bridges countryside and urban life
 - **Minimum stay:** 28 nights
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, mountain, community, coworking

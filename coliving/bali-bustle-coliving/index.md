@@ -1,6 +1,6 @@
 # Bali Bustle Coliving
 
-> Coliving in Legian, Bali, Indonesia. Last updated September 16, 2026.
+> Coliving in Legian, Bali, Indonesia. Last updated September 22, 2026.
 
 - **Location:** Legian, Bali, Indonesia
 - **Type:** Permanent coliving
@@ -12,6 +12,7 @@
 - **Wi-Fi (on-site):** 233 Mbps down <small>· operator-reported</small><br><small>Coworking space: 233 Mbps down / 215 up. In-room (coliving): 99 down / 49 up. Operator speedtests (GlobalXtreme).</small>
 - **Vibe:** productive coliving, community-driven for digital nomads
 - **Minimum stay:** 3 nights
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Asia
 - **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** city, beach, coworking, community, wellness

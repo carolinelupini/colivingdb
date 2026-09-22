@@ -1,6 +1,6 @@
 # Digital nomad festivals 2026–2027
 
-> 23 nomad festivals, sorted by date. 19 of them sell a ticket only, so you book your own place to stay; the last column counts the colivings on colivingDB within 40 km. Updated September 16, 2026.
+> 23 nomad festivals, sorted by date. 19 of them sell a ticket only, so you book your own place to stay; the last column counts the colivings on colivingDB within 40 km. Updated September 22, 2026.
 
 | Festival | Where | Dates | Price from | Accommodation | Colivings within 40 km |
 |---|---|---|---|---|---|

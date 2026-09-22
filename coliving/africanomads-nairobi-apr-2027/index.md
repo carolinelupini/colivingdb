@@ -1,6 +1,6 @@
 # AfricaNomads — Nairobi (Apr 2027)
 
-> Coliving in Nairobi, Kenya. Last updated September 16, 2026.
+> Coliving in Nairobi, Kenya. Last updated September 22, 2026.
 
 - **Location:** Nairobi, Kenya
 - **Type:** Pop-up / dated edition
@@ -12,6 +12,7 @@
 - **Wi-Fi (on-site):** 86 Mbps down <small>· operator-reported</small><br><small>Operator speedtest 2026-07: 86-140 Mbps across the house.</small>
 - **Vibe:** A community- and adventure-oriented space blending private rooms with shared living, weekly communal dinners, and a coworking area for remote workers exploring Nairobi's wildlife, markets, and culture.
 - **Minimum stay:** —
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Africa
 - **Timezone:** GMT+3 <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Elevation:** 1,668 m

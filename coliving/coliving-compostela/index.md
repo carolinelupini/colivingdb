@@ -1,6 +1,6 @@
 # Coliving Compostela
 
-> Coliving in Santiago de Compostela, Spain. Last updated September 16, 2026.
+> Coliving in Santiago de Compostela, Spain. Last updated September 22, 2026.
 
 - **Location:** Santiago de Compostela, Spain
 - **Type:** Permanent coliving
@@ -12,6 +12,7 @@
 - **Wi-Fi (on-site):** 500 Mbps down <small>· operator-reported</small>
 - **Vibe:** Warm, relaxed home for remote workers, creatives and travelers
 - **Minimum stay:** 15 nights
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, coworking, community

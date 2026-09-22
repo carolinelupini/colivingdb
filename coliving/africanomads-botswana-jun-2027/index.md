@@ -1,6 +1,6 @@
 # AfricaNomads — Botswana (Jun 2027)
 
-> Coliving in Maun, Botswana. Last updated September 16, 2026.
+> Coliving in Maun, Botswana. Last updated September 22, 2026.
 
 - **Location:** Maun, Botswana
 - **Type:** Pop-up / dated edition
@@ -11,6 +11,7 @@
 - **Dorm available:** No
 - **Vibe:** Begins in Maun, the gateway to the Okavango Delta, with a final week across the Makgadikgadi Salt Pans and Chobe National Park.
 - **Minimum stay:** —
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Africa
 - **Timezone:** GMT+2 <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** wellness

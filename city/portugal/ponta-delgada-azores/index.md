@@ -1,6 +1,6 @@
 # Coliving in Ponta Delgada (Azores), Portugal
 
-> 1 colivings in Ponta Delgada (Azores), Portugal, prices from €1,727 to €1,727 per month – last updated September 16, 2026.
+> 1 colivings in Ponta Delgada (Azores), Portugal, prices from €1,727 to €1,727 per month – last updated September 22, 2026.
 
 ## All colivings
 

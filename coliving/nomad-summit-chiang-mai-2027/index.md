@@ -1,6 +1,6 @@
 # Nomad Summit Chiang Mai 2027
 
-> Nomad festival in Chiang Mai, Thailand. Last updated September 16, 2026.
+> Nomad festival in Chiang Mai, Thailand. Last updated September 22, 2026.
 
 - **Location:** Chiang Mai, Thailand
 - **Type:** Nomad festival / dated event — accommodation not included

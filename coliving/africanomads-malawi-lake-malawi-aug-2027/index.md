@@ -1,6 +1,6 @@
 # AfricaNomads — Malawi (Lake Malawi) (Aug 2027)
 
-> Coliving in Nkhata Bay (Lake Malawi), Malawi. Last updated September 16, 2026.
+> Coliving in Nkhata Bay (Lake Malawi), Malawi. Last updated September 22, 2026.
 
 - **Location:** Nkhata Bay (Lake Malawi), Malawi
 - **Type:** Pop-up / dated edition
@@ -11,6 +11,7 @@
 - **Dorm available:** No
 - **Vibe:** Lakeside coliving in Nkhata Bay on Lake Malawi, with private or deluxe lake-facing rooms, a weekly communal dinner and optional weekend activities.
 - **Minimum stay:** —
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Africa
 - **Timezone:** GMT+2 <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** wellness

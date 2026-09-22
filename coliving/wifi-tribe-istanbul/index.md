@@ -1,6 +1,6 @@
 # WiFi Tribe — Istanbul
 
-> Coliving in Istanbul, Turkey. Last updated September 16, 2026.
+> Coliving in Istanbul, Turkey. Last updated September 22, 2026.
 
 - **Location:** Istanbul, Turkey
 - **Type:** Pop-up / dated edition

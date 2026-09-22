@@ -1,6 +1,6 @@
 # AfricaNomads — Zambia (Jul 2027)
 
-> Coliving in Livingstone, Zambia. Last updated September 16, 2026.
+> Coliving in Livingstone, Zambia. Last updated September 22, 2026.
 
 - **Location:** Livingstone, Zambia
 - **Type:** Pop-up / dated edition
@@ -11,6 +11,7 @@
 - **Dorm available:** No
 - **Vibe:** Based in Livingstone, home to Victoria Falls, with adventures on the Zambezi River and nearby national parks.
 - **Minimum stay:** —
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Africa
 - **Timezone:** GMT+2 <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** wellness

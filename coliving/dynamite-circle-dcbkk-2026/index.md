@@ -1,6 +1,6 @@
 # Dynamite Circle — DCBKK 2026
 
-> Nomad festival in Bangkok, Thailand. Last updated September 16, 2026.
+> Nomad festival in Bangkok, Thailand. Last updated September 22, 2026.
 
 - **Location:** Bangkok, Thailand
 - **Type:** Nomad festival / dated event — accommodation not included

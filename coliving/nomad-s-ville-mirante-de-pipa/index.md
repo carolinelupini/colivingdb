@@ -1,6 +1,6 @@
 # Nomad's Ville (Mirante de Pipa)
 
-> Coliving in Praia da Pipa, Brazil. Last updated September 16, 2026.
+> Coliving in Praia da Pipa, Brazil. Last updated September 22, 2026.
 
 - **Location:** Praia da Pipa, Brazil
 - **Type:** Permanent coliving
@@ -11,6 +11,7 @@
 - **Dorm available:** No
 - **Vibe:** A retreat designed exclusively for digital nomads to work amid nature and sea views, balancing productivity with sunset-bar leisure
 - **Minimum stay:** —
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Latin America
 - **Timezone:** GMT-3 <small>· US East: full workday overlap · Central Europe: good overlap</small>
 - **Tags:** beach, coworking, community, wellness

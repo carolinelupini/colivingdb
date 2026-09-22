@@ -1,8 +1,8 @@
 # Pop-up colivings by month
 
-> 93 pop-up colivings (group trips, retreats and seasonal houses that run for a few weeks or months), grouped by the month they start, plus 10 coworking chapters where you book your own bed. Updated September 16, 2026.
+> 93 pop-up colivings (group trips, retreats and seasonal houses that run for a few weeks or months), grouped by the month they start, plus 10 coworking chapters where you book your own bed. Updated September 22, 2026.
 
-## Running now (8)
+## Running now (9)
 
 | Pop-up | Where | Dates | Price from | Rooms | Min stay |
 |---|---|---|---|---|---|
@@ -14,12 +14,12 @@
 | [WiFi Tribe — Cusco](/coliving/wifi-tribe-cusco/index.md) | Cusco, Peru | Sep 11 - Oct 9, 2026 | from $1,490/mo | private, shared | 28 nights |
 | [WiFi Tribe — Paros](/coliving/wifi-tribe-paros/index.md) (fully booked) | Paros, Greece | Sep 11 - Oct 9, 2026 | from $1,990/mo | private, shared | 28 nights |
 | [WiFi Tribe — Ponta Delgada (Azores)](/coliving/wifi-tribe-ponta-delgada-azores/index.md) (fully booked) | Ponta Delgada (Azores), Portugal | Sep 11 - Oct 9, 2026 | from $1,990/mo | private, shared | 28 nights |
+| [Nomad Cruise — NC17 Atlantic Crossing](/coliving/nomad-cruise-nc17-atlantic-crossing/index.md) (fully booked) | Southampton → New York, Multiple | Sep 19 - Sep 26, 2026 | from €2,300/cruise | private, shared | 7 nights |
 
-## September 2026 (4)
+## September 2026 (3)
 
 | Pop-up | Where | Dates | Price from | Rooms | Min stay |
 |---|---|---|---|---|---|
-| [Nomad Cruise — NC17 Atlantic Crossing](/coliving/nomad-cruise-nc17-atlantic-crossing/index.md) (fully booked) | Southampton → New York, Multiple | Sep 19 - Sep 26, 2026 | from €2,300/cruise | private, shared | 7 nights |
 | [AfricaNomads — Zanzibar (Stone Town, Sep 2026)](/coliving/africanomads-zanzibar-stone-town-sep-2026/index.md) | Zanzibar, Tanzania | Sept 27 - Oct 25, 2026 | from $440/wk | private | — |
 | [Noma Collective — Athens (Sep 2026)](/coliving/noma-collective-athens-sep-2026/index.md) (fully booked) | Athens, Greece | Sep 27 - Oct 25, 2026 | from $2,290/event | — | — |
 | [Colive Fukuoka — Hoppin Program (Oct 2026)](/coliving/colive-fukuoka-hoppin-program-oct-2026/index.md) | Fukuoka, Japan | Sep 29 - Oct 13, 2026 | from ¥112,800/event | private, shared | 14 nights |

@@ -1,6 +1,6 @@
 # Coliving in Mongolia
 
-> 1 colivings in Mongolia – last updated September 16, 2026.
+> 1 colivings in Mongolia – last updated September 22, 2026.
 
 ## All colivings
 

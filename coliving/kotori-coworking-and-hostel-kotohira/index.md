@@ -1,6 +1,6 @@
 # Kotori Coworking & Hostel Kotohira
 
-> Coliving in Kotohira, Japan. Last updated September 16, 2026.
+> Coliving in Kotohira, Japan. Last updated September 22, 2026.
 
 - **Location:** Kotohira, Japan
 - **Type:** Permanent coliving

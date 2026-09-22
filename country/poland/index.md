@@ -1,6 +1,6 @@
 # Coliving in Poland
 
-> 2 colivings in Poland, prices from €513 to €644 per month – last updated September 16, 2026.
+> 2 colivings in Poland, prices from €513 to €644 per month – last updated September 22, 2026.
 
 ## All colivings
 

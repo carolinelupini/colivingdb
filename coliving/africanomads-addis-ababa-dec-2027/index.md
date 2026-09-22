@@ -1,6 +1,6 @@
 # AfricaNomads — Addis Ababa (Dec 2027)
 
-> Coliving in Addis Ababa, Ethiopia. Last updated September 16, 2026.
+> Coliving in Addis Ababa, Ethiopia. Last updated September 22, 2026.
 
 - **Location:** Addis Ababa, Ethiopia
 - **Type:** Pop-up / dated edition
@@ -12,6 +12,7 @@
 - **Wi-Fi (on-site):** 91 Mbps down <small>· operator-reported</small><br><small>Operator speedtest 2026-07: 91 Mbps, plus extra routers.</small>
 - **Vibe:** Blends work with cultural immersion — 'the perfect mix of inspiration, culture and community' for digital nomads.
 - **Minimum stay:** —
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Africa
 - **Timezone:** GMT+3 <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Elevation:** 2,444 m

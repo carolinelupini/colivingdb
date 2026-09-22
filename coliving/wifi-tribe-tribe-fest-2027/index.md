@@ -1,6 +1,6 @@
 # WiFi Tribe — Tribe Fest 2027
 
-> Nomad festival in Volterra (Tuscany), Italy. Last updated September 16, 2026.
+> Nomad festival in Volterra (Tuscany), Italy. Last updated September 22, 2026.
 
 - **Location:** Volterra (Tuscany), Italy
 - **Type:** Nomad festival / dated event

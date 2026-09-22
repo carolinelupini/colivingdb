@@ -1,6 +1,6 @@
 # Alicante Nomad Summit 2027
 
-> Nomad festival in Alicante, Spain. Last updated September 16, 2026.
+> Nomad festival in Alicante, Spain. Last updated September 22, 2026.
 
 - **Location:** Alicante, Spain
 - **Type:** Nomad festival / dated event — accommodation not included

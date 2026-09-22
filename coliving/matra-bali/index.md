@@ -1,6 +1,6 @@
 # Matra Bali
 
-> Coliving in Canggu, Indonesia. Last updated September 16, 2026.
+> Coliving in Canggu, Indonesia. Last updated September 22, 2026.
 
 - **Location:** Canggu, Indonesia
 - **Type:** Permanent coliving

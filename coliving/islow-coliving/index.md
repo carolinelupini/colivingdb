@@ -1,6 +1,6 @@
 # iSlow Coliving
 
-> Coliving in Laxe, A Coruña, Galicia, Spain. Last updated September 16, 2026.
+> Coliving in Laxe, A Coruña, Galicia, Spain. Last updated September 22, 2026.
 
 - **Location:** Laxe, A Coruña, Galicia, Spain
 - **Type:** Permanent coliving
@@ -12,6 +12,7 @@
 - **Wi-Fi (on-site):** 600 Mbps down <small>· operator-reported</small><br><small>600 Mbps fiber, operator-reported by Inés 2026-08-21.</small>
 - **Vibe:** Rural coastal coliving to slow down, connect, and create
 - **Minimum stay:** 14 nights
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, beach, community, coworking, surf, eco

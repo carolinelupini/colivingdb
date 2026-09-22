@@ -1,6 +1,6 @@
 # AfricaNomads — Zanzibar (Jambiani, Mar 2027)
 
-> Coliving in Jambiani, Zanzibar, Tanzania. Last updated September 16, 2026.
+> Coliving in Jambiani, Zanzibar, Tanzania. Last updated September 22, 2026.
 
 - **Location:** Jambiani, Zanzibar, Tanzania
 - **Type:** Pop-up / dated edition
@@ -12,6 +12,7 @@
 - **Wi-Fi (on-site):** 180 Mbps down <small>· operator-reported</small><br><small>Operator speedtest 2026-07: 180 Mbps; backup SIM cards and a portable router for power cuts.</small>
 - **Vibe:** Cultural-immersion home for remote workers, creatives, and entrepreneurs to focus, recharge, and connect, with weekly communal dinners.
 - **Minimum stay:** —
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Africa
 - **Timezone:** GMT+3 <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** wellness

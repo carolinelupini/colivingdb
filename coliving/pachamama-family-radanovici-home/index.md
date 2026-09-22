@@ -1,6 +1,6 @@
 # Pachamama Family (Radanovici Home)
 
-> Coliving in Radanovici, Montenegro. Last updated September 16, 2026.
+> Coliving in Radanovici, Montenegro. Last updated September 22, 2026.
 
 - **Location:** Radanovici, Montenegro
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # INFINI Coliving
 
-> Coliving in Jauá (Camaçari), near Salvador, Brazil. Last updated September 16, 2026.
+> Coliving in Jauá (Camaçari), near Salvador, Brazil. Last updated September 22, 2026.
 
 - **Location:** Jauá (Camaçari), near Salvador, Brazil
 - **Type:** Permanent coliving
@@ -12,6 +12,7 @@
 - **Wi-Fi (on-site):** 190 Mbps down <small>· operator-reported</small><br><small>Operator speedtest 2026-07-28: 190.8 Mbps down / 153.8 up, 87 ms, 0% loss, on a 300 Mbps Brisanet fibre line (measured, not the advertised line speed).</small>
 - **Vibe:** A small oceanfront creative coliving in Bahia built around a slower pace and real immersion in Brazilian culture. Guests are remote workers, creatives, artists and slow travellers, and the house is run to balance community with personal space.
 - **Minimum stay:** 1 night
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Latin America
 - **Timezone:** GMT-3 <small>· US East: full workday overlap · Central Europe: good overlap</small>
 - **Tags:** beach, eco, community, coworking, rural, wellness

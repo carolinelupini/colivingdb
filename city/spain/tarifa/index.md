@@ -1,6 +1,6 @@
 # Coliving in Tarifa, Spain
 
-> 3 colivings in Tarifa, Spain, prices from €737 to €737 per month – last updated September 16, 2026.
+> 3 colivings in Tarifa, Spain, prices from €737 to €737 per month – last updated September 22, 2026.
 
 ## All colivings
 

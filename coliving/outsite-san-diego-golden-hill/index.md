@@ -1,6 +1,6 @@
 # Outsite San Diego - Golden Hill
 
-> Coliving in San Diego, United States. Last updated September 16, 2026.
+> Coliving in San Diego, United States. Last updated September 22, 2026.
 
 - **Location:** San Diego, United States
 - **Type:** Permanent coliving

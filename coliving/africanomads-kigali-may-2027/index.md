@@ -1,6 +1,6 @@
 # AfricaNomads — Kigali (May 2027)
 
-> Coliving in Kigali, Rwanda. Last updated September 16, 2026.
+> Coliving in Kigali, Rwanda. Last updated September 22, 2026.
 
 - **Location:** Kigali, Rwanda
 - **Type:** Pop-up / dated edition
@@ -11,6 +11,7 @@
 - **Dorm available:** No
 - **Vibe:** A month in Rwanda balancing productive workdays with mountain hikes, coffee farms, lakeside escapes and gorilla country.
 - **Minimum stay:** —
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Africa
 - **Timezone:** GMT+2 <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Elevation:** 1,462 m

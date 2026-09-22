@@ -1,6 +1,6 @@
 # Da Nang Nomad Fest 2027
 
-> Nomad festival in Da Nang, Vietnam. Last updated September 16, 2026.
+> Nomad festival in Da Nang, Vietnam. Last updated September 22, 2026.
 
 - **Location:** Da Nang, Vietnam
 - **Type:** Nomad festival / dated event — accommodation not included

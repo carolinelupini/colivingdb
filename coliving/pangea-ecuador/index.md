@@ -1,6 +1,6 @@
 # Pangea — Ecuador
 
-> Coworking chapter in Ecuador (city not yet announced), Ecuador. Last updated September 16, 2026.
+> Coworking chapter in Ecuador (city not yet announced), Ecuador. Last updated September 22, 2026.
 
 - **Location:** Ecuador (city not yet announced), Ecuador
 - **Type:** Pop-up coworking chapter — accommodation not included

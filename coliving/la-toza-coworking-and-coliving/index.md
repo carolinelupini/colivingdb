@@ -1,6 +1,6 @@
 # La Toza Coworking & Coliving
 
-> Coliving in Cabrero, Spain. Last updated September 16, 2026.
+> Coliving in Cabrero, Spain. Last updated September 22, 2026.
 
 - **Location:** Cabrero, Spain
 - **Type:** Permanent coliving
@@ -12,6 +12,7 @@
 - **Wi-Fi (on-site):** 1500 Mbps down <small>· operator-reported</small>
 - **Vibe:** Rural coliving 'created for those seeking focus, calm, and a slower rhythm of life... ideal for deep work and everyday balance,' co-run by a certified forest-bathing guide.
 - **Minimum stay:** 15 nights
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, mountain, eco, coworking, community, wellness

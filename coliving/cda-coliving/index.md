@@ -1,6 +1,6 @@
 # CDA Coliving
 
-> Coliving in Sydney, Australia. Last updated September 16, 2026.
+> Coliving in Sydney, Australia. Last updated September 22, 2026.
 
 - **Location:** Sydney, Australia
 - **Type:** Permanent coliving

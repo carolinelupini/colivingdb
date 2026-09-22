@@ -1,6 +1,6 @@
 # AfricaNomads — Lamu Island (Nov 2027)
 
-> Coliving in Lamu Island, Kenya. Last updated September 16, 2026.
+> Coliving in Lamu Island, Kenya. Last updated September 22, 2026.
 
 - **Location:** Lamu Island, Kenya
 - **Type:** Pop-up / dated edition
@@ -12,6 +12,7 @@
 - **Wi-Fi (on-site):** 99 Mbps down <small>· operator-reported</small><br><small>Operator speedtest 2026-07: ~99 Mbps.</small>
 - **Vibe:** A laid-back wellness-and-adventure retreat blending remote work with immersive island culture, yoga, and conservation.
 - **Minimum stay:** —
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Africa
 - **Timezone:** GMT+3 <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** wellness

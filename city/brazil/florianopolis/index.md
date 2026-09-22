@@ -1,6 +1,6 @@
 # Coliving in Florianópolis, Brazil
 
-> 5 colivings in Florianópolis, Brazil, prices from €238 to €1,466 per month – last updated September 16, 2026.
+> 5 colivings in Florianópolis, Brazil, prices from €238 to €1,466 per month – last updated September 22, 2026.
 
 ## All colivings
 

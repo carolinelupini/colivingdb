@@ -1,6 +1,6 @@
 # Outsite Ericeira - Centro
 
-> Coliving in Ericeira, Portugal. Last updated September 16, 2026.
+> Coliving in Ericeira, Portugal. Last updated September 22, 2026.
 
 - **Location:** Ericeira, Portugal
 - **Type:** Permanent coliving

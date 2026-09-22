@@ -1,6 +1,6 @@
 # Coliving in Taitung City, Taiwan
 
-> 1 colivings in Taitung City, Taiwan – last updated September 16, 2026.
+> 1 colivings in Taitung City, Taiwan – last updated September 22, 2026.
 
 ## All colivings
 

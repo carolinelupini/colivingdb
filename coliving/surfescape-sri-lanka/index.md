@@ -1,6 +1,6 @@
 # Surfescape Sri Lanka
 
-> Coliving in Midigama, Sri Lanka. Last updated September 16, 2026.
+> Coliving in Midigama, Sri Lanka. Last updated September 22, 2026.
 
 - **Location:** Midigama, Sri Lanka
 - **Type:** Permanent coliving
@@ -11,6 +11,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 100 Mbps down <small>· operator-reported</small><br><small>Operator-reported, 2026-08-05.</small>
 - **Minimum stay:** —
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Asia
 - **Timezone:** GMT+5:30 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** beach, surf, coworking, community

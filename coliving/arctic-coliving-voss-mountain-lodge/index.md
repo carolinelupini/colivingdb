@@ -1,6 +1,6 @@
 # Arctic Coliving — Voss Mountain Lodge
 
-> Coliving in Mjølfjell (Voss), Norway. Last updated September 16, 2026.
+> Coliving in Mjølfjell (Voss), Norway. Last updated September 22, 2026.
 
 - **Location:** Mjølfjell (Voss), Norway
 - **Type:** Permanent coliving
@@ -11,6 +11,7 @@
 - **Dorm available:** No
 - **Vibe:** Social adventure lodges in the Norwegian mountains blending outdoor adventure (hiking, climbing, surfing) with community stays and remote work
 - **Minimum stay:** 7 nights
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** mountain, ski, surf, coworking, community, rural

@@ -1,6 +1,6 @@
 # Beach colivings
 
-> 169 colivings by the beach in 37 countries. Updated September 16, 2026.
+> 169 colivings by the beach in 37 countries. Updated September 22, 2026.
 
 | Coliving | City | Country | Price from | Min stay | Type |
 |---|---|---|---|---|---|

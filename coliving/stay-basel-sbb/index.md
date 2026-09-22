@@ -1,6 +1,6 @@
 # STAY@Basel SBB
 
-> Coliving in Basel, Switzerland. Last updated September 16, 2026.
+> Coliving in Basel, Switzerland. Last updated September 22, 2026.
 
 - **Location:** Basel, Switzerland
 - **Type:** Permanent coliving

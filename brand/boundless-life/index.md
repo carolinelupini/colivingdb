@@ -1,6 +1,6 @@
 # Boundless Life locations 2026–2027
 
-> 6 upcoming Boundless Life locations in 6 countries, sorted by date. Updated September 16, 2026.
+> 6 upcoming Boundless Life locations in 6 countries, sorted by date. Updated September 22, 2026.
 
 | Location | Where | Dates | Price from |
 |---|---|---|---|

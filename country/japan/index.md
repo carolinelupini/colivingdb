@@ -1,6 +1,6 @@
 # Coliving in Japan
 
-> 12 colivings in Japan, prices from €378 to €2,600 per month – last updated September 16, 2026.
+> 12 colivings in Japan, prices from €378 to €2,600 per month – last updated September 22, 2026.
 
 ## All colivings
 

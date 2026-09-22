@@ -1,6 +1,6 @@
 # Arctic Coliving — Lofoten Pier Lodge
 
-> Coliving in Henningsvær, Norway. Last updated September 16, 2026.
+> Coliving in Henningsvær, Norway. Last updated September 22, 2026.
 
 - **Status:** <b>Not open yet</b> — opening September 2026
 - **Location:** Henningsvær, Norway
@@ -11,6 +11,7 @@
 - **Dorm available:** No
 - **Vibe:** A ten-guest Arctic lodge in a converted fishing pier, with a hard seasonal identity and a house-not-hotel feel.
 - **Minimum stay:** 7 nights
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** mountain, ski, community, rural, wellness

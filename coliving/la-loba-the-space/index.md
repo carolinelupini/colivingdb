@@ -1,6 +1,6 @@
 # La Loba - The Space
 
-> Coliving in Entrerríos, Spain. Last updated September 16, 2026.
+> Coliving in Entrerríos, Spain. Last updated September 22, 2026.
 
 - **Location:** Entrerríos, Spain
 - **Type:** Permanent coliving
@@ -12,6 +12,7 @@
 - **Wi-Fi (on-site):** 150 Mbps down <small>· operator-reported</small>
 - **Vibe:** 'A living space and a creative home in nature, where people meet and magic happens' — rural Galician setting among mountains, valleys, rivers and waterfalls.
 - **Minimum stay:** 7 nights
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, community, coworking, wellness

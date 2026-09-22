@@ -1,6 +1,6 @@
 # Coliving in Philippines
 
-> 8 colivings in Philippines, prices from €525 to €2,280 per month – last updated September 16, 2026.
+> 8 colivings in Philippines, prices from €525 to €2,280 per month – last updated September 22, 2026.
 
 ## All colivings
 

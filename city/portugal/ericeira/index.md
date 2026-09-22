@@ -1,6 +1,6 @@
 # Coliving in Ericeira, Portugal
 
-> 11 colivings in Ericeira, Portugal, prices from €542 to €1,800 per month – last updated September 16, 2026.
+> 11 colivings in Ericeira, Portugal, prices from €542 to €1,800 per month – last updated September 22, 2026.
 
 ## All colivings
 

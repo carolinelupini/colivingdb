@@ -1,6 +1,6 @@
 # Cactus Coliving La Gomera
 
-> Coliving in San Sebastián de La Gomera, Spain. Last updated September 16, 2026.
+> Coliving in San Sebastián de La Gomera, Spain. Last updated September 22, 2026.
 
 - **Location:** San Sebastián de La Gomera, Spain
 - **Type:** Permanent coliving
@@ -11,6 +11,7 @@
 - **Dorm available:** No
 - **Vibe:** Calm, safe and welcoming, balancing work with island exploration
 - **Minimum stay:** 13 nights
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** island, mountain, coworking, community, wellness

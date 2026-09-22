@@ -1,6 +1,6 @@
 # Coworksurf Uluwatu
 
-> Coliving in Uluwatu, Indonesia. Last updated September 16, 2026.
+> Coliving in Uluwatu, Indonesia. Last updated September 22, 2026.
 
 - **Location:** Uluwatu, Indonesia
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # Coliving in La Cañada (Paterna), Valencia, Spain
 
-> 1 colivings in La Cañada (Paterna), Valencia, Spain, prices from €999 to €999 per month – last updated September 16, 2026.
+> 1 colivings in La Cañada (Paterna), Valencia, Spain, prices from €999 to €999 per month – last updated September 22, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Ecoisleta Coliving
 
-> Coliving in Las Palmas de Gran Canaria (La Isleta), Spain. Last updated September 16, 2026.
+> Coliving in Las Palmas de Gran Canaria (La Isleta), Spain. Last updated September 22, 2026.
 
 - **Location:** Las Palmas de Gran Canaria (La Isleta), Spain
 - **Type:** Permanent coliving

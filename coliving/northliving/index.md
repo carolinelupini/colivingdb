@@ -1,6 +1,6 @@
 # Northliving
 
-> Coliving in Häggdånger, Sweden. Last updated September 16, 2026.
+> Coliving in Häggdånger, Sweden. Last updated September 22, 2026.
 
 - **Location:** Häggdånger, Sweden
 - **Type:** Permanent coliving
@@ -12,6 +12,7 @@
 - **Wi-Fi (on-site):** 500 Mbps down <small>· operator-reported</small>
 - **Vibe:** 'A lively, friendly atmosphere' with cozy common areas for the remote-work-and-travel crowd.
 - **Minimum stay:** 6 nights
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, beach, coworking, community

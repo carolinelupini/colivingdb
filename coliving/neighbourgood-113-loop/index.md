@@ -1,6 +1,6 @@
 # Neighbourgood 113 Loop
 
-> Coliving in Cape Town, South Africa. Last updated September 16, 2026.
+> Coliving in Cape Town, South Africa. Last updated September 22, 2026.
 
 - **Location:** Cape Town, South Africa
 - **Type:** Permanent coliving

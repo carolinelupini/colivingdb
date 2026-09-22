@@ -1,6 +1,6 @@
 # AfricaNomads — Zanzibar (Stone Town, Sep 2026)
 
-> Coliving in Zanzibar, Tanzania. Last updated September 16, 2026.
+> Coliving in Zanzibar, Tanzania. Last updated September 22, 2026.
 
 - **Location:** Zanzibar, Tanzania
 - **Type:** Pop-up / dated edition
@@ -12,6 +12,7 @@
 - **Wi-Fi (on-site):** 180 Mbps down <small>· operator-reported</small><br><small>Operator speedtest 2026-07: 180 Mbps; backup SIM cards and a portable router for power cuts.</small>
 - **Vibe:** 'A home for remote workers, creatives and entrepreneurs looking for a space to focus, recharge and connect' within an authentic Swahili community setting.
 - **Minimum stay:** —
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Africa
 - **Timezone:** GMT+3 <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Included:** Private room in an AfricaNomads home, Reliable WiFi & Starlink, Local SIM card loaded with data + backup power, Weekly communal dinner, Optional weekend activities, Hosts & activity organizers, Access to coworking, A community of remote workers

@@ -1,6 +1,6 @@
 # Laberint Coliving
 
-> Coliving in Palma de Mallorca, Spain. Last updated September 16, 2026.
+> Coliving in Palma de Mallorca, Spain. Last updated September 22, 2026.
 
 - **Location:** Palma de Mallorca, Spain
 - **Type:** Permanent coliving
@@ -11,6 +11,7 @@
 - **Dorm available:** No
 - **Vibe:** A family-run, community-focused coliving in Mallorca bridging local heritage with a conscious, purposeful remote-work lifestyle balanced by hiking and local experiences.
 - **Minimum stay:** 32 nights
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, island, coworking, community

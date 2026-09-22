@@ -1,6 +1,6 @@
 # Coliving in Pipa (Tibau do Sul), Brazil
 
-> 1 colivings in Pipa (Tibau do Sul), Brazil, prices from €1,997 to €1,997 per month – last updated September 16, 2026.
+> 1 colivings in Pipa (Tibau do Sul), Brazil, prices from €1,997 to €1,997 per month – last updated September 22, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Coliving in Bansko, Bulgaria
 
-> 9 colivings in Bansko, Bulgaria, prices from €280 to €750 per month – last updated September 16, 2026.
+> 9 colivings in Bansko, Bulgaria, prices from €280 to €750 per month – last updated September 22, 2026.
 
 ## All colivings
 

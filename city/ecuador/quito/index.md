@@ -1,6 +1,6 @@
 # Coliving in Quito, Ecuador
 
-> 3 colivings in Quito, Ecuador, prices from €310 to €1,284 per month – last updated September 16, 2026.
+> 3 colivings in Quito, Ecuador, prices from €310 to €1,284 per month – last updated September 22, 2026.
 
 ## All colivings
 

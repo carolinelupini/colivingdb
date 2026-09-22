@@ -1,6 +1,6 @@
 # Caminho Coliving
 
-> Coliving in Moreira, Maia (Porto area), Portugal. Last updated September 16, 2026.
+> Coliving in Moreira, Maia (Porto area), Portugal. Last updated September 22, 2026.
 
 - **Location:** Moreira, Maia (Porto area), Portugal
 - **Type:** Permanent coliving
@@ -12,6 +12,7 @@
 - **Wi-Fi (on-site):** 367 Mbps down <small>· operator-reported</small><br><small>Operator speedtest 2026-07: 367 Mbps down / 206 up, 21 ms.</small>
 - **Vibe:** An intentional, art-focused community near Porto where residents live, work and create together. Art sits at the centre: a creative atelier, weekly artistic and cultural workshops, community dinners, and residents encouraged to propose and lead their own activities — and as the founder puts it, “you do not need to be a professional artist to live here.”
 - **Minimum stay:** 30 nights
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** city, coworking, community

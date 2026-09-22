@@ -1,6 +1,6 @@
 # Coliving in Maun, Botswana
 
-> 1 colivings in Maun, Botswana – last updated September 16, 2026.
+> 1 colivings in Maun, Botswana – last updated September 22, 2026.
 
 ## All colivings
 

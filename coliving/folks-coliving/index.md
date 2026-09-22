@@ -1,6 +1,6 @@
 # Folks Coliving
 
-> Coliving in Valencia, Spain. Last updated September 16, 2026.
+> Coliving in Valencia, Spain. Last updated September 22, 2026.
 
 - **Location:** Valencia, Spain
 - **Type:** Permanent coliving
@@ -12,6 +12,7 @@
 - **Wi-Fi (on-site):** 15 Mbps down <small>· operator-reported</small>
 - **Vibe:** Lively, friendly atmosphere for remote workers and travelers
 - **Minimum stay:** 11 nights
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, beach, coworking, community, wellness

@@ -1,6 +1,6 @@
 # Noma Collective — Hoi An
 
-> Coliving in Hoi An, Vietnam. Last updated September 16, 2026.
+> Coliving in Hoi An, Vietnam. Last updated September 22, 2026.
 
 - **Location:** Hoi An, Vietnam
 - **Type:** Pop-up / dated edition

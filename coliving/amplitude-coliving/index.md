@@ -1,6 +1,6 @@
 # Amplitude Coliving
 
-> Coliving in Puerto Escondido (La Punta), Mexico. Last updated September 16, 2026.
+> Coliving in Puerto Escondido (La Punta), Mexico. Last updated September 22, 2026.
 
 - **Location:** Puerto Escondido (La Punta), Mexico
 - **Type:** Permanent coliving
@@ -12,6 +12,7 @@
 - **Wi-Fi (on-site):** 350 Mbps down <small>· operator-reported</small>
 - **Vibe:** Lively, friendly atmosphere for remote workers who love travel
 - **Minimum stay:** 1 night
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Tags:** beach, surf, coworking, community, wellness

@@ -1,6 +1,6 @@
 # AfricaNomads — Malawi (Lake Malawi) (Oct 2026)
 
-> Coliving in Malawi (Lake Malawi), Malawi. Last updated September 16, 2026.
+> Coliving in Malawi (Lake Malawi), Malawi. Last updated September 22, 2026.
 
 - **Location:** Malawi (Lake Malawi), Malawi
 - **Type:** Pop-up / dated edition
@@ -12,6 +12,7 @@
 - **Wi-Fi (on-site):** 160 Mbps down <small>· operator-reported</small><br><small>Operator speedtest 2026-07: 160 Mbps via Starlink.</small>
 - **Vibe:** Slow-down, nature-connected living for remote workers, creatives and entrepreneurs, with weekly communal dinners and a 'warm and open' small-town atmosphere.
 - **Minimum stay:** —
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Africa
 - **Timezone:** GMT+2 <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** wellness

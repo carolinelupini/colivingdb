@@ -1,6 +1,6 @@
 # Horizonte Coliving - Mangabeiras
 
-> Coliving in Belo Horizonte, Brazil. Last updated September 16, 2026.
+> Coliving in Belo Horizonte, Brazil. Last updated September 22, 2026.
 
 - **Location:** Belo Horizonte, Brazil
 - **Type:** Permanent coliving
@@ -13,6 +13,7 @@
 - **Vibe:** Life transitions with lightness, comfort, and community
 - **Community size:** 10-room house
 - **Minimum stay:** 30 nights
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Latin America
 - **Timezone:** GMT-3 <small>· US East: full workday overlap · Central Europe: good overlap</small>
 - **Elevation:** 1,017 m

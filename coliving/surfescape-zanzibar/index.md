@@ -1,6 +1,6 @@
 # Surfescape Zanzibar
 
-> Coliving in Kiwengwa, Tanzania. Last updated September 16, 2026.
+> Coliving in Kiwengwa, Tanzania. Last updated September 22, 2026.
 
 - **Location:** Kiwengwa, Tanzania
 - **Type:** Permanent coliving
@@ -11,6 +11,7 @@
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 20 Mbps down <small>· operator-reported</small><br><small>Operator-reported, 2026-08-05.</small>
 - **Minimum stay:** —
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Africa
 - **Timezone:** GMT+3 <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** beach, surf, coworking, community

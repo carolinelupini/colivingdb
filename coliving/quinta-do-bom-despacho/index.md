@@ -1,6 +1,6 @@
 # Quinta do Bom Despacho
 
-> Coliving in Ponta Delgada, Portugal. Last updated September 16, 2026.
+> Coliving in Ponta Delgada, Portugal. Last updated September 22, 2026.
 
 - **Location:** Ponta Delgada, Portugal
 - **Type:** Permanent coliving
@@ -12,6 +12,7 @@
 - **Wi-Fi (on-site):** 246 Mbps down <small>· operator-reported</small><br><small>Operator speedtest dated 2026-08-02: 246.4 Mbps down / 46.8 up, 1 ms latency, MEO (Ponta Delgada).</small>
 - **Vibe:** Sustainable eco-living retreat focused on balance and wellbeing
 - **Minimum stay:** —
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Europe
 - **Timezone:** GMT-1 winter / GMT+0 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** eco, rural, community, wellness

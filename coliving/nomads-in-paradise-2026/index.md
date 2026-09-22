@@ -1,6 +1,6 @@
 # Nomads in Paradise 2026
 
-> Nomad festival in General Luna, Philippines. Last updated September 16, 2026.
+> Nomad festival in General Luna, Philippines. Last updated September 22, 2026.
 
 - **Location:** General Luna, Philippines
 - **Type:** Nomad festival / dated event — accommodation not included
@@ -11,6 +11,7 @@
 - **Dorm available:** No
 - **Vibe:** Small enough that you keep bumping into the same 150 people across ten days — surf lesson in the morning, unconference in the afternoon, buffet dinner at night. Attendees come from over 20 countries and a substantial share of the room is Filipino freelancers and remote professionals rather than only visiting foreigners, which is an unusual mix for a nomad conference. Partner venues run fiber, Starlink and backup generators, so calls survive the island's power cuts, though the organisers are explicit that they'd rather you kept work to a minimum.
 - **Minimum stay:** —
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Asia
 - **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** island, surf, community

@@ -1,6 +1,6 @@
 # Waves & Wifi
 
-> Coliving in Popoyo, Nicaragua. Last updated September 16, 2026.
+> Coliving in Popoyo, Nicaragua. Last updated September 22, 2026.
 
 - **Location:** Popoyo, Nicaragua
 - **Type:** Permanent coliving
@@ -12,6 +12,7 @@
 - **Wi-Fi (on-site):** 253 Mbps down <small>· operator-reported</small><br><small>Operator-reported (Ookla speedtest history sent by Leo 2026-07-23). Most recent test 2026-07-10: 253 Mbps down / 27.4 up. Solar-powered; speeds vary — roughly 180–520 Mbps down across 2026.</small>
 - **Vibe:** A surf-and-wellness coliving space in Popoyo themed 'Surf, Yoga, Get Shit Done,' with a community kitchen, yoga classes, bike rentals, surf spots close by and an onsite coffee shop (Kooks Cafe). Fully solar powered for fast and reliable wifi. Focus on community events and encouragement to close laptops before sunset.
 - **Minimum stay:** 3 nights
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Tags:** surf, beach, coworking, community, wellness

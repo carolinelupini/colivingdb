@@ -1,6 +1,6 @@
 # AfricaNomads — Watamu (Oct 2027)
 
-> Coliving in Watamu, Kenya. Last updated September 16, 2026.
+> Coliving in Watamu, Kenya. Last updated September 22, 2026.
 
 - **Location:** Watamu, Kenya
 - **Type:** Pop-up / dated edition
@@ -11,6 +11,7 @@
 - **Dorm available:** No
 - **Vibe:** The October edition of the Watamu house: pool, en-suite AC rooms, rooftop yoga and organised marine and cultural excursions.
 - **Minimum stay:** —
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Africa
 - **Timezone:** GMT+3 <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** wellness

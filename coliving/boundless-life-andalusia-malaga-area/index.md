@@ -1,6 +1,6 @@
 # Boundless Life — Andalusia (Malaga area)
 
-> Coliving in Andalusia (Malaga area), Spain. Last updated September 16, 2026.
+> Coliving in Andalusia (Malaga area), Spain. Last updated September 22, 2026.
 
 - **Location:** Andalusia (Malaga area), Spain
 - **Type:** Pop-up / dated edition

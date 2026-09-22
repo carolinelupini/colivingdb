@@ -1,6 +1,6 @@
 # Surfescape
 
-> Coliving in Lajares, Fuerteventura, Spain. Last updated September 16, 2026.
+> Coliving in Lajares, Fuerteventura, Spain. Last updated September 22, 2026.
 
 - **Location:** Lajares, Fuerteventura, Spain
 - **Type:** Permanent coliving
@@ -12,6 +12,7 @@
 - **Wi-Fi (on-site):** 100 Mbps down <small>· operator-reported</small><br><small>Operator-reported, 2026-08-05.</small>
 - **Vibe:** boutique surf-lifestyle, design and connection
 - **Minimum stay:** —
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** surf, beach, island, coworking, community, wellness

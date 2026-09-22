@@ -1,6 +1,6 @@
 # Coliving in La Paz, Bolivia
 
-> 1 colivings in La Paz, Bolivia, prices from €1,380 to €1,380 per month – last updated September 16, 2026.
+> 1 colivings in La Paz, Bolivia, prices from €1,380 to €1,380 per month – last updated September 22, 2026.
 
 ## All colivings
 

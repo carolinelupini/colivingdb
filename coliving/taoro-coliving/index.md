@@ -1,6 +1,6 @@
 # Taoro Coliving
 
-> Coliving in Santa Úrsula, Tenerife, Spain. Last updated September 16, 2026.
+> Coliving in Santa Úrsula, Tenerife, Spain. Last updated September 22, 2026.
 
 - **Location:** Santa Úrsula, Tenerife, Spain
 - **Type:** Permanent coliving
@@ -12,6 +12,7 @@
 - **Wi-Fi (on-site):** 350 Mbps down <small>· operator-reported</small><br><small>200–350 Mbps, operator-reported</small>
 - **Vibe:** nurturing, family-like community, rest and connection
 - **Minimum stay:** 7 nights
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** island, mountain, coworking, community, wellness

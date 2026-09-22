@@ -1,6 +1,6 @@
 # Cotla Residence
 
-> Coliving in Saligao, Goa, India. Last updated September 16, 2026.
+> Coliving in Saligao, Goa, India. Last updated September 22, 2026.
 
 - **Location:** Saligao, Goa, India
 - **Type:** Permanent coliving

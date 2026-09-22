@@ -1,6 +1,6 @@
 # Taiwan Digital Fest 2027 — Green Island Ocean Tour
 
-> Nomad festival in Green Island, Taiwan. Last updated September 16, 2026.
+> Nomad festival in Green Island, Taiwan. Last updated September 22, 2026.
 
 - **Location:** Green Island, Taiwan
 - **Type:** Nomad festival / dated event — accommodation not included

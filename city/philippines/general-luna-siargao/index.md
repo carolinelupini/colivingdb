@@ -1,6 +1,6 @@
 # Coliving in General Luna (Siargao), Philippines
 
-> 1 colivings in General Luna (Siargao), Philippines – last updated September 16, 2026.
+> 1 colivings in General Luna (Siargao), Philippines – last updated September 22, 2026.
 
 ## All colivings
 

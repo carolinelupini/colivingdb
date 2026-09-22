@@ -1,6 +1,6 @@
 # The Better Neighbours — Lloret de Mar
 
-> Coliving in Lloret de Mar, Spain. Last updated September 16, 2026.
+> Coliving in Lloret de Mar, Spain. Last updated September 22, 2026.
 
 - **Location:** Lloret de Mar, Spain
 - **Type:** Pop-up / dated edition
@@ -12,6 +12,7 @@
 - **Wi-Fi (on-site):** 250 Mbps down <small>· operator-reported</small>
 - **Vibe:** Retreat-style stay prioritizing privacy ('engage as much—or as little—as you wish') with optional community activities: rooftop yoga, coastal hikes, and participant-led workshops.
 - **Minimum stay:** —
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** wellness

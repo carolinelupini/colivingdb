@@ -1,6 +1,6 @@
 # Pomar Coliving
 
-> Coliving in Moncarapacho (Algarve), Portugal. Last updated September 16, 2026.
+> Coliving in Moncarapacho (Algarve), Portugal. Last updated September 22, 2026.
 
 - **Location:** Moncarapacho (Algarve), Portugal
 - **Type:** Permanent coliving
@@ -11,6 +11,7 @@
 - **Dorm available:** No
 - **Vibe:** Calm, warm coliving place designed for deep work, training and community
 - **Minimum stay:** 7 nights
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** rural, coworking, community, eco
