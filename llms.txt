@@ -1,11 +1,11 @@
 # colivingDB
 
-> A free, curated directory of 637 colivings worldwide — one map, native-currency pricing, no login and no email wall. Covers permanent colivings, dated pop-up editions and nomad festivals across 86 countries. Last updated September 22, 2026.
+> A free, curated directory of 636 colivings worldwide — one map, native-currency pricing, no login and no email wall. Covers permanent colivings, dated pop-up editions and nomad festivals across 86 countries. Last updated September 22, 2026.
 
 colivingDB is built and maintained by Caroline Lupini, a full-time digital nomad since 2014 who has lived and worked across more than a hundred countries. Listings are nomad-style colivings (shared living plus community, usually with coworking), plus a small number of nomad festivals and community chapters, each tagged as such; those without accommodation say so. Student housing and urban rent-by-the-room operators are left out. Every listing links to the operator's own site. Dead links are audited and removed.
 
 Key facts:
-- 637 colivings, 86 countries
+- 636 colivings, 86 countries
 - 126 dated editions (traveling programs, cruises, camps, and nomad festivals)
 - Prices from €46 to €6,892 per month
 - Filters: country, city, room type, minimum stay, price, pop-up month, currency
@@ -26,7 +26,7 @@ Key facts:
 - [Mountain colivings (71)](/coliving/mountain/index.md)
 
 ## Top destinations
-- [Coliving in Spain](/country/spain/index.md): 92 colivings
+- [Coliving in Spain](/country/spain/index.md): 91 colivings
 - [Coliving in Portugal](/country/portugal/index.md): 60 colivings
 - [Coliving in Italy](/country/italy/index.md): 29 colivings
 - [Coliving in Mexico](/country/mexico/index.md): 29 colivings

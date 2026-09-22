@@ -1,6 +1,6 @@
 # colivingDB — all colivings
 
-> 637 listings. Last updated September 22, 2026.
+> 636 listings. Last updated September 22, 2026.
 
 | Coliving | City | Country | Price from | Min stay | Type |
 |---|---|---|---|---|---|
@@ -453,7 +453,6 @@
 | [Casa Gori — Coliving, Art Studio & Gardens](/coliving/casa-gori-coliving-art-studio-and-gardens/index.md) | Valencia | Spain | from €1,200/mo | 3 months | Permanent |
 | [Casa Pardal Coliving](/coliving/casa-pardal-coliving/index.md) | La Fortesa (Calaf), Catalonia | Spain | from €700/mo | 14 nights | Permanent |
 | [Casa Turull (Palma Coliving Barcelona)](/coliving/casa-turull-palma-coliving-barcelona/index.md) | Barcelona | Spain | from €1,380/mo | 30 nights | Permanent |
-| [Circles House Barcelona](/coliving/circles-house-barcelona/index.md) | Barcelona | Spain | from €900/mo | 1 night | Permanent |
 | [Circles House | Coliving & Coworking](/coliving/circles-house-coliving-and-coworking/index.md) | Barcelona | Spain | from €950/mo | — | Permanent |
 | [CoNomad](/coliving/conomad/index.md) | Corralejo | Spain | On request | 30 nights | Permanent |
 | [Coco Surfhouse](/coliving/coco-surfhouse/index.md) | Corralejo, Fuerteventura | Spain | from €840/mo | — | Permanent |

@@ -1,6 +1,6 @@
 # Coliving in Spain
 
-> 92 colivings in Spain, prices from €450 to €2,600 per month – last updated September 22, 2026.
+> 91 colivings in Spain, prices from €450 to €2,600 per month – last updated September 22, 2026.
 
 ## All colivings
 
@@ -48,7 +48,6 @@
 | Repeople El Cabo Coliving | Agaete, Gran Canaria | from €870/mo | 4.9 (19) | private | 30 nights | Permanent |
 | Anceu Coliving | Ponte Caldelas, Galicia | from €882/mo | 4.9 (76) | private | 15 nights | Permanent |
 | Suiters | Alicante | from €899/mo | 4.6 (117) | private | 30 nights | Permanent |
-| Circles House Barcelona | Barcelona | from €900/mo | 4.7 (102) | private, shared | 1 night | Permanent |
 | Nine Coliving | La Orotava, Tenerife | from €900/mo | 4.9 (111) | private, shared | 14 nights | Permanent |
 | Cohausing Cabanyal | Valencia | from €930/mo | 4.8 (109) | private | 30 nights | Permanent |
 | Eco-living Finca La Palmera | La Zarzuela (Tarifa), Cádiz | from €930/mo | 4.7 (88) | private | 30 nights | Permanent |
@@ -105,7 +104,7 @@
 |---|---|
 | 0–500 | 3 |
 | 500–800 | 25 |
-| 800–1200 | 32 |
+| 800–1200 | 31 |
 | 1200–2000 | 11 |
 | 2000–∞ | 2 |
 
