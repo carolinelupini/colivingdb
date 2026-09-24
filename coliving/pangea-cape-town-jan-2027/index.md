@@ -1,6 +1,6 @@
 # Pangea — Cape Town (Jan 2027)
 
-> Coworking chapter in Cape Town, South Africa. Last updated September 22, 2026.
+> Coworking chapter in Cape Town, South Africa. Last updated September 24, 2026.
 
 - **Location:** Cape Town, South Africa
 - **Type:** Pop-up coworking chapter — accommodation not included

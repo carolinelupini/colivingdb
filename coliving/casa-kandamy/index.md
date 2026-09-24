@@ -1,6 +1,6 @@
 # Casa Kandamy
 
-> Coliving in Tobia, Colombia. Last updated September 22, 2026.
+> Coliving in Tobia, Colombia. Last updated September 24, 2026.
 
 - **Location:** Tobia, Colombia
 - **Type:** Permanent coliving
@@ -11,11 +11,12 @@
 - **Dorm available:** No
 - **Vibe:** Live and work surrounded by nature; community and movement
 - **Minimum stay:** 30 nights
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Latin America
 - **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Tags:** mountain, rural, community, coworking, wellness
 - **Nearest airports:** El Dorado International Airport (BOG) ~57 km; Perales Airport (IBE) ~108 km; La Nubia Airport (MZL) ~113 km
-- **Website:** https://www.casakandamy.com/
+- **Website:** https://www.mapmelon.com/colivings/casa-kandamy?ref=colivingdb
 - **Rating:** 5.0 from 38 Google reviews
 
 ## Rates

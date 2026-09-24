@@ -1,6 +1,6 @@
 # Mountain colivings
 
-> 71 colivings in the mountains in 19 countries. Updated September 22, 2026.
+> 72 colivings in the mountains in 19 countries. Updated September 24, 2026.
 
 | Coliving | City | Country | Price from | Min stay | Type |
 |---|---|---|---|---|---|
@@ -75,5 +75,6 @@
 | [Vermont Hub](/coliving/vermont-hub/index.md) | Leysin | Switzerland | On request | 7 nights | Permanent |
 | [Casa Kandamy](/coliving/casa-kandamy/index.md) | Tobia | Colombia | from $57/night | 30 nights | Permanent |
 | [Outsite Boulder - North Boulder](/coliving/outsite-boulder-north-boulder/index.md) | Boulder | United States | from $67/night | 2 nights | Permanent |
+| [Aulus Coliving](/coliving/aulus-coliving/index.md) | Aulus-les-Bains | France | from €30/night | — | Permanent |
 
 Source: https://colivingdb.com/coliving/mountain/

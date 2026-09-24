@@ -1,6 +1,6 @@
 # Coliving in Isla Bastimentos, Panama
 
-> 1 colivings in Isla Bastimentos, Panama, prices from €595 to €595 per month – last updated September 22, 2026.
+> 1 colivings in Isla Bastimentos, Panama, prices from €595 to €595 per month – last updated September 24, 2026.
 
 ## All colivings
 

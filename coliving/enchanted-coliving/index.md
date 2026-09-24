@@ -1,6 +1,6 @@
 # Enchanted Coliving
 
-> Coliving in Nachamps, France. Last updated September 22, 2026.
+> Coliving in Nachamps, France. Last updated September 24, 2026.
 
 - **Location:** Nachamps, France
 - **Type:** Permanent coliving

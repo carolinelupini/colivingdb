@@ -1,6 +1,6 @@
 # Coliving in Las Palmas, Gran Canaria, Spain
 
-> 1 colivings in Las Palmas, Gran Canaria, Spain, prices from €870 to €870 per month – last updated September 22, 2026.
+> 1 colivings in Las Palmas, Gran Canaria, Spain, prices from €870 to €870 per month – last updated September 24, 2026.
 
 ## All colivings
 

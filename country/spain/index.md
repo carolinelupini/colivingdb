@@ -1,6 +1,6 @@
 # Coliving in Spain
 
-> 91 colivings in Spain, prices from €450 to €2,600 per month – last updated September 22, 2026.
+> 92 colivings in Spain, prices from €450 to €2,600 per month – last updated September 24, 2026.
 
 ## All colivings
 
@@ -97,6 +97,7 @@
 | Zen Den Coliving | Arona (Tenerife) | On request | 4.7 (12) | private | — | Permanent |
 | Nomadbase Tarifa 2027 | Tarifa | On request | — | — | — | Festival |
 | Alicante Nomad Summit 2027 | Alicante | On request | — | — | — | Festival |
+| CO-CO Coliving & Coworking | Dénia | from €80/night | — | private | 11 nights | Permanent |
 
 ## Price distribution
 

@@ -1,6 +1,6 @@
 # Coliving in Pererenan, Bali, Indonesia
 
-> 1 colivings in Pererenan, Bali, Indonesia – last updated September 22, 2026.
+> 1 colivings in Pererenan, Bali, Indonesia – last updated September 24, 2026.
 
 ## All colivings
 

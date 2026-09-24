@@ -1,6 +1,6 @@
 # Coconat
 
-> Coliving in Bad Belzig, Germany. Last updated September 22, 2026.
+> Coliving in Bad Belzig, Germany. Last updated September 24, 2026.
 
 - **Location:** Bad Belzig, Germany
 - **Type:** Permanent coliving

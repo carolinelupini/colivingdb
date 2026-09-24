@@ -1,6 +1,6 @@
 # Wild Oasis Algarve
 
-> Coliving in Monchique, Portugal. Last updated September 22, 2026.
+> Coliving in Monchique, Portugal. Last updated September 24, 2026.
 
 - **Location:** Monchique, Portugal
 - **Type:** Permanent coliving

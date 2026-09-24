@@ -1,11 +1,11 @@
 # colivingDB — all countries
 
-> 636 colivings across 86 countries. Last updated September 22, 2026.
+> 640 colivings across 86 countries. Last updated September 24, 2026.
 
 | Country | Colivings | From (EUR/mo) |
 |---|---|---|
-| [Spain](/country/spain/index.md) | 91 | €450 |
-| [Portugal](/country/portugal/index.md) | 60 | €300 |
+| [Spain](/country/spain/index.md) | 92 | €450 |
+| [Portugal](/country/portugal/index.md) | 59 | €300 |
 | [Italy](/country/italy/index.md) | 29 | €540 |
 | [Mexico](/country/mexico/index.md) | 29 | €46 |
 | [South Africa](/country/south-africa/index.md) | 25 | €345 |
@@ -13,20 +13,20 @@
 | [United States](/country/united-states/index.md) | 22 | €553 |
 | [Indonesia](/country/indonesia/index.md) | 20 | €363 |
 | [Colombia](/country/colombia/index.md) | 19 | €333 |
-| [France](/country/france/index.md) | 15 | €370 |
+| [France](/country/france/index.md) | 16 | €370 |
 | [Sri Lanka](/country/sri-lanka/index.md) | 14 | €87 |
 | [Brazil](/country/brazil/index.md) | 13 | €238 |
+| [Japan](/country/japan/index.md) | 13 | €378 |
 | [Switzerland](/country/switzerland/index.md) | 13 | €500 |
-| [Japan](/country/japan/index.md) | 12 | €378 |
 | [Bulgaria](/country/bulgaria/index.md) | 11 | €280 |
 | [Costa Rica](/country/costa-rica/index.md) | 11 | €289 |
 | [Greece](/country/greece/index.md) | 11 | €449 |
+| [Vietnam](/country/vietnam/index.md) | 10 | €283 |
 | [Argentina](/country/argentina/index.md) | 9 | €506 |
 | [Australia](/country/australia/index.md) | 9 | €473 |
 | [India](/country/india/index.md) | 9 | €73 |
 | [Montenegro](/country/montenegro/index.md) | 9 | €360 |
 | [Morocco](/country/morocco/index.md) | 9 | €300 |
-| [Vietnam](/country/vietnam/index.md) | 9 | €283 |
 | [Kenya](/country/kenya/index.md) | 8 | €500 |
 | [Philippines](/country/philippines/index.md) | 8 | €525 |
 | [Norway](/country/norway/index.md) | 6 | €522 |
@@ -43,6 +43,7 @@
 | [Romania](/country/romania/index.md) | 4 | €670 |
 | [South Korea](/country/south-korea/index.md) | 4 | €525 |
 | [Belize](/country/belize/index.md) | 3 | — |
+| [Cyprus](/country/cyprus/index.md) | 3 | €1,160 |
 | [Dominican Republic](/country/dominican-republic/index.md) | 3 | €880 |
 | [Ethiopia](/country/ethiopia/index.md) | 3 | — |
 | [Georgia](/country/georgia/index.md) | 3 | €192 |
@@ -56,7 +57,6 @@
 | [Bolivia](/country/bolivia/index.md) | 2 | €1,380 |
 | [Canada](/country/canada/index.md) | 2 | €889 |
 | [Croatia](/country/croatia/index.md) | 2 | €598 |
-| [Cyprus](/country/cyprus/index.md) | 2 | €1,160 |
 | [Guatemala](/country/guatemala/index.md) | 2 | €819 |
 | [Honduras](/country/honduras/index.md) | 2 | — |
 | [Hungary](/country/hungary/index.md) | 2 | — |

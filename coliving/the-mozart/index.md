@@ -1,6 +1,6 @@
 # The Mozart
 
-> Coliving in Las Palmas, Spain. Last updated September 22, 2026.
+> Coliving in Las Palmas, Spain. Last updated September 24, 2026.
 
 - **Location:** Las Palmas, Spain
 - **Type:** Permanent coliving

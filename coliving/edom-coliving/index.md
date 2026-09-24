@@ -1,6 +1,6 @@
 # Edom Coliving
 
-> Coliving in La Cañada (Paterna), Valencia, Spain. Last updated September 22, 2026.
+> Coliving in La Cañada (Paterna), Valencia, Spain. Last updated September 24, 2026.
 
 - **Location:** La Cañada (Paterna), Valencia, Spain
 - **Type:** Permanent coliving

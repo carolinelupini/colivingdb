@@ -1,6 +1,6 @@
 # Cloud Citadel Coliving
 
-> Coliving in Briançon, France. Last updated September 22, 2026.
+> Coliving in Briançon, France. Last updated September 24, 2026.
 
 - **Location:** Briançon, France
 - **Type:** Permanent coliving
@@ -10,12 +10,13 @@
 - **Room types:** private, dorm, studio
 - **Dorm available:** Yes
 - **Minimum stay:** 14 nights
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Elevation:** 1,299 m
 - **Tags:** mountain, ski, coworking, community
 - **Nearest airports:** Turin Airport (TRN) ~86 km; Cuneo International Airport (CUF) ~87 km; Chambéry Aix les Bains airport (CMF) ~101 km
-- **Website:** https://cloudcitadel.co/
+- **Website:** https://www.mapmelon.com/colivings/cloud-citadel?ref=colivingdb
 - **Rating:** 5.0 from 80 Google reviews
 
 ## Rates

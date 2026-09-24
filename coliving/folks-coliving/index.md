@@ -1,6 +1,6 @@
 # Folks Coliving
 
-> Coliving in Valencia, Spain. Last updated September 22, 2026.
+> Coliving in Valencia, Spain. Last updated September 24, 2026.
 
 - **Location:** Valencia, Spain
 - **Type:** Permanent coliving

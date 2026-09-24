@@ -1,6 +1,6 @@
 # HIVE
 
-> Coliving in Dubai, United Arab Emirates. Last updated September 22, 2026.
+> Coliving in Dubai, United Arab Emirates. Last updated September 24, 2026.
 
 - **Location:** Dubai, United Arab Emirates
 - **Type:** Permanent coliving

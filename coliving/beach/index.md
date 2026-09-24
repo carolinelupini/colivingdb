@@ -1,6 +1,6 @@
 # Beach colivings
 
-> 169 colivings by the beach in 37 countries. Updated September 22, 2026.
+> 170 colivings by the beach in 37 countries. Updated September 24, 2026.
 
 | Coliving | City | Country | Price from | Min stay | Type |
 |---|---|---|---|---|---|
@@ -173,5 +173,6 @@
 | [Outsite Los Angeles - Venice Beach Lincoln](/coliving/outsite-los-angeles-venice-beach-lincoln/index.md) | Los Angeles | United States | On request | — | Permanent |
 | [Life in Byron](/coliving/life-in-byron/index.md) | Byron Bay | Australia | from A$200/wk | — | Permanent |
 | [CoBodrum](/coliving/cobodrum/index.md) | Bodrum | Turkey | On request | — | Permanent |
+| [CO-CO Coliving & Coworking](/coliving/co-co-coliving-and-coworking/index.md) | Dénia | Spain | from €80/night | 11 nights | Permanent |
 
 Source: https://colivingdb.com/coliving/beach/

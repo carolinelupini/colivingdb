@@ -1,6 +1,6 @@
 # Coliving in Liddes, Switzerland
 
-> 4 colivings in Liddes, Switzerland, prices from €500 to €935 per month – last updated September 22, 2026.
+> 4 colivings in Liddes, Switzerland, prices from €500 to €935 per month – last updated September 24, 2026.
 
 ## All colivings
 

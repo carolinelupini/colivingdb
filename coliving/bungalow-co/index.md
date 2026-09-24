@@ -1,6 +1,6 @@
 # Bungalow Co
 
-> Coliving in Sydney, Australia. Last updated September 22, 2026.
+> Coliving in Sydney, Australia. Last updated September 24, 2026.
 
 - **Location:** Sydney, Australia
 - **Type:** Permanent coliving

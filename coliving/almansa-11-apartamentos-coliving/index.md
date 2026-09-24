@@ -1,6 +1,6 @@
 # ALMANSA 11 APARTAMENTOS COLIVING
 
-> Coliving in Sevilla, Spain. Last updated September 22, 2026.
+> Coliving in Sevilla, Spain. Last updated September 24, 2026.
 
 - **Location:** Sevilla, Spain
 - **Type:** Permanent coliving

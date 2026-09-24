@@ -1,6 +1,6 @@
 # Les Briques
 
-> Coliving in Lion-sur-Mer, France. Last updated September 22, 2026.
+> Coliving in Lion-sur-Mer, France. Last updated September 24, 2026.
 
 - **Location:** Lion-sur-Mer, France
 - **Type:** Permanent coliving
@@ -11,11 +11,12 @@
 - **Dorm available:** Yes
 - **Vibe:** Cozy, creative farmhouse retreat to relax, work, and create
 - **Minimum stay:** 6 nights
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** beach, rural, coworking, community
 - **Nearest airports:** Caen Carpiquet airport (CFR) ~17 km; Charles de Gaulle International Airport (CDG) ~211 km; Deauville Normandie airport (DOL) ~35 km
-- **Website:** https://lesbriques.co/en/
+- **Website:** https://www.mapmelon.com/colivings/les-briques?ref=colivingdb
 - **Rating:** 4.9 from 111 Google reviews
 
 ## Rates

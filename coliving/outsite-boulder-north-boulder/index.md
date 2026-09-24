@@ -1,6 +1,6 @@
 # Outsite Boulder - North Boulder
 
-> Coliving in Boulder, United States. Last updated September 22, 2026.
+> Coliving in Boulder, United States. Last updated September 24, 2026.
 
 - **Location:** Boulder, United States
 - **Type:** Permanent coliving

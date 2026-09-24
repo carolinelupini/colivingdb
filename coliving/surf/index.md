@@ -1,6 +1,6 @@
 # Surf colivings
 
-> 102 colivings near a surf break in 19 countries. Updated September 22, 2026.
+> 101 colivings near a surf break in 19 countries. Updated September 24, 2026.
 
 | Coliving | City | Country | Price from | Min stay | Type |
 |---|---|---|---|---|---|
@@ -98,7 +98,6 @@
 | [WOT Lodge Soul](/coliving/wot-lodge-soul/index.md) | Ericeira | Portugal | from €451/wk | 30 nights | Permanent |
 | [WOT Ocean Soul](/coliving/wot-ocean-soul/index.md) | Praia das Maçãs (Sintra) | Portugal | On request | — | Permanent |
 | [WOT Peniche Social](/coliving/wot-peniche-social/index.md) | Peniche | Portugal | On request | 30 nights | Permanent |
-| [Wild Souls Coliving](/coliving/wild-souls-coliving/index.md) | Ericeira | Portugal | On request | — | Permanent |
 | [CoNomad](/coliving/conomad/index.md) | Corralejo | Spain | On request | 30 nights | Permanent |
 | [La Meca Coliving](/coliving/la-meca-coliving/index.md) | Los Caños de Meca | Spain | On request | — | Permanent |
 | [The Cocotera Hostel & Coworking](/coliving/the-cocotera-hostel-and-coworking/index.md) | Tarifa | Spain | from €15/night | — | Permanent |

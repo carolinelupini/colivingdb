@@ -1,6 +1,6 @@
 # Italia Nomad Fest 2027
 
-> Nomad festival in Palermo, Italy. Last updated September 22, 2026.
+> Nomad festival in Palermo, Italy. Last updated September 24, 2026.
 
 - **Location:** Palermo, Italy
 - **Type:** Nomad festival / dated event — accommodation not included

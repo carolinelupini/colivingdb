@@ -1,6 +1,6 @@
 # Coco Surfhouse
 
-> Coliving in Corralejo, Fuerteventura, Spain. Last updated September 22, 2026.
+> Coliving in Corralejo, Fuerteventura, Spain. Last updated September 24, 2026.
 
 - **Location:** Corralejo, Fuerteventura, Spain
 - **Type:** Permanent coliving

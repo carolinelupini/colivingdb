@@ -1,6 +1,6 @@
 # Coliving in Thailand
 
-> 22 colivings in Thailand, prices from €249 to €1,427 per month – last updated September 22, 2026.
+> 22 colivings in Thailand, prices from €249 to €1,427 per month – last updated September 24, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Nomadbase Tarifa 2027
 
-> Nomad festival in Tarifa, Spain. Last updated September 22, 2026.
+> Nomad festival in Tarifa, Spain. Last updated September 24, 2026.
 
 - **Location:** Tarifa, Spain
 - **Type:** Nomad festival / dated event — accommodation not included

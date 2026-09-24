@@ -1,6 +1,6 @@
 # Outsite Oaxaca City
 
-> Coliving in Oaxaca, Mexico. Last updated September 22, 2026.
+> Coliving in Oaxaca, Mexico. Last updated September 24, 2026.
 
 - **Location:** Oaxaca, Mexico
 - **Type:** Permanent coliving

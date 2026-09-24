@@ -1,6 +1,6 @@
 # Boundless Life — Sintra
 
-> Coliving in Sintra, Portugal. Last updated September 22, 2026.
+> Coliving in Sintra, Portugal. Last updated September 24, 2026.
 
 - **Location:** Sintra, Portugal
 - **Type:** Pop-up / dated edition

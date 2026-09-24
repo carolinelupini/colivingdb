@@ -1,6 +1,6 @@
 # Blue Paradise Coliving
 
-> Coliving in Santa Cruz de Tenerife, Spain. Last updated September 22, 2026.
+> Coliving in Santa Cruz de Tenerife, Spain. Last updated September 24, 2026.
 
 - **Location:** Santa Cruz de Tenerife, Spain
 - **Type:** Permanent coliving
@@ -11,11 +11,12 @@
 - **Dorm available:** No
 - **Vibe:** Shared-community coliving in Tenerife built around cooking together, sharing stories, and weekend island trips organized by the host.
 - **Minimum stay:** 30 nights
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** island, city, coworking, community, surf
 - **Nearest airports:** Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~9 km; Tenerife Sur Airport (TFS) ~57 km; Gran Canaria Airport (LPA) ~104 km
-- **Website:** https://blueparadisecoliving.com/
+- **Website:** https://www.mapmelon.com/colivings/blue-paradise-coliving-santa-cruz-de-tenerife?ref=colivingdb
 - **Rating:** 4.6 from 30 Google reviews
 
 ## Rates

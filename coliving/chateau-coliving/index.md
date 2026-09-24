@@ -1,6 +1,6 @@
 # Chateau Coliving
 
-> Coliving in Picauville (Normandy), France. Last updated September 22, 2026.
+> Coliving in Picauville (Normandy), France. Last updated September 24, 2026.
 
 - **Location:** Picauville (Normandy), France
 - **Type:** Permanent coliving

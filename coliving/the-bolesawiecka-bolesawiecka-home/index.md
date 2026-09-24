@@ -1,6 +1,6 @@
 # The Bolesławiecka (Bolesławiecka Home)
 
-> Coliving in Wrocław, Poland. Last updated September 22, 2026.
+> Coliving in Wrocław, Poland. Last updated September 24, 2026.
 
 - **Location:** Wrocław, Poland
 - **Type:** Permanent coliving

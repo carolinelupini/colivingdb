@@ -1,6 +1,6 @@
 # Cummari Coliving
 
-> Coliving in Riposto, Sicily, Italy. Last updated September 22, 2026.
+> Coliving in Riposto, Sicily, Italy. Last updated September 24, 2026.
 
 - **Location:** Riposto, Sicily, Italy
 - **Type:** Permanent coliving

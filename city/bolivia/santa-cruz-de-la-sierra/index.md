@@ -1,6 +1,6 @@
 # Coliving in Santa Cruz de la Sierra, Bolivia
 
-> 1 colivings in Santa Cruz de la Sierra, Bolivia – last updated September 22, 2026.
+> 1 colivings in Santa Cruz de la Sierra, Bolivia – last updated September 24, 2026.
 
 ## All colivings
 

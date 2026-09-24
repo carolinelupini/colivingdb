@@ -1,6 +1,6 @@
 # Circles House | Coliving & Coworking
 
-> Coliving in Barcelona, Spain. Last updated September 22, 2026.
+> Coliving in Barcelona, Spain. Last updated September 24, 2026.
 
 - **Location:** Barcelona, Spain
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # Arab Nomad Fest: Morocco 2026
 
-> Nomad festival in Taghazout, Morocco. Last updated September 22, 2026.
+> Nomad festival in Taghazout, Morocco. Last updated September 24, 2026.
 
 - **Location:** Taghazout, Morocco
 - **Type:** Nomad festival / dated event — accommodation not included

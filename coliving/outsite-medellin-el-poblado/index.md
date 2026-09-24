@@ -1,6 +1,6 @@
 # Outsite Medellin - El Poblado
 
-> Coliving in Medellin, Colombia. Last updated September 22, 2026.
+> Coliving in Medellin, Colombia. Last updated September 24, 2026.
 
 - **Location:** Medellin, Colombia
 - **Type:** Permanent coliving

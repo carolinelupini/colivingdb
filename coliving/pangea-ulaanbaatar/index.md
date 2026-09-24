@@ -1,6 +1,6 @@
 # Pangea — Ulaanbaatar
 
-> Coworking chapter in Ulaanbaatar, Mongolia. Last updated September 22, 2026.
+> Coworking chapter in Ulaanbaatar, Mongolia. Last updated September 24, 2026.
 
 - **Location:** Ulaanbaatar, Mongolia
 - **Type:** Pop-up coworking chapter — accommodation not included

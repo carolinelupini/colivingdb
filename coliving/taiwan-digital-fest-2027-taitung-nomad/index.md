@@ -1,6 +1,6 @@
 # Taiwan Digital Fest 2027 — Taitung Nomad
 
-> Nomad festival in Taitung City, Taiwan. Last updated September 22, 2026.
+> Nomad festival in Taitung City, Taiwan. Last updated September 24, 2026.
 
 - **Location:** Taitung City, Taiwan
 - **Type:** Nomad festival / dated event — accommodation not included

@@ -1,6 +1,6 @@
 # Pangea — Santa Cruz de la Sierra
 
-> Coworking chapter in Santa Cruz de la Sierra, Bolivia. Last updated September 22, 2026.
+> Coworking chapter in Santa Cruz de la Sierra, Bolivia. Last updated September 24, 2026.
 
 - **Location:** Santa Cruz de la Sierra, Bolivia
 - **Type:** Pop-up coworking chapter — accommodation not included

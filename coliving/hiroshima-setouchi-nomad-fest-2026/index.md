@@ -1,6 +1,6 @@
 # Hiroshima Setouchi Nomad Fest 2026
 
-> Nomad festival in Hiroshima, Japan. Last updated September 22, 2026.
+> Nomad festival in Hiroshima, Japan. Last updated September 24, 2026.
 
 - **Location:** Hiroshima, Japan
 - **Type:** Nomad festival / dated event — accommodation not included

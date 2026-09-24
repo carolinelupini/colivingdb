@@ -1,6 +1,6 @@
 # Amplitude Coliving
 
-> Coliving in Puerto Escondido (La Punta), Mexico. Last updated September 22, 2026.
+> Coliving in Puerto Escondido (La Punta), Mexico. Last updated September 24, 2026.
 
 - **Location:** Puerto Escondido (La Punta), Mexico
 - **Type:** Permanent coliving

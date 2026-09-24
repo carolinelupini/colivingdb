@@ -1,6 +1,6 @@
 # Coliving in France
 
-> 15 colivings in France, prices from €370 to €1,200 per month – last updated September 22, 2026.
+> 16 colivings in France, prices from €370 to €1,200 per month – last updated September 24, 2026.
 
 ## All colivings
 
@@ -21,6 +21,7 @@
 | Outsite Paris (Zoku) | Paris | On request | 4.6 (906) | private, shared | 2 nights | Permanent |
 | Pyren'Escape | Guchen (Saubissan), Pyrenees | On request | 4.9 (167) | private, shared, studio, apartment | 14 nights | Permanent |
 | The Journey of a Dream · Enchanted Coliving | Charente-Maritime | On request | 5.0 (18) | private | — | Permanent |
+| Aulus Coliving | Aulus-les-Bains | from €30/night | — | private, shared | — | Permanent |
 
 ## Price distribution
 

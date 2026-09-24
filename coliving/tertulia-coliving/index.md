@@ -1,6 +1,6 @@
 # Tertulia Coliving
 
-> Coliving in Vicchio (Mugello, Florence), Italy. Last updated September 22, 2026.
+> Coliving in Vicchio (Mugello, Florence), Italy. Last updated September 24, 2026.
 
 - **Location:** Vicchio (Mugello, Florence), Italy
 - **Type:** Permanent coliving
@@ -10,11 +10,12 @@
 - **Room types:** private, shared
 - **Dorm available:** Yes
 - **Minimum stay:** 14 nights
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, coworking, community, eco, mountain
 - **Nearest airports:** Florence Airport, Peretola (FLR) ~29 km; Rome–Fiumicino Leonardo da Vinci International Airport (FCO) ~245 km; Forlì-Luigi Ridolfi International Airport (FRL) ~53 km
-- **Website:** https://tertulia.farm/
+- **Website:** https://www.mapmelon.com/colivings/tertulia-forest-coliving?ref=colivingdb
 - **Rating:** 4.8 from 86 Google reviews
 
 ## About

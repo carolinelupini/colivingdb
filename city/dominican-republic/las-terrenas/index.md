@@ -1,6 +1,6 @@
 # Coliving in Las Terrenas, Dominican Republic
 
-> 2 colivings in Las Terrenas, Dominican Republic, prices from €880 to €1,467 per month – last updated September 22, 2026.
+> 2 colivings in Las Terrenas, Dominican Republic, prices from €880 to €1,467 per month – last updated September 24, 2026.
 
 ## All colivings
 

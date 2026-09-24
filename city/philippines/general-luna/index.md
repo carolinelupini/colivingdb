@@ -1,6 +1,6 @@
 # Coliving in General Luna, Philippines
 
-> 1 colivings in General Luna, Philippines – last updated September 22, 2026.
+> 1 colivings in General Luna, Philippines – last updated September 24, 2026.
 
 ## All colivings
 

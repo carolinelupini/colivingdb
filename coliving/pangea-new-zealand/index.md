@@ -1,6 +1,6 @@
 # Pangea — New Zealand
 
-> Coworking chapter in New Zealand (hub city not yet announced), New Zealand. Last updated September 22, 2026.
+> Coworking chapter in New Zealand (hub city not yet announced), New Zealand. Last updated September 24, 2026.
 
 - **Location:** New Zealand (hub city not yet announced), New Zealand
 - **Type:** Pop-up coworking chapter — accommodation not included

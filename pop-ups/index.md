@@ -1,6 +1,6 @@
 # Pop-up colivings by month
 
-> 93 pop-up colivings (group trips, retreats and seasonal houses that run for a few weeks or months), grouped by the month they start, plus 10 coworking chapters where you book your own bed. Updated September 22, 2026.
+> 94 pop-up colivings (group trips, retreats and seasonal houses that run for a few weeks or months), grouped by the month they start, plus 10 coworking chapters where you book your own bed. Updated September 24, 2026.
 
 ## Running now (9)
 
@@ -169,11 +169,12 @@
 |---|---|---|---|---|---|
 | [AfricaNomads — Addis Ababa (Dec 2027)](/coliving/africanomads-addis-ababa-dec-2027/index.md) | Addis Ababa, Ethiopia | Dec 27, 2027 - Ongoing | from $440/wk | private | — |
 
-## Seasonal houses (11)
+## Seasonal houses (12)
 
 | Pop-up | Where | Dates | Price from | Rooms | Min stay |
 |---|---|---|---|---|---|
 | [Ante Starčevića Home](/coliving/ante-starcevica-home/index.md) | Pakoštane, Croatia | winter season | from $743/mo | private | 30 nights |
+| [Aperanti Agrotourism](/coliving/aperanti-agrotourism/index.md) | Pera Orinis, Cyprus | Autumn/winter season 2026–27 | from €43/night | private | 15 nights |
 | [Nomadico Anglet](/coliving/nomadico-anglet/index.md) | Anglet, France | Sept–Dec & Mar–Jun | from €370/mo | private, shared | — |
 | [Nomadico Coliving Bansko](/coliving/nomadico-coliving-bansko/index.md) | Bansko, Bulgaria | June–July | from €638/mo | private, shared | 7 nights |
 | [Nomadico Coliving Ericeira](/coliving/nomadico-coliving-ericeira/index.md) | Ericeira, Portugal | Nov–Dec | from €542/mo | private, shared | 7 nights |

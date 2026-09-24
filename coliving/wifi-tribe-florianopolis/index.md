@@ -1,6 +1,6 @@
 # WiFi Tribe — Florianópolis
 
-> Coliving in Florianópolis, Brazil. Last updated September 22, 2026.
+> Coliving in Florianópolis, Brazil. Last updated September 24, 2026.
 
 - **Location:** Florianópolis, Brazil
 - **Type:** Pop-up / dated edition

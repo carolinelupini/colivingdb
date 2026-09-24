@@ -1,6 +1,6 @@
 # La Toza Coworking & Coliving
 
-> Coliving in Cabrero, Spain. Last updated September 22, 2026.
+> Coliving in Cabrero, Spain. Last updated September 24, 2026.
 
 - **Location:** Cabrero, Spain
 - **Type:** Permanent coliving

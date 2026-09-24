@@ -1,6 +1,6 @@
 # Coliving Frilingue
 
-> Coliving in Liddes, Switzerland. Last updated September 22, 2026.
+> Coliving in Liddes, Switzerland. Last updated September 24, 2026.
 
 - **Location:** Liddes, Switzerland
 - **Type:** Permanent coliving
@@ -11,12 +11,13 @@
 - **Dorm available:** Yes
 - **Vibe:** Community of like-minded people working and adventuring together in a mountain setting
 - **Minimum stay:** —
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Elevation:** 1,358 m
 - **Tags:** mountain, ski, rural, community, coworking, wellness
 - **Nearest airports:** Annecy Meythet airport (NCY) ~84 km; Zürich Airport (ZRH) ~193 km; Geneva International Airport (GVA) ~87 km
-- **Website:** https://coliving.frilingue.ch
+- **Website:** https://www.mapmelon.com/colivings/coliving-frilingue-swiss-alps?ref=colivingdb
 - **Rating:** 5.0 from 33 Google reviews
 
 ## Rates

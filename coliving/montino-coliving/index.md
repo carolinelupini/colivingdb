@@ -1,6 +1,6 @@
 # Montino Coliving
 
-> Coliving in Oggebbio, Lake Maggiore, Italy. Last updated September 22, 2026.
+> Coliving in Oggebbio, Lake Maggiore, Italy. Last updated September 24, 2026.
 
 - **Location:** Oggebbio, Lake Maggiore, Italy
 - **Type:** Permanent coliving
@@ -11,11 +11,12 @@
 - **Dorm available:** Yes
 - **Vibe:** slow living, meaningful connection, focused work in nature
 - **Minimum stay:** 7 nights
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** mountain, rural, coworking, community, wellness
 - **Nearest airports:** Lugano Airport (LUG) ~20 km; Milan Malpensa International Airport (MXP) ~42 km; Milano Linate Airport (LIN) ~79 km
-- **Website:** https://www.montino.life/
+- **Website:** https://www.mapmelon.com/colivings/montino-coliving?ref=colivingdb
 - **Rating:** 4.3 from 146 Google reviews
 
 ## Rates

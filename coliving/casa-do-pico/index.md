@@ -1,6 +1,6 @@
 # Casa do Pico
 
-> Coliving in Funchal, Madeira, Portugal. Last updated September 22, 2026.
+> Coliving in Funchal, Madeira, Portugal. Last updated September 24, 2026.
 
 - **Location:** Funchal, Madeira, Portugal
 - **Type:** Permanent coliving
@@ -11,11 +11,12 @@
 - **Dorm available:** No
 - **Vibe:** Community-focused coliving in Funchal, Madeira with a busy calendar of 800+ yearly events (hikes, workshops, community lunches) blending remote work with island life.
 - **Minimum stay:** 7 nights
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** island, city, coworking, community, eco
 - **Nearest airports:** Cristiano Ronaldo International Airport (FNC) ~14 km; Porto Santo Airport (PXO) ~70 km
-- **Website:** https://madeiraremote.com/casa-do-pico
+- **Website:** https://www.mapmelon.com/colivings/casa-do-pico-by-madeira-remote?ref=colivingdb
 - **Rating:** 5.0 from 39 Google reviews
 
 ## Rates

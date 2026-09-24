@@ -1,6 +1,6 @@
 # KoHub
 
-> Coliving in Ko Lanta, Thailand. Last updated September 22, 2026.
+> Coliving in Ko Lanta, Thailand. Last updated September 24, 2026.
 
 - **Location:** Ko Lanta, Thailand
 - **Type:** Permanent coliving

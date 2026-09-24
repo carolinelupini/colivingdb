@@ -1,6 +1,6 @@
 # Digital nomad festivals 2026–2027
 
-> 23 nomad festivals, sorted by date. 19 of them sell a ticket only, so you book your own place to stay; the last column counts the colivings on colivingDB within 40 km. Updated September 22, 2026.
+> 23 nomad festivals, sorted by date. 19 of them sell a ticket only, so you book your own place to stay; the last column counts the colivings on colivingDB within 40 km. Updated September 24, 2026.
 
 | Festival | Where | Dates | Price from | Accommodation | Colivings within 40 km |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Nomad Summit Chiang Mai 2027](/coliving/nomad-summit-chiang-mai-2027/index.md) | Chiang Mai, Thailand | Jan 15 - 24, 2027 | from €249/ticket | Not included | 11 |
 | [Nomad Week Cape Town 2027](/coliving/nomad-week-cape-town-2027/index.md) | Cape Town, South Africa | Feb 17 - 26, 2027 | from $299/ticket | Not included | 16 |
 | [Italia Nomad Fest 2027](/coliving/italia-nomad-fest-2027/index.md) | Palermo, Italy | Mar 6 - 14, 2027 | On request | Not included | 2 |
-| [Da Nang Nomad Fest 2027](/coliving/da-nang-nomad-fest-2027/index.md) | Da Nang, Vietnam | Mar 19 - 28, 2027 | On request | Not included | 6 |
+| [Da Nang Nomad Fest 2027](/coliving/da-nang-nomad-fest-2027/index.md) | Da Nang, Vietnam | Mar 19 - 28, 2027 | On request | Not included | 7 |
 | [Dynamite Circle — DCMEX 2027](/coliving/dynamite-circle-dcmex-2027/index.md) | Mexico City, Mexico | Apr 6 - 9, 2027 | from $1,099/ticket | Not included | 9 |
 | [Digital Nomad Summit Santo Domingo 2027](/coliving/digital-nomad-summit-santo-domingo-2027/index.md) | Santo Domingo, Dominican Republic | Apr 8 - 9, 2027 | On request | Not included | 0 |
 | [Alicante Nomad Summit 2027](/coliving/alicante-nomad-summit-2027/index.md) | Alicante, Spain | Apr 19 - 25, 2027 | On request | Not included | 1 |

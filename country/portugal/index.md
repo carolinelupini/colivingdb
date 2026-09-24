@@ -1,6 +1,6 @@
 # Coliving in Portugal
 
-> 60 colivings in Portugal, prices from €300 to €2,160 per month – last updated September 22, 2026.
+> 59 colivings in Portugal, prices from €300 to €2,160 per month – last updated September 24, 2026.
 
 ## All colivings
 
@@ -63,7 +63,6 @@
 | WOT Lodge Soul | Ericeira | from €451/wk | 4.0 (137) | private, dorm | 30 nights | Permanent |
 | WOT Ocean Soul | Praia das Maçãs (Sintra) | On request | 4.0 (451) | private | — | Permanent |
 | WOT Peniche Social | Peniche | On request | 4.5 (369) | private, dorm | 30 nights | Permanent |
-| Wild Souls Coliving | Ericeira | On request | 5.0 (31) | private | — | Permanent |
 | BOND Coliving | Funchal, Madeira | On request | 5.0 (12) | private | 30 nights | Permanent |
 | Founder Island Fest 2026 | Madeira | from €1,495/event | — | private, shared | — | Festival |
 

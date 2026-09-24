@@ -1,6 +1,6 @@
 # Nomadico Coliving Hiriketiya
 
-> Coliving in Hiriketiya (Nilwella), Sri Lanka. Last updated September 22, 2026.
+> Coliving in Hiriketiya (Nilwella), Sri Lanka. Last updated September 24, 2026.
 
 - **Location:** Hiriketiya (Nilwella), Sri Lanka
 - **Type:** Permanent coliving

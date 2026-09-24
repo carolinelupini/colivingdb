@@ -1,6 +1,6 @@
 # Coliving in Bocas del Toro, Panama
 
-> 2 colivings in Bocas del Toro, Panama, prices from €1,447 to €1,553 per month – last updated September 22, 2026.
+> 2 colivings in Bocas del Toro, Panama, prices from €1,447 to €1,553 per month – last updated September 24, 2026.
 
 ## All colivings
 

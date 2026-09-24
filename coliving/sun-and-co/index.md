@@ -1,6 +1,6 @@
 # Sun and Co.
 
-> Coliving in Jávea, Spain. Last updated September 22, 2026.
+> Coliving in Jávea, Spain. Last updated September 24, 2026.
 
 - **Location:** Jávea, Spain
 - **Type:** Permanent coliving

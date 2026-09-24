@@ -1,6 +1,6 @@
 # Noma Collective — Sao Vicente
 
-> Coliving in Sao Vicente, Cape Verde. Last updated September 22, 2026.
+> Coliving in Sao Vicente, Cape Verde. Last updated September 24, 2026.
 
 - **Location:** Sao Vicente, Cape Verde
 - **Type:** Pop-up / dated edition

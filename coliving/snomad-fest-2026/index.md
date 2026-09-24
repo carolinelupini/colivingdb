@@ -1,6 +1,6 @@
 # Snomad Fest 2026
 
-> Nomad festival in Liddes, Switzerland. Last updated September 22, 2026.
+> Nomad festival in Liddes, Switzerland. Last updated September 24, 2026.
 
 - **Location:** Liddes, Switzerland
 - **Type:** Nomad festival / dated event — accommodation not included

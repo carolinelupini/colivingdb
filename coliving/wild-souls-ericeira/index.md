@@ -1,6 +1,6 @@
 # Wild Souls Ericeira
 
-> Coliving in Ericeira, Portugal. Last updated September 22, 2026.
+> Coliving in Ericeira, Portugal. Last updated September 24, 2026.
 
 - **Location:** Ericeira, Portugal
 - **Type:** Permanent coliving
@@ -16,7 +16,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** surf, beach, coworking, community
-- **Nearest airports:** Cascais Airport (CAT) ~27 km; Lisbon Humberto Delgado Airport (LIS) ~32 km
+- **Nearest airports:** Cascais Airport (CAT) ~33 km; Lisbon Humberto Delgado Airport (LIS) ~36 km
 - **Website:** https://www.mapmelon.com/colivings/wild-souls-ericeira?ref=colivingdb
 - **Rating:** 5.0 from 31 Google reviews
 

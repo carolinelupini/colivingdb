@@ -1,12 +1,12 @@
 # colivingDB
 
-> A free, curated directory of 636 colivings worldwide — one map, native-currency pricing, no login and no email wall. Covers permanent colivings, dated pop-up editions and nomad festivals across 86 countries. Last updated September 22, 2026.
+> A free, curated directory of 640 colivings worldwide — one map, native-currency pricing, no login and no email wall. Covers permanent colivings, dated pop-up editions and nomad festivals across 86 countries. Last updated September 24, 2026.
 
 colivingDB is built and maintained by Caroline Lupini, a full-time digital nomad since 2014 who has lived and worked across more than a hundred countries. Listings are nomad-style colivings (shared living plus community, usually with coworking), plus a small number of nomad festivals and community chapters, each tagged as such; those without accommodation say so. Student housing and urban rent-by-the-room operators are left out. Every listing links to the operator's own site. Dead links are audited and removed.
 
 Key facts:
-- 636 colivings, 86 countries
-- 126 dated editions (traveling programs, cruises, camps, and nomad festivals)
+- 640 colivings, 86 countries
+- 127 dated editions (traveling programs, cruises, camps, and nomad festivals)
 - Prices from €46 to €6,892 per month
 - Filters: country, city, room type, minimum stay, price, pop-up month, currency
 
@@ -14,20 +14,20 @@ Key facts:
 - [All countries](/llms-countries.md): every country with counts and lowest price
 - [All colivings](/llms-colivings.md): the full listing index
 - [Nomad festivals (23)](/festivals/index.md)
-- [Pop-ups by month (93)](/pop-ups/index.md)
+- [Pop-ups by month (94)](/pop-ups/index.md)
 - [WiFi Tribe chapters (26)](/brand/wifi-tribe/index.md)
 - [AfricaNomads chapters (19)](/brand/africanomads/index.md)
 - [Noma Collective editions (17)](/brand/noma-collective/index.md)
 - [Pangea coworking chapters (10)](/brand/pangea/index.md)
 - [Boundless Life locations (6)](/brand/boundless-life/index.md)
-- [Beach colivings (169)](/coliving/beach/index.md)
-- [Surf colivings (102)](/coliving/surf/index.md)
+- [Beach colivings (170)](/coliving/beach/index.md)
+- [Surf colivings (101)](/coliving/surf/index.md)
 - [Island colivings (78)](/coliving/island/index.md)
-- [Mountain colivings (71)](/coliving/mountain/index.md)
+- [Mountain colivings (72)](/coliving/mountain/index.md)
 
 ## Top destinations
-- [Coliving in Spain](/country/spain/index.md): 91 colivings
-- [Coliving in Portugal](/country/portugal/index.md): 60 colivings
+- [Coliving in Spain](/country/spain/index.md): 92 colivings
+- [Coliving in Portugal](/country/portugal/index.md): 59 colivings
 - [Coliving in Italy](/country/italy/index.md): 29 colivings
 - [Coliving in Mexico](/country/mexico/index.md): 29 colivings
 - [Coliving in South Africa](/country/south-africa/index.md): 25 colivings
@@ -35,17 +35,17 @@ Key facts:
 - [Coliving in United States](/country/united-states/index.md): 22 colivings
 - [Coliving in Indonesia](/country/indonesia/index.md): 20 colivings
 - [Coliving in Colombia](/country/colombia/index.md): 19 colivings
-- [Coliving in France](/country/france/index.md): 15 colivings
+- [Coliving in France](/country/france/index.md): 16 colivings
 - [Coliving in Sri Lanka](/country/sri-lanka/index.md): 14 colivings
+- [Coliving in Japan](/country/japan/index.md): 13 colivings
 - [Coliving in Switzerland](/country/switzerland/index.md): 13 colivings
 - [Coliving in Brazil](/country/brazil/index.md): 13 colivings
-- [Coliving in Japan](/country/japan/index.md): 12 colivings
 - [Coliving in Bulgaria](/country/bulgaria/index.md): 11 colivings
 - [Coliving in Greece](/country/greece/index.md): 11 colivings
 - [Coliving in Costa Rica](/country/costa-rica/index.md): 11 colivings
+- [Coliving in Vietnam](/country/vietnam/index.md): 10 colivings
 - [Coliving in Morocco](/country/morocco/index.md): 9 colivings
 - [Coliving in India](/country/india/index.md): 9 colivings
-- [Coliving in Vietnam](/country/vietnam/index.md): 9 colivings
 
 ## Notes
 - Every page has a markdown twin: append `index.md` to any page URL.

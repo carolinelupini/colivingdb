@@ -1,6 +1,6 @@
 # Pranik Living
 
-> Coliving in Medellín (Laureles), Colombia. Last updated September 22, 2026.
+> Coliving in Medellín (Laureles), Colombia. Last updated September 24, 2026.
 
 - **Location:** Medellín (Laureles), Colombia
 - **Type:** Permanent coliving
@@ -11,12 +11,13 @@
 - **Dorm available:** No
 - **Vibe:** Designed for deep rest and focused work, conscious community living
 - **Minimum stay:** 3 nights
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Latin America
 - **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Elevation:** 1,486 m
 - **Tags:** city, coworking, community, wellness
 - **Nearest airports:** Enrique Olaya Herrera Airport (EOH) ~3 km; El Dorado International Airport (BOG) ~235 km; Jose Maria Córdova International Airport (MDE) ~21 km
-- **Website:** https://pranikliving.com/
+- **Website:** https://www.mapmelon.com/colivings/pranik-living?ref=colivingdb
 - **Rating:** 4.9 from 62 Google reviews
 
 ## Rates

@@ -1,6 +1,6 @@
 # Burgas Coliving
 
-> Coliving in Burgas, Bulgaria. Last updated September 22, 2026.
+> Coliving in Burgas, Bulgaria. Last updated September 24, 2026.
 
 - **Location:** Burgas, Bulgaria
 - **Type:** Permanent coliving
@@ -10,11 +10,12 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Europe
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** beach, city, coworking, community
 - **Nearest airports:** Burgas Airport (BOJ) ~9 km; Sofia Airport (SOF) ~332 km; Varna Airport (VAR) ~87 km
-- **Website:** https://burgascoliving.com/
+- **Website:** https://www.mapmelon.com/colivings/burgas-coliving?ref=colivingdb
 - **Rating:** 4.9 from 48 Google reviews
 
 ## Rates

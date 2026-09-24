@@ -1,6 +1,6 @@
 # Coconat
 
-> Coliving in Bad Belzig (Klein Glien), Germany. Last updated September 22, 2026.
+> Coliving in Bad Belzig (Klein Glien), Germany. Last updated September 24, 2026.
 
 - **Location:** Bad Belzig (Klein Glien), Germany
 - **Type:** Permanent coliving

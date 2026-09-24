@@ -1,6 +1,6 @@
 # Coliving in Ericeira, Portugal
 
-> 11 colivings in Ericeira, Portugal, prices from €542 to €1,800 per month – last updated September 22, 2026.
+> 10 colivings in Ericeira, Portugal, prices from €542 to €1,800 per month – last updated September 24, 2026.
 
 ## All colivings
 
@@ -16,7 +16,6 @@
 | Sea Urchin SurfHouse | Ericeira | On request | 4.8 (90) | shared, private | — | Permanent |
 | Villa dos Irmaos (Coworksurf) | Ericeira | On request | — | private, dorm | — | Permanent |
 | WOT Lodge Soul | Ericeira | from €451/wk | 4.0 (137) | private, dorm | 30 nights | Permanent |
-| Wild Souls Coliving | Ericeira | On request | 5.0 (31) | private | — | Permanent |
 
 ## Price distribution
 

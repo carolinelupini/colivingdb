@@ -1,6 +1,6 @@
 # Coliving in Vietnam
 
-> 9 colivings in Vietnam, prices from €283 to €834 per month – last updated September 22, 2026.
+> 10 colivings in Vietnam, prices from €283 to €834 per month – last updated September 24, 2026.
 
 ## All colivings
 
@@ -15,6 +15,7 @@
 | Coworking Danang | Da Nang | from VND 25,000,000/mo | 4.9 (157) | private | 30 nights | Permanent |
 | Noma Collective — Hoi An | Hoi An | from $2,290/event | — | — | — | Pop-up |
 | Da Nang Nomad Fest 2027 | Da Nang | On request | — | — | — | Festival |
+| B'HoiAn Retreat | Hoi An | from €36/night | — | private | 7 nights | Permanent |
 
 ## Price distribution
 

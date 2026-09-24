@@ -1,6 +1,6 @@
 # The Yavor
 
-> Coliving in Bansko, Bulgaria. Last updated September 22, 2026.
+> Coliving in Bansko, Bulgaria. Last updated September 24, 2026.
 
 - **Location:** Bansko, Bulgaria
 - **Type:** Permanent coliving

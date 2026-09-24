@@ -1,6 +1,6 @@
 # Founder Island Fest 2026
 
-> Nomad festival in Madeira, Portugal. Last updated September 22, 2026.
+> Nomad festival in Madeira, Portugal. Last updated September 24, 2026.
 
 - **Location:** Madeira, Portugal
 - **Type:** Nomad festival / dated event

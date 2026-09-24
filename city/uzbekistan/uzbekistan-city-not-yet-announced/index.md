@@ -1,6 +1,6 @@
 # Coliving in Uzbekistan (city not yet announced), Uzbekistan
 
-> 1 colivings in Uzbekistan (city not yet announced), Uzbekistan – last updated September 22, 2026.
+> 1 colivings in Uzbekistan (city not yet announced), Uzbekistan – last updated September 24, 2026.
 
 ## All colivings
 

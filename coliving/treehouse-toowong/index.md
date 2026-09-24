@@ -1,6 +1,6 @@
 # Treehouse Toowong
 
-> Coliving in Brisbane, Australia. Last updated September 22, 2026.
+> Coliving in Brisbane, Australia. Last updated September 24, 2026.
 
 - **Location:** Brisbane, Australia
 - **Type:** Permanent coliving

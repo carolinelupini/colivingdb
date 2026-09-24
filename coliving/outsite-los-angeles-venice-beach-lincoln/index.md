@@ -1,6 +1,6 @@
 # Outsite Los Angeles - Venice Beach Lincoln
 
-> Coliving in Los Angeles, United States. Last updated September 22, 2026.
+> Coliving in Los Angeles, United States. Last updated September 24, 2026.
 
 - **Location:** Los Angeles, United States
 - **Type:** Permanent coliving

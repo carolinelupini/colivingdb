@@ -1,6 +1,6 @@
 # Anceu Coliving
 
-> Coliving in Ponte Caldelas, Galicia, Spain. Last updated September 22, 2026.
+> Coliving in Ponte Caldelas, Galicia, Spain. Last updated September 24, 2026.
 
 - **Location:** Ponte Caldelas, Galicia, Spain
 - **Type:** Permanent coliving
@@ -12,11 +12,12 @@
 - **Wi-Fi (on-site):** 1000 Mbps down <small>· operator-reported</small>
 - **Vibe:** Community, nature and local impact, living in calmness and harmony
 - **Minimum stay:** 15 nights
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, coworking, community, eco, wellness
 - **Nearest airports:** Vigo Airport (VGO) ~25 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~457 km; Santiago-Rosalía de Castro Airport (SCQ) ~55 km
-- **Website:** https://anceu.com/
+- **Website:** https://www.mapmelon.com/colivings/anceu-coliving?ref=colivingdb
 - **Rating:** 4.9 from 76 Google reviews
 
 ## Rates

@@ -1,6 +1,6 @@
 # Coliving in Porto, Portugal
 
-> 1 colivings in Porto, Portugal, prices from €620 to €620 per month – last updated September 22, 2026.
+> 1 colivings in Porto, Portugal, prices from €620 to €620 per month – last updated September 24, 2026.
 
 ## All colivings
 

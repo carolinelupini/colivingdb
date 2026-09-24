@@ -1,6 +1,6 @@
 # Outsite Lisbon - Intendente
 
-> Coliving in Lisbon, Portugal. Last updated September 22, 2026.
+> Coliving in Lisbon, Portugal. Last updated September 24, 2026.
 
 - **Location:** Lisbon, Portugal
 - **Type:** Permanent coliving

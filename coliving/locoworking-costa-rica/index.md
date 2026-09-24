@@ -1,6 +1,6 @@
 # Locoworking Costa Rica
 
-> Coliving in Sámara, Costa Rica. Last updated September 22, 2026.
+> Coliving in Sámara, Costa Rica. Last updated September 24, 2026.
 
 - **Location:** Sámara, Costa Rica
 - **Type:** Permanent coliving

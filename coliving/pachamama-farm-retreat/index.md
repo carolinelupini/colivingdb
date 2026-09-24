@@ -1,6 +1,6 @@
 # Pachamama Farm Retreat
 
-> Coliving in Ukropci (above Kotor Bay), Montenegro. Last updated September 22, 2026.
+> Coliving in Ukropci (above Kotor Bay), Montenegro. Last updated September 24, 2026.
 
 - **Location:** Ukropci (above Kotor Bay), Montenegro
 - **Type:** Permanent coliving
@@ -11,6 +11,7 @@
 - **Dorm available:** No
 - **Vibe:** calm, community-rooted farmstay retreat
 - **Minimum stay:** 14 nights
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, eco, mountain, community, wellness
@@ -20,7 +21,7 @@
 - **Area:** Set in a quiet natural setting above Kotor Bay; nearest beach ~6 km away, with the towns of Kotor, Tivat, and Budva 12–18 km distant for old-town exploring, hiking, padel, and tennis.
 - **Nearest airports:** Tivat Airport (TIV) ~5 km; Podgorica Airport / Podgorica Golubovci Airbase (TGD) ~45 km; Dubrovnik Ruđer Bošković Airport (DBV) ~39 km
 - **Getting there:** Tivat Airport (TIV), the closest to Kotor Bay — approximate, not stated on site.
-- **Website:** https://pachamamaretreat.me/coliving-coworking-farmstay
+- **Website:** https://www.mapmelon.com/colivings/pachamama-farm-retreat?ref=colivingdb
 - **Rating:** 4.8 from 243 Google reviews
 
 ## Rates

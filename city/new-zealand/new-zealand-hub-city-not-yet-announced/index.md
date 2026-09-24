@@ -1,6 +1,6 @@
 # Coliving in New Zealand (hub city not yet announced), New Zealand
 
-> 1 colivings in New Zealand (hub city not yet announced), New Zealand – last updated September 22, 2026.
+> 1 colivings in New Zealand (hub city not yet announced), New Zealand – last updated September 24, 2026.
 
 ## All colivings
 

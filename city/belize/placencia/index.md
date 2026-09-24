@@ -1,6 +1,6 @@
 # Coliving in Placencia, Belize
 
-> 3 colivings in Placencia, Belize – last updated September 22, 2026.
+> 3 colivings in Placencia, Belize – last updated September 24, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Coliving in Torralba de Ribota, Spain
 
-> 1 colivings in Torralba de Ribota, Spain, prices from €600 to €600 per month – last updated September 22, 2026.
+> 1 colivings in Torralba de Ribota, Spain, prices from €600 to €600 per month – last updated September 24, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Hub Feenix
 
-> Coliving in Mjolbolsta (Meltola), Raseborg, Finland. Last updated September 22, 2026.
+> Coliving in Mjolbolsta (Meltola), Raseborg, Finland. Last updated September 24, 2026.
 
 - **Location:** Mjolbolsta (Meltola), Raseborg, Finland
 - **Type:** Permanent coliving
@@ -11,11 +11,12 @@
 - **Dorm available:** No
 - **Vibe:** Creative sanctuary for artists, healers, and nomads in nature
 - **Minimum stay:** 14 nights
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Europe
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, community, coworking, wellness
 - **Nearest airports:** Helsinki Vantaa Airport (HEL) ~84 km; Turku Airport (TKU) ~88 km; Lennart Meri Tallinn Airport (TLL) ~101 km
-- **Website:** https://hubfeenix.fi/
+- **Website:** https://www.mapmelon.com/colivings/hub-feenix?ref=colivingdb
 - **Rating:** 4.5 from 56 Google reviews
 
 ## Rates
