@@ -12,7 +12,9 @@
 - **Minimum stay:** —
 - **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** mountain, rural, community, coworking
+- **Nearest airports:** Pirineus - la Seu d'Urgel Airport (LEU) ~51 km; Toulouse-Blagnac Airport (TLS) ~93 km; Carcassonne Salvaza Airport (CCF) ~92 km
 - **Website:** https://www.mapmelon.com/colivings/aulus-coliving?ref=colivingdb
 
 ## Rates

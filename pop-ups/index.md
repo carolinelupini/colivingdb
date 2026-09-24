@@ -7,7 +7,7 @@
 | Pop-up | Where | Dates | Price from | Rooms | Min stay |
 |---|---|---|---|---|---|
 | [Casa Basilico — Puglia](/coliving/casa-basilico-puglia/index.md) (fully booked) | Puglia, Italy | Aug 29 - Oct 25, 2026 | from €997/mo | — | 14 nights |
-| [AfricaNomads — Addis Ababa](/coliving/africanomads-addis-ababa/index.md) | Addis Ababa, Ethiopia | Aug 30 - Sept 27, 2026 | from $440/wk | private | — |
+| [AfricaNomads — Addis Ababa](/coliving/africanomads-addis-ababa/index.md) (fully booked) | Addis Ababa, Ethiopia | Aug 30 - Sept 27, 2026 | from $440/wk | private | — |
 | [Boundless Life — Andalusia (Malaga area)](/coliving/boundless-life-andalusia-malaga-area/index.md) | Andalusia (Malaga area), Spain | Apr-Jun 2026 / Sept-Nov 2026 / Dec 2026 / Jan-Mar 2027 / Apr-Jun 2027 (plus Summer Camps) | from €2,600/mo | — | — |
 | [WiFi Tribe — Anse Royale](/coliving/wifi-tribe-anse-royale/index.md) (fully booked) | Anse Royale, Seychelles | Sep 11 - Oct 9, 2026 | from $1,990/mo | private, shared | 28 nights |
 | [WiFi Tribe — Bocas del Toro](/coliving/wifi-tribe-bocas-del-toro/index.md) | Bocas del Toro, Panama | Sep 11 - Oct 9, 2026 | from $1,790/mo | private, shared | 28 nights |

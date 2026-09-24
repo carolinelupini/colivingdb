@@ -129,6 +129,7 @@
 | [Not Sorry Coliving](/coliving/not-sorry-coliving/index.md) | near Tullins/Voiron, Isère (French Alps) | France | On request | — | Permanent |
 | [Outsite Bordeaux](/coliving/outsite-bordeaux/index.md) | Bordeaux | France | from €1,000/mo | 2 nights | Permanent |
 | [Outsite Paris (Zoku)](/coliving/outsite-paris-zoku/index.md) | Paris | France | On request | 2 nights | Permanent |
+| [Outsite Paris - Bastille](/coliving/outsite-paris-bastille/index.md) | Paris | France | On request | — | Permanent |
 | [Pyren'Escape](/coliving/pyren-escape/index.md) | Guchen (Saubissan), Pyrenees | France | On request | 14 nights | Permanent |
 | [The Journey of a Dream · Enchanted Coliving](/coliving/the-journey-of-a-dream-enchanted-coliving/index.md) | Charente-Maritime | France | On request | — | Permanent |
 | [Colive & Cowork Gumbrini](/coliving/colive-and-cowork-gumbrini/index.md) | Tskaltubo | Georgia | from $219/mo | — | Permanent |
@@ -221,12 +222,11 @@
 | [Colive Fukuoka — Hoppin Program (Oct 2026)](/coliving/colive-fukuoka-hoppin-program-oct-2026/index.md) | Fukuoka | Japan | from ¥112,800/event | 14 nights | Pop-up |
 | [Hiroshima Setouchi Nomad Fest 2026](/coliving/hiroshima-setouchi-nomad-fest-2026/index.md) | Hiroshima | Japan | from $357/ticket | — | Festival |
 | [Kotori Coworking & Hostel Kotohira](/coliving/kotori-coworking-and-hostel-kotohira/index.md) | Kotohira | Japan | On request | 5 nights | Permanent |
-| [LivingAnywhere Commons田川](/coliving/livinganywhere-commons/index.md) | Fukuoka | Japan | from ¥6,600/night | 1 night | Permanent |
 | [Noma Collective — Osaka](/coliving/noma-collective-osaka/index.md) | Osaka | Japan | from $3,490/event | — | Pop-up |
 | [THE-IF](/coliving/the-if/index.md) | Kyoto | Japan | from €32/night | 31 nights | Permanent |
 | [The Kotohira (Kotohira Residence)](/coliving/the-kotohira-kotohira-residence/index.md) | Kotohira | Japan | from $431/mo | 30 nights | Permanent |
 | [The Miyanosawa (Miyanosawa Home)](/coliving/the-miyanosawa-miyanosawa-home/index.md) | Sapporo | Japan | from $573/mo | 30 nights | Permanent |
-| [The Pier | Goto Nagasaki](/coliving/the-pier-goto-nagasaki/index.md) | Goto (Fukue), Nagasaki | Japan | On request | — | Permanent |
+| [The Pier | Goto Nagasaki](/coliving/the-pier-goto-nagasaki/index.md) | Goto (Fukue), Nagasaki | Japan | from $520/mo | 30 nights | Permanent |
 | [Tokyo Chapter](/coliving/tokyo-chapter/index.md) | Tokyo | Japan | from ¥100,000/mo | 30 nights | Permanent |
 | [AfricaNomads — Lamu Island (Feb 2027)](/coliving/africanomads-lamu-island-feb-2027/index.md) | Lamu Island | Kenya | from $440/wk | — | Pop-up |
 | [AfricaNomads — Lamu Island (Nov 2027)](/coliving/africanomads-lamu-island-nov-2027/index.md) | Lamu Island | Kenya | from $440/wk | — | Pop-up |

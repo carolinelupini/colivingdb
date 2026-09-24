@@ -13,7 +13,9 @@
 - **Minimum stay:** 7 nights
 - **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Asia
+- **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** wellness, community, coworking
+- **Nearest airports:** Da Nang International Airport (DAD) ~25 km; Phu Bai International Airport (HUI) ~91 km
 - **Website:** https://www.mapmelon.com/colivings/b-hoian-retreat-vietnam?ref=colivingdb
 
 ## Rates

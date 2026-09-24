@@ -12,7 +12,9 @@
 - **Minimum stay:** 11 nights
 - **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** beach, community, coworking
+- **Nearest airports:** Alicante-Elche Miguel Hernández Airport (ALC) ~85 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~367 km; Valencia Airport (VLC) ~91 km
 - **Website:** https://www.mapmelon.com/colivings/co-co-coliving-coworking-costablanca?ref=colivingdb
 
 ## Rates

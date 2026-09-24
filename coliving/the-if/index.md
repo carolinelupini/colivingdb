@@ -13,7 +13,9 @@
 - **Minimum stay:** 31 nights
 - **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Asia
+- **Timezone:** GMT+9 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** city, coworking, community
+- **Nearest airports:** Osaka Itami International Airport (ITM) ~38 km; Tokyo Haneda International Airport (HND) ~371 km; Kobe Airport (UKB) ~64 km
 - **Website:** https://www.mapmelon.com/colivings/the-if?ref=colivingdb
 
 ## Rates

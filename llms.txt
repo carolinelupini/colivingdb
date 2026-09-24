@@ -35,11 +35,11 @@ Key facts:
 - [Coliving in United States](/country/united-states/index.md): 22 colivings
 - [Coliving in Indonesia](/country/indonesia/index.md): 20 colivings
 - [Coliving in Colombia](/country/colombia/index.md): 19 colivings
-- [Coliving in France](/country/france/index.md): 16 colivings
+- [Coliving in France](/country/france/index.md): 17 colivings
 - [Coliving in Sri Lanka](/country/sri-lanka/index.md): 14 colivings
-- [Coliving in Japan](/country/japan/index.md): 13 colivings
 - [Coliving in Switzerland](/country/switzerland/index.md): 13 colivings
 - [Coliving in Brazil](/country/brazil/index.md): 13 colivings
+- [Coliving in Japan](/country/japan/index.md): 12 colivings
 - [Coliving in Bulgaria](/country/bulgaria/index.md): 11 colivings
 - [Coliving in Greece](/country/greece/index.md): 11 colivings
 - [Coliving in Costa Rica](/country/costa-rica/index.md): 11 colivings

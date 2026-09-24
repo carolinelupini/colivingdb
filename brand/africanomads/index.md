@@ -4,7 +4,7 @@
 
 | Chapter | Where | Dates | Price from |
 |---|---|---|---|
-| [AfricaNomads — Addis Ababa](/coliving/africanomads-addis-ababa/index.md) | Addis Ababa, Ethiopia | Aug 30 - Sept 27, 2026 | from $440/wk |
+| [AfricaNomads — Addis Ababa](/coliving/africanomads-addis-ababa/index.md) (fully booked) | Addis Ababa, Ethiopia | Aug 30 - Sept 27, 2026 | from $440/wk |
 | [AfricaNomads — Zanzibar (Stone Town, Sep 2026)](/coliving/africanomads-zanzibar-stone-town-sep-2026/index.md) | Zanzibar, Tanzania | Sept 27 - Oct 25, 2026 | from $440/wk |
 | [AfricaNomads — Malawi (Lake Malawi) (Oct 2026)](/coliving/africanomads-malawi-lake-malawi-oct-2026/index.md) | Malawi (Lake Malawi), Malawi | Oct 25 - Nov 22, 2026 | from $440/wk |
 | [AfricaNomads — Nairobi (Nov 2026)](/coliving/africanomads-nairobi-nov-2026/index.md) | Nairobi, Kenya | Nov 22 - Dec 13, 2026 | from $1,760/mo |

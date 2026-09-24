@@ -14,7 +14,9 @@
 - **Minimum stay:** 15 nights
 - **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Europe
+- **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, eco, community
+- **Nearest airports:** Ercan International Airport (ECN) ~27 km; Larnaca International Airport (LCA) ~38 km; Lefkoniko Airport / Geçitkale Air Base (GEC) ~48 km
 - **Website:** https://www.mapmelon.com/colivings/aperanti-agrotourism?ref=colivingdb
 
 ## Rates

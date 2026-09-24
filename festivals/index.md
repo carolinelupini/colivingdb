@@ -4,7 +4,7 @@
 
 | Festival | Where | Dates | Price from | Accommodation | Colivings within 40 km |
 |---|---|---|---|---|---|
-| [Colive Fukuoka 2026](/coliving/colive-fukuoka-2026/index.md) | Fukuoka, Japan | Oct 1 - 10, 2026 | from €449/ticket | Not included | 1 |
+| [Colive Fukuoka 2026](/coliving/colive-fukuoka-2026/index.md) | Fukuoka, Japan | Oct 1 - 10, 2026 | from €449/ticket | Not included | 0 |
 | [Hiroshima Setouchi Nomad Fest 2026](/coliving/hiroshima-setouchi-nomad-fest-2026/index.md) | Hiroshima, Japan | Oct 11 - Nov 1, 2026 | from $357/ticket | Not included | 0 |
 | [Incheon Autumn Workation 2026](/coliving/incheon-autumn-workation-2026/index.md) | Incheon, South Korea | Oct 12 - 26, 2026 | from KRW 400,000/event | Included | 2 |
 | [Nomads in Paradise 2026](/coliving/nomads-in-paradise-2026/index.md) | General Luna, Philippines | Oct 16 - 25, 2026 | from PHP 7,999/ticket | Not included | 3 |

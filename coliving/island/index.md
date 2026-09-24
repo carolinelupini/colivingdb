@@ -9,6 +9,7 @@
 | [Novovento](/coliving/novovento/index.md) | Ginetes, São Miguel, Azores | Portugal | from €300/mo | 7 nights | Permanent |
 | [Nomadico Coliving Florianópolis](/coliving/nomadico-coliving-florianopolis/index.md) | Florianópolis | Brazil | from $380/mo | 7 nights | Pop-up |
 | [Manoel Pedro da Silveira Home](/coliving/manoel-pedro-da-silveira-home/index.md) | Florianópolis | Brazil | from $465/mo | 30 nights | Permanent |
+| [The Pier | Goto Nagasaki](/coliving/the-pier-goto-nagasaki/index.md) | Goto (Fukue), Nagasaki | Japan | from $520/mo | 30 nights | Permanent |
 | [Nomadico Mallorca Coliving](/coliving/nomadico-mallorca-coliving/index.md) | Búger, Mallorca | Spain | from €560/mo | 7 nights | Pop-up |
 | [Banama Surfhouse - Coliving Coworking & Yoga](/coliving/banama-surfhouse-coliving-coworking-and-yoga/index.md) | Corralejo, Fuerteventura | Spain | from €499/mo | — | Permanent |
 | [The Sunset III](/coliving/the-sunset-iii/index.md) | Kuta | Indonesia | from $573/mo | 30 nights | Permanent |
@@ -68,7 +69,6 @@
 | [Charalampou Liandri Home](/coliving/charalampou-liandri-home/index.md) | Atsipopoulo | Greece | from $6,608/mo | 30 nights | Permanent |
 | [Coliver - La Réunion](/coliving/coliver-la-reunion/index.md) | Saint Pierre | La Réunion | On request | — | Permanent |
 | [CoZi Coliving Djerba](/coliving/cozi-coliving-djerba/index.md) | Djerba (Mezraia) | Tunisia | On request | — | Permanent |
-| [The Pier | Goto Nagasaki](/coliving/the-pier-goto-nagasaki/index.md) | Goto (Fukue), Nagasaki | Japan | On request | — | Permanent |
 | [Coworksurf Siargao (Lexias)](/coliving/coworksurf-siargao-lexias/index.md) | Siargao | Philippines | On request | — | Permanent |
 | [Lungga Coworking, Coliving & Cafe](/coliving/lungga-coworking-coliving-and-cafe/index.md) | General Luna (Siargao) | Philippines | On request | — | Permanent |
 | [Nomad Cruise — NC18 Caribbean Islands](/coliving/nomad-cruise-nc18-caribbean-islands/index.md) | Barcelona → Caribbean | Multiple | from €1,900/cruise | 14 nights | Pop-up |

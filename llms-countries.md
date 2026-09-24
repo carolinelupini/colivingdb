@@ -13,11 +13,11 @@
 | [United States](/country/united-states/index.md) | 22 | €553 |
 | [Indonesia](/country/indonesia/index.md) | 20 | €363 |
 | [Colombia](/country/colombia/index.md) | 19 | €333 |
-| [France](/country/france/index.md) | 16 | €370 |
+| [France](/country/france/index.md) | 17 | €370 |
 | [Sri Lanka](/country/sri-lanka/index.md) | 14 | €87 |
 | [Brazil](/country/brazil/index.md) | 13 | €238 |
-| [Japan](/country/japan/index.md) | 13 | €378 |
 | [Switzerland](/country/switzerland/index.md) | 13 | €500 |
+| [Japan](/country/japan/index.md) | 12 | €378 |
 | [Bulgaria](/country/bulgaria/index.md) | 11 | €280 |
 | [Costa Rica](/country/costa-rica/index.md) | 11 | €289 |
 | [Greece](/country/greece/index.md) | 11 | €449 |
