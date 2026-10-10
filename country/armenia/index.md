@@ -1,11 +1,11 @@
 # Coliving in Armenia
 
-> 1 colivings in Armenia – last updated September 24, 2026.
+> 1 colivings in Armenia – last updated October 10, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Debed Coliving | Debet | from AMD 22,000/night | 4.8 (42) | private | 2 nights | Permanent |
+| Debed Coliving | Debet | from AMD 22,000/night | 4.8 (44) | private | 2 nights | Permanent |
 
 Source: https://colivingdb.com/country/armenia/

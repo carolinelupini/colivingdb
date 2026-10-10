@@ -1,6 +1,6 @@
 # Coliving in Dakar, Senegal
 
-> 1 colivings in Dakar, Senegal – last updated September 24, 2026.
+> 1 colivings in Dakar, Senegal – last updated October 10, 2026.
 
 ## All colivings
 

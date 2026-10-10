@@ -1,12 +1,12 @@
 # Outsite San Francisco - Mission
 
-> Coliving in San Francisco, United States. Last updated September 24, 2026.
+> Coliving in San Francisco, United States. Last updated October 10, 2026.
 
 - **Location:** San Francisco, United States
 - **Type:** Permanent coliving
 - **Price:** from €2,200/mo
 - **Price note:** est.; members-only, prices behind date-select
-- **Rating:** <a href="https://maps.google.com/?cid=5488928398457861458&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.1 (47 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=5488928398457861458&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.0 (48 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 100 Mbps down <small>· operator-reported</small>
@@ -17,7 +17,7 @@
 - **Tags:** city, coworking, community
 - **Nearest airports:** San Francisco International Airport (SFO) ~16 km; Oakland San Francisco Bay Airport (OAK) ~17 km; San Carlos Airport (SQL) ~31 km
 - **Website:** https://www.outsite.co/locations/san-francisco-mission
-- **Rating:** 4.1 from 47 Google reviews
+- **Rating:** 4.0 from 48 Google reviews
 
 ## About
 

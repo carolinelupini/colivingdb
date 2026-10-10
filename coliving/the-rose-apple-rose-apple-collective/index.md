@@ -1,6 +1,6 @@
 # The Rose Apple (Rose Apple Collective)
 
-> Coliving in Siem Reap, Cambodia. Last updated September 24, 2026.
+> Coliving in Siem Reap, Cambodia. Last updated October 10, 2026.
 
 - **Location:** Siem Reap, Cambodia
 - **Type:** Permanent coliving
@@ -15,7 +15,7 @@
 - **Region:** Asia
 - **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** city, community, coworking, wellness
-- **Nearest airports:** Siem Reap-Angkor International Airport (SAI) ~40 km; Sihanouk International Airport (KOS) ~311 km; Battambang Airport (BBM) ~74 km
+- **Nearest airports:** Siem Reap-Angkor International Airport (SAI) ~40 km; Battambang Airport (BBM) ~74 km
 - **Website:** https://coliving.com/spaces/l2fgaieh
 - **Rating:** 4.8 from 95 Google reviews
 

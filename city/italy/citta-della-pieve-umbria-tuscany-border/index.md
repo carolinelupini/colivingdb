@@ -1,12 +1,12 @@
 # Coliving in Citta della Pieve (Umbria/Tuscany border), Italy
 
-> 1 colivings in Citta della Pieve (Umbria/Tuscany border), Italy, prices from €700 to €700 per month – last updated September 24, 2026.
+> 1 colivings in Citta della Pieve (Umbria/Tuscany border), Italy, prices from €700 to €700 per month – last updated October 10, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Il Fornello | Citta della Pieve (Umbria/Tuscany border) | from €700/mo | 4.4 (20) | private | — | Permanent |
+| Il Fornello | Citta della Pieve (Umbria/Tuscany border) | from €700/mo | 4.3 (21) | private | — | Permanent |
 
 ## Price distribution
 

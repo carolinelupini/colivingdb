@@ -1,6 +1,6 @@
 # Coliving in Hualien City, Taiwan
 
-> 1 colivings in Hualien City, Taiwan – last updated September 24, 2026.
+> 1 colivings in Hualien City, Taiwan – last updated October 10, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Neighbourgood New Haven
 
-> Coliving in New Haven, United States. Last updated September 24, 2026.
+> Coliving in New Haven, United States. Last updated October 10, 2026.
 
 - **Location:** New Haven, United States
 - **Type:** Permanent coliving
@@ -13,7 +13,7 @@
 - **Region:** North America
 - **Timezone:** GMT-5 winter / GMT-4 summer <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Tags:** city, community
-- **Nearest airports:** Tweed New Haven Airport (HVN) ~6 km; Bradley International Airport (BDL) ~73 km; Long Island MacArthur Airport (ISP) ~59 km
+- **Nearest airports:** Tweed New Haven Airport (HVN) ~6 km; John F. Kennedy International Airport (JFK) ~103 km; Long Island MacArthur Airport (ISP) ~59 km
 - **Website:** https://www.neighbourgood.co
 - **Rating:** 4.5 from 35 Google reviews
 

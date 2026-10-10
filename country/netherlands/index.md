@@ -1,12 +1,12 @@
 # Coliving in Netherlands
 
-> 1 colivings in Netherlands, prices from €1,700 to €1,700 per month – last updated September 24, 2026.
+> 1 colivings in Netherlands, prices from €1,700 to €1,700 per month – last updated October 10, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Outsite Amsterdam (Zoku) | Amsterdam | from €1,700/mo | 4.7 (3115) | private | — | Permanent |
+| Outsite Amsterdam (Zoku) | Amsterdam | from €1,700/mo | 4.7 (3142) | private | — | Permanent |
 
 ## Price distribution
 

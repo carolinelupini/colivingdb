@@ -1,12 +1,12 @@
 # Montino Coliving
 
-> Coliving in Oggebbio, Lake Maggiore, Italy. Last updated September 24, 2026.
+> Coliving in Oggebbio, Lake Maggiore, Italy. Last updated October 10, 2026.
 
 - **Location:** Oggebbio, Lake Maggiore, Italy
 - **Type:** Permanent coliving
 - **Price:** from €750/mo
 - **Price note:** shared room from €750/month; private from €1000
-- **Rating:** <a href="https://maps.google.com/?cid=928591637754863054&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (146 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=928591637754863054&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (148 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** Yes
 - **Vibe:** slow living, meaningful connection, focused work in nature
@@ -17,7 +17,7 @@
 - **Tags:** mountain, rural, coworking, community, wellness
 - **Nearest airports:** Lugano Airport (LUG) ~20 km; Milan Malpensa International Airport (MXP) ~42 km; Milano Linate Airport (LIN) ~79 km
 - **Website:** https://www.mapmelon.com/colivings/montino-coliving?ref=colivingdb
-- **Rating:** 4.3 from 146 Google reviews
+- **Rating:** 4.3 from 148 Google reviews
 
 ## Rates
 

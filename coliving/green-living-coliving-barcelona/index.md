@@ -1,6 +1,6 @@
 # Green Living Coliving Barcelona
 
-> Coliving in Castelldefels, Spain. Last updated September 24, 2026.
+> Coliving in Castelldefels, Spain. Last updated October 10, 2026.
 
 - **Location:** Castelldefels, Spain
 - **Type:** Permanent coliving
@@ -14,7 +14,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** coworking, community, eco, city, beach, wellness
-- **Nearest airports:** Josep Tarradellas Barcelona-El Prat Airport (BCN) ~9 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~475 km; Reus Airport (REU) ~69 km
+- **Nearest airports:** Josep Tarradellas Barcelona-El Prat Airport (BCN) ~9 km; Reus Airport (REU) ~69 km; Girona-Costa Brava Airport (GRO) ~96 km
 - **Website:** https://greenlivingprojects.es/colivings/spain/coliving-barcelona
 - **Rating:** 5.0 from 6 Google reviews
 

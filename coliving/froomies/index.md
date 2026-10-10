@@ -1,6 +1,6 @@
 # Froomies
 
-> Coliving in Lostwithiel, Cornwall, United Kingdom. Last updated September 24, 2026.
+> Coliving in Lostwithiel, Cornwall, United Kingdom. Last updated October 10, 2026.
 
 - **Location:** Lostwithiel, Cornwall, United Kingdom
 - **Type:** Permanent coliving
@@ -14,7 +14,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** rural, community, coworking, wellness
-- **Nearest airports:** Cornwall Airport Newquay (NQY) ~23 km; London Heathrow Airport (LHR) ~318 km; Exeter International Airport (EXT) ~96 km
+- **Nearest airports:** Cornwall Airport Newquay (NQY) ~23 km; Bristol Airport (BRS) ~175 km; Exeter International Airport (EXT) ~96 km
 - **Website:** https://froomies.org/
 - **Rating:** 5.0 from 12 Google reviews
 

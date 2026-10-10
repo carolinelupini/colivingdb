@@ -1,6 +1,6 @@
 # Flipco Málaga
 
-> Coliving in Málaga, Spain. Last updated September 24, 2026.
+> Coliving in Málaga, Spain. Last updated October 10, 2026.
 
 - **Location:** Málaga, Spain
 - **Type:** Permanent coliving
@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** community, coworking, city, wellness
-- **Nearest airports:** Málaga-Costa del Sol Airport (AGP) ~9 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~426 km; F.G.L. Airport Granada-Jaén Airport (GRX) ~77 km
+- **Nearest airports:** Málaga-Costa del Sol Airport (AGP) ~9 km; F.G.L. Airport Granada-Jaén Airport (GRX) ~77 km; Gibraltar Airport (GIB) ~104 km
 - **Website:** https://flipcoliving.com/
 - **Rating:** 2.1 from 34 Google reviews
 

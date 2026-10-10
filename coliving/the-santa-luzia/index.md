@@ -1,6 +1,6 @@
 # The Santa Luzia
 
-> Coliving in Funchal, Portugal. Last updated September 24, 2026.
+> Coliving in Funchal, Portugal. Last updated October 10, 2026.
 
 - **Location:** Funchal, Portugal
 - **Type:** Permanent coliving

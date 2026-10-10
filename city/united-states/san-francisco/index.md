@@ -1,14 +1,14 @@
 # Coliving in San Francisco, United States
 
-> 6 colivings in San Francisco, United States, prices from €1,283 to €6,892 per month – last updated September 24, 2026.
+> 6 colivings in San Francisco, United States, prices from €1,283 to €6,892 per month – last updated October 10, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
 | Neighbourgood Mission | San Francisco | from $1,395/mo | 4.0 (8) | private | — | Permanent |
-| Outsite San Francisco - Mission | San Francisco | from €2,200/mo | 4.1 (47) | private | 7 nights | Permanent |
-| Outsite San Francisco - Pacific Heights | San Francisco | from $114/night | 4.9 (57) | private | — | Permanent |
+| Outsite San Francisco - Mission | San Francisco | from €2,200/mo | 4.0 (48) | private | 7 nights | Permanent |
+| Outsite San Francisco - Pacific Heights | San Francisco | from $114/night | 4.9 (55) | private | — | Permanent |
 | Neighbourgood Sutter | San Francisco | from $7,860/mo | — | private | — | Permanent |
 | Neighbourgood 15th Street | San Francisco | On request | — | private | — | Permanent |
 | Neighbourgood McAllister | San Francisco | On request | 4.0 (8) | private | — | Permanent |

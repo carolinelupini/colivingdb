@@ -1,21 +1,21 @@
 # Casa Turull (Palma Coliving Barcelona)
 
-> Coliving in Barcelona, Spain. Last updated September 24, 2026.
+> Coliving in Barcelona, Spain. Last updated October 10, 2026.
 
 - **Location:** Barcelona, Spain
 - **Type:** Permanent coliving
 - **Price:** from €1,380/mo
 - **Price note:** from €1,380/month
-- **Rating:** <a href="https://maps.google.com/?cid=16460062071379156407&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (54 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=16460062071379156407&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (53 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, community, coworking
-- **Nearest airports:** Josep Tarradellas Barcelona-El Prat Airport (BCN) ~15 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~491 km; Girona-Costa Brava Airport (GRO) ~74 km
+- **Nearest airports:** Josep Tarradellas Barcelona-El Prat Airport (BCN) ~15 km; Girona-Costa Brava Airport (GRO) ~74 km; Reus Airport (REU) ~87 km
 - **Website:** https://palmacoliving.co/locations-barcelona/
-- **Rating:** 4.4 from 54 Google reviews
+- **Rating:** 4.4 from 53 Google reviews
 
 ## Rates
 

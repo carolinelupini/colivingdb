@@ -1,6 +1,6 @@
 # Coliving in Kilimanjaro (Moshi), Tanzania
 
-> 1 colivings in Kilimanjaro (Moshi), Tanzania – last updated September 24, 2026.
+> 1 colivings in Kilimanjaro (Moshi), Tanzania – last updated October 10, 2026.
 
 ## All colivings
 

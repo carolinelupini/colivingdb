@@ -1,6 +1,6 @@
 # Seoul Nooks Community Living
 
-> Coliving in Seoul, South Korea. Last updated September 24, 2026.
+> Coliving in Seoul, South Korea. Last updated October 10, 2026.
 
 - **Location:** Seoul, South Korea
 - **Type:** Permanent coliving
@@ -14,7 +14,7 @@
 - **Region:** Asia
 - **Timezone:** GMT+9 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** city, community
-- **Nearest airports:** Seoul Gimpo International Airport (GMP) ~17 km; Jeju International Airport (CJU) ~453 km; Incheon International Airport (ICN) ~48 km
+- **Nearest airports:** Seoul Gimpo International Airport (GMP) ~17 km; Incheon International Airport (ICN) ~48 km; Wonju Airport / Hoengseong Air Base (K-38/K-46) (WJU) ~88 km
 - **Website:** https://www.seoulnooks.org/
 
 ## Rates

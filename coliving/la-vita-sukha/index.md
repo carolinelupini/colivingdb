@@ -1,12 +1,12 @@
 # La Vita Sukha
 
-> Coliving in Roseto Valfortore, Italy. Last updated September 24, 2026.
+> Coliving in Roseto Valfortore, Italy. Last updated October 10, 2026.
 
 - **Location:** Roseto Valfortore, Italy
 - **Type:** Permanent coliving
 - **Price:** from €700/mo
 - **Price note:** from €700/month for a dorm bed; private rooms €1,100–€1,470/month
-- **Rating:** <a href="https://maps.google.com/?cid=6395189329283834740&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (36 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=6395189329283834740&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (39 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Wi-Fi (on-site):** 140 Mbps down <small>· operator-reported</small>
@@ -17,7 +17,7 @@
 - **Tags:** rural, mountain, eco, community, coworking, wellness
 - **Nearest airports:** Foggia Gino Lisa Airport (FOG) ~37 km; Rome–Fiumicino Leonardo da Vinci International Airport (FCO) ~242 km; Salerno Costa d'Amalfi Airport (QSR) ~85 km
 - **Website:** https://lavitasukha.com/coliving-italy/
-- **Rating:** 4.9 from 36 Google reviews
+- **Rating:** 4.9 from 39 Google reviews
 
 ## Rates
 

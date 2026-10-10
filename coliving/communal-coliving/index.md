@@ -1,12 +1,12 @@
 # Communal Coliving
 
-> Coliving in Santa Fe, Siargao, Philippines. Last updated September 24, 2026.
+> Coliving in Santa Fe, Siargao, Philippines. Last updated October 10, 2026.
 
 - **Location:** Santa Fe, Siargao, Philippines
 - **Type:** Permanent coliving
 - **Price:** from PHP 35,000/mo
 - **Price note:** from PHP 35,000/month dorm (~€525); private studio PHP 60,000
-- **Rating:** <a href="https://maps.google.com/?cid=12416010899305160988&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (38 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=12416010899305160988&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (37 reviews)</a> <small>· Google</small>
 - **Room types:** dorm, shared, private
 - **Dorm available:** Yes
 - **Vibe:** Not just a place to stay — a place to become
@@ -14,10 +14,10 @@
 - **Region:** Asia
 - **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** island, surf, beach, coworking, community, eco
-- **Nearest airports:** Siargao Airport (IAO) ~3 km; Laguindingan International Airport (CGY) ~222 km; Surigao Airport (SUG) ~62 km
+- **Nearest airports:** Siargao Airport (IAO) ~3 km; Mactan Cebu International Airport (CEB) ~231 km; Surigao Airport (SUG) ~62 km
 - **Getting there:** Siargao Airport (IAO) is on the island. Most people fly in via Cebu, which has 10–20 flights a day to Siargao; Davao and Clark have fewer, Surigao has one or two a day, and there are no flights from Manila. The alternative is two ferries.
 - **Website:** https://www.communalcoliving.com/
-- **Rating:** 5.0 from 38 Google reviews
+- **Rating:** 5.0 from 37 Google reviews
 
 ## Rates
 

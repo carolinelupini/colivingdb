@@ -1,14 +1,9 @@
 # WiFi Tribe chapters 2026–2027
 
-> 26 upcoming WiFi Tribe chapters in 21 countries, sorted by date. Updated September 24, 2026.
+> 21 upcoming WiFi Tribe chapters in 17 countries, sorted by date. Updated October 10, 2026.
 
 | Chapter | Where | Dates | Price from |
 |---|---|---|---|
-| [WiFi Tribe — Anse Royale](/coliving/wifi-tribe-anse-royale/index.md) (fully booked) | Anse Royale, Seychelles | Sep 11 - Oct 9, 2026 | from $1,990/mo |
-| [WiFi Tribe — Bocas del Toro](/coliving/wifi-tribe-bocas-del-toro/index.md) | Bocas del Toro, Panama | Sep 11 - Oct 9, 2026 | from $1,790/mo |
-| [WiFi Tribe — Cusco](/coliving/wifi-tribe-cusco/index.md) | Cusco, Peru | Sep 11 - Oct 9, 2026 | from $1,490/mo |
-| [WiFi Tribe — Paros](/coliving/wifi-tribe-paros/index.md) (fully booked) | Paros, Greece | Sep 11 - Oct 9, 2026 | from $1,990/mo |
-| [WiFi Tribe — Ponta Delgada (Azores)](/coliving/wifi-tribe-ponta-delgada-azores/index.md) (fully booked) | Ponta Delgada (Azores), Portugal | Sep 11 - Oct 9, 2026 | from $1,990/mo |
 | [WiFi Tribe — La Paz](/coliving/wifi-tribe-la-paz/index.md) (fully booked) | La Paz, Bolivia | Oct 16 - Nov 13, 2026 | from $1,590/mo |
 | [WiFi Tribe — Weligama](/coliving/wifi-tribe-weligama/index.md) | Weligama, Sri Lanka | Oct 16 - Nov 13, 2026 | from $1,690/mo |
 | [WiFi Tribe — Santa Teresa](/coliving/wifi-tribe-santa-teresa/index.md) | Santa Teresa, Costa Rica | Oct 23 - Nov 20, 2026 | from $1,790/mo |

@@ -1,12 +1,12 @@
 # Coliving Compostela
 
-> Coliving in Santiago de Compostela, Spain. Last updated September 24, 2026.
+> Coliving in Santiago de Compostela, Spain. Last updated October 10, 2026.
 
 - **Location:** Santiago de Compostela, Spain
 - **Type:** Permanent coliving
 - **Price:** from €720/mo
 - **Price note:** from €27/night private ensuite (~€720/mo)
-- **Rating:** <a href="https://maps.google.com/?cid=17039230191227524177&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (105 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=17039230191227524177&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (110 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 500 Mbps down <small>· operator-reported</small>
@@ -16,9 +16,9 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, coworking, community
-- **Nearest airports:** Santiago-Rosalía de Castro Airport (SCQ) ~10 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~490 km; A Coruña Airport (LCG) ~49 km
+- **Nearest airports:** Santiago-Rosalía de Castro Airport (SCQ) ~10 km; A Coruña Airport (LCG) ~49 km; Vigo Airport (VGO) ~72 km
 - **Website:** https://www.mapmelon.com/colivings/coliving-compostela?ref=colivingdb
-- **Rating:** 4.7 from 105 Google reviews
+- **Rating:** 4.7 from 110 Google reviews
 
 ## Rates
 

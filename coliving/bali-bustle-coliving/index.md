@@ -1,12 +1,12 @@
 # Bali Bustle Coliving
 
-> Coliving in Legian, Bali, Indonesia. Last updated September 24, 2026.
+> Coliving in Legian, Bali, Indonesia. Last updated October 10, 2026.
 
 - **Location:** Legian, Bali, Indonesia
 - **Type:** Permanent coliving
 - **Price:** from IDR 8,700,000/mo
 - **Price note:** from ~€11.50/night, est. monthly
-- **Rating:** <a href="https://maps.google.com/?cid=8290960225356948981&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (477 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=8290960225356948981&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (478 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 233 Mbps down <small>· operator-reported</small><br><small>Coworking space: 233 Mbps down / 215 up. In-room (coliving): 99 down / 49 up. Operator speedtests (GlobalXtreme).</small>
@@ -23,7 +23,7 @@
 - **Nearest airports:** Denpasar I Gusti Ngurah Rai International Airport (DPS) ~6 km; Lombok International Airport (LOP) ~121 km
 - **Getting there:** Ngurah Rai/Denpasar Airport (DPS) is ~20-25 min from Legian by car.
 - **Website:** https://balibustle.com/
-- **Rating:** 4.7 from 477 Google reviews
+- **Rating:** 4.7 from 478 Google reviews
 
 ## Rates
 

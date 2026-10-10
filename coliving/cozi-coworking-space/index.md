@@ -1,6 +1,6 @@
 # CoZi - Coworking Space
 
-> Coliving in Houmt Souk, Tunisia. Last updated September 24, 2026.
+> Coliving in Houmt Souk, Tunisia. Last updated October 10, 2026.
 
 - **Location:** Houmt Souk, Tunisia
 - **Type:** Permanent coliving
@@ -13,7 +13,7 @@
 - **Region:** Africa
 - **Timezone:** GMT+1 <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** beach, coworking, startup
-- **Nearest airports:** Djerba Zarzis International Airport (DJE) ~8 km; Tunis Carthage International Airport (TUN) ~334 km; Gabès Matmata International Airport (GAE) ~89 km
+- **Nearest airports:** Djerba Zarzis International Airport (DJE) ~8 km; Gabès Matmata International Airport (GAE) ~89 km; Sfax Thyna International Airport (SFA) ~93 km
 - **Website:** http://cozi.tn/
 - **Rating:** 4.6 from 47 Google reviews
 

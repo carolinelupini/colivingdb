@@ -1,11 +1,12 @@
 # Outsite Paris - Bastille
 
-> Coliving in Paris, France. Last updated September 24, 2026.
+> Coliving in Paris, France. Last updated October 10, 2026.
 
 - **Location:** Paris, France
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** pricing shown only after entering dates
+- **Rating:** <a href="https://maps.google.com/?cid=3272071679761196343&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (3 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
@@ -14,6 +15,7 @@
 - **Tags:** city, coworking, community
 - **Nearest airports:** Paris-Le Bourget International Airport (LBG) ~13 km; Charles de Gaulle International Airport (CDG) ~22 km; Paris-Orly Airport (ORY) ~13 km
 - **Website:** https://www.outsite.co/locations/paris-bastille
+- **Rating:** 5.0 from 3 Google reviews
 
 ## About
 

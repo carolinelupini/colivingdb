@@ -1,6 +1,6 @@
 # Iguana Co-living
 
-> Coliving in Oaxaca City, Mexico. Last updated September 24, 2026.
+> Coliving in Oaxaca City, Mexico. Last updated October 10, 2026.
 
 - **Location:** Oaxaca City, Mexico
 - **Type:** Permanent coliving
@@ -14,7 +14,7 @@
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Elevation:** 1,560 m
 - **Tags:** coworking, eco, community
-- **Nearest airports:** Xoxocotlán International Airport (OAX) ~8 km; Mexico City Benito Juárez International Airport (MEX) ~362 km; Puerto Escondido International Airport (PXM) ~138 km
+- **Nearest airports:** Xoxocotlán International Airport (OAX) ~8 km; Puerto Escondido International Airport (PXM) ~138 km
 - **Website:** https://iguanahostel.com/co-living/
 - **Rating:** 4.6 from 16 Google reviews
 

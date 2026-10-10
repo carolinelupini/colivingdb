@@ -1,12 +1,12 @@
 # Weligama Bay Residence
 
-> Coliving in Weligama, Sri Lanka. Last updated September 24, 2026.
+> Coliving in Weligama, Sri Lanka. Last updated October 10, 2026.
 
 - **Location:** Weligama, Sri Lanka
 - **Type:** Permanent coliving
 - **Price:** from $2,250/mo
 - **Price note:** from BGN 3,860/mo standard private room
-- **Rating:** <a href="https://maps.google.com/?cid=5830583501802065789&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (58 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=5830583501802065789&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (57 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Work-focused surf-and-coliving community of global innovators, remote workers, and entrepreneurs with dedicated coworking spaces and a social rooftop bar.
@@ -16,7 +16,7 @@
 - **Tags:** beach, surf, coworking
 - **Nearest airports:** Koggala Airport (KCT) ~15 km; Bandaranaike International Colombo Airport (CMB) ~148 km; Mattala Rajapaksa International Airport (HRI) ~82 km
 - **Website:** https://coliving.com/spaces/klomftm3
-- **Rating:** 4.7 from 58 Google reviews
+- **Rating:** 4.7 from 57 Google reviews
 
 ## Rates
 

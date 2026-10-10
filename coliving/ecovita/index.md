@@ -1,6 +1,6 @@
 # ecoVita
 
-> Coliving in San Priamo, San Vito, Sardinia, Italy. Last updated September 24, 2026.
+> Coliving in San Priamo, San Vito, Sardinia, Italy. Last updated October 10, 2026.
 
 - **Location:** San Priamo, San Vito, Sardinia, Italy
 - **Type:** Permanent coliving
@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, eco, island, community
-- **Nearest airports:** Cagliari Elmas Airport (CAG) ~44 km; Rome–Fiumicino Leonardo da Vinci International Airport (FCO) ~360 km
+- **Nearest airports:** Cagliari Elmas Airport (CAG) ~44 km
 - **Website:** https://www.ecovitaexperience.com/en/
 - **Rating:** 4.9 from 23 Google reviews
 

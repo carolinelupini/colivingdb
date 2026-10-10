@@ -1,12 +1,12 @@
 # Hubs Swiss Alps Lenk
 
-> Coliving in Lenk, Switzerland. Last updated September 24, 2026.
+> Coliving in Lenk, Switzerland. Last updated October 10, 2026.
 
 - **Location:** Lenk, Switzerland
 - **Type:** Permanent coliving
 - **Price:** from CHF 633/mo
 - **Price note:** from CHF 633/mo (autumn season), private room; +tourism tax
-- **Rating:** <a href="https://maps.google.com/?cid=14043508934446088445&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (45 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=14043508934446088445&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (48 reviews)</a> <small>· Google</small>
 - **Room types:** private, studio, apartment
 - **Dorm available:** No
 - **Vibe:** Charming alpine town with breathtaking mountain views
@@ -17,7 +17,7 @@
 - **Tags:** mountain, ski, coworking, community, wellness
 - **Nearest airports:** Bern Airport (BRN) ~51 km; Zürich Airport (ZRH) ~139 km; Geneva International Airport (GVA) ~105 km
 - **Website:** https://www.hubs.travel/destinations/swiss-alps-lenk
-- **Rating:** 4.9 from 45 Google reviews
+- **Rating:** 4.9 from 48 Google reviews
 
 ## Rates
 

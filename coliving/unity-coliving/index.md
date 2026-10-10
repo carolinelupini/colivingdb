@@ -1,6 +1,6 @@
 # Unity Coliving
 
-> Coliving in San José, Costa Rica. Last updated September 24, 2026.
+> Coliving in San José, Costa Rica. Last updated October 10, 2026.
 
 - **Location:** San José, Costa Rica
 - **Type:** Permanent coliving

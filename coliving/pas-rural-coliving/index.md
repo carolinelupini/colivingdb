@@ -1,12 +1,12 @@
 # PAS Rural Coliving
 
-> Coliving in Villegar, Spain. Last updated September 24, 2026.
+> Coliving in Villegar, Spain. Last updated October 10, 2026.
 
 - **Location:** Villegar, Spain
 - **Type:** Permanent coliving
 - **Price:** from €810/mo
 - **Price note:** from €28/night, €810/month
-- **Rating:** <a href="https://maps.google.com/?cid=9088510125602013249&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (53 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=9088510125602013249&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (56 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 1000 Mbps down <small>· operator-reported</small>
@@ -15,9 +15,9 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, mountain, coworking, community, wellness
-- **Nearest airports:** Seve Ballesteros-Santander Airport (SDR) ~23 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~307 km; Bilbao Airport (BIO) ~84 km
+- **Nearest airports:** Seve Ballesteros-Santander Airport (SDR) ~23 km; Bilbao Airport (BIO) ~84 km; Vitoria Airport (VIT) ~106 km
 - **Website:** https://pascoliving.co/
-- **Rating:** 5.0 from 53 Google reviews
+- **Rating:** 5.0 from 56 Google reviews
 
 ## Rates
 

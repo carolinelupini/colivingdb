@@ -1,6 +1,6 @@
 # Coliving in Japan
 
-> 12 colivings in Japan, prices from €378 to €2,600 per month – last updated September 24, 2026.
+> 12 colivings in Japan, prices from €378 to €2,600 per month – last updated October 10, 2026.
 
 ## All colivings
 
@@ -11,13 +11,13 @@
 | The Miyanosawa (Miyanosawa Home) | Sapporo | from $573/mo | — | private | 30 nights | Permanent |
 | Tokyo Chapter | Tokyo | from ¥100,000/mo | 4.4 (25) | private | 30 nights | Permanent |
 | Boundless Life Kamakura | Kamakura | from €2,600/mo | — | private | — | Permanent |
-| COGO TENNOJI | Osaka | On request | 4.6 (592) | private, shared | — | Permanent |
-| Kotori Coworking & Hostel Kotohira | Kotohira | On request | 4.9 (102) | private, dorm | 5 nights | Permanent |
+| COGO TENNOJI | Osaka | On request | 4.6 (593) | private, shared | — | Permanent |
+| Kotori Coworking & Hostel Kotohira | Kotohira | On request | 4.9 (109) | private, dorm | 5 nights | Permanent |
 | Noma Collective — Osaka | Osaka | from $3,490/event | — | — | — | Pop-up |
 | Colive Fukuoka — Hoppin Program (Oct 2026) | Fukuoka | from ¥112,800/event | — | private, shared | 14 nights | Pop-up |
 | Hiroshima Setouchi Nomad Fest 2026 | Hiroshima | from $357/ticket | — | — | — | Festival |
 | Colive Fukuoka 2026 | Fukuoka | from €449/ticket | — | — | — | Festival |
-| THE-IF | Kyoto | from €32/night | — | private | 31 nights | Permanent |
+| THE-IF | Kyoto | from €32/night | 5.0 (6) | private | 31 nights | Permanent |
 
 ## Price distribution
 

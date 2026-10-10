@@ -1,6 +1,6 @@
 # Cloud Citadel Coliving
 
-> Coliving in Briançon, France. Last updated September 24, 2026.
+> Coliving in Briançon, France. Last updated October 10, 2026.
 
 - **Location:** Briançon, France
 - **Type:** Permanent coliving

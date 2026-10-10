@@ -1,6 +1,6 @@
 # Coliving in Tokyo, Japan
 
-> 1 colivings in Tokyo, Japan, prices from €542 to €542 per month – last updated September 24, 2026.
+> 1 colivings in Tokyo, Japan, prices from €542 to €542 per month – last updated October 10, 2026.
 
 ## All colivings
 

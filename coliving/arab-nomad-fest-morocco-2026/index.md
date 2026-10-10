@@ -1,6 +1,6 @@
 # Arab Nomad Fest: Morocco 2026
 
-> Nomad festival in Taghazout, Morocco. Last updated September 24, 2026.
+> Nomad festival in Taghazout, Morocco. Last updated October 10, 2026.
 
 - **Location:** Taghazout, Morocco
 - **Type:** Nomad festival / dated event — accommodation not included
@@ -18,7 +18,7 @@
 - **Included:** Main conference, Workshops
 - **Not included:** Accommodation — book separately, Meals and drinks, Surf lessons and outdoor activities, The closing ceremony at the Timlaline dunes (250 MAD add-on)
 - **Area:** Taghazout, a small Atlantic surf village on Morocco's southwest coast, about 45 minutes north of Agadir. Low cost of living, cafés and coworking within walking distance, and beaches and Anti-Atlas foothills within reach for the day trips built into the week.
-- **Nearest airports:** Al Massira Airport (AGA) ~37 km; Mohammed V International Airport (CMN) ~373 km; Essaouira-Mogador Airport (ESU) ~95 km
+- **Nearest airports:** Al Massira Airport (AGA) ~37 km; Essaouira-Mogador Airport (ESU) ~95 km
 - **Website:** https://arabdigitalnomads.com/arab-nomad-fest/
 
 ## About

@@ -1,6 +1,6 @@
 # WiFi Tribe — Puerto Escondido
 
-> Coliving in Puerto Escondido, Mexico. Last updated September 24, 2026.
+> Coliving in Puerto Escondido, Mexico. Last updated October 10, 2026.
 
 - **Location:** Puerto Escondido, Mexico
 - **Type:** Pop-up / dated edition
@@ -16,7 +16,7 @@
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Tags:** wellness
 - **Second guest:** In a private room each guest pays the shared-room rate — a private room fits one or two people for the same total, so a couple pays the same as booking two shared spots. Solo travellers can book a private room at the private rate.
-- **Nearest airports:** Puerto Escondido International Airport (PXM) ~1 km; Mexico City Benito Juárez International Airport (MEX) ~449 km; Bahías de Huatulco International Airport (HUX) ~88 km
+- **Nearest airports:** Puerto Escondido International Airport (PXM) ~1 km; Xoxocotlán International Airport (OAX) ~131 km; Bahías de Huatulco International Airport (HUX) ~88 km
 - **Website:** https://wifitribe.co/chapter-mexico-puerto-escondido/
 
 ## Rates

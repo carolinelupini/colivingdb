@@ -1,31 +1,31 @@
 # Coliving in South Africa
 
-> 25 colivings in South Africa, prices from €345 to €2,069 per month – last updated September 24, 2026.
+> 25 colivings in South Africa, prices from €345 to €2,069 per month – last updated October 10, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Neighbourgood 113 Loop | Cape Town | from €345/mo | 4.7 (62) | private, shared | — | Permanent |
-| Neighbourgood De Wet | Franschhoek | from R10,000/mo | 4.5 (148) | private | — | Permanent |
+| Neighbourgood 113 Loop | Cape Town | from €345/mo | 4.7 (67) | private, shared | — | Permanent |
+| Neighbourgood De Wet | Franschhoek | from R10,000/mo | 4.5 (153) | private | — | Permanent |
 | Nomadico Cape Town | Cape Town | from €609/mo | 5.0 (6) | private, shared | — | Permanent |
-| Neighbourgood Cape Quarter Living | Cape Town | from €749/mo | 4.4 (191) | private, shared | 1 night | Permanent |
-| Neighbourgood Disandt House | Cape Town | from R13,000/mo | 4.9 (47) | private, shared | 3 months | Permanent |
-| Neighbourgood Hill | Cape Town | from R13,000/mo | 4.1 (138) | private, shared | — | Permanent |
+| Neighbourgood Cape Quarter Living | Cape Town | from €749/mo | 4.4 (198) | private, shared | 1 night | Permanent |
+| Neighbourgood Disandt House | Cape Town | from R13,000/mo | 4.9 (50) | private, shared | 3 months | Permanent |
+| Neighbourgood Hill | Cape Town | from R13,000/mo | 4.1 (141) | private, shared | — | Permanent |
 | Neighbourgood Napier | Cape Town | from R13,000/mo | 5.0 (2) | private, shared | — | Permanent |
-| Neighbourgood Newlands | Cape Town | from R13,000/mo | 4.4 (443) | private, shared | — | Permanent |
+| Neighbourgood Newlands | Cape Town | from R13,000/mo | 4.4 (459) | private, shared | — | Permanent |
 | Neighbourgood Ravenscraig | Cape Town | from R13,000/mo | 4.3 (29) | private, shared | — | Permanent |
-| Neighbourgood Romney | Cape Town | from R13,000/mo | 4.4 (52) | private, shared | 3 months | Permanent |
-| Neighbourgood 84 Harrington | Cape Town | from R24,170/mo | 4.7 (294) | private | — | Permanent |
+| Neighbourgood Romney | Cape Town | from R13,000/mo | 4.3 (55) | private, shared | 3 months | Permanent |
+| Neighbourgood 84 Harrington | Cape Town | from R24,170/mo | 4.7 (311) | private | — | Permanent |
 | The Hill | Cape Town | from $1,103/mo | — | private | 30 nights | Permanent |
 | WiFi Tribe — Cape Town (Mar 2027) | Cape Town | from $1,790/mo | — | private, shared | 28 nights | Pop-up |
 | WiFi Tribe — Cape Town (Jan 2027) | Cape Town | from $1,990/mo | — | private, shared | 28 nights | Pop-up |
 | WiFi Tribe — Cape Town (Feb 2027) | Cape Town | from $1,990/mo | — | private, shared | 28 nights | Pop-up |
 | The Romney | Cape Town | from $2,145/mo | — | private | 30 nights | Permanent |
-| Cape Coliving | Cape Town | from €2,069/mo | 5.0 (73) | private | 7 nights | Permanent |
-| Green Room JBay Coliving | Jeffreys Bay | from R545/night | 5.0 (142) | private | 14 nights | Permanent |
-| Ideas Cartel at The Old Foundry | Cape Town | On request | 4.4 (222) | private | — | Permanent |
-| Neighbourgood East City | Cape Town | On request | 4.4 (384) | private, shared, dorm | — | Permanent |
+| Cape Coliving | Cape Town | from €2,069/mo | 5.0 (74) | private | 7 nights | Permanent |
+| Green Room JBay Coliving | Jeffreys Bay | from R545/night | 5.0 (143) | private | 14 nights | Permanent |
+| Ideas Cartel at The Old Foundry | Cape Town | On request | 4.4 (224) | private | — | Permanent |
+| Neighbourgood East City | Cape Town | On request | 4.4 (389) | private, shared, dorm | — | Permanent |
 | Nomad Summer Camp — Camp Big Daddy | Cape Town | from $499/event | — | private, shared | 3 nights | Pop-up |
 | Waterkant Residence | Cape Town | On request | 4.3 (71) | private | 30 nights | Permanent |
 | Pangea — Cape Town (Jan 2027) | Cape Town | from $299/ticket | — | — | — | Pop-up |

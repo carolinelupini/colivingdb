@@ -1,11 +1,11 @@
 # ALMANSA 11 APARTAMENTOS COLIVING
 
-> Coliving in Sevilla, Spain. Last updated September 24, 2026.
+> Coliving in Sevilla, Spain. Last updated October 10, 2026.
 
 - **Location:** Sevilla, Spain
 - **Type:** Permanent coliving
 - **Price:** from €550/mo
-- **Rating:** <a href="https://maps.google.com/?cid=2265955261667128086&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (27 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=2265955261667128086&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (28 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** A historic, bohemian coliving in Seville's Arenal district with literary/opera-themed apartments, shared terraces, and social activities like yoga, cooking, and dancing.
@@ -13,9 +13,9 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** community, coworking, city, wellness
-- **Nearest airports:** Seville Airport (SVQ) ~10 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~404 km; Jerez Airport (XRY) ~72 km
+- **Nearest airports:** Seville Airport (SVQ) ~10 km; Jerez Airport (XRY) ~72 km; Córdoba Airport (ODB) ~113 km
 - **Website:** http://www.almansa11.com/
-- **Rating:** 4.6 from 27 Google reviews
+- **Rating:** 4.5 from 28 Google reviews
 
 ## Rates
 

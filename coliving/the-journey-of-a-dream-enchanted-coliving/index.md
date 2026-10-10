@@ -1,12 +1,12 @@
 # The Journey of a Dream · Enchanted Coliving
 
-> Coliving in Charente-Maritime, France. Last updated September 24, 2026.
+> Coliving in Charente-Maritime, France. Last updated October 10, 2026.
 
 - **Location:** Charente-Maritime, France
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** price not published; inquiry/booking via site
-- **Rating:** <a href="https://maps.google.com/?cid=784136680359382931&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (18 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=784136680359382931&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (19 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** An intimate, nature-immersed retreat (max 9 residents) for writers and creatives blending quiet contemplation with close-knit community, books, and art.
@@ -14,9 +14,9 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, community, eco
-- **Nearest airports:** La Rochelle Île de Ré Airport (LRH) ~65 km; Charles de Gaulle International Airport (CDG) ~434 km; Bordeaux–Mérignac Airport (BOD) ~103 km
+- **Nearest airports:** La Rochelle Île de Ré Airport (LRH) ~65 km; Bordeaux–Mérignac Airport (BOD) ~103 km; Poitiers-Biard Airport (PIS) ~118 km
 - **Website:** https://enchantedcoliving.com/
-- **Rating:** 5.0 from 18 Google reviews
+- **Rating:** 5.0 from 19 Google reviews
 
 ## About
 

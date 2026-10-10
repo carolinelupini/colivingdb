@@ -1,12 +1,12 @@
 # Coliving in Biot, France
 
-> 1 colivings in Biot, France, prices from €1,200 to €1,200 per month – last updated September 24, 2026.
+> 1 colivings in Biot, France, prices from €1,200 to €1,200 per month – last updated October 10, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| NomadUnion Coliving (Villa) | Biot | from €1,200/mo | 4.8 (45) | private, shared | 30 nights | Permanent |
+| NomadUnion Coliving (Villa) | Biot | from €1,200/mo | 4.8 (47) | private, shared | 30 nights | Permanent |
 
 ## Price distribution
 

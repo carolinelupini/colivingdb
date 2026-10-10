@@ -1,12 +1,12 @@
 # Coliving in Toronto, Canada
 
-> 1 colivings in Toronto, Canada, prices from €889 to €889 per month – last updated September 24, 2026.
+> 1 colivings in Toronto, Canada, prices from €889 to €889 per month – last updated October 10, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Mimos Coliving - Toronto Annex | Toronto | from C$1,440/mo | 4.9 (18) | private | 28 nights | Permanent |
+| Mimos Coliving - Toronto Annex | Toronto | from C$1,440/mo | 4.9 (19) | private | 28 nights | Permanent |
 
 ## Price distribution
 

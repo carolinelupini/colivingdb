@@ -1,12 +1,12 @@
 # Coliving in Corralejo, Fuerteventura, Spain
 
-> 3 colivings in Corralejo, Fuerteventura, Spain, prices from €499 to €840 per month – last updated September 24, 2026.
+> 3 colivings in Corralejo, Fuerteventura, Spain, prices from €499 to €840 per month – last updated October 10, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Banama Surfhouse - Coliving Coworking & Yoga | Corralejo, Fuerteventura | from €499/mo | 4.9 (144) | private, shared | — | Permanent |
+| Banama Surfhouse - Coliving Coworking & Yoga | Corralejo, Fuerteventura | from €499/mo | 4.9 (153) | private, shared | — | Permanent |
 | Fuerteventura Coliving (Casa las Dunas) | Corralejo, Fuerteventura | from €750/mo | — | private, shared, dorm | 2 nights | Permanent |
 | Coco Surfhouse | Corralejo, Fuerteventura | from €840/mo | 5.0 (84) | private, dorm | — | Permanent |
 

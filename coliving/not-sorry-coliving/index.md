@@ -1,6 +1,6 @@
 # Not Sorry Coliving
 
-> Coliving in near Tullins/Voiron, Isère (French Alps), France. Last updated September 24, 2026.
+> Coliving in near Tullins/Voiron, Isère (French Alps), France. Last updated October 10, 2026.
 
 - **Location:** near Tullins/Voiron, Isère (French Alps), France
 - **Type:** Permanent coliving
@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** mountain, rural, coworking, community, wellness
-- **Nearest airports:** Grenoble Alpes Isère Airport (GNB) ~19 km; Charles de Gaulle International Airport (CDG) ~470 km; Chambéry Aix les Bains airport (CMF) ~46 km
+- **Nearest airports:** Grenoble Alpes Isère Airport (GNB) ~19 km; Lyon Saint-Exupéry Airport (LYS) ~59 km; Chambéry Aix les Bains airport (CMF) ~46 km
 - **Website:** https://www.hostelworld.com/hostels/p/338963/not-sorry-coliving-and-coworking-in-the-french-alps/
 
 ## About

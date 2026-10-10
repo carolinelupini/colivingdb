@@ -1,6 +1,6 @@
 # AfricaNomads — Watamu (Oct 2027)
 
-> Coliving in Watamu, Kenya. Last updated September 24, 2026.
+> Coliving in Watamu, Kenya. Last updated October 10, 2026.
 
 - **Location:** Watamu, Kenya
 - **Type:** Pop-up / dated edition
@@ -17,7 +17,7 @@
 - **Tags:** wellness
 - **Included:** Private room in an AfricaNomads home, Reliable WiFi & Starlink, Local SIM card loaded with data + backup power, Weekly communal dinner, Optional weekend activities, Hosts & activity organizers, Access to coworking, A community of remote workers
 - **Second guest:** An extra person sharing a room pays 35% of the rate.
-- **Nearest airports:** Malindi International Airport (MYD) ~17 km; Jomo Kenyatta International Airport (NBO) ~412 km; Moi International Airport (MBA) ~89 km
+- **Nearest airports:** Malindi International Airport (MYD) ~17 km; Moi International Airport (MBA) ~89 km
 - **Website:** https://www.africanomads.co/digital-nomads-watamu-october
 
 Source: https://colivingdb.com/coliving/africanomads-watamu-oct-2027/

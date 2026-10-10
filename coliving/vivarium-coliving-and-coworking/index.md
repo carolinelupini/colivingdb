@@ -1,12 +1,12 @@
 # Vivarium Coliving & Coworking
 
-> Coliving in Valencia, Spain. Last updated September 24, 2026.
+> Coliving in Valencia, Spain. Last updated October 10, 2026.
 
 - **Location:** Valencia, Spain
 - **Type:** Permanent coliving
 - **Price:** from €985/mo
 - **Price note:** from ~€985/mo (standard all-inclusive €1,150/mo with coworking desk)
-- **Rating:** <a href="https://maps.google.com/?cid=11022722937064317769&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (65 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=11022722937064317769&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (67 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** A place to belong and build together
@@ -16,7 +16,7 @@
 - **Tags:** city, community, coworking, wellness
 - **Nearest airports:** Valencia Airport (VLC) ~9 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~295 km; Castellón-Costa Azahar Airport (CDT) ~91 km
 - **Website:** https://www.vivariumcoliving.com/
-- **Rating:** 4.9 from 65 Google reviews
+- **Rating:** 4.9 from 67 Google reviews
 
 ## Rates
 

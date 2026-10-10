@@ -1,28 +1,28 @@
 # Coliving in France
 
-> 17 colivings in France, prices from €370 to €1,200 per month – last updated September 24, 2026.
+> 17 colivings in France, prices from €370 to €1,200 per month – last updated October 10, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Nomadico Anglet | Anglet | from €370/mo | 5.0 (1) | private, shared | — | Pop-up |
+| Nomadico Anglet | Anglet | from €370/mo | 5.0 (3) | private, shared | — | Pop-up |
 | Maysou A Noste | Lurbe-Saint-Christau | from €420/mo | 4.8 (18) | private | 6 nights | Permanent |
 | Langeais Co-Living Castle (La Roche-Cotard) | Langeais | from €655/mo | 5.0 (17) | private | — | Permanent |
-| Enchanted Coliving | Nachamps | from €1,080/mo | 5.0 (18) | private | 14 nights | Permanent |
+| Enchanted Coliving | Nachamps | from €1,080/mo | 5.0 (19) | private | 14 nights | Permanent |
 | Les Briques | Lion-sur-Mer | from €893/mo | 4.9 (111) | private | 6 nights | Permanent |
 | NomadUnion Coliving Nice | Nice | from €900/mo | 4.9 (17) | private, shared | 30 nights | Permanent |
 | Cloud Citadel Coliving | Briançon | from €966/mo | 5.0 (80) | private, dorm, studio | 14 nights | Permanent |
-| Outsite Bordeaux | Bordeaux | from €1,000/mo | 4.6 (51) | private | 2 nights | Permanent |
+| Outsite Bordeaux | Bordeaux | from €1,000/mo | 4.6 (52) | private | 2 nights | Permanent |
 | Coworksurf Hossegor | Hossegor | from €1,050/mo | — | private, shared | 30 nights | Permanent |
-| NomadUnion Coliving (Villa) | Biot | from €1,200/mo | 4.8 (45) | private, shared | 30 nights | Permanent |
+| NomadUnion Coliving (Villa) | Biot | from €1,200/mo | 4.8 (47) | private, shared | 30 nights | Permanent |
 | Chateau Coliving | Picauville (Normandy) | On request | 4.8 (128) | private, family apartment | 15 nights | Permanent |
 | Not Sorry Coliving | near Tullins/Voiron, Isère (French Alps) | On request | — | private | — | Permanent |
-| Outsite Paris (Zoku) | Paris | On request | 4.6 (906) | private, shared | 2 nights | Permanent |
-| Pyren'Escape | Guchen (Saubissan), Pyrenees | On request | 4.9 (167) | private, shared, studio, apartment | 14 nights | Permanent |
-| The Journey of a Dream · Enchanted Coliving | Charente-Maritime | On request | 5.0 (18) | private | — | Permanent |
-| Aulus Coliving | Aulus-les-Bains | from €30/night | — | private, shared | — | Permanent |
-| Outsite Paris - Bastille | Paris | On request | — | private | — | Permanent |
+| Outsite Paris (Zoku) | Paris | On request | 4.6 (914) | private, shared | 2 nights | Permanent |
+| Pyren'Escape | Guchen (Saubissan), Pyrenees | On request | 4.9 (169) | private, shared, studio, apartment | 14 nights | Permanent |
+| The Journey of a Dream · Enchanted Coliving | Charente-Maritime | On request | 5.0 (19) | private | — | Permanent |
+| Aulus Coliving | Aulus-les-Bains | from €30/night | 5.0 (12) | private, shared | — | Permanent |
+| Outsite Paris - Bastille | Paris | On request | 5.0 (3) | private | — | Permanent |
 
 ## Price distribution
 

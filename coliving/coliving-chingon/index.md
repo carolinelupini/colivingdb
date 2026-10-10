@@ -1,6 +1,6 @@
 # Coliving Chingon
 
-> Coliving in Guadalajara, Mexico. Last updated September 24, 2026.
+> Coliving in Guadalajara, Mexico. Last updated October 10, 2026.
 
 - **Location:** Guadalajara, Mexico
 - **Type:** Permanent coliving
@@ -14,7 +14,7 @@
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Elevation:** 1,559 m
 - **Tags:** coworking, community, city
-- **Nearest airports:** Guadalajara International Airport (GDL) ~17 km; Mexico City Benito Juárez International Airport (MEX) ~469 km
+- **Nearest airports:** Guadalajara International Airport (GDL) ~17 km
 - **Website:** https://colivingchingon.com/
 - **Rating:** 4.6 from 158 Google reviews
 

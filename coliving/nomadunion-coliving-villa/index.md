@@ -1,12 +1,12 @@
 # NomadUnion Coliving (Villa)
 
-> Coliving in Biot, France. Last updated September 24, 2026.
+> Coliving in Biot, France. Last updated October 10, 2026.
 
 - **Location:** Biot, France
 - **Type:** Permanent coliving
 - **Price:** from €1,200/mo
 - **Price note:** from €40/night, est. monthly
-- **Rating:** <a href="https://maps.google.com/?cid=13882445529724868329&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (45 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=13882445529724868329&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (47 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 8000 Mbps down <small>· operator-reported</small>
@@ -17,7 +17,7 @@
 - **Tags:** community, coworking, beach, wellness
 - **Nearest airports:** Nice-Côte d'Azur Airport (NCE) ~10 km; Toulon-Hyères Airport (TLN) ~97 km; Cuneo International Airport (CUF) ~110 km
 - **Website:** https://www.nomadunion.digital/
-- **Rating:** 4.8 from 45 Google reviews
+- **Rating:** 4.8 from 47 Google reviews
 
 ## About
 

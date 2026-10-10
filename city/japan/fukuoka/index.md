@@ -1,6 +1,6 @@
 # Coliving in Fukuoka, Japan
 
-> 2 colivings in Fukuoka, Japan – last updated September 24, 2026.
+> 2 colivings in Fukuoka, Japan – last updated October 10, 2026.
 
 ## All colivings
 

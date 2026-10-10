@@ -1,6 +1,6 @@
 # colivingDB — all colivings
 
-> 640 listings. Last updated September 24, 2026.
+> 633 listings. Last updated October 10, 2026.
 
 | Coliving | City | Country | Price from | Min stay | Type |
 |---|---|---|---|---|---|
@@ -111,7 +111,6 @@
 | [Noma Collective — Dahab](/coliving/noma-collective-dahab/index.md) | Dahab | Egypt | from $1,890/event | — | Pop-up |
 | [Roma Residence (Serenity Lodge)](/coliving/roma-residence-serenity-lodge/index.md) | Sharm El-Sheikh | Egypt | from $600/mo | 30 nights | Permanent |
 | [Shali Home](/coliving/shali-home/index.md) | Siwa | Egypt | from $190/mo | 30 nights | Permanent |
-| [AfricaNomads — Addis Ababa](/coliving/africanomads-addis-ababa/index.md) | Addis Ababa | Ethiopia | from $440/wk | — | Pop-up |
 | [AfricaNomads — Addis Ababa (Dec 2027)](/coliving/africanomads-addis-ababa-dec-2027/index.md) | Addis Ababa | Ethiopia | from $440/wk | — | Pop-up |
 | [AfricaNomads — Addis Ababa (Sep 2027)](/coliving/africanomads-addis-ababa-sep-2027/index.md) | Addis Ababa | Ethiopia | from $440/wk | — | Pop-up |
 | [Hub Feenix](/coliving/hub-feenix/index.md) | Mjolbolsta (Meltola), Raseborg | Finland | from €690/mo | 14 nights | Permanent |
@@ -150,7 +149,6 @@
 | [The Plakias (Plakias Residence)](/coliving/the-plakias-plakias-residence/index.md) | Plakias | Greece | from $1,543/mo | 6 months | Permanent |
 | [Tursi Digital Nomads — Parga](/coliving/tursi-digital-nomads-parga/index.md) | Parga | Greece | from €799/event | — | Pop-up |
 | [WiFi Tribe — Athens](/coliving/wifi-tribe-athens/index.md) | Athens | Greece | from $1,990/mo | 28 nights | Pop-up |
-| [WiFi Tribe — Paros](/coliving/wifi-tribe-paros/index.md) | Paros | Greece | from $1,990/mo | 28 nights | Pop-up |
 | [Nomadico Antigua](/coliving/nomadico-antigua/index.md) | Antigua Guatemala | Guatemala | from $890/mo | — | Permanent |
 | [WiFi Tribe — Antigua](/coliving/wifi-tribe-antigua/index.md) | Antigua | Guatemala | from $1,490/mo | 28 nights | Pop-up |
 | [Noma Collective — Family Edition (Honduras)](/coliving/noma-collective-family-edition-honduras/index.md) | Roatan | Honduras | from $5,190/event | — | Pop-up |
@@ -300,7 +298,6 @@
 | [The Tamraght](/coliving/the-tamraght/index.md) | Agadir | Morocco | from $740/mo | 30 nights | Permanent |
 | [The Tasga Oudrar II](/coliving/the-tasga-oudrar-ii/index.md) | Taghazout | Morocco | from $1,429/mo | 30 nights | Permanent |
 | [CoworkSurf](/coliving/coworksurf/index.md) | Multiple (Ericeira, Canggu, others) | Multiple | On request | — | Permanent |
-| [Nomad Cruise — NC17 Atlantic Crossing](/coliving/nomad-cruise-nc17-atlantic-crossing/index.md) | Southampton → New York | Multiple | from €2,300/cruise | 7 nights | Pop-up |
 | [Nomad Cruise — NC18 Caribbean Islands](/coliving/nomad-cruise-nc18-caribbean-islands/index.md) | Barcelona → Caribbean | Multiple | from €1,900/cruise | 14 nights | Pop-up |
 | [Nomadico](/coliving/nomadico/index.md) | Multiple | Multiple | from $955/mo | — | Permanent |
 | [Outpost](/coliving/outpost-2/index.md) | Multiple (Bali, Sri Lanka) | Multiple | from $849/mo | — | Permanent |
@@ -322,8 +319,6 @@
 | [Ungsmaløya Residence](/coliving/ungsmalya-residence/index.md) | Nyksund | Norway | from $569/mo | 30 nights | Permanent |
 | [Bocas Del Toro Province Collective (WE)](/coliving/bocas-del-toro-province-collective-we/index.md) | Isla Bastimentos | Panama | from $735/mo | 30 nights | Permanent |
 | [CocoVivo](/coliving/cocovivo/index.md) | Bocas del Toro | Panama | from $1,650/mo | — | Permanent |
-| [WiFi Tribe — Bocas del Toro](/coliving/wifi-tribe-bocas-del-toro/index.md) | Bocas del Toro | Panama | from $1,790/mo | 28 nights | Pop-up |
-| [WiFi Tribe — Cusco](/coliving/wifi-tribe-cusco/index.md) | Cusco | Peru | from $1,490/mo | 28 nights | Pop-up |
 | [Communal Coliving](/coliving/communal-coliving/index.md) | Santa Fe, Siargao | Philippines | from PHP 35,000/mo | 6 nights | Permanent |
 | [Coworksurf Siargao (Lexias)](/coliving/coworksurf-siargao-lexias/index.md) | Siargao | Philippines | On request | — | Permanent |
 | [Darocotan Home](/coliving/darocotan-home/index.md) | El Nido | Philippines | from $2,846/mo | 30 nights | Permanent |
@@ -389,7 +384,6 @@
 | [WOT Lodge Soul](/coliving/wot-lodge-soul/index.md) | Ericeira | Portugal | from €451/wk | 30 nights | Permanent |
 | [WOT Ocean Soul](/coliving/wot-ocean-soul/index.md) | Praia das Maçãs (Sintra) | Portugal | On request | — | Permanent |
 | [WOT Peniche Social](/coliving/wot-peniche-social/index.md) | Peniche | Portugal | On request | 30 nights | Permanent |
-| [WiFi Tribe — Ponta Delgada (Azores)](/coliving/wifi-tribe-ponta-delgada-azores/index.md) | Ponta Delgada (Azores) | Portugal | from $1,990/mo | 28 nights | Pop-up |
 | [Wild Oasis Algarve](/coliving/wild-oasis-algarve/index.md) | Monchique | Portugal | from €650/mo | — | Permanent |
 | [Wild Souls Ericeira](/coliving/wild-souls-ericeira/index.md) | Ericeira | Portugal | from €1,800/mo | 7 nights | Permanent |
 | [samesame co-living](/coliving/samesame-co-living/index.md) | Lisbon | Portugal | from €800/mo | 8 nights | Permanent |
@@ -406,7 +400,6 @@
 | [Sonta Coliving](/coliving/sonta-coliving/index.md) | Sonta | Serbia | from €430/mo | 14 nights | Permanent |
 | [The Ive Andrića (Sonta rural coliving)](/coliving/the-ive-andrica-sonta-rural-coliving/index.md) | Sonta | Serbia | from $434/mo | 30 nights | Permanent |
 | [The Svetog Save (Mokrin House)](/coliving/the-svetog-save-mokrin-house/index.md) | Mokrin | Serbia | from $2,401/mo | 30 nights | Permanent |
-| [WiFi Tribe — Anse Royale](/coliving/wifi-tribe-anse-royale/index.md) | Anse Royale | Seychelles | from $1,990/mo | 28 nights | Pop-up |
 | [Outsite Singapore (Alma House)](/coliving/outsite-singapore-alma-house/index.md) | Singapore | Singapore | from €1,800/mo | 6 nights | Permanent |
 | [Hubs Slovenian Alps Bovec](/coliving/hubs-slovenian-alps-bovec/index.md) | Ljubljana | Slovenia | from €420/mo | 30 nights | Permanent |
 | [Cape Coliving](/coliving/cape-coliving/index.md) | Cape Town | South Africa | from €2,069/mo | 7 nights | Permanent |

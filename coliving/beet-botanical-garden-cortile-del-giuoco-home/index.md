@@ -1,6 +1,6 @@
 # Beet - Botanical Garden (Cortile del Giuoco Home)
 
-> Coliving in Palermo, Italy. Last updated September 24, 2026.
+> Coliving in Palermo, Italy. Last updated October 10, 2026.
 
 - **Location:** Palermo, Italy
 - **Type:** Permanent coliving
@@ -14,7 +14,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, community, coworking
-- **Nearest airports:** Falcone–Borsellino Airport (PMO) ~25 km; Rome–Fiumicino Leonardo da Vinci International Airport (FCO) ~422 km; Vincenzo Florio Airport Trapani-Birgi (TPS) ~80 km
+- **Nearest airports:** Falcone–Borsellino Airport (PMO) ~25 km; Vincenzo Florio Airport Trapani-Birgi (TPS) ~80 km
 - **Website:** https://coliving.com/spaces/knofwfmw
 
 ## Rates

@@ -1,12 +1,12 @@
 # Coliving in Evolène, Switzerland
 
-> 1 colivings in Evolène, Switzerland, prices from €957 to €957 per month – last updated September 24, 2026.
+> 1 colivings in Evolène, Switzerland, prices from €957 to €957 per month – last updated October 10, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Alpiness Coliving | Evolène | from CHF 900/mo | 5.0 (59) | private, shared | 15 nights | Permanent |
+| Alpiness Coliving | Evolène | from CHF 900/mo | 5.0 (62) | private, shared | 15 nights | Permanent |
 
 ## Price distribution
 

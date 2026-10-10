@@ -1,6 +1,6 @@
 # Coworkerei Coliving
 
-> Coliving in Mils / Innsbruck (Tyrol), Austria. Last updated September 24, 2026.
+> Coliving in Mils / Innsbruck (Tyrol), Austria. Last updated October 10, 2026.
 
 - **Location:** Mils / Innsbruck (Tyrol), Austria
 - **Type:** Permanent coliving
@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** mountain, coworking, city, community
-- **Nearest airports:** Innsbruck Airport (INN) ~16 km; Vienna International Airport (VIE) ~387 km; Bolzano Airport (BZO) ~93 km
+- **Nearest airports:** Innsbruck Airport (INN) ~16 km; Bolzano Airport (BZO) ~93 km; Munich Airport (MUC) ~121 km
 - **Website:** https://www.coworkerei.at/
 
 ## Rates

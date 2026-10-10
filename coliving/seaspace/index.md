@@ -1,12 +1,12 @@
 # SeaSpace
 
-> Coliving in Newquay, United Kingdom. Last updated September 24, 2026.
+> Coliving in Newquay, United Kingdom. Last updated October 10, 2026.
 
 - **Location:** Newquay, United Kingdom
 - **Type:** Permanent coliving
 - **Price:** from £1,625/mo
 - **Price note:** from £1625/month bills included, studio
-- **Rating:** <a href="https://maps.google.com/?cid=3295520278676856395&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (109 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=3295520278676856395&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (111 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Freedom, style, and a better rhythm for remote workers
@@ -14,9 +14,9 @@
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** beach, surf, coworking, community, wellness
-- **Nearest airports:** Cornwall Airport Newquay (NQY) ~7 km; London Heathrow Airport (LHR) ~344 km; Exeter International Airport (EXT) ~123 km
+- **Nearest airports:** Cornwall Airport Newquay (NQY) ~7 km; Bristol Airport (BRS) ~198 km; Exeter International Airport (EXT) ~123 km
 - **Website:** https://sea.space/stay-with-us/digital-nomads
-- **Rating:** 4.6 from 109 Google reviews
+- **Rating:** 4.6 from 111 Google reviews
 
 ## Rates
 

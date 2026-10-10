@@ -1,12 +1,12 @@
 # Coliving in Vienna, Austria
 
-> 1 colivings in Vienna, Austria, prices from €1,700 to €1,700 per month – last updated September 24, 2026.
+> 1 colivings in Vienna, Austria, prices from €1,700 to €1,700 per month – last updated October 10, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Outsite Vienna (Zoku) | Vienna | from €1,700/mo | 4.6 (1838) | private | 2 nights | Permanent |
+| Outsite Vienna (Zoku) | Vienna | from €1,700/mo | 4.6 (1861) | private | 2 nights | Permanent |
 
 ## Price distribution
 

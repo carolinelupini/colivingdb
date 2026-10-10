@@ -1,17 +1,17 @@
 # Coliving in India
 
-> 9 colivings in India, prices from €73 to €540 per month – last updated September 24, 2026.
+> 9 colivings in India, prices from €73 to €540 per month – last updated October 10, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| J Startup House, Jaipur - C Scheme | Jaipur | from INR 8,000/mo | 4.7 (322) | private, dorm | — | Permanent |
+| J Startup House, Jaipur - C Scheme | Jaipur | from INR 8,000/mo | 4.7 (331) | private, dorm | — | Permanent |
 | Sector 23 Home | Navi Mumbai | from $141/mo | — | dorm | 30 nights | Permanent |
-| NomadGao Vila Nova | Anjuna, Goa | from INR 35,000/mo | 4.8 (280) | private | 3 nights | Permanent |
-| Draper Startup House Hyderabad | Hyderabad | from €360/mo | 4.6 (550) | private, shared, dorm | — | Permanent |
+| NomadGao Vila Nova | Anjuna, Goa | from INR 35,000/mo | 4.8 (282) | private | 3 nights | Permanent |
+| Draper Startup House Hyderabad | Hyderabad | from €360/mo | 4.6 (563) | private, shared, dorm | — | Permanent |
 | Cotla Residence | Saligao, Goa | from $423/mo | — | private | 30 nights | Permanent |
-| NomadGao | Goa | from INR 35,000/mo | 4.8 (280) | private | 7 nights | Permanent |
+| NomadGao | Goa | from INR 35,000/mo | 4.8 (282) | private | 7 nights | Permanent |
 | Mazal Waddo Residence | Anjuna, Goa | from $577/mo | — | private | 30 nights | Permanent |
 | aColmeia | Candolim (Saipem), Goa | from €540/mo | 4.9 (93) | private | 8 nights | Permanent |
 | COLIWO TROIS - Kharadi Pune (Colive/Cowork/Hostel) | Pune | On request | 4.4 (161) | dorm, shared | — | Permanent |

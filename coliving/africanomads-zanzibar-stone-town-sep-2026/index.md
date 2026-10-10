@@ -1,6 +1,6 @@
 # AfricaNomads — Zanzibar (Stone Town, Sep 2026)
 
-> Coliving in Zanzibar, Tanzania. Last updated September 24, 2026.
+> Coliving in Zanzibar, Tanzania. Last updated October 10, 2026.
 
 - **Location:** Zanzibar, Tanzania
 - **Type:** Pop-up / dated edition

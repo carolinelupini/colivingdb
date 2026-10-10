@@ -1,11 +1,11 @@
 # The Switch
 
-> Coliving in Sydney, Australia. Last updated September 24, 2026.
+> Coliving in Sydney, Australia. Last updated October 10, 2026.
 
 - **Location:** Sydney, Australia
 - **Type:** Permanent coliving
 - **Price:** from A$3,503/mo
-- **Rating:** <a href="https://maps.google.com/?cid=14856466697326864251&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (81 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=14856466697326864251&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (80 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** Unleash your potential among like-minded young people
@@ -15,7 +15,7 @@
 - **Tags:** coworking, city
 - **Nearest airports:** Sydney Kingsford Smith International Airport (SYD) ~6 km; Nancy Bird Walton, Western Sydney International Airport (WSI) ~47 km; Shellharbour Airport (WOL) ~83 km
 - **Website:** https://www.switchliving.com.au/
-- **Rating:** 4.8 from 81 Google reviews
+- **Rating:** 4.8 from 80 Google reviews
 
 ## Rates
 

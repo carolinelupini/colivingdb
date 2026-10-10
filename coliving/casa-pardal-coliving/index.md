@@ -1,6 +1,6 @@
 # Casa Pardal Coliving
 
-> Coliving in La Fortesa (Calaf), Catalonia, Spain. Last updated September 24, 2026.
+> Coliving in La Fortesa (Calaf), Catalonia, Spain. Last updated October 10, 2026.
 
 - **Location:** La Fortesa (Calaf), Catalonia, Spain
 - **Type:** Permanent coliving
@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, coworking, community
-- **Nearest airports:** Josep Tarradellas Barcelona-El Prat Airport (BCN) ~68 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~447 km; Pirineus - la Seu d'Urgel Airport (LEU) ~68 km
+- **Nearest airports:** Josep Tarradellas Barcelona-El Prat Airport (BCN) ~68 km; Pirineus - la Seu d'Urgel Airport (LEU) ~68 km; Reus Airport (REU) ~71 km
 - **Website:** https://casapardal.com/
 
 ## Rates

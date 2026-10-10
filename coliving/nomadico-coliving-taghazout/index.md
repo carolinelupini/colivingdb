@@ -1,6 +1,6 @@
 # Nomadico Coliving Taghazout
 
-> Coliving in Taghazout, Morocco. Last updated September 24, 2026.
+> Coliving in Taghazout, Morocco. Last updated October 10, 2026.
 
 - **Location:** Taghazout, Morocco
 - **Type:** Permanent coliving
@@ -14,7 +14,7 @@
 - **Region:** Africa
 - **Timezone:** GMT+1 <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** beach, surf, coworking, community
-- **Nearest airports:** Al Massira Airport (AGA) ~38 km; Mohammed V International Airport (CMN) ~372 km; Essaouira-Mogador Airport (ESU) ~94 km
+- **Nearest airports:** Al Massira Airport (AGA) ~38 km; Essaouira-Mogador Airport (ESU) ~94 km
 - **Website:** https://www.nomadico.io/
 - **Rating:** 4.9 from 85 Google reviews
 

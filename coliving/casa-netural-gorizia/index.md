@@ -1,6 +1,6 @@
 # Casa Netural Gorizia
 
-> Coliving in Gorizia, Italy. Last updated September 24, 2026.
+> Coliving in Gorizia, Italy. Last updated October 10, 2026.
 
 - **Location:** Gorizia, Italy
 - **Type:** Permanent coliving
@@ -14,7 +14,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, coworking, community
-- **Nearest airports:** Trieste Airport (TRS) ~17 km; Rome–Fiumicino Leonardo da Vinci International Airport (FCO) ~473 km; Ljubljana Jože Pučnik Airport (LJU) ~72 km
+- **Nearest airports:** Trieste Airport (TRS) ~17 km; Ljubljana Jože Pučnik Airport (LJU) ~72 km; Klagenfurt Airport (KLU) ~96 km
 - **Website:** https://www.benetural.com/en/coliving/coliving-gorizia/
 - **Rating:** 5.0 from 28 Google reviews
 

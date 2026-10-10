@@ -1,12 +1,12 @@
 # Northliving
 
-> Coliving in Häggdånger, Sweden. Last updated September 24, 2026.
+> Coliving in Häggdånger, Sweden. Last updated October 10, 2026.
 
 - **Location:** Häggdånger, Sweden
 - **Type:** Permanent coliving
 - **Price:** from €850/mo
 - **Price note:** €870/month (€32/night) private room
-- **Rating:** <a href="https://maps.google.com/?cid=6603561873026615152&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (10 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=6603561873026615152&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (13 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 500 Mbps down <small>· operator-reported</small>
@@ -16,9 +16,9 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, beach, coworking, community
-- **Nearest airports:** Sundsvall-Härnösand Airport (SDL) ~22 km; Stockholm-Arlanda Airport (ARN) ~326 km; Kramfors-Sollefteå Höga Kusten Airport (KRF) ~52 km
+- **Nearest airports:** Sundsvall-Härnösand Airport (SDL) ~22 km; Umeå Airport (UME) ~182 km; Kramfors-Sollefteå Höga Kusten Airport (KRF) ~52 km
 - **Website:** https://www.mapmelon.com/colivings/northliving?ref=colivingdb
-- **Rating:** 5.0 from 10 Google reviews
+- **Rating:** 5.0 from 13 Google reviews
 
 ## Rates
 

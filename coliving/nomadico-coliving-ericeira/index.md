@@ -1,13 +1,13 @@
 # Nomadico Coliving Ericeira
 
-> Coliving in Ericeira, Portugal. Last updated September 24, 2026.
+> Coliving in Ericeira, Portugal. Last updated October 10, 2026.
 
 - **Location:** Ericeira, Portugal
 - **Type:** Pop-up / dated edition
 - **Dates:** Nov–Dec (seasonal; unverified — confirm)
 - **Price:** from €542/mo
 - **Price note:** from EUR 542/4 weeks shared room (EUR 194/week)
-- **Rating:** <a href="https://maps.google.com/?cid=6542100931878043795&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (28 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=6542100931878043795&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (29 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** Laid back vibes with active outdoor surf and beach culture
@@ -17,7 +17,7 @@
 - **Tags:** beach, surf, coworking, community, wellness
 - **Nearest airports:** Cascais Airport (CAT) ~27 km; Lisbon Humberto Delgado Airport (LIS) ~32 km
 - **Website:** https://www.nomadico.io/ericeira-coliving
-- **Rating:** 4.9 from 28 Google reviews
+- **Rating:** 4.8 from 29 Google reviews
 
 ## Rates
 

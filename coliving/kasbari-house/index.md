@@ -1,12 +1,12 @@
 # Kasbari House
 
-> Coliving in Tamraght (near Taghazout/Agadir), Morocco. Last updated September 24, 2026.
+> Coliving in Tamraght (near Taghazout/Agadir), Morocco. Last updated October 10, 2026.
 
 - **Location:** Tamraght (near Taghazout/Agadir), Morocco
 - **Type:** Permanent coliving
 - **Price:** from €350/mo
 - **Price note:** from €300/mo dorm (€90/week)
-- **Rating:** <a href="https://maps.google.com/?cid=8200057763659014504&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (57 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=8200057763659014504&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (58 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Vibe:** Work, Surf, Connect — digital nomad tribe by the beach
@@ -14,9 +14,9 @@
 - **Region:** Africa
 - **Timezone:** GMT+1 <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** surf, beach, coworking, community
-- **Nearest airports:** Al Massira Airport (AGA) ~32 km; Mohammed V International Airport (CMN) ~375 km; Essaouira-Mogador Airport (ESU) ~100 km
+- **Nearest airports:** Al Massira Airport (AGA) ~32 km; Essaouira-Mogador Airport (ESU) ~100 km
 - **Website:** https://www.kasbari.com
-- **Rating:** 4.7 from 57 Google reviews
+- **Rating:** 4.7 from 58 Google reviews
 
 ## Rates
 

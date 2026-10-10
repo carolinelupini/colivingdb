@@ -1,39 +1,27 @@
 # Pop-up colivings by month
 
-> 94 pop-up colivings (group trips, retreats and seasonal houses that run for a few weeks or months), grouped by the month they start, plus 10 coworking chapters where you book your own bed. Updated September 24, 2026.
+> 87 pop-up colivings (group trips, retreats and seasonal houses that run for a few weeks or months), grouped by the month they start, plus 10 coworking chapters where you book your own bed. Updated October 10, 2026.
 
-## Running now (9)
+## Running now (11)
 
 | Pop-up | Where | Dates | Price from | Rooms | Min stay |
 |---|---|---|---|---|---|
 | [Casa Basilico — Puglia](/coliving/casa-basilico-puglia/index.md) (fully booked) | Puglia, Italy | Aug 29 - Oct 25, 2026 | from €997/mo | — | 14 nights |
-| [AfricaNomads — Addis Ababa](/coliving/africanomads-addis-ababa/index.md) (fully booked) | Addis Ababa, Ethiopia | Aug 30 - Sept 27, 2026 | from $440/wk | private | — |
 | [Boundless Life — Andalusia (Malaga area)](/coliving/boundless-life-andalusia-malaga-area/index.md) | Andalusia (Malaga area), Spain | Apr-Jun 2026 / Sept-Nov 2026 / Dec 2026 / Jan-Mar 2027 / Apr-Jun 2027 (plus Summer Camps) | from €2,600/mo | — | — |
-| [WiFi Tribe — Anse Royale](/coliving/wifi-tribe-anse-royale/index.md) (fully booked) | Anse Royale, Seychelles | Sep 11 - Oct 9, 2026 | from $1,990/mo | private, shared | 28 nights |
-| [WiFi Tribe — Bocas del Toro](/coliving/wifi-tribe-bocas-del-toro/index.md) | Bocas del Toro, Panama | Sep 11 - Oct 9, 2026 | from $1,790/mo | private, shared | 28 nights |
-| [WiFi Tribe — Cusco](/coliving/wifi-tribe-cusco/index.md) | Cusco, Peru | Sep 11 - Oct 9, 2026 | from $1,490/mo | private, shared | 28 nights |
-| [WiFi Tribe — Paros](/coliving/wifi-tribe-paros/index.md) (fully booked) | Paros, Greece | Sep 11 - Oct 9, 2026 | from $1,990/mo | private, shared | 28 nights |
-| [WiFi Tribe — Ponta Delgada (Azores)](/coliving/wifi-tribe-ponta-delgada-azores/index.md) (fully booked) | Ponta Delgada (Azores), Portugal | Sep 11 - Oct 9, 2026 | from $1,990/mo | private, shared | 28 nights |
-| [Nomad Cruise — NC17 Atlantic Crossing](/coliving/nomad-cruise-nc17-atlantic-crossing/index.md) (fully booked) | Southampton → New York, Multiple | Sep 19 - Sep 26, 2026 | from €2,300/cruise | private, shared | 7 nights |
-
-## September 2026 (3)
-
-| Pop-up | Where | Dates | Price from | Rooms | Min stay |
-|---|---|---|---|---|---|
 | [AfricaNomads — Zanzibar (Stone Town, Sep 2026)](/coliving/africanomads-zanzibar-stone-town-sep-2026/index.md) | Zanzibar, Tanzania | Sept 27 - Oct 25, 2026 | from $440/wk | private | — |
 | [Noma Collective — Athens (Sep 2026)](/coliving/noma-collective-athens-sep-2026/index.md) (fully booked) | Athens, Greece | Sep 27 - Oct 25, 2026 | from $2,290/event | — | — |
 | [Colive Fukuoka — Hoppin Program (Oct 2026)](/coliving/colive-fukuoka-hoppin-program-oct-2026/index.md) | Fukuoka, Japan | Sep 29 - Oct 13, 2026 | from ¥112,800/event | private, shared | 14 nights |
-
-## October 2026 (10)
-
-| Pop-up | Where | Dates | Price from | Rooms | Min stay |
-|---|---|---|---|---|---|
 | [Arctic Coliving 78° North (Svalbard)](/coliving/arctic-coliving-78-north-svalbard/index.md) | Longyearbyen, Norway | October - December 2026 (polar night season) | from €280/wk | private | 14 nights |
 | [Noma Collective — Pipa](/coliving/noma-collective-pipa/index.md) | Pipa, Brazil | Oct 3 - Oct 24, 2026 | from $2,090/event | — | — |
 | [Tursi Digital Nomads — Parga](/coliving/tursi-digital-nomads-parga/index.md) | Parga, Greece | Oct 3 - 24, 2026 | from €799/event | — | — |
 | [The Better Neighbours — Lloret de Mar](/coliving/the-better-neighbours-lloret-de-mar/index.md) | Lloret de Mar, Spain | Oct 4 - Nov 1, 2026 (Autumn) | from €865/mo | — | — |
 | [Taste Remote](/coliving/taste-remote/index.md) | Civita Castellana, Italy | October 8-31, 2026 | from €690/event | private, shared | 7 nights |
 | [Trame Living](/coliving/trame-living/index.md) | Puglia, Italy | Oct 10 - 17, 2026 | from €3,800/wk | — | 7 nights |
+
+## October 2026 (4)
+
+| Pop-up | Where | Dates | Price from | Rooms | Min stay |
+|---|---|---|---|---|---|
 | [WiFi Tribe — La Paz](/coliving/wifi-tribe-la-paz/index.md) (fully booked) | La Paz, Bolivia | Oct 16 - Nov 13, 2026 | from $1,590/mo | private, shared | 28 nights |
 | [WiFi Tribe — Weligama](/coliving/wifi-tribe-weligama/index.md) | Weligama, Sri Lanka | Oct 16 - Nov 13, 2026 | from $1,690/mo | private, shared | 28 nights |
 | [WiFi Tribe — Santa Teresa](/coliving/wifi-tribe-santa-teresa/index.md) | Santa Teresa, Costa Rica | Oct 23 - Nov 20, 2026 | from $1,790/mo | private, shared | 28 nights |

@@ -1,12 +1,12 @@
 # Coliving in Kiwengwa, Tanzania
 
-> 1 colivings in Kiwengwa, Tanzania, prices from €900 to €900 per month – last updated September 24, 2026.
+> 1 colivings in Kiwengwa, Tanzania, prices from €900 to €900 per month – last updated October 10, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Surfescape Zanzibar | Kiwengwa | from €900/mo | 3.9 (134) | — | — | Permanent |
+| Surfescape Zanzibar | Kiwengwa | from €900/mo | 3.9 (137) | — | — | Permanent |
 
 ## Price distribution
 

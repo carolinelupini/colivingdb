@@ -1,6 +1,6 @@
 # Coliving in Lostwithiel, Cornwall, United Kingdom
 
-> 1 colivings in Lostwithiel, Cornwall, United Kingdom, prices from €1,288 to €1,288 per month – last updated September 24, 2026.
+> 1 colivings in Lostwithiel, Cornwall, United Kingdom, prices from €1,288 to €1,288 per month – last updated October 10, 2026.
 
 ## All colivings
 

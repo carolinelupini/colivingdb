@@ -1,12 +1,12 @@
 # Socialer Coliving & Coworking Space
 
-> Coliving in Chiang Mai, Thailand. Last updated September 24, 2026.
+> Coliving in Chiang Mai, Thailand. Last updated October 10, 2026.
 
 - **Location:** Chiang Mai, Thailand
 - **Type:** Permanent coliving
 - **Price:** from €390/mo
 - **Price note:** €300/month dorm (discounted from €390); €12/night
-- **Rating:** <a href="https://maps.google.com/?cid=7424972165397110421&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (68 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=7424972165397110421&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (69 reviews)</a> <small>· Google</small>
 - **Room types:** dorm
 - **Dorm available:** Yes
 - **Wi-Fi (on-site):** 600 Mbps down <small>· operator-reported</small>
@@ -16,7 +16,7 @@
 - **Tags:** city, coworking, community
 - **Nearest airports:** Chiang Mai International Airport (CNX) ~4 km; Lampang Airport (LPT) ~79 km; Mae Hong Son Airport (HGN) ~121 km
 - **Website:** https://socialerco.com/
-- **Rating:** 4.6 from 68 Google reviews
+- **Rating:** 4.6 from 69 Google reviews
 
 ## Rates
 

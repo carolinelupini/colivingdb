@@ -1,6 +1,6 @@
 # CoBodrum
 
-> Coliving in Bodrum, Turkey. Last updated September 24, 2026.
+> Coliving in Bodrum, Turkey. Last updated October 10, 2026.
 
 - **Location:** Bodrum, Turkey
 - **Type:** Permanent coliving
@@ -12,7 +12,7 @@
 - **Region:** Asia
 - **Timezone:** GMT+3 <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** community, coworking, beach
-- **Nearest airports:** Milas Bodrum International Airport (BJV) ~32 km; İstanbul Airport (IST) ~485 km; Kos International Airport "Ippokratis" (KGS) ~40 km
+- **Nearest airports:** Milas Bodrum International Airport (BJV) ~32 km; Kos International Airport "Ippokratis" (KGS) ~40 km; Samos Airport (SMI) ~87 km
 - **Website:** https://www.cobodrum.com/
 - **Rating:** 4.7 from 14 Google reviews
 

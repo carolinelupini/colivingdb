@@ -1,6 +1,6 @@
 # Rooral Coliving
 
-> Coliving in Benarrabá, Spain. Last updated September 24, 2026.
+> Coliving in Benarrabá, Spain. Last updated October 10, 2026.
 
 - **Location:** Benarrabá, Spain
 - **Type:** Permanent coliving
@@ -16,7 +16,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, mountain, community, coworking, wellness
-- **Nearest airports:** Gibraltar Airport (GIB) ~45 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~463 km; Málaga-Costa del Sol Airport (AGP) ~71 km
+- **Nearest airports:** Gibraltar Airport (GIB) ~45 km; Málaga-Costa del Sol Airport (AGP) ~71 km; Jerez Airport (XRY) ~73 km
 - **Website:** https://www.mapmelon.com/colivings/rooral-coliving?ref=colivingdb
 - **Rating:** 5.0 from 111 Google reviews
 

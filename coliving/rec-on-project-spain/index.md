@@ -1,6 +1,6 @@
 # REC.ON Project Spain
 
-> Coliving in Bolaimi (Sierra Maria-Los Velez, Almeria), Spain. Last updated September 24, 2026.
+> Coliving in Bolaimi (Sierra Maria-Los Velez, Almeria), Spain. Last updated October 10, 2026.
 
 - **Location:** Bolaimi (Sierra Maria-Los Velez, Almeria), Spain
 - **Type:** Permanent coliving
@@ -17,7 +17,7 @@
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Elevation:** 1,207 m
 - **Tags:** mountain, rural, coworking, community
-- **Nearest airports:** Region of Murcia International Airport (RMU) ~92 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~333 km; Almería Airport (LEI) ~98 km
+- **Nearest airports:** Region of Murcia International Airport (RMU) ~92 km; Alicante-Elche Miguel Hernández Airport (ALC) ~154 km; Almería Airport (LEI) ~98 km
 - **Website:** https://www.mapmelon.com/colivings/rec-on-project-spain?ref=colivingdb
 - **Rating:** 4.9 from 103 Google reviews
 

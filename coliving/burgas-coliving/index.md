@@ -1,12 +1,12 @@
 # Burgas Coliving
 
-> Coliving in Burgas, Bulgaria. Last updated September 24, 2026.
+> Coliving in Burgas, Bulgaria. Last updated October 10, 2026.
 
 - **Location:** Burgas, Bulgaria
 - **Type:** Permanent coliving
 - **Price:** from €1,400/mo
 - **Price note:** marketed as very affordable; pricing on request
-- **Rating:** <a href="https://maps.google.com/?cid=11758086755039516598&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (48 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=11758086755039516598&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (49 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
@@ -14,9 +14,9 @@
 - **Region:** Europe
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** beach, city, coworking, community
-- **Nearest airports:** Burgas Airport (BOJ) ~9 km; Sofia Airport (SOF) ~332 km; Varna Airport (VAR) ~87 km
+- **Nearest airports:** Burgas Airport (BOJ) ~9 km; Varna Airport (VAR) ~87 km
 - **Website:** https://www.mapmelon.com/colivings/burgas-coliving?ref=colivingdb
-- **Rating:** 4.9 from 48 Google reviews
+- **Rating:** 4.9 from 49 Google reviews
 
 ## Rates
 

@@ -1,12 +1,12 @@
 # Hiriketiya Home
 
-> Coliving in Hiriketiya (Dickwella), Matara, Sri Lanka. Last updated September 24, 2026.
+> Coliving in Hiriketiya (Dickwella), Matara, Sri Lanka. Last updated October 10, 2026.
 
 - **Location:** Hiriketiya (Dickwella), Matara, Sri Lanka
 - **Type:** Permanent coliving
 - **Price:** from $685/mo
 - **Price note:** from BGN 1,172/mo shared 2-bed (~€599)
-- **Rating:** <a href="https://maps.google.com/?cid=5904124968667354870&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (18 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=5904124968667354870&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (19 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** Yes
 - **Wi-Fi (on-site):** 120 Mbps down <small>· operator-reported</small><br><small>120 Mbps down / 60 Mbps up</small>
@@ -17,7 +17,7 @@
 - **Tags:** beach, surf, coworking, community, wellness
 - **Nearest airports:** Koggala Airport (KCT) ~43 km; Bandaranaike International Colombo Airport (CMB) ~163 km; Mattala Rajapaksa International Airport (HRI) ~58 km
 - **Website:** https://coliving.com/spaces/naq488lh
-- **Rating:** 4.9 from 18 Google reviews
+- **Rating:** 4.7 from 19 Google reviews
 
 ## Rates
 

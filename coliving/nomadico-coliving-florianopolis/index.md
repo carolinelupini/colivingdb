@@ -1,6 +1,6 @@
 # Nomadico Coliving Florianópolis
 
-> Coliving in Florianópolis, Brazil. Last updated September 24, 2026.
+> Coliving in Florianópolis, Brazil. Last updated October 10, 2026.
 
 - **Location:** Florianópolis, Brazil
 - **Type:** Pop-up / dated edition

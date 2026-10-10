@@ -1,12 +1,12 @@
 # Coliving in Burgas, Bulgaria
 
-> 1 colivings in Burgas, Bulgaria, prices from €1,400 to €1,400 per month – last updated September 24, 2026.
+> 1 colivings in Burgas, Bulgaria, prices from €1,400 to €1,400 per month – last updated October 10, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Burgas Coliving | Burgas | from €1,400/mo | 4.9 (48) | private | — | Permanent |
+| Burgas Coliving | Burgas | from €1,400/mo | 4.9 (49) | private | — | Permanent |
 
 ## Price distribution
 

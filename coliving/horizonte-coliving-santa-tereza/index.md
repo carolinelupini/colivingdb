@@ -1,6 +1,6 @@
 # Horizonte Coliving - Santa Tereza
 
-> Coliving in Belo Horizonte, Brazil. Last updated September 24, 2026.
+> Coliving in Belo Horizonte, Brazil. Last updated October 10, 2026.
 
 - **Location:** Belo Horizonte, Brazil
 - **Type:** Permanent coliving
@@ -17,7 +17,7 @@
 - **Region:** Latin America
 - **Timezone:** GMT-3 <small>· US East: full workday overlap · Central Europe: good overlap</small>
 - **Tags:** community, coworking, city
-- **Nearest airports:** Tancredo Neves International Airport (CNF) ~32 km; São Paulo/Guarulhos–Governor André Franco Montoro International Airport (GRU) ~471 km
+- **Nearest airports:** Tancredo Neves International Airport (CNF) ~32 km
 - **Website:** https://www.horizontecoliving.com/
 - **Rating:** 5.0 from 26 Google reviews
 

@@ -1,12 +1,12 @@
 # Pitaya coliving
 
-> Coliving in Arrecife, Spain. Last updated September 24, 2026.
+> Coliving in Arrecife, Spain. Last updated October 10, 2026.
 
 - **Location:** Arrecife, Spain
 - **Type:** Permanent coliving
 - **Price:** from €1,050/mo
 - **Price note:** from €41/night, €1,050/month
-- **Rating:** <a href="https://maps.google.com/?cid=15454123467459709974&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (66 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=15454123467459709974&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (67 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 300 Mbps down <small>· operator-reported</small>
@@ -18,7 +18,7 @@
 - **Tags:** island, beach, surf, coworking, community, wellness
 - **Nearest airports:** César Manrique-Lanzarote Airport (ACE) ~6 km; Fuerteventura Airport (FUE) ~64 km
 - **Website:** https://www.mapmelon.com/colivings/pitaya-coliving?ref=colivingdb
-- **Rating:** 5.0 from 66 Google reviews
+- **Rating:** 5.0 from 67 Google reviews
 
 ## Rates
 

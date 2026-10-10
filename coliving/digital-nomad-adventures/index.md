@@ -1,6 +1,6 @@
 # Digital Nomad Adventures
 
-> Coliving in Koh Phangan, Thailand. Last updated September 24, 2026.
+> Coliving in Koh Phangan, Thailand. Last updated October 10, 2026.
 
 - **Location:** Koh Phangan, Thailand
 - **Type:** Permanent coliving
@@ -14,7 +14,7 @@
 - **Region:** Asia
 - **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** beach, island, coworking, community, wellness
-- **Nearest airports:** Samui International Airport (USM) ~21 km; Suvarnabhumi Airport (BKK) ~446 km; Surat Thani Airport (URT) ~118 km
+- **Nearest airports:** Samui International Airport (USM) ~21 km; Surat Thani Airport (URT) ~118 km; Chumphon Airport (CJM) ~131 km
 - **Website:** https://digitalnomadadventures.com/co-living/
 - **Rating:** 4.8 from 40 Google reviews
 

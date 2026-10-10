@@ -1,12 +1,12 @@
 # Coliving in Lenk, Switzerland
 
-> 1 colivings in Lenk, Switzerland, prices from €675 to €675 per month – last updated September 24, 2026.
+> 1 colivings in Lenk, Switzerland, prices from €675 to €675 per month – last updated October 10, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Hubs Swiss Alps Lenk | Lenk | from CHF 633/mo | 4.9 (45) | private, studio, apartment | 30 nights | Permanent |
+| Hubs Swiss Alps Lenk | Lenk | from CHF 633/mo | 4.9 (48) | private, studio, apartment | 30 nights | Permanent |
 
 ## Price distribution
 

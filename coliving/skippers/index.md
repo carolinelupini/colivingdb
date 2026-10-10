@@ -1,6 +1,6 @@
 # Skippers
 
-> Coliving in Diani Beach, Kenya. Last updated September 24, 2026.
+> Coliving in Diani Beach, Kenya. Last updated October 10, 2026.
 
 - **Location:** Diani Beach, Kenya
 - **Type:** Permanent coliving
@@ -15,7 +15,7 @@
 - **Region:** Africa
 - **Timezone:** GMT+3 <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** beach, coworking, community, surf
-- **Nearest airports:** Moi International Airport (MBA) ~27 km; Jomo Kenyatta International Airport (NBO) ~442 km; Tanga Airport (TGT) ~107 km
+- **Nearest airports:** Moi International Airport (MBA) ~27 km; Tanga Airport (TGT) ~107 km; Malindi International Airport (MYD) ~130 km
 - **Website:** https://www.teamskippers.com/
 - **Rating:** 4.6 from 69 Google reviews
 

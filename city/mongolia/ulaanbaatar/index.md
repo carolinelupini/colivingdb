@@ -1,6 +1,6 @@
 # Coliving in Ulaanbaatar, Mongolia
 
-> 1 colivings in Ulaanbaatar, Mongolia – last updated September 24, 2026.
+> 1 colivings in Ulaanbaatar, Mongolia – last updated October 10, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Mojo Cohouse
 
-> Coliving in Palermo, Italy. Last updated September 24, 2026.
+> Coliving in Palermo, Italy. Last updated October 10, 2026.
 
 - **Location:** Palermo, Italy
 - **Type:** Permanent coliving
@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** community, coworking, city
-- **Nearest airports:** Falcone–Borsellino Airport (PMO) ~24 km; Rome–Fiumicino Leonardo da Vinci International Airport (FCO) ~420 km; Vincenzo Florio Airport Trapani-Birgi (TPS) ~80 km
+- **Nearest airports:** Falcone–Borsellino Airport (PMO) ~24 km; Vincenzo Florio Airport Trapani-Birgi (TPS) ~80 km
 - **Website:** https://mojocohouse.com/
 - **Rating:** 4.6 from 59 Google reviews
 

@@ -1,6 +1,6 @@
 # MOOM Coliving
 
-> Coliving in Rendsburg, Germany. Last updated September 24, 2026.
+> Coliving in Rendsburg, Germany. Last updated October 10, 2026.
 
 - **Location:** Rendsburg, Germany
 - **Type:** Permanent coliving
@@ -13,7 +13,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, community, coworking, eco, wellness
-- **Nearest airports:** Sønderborg Airport (SGD) ~74 km; Frankfurt Main Airport (FRA) ~481 km; Hamburg Helmut Schmidt Airport (HAM) ~77 km
+- **Nearest airports:** Sønderborg Airport (SGD) ~74 km; Hamburg Helmut Schmidt Airport (HAM) ~77 km; Sea-Airport Cuxhaven/Nordholz / Nordholz Naval Airbase (FCN) ~88 km
 - **Website:** https://moom.space/en/home/
 
 ## Rates

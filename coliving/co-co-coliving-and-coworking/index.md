@@ -1,11 +1,12 @@
 # CO-CO Coliving & Coworking
 
-> Coliving in Dénia, Spain. Last updated September 24, 2026.
+> Coliving in Dénia, Spain. Last updated October 10, 2026.
 
 - **Location:** Dénia, Spain
 - **Type:** Permanent coliving
 - **Price:** from €80/night
 - **Price note:** from €80/night for a double room sharing a bathroom (Agave, Almendra) · Oleander and Pool House from €90/night · Rooftop room with private bathroom from €95/night; 10% off stays of 14+ nights, 25% off 29+ nights
+- **Rating:** <a href="https://maps.google.com/?cid=11977788219410574337&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (45 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** A small Costa Blanca villa for remote workers — pool, roof terrace, hiking and climbing nearby.
@@ -14,8 +15,9 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** beach, community, coworking
-- **Nearest airports:** Alicante-Elche Miguel Hernández Airport (ALC) ~85 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~367 km; Valencia Airport (VLC) ~91 km
+- **Nearest airports:** Alicante-Elche Miguel Hernández Airport (ALC) ~85 km; Valencia Airport (VLC) ~91 km; Ibiza Airport (IBZ) ~108 km
 - **Website:** https://www.mapmelon.com/colivings/co-co-coliving-coworking-costablanca?ref=colivingdb
+- **Rating:** 5.0 from 45 Google reviews
 
 ## Rates
 

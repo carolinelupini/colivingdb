@@ -1,6 +1,6 @@
 # AfricaNomads — Addis Ababa (Dec 2027)
 
-> Coliving in Addis Ababa, Ethiopia. Last updated September 24, 2026.
+> Coliving in Addis Ababa, Ethiopia. Last updated October 10, 2026.
 
 - **Location:** Addis Ababa, Ethiopia
 - **Type:** Pop-up / dated edition

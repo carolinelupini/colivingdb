@@ -1,6 +1,6 @@
 # Co.404 Oaxaca City
 
-> Coliving in Oaxaca, Mexico. Last updated September 24, 2026.
+> Coliving in Oaxaca, Mexico. Last updated October 10, 2026.
 
 - **Location:** Oaxaca, Mexico
 - **Type:** Permanent coliving
@@ -15,7 +15,7 @@
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Elevation:** 1,630 m
 - **Tags:** city, community, coworking
-- **Nearest airports:** Xoxocotlán International Airport (OAX) ~8 km; Mexico City Benito Juárez International Airport (MEX) ~361 km; Puerto Escondido International Airport (PXM) ~138 km
+- **Nearest airports:** Xoxocotlán International Airport (OAX) ~8 km; Puerto Escondido International Airport (PXM) ~138 km
 - **Website:** https://co404.com
 - **Rating:** 4.6 from 130 Google reviews
 

@@ -1,12 +1,12 @@
 # Masseria Olga
 
-> Coliving in Valle d'Itria (Puglia), Italy. Last updated September 24, 2026.
+> Coliving in Valle d'Itria (Puglia), Italy. Last updated October 10, 2026.
 
 - **Location:** Valle d'Itria (Puglia), Italy
 - **Type:** Permanent coliving
 - **Price:** from €650/mo
 - **Price note:** from €150/week single room (~€650/mo est.)
-- **Rating:** <a href="https://maps.google.com/?cid=3434219818951056167&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (82 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=3434219818951056167&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (83 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Slow down, connect, and get things done in Puglia
@@ -14,9 +14,9 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, coworking, community, wellness
-- **Nearest airports:** Bari Karol Wojtyła International Airport (BRI) ~56 km; Rome–Fiumicino Leonardo da Vinci International Airport (FCO) ~432 km; Brindisi Airport (BDS) ~61 km
+- **Nearest airports:** Bari Karol Wojtyła International Airport (BRI) ~56 km; Brindisi Airport (BDS) ~61 km
 - **Website:** https://masseriaolga.com/coliving/
-- **Rating:** 4.8 from 82 Google reviews
+- **Rating:** 4.8 from 83 Google reviews
 
 ## Rates
 

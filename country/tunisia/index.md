@@ -1,13 +1,13 @@
 # Coliving in Tunisia
 
-> 3 colivings in Tunisia – last updated September 24, 2026.
+> 3 colivings in Tunisia – last updated October 10, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
 | CoZi - Coworking Space | Houmt Souk | On request | 4.6 (47) | private | 1 night | Permanent |
-| CoZi Coliving Djerba | Djerba (Mezraia) | On request | 4.7 (43) | private, dorm | — | Permanent |
+| CoZi Coliving Djerba | Djerba (Mezraia) | On request | 4.7 (44) | private, dorm | — | Permanent |
 | Pangea — Tunis | Tunis | from $299/ticket | — | — | — | Pop-up |
 
 ## Upcoming pop-ups

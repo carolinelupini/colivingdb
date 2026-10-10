@@ -1,6 +1,6 @@
 # The Tamraght
 
-> Coliving in Agadir, Morocco. Last updated September 24, 2026.
+> Coliving in Agadir, Morocco. Last updated October 10, 2026.
 
 - **Location:** Agadir, Morocco
 - **Type:** Permanent coliving
@@ -14,7 +14,7 @@
 - **Region:** Africa
 - **Timezone:** GMT+1 <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** beach, surf, community, coworking
-- **Nearest airports:** Al Massira Airport (AGA) ~34 km; Mohammed V International Airport (CMN) ~373 km; Essaouira-Mogador Airport (ESU) ~98 km
+- **Nearest airports:** Al Massira Airport (AGA) ~34 km; Essaouira-Mogador Airport (ESU) ~98 km
 - **Website:** https://coliving.com/spaces/bfygsnjv
 
 ## Rates

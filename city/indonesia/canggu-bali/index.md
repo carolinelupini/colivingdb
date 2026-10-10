@@ -1,12 +1,12 @@
 # Coliving in Canggu, Bali, Indonesia
 
-> 2 colivings in Canggu, Bali, Indonesia, prices from €780 to €1,600 per month – last updated September 24, 2026.
+> 2 colivings in Canggu, Bali, Indonesia, prices from €780 to €1,600 per month – last updated October 10, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Outpost | Canggu, Bali | from $1,095/mo | 4.7 (323) | private, shared | — | Permanent |
+| Outpost | Canggu, Bali | from $1,095/mo | 4.7 (328) | private, shared | — | Permanent |
 | Boundless Life — Canggu, Bali | Canggu, Bali | from €1,600/mo | — | — | — | Pop-up |
 
 ## Price distribution

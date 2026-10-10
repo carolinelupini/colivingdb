@@ -1,12 +1,12 @@
 # Pranik Living
 
-> Coliving in Medellín (Laureles), Colombia. Last updated September 24, 2026.
+> Coliving in Medellín (Laureles), Colombia. Last updated October 10, 2026.
 
 - **Location:** Medellín (Laureles), Colombia
 - **Type:** Permanent coliving
 - **Price:** from $1,230/mo
 - **Price note:** from $284/week Essential Room (~$1,136/mo), monthly discounts
-- **Rating:** <a href="https://maps.google.com/?cid=14918800301315675914&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (62 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=14918800301315675914&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (66 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Designed for deep rest and focused work, conscious community living
@@ -18,7 +18,7 @@
 - **Tags:** city, coworking, community, wellness
 - **Nearest airports:** Enrique Olaya Herrera Airport (EOH) ~3 km; El Dorado International Airport (BOG) ~235 km; Jose Maria Córdova International Airport (MDE) ~21 km
 - **Website:** https://www.mapmelon.com/colivings/pranik-living?ref=colivingdb
-- **Rating:** 4.9 from 62 Google reviews
+- **Rating:** 4.9 from 66 Google reviews
 
 ## Rates
 

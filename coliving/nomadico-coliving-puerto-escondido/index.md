@@ -1,12 +1,12 @@
 # Nomadico Coliving Puerto Escondido
 
-> Coliving in Puerto Escondido, Mexico. Last updated September 24, 2026.
+> Coliving in Puerto Escondido, Mexico. Last updated October 10, 2026.
 
 - **Location:** Puerto Escondido, Mexico
 - **Type:** Permanent coliving
 - **Price:** from $749/mo
 - **Price note:** from $749/mo (operator site, ~€690)
-- **Rating:** <a href="https://maps.google.com/?cid=2257094445319845272&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (23 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=2257094445319845272&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (25 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** 'Barefoot beach life' at the Zicatela house — surfboards against café walls, unhurried sunset plans; the Centro house is 'close enough to the action, far enough to still hear the birds.'
@@ -14,9 +14,9 @@
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Tags:** beach, surf, coworking, community
-- **Nearest airports:** Puerto Escondido International Airport (PXM) ~1 km; Mexico City Benito Juárez International Airport (MEX) ~449 km; Bahías de Huatulco International Airport (HUX) ~88 km
+- **Nearest airports:** Puerto Escondido International Airport (PXM) ~1 km; Xoxocotlán International Airport (OAX) ~131 km; Bahías de Huatulco International Airport (HUX) ~88 km
 - **Website:** https://www.nomadico.io/puerto-escondido-coliving
-- **Rating:** 5.0 from 23 Google reviews
+- **Rating:** 5.0 from 25 Google reviews
 
 ## Rates
 

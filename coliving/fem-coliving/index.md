@@ -1,12 +1,12 @@
 # FEM Coliving
 
-> Coliving in Sant Joan de les Abadesses, Spain. Last updated September 24, 2026.
+> Coliving in Sant Joan de les Abadesses, Spain. Last updated October 10, 2026.
 
 - **Location:** Sant Joan de les Abadesses, Spain
 - **Type:** Permanent coliving
 - **Price:** from €690/mo
 - **Price note:** €690/mo; €23/night
-- **Rating:** <a href="https://maps.google.com/?cid=13628439924642064845&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (87 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=13628439924642064845&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (89 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 1000 Mbps down <small>· operator-reported</small>
@@ -17,7 +17,7 @@
 - **Tags:** mountain, rural, community, coworking
 - **Nearest airports:** Girona-Costa Brava Airport (GRO) ~53 km; Pirineus - la Seu d'Urgel Airport (LEU) ~73 km; Perpignan-Rivesaltes (Llabanère) Airport (PGF) ~74 km
 - **Website:** https://femcoliving.com/
-- **Rating:** 5.0 from 87 Google reviews
+- **Rating:** 5.0 from 89 Google reviews
 
 ## Rates
 

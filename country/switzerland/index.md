@@ -1,6 +1,6 @@
 # Coliving in Switzerland
 
-> 13 colivings in Switzerland, prices from €500 to €2,196 per month – last updated September 24, 2026.
+> 13 colivings in Switzerland, prices from €500 to €2,196 per month – last updated October 10, 2026.
 
 ## All colivings
 
@@ -8,15 +8,15 @@
 |---|---|---|---|---|---|---|
 | Coliving Frilingue | Liddes | from €500/mo | 5.0 (33) | private, shared, dorm | — | Permanent |
 | Petit Velan Coliving | Bourg-Saint-Pierre | from CHF 500/mo | — | private, shared | 7 nights | Permanent |
-| Hubs Swiss Alps Lenk | Lenk | from CHF 633/mo | 4.9 (45) | private, studio, apartment | 30 nights | Permanent |
+| Hubs Swiss Alps Lenk | Lenk | from CHF 633/mo | 4.9 (48) | private, studio, apartment | 30 nights | Permanent |
 | Swiss Alps Coliving | Liddes | from CHF 700/mo | — | private, shared | 7 nights | Permanent |
 | Fond de Ville Home II | Liddes | from $994/mo | — | private, shared | 30 nights | Permanent |
 | Swiss Escape | Grimentz | from CHF 990/mo | 5.0 (65) | private, shared | 7 nights | Permanent |
-| Alpiness Coliving | Evolène | from CHF 900/mo | 5.0 (59) | private, shared | 15 nights | Permanent |
+| Alpiness Coliving | Evolène | from CHF 900/mo | 5.0 (62) | private, shared | 15 nights | Permanent |
 | Batteuse Home | Grimentz | from $2,511/mo | — | private | 30 nights | Permanent |
-| Hyve - meet, sleep, work and eat! | Basel | On request | 4.4 (897) | private, dorm | — | Permanent |
+| Hyve - meet, sleep, work and eat! | Basel | On request | 4.3 (914) | private, dorm | — | Permanent |
 | Mont Blanc Coliving | Finhaut | On request | 4.0 (1) | private, shared, dorm | — | Permanent |
-| STAY@Basel SBB | Basel | On request | 4.3 (199) | private, dorm | — | Permanent |
+| STAY@Basel SBB | Basel | On request | 4.3 (205) | private, dorm | — | Permanent |
 | Vermont Hub | Leysin | On request | 4.7 (13) | private, shared | 7 nights | Permanent |
 | Snomad Fest 2026 | Liddes | from CHF 450/ticket | — | — | — | Festival |
 

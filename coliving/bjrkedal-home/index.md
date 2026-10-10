@@ -1,6 +1,6 @@
 # Bjørkedal Home
 
-> Coliving in Volda, Norway. Last updated September 24, 2026.
+> Coliving in Volda, Norway. Last updated October 10, 2026.
 
 - **Location:** Volda, Norway
 - **Type:** Permanent coliving
@@ -14,7 +14,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, mountain, coworking, community, eco
-- **Nearest airports:** Ørsta-Volda Airport, Hovden (HOV) ~19 km; Oslo-Gardermoen International Airport (OSL) ~338 km; Ålesund Airport (AES) ~61 km
+- **Nearest airports:** Ørsta-Volda Airport, Hovden (HOV) ~19 km; Ålesund Airport (AES) ~61 km; Florø Airport (FRO) ~72 km
 - **Website:** https://coliving.com/spaces/gded5bjl
 
 ## Rates

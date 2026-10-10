@@ -1,6 +1,6 @@
 # Boundless Life — Andalusia (Malaga area)
 
-> Coliving in Andalusia (Malaga area), Spain. Last updated September 24, 2026.
+> Coliving in Andalusia (Malaga area), Spain. Last updated October 10, 2026.
 
 - **Location:** Andalusia (Malaga area), Spain
 - **Type:** Pop-up / dated edition
@@ -16,7 +16,7 @@
 - **Included:** Kids' education center (weekdays), All meals for enrolled kids, Biweekly cultural field trips, 24/7 coworking hub access, Local community manager, Weekly wellness activities, Welcome/farewell events, Airport transfers, Family apartment: utilities, weekly cleaning, kitchen amenities, linens
 - **Not included:** Extra fee for unenrolled teens/visiting guests
 - **Area:** Based in Estepona, with Blue Flag beaches and a car-free old town of tapas cafes; hiking in Parque Natural Sierra de Estepona and day trips to Seville and Granada.
-- **Nearest airports:** Málaga-Costa del Sol Airport (AGP) ~9 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~426 km; F.G.L. Airport Granada-Jaén Airport (GRX) ~77 km
+- **Nearest airports:** Málaga-Costa del Sol Airport (AGP) ~9 km; F.G.L. Airport Granada-Jaén Airport (GRX) ~77 km; Gibraltar Airport (GIB) ~104 km
 - **Getting there:** Málaga (AGP), ~45–60 min drive — approximate, not stated on site.
 - **Website:** https://boundless.life/andalusia-spain
 

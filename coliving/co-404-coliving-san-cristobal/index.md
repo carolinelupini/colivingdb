@@ -1,12 +1,12 @@
 # co.404 Coliving San Cristóbal
 
-> Coliving in San Cristóbal de las Casas, Mexico. Last updated September 24, 2026.
+> Coliving in San Cristóbal de las Casas, Mexico. Last updated October 10, 2026.
 
 - **Location:** San Cristóbal de las Casas, Mexico
 - **Type:** Permanent coliving
 - **Price:** from $401/mo
 - **Price note:** from $401/month, with discounts for longer stays
-- **Rating:** <a href="https://maps.google.com/?cid=5715453666132333859&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (81 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=5715453666132333859&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (88 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Vibe:** Adventure-oriented digital nomad community with family dinners
@@ -17,7 +17,7 @@
 - **Tags:** city, mountain, coworking, community
 - **Nearest airports:** Angel Albino Corzo International Airport (TGZ) ~46 km; Carlos Rovirosa Pérez International Airport (VSA) ~141 km
 - **Website:** https://co404.com/san-cristobal/
-- **Rating:** 4.8 from 81 Google reviews
+- **Rating:** 4.8 from 88 Google reviews
 
 ## Rates
 

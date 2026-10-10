@@ -1,13 +1,13 @@
 # Coliving in Medellín (Laureles), Colombia
 
-> 2 colivings in Medellín (Laureles), Colombia, prices from €650 to €1,131 per month – last updated September 24, 2026.
+> 2 colivings in Medellín (Laureles), Colombia, prices from €650 to €1,131 per month – last updated October 10, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Balu Coliving | Medellín (Laureles) | from €650/mo | 4.8 (49) | private | 30 nights | Permanent |
-| Pranik Living | Medellín (Laureles) | from $1,230/mo | 4.9 (62) | private | 3 nights | Permanent |
+| Balu Coliving | Medellín (Laureles) | from €650/mo | 4.8 (50) | private | 30 nights | Permanent |
+| Pranik Living | Medellín (Laureles) | from $1,230/mo | 4.9 (66) | private | 3 nights | Permanent |
 
 ## Price distribution
 

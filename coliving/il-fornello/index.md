@@ -1,12 +1,12 @@
 # Il Fornello
 
-> Coliving in Citta della Pieve (Umbria/Tuscany border), Italy. Last updated September 24, 2026.
+> Coliving in Citta della Pieve (Umbria/Tuscany border), Italy. Last updated October 10, 2026.
 
 - **Location:** Citta della Pieve (Umbria/Tuscany border), Italy
 - **Type:** Permanent coliving
 - **Price:** from €700/mo
 - **Price note:** not published; monthly stays via Airbnb/direct
-- **Rating:** <a href="https://maps.google.com/?cid=17286785615260854341&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (20 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=17286785615260854341&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (21 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Slow-life coliving retreat in a converted terracotta factory blending social activities (pizza nights, group excursions) with wellness and gastronomy
@@ -16,7 +16,7 @@
 - **Tags:** rural, coworking, community, wellness
 - **Nearest airports:** Perugia San Francesco d'Assisi – Umbria International Airport (PEG) ~45 km; Rome–Fiumicino Leonardo da Vinci International Airport (FCO) ~129 km; Florence Airport, Peretola (FLR) ~115 km
 - **Website:** https://cocohub.io/europe/italy/citta-della-pieve/il-fornello
-- **Rating:** 4.4 from 20 Google reviews
+- **Rating:** 4.3 from 21 Google reviews
 
 ## Rates
 

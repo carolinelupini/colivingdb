@@ -1,11 +1,11 @@
 # Coliving Chingon Suites
 
-> Coliving in Guadalajara, Mexico. Last updated September 24, 2026.
+> Coliving in Guadalajara, Mexico. Last updated October 10, 2026.
 
 - **Location:** Guadalajara, Mexico
 - **Type:** Permanent coliving
 - **Price:** from MXN 3,000/wk
-- **Rating:** <a href="https://maps.google.com/?cid=4382819127012614523&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.2 (73 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=4382819127012614523&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.2 (74 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Vibrant nomad community with creative energy in Colonia Americana
@@ -14,9 +14,9 @@
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Elevation:** 1,559 m
 - **Tags:** coworking, community, city
-- **Nearest airports:** Guadalajara International Airport (GDL) ~18 km; Mexico City Benito Juárez International Airport (MEX) ~469 km
+- **Nearest airports:** Guadalajara International Airport (GDL) ~18 km
 - **Website:** https://colivingchingon.com/
-- **Rating:** 4.2 from 73 Google reviews
+- **Rating:** 4.2 from 74 Google reviews
 
 ## Rates
 

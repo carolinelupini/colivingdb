@@ -1,11 +1,12 @@
 # B'HoiAn Retreat
 
-> Coliving in Hoi An, Vietnam. Last updated September 24, 2026.
+> Coliving in Hoi An, Vietnam. Last updated October 10, 2026.
 
 - **Location:** Hoi An, Vietnam
 - **Type:** Permanent coliving
 - **Price:** from €36/night
 - **Price note:** from €36/night for a standard private room with its own bathroom · loft room from €46/night; both include a wellness package of weekday yoga, breakfast and a vegetarian lunch. 5–15% off stays of 4+ weeks
+- **Rating:** <a href="https://maps.google.com/?cid=16322660540855197610&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (68 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 91 Mbps down <small>· operator-reported</small><br><small>91 Mbps listed</small>
@@ -17,6 +18,7 @@
 - **Tags:** wellness, community, coworking
 - **Nearest airports:** Da Nang International Airport (DAD) ~25 km; Phu Bai International Airport (HUI) ~91 km
 - **Website:** https://www.mapmelon.com/colivings/b-hoian-retreat-vietnam?ref=colivingdb
+- **Rating:** 5.0 from 68 Google reviews
 
 ## Rates
 

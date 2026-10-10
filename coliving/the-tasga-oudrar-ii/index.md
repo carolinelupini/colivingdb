@@ -1,6 +1,6 @@
 # The Tasga Oudrar II
 
-> Coliving in Taghazout, Morocco. Last updated September 24, 2026.
+> Coliving in Taghazout, Morocco. Last updated October 10, 2026.
 
 - **Location:** Taghazout, Morocco
 - **Type:** Permanent coliving
@@ -14,7 +14,7 @@
 - **Region:** Africa
 - **Timezone:** GMT+1 <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** beach, surf, community, coworking, wellness
-- **Nearest airports:** Al Massira Airport (AGA) ~38 km; Mohammed V International Airport (CMN) ~372 km; Essaouira-Mogador Airport (ESU) ~94 km
+- **Nearest airports:** Al Massira Airport (AGA) ~38 km; Essaouira-Mogador Airport (ESU) ~94 km
 - **Website:** https://coliving.com/spaces/vwoainxh
 
 ## Rates

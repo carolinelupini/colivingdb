@@ -1,6 +1,6 @@
 # Coliving in Botswana
 
-> 1 colivings in Botswana – last updated September 24, 2026.
+> 1 colivings in Botswana – last updated October 10, 2026.
 
 ## All colivings
 

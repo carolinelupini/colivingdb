@@ -1,6 +1,6 @@
 # Somewhere Different
 
-> Coliving in Blackpool, United Kingdom. Last updated September 24, 2026.
+> Coliving in Blackpool, United Kingdom. Last updated October 10, 2026.
 
 - **Location:** Blackpool, United Kingdom
 - **Type:** Permanent coliving
@@ -15,7 +15,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** city, coworking, community
-- **Nearest airports:** Liverpool John Lennon Airport (LPL) ~55 km; London Heathrow Airport (LHR) ~314 km; Manchester Airport (MAN) ~73 km
+- **Nearest airports:** Liverpool John Lennon Airport (LPL) ~55 km; Manchester Airport (MAN) ~73 km; Leeds Bradford Airport (LBA) ~91 km
 - **Website:** https://www.somewheredifferent.com/uk/
 - **Rating:** 4.6 from 34 Google reviews
 

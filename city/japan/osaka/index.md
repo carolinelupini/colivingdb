@@ -1,12 +1,12 @@
 # Coliving in Osaka, Japan
 
-> 2 colivings in Osaka, Japan – last updated September 24, 2026.
+> 2 colivings in Osaka, Japan – last updated October 10, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| COGO TENNOJI | Osaka | On request | 4.6 (592) | private, shared | — | Permanent |
+| COGO TENNOJI | Osaka | On request | 4.6 (593) | private, shared | — | Permanent |
 | Noma Collective — Osaka | Osaka | from $3,490/event | — | — | — | Pop-up |
 
 ## Upcoming pop-ups

@@ -1,6 +1,6 @@
 # Italia Nomad Fest 2027
 
-> Nomad festival in Palermo, Italy. Last updated September 24, 2026.
+> Nomad festival in Palermo, Italy. Last updated October 10, 2026.
 
 - **Location:** Palermo, Italy
 - **Type:** Nomad festival / dated event — accommodation not included
@@ -17,7 +17,7 @@
 - **Included:** Conference access, Coworking, Free daily activities, Final party, Global Nomad Pass, Pangia e-SIM, Gala dinner (Full Pass), Premium activities — 3 on Medium, 6 on Full Pass
 - **Not included:** Accommodation — book separately, Travel to Palermo, Premium activities on the Standard ticket, Gala dinner on Standard and Medium tickets
 - **Area:** Villa Niscemi sits beside Parco della Favorita in Palermo's northern San Lorenzo district, about 20 minutes from the historic centre with a festival shuttle running from Politeama. Afternoon and evening programming moves around central Palermo — markets, palazzi, street food and bars.
-- **Nearest airports:** Falcone–Borsellino Airport (PMO) ~21 km; Rome–Fiumicino Leonardo da Vinci International Airport (FCO) ~416 km; Vincenzo Florio Airport Trapani-Birgi (TPS) ~79 km
+- **Nearest airports:** Falcone–Borsellino Airport (PMO) ~21 km; Vincenzo Florio Airport Trapani-Birgi (TPS) ~79 km
 - **Website:** https://www.italianomadfest.com/
 
 ## About

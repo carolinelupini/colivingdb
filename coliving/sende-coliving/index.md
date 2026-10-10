@@ -1,6 +1,6 @@
 # Sende Coliving
 
-> Coliving in Senderiz, Ourense, Galicia, Spain. Last updated September 24, 2026.
+> Coliving in Senderiz, Ourense, Galicia, Spain. Last updated October 10, 2026.
 
 - **Location:** Senderiz, Ourense, Galicia, Spain
 - **Type:** Permanent coliving
@@ -15,7 +15,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, mountain, community, coworking
-- **Nearest airports:** Vigo Airport (VGO) ~60 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~405 km; Vila Real Airport (VRL) ~78 km
+- **Nearest airports:** Vigo Airport (VGO) ~60 km; Santiago-Rosalía de Castro Airport (SCQ) ~111 km; Vila Real Airport (VRL) ~78 km
 - **Website:** https://www.sende.co/
 - **Rating:** 5.0 from 48 Google reviews
 

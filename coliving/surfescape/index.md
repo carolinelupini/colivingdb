@@ -1,12 +1,12 @@
 # Surfescape
 
-> Coliving in Lajares, Fuerteventura, Spain. Last updated September 24, 2026.
+> Coliving in Lajares, Fuerteventura, Spain. Last updated October 10, 2026.
 
 - **Location:** Lajares, Fuerteventura, Spain
 - **Type:** Permanent coliving
 - **Price:** from €2,500/mo
 - **Price note:** from €2,500/month
-- **Rating:** <a href="https://maps.google.com/?cid=11122961150786496828&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (1143 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=11122961150786496828&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (1157 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared, apartment
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 100 Mbps down <small>· operator-reported</small><br><small>Operator-reported, 2026-08-05.</small>
@@ -22,7 +22,7 @@
 - **Nearest airports:** Fuerteventura Airport (FUE) ~26 km; César Manrique-Lanzarote Airport (ACE) ~44 km
 - **Getting there:** Fuerteventura Airport (FUE), near Puerto del Rosario, is roughly ~30-40 min by car.
 - **Website:** https://www.surfescape.com
-- **Rating:** 4.6 from 1143 Google reviews
+- **Rating:** 4.6 from 1157 Google reviews
 
 ## Rates
 

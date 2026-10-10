@@ -1,12 +1,12 @@
 # Coliving in Uffculme, Devon, United Kingdom
 
-> 1 colivings in Uffculme, Devon, United Kingdom, prices from €990 to €990 per month – last updated September 24, 2026.
+> 1 colivings in Uffculme, Devon, United Kingdom, prices from €990 to €990 per month – last updated October 10, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Life at Selgars | Uffculme, Devon | from £950/mo | 4.8 (62) | private | 14 nights | Permanent |
+| Life at Selgars | Uffculme, Devon | from £950/mo | 4.8 (64) | private | 14 nights | Permanent |
 
 ## Price distribution
 

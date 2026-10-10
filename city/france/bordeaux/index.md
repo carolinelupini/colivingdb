@@ -1,12 +1,12 @@
 # Coliving in Bordeaux, France
 
-> 1 colivings in Bordeaux, France, prices from €1,000 to €1,000 per month – last updated September 24, 2026.
+> 1 colivings in Bordeaux, France, prices from €1,000 to €1,000 per month – last updated October 10, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Outsite Bordeaux | Bordeaux | from €1,000/mo | 4.6 (51) | private | 2 nights | Permanent |
+| Outsite Bordeaux | Bordeaux | from €1,000/mo | 4.6 (52) | private | 2 nights | Permanent |
 
 ## Price distribution
 

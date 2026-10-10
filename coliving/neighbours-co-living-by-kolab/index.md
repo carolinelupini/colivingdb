@@ -1,11 +1,11 @@
 # Neighbours Co-living by Kolab
 
-> Coliving in Ho Chi Minh City, Vietnam. Last updated September 24, 2026.
+> Coliving in Ho Chi Minh City, Vietnam. Last updated October 10, 2026.
 
 - **Location:** Ho Chi Minh City, Vietnam
 - **Type:** Permanent coliving
 - **Price:** from $600/mo
-- **Rating:** <a href="https://maps.google.com/?cid=11420458168730998634&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (12 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=11420458168730998634&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (14 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** 'A community built through shared meals, conversations, and everyday moments,' focused on naturally fostering connection over work intensity.
@@ -15,7 +15,7 @@
 - **Tags:** community, coworking, city
 - **Nearest airports:** Tan Son Nhat International Airport (SGN) ~5 km; Can Tho International Airport (VCA) ~133 km
 - **Website:** http://kolabliving.com/
-- **Rating:** 5.0 from 12 Google reviews
+- **Rating:** 5.0 from 14 Google reviews
 
 ## Rates
 

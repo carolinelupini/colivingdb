@@ -1,6 +1,6 @@
 # VIU Sagrada Familia
 
-> Coliving in Barcelona, Spain. Last updated September 24, 2026.
+> Coliving in Barcelona, Spain. Last updated October 10, 2026.
 
 - **Location:** Barcelona, Spain
 - **Type:** Permanent coliving
@@ -14,7 +14,7 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, community, coworking, eco, wellness
-- **Nearest airports:** Josep Tarradellas Barcelona-El Prat Airport (BCN) ~14 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~493 km; Girona-Costa Brava Airport (GRO) ~75 km
+- **Nearest airports:** Josep Tarradellas Barcelona-El Prat Airport (BCN) ~14 km; Girona-Costa Brava Airport (GRO) ~75 km; Reus Airport (REU) ~88 km
 - **Website:** https://www.viubcn.com/en/
 - **Rating:** 4.9 from 51 Google reviews
 

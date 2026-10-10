@@ -1,12 +1,12 @@
 # Outsite Ibiza - Es Canar
 
-> Coliving in Es Canar, Ibiza, Spain. Last updated September 24, 2026.
+> Coliving in Es Canar, Ibiza, Spain. Last updated October 10, 2026.
 
 - **Location:** Es Canar, Ibiza, Spain
 - **Type:** Permanent coliving
 - **Price:** from €1,000/mo
 - **Price note:** from EUR1,000/month winter deal
-- **Rating:** <a href="https://maps.google.com/?cid=14242937719429629357&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.2 (62 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=14242937719429629357&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.2 (63 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Breezy, modern getaway with wide Mediterranean views
@@ -14,9 +14,9 @@
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** beach, island, coworking, community, wellness
-- **Nearest airports:** Ibiza Airport (IBZ) ~23 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~471 km; Palma de Mallorca Airport (PMI) ~117 km
+- **Nearest airports:** Ibiza Airport (IBZ) ~23 km; Palma de Mallorca Airport (PMI) ~117 km
 - **Website:** https://www.outsite.co/locations/ibiza-es-canar
-- **Rating:** 4.2 from 62 Google reviews
+- **Rating:** 4.2 from 63 Google reviews
 
 ## Rates
 

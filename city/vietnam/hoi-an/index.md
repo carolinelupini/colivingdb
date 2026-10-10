@@ -1,6 +1,6 @@
 # Coliving in Hoi An, Vietnam
 
-> 6 colivings in Hoi An, Vietnam, prices from €300 to €640 per month – last updated September 24, 2026.
+> 6 colivings in Hoi An, Vietnam, prices from €300 to €640 per month – last updated October 10, 2026.
 
 ## All colivings
 
@@ -8,10 +8,10 @@
 |---|---|---|---|---|---|---|
 | The Cây Giá Hạ | Hoi An | from $418/mo | — | private | 30 nights | Permanent |
 | Kiệt Residence | Hoi An | from $449/mo | 4.6 (43) | private, dorm | 30 nights | Permanent |
-| Hub Hoi An | Hoi An | from $449/mo | 4.8 (229) | dorm, private | 7 nights | Permanent |
+| Hub Hoi An | Hoi An | from $449/mo | 4.8 (232) | dorm, private | 7 nights | Permanent |
 | The Mẹ Thứ | Hoi An | from $742/mo | — | private | 30 nights | Permanent |
 | Noma Collective — Hoi An | Hoi An | from $2,290/event | — | — | — | Pop-up |
-| B'HoiAn Retreat | Hoi An | from €36/night | — | private | 7 nights | Permanent |
+| B'HoiAn Retreat | Hoi An | from €36/night | 5.0 (68) | private | 7 nights | Permanent |
 
 ## Price distribution
 

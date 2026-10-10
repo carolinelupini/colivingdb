@@ -1,6 +1,6 @@
 # Colive Fukuoka 2026
 
-> Nomad festival in Fukuoka, Japan. Last updated September 24, 2026.
+> Nomad festival in Fukuoka, Japan. Last updated October 10, 2026.
 
 - **Location:** Fukuoka, Japan
 - **Type:** Nomad festival / dated event — accommodation not included

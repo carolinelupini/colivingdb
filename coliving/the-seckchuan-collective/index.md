@@ -1,6 +1,6 @@
 # The Seckchuan Collective
 
-> Coliving in George Town, Malaysia. Last updated September 24, 2026.
+> Coliving in George Town, Malaysia. Last updated October 10, 2026.
 
 - **Location:** George Town, Malaysia
 - **Type:** Permanent coliving
@@ -14,7 +14,7 @@
 - **Region:** Asia
 - **Timezone:** GMT+8 <small>· US East: async only · Central Europe: your evenings</small>
 - **Tags:** city, community, coworking
-- **Nearest airports:** Penang International Airport (PEN) ~15 km; Kuala Lumpur International Airport (KUL) ~334 km; Sultan Abdul Halim Airport (AOR) ~86 km
+- **Nearest airports:** Penang International Airport (PEN) ~15 km; Sultan Abdul Halim Airport (AOR) ~86 km; Langkawi International Airport (LGK) ~121 km
 - **Website:** https://coliving.com/spaces/tf1r9stf
 
 ## Rates

@@ -1,6 +1,6 @@
 # Tursi Digital Nomads — Parga
 
-> Coliving in Parga, Greece. Last updated September 24, 2026.
+> Coliving in Parga, Greece. Last updated October 10, 2026.
 
 - **Location:** Parga, Greece
 - **Type:** Pop-up / dated edition
@@ -16,7 +16,7 @@
 - **Included:** Private or shared bedroom, High-speed internet, Utilities, Community management, Free coworking space access for apartment residents
 - **Not included:** Transportation to Parga (flights/trains), Meals (though residents often cook and split dinner costs together)
 - **Area:** Parga sits between turquoise water and nearby villages, with ancient ruins in the area. Activities include morning hikes, olive oil tastings, boat trips to the islands of Paxoi and Antipaxoi, and day trips to Ioannina.
-- **Nearest airports:** Aktion National Airport (PVK) ~51 km; Athens Eleftherios Venizelos International Airport (ATH) ~343 km; Corfu Ioannis Kapodistrias International Airport (CFU) ~54 km
+- **Nearest airports:** Aktion National Airport (PVK) ~51 km; Corfu Ioannis Kapodistrias International Airport (CFU) ~54 km; Ioannina King Pyrrhus National Airport (IOA) ~58 km
 - **Getting there:** Aktion National Airport (PVK) near Preveza is ~30-45 min by car.
 - **Website:** https://tursidigitalnomads.pro/Project/remote-inn-parga-2026/
 

@@ -1,11 +1,12 @@
 # Aulus Coliving
 
-> Coliving in Aulus-les-Bains, France. Last updated September 24, 2026.
+> Coliving in Aulus-les-Bains, France. Last updated October 10, 2026.
 
 - **Location:** Aulus-les-Bains, France
 - **Type:** Permanent coliving
 - **Price:** from €30/night
 - **Price note:** from €30/night for a bed in a two-person room with its own bathroom · double room with private bathroom from €45/night · deluxe double from €55/night; 10% off stays of 28+ nights
+- **Rating:** <a href="https://maps.google.com/?cid=2598040765410529195&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (12 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** A small, active mountain community in the French Pyrenees — hiking, climbing and skiing around the work week.
@@ -16,6 +17,7 @@
 - **Tags:** mountain, rural, community, coworking
 - **Nearest airports:** Pirineus - la Seu d'Urgel Airport (LEU) ~51 km; Toulouse-Blagnac Airport (TLS) ~93 km; Carcassonne Salvaza Airport (CCF) ~92 km
 - **Website:** https://www.mapmelon.com/colivings/aulus-coliving?ref=colivingdb
+- **Rating:** 5.0 from 12 Google reviews
 
 ## Rates
 

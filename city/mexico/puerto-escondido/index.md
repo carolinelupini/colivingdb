@@ -1,12 +1,12 @@
 # Coliving in Puerto Escondido, Mexico
 
-> 3 colivings in Puerto Escondido, Mexico, prices from €690 to €1,466 per month – last updated September 24, 2026.
+> 3 colivings in Puerto Escondido, Mexico, prices from €690 to €1,466 per month – last updated October 10, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Nomadico Coliving Puerto Escondido | Puerto Escondido | from $749/mo | 5.0 (23) | private | 7 nights | Permanent |
+| Nomadico Coliving Puerto Escondido | Puerto Escondido | from $749/mo | 5.0 (25) | private | 7 nights | Permanent |
 | Mi Casa Coliving | Puerto Escondido | from €720/mo | 5.0 (4) | private | 7 nights | Permanent |
 | WiFi Tribe — Puerto Escondido | Puerto Escondido | from $1,690/mo | — | private, shared | 28 nights | Pop-up |
 

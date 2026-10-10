@@ -1,6 +1,6 @@
 # Coliving in Leysin, Switzerland
 
-> 1 colivings in Leysin, Switzerland – last updated September 24, 2026.
+> 1 colivings in Leysin, Switzerland – last updated October 10, 2026.
 
 ## All colivings
 
