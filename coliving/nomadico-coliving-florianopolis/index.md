@@ -1,12 +1,11 @@
 # Nomadico Coliving Florianópolis
 
-> Coliving in Florianópolis, Brazil. Last updated October 10, 2026.
+> Coliving in Florianópolis, Brazil. Last updated October 15, 2026.
 
 - **Location:** Florianópolis, Brazil
-- **Type:** Pop-up / dated edition
-- **Dates:** Mar–Dec (seasonal)
+- **Type:** Permanent coliving
 - **Price:** from $380/mo
-- **Price note:** €690/mo discounted (reg. €990); ~€33/night
+- **Price note:** from $380 per 4 weeks for a shared room (6 people); private ensuite from $770; studios and suites $840–1,290
 - **Rating:** <a href="https://maps.google.com/?cid=4018864307812153624&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (15 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
@@ -21,14 +20,14 @@
 
 ## Rates
 
-| Stay length | Shared |
-|---|---|
-| Per month | $380 |
+| Stay length | Private | Shared |
+|---|---|---|
+| Per month | $770 | $380 |
 
 Nomadico Coliving Florianópolis does not publish a nightly or weekly rate.
 
 ## About
 
-Three connected homes in Barra da Lagoa operating Mar-Dec; shared rooms €380-456, private ensuite €475-890 (site listing differs from priceNote's discounted €690/mo figure).
+Season: March 1 – December 20, across three homes in Barra da Lagoa.
 
 Source: https://colivingdb.com/coliving/nomadico-coliving-florianopolis/

@@ -1,6 +1,6 @@
 # Socialer Coliving & Coworking Space
 
-> Coliving in Chiang Mai, Thailand. Last updated October 10, 2026.
+> Coliving in Chiang Mai, Thailand. Last updated October 15, 2026.
 
 - **Location:** Chiang Mai, Thailand
 - **Type:** Permanent coliving
@@ -11,11 +11,12 @@
 - **Dorm available:** Yes
 - **Wi-Fi (on-site):** 600 Mbps down <small>· operator-reported</small>
 - **Minimum stay:** 1 night
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Asia
 - **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>
 - **Tags:** city, coworking, community
 - **Nearest airports:** Chiang Mai International Airport (CNX) ~4 km; Lampang Airport (LPT) ~79 km; Mae Hong Son Airport (HGN) ~121 km
-- **Website:** https://socialerco.com/
+- **Website:** https://www.mapmelon.com/colivings/socialer-coliving-coworking-space?ref=colivingdb
 - **Rating:** 4.6 from 69 Google reviews
 
 ## Rates

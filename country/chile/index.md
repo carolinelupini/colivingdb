@@ -1,6 +1,6 @@
 # Coliving in Chile
 
-> 1 colivings in Chile – last updated October 10, 2026.
+> 1 coliving in Chile – last updated October 15, 2026.
 
 ## All colivings
 

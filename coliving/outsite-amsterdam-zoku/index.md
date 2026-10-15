@@ -1,6 +1,6 @@
 # Outsite Amsterdam (Zoku)
 
-> Coliving in Amsterdam, Netherlands. Last updated October 10, 2026.
+> Coliving in Amsterdam, Netherlands. Last updated October 15, 2026.
 
 - **Location:** Amsterdam, Netherlands
 - **Type:** Permanent coliving

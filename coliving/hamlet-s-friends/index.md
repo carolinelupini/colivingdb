@@ -1,6 +1,6 @@
 # Hamlet's Friends
 
-> Coliving in Nuño Gómez, Toledo, Spain. Last updated October 10, 2026.
+> Coliving in Nuño Gómez, Toledo, Spain. Last updated October 15, 2026.
 
 - **Location:** Nuño Gómez, Toledo, Spain
 - **Type:** Permanent coliving

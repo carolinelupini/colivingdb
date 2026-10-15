@@ -1,12 +1,12 @@
 # The Better Neighbours — Sinaia
 
-> Coliving in Sinaia, Romania. Last updated October 10, 2026.
+> Coliving in Sinaia, Romania. Last updated October 15, 2026.
 
 - **Location:** Sinaia, Romania
 - **Type:** Pop-up / dated edition
-- **Dates:** Nov 1-29, 2026 (Winter)
-- **Price:** from €670/mo
-- **Price note:** private double room, coworking + cooking spaces, gym + spa access, nomad pass w/ restaurant discounts, Romanian language classes (subject to availability). Also offered: €180/wk, or a €870 all-inclusive tier adding daily breakfast buffet at Hotel Sinaia.
+- **Dates:** Nov 15 - 29, 2026 (Winter)
+- **Price:** from €180/wk
+- **Price note:** €180 per week — private double room with ensuite at Hotel Cerbul, coworking + co-cooking spaces, gym + spa access at Hotel Sinaia, Nomad Pass (25% off partner restaurants), Romanian classes; daily breakfast buffet is a €9/day add-on. Two weeks, November 15–29; no monthly price for this retreat.
 - **Room types:** —
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 250 Mbps down <small>· operator-reported</small>
@@ -27,8 +27,7 @@
 | Stay length | Private |
 |---|---|
 | Per week | €180 |
-| Per month | €670 |
 
-The Better Neighbours — Sinaia does not publish a nightly rate.
+The Better Neighbours — Sinaia does not publish a nightly or monthly rate.
 
 Source: https://colivingdb.com/coliving/the-better-neighbours-sinaia/

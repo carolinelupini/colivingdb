@@ -1,6 +1,6 @@
 # Coliving in Barcelona, Spain
 
-> 4 colivings in Barcelona, Spain, prices from €950 to €1,700 per month – last updated October 10, 2026.
+> 4 colivings in Barcelona, Spain, prices from €950 to €1,700 per month – last updated October 15, 2026.
 
 ## All colivings
 

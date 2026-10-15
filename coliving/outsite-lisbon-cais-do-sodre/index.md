@@ -1,6 +1,6 @@
 # Outsite Lisbon - Cais do Sodre
 
-> Coliving in Lisbon, Portugal. Last updated October 10, 2026.
+> Coliving in Lisbon, Portugal. Last updated October 15, 2026.
 
 - **Location:** Lisbon, Portugal
 - **Type:** Permanent coliving

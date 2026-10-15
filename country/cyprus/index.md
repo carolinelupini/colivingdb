@@ -1,6 +1,6 @@
 # Coliving in Cyprus
 
-> 3 colivings in Cyprus, prices from €1,160 to €1,160 per month – last updated October 10, 2026.
+> 4 colivings in Cyprus, prices from €1,160 to €1,160 per month – last updated October 15, 2026.
 
 ## All colivings
 
@@ -9,6 +9,7 @@
 | The Agiou Georgiou (Agiou Georgiou Home / The Retreat) | Maroni | from $1,258/mo | — | private | 30 nights | Permanent |
 | To Hani Coliving | Paramytha (Limassol) | On request | 5.0 (40) | private | — | Permanent |
 | Aperanti Agrotourism | Pera Orinis | from €43/night | — | private | 15 nights | Pop-up |
+| Ananke Home | Nicosia | from €54/event | 4.8 (42) | private, shared | 4 nights | Permanent |
 
 ## Price distribution
 

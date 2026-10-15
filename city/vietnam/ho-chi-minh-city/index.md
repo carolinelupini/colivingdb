@@ -1,6 +1,6 @@
 # Coliving in Ho Chi Minh City, Vietnam
 
-> 1 colivings in Ho Chi Minh City, Vietnam, prices from €526 to €526 per month – last updated October 10, 2026.
+> 1 coliving in Ho Chi Minh City, Vietnam, prices from €526 to €526 per month – last updated October 15, 2026.
 
 ## All colivings
 

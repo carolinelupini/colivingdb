@@ -1,6 +1,6 @@
 # Coliving in Thailand
 
-> 22 colivings in Thailand, prices from €249 to €1,427 per month – last updated October 10, 2026.
+> 19 colivings and 3 nomad festivals in Thailand, prices from €249 to €1,427 per month – last updated October 15, 2026.
 
 ## All colivings
 
@@ -25,7 +25,7 @@
 | LITA Bangkok | bangkok | On request | 4.7 (181) | private, dorm | — | Permanent |
 | Noma Collective — Koh Lanta | Koh Lanta | from $2,790/event | — | — | — | Pop-up |
 | Villa Pattranid | Chiang Mai | On request | 5.0 (56) | private | — | Permanent |
-| Nomad Summit Chiang Mai 2027 | Chiang Mai | from €249/ticket | — | — | — | Festival |
+| Nomad Summit Chiang Mai 2027 | Chiang Mai | from €299/ticket | — | — | — | Festival |
 | Extraordinary Travel Festival III 2026 | Bangkok | from $525/ticket | — | — | — | Festival |
 | Dynamite Circle — DCBKK 2026 | Bangkok | from $998/ticket | — | — | — | Festival |
 

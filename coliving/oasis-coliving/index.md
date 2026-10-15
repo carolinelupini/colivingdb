@@ -1,6 +1,6 @@
 # Oasis Coliving
 
-> Coliving in Playa de las Americas, Tenerife, Spain. Last updated October 10, 2026.
+> Coliving in Playa de las Americas, Tenerife, Spain. Last updated October 15, 2026.
 
 - **Location:** Playa de las Americas, Tenerife, Spain
 - **Type:** Permanent coliving

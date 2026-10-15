@@ -1,13 +1,13 @@
 # Coliving in Las Palmas de Gran Canaria, Spain
 
-> 7 colivings in Las Palmas de Gran Canaria, Spain, prices from €754 to €1,677 per month – last updated October 10, 2026.
+> 7 colivings in Las Palmas de Gran Canaria, Spain, prices from €754 to €1,677 per month – last updated October 15, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
 | Macaw 25 Coliving | Las Palmas de Gran Canaria | from €754/mo | 4.7 (26) | private | — | Permanent |
-| Nomadico Gran Canaria | Las Palmas de Gran Canaria | from €980/mo | — | private, shared | — | Pop-up |
+| Nomadico Gran Canaria | Las Palmas de Gran Canaria | from €1,390/mo | — | private, shared | — | Permanent |
 | Repeople Casa Jardin Coliving | Las Palmas de Gran Canaria | from €1,677/mo | 4.0 (4) | private | — | Permanent |
 | Repeople Casa Vera Coliving | Las Palmas de Gran Canaria | from €1,677/mo | — | private | — | Permanent |
 | Repeople Casanova Coliving | Las Palmas de Gran Canaria | from €1,677/mo | 5.0 (2) | private | — | Permanent |
@@ -19,11 +19,6 @@
 | Band (EUR/mo) | Colivings |
 |---|---|
 | 500–800 | 1 |
-| 800–1200 | 1 |
-| 1200–2000 | 3 |
-
-## Upcoming pop-ups
-
-- Nomadico Gran Canaria — Jun–Dec (seasonal; labeled 'pop-up')
+| 1200–2000 | 4 |
 
 Source: https://colivingdb.com/city/spain/las-palmas-de-gran-canaria/

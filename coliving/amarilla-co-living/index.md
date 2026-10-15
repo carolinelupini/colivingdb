@@ -1,6 +1,6 @@
 # Amarilla Co-living
 
-> Coliving in San Miguel de Abona, Tenerife, Spain. Last updated October 10, 2026.
+> Coliving in San Miguel de Abona, Tenerife, Spain. Last updated October 15, 2026.
 
 - **Location:** San Miguel de Abona, Tenerife, Spain
 - **Type:** Permanent coliving

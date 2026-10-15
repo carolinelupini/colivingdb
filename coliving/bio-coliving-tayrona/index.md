@@ -1,6 +1,6 @@
 # Bio Coliving TAYRONA
 
-> Coliving in Santa Marta (near Tayrona Park), Colombia. Last updated October 10, 2026.
+> Coliving in Santa Marta (near Tayrona Park), Colombia. Last updated October 15, 2026.
 
 - **Location:** Santa Marta (near Tayrona Park), Colombia
 - **Type:** Permanent coliving

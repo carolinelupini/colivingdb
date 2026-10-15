@@ -1,6 +1,6 @@
 # Coliving in La Caleta, Costa Adeje, Tenerife, Spain
 
-> 1 colivings in La Caleta, Costa Adeje, Tenerife, Spain – last updated October 10, 2026.
+> 1 coliving in La Caleta, Costa Adeje, Tenerife, Spain – last updated October 15, 2026.
 
 ## All colivings
 

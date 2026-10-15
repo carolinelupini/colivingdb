@@ -1,6 +1,6 @@
 # Coliving in Parga, Greece
 
-> 1 colivings in Parga, Greece – last updated October 10, 2026.
+> 1 coliving in Parga, Greece – last updated October 15, 2026.
 
 ## All colivings
 

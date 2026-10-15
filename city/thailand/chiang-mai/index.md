@@ -1,6 +1,6 @@
 # Coliving in Chiang Mai, Thailand
 
-> 12 colivings in Chiang Mai, Thailand, prices from €249 to €811 per month – last updated October 10, 2026.
+> 11 colivings and 1 nomad festival in Chiang Mai, Thailand, prices from €249 to €811 per month – last updated October 15, 2026.
 
 ## All colivings
 
@@ -17,7 +17,7 @@
 | Alt_PingRiver | Chiang Mai | from THB 1,637/night | 4.8 (113) | private | 6 nights | Permanent |
 | Chiangmai Inn Guesthouse | Chiang Mai | On request | 4.3 (107) | private | — | Permanent |
 | Villa Pattranid | Chiang Mai | On request | 5.0 (56) | private | — | Permanent |
-| Nomad Summit Chiang Mai 2027 | Chiang Mai | from €249/ticket | — | — | — | Festival |
+| Nomad Summit Chiang Mai 2027 | Chiang Mai | from €299/ticket | — | — | — | Festival |
 
 ## Price distribution
 

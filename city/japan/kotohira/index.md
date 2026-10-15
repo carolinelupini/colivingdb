@@ -1,6 +1,6 @@
 # Coliving in Kotohira, Japan
 
-> 2 colivings in Kotohira, Japan, prices from €378 to €378 per month – last updated October 10, 2026.
+> 2 colivings in Kotohira, Japan, prices from €378 to €378 per month – last updated October 15, 2026.
 
 ## All colivings
 

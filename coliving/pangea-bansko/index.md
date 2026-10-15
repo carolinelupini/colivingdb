@@ -1,6 +1,6 @@
 # Pangea — Bansko
 
-> Coworking chapter in Bansko, Bulgaria. Last updated October 10, 2026.
+> Coworking chapter in Bansko, Bulgaria. Last updated October 15, 2026.
 
 - **Location:** Bansko, Bulgaria
 - **Type:** Pop-up coworking chapter — accommodation not included

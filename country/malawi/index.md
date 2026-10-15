@@ -1,12 +1,12 @@
 # Coliving in Malawi
 
-> 2 colivings in Malawi – last updated October 10, 2026.
+> 2 colivings in Malawi – last updated October 15, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| AfricaNomads — Malawi (Lake Malawi) (Oct 2026) | Malawi (Lake Malawi) | from $440/wk | — | private | — | Pop-up |
+| AfricaNomads — Malawi (Lake Malawi) (Oct 2026) | Nkhata Bay (Lake Malawi) | from $440/wk | — | private | — | Pop-up |
 | AfricaNomads — Malawi (Lake Malawi) (Aug 2027) | Nkhata Bay (Lake Malawi) | from $440/wk | — | private | — | Pop-up |
 
 ## Upcoming pop-ups

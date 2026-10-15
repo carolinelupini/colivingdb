@@ -1,6 +1,6 @@
 # Nesting Away - Coliving in Italy
 
-> Coliving in Rome, Italy. Last updated October 10, 2026.
+> Coliving in Rome, Italy. Last updated October 15, 2026.
 
 - **Location:** Rome, Italy
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # Coliving in Vilamoura, Portugal
 
-> 1 colivings in Vilamoura, Portugal, prices from €1,000 to €1,000 per month – last updated October 10, 2026.
+> 1 coliving in Vilamoura, Portugal, prices from €1,000 to €1,000 per month – last updated October 15, 2026.
 
 ## All colivings
 

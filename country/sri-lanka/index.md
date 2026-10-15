@@ -1,6 +1,6 @@
 # Coliving in Sri Lanka
 
-> 14 colivings in Sri Lanka, prices from €87 to €1,971 per month – last updated October 10, 2026.
+> 14 colivings in Sri Lanka, prices from €87 to €1,971 per month – last updated October 15, 2026.
 
 ## All colivings
 

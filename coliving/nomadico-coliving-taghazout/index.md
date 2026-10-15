@@ -1,6 +1,6 @@
 # Nomadico Coliving Taghazout
 
-> Coliving in Taghazout, Morocco. Last updated October 10, 2026.
+> Coliving in Taghazout, Morocco. Last updated October 15, 2026.
 
 - **Location:** Taghazout, Morocco
 - **Type:** Permanent coliving

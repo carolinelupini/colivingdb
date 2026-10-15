@@ -1,6 +1,6 @@
 # Coliving in Sámara, Costa Rica
 
-> 1 colivings in Sámara, Costa Rica, prices from €596 to €596 per month – last updated October 10, 2026.
+> 1 coliving in Sámara, Costa Rica, prices from €596 to €596 per month – last updated October 15, 2026.
 
 ## All colivings
 

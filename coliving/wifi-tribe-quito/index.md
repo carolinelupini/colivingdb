@@ -1,6 +1,6 @@
 # WiFi Tribe — Quito
 
-> Coliving in Quito, Ecuador. Last updated October 10, 2026.
+> Coliving in Quito, Ecuador. Last updated October 15, 2026.
 
 - **Location:** Quito, Ecuador
 - **Type:** Pop-up / dated edition

@@ -1,6 +1,6 @@
 # Coliving in Tirana, Albania
 
-> 1 colivings in Tirana, Albania, prices from €700 to €700 per month – last updated October 10, 2026.
+> 1 coliving in Tirana, Albania, prices from €700 to €700 per month – last updated October 15, 2026.
 
 ## All colivings
 

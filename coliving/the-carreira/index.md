@@ -1,6 +1,6 @@
 # The Carreira
 
-> Coliving in Funchal, Portugal. Last updated October 10, 2026.
+> Coliving in Funchal, Portugal. Last updated October 15, 2026.
 
 - **Location:** Funchal, Portugal
 - **Type:** Permanent coliving

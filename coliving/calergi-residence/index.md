@@ -1,6 +1,6 @@
 # Calergi Residence
 
-> Coliving in Atsipopoulo / Rethymno (Crete), Greece. Last updated October 10, 2026.
+> Coliving in Atsipopoulo / Rethymno (Crete), Greece. Last updated October 15, 2026.
 
 - **Location:** Atsipopoulo / Rethymno (Crete), Greece
 - **Type:** Permanent coliving

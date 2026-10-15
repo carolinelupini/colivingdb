@@ -1,12 +1,11 @@
 # Nomadico Coliving Bansko
 
-> Coliving in Bansko, Bulgaria. Last updated October 10, 2026.
+> Coliving in Bansko, Bulgaria. Last updated October 15, 2026.
 
 - **Location:** Bansko, Bulgaria
-- **Type:** Pop-up / dated edition
-- **Dates:** June–July (seasonal; ski/summer season)
+- **Type:** Permanent coliving
 - **Price:** from €638/mo
-- **Price note:** EUR 42/night, EUR 840/month
+- **Price note:** from €638/month (private room, shared bathroom); €695 ensuite, €746 suite; 1 week from €265
 - **Rating:** <a href="https://maps.google.com/?cid=3266246530591464880&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (18 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
@@ -29,6 +28,6 @@ Nomadico Coliving Bansko does not publish a nightly or weekly rate.
 
 ## About
 
-Permanent Bansko coliving across two houses (Adriana's Home, Heritage Home); private shared-bath €638/mo, private ensuite €746/mo — more granular than prior flat €840 note.
+Open June and July only, across two homes in Bansko's upper town (Adriana's home and the Heritage home), 16 private rooms.
 
 Source: https://colivingdb.com/coliving/nomadico-coliving-bansko/

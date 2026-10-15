@@ -1,6 +1,6 @@
 # Coliving in Uffculme, Devon, United Kingdom
 
-> 1 colivings in Uffculme, Devon, United Kingdom, prices from €990 to €990 per month – last updated October 10, 2026.
+> 1 coliving in Uffculme, Devon, United Kingdom, prices from €990 to €990 per month – last updated October 15, 2026.
 
 ## All colivings
 

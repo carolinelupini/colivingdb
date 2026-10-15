@@ -1,6 +1,6 @@
 # Aperanti Agrotourism
 
-> Coliving in Pera Orinis, Cyprus. Last updated October 10, 2026.
+> Coliving in Pera Orinis, Cyprus. Last updated October 15, 2026.
 
 - **Location:** Pera Orinis, Cyprus
 - **Type:** Pop-up / dated edition

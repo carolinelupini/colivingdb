@@ -1,6 +1,6 @@
 # Coliving in Paris, France
 
-> 2 colivings in Paris, France – last updated October 10, 2026.
+> 2 colivings in Paris, France – last updated October 15, 2026.
 
 ## All colivings
 

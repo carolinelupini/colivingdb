@@ -1,6 +1,6 @@
 # Coliving in near Tullins/Voiron, Isère (French Alps), France
 
-> 1 colivings in near Tullins/Voiron, Isère (French Alps), France – last updated October 10, 2026.
+> 1 coliving in near Tullins/Voiron, Isère (French Alps), France – last updated October 15, 2026.
 
 ## All colivings
 

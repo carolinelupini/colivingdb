@@ -1,6 +1,6 @@
 # Coliving in Debet, Armenia
 
-> 1 colivings in Debet, Armenia – last updated October 10, 2026.
+> 1 coliving in Debet, Armenia – last updated October 15, 2026.
 
 ## All colivings
 

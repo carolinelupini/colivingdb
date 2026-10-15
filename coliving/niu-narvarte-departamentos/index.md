@@ -1,6 +1,6 @@
 # Niu Narvarte departamentos
 
-> Coliving in Mexico City, Mexico. Last updated October 10, 2026.
+> Coliving in Mexico City, Mexico. Last updated October 15, 2026.
 
 - **Location:** Mexico City, Mexico
 - **Type:** Permanent coliving

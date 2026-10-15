@@ -1,17 +1,11 @@
 # Coliving in Atsipopoulo, Greece
 
-> 1 colivings in Atsipopoulo, Greece, prices from €5,794 to €5,794 per month – last updated October 10, 2026.
+> 1 coliving in Atsipopoulo, Greece – last updated October 15, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Charalampou Liandri Home | Atsipopoulo | from $6,608/mo | — | private | 30 nights | Permanent |
-
-## Price distribution
-
-| Band (EUR/mo) | Colivings |
-|---|---|
-| 2000–∞ | 1 |
+| Charalampou Liandri Home | Atsipopoulo | On request | — | private | 30 nights | Permanent |
 
 Source: https://colivingdb.com/city/greece/atsipopoulo/

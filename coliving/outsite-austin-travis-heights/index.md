@@ -1,6 +1,6 @@
 # Outsite Austin - Travis Heights
 
-> Coliving in Austin, United States. Last updated October 10, 2026.
+> Coliving in Austin, United States. Last updated October 15, 2026.
 
 - **Location:** Austin, United States
 - **Type:** Permanent coliving

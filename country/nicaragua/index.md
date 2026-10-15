@@ -1,6 +1,6 @@
 # Coliving in Nicaragua
 
-> 3 colivings in Nicaragua, prices from €1,249 to €1,466 per month – last updated October 10, 2026.
+> 3 colivings in Nicaragua, prices from €1,249 to €1,466 per month – last updated October 15, 2026.
 
 ## All colivings
 

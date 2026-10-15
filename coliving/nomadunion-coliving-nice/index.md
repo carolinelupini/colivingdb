@@ -1,6 +1,6 @@
 # NomadUnion Coliving Nice
 
-> Coliving in Nice, France. Last updated October 10, 2026.
+> Coliving in Nice, France. Last updated October 15, 2026.
 
 - **Location:** Nice, France
 - **Type:** Permanent coliving

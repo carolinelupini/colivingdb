@@ -1,12 +1,11 @@
 # Nomadico Coliving Kotor
 
-> Coliving in Kotor, Montenegro. Last updated October 10, 2026.
+> Coliving in Kotor, Montenegro. Last updated October 15, 2026.
 
 - **Location:** Kotor, Montenegro
-- **Type:** Pop-up / dated edition
-- **Dates:** Oct–Dec & Mar–Apr (seasonal)
+- **Type:** Permanent coliving
 - **Price:** from €690/mo
-- **Price note:** €1,530/mo discounted (reg. €1,800); ~€60/night
+- **Price note:** from €690 per 4 weeks for a shared room (2 people); standard private €980, comfort €1,280
 - **Rating:** <a href="https://maps.google.com/?cid=3129399485750453374&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (5 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
@@ -29,6 +28,6 @@ Nomadico Coliving Kotor does not publish a nightly or weekly rate.
 
 ## About
 
-Operates seasonally (Oct23-Dec13 & Mar1-Apr30) across two properties (Nest Hub/Nest Home, partnered with Kotor Nest); private rooms €980-1280/4wks, shared €690pp.
+Seasons: October 23 – December 13 and March 1 – April 30, in Kotor's Old Town (Nest Hub and Nest Home, run with Kotor Nest).
 
 Source: https://colivingdb.com/coliving/nomadico-coliving-kotor/

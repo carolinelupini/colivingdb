@@ -1,12 +1,12 @@
 # Hiroshima Setouchi Nomad Fest 2026
 
-> Nomad festival in Hiroshima, Japan. Last updated October 10, 2026.
+> Nomad festival in Hiroshima, Japan. Last updated October 15, 2026.
 
 - **Location:** Hiroshima, Japan
 - **Type:** Nomad festival / dated event — accommodation not included
 - **Dates:** Oct 11 - Nov 1, 2026
-- **Price:** from $357/ticket
-- **Price note:** All Access $357 covers both cities for the whole event. Single-city passes: Hiroshima (Oct 11–25) $280 or Matsuyama (Oct 25 – Nov 1) $230. Prices read at the checkout on September 11, 2026, and they have moved twice since August. Refunds: 50% until October 4, none from October 5.
+- **Price:** from $420/ticket
+- **Price note:** All Access $420 covers both cities for the whole event. Single-city passes: Hiroshima (Oct 11–25) $330 or Matsuyama (Oct 25 – Nov 1) $270. Prices read on the festival site on October 14, 2026 ("Regular Price"). Refunds: 50% until October 4, none from October 5.
 - **Room types:** —
 - **Dorm available:** No
 - **Vibe:** Long-stay gathering rather than a conference. Weekdays are for working, weekends for island trips and outdoor activities around the Setouchi region. Programming runs in both Japanese and English, and it is organised by a six-person team of Japanese nomads led by Shoko Hirose, who founded the Digital Nomads Hiroshima community and ran the first edition in 2025.

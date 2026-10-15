@@ -1,6 +1,6 @@
 # Coliving in Senegal
 
-> 1 colivings in Senegal – last updated October 10, 2026.
+> 1 community chapter in Senegal – last updated October 15, 2026.
 
 ## All colivings
 

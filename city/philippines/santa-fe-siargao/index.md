@@ -1,6 +1,6 @@
 # Coliving in Santa Fe, Siargao, Philippines
 
-> 1 colivings in Santa Fe, Siargao, Philippines, prices from €525 to €525 per month – last updated October 10, 2026.
+> 1 coliving in Santa Fe, Siargao, Philippines, prices from €525 to €525 per month – last updated October 15, 2026.
 
 ## All colivings
 

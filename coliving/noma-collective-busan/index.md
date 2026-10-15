@@ -1,6 +1,6 @@
 # Noma Collective — Busan
 
-> Coliving in Busan, South Korea. Last updated October 10, 2026.
+> Coliving in Busan, South Korea. Last updated October 15, 2026.
 
 - **Location:** Busan, South Korea
 - **Type:** Pop-up / dated edition

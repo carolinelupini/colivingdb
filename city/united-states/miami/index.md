@@ -1,6 +1,6 @@
 # Coliving in Miami, United States
 
-> 1 colivings in Miami, United States – last updated October 10, 2026.
+> 1 nomad festival in Miami, United States – last updated October 15, 2026.
 
 ## All colivings
 

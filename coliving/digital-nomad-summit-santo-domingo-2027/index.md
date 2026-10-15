@@ -1,6 +1,6 @@
 # Digital Nomad Summit Santo Domingo 2027
 
-> Nomad festival in Santo Domingo, Dominican Republic. Last updated October 10, 2026.
+> Nomad festival in Santo Domingo, Dominican Republic. Last updated October 15, 2026.
 
 - **Location:** Santo Domingo, Dominican Republic
 - **Type:** Nomad festival / dated event — accommodation not included

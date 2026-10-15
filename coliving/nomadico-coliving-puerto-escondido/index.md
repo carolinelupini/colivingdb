@@ -1,6 +1,6 @@
 # Nomadico Coliving Puerto Escondido
 
-> Coliving in Puerto Escondido, Mexico. Last updated October 10, 2026.
+> Coliving in Puerto Escondido, Mexico. Last updated October 15, 2026.
 
 - **Location:** Puerto Escondido, Mexico
 - **Type:** Permanent coliving

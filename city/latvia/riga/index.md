@@ -1,6 +1,6 @@
 # Coliving in Riga, Latvia
 
-> 1 colivings in Riga, Latvia, prices from €697 to €697 per month – last updated October 10, 2026.
+> 1 coliving in Riga, Latvia, prices from €697 to €697 per month – last updated October 15, 2026.
 
 ## All colivings
 

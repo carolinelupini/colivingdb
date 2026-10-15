@@ -1,6 +1,6 @@
 # Beach colivings
 
-> 170 colivings by the beach in 37 countries. Updated October 10, 2026.
+> 173 colivings by the beach in 37 countries. Updated October 15, 2026.
 
 | Coliving | City | Country | Price from | Min stay | Type |
 |---|---|---|---|---|---|
@@ -10,9 +10,9 @@
 | [The Manoel João Ferreira](/coliving/the-manoel-joao-ferreira/index.md) | Florianópolis (Barra da Lagoa) | Brazil | from $273/mo | 30 nights | Permanent |
 | [Kasbari House](/coliving/kasbari-house/index.md) | Tamraght (near Taghazout/Agadir) | Morocco | from €350/mo | 7 nights | Permanent |
 | [NomadGao Vila Nova](/coliving/nomadgao-vila-nova/index.md) | Anjuna, Goa | India | from INR 35,000/mo | 3 nights | Permanent |
+| [Nomadico Coliving Florianópolis](/coliving/nomadico-coliving-florianopolis/index.md) | Florianópolis | Brazil | from $380/mo | 7 nights | Permanent |
 | [Njivice Home](/coliving/njivice-home/index.md) | Njivice, Herceg Novi (near Kotor) | Montenegro | from $412/mo | 30 nights | Permanent |
-| [Nomadico Anglet](/coliving/nomadico-anglet/index.md) | Anglet | France | from €370/mo | — | Pop-up |
-| [Nomadico Coliving Florianópolis](/coliving/nomadico-coliving-florianopolis/index.md) | Florianópolis | Brazil | from $380/mo | 7 nights | Pop-up |
+| [Nomadico Anglet](/coliving/nomadico-anglet/index.md) | Anglet | France | from €370/mo | — | Permanent |
 | [NomadGao](/coliving/nomadgao/index.md) | Goa | India | from INR 35,000/mo | 7 nights | Permanent |
 | [Kiệt Residence](/coliving/kiet-residence/index.md) | Hoi An | Vietnam | from $449/mo | 30 nights | Permanent |
 | [Manoel Pedro da Silveira Home](/coliving/manoel-pedro-da-silveira-home/index.md) | Florianópolis | Brazil | from $465/mo | 30 nights | Permanent |
@@ -20,8 +20,10 @@
 | [Adventurekeys](/coliving/adventurekeys/index.md) | Taghazout | Morocco | from €420/mo | 2 nights | Permanent |
 | [La Isla Bonita](/coliving/la-isla-bonita/index.md) | Weligama | Sri Lanka | from $500/mo | — | Permanent |
 | [Mazal Waddo Residence](/coliving/mazal-waddo-residence/index.md) | Anjuna, Goa | India | from $577/mo | 30 nights | Permanent |
+| [Nomadico Coliving Rio de Janeiro](/coliving/nomadico-coliving-rio-de-janeiro/index.md) | Rio de Janeiro | Brazil | from $487/mo | 7 nights | Permanent |
 | [Cove Prana](/coliving/cove-prana/index.md) | Uluwatu | Indonesia | from IDR 9,900,000/mo | — | Permanent |
 | [Nomadico Coliving Hiriketiya](/coliving/nomadico-coliving-hiriketiya/index.md) | Hiriketiya (Nilwella) | Sri Lanka | from €436/mo | 7 nights | Permanent |
+| [Santa Marta Life Coliving](/coliving/santa-marta-life-coliving/index.md) | Santa Marta (El Rodadero) | Colombia | from $550/mo | — | Permanent |
 | [Banama Surfhouse - Coliving Coworking & Yoga](/coliving/banama-surfhouse-coliving-coworking-and-yoga/index.md) | Corralejo, Fuerteventura | Spain | from €499/mo | — | Permanent |
 | [The Polar II](/coliving/the-polar-ii/index.md) | Tulum | Mexico | from $570/mo | 30 nights | Permanent |
 | [Skippers](/coliving/skippers/index.md) | Diani Beach | Kenya | from €500/mo | 28 nights | Permanent |
@@ -32,26 +34,25 @@
 | [Roma Residence (Serenity Lodge)](/coliving/roma-residence-serenity-lodge/index.md) | Sharm El-Sheikh | Egypt | from $600/mo | 30 nights | Permanent |
 | [The Sunset II](/coliving/the-sunset-ii/index.md) | Kuta | Indonesia | from $588/mo | 30 nights | Permanent |
 | [aColmeia](/coliving/acolmeia/index.md) | Candolim (Saipem), Goa | India | from €540/mo | 8 nights | Permanent |
-| [Nomadico Coliving Ericeira](/coliving/nomadico-coliving-ericeira/index.md) | Ericeira | Portugal | from €542/mo | 7 nights | Pop-up |
+| [Nomadico Coliving Ericeira](/coliving/nomadico-coliving-ericeira/index.md) | Ericeira | Portugal | from €542/mo | 7 nights | Permanent |
 | [ZAG Coliving](/coliving/zag-coliving/index.md) | Punta del Este | Uruguay | from $650/mo | — | Permanent |
 | [Bali Bustle Coliving](/coliving/bali-bustle-coliving/index.md) | Legian, Bali | Indonesia | from IDR 8,700,000/mo | 3 nights | Permanent |
 | [Bocas Del Toro Province Collective (WE)](/coliving/bocas-del-toro-province-collective-we/index.md) | Isla Bastimentos | Panama | from $735/mo | 30 nights | Permanent |
 | [Locoworking Costa Rica](/coliving/locoworking-costa-rica/index.md) | Sámara | Costa Rica | from $680/mo | — | Permanent |
 | [Kraljice Residence (Boho House)](/coliving/kraljice-residence-boho-house/index.md) | Pakoštane | Croatia | from $683/mo | 30 nights | Permanent |
-| [Santa Marta Life Coliving](/coliving/santa-marta-life-coliving/index.md) | Santa Marta (El Rodadero) | Colombia | from $650/mo | — | Permanent |
 | [Hiriketiya Home](/coliving/hiriketiya-home/index.md) | Hiriketiya (Dickwella), Matara | Sri Lanka | from $685/mo | 30 nights | Permanent |
 | [Playworking Coliving](/coliving/playworking-coliving/index.md) | Đuraševići, Luštica Peninsula | Montenegro | from €600/mo | 5 nights | Permanent |
 | [Coliving Hurghada (Villa Residence)](/coliving/coliving-hurghada-villa-residence/index.md) | Hurghada | Egypt | from $720/mo | 30 nights | Permanent |
 | [The Mẹ Thứ](/coliving/the-me-thu/index.md) | Hoi An | Vietnam | from $742/mo | 30 nights | Permanent |
 | [The Tamraght](/coliving/the-tamraght/index.md) | Agadir | Morocco | from $740/mo | 30 nights | Permanent |
-| [Ante Starčevića Home](/coliving/ante-starcevica-home/index.md) | Pakoštane | Croatia | from $743/mo | 30 nights | Pop-up |
+| [Ante Starčevića Home](/coliving/ante-starcevica-home/index.md) | Pakoštane | Croatia | from $743/mo | 30 nights | Permanent |
 | [INFINI Coliving](/coliving/infini-coliving/index.md) | Jauá (Camaçari), near Salvador | Brazil | from BRL 3,813/mo | 1 night | Permanent |
 | [Nomad's Ville (Mirante de Pipa)](/coliving/nomad-s-ville-mirante-de-pipa/index.md) | Praia da Pipa | Brazil | from BRL 3,900/mo | — | Permanent |
+| [Nomadico Coliving Tarifa](/coliving/nomadico-coliving-tarifa/index.md) | Tarifa | Spain | from €688/mo | — | Permanent |
 | [Sun and Co.](/coliving/sun-and-co/index.md) | Jávea | Spain | from €690/mo | — | Permanent |
 | [Nomadico Coliving Puerto Escondido](/coliving/nomadico-coliving-puerto-escondido/index.md) | Puerto Escondido | Mexico | from $749/mo | 7 nights | Permanent |
 | [Nomadico Coliving Taghazout](/coliving/nomadico-coliving-taghazout/index.md) | Taghazout | Morocco | from €715/mo | — | Permanent |
 | [Mi Casa Coliving](/coliving/mi-casa-coliving/index.md) | Puerto Escondido | Mexico | from €720/mo | 7 nights | Permanent |
-| [Nomadico Coliving Tarifa](/coliving/nomadico-coliving-tarifa/index.md) | Tarifa | Spain | from €688/mo | — | Pop-up |
 | [Habaraduwa Home](/coliving/habaraduwa-home/index.md) | Habaraduwa, Galle | Sri Lanka | from $845/mo | 30 nights | Permanent |
 | [The Fernando Salazar Gonzalez](/coliving/the-fernando-salazar-gonzalez/index.md) | Las Galletas | Spain | from $856/mo | 30 nights | Permanent |
 | [Colive Me (ColiveMe)](/coliving/colive-me-coliveme/index.md) | Ahangama | Sri Lanka | from €668/mo | 3 nights | Permanent |
@@ -91,7 +92,6 @@
 | [Bedndesk](/coliving/bedndesk/index.md) | S'Arenal (Mallorca) | Spain | from €750/mo | 30 nights | Permanent |
 | [Swelldesk Coliving & Coworking](/coliving/swelldesk-coliving-and-coworking/index.md) | Baleal, Peniche | Portugal | from €960/mo | — | Permanent |
 | [Casa Capitán Coliving](/coliving/casa-capitan-coliving/index.md) | Guargacho, Tenerife | Spain | from €960/mo | 1 night | Permanent |
-| [Nomadico Gran Canaria](/coliving/nomadico-gran-canaria/index.md) | Las Palmas de Gran Canaria | Spain | from €980/mo | — | Pop-up |
 | [Outsite Algarve - Vilamoura](/coliving/outsite-algarve-vilamoura/index.md) | Vilamoura | Portugal | from €1,000/mo | — | Permanent |
 | [Outsite Cascais - Guincho](/coliving/outsite-cascais-guincho/index.md) | Cascais | Portugal | from €1,000/mo | 2 nights | Permanent |
 | [Outsite Ericeira - Praia do Sul](/coliving/outsite-ericeira-praia-do-sul/index.md) | Ericeira | Portugal | from €1,000/mo | — | Permanent |
@@ -114,6 +114,7 @@
 | [Outsite San Juan del Sur](/coliving/outsite-san-juan-del-sur/index.md) | San Juan del Sur | Nicaragua | from €1,300/mo | 2 nights | Permanent |
 | [Berawa Collective](/coliving/berawa-collective/index.md) | Berawa (Canggu, Bali) | Indonesia | from $1,754/mo | 30 nights | Permanent |
 | [The Plakias (Plakias Residence)](/coliving/the-plakias-plakias-residence/index.md) | Plakias | Greece | from $1,543/mo | 6 months | Permanent |
+| [Nomadico Gran Canaria](/coliving/nomadico-gran-canaria/index.md) | Las Palmas de Gran Canaria | Spain | from €1,390/mo | — | Permanent |
 | [Burgas Coliving](/coliving/burgas-coliving/index.md) | Burgas | Bulgaria | from €1,400/mo | — | Permanent |
 | [Outsite Santa Teresa - Maramar](/coliving/outsite-santa-teresa-maramar/index.md) | Santa Teresa | Costa Rica | from $120/night | — | Permanent |
 | [Outsite Santa Teresa - Playa](/coliving/outsite-santa-teresa-playa/index.md) | Santa Teresa | Costa Rica | from $2,154/mo | 2 nights | Permanent |
@@ -130,8 +131,7 @@
 | [Darocotan Home](/coliving/darocotan-home/index.md) | El Nido | Philippines | from $2,846/mo | 30 nights | Permanent |
 | [Surfescape](/coliving/surfescape/index.md) | Lajares, Fuerteventura | Spain | from €2,500/mo | — | Permanent |
 | [Boundless Life Kamakura](/coliving/boundless-life-kamakura/index.md) | Kamakura | Japan | from €2,600/mo | — | Permanent |
-| [Outsite San Diego - Encinitas Avocado](/coliving/outsite-san-diego-encinitas-avocado/index.md) | Encinitas | United States | from $6,897/mo | — | Permanent |
-| [Outsite San Diego - Encinitas Grandview](/coliving/outsite-san-diego-encinitas-grandview/index.md) | Encinitas | United States | from $6,897/mo | 2 nights | Permanent |
+| [Boundless Life — Barcelona](/coliving/boundless-life-barcelona/index.md) | Barcelona (Poblenou) | Spain | from €2,900/mo | — | Pop-up |
 | [Green Room JBay Coliving](/coliving/green-room-jbay-coliving/index.md) | Jeffreys Bay | South Africa | from R545/night | 14 nights | Permanent |
 | [CoZi - Coworking Space](/coliving/cozi-coworking-space/index.md) | Houmt Souk | Tunisia | On request | 1 night | Permanent |
 | [CoZi Coliving Djerba](/coliving/cozi-coliving-djerba/index.md) | Djerba (Mezraia) | Tunisia | On request | — | Permanent |
@@ -171,8 +171,11 @@
 | [Outsite Aguadilla](/coliving/outsite-aguadilla/index.md) | Aguadilla | Puerto Rico | On request | 2 nights | Permanent |
 | [Outsite Los Angeles - Venice Beach Dell](/coliving/outsite-los-angeles-venice-beach-dell/index.md) | Los Angeles | United States | from $95/night | — | Permanent |
 | [Outsite Los Angeles - Venice Beach Lincoln](/coliving/outsite-los-angeles-venice-beach-lincoln/index.md) | Los Angeles | United States | On request | — | Permanent |
+| [Outsite San Diego - Encinitas Avocado](/coliving/outsite-san-diego-encinitas-avocado/index.md) | Encinitas | United States | On request | — | Permanent |
+| [Outsite San Diego - Encinitas Grandview](/coliving/outsite-san-diego-encinitas-grandview/index.md) | Encinitas | United States | On request | 2 nights | Permanent |
 | [Life in Byron](/coliving/life-in-byron/index.md) | Byron Bay | Australia | from A$200/wk | — | Permanent |
 | [CoBodrum](/coliving/cobodrum/index.md) | Bodrum | Turkey | On request | — | Permanent |
 | [CO-CO Coliving & Coworking](/coliving/co-co-coliving-and-coworking/index.md) | Dénia | Spain | from €80/night | 11 nights | Permanent |
+| [Outsite Azores - Ribeira Grande](/coliving/outsite-azores-ribeira-grande/index.md) | Ribeira Grande, São Miguel, Azores | Portugal | On request | — | Permanent |
 
 Source: https://colivingdb.com/coliving/beach/

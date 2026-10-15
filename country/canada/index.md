@@ -1,6 +1,6 @@
 # Coliving in Canada
 
-> 2 colivings in Canada, prices from €889 to €889 per month – last updated October 10, 2026.
+> 2 colivings in Canada, prices from €889 to €889 per month – last updated October 15, 2026.
 
 ## All colivings
 

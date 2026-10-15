@@ -1,6 +1,6 @@
 # Coliving in Puerto de la Cruz, Tenerife, Spain
 
-> 1 colivings in Puerto de la Cruz, Tenerife, Spain – last updated October 10, 2026.
+> 1 coliving in Puerto de la Cruz, Tenerife, Spain – last updated October 15, 2026.
 
 ## All colivings
 

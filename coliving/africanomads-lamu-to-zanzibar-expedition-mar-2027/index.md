@@ -1,6 +1,6 @@
 # AfricaNomads — Lamu to Zanzibar Expedition (Mar 2027)
 
-> Coliving in Lamu → Zanzibar, Tanzania. Last updated October 10, 2026.
+> Coliving in Lamu → Zanzibar, Tanzania. Last updated October 15, 2026.
 
 - **Location:** Lamu → Zanzibar, Tanzania
 - **Type:** Pop-up / dated edition

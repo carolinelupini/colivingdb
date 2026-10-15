@@ -1,6 +1,6 @@
 # SunDesk Coliving
 
-> Coliving in Taghazout, Morocco. Last updated October 10, 2026.
+> Coliving in Taghazout, Morocco. Last updated October 15, 2026.
 
 - **Location:** Taghazout, Morocco
 - **Type:** Permanent coliving
@@ -12,12 +12,11 @@
 - **Wi-Fi (on-site):** 200 Mbps down <small>· operator-reported</small>
 - **Vibe:** focused work combined with relaxation and adventure
 - **Minimum stay:** 10 nights
-- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Africa
 - **Timezone:** GMT+1 <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** beach, surf, coworking, community, wellness
 - **Nearest airports:** Al Massira Airport (AGA) ~38 km; Essaouira-Mogador Airport (ESU) ~94 km
-- **Website:** https://www.mapmelon.com/colivings/sundesk-coliving?ref=colivingdb
+- **Website:** https://sun-desk.com/
 - **Rating:** 4.9 from 175 Google reviews
 
 ## Rates

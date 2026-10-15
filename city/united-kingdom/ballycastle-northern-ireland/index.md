@@ -1,6 +1,6 @@
 # Coliving in Ballycastle, Northern Ireland, United Kingdom
 
-> 1 colivings in Ballycastle, Northern Ireland, United Kingdom, prices from €1,000 to €1,000 per month – last updated October 10, 2026.
+> 1 coliving in Ballycastle, Northern Ireland, United Kingdom, prices from €1,000 to €1,000 per month – last updated October 15, 2026.
 
 ## All colivings
 

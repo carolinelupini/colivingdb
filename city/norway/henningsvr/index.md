@@ -1,6 +1,6 @@
 # Coliving in Henningsvær, Norway
 
-> 1 colivings in Henningsvær, Norway, prices from €2,331 to €2,331 per month – last updated October 10, 2026.
+> 1 coliving in Henningsvær, Norway, prices from €2,331 to €2,331 per month – last updated October 15, 2026.
 
 ## All colivings
 

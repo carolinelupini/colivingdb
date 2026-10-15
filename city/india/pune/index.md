@@ -1,6 +1,6 @@
 # Coliving in Pune, India
 
-> 1 colivings in Pune, India – last updated October 10, 2026.
+> 1 coliving in Pune, India – last updated October 15, 2026.
 
 ## All colivings
 

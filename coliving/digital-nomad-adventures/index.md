@@ -1,6 +1,6 @@
 # Digital Nomad Adventures
 
-> Coliving in Koh Phangan, Thailand. Last updated October 10, 2026.
+> Coliving in Koh Phangan, Thailand. Last updated October 15, 2026.
 
 - **Location:** Koh Phangan, Thailand
 - **Type:** Permanent coliving

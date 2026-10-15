@@ -1,6 +1,6 @@
 # La Meca Coliving
 
-> Coliving in Los Caños de Meca, Spain. Last updated October 10, 2026.
+> Coliving in Los Caños de Meca, Spain. Last updated October 15, 2026.
 
 - **Location:** Los Caños de Meca, Spain
 - **Type:** Permanent coliving

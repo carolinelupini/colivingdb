@@ -1,6 +1,6 @@
 # Zaselje Home
 
-> Coliving in Presjeka, Nikšić, Montenegro. Last updated October 10, 2026.
+> Coliving in Presjeka, Nikšić, Montenegro. Last updated October 15, 2026.
 
 - **Location:** Presjeka, Nikšić, Montenegro
 - **Type:** Permanent coliving

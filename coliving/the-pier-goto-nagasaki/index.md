@@ -1,6 +1,6 @@
 # The Pier | Goto Nagasaki
 
-> Coliving in Goto (Fukue), Nagasaki, Japan. Last updated October 10, 2026.
+> Coliving in Goto (Fukue), Nagasaki, Japan. Last updated October 15, 2026.
 
 - **Location:** Goto (Fukue), Nagasaki, Japan
 - **Type:** Permanent coliving

@@ -1,10 +1,11 @@
 # Pangea coworking chapters 2026–2027
 
-> 10 upcoming Pangea coworking chapters in 9 countries, sorted by date. Each chapter is a community pass: accommodation is not included, so you book your own place. Updated October 10, 2026.
+> 11 upcoming Pangea coworking chapters in 10 countries, sorted by date. Each chapter is a community pass: accommodation is not included, so you book your own place. Updated October 15, 2026.
 
 | Coworking chapter | Where | Dates | Price from |
 |---|---|---|---|
-| [Pangea — Ecuador](/coliving/pangea-ecuador/index.md) | city to be announced, Ecuador | Nov 30 - Dec 18, 2026 | from $249/ticket |
+| [Pangea — Quito](/coliving/pangea-quito/index.md) | Quito, Ecuador | Nov 30 - Dec 18, 2026 | from $249/ticket |
+| [Pangea — Florianópolis](/coliving/pangea-florianopolis/index.md) | Florianópolis, Brazil | Jan 4 - 25, 2027 | from $249/ticket |
 | [Pangea — Cape Town (Jan 2027)](/coliving/pangea-cape-town-jan-2027/index.md) | Cape Town, South Africa | Jan 24 - Feb 19, 2027 | from $299/ticket |
 | [Pangea — Santa Cruz de la Sierra](/coliving/pangea-santa-cruz-de-la-sierra/index.md) | Santa Cruz de la Sierra, Bolivia | Feb 18 - Mar 12, 2027 | from $249/ticket |
 | [Pangea — Cape Town (Mar 2027)](/coliving/pangea-cape-town-mar-2027/index.md) | Cape Town, South Africa | Mar 1 - Mar 27, 2027 | from $299/ticket |

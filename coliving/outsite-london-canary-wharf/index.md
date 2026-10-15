@@ -1,6 +1,6 @@
 # Outsite London - Canary Wharf
 
-> Coliving in London, United Kingdom. Last updated October 10, 2026.
+> Coliving in London, United Kingdom. Last updated October 15, 2026.
 
 - **Location:** London, United Kingdom
 - **Type:** Permanent coliving

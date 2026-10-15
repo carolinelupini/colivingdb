@@ -1,6 +1,6 @@
 # Outsite Ibiza - Es Canar
 
-> Coliving in Es Canar, Ibiza, Spain. Last updated October 10, 2026.
+> Coliving in Es Canar, Ibiza, Spain. Last updated October 15, 2026.
 
 - **Location:** Es Canar, Ibiza, Spain
 - **Type:** Permanent coliving

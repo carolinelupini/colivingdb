@@ -1,6 +1,6 @@
 # Coliving in Riposto, Sicily, Italy
 
-> 1 colivings in Riposto, Sicily, Italy – last updated October 10, 2026.
+> 1 coliving in Riposto, Sicily, Italy – last updated October 15, 2026.
 
 ## All colivings
 

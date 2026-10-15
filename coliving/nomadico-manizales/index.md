@@ -1,6 +1,6 @@
 # Nomadico Manizales
 
-> Coliving in Manizales, Colombia. Last updated October 10, 2026.
+> Coliving in Manizales, Colombia. Last updated October 15, 2026.
 
 - **Location:** Manizales, Colombia
 - **Type:** Permanent coliving

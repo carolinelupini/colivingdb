@@ -1,6 +1,6 @@
 # Markaz Collective Space
 
-> Coliving in Bandung, Indonesia. Last updated October 10, 2026.
+> Coliving in Bandung, Indonesia. Last updated October 15, 2026.
 
 - **Location:** Bandung, Indonesia
 - **Type:** Permanent coliving

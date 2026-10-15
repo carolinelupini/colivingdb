@@ -1,6 +1,6 @@
 # CO-CO Coliving & Coworking
 
-> Coliving in Dénia, Spain. Last updated October 10, 2026.
+> Coliving in Dénia, Spain. Last updated October 15, 2026.
 
 - **Location:** Dénia, Spain
 - **Type:** Permanent coliving

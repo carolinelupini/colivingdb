@@ -1,0 +1,33 @@
+# The Better Neighbours — Lloret de Mar (Spring 2027)
+
+> Coliving in Lloret de Mar, Spain. Last updated October 15, 2026.
+
+- **Location:** Lloret de Mar, Spain
+- **Type:** Pop-up / dated edition
+- **Dates:** Feb 28 - Mar 28, 2027 (Spring)
+- **Price:** from €865/mo
+- **Price note:** €865 for the month (or €240 per week) — private double room with ensuite at Hotel Robson, coworking, shared kitchen and laundry, rooftop yoga, Spanish classes, day trips.
+- **Room types:** —
+- **Dorm available:** No
+- **Wi-Fi (on-site):** 250 Mbps down <small>· operator-reported</small>
+- **Vibe:** Retreat-style stay prioritizing privacy ('engage as much—or as little—as you wish') with optional community activities: rooftop yoga, coastal hikes, and participant-led workshops.
+- **Minimum stay:** —
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
+- **Region:** Europe
+- **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
+- **Included:** Private double room w/ bathroom at Hotel Robson, Nomad Pass (20% off at partner restaurant), Rooftop yoga classes, Spanish language classes (subject to availability), Coworking space, shared kitchen, laundry, Bi-weekly room cleaning
+- **Area:** Lloret de Mar, on Spain's Costa Brava, is a 5-minute walk from the beach. Nearby: Tossa de Mar, Blanes botanical gardens, the Camí de Ronda coastal walking trail, and day trips to Girona, Figueres, and Barcelona (about an hour away).
+- **Nearest airports:** Girona-Costa Brava Airport (GRO) ~24 km; Josep Tarradellas Barcelona-El Prat Airport (BCN) ~78 km; Perpignan-Rivesaltes (Llabanère) Airport (PGF) ~116 km
+- **Getting there:** Girona-Costa Brava Airport (GRO) is ~40 min by car; Barcelona-El Prat (BCN) is ~1-1.5h.
+- **Website:** https://thebetterneighbors.com/spain
+
+## Rates
+
+| Stay length | Private |
+|---|---|
+| Per week | €240 |
+| Per month | €865 |
+
+The Better Neighbours — Lloret de Mar (Spring 2027) does not publish a nightly rate.
+
+Source: https://colivingdb.com/coliving/the-better-neighbours-lloret-de-mar-spring-2027/

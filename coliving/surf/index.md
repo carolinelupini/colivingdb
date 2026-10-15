@@ -1,6 +1,6 @@
 # Surf colivings
 
-> 101 colivings near a surf break in 19 countries. Updated October 10, 2026.
+> 102 colivings near a surf break in 19 countries. Updated October 15, 2026.
 
 | Coliving | City | Country | Price from | Min stay | Type |
 |---|---|---|---|---|---|
@@ -8,9 +8,9 @@
 | [The Manoel João Ferreira](/coliving/the-manoel-joao-ferreira/index.md) | Florianópolis (Barra da Lagoa) | Brazil | from $273/mo | 30 nights | Permanent |
 | [Kasbari House](/coliving/kasbari-house/index.md) | Tamraght (near Taghazout/Agadir) | Morocco | from €350/mo | 7 nights | Permanent |
 | [Novovento](/coliving/novovento/index.md) | Ginetes, São Miguel, Azores | Portugal | from €300/mo | 7 nights | Permanent |
+| [Nomadico Coliving Florianópolis](/coliving/nomadico-coliving-florianopolis/index.md) | Florianópolis | Brazil | from $380/mo | 7 nights | Permanent |
 | [Matra Bali](/coliving/matra-bali/index.md) | Canggu | Indonesia | from IDR 7,500,000/mo | — | Permanent |
-| [Nomadico Anglet](/coliving/nomadico-anglet/index.md) | Anglet | France | from €370/mo | — | Pop-up |
-| [Nomadico Coliving Florianópolis](/coliving/nomadico-coliving-florianopolis/index.md) | Florianópolis | Brazil | from $380/mo | 7 nights | Pop-up |
+| [Nomadico Anglet](/coliving/nomadico-anglet/index.md) | Anglet | France | from €370/mo | — | Permanent |
 | [Manoel Pedro da Silveira Home](/coliving/manoel-pedro-da-silveira-home/index.md) | Florianópolis | Brazil | from $465/mo | 30 nights | Permanent |
 | [Adventurekeys](/coliving/adventurekeys/index.md) | Taghazout | Morocco | from €420/mo | 2 nights | Permanent |
 | [La Isla Bonita](/coliving/la-isla-bonita/index.md) | Weligama | Sri Lanka | from $500/mo | — | Permanent |
@@ -19,14 +19,14 @@
 | [Banama Surfhouse - Coliving Coworking & Yoga](/coliving/banama-surfhouse-coliving-coworking-and-yoga/index.md) | Corralejo, Fuerteventura | Spain | from €499/mo | — | Permanent |
 | [Skippers](/coliving/skippers/index.md) | Diani Beach | Kenya | from €500/mo | 28 nights | Permanent |
 | [Communal Coliving](/coliving/communal-coliving/index.md) | Santa Fe, Siargao | Philippines | from PHP 35,000/mo | 6 nights | Permanent |
-| [Nomadico Coliving Ericeira](/coliving/nomadico-coliving-ericeira/index.md) | Ericeira | Portugal | from €542/mo | 7 nights | Pop-up |
+| [Nomadico Coliving Ericeira](/coliving/nomadico-coliving-ericeira/index.md) | Ericeira | Portugal | from €542/mo | 7 nights | Permanent |
 | [Hiriketiya Home](/coliving/hiriketiya-home/index.md) | Hiriketiya (Dickwella), Matara | Sri Lanka | from $685/mo | 30 nights | Permanent |
 | [Nomadico](/coliving/nomadico/index.md) | Multiple | Multiple | from $955/mo | — | Permanent |
 | [The Tamraght](/coliving/the-tamraght/index.md) | Agadir | Morocco | from $740/mo | 30 nights | Permanent |
+| [Nomadico Coliving Tarifa](/coliving/nomadico-coliving-tarifa/index.md) | Tarifa | Spain | from €688/mo | — | Permanent |
 | [Nomadico Coliving Puerto Escondido](/coliving/nomadico-coliving-puerto-escondido/index.md) | Puerto Escondido | Mexico | from $749/mo | 7 nights | Permanent |
 | [Nomadico Coliving Taghazout](/coliving/nomadico-coliving-taghazout/index.md) | Taghazout | Morocco | from €715/mo | — | Permanent |
 | [Mi Casa Coliving](/coliving/mi-casa-coliving/index.md) | Puerto Escondido | Mexico | from €720/mo | 7 nights | Permanent |
-| [Nomadico Coliving Tarifa](/coliving/nomadico-coliving-tarifa/index.md) | Tarifa | Spain | from €688/mo | — | Pop-up |
 | [Habaraduwa Home](/coliving/habaraduwa-home/index.md) | Habaraduwa, Galle | Sri Lanka | from $845/mo | 30 nights | Permanent |
 | [Colive Me (ColiveMe)](/coliving/colive-me-coliveme/index.md) | Ahangama | Sri Lanka | from €668/mo | 3 nights | Permanent |
 | [Lava Coliving & Coworking](/coliving/lava-coliving-and-coworking/index.md) | Ribeira Grande, São Miguel | Portugal | from €25/night | 7 nights | Permanent |
@@ -73,8 +73,6 @@
 | [Outsite San Diego - Encinitas Ponto](/coliving/outsite-san-diego-encinitas-ponto/index.md) | Encinitas | United States | from $2,209/mo | — | Permanent |
 | [Dwell Azores](/coliving/dwell-azores/index.md) | Fenais da Luz, São Miguel, Azores | Portugal | from €2,160/mo | 28 nights | Permanent |
 | [Surfescape](/coliving/surfescape/index.md) | Lajares, Fuerteventura | Spain | from €2,500/mo | — | Permanent |
-| [Outsite San Diego - Encinitas Avocado](/coliving/outsite-san-diego-encinitas-avocado/index.md) | Encinitas | United States | from $6,897/mo | — | Permanent |
-| [Outsite San Diego - Encinitas Grandview](/coliving/outsite-san-diego-encinitas-grandview/index.md) | Encinitas | United States | from $6,897/mo | 2 nights | Permanent |
 | [Green Room JBay Coliving](/coliving/green-room-jbay-coliving/index.md) | Jeffreys Bay | South Africa | from R545/night | 14 nights | Permanent |
 | [Coworksurf Berawa (Canggu)](/coliving/coworksurf-berawa-canggu/index.md) | Canggu | Indonesia | On request | — | Permanent |
 | [Coworksurf Kuta Lombok](/coliving/coworksurf-kuta-lombok/index.md) | Kuta Lombok | Indonesia | On request | — | Permanent |
@@ -104,6 +102,9 @@
 | [The Wave Temple | Surfhouse, Coliving](/coliving/the-wave-temple-surfhouse-coliving/index.md) | Las Palmas de Gran Canaria | Spain | On request | — | Permanent |
 | [Outsite Playa Grande](/coliving/outsite-playa-grande/index.md) | Playa Grande | Costa Rica | On request | 1 night | Permanent |
 | [Outsite Aguadilla](/coliving/outsite-aguadilla/index.md) | Aguadilla | Puerto Rico | On request | 2 nights | Permanent |
+| [Outsite San Diego - Encinitas Avocado](/coliving/outsite-san-diego-encinitas-avocado/index.md) | Encinitas | United States | On request | — | Permanent |
+| [Outsite San Diego - Encinitas Grandview](/coliving/outsite-san-diego-encinitas-grandview/index.md) | Encinitas | United States | On request | 2 nights | Permanent |
 | [Life in Byron](/coliving/life-in-byron/index.md) | Byron Bay | Australia | from A$200/wk | — | Permanent |
+| [Outsite Azores - Ribeira Grande](/coliving/outsite-azores-ribeira-grande/index.md) | Ribeira Grande, São Miguel, Azores | Portugal | On request | — | Permanent |
 
 Source: https://colivingdb.com/coliving/surf/

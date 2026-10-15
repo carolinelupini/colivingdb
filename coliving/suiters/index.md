@@ -1,6 +1,6 @@
 # Suiters
 
-> Coliving in Alicante, Spain. Last updated October 10, 2026.
+> Coliving in Alicante, Spain. Last updated October 15, 2026.
 
 - **Location:** Alicante, Spain
 - **Type:** Permanent coliving

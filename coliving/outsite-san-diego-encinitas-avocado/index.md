@@ -1,11 +1,11 @@
 # Outsite San Diego - Encinitas Avocado
 
-> Coliving in Encinitas, United States. Last updated October 10, 2026.
+> Coliving in Encinitas, United States. Last updated October 15, 2026.
 
 - **Location:** Encinitas, United States
 - **Type:** Permanent coliving
-- **Price:** from $6,897/mo
-- **Price note:** from ~$229.90/night private
+- **Price:** On request
+- **Price note:** pricing shown only after entering dates
 - **Rating:** <a href="https://maps.google.com/?cid=17779685540083248768&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (1 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
@@ -18,15 +18,6 @@
 - **Nearest airports:** McClellan-Palomar Airport (CLD) ~10 km; San Diego International Airport (SAN) ~35 km; General Abelardo L. Rodriguez International Airport (TIJ) ~63 km
 - **Website:** https://www.outsite.co/locations/san-diego-encinitas-avocado
 - **Rating:** 5.0 from 1 Google reviews
-
-## Rates
-
-| Stay length | Private |
-|---|---|
-| Per night | — |
-| Per month | $6,897 |
-
-Outsite San Diego - Encinitas Avocado does not publish a weekly rate.
 
 ## About
 

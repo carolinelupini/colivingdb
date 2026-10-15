@@ -1,12 +1,12 @@
 # Coliving in France
 
-> 17 colivings in France, prices from €370 to €1,200 per month – last updated October 10, 2026.
+> 17 colivings in France, prices from €370 to €1,200 per month – last updated October 15, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Nomadico Anglet | Anglet | from €370/mo | 5.0 (3) | private, shared | — | Pop-up |
+| Nomadico Anglet | Anglet | from €370/mo | 5.0 (3) | private, shared | — | Permanent |
 | Maysou A Noste | Lurbe-Saint-Christau | from €420/mo | 4.8 (18) | private | 6 nights | Permanent |
 | Langeais Co-Living Castle (La Roche-Cotard) | Langeais | from €655/mo | 5.0 (17) | private | — | Permanent |
 | Enchanted Coliving | Nachamps | from €1,080/mo | 5.0 (19) | private | 14 nights | Permanent |
@@ -32,9 +32,5 @@
 | 500–800 | 1 |
 | 800–1200 | 6 |
 | 1200–2000 | 1 |
-
-## Upcoming pop-ups
-
-- Nomadico Anglet — Sept–Dec & Mar–Jun (seasonal)
 
 Source: https://colivingdb.com/country/france/

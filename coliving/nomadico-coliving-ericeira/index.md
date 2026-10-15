@@ -1,12 +1,11 @@
 # Nomadico Coliving Ericeira
 
-> Coliving in Ericeira, Portugal. Last updated October 10, 2026.
+> Coliving in Ericeira, Portugal. Last updated October 15, 2026.
 
 - **Location:** Ericeira, Portugal
-- **Type:** Pop-up / dated edition
-- **Dates:** Nov–Dec (seasonal; unverified — confirm)
+- **Type:** Permanent coliving
 - **Price:** from €542/mo
-- **Price note:** from EUR 542/4 weeks shared room (EUR 194/week)
+- **Price note:** from €542 per 4 weeks for a shared room; private rooms from €833
 - **Rating:** <a href="https://maps.google.com/?cid=6542100931878043795&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (29 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
@@ -29,6 +28,6 @@ Nomadico Coliving Ericeira does not publish a nightly or weekly rate.
 
 ## About
 
-Two connected homes (Sea View Hub + Laura's Home/Bungalow), 12 private + 2 shared rooms; private tiers range 833-1088/mo.
+Season: November 7 – December 26, across two homes (Sea View and Laura's), 12 private and 2 shared rooms.
 
 Source: https://colivingdb.com/coliving/nomadico-coliving-ericeira/

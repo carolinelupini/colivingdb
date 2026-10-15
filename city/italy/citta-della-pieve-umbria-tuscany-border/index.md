@@ -1,6 +1,6 @@
 # Coliving in Citta della Pieve (Umbria/Tuscany border), Italy
 
-> 1 colivings in Citta della Pieve (Umbria/Tuscany border), Italy, prices from €700 to €700 per month – last updated October 10, 2026.
+> 1 coliving in Citta della Pieve (Umbria/Tuscany border), Italy, prices from €700 to €700 per month – last updated October 15, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Build it in Bogotá
 
-> Coliving in Bogotá (El Virrey, Chapinero), Colombia. Last updated October 10, 2026.
+> Coliving in Bogotá (El Virrey, Chapinero), Colombia. Last updated October 15, 2026.
 
 - **Location:** Bogotá (El Virrey, Chapinero), Colombia
 - **Type:** Permanent coliving

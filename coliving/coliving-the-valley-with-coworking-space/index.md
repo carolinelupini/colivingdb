@@ -1,6 +1,6 @@
 # Coliving The VALLEY with Coworking Space
 
-> Coliving in Rogé, Vale de Cambra, Portugal. Last updated October 10, 2026.
+> Coliving in Rogé, Vale de Cambra, Portugal. Last updated October 15, 2026.
 
 - **Location:** Rogé, Vale de Cambra, Portugal
 - **Type:** Permanent coliving
@@ -12,11 +12,12 @@
 - **Wi-Fi (on-site):** 525 Mbps down <small>· operator-reported</small>
 - **Vibe:** Countryside retreat community to live, work, and play together
 - **Minimum stay:** 5 nights
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Europe
 - **Timezone:** GMT+0 winter / GMT+1 summer <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** rural, mountain, coworking, community
 - **Nearest airports:** Aerodromo Goncalves Lobato (Viseu Airport) (VSE) ~44 km; Lisbon Humberto Delgado Airport (LIS) ~239 km; Francisco de Sá Carneiro Airport (OPO) ~51 km
-- **Website:** https://colivingthevalley.com/
+- **Website:** https://www.mapmelon.com/colivings/coliving-the-valley-with-coworking-space?ref=colivingdb
 - **Rating:** 5.0 from 35 Google reviews
 
 ## Rates

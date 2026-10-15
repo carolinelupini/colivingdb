@@ -1,6 +1,6 @@
 # Coliving in Copenhagen, Denmark
 
-> 1 colivings in Copenhagen, Denmark – last updated October 10, 2026.
+> 1 coliving in Copenhagen, Denmark – last updated October 15, 2026.
 
 ## All colivings
 

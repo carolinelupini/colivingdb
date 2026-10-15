@@ -1,6 +1,6 @@
 # Coliving in Boulder, United States
 
-> 1 colivings in Boulder, United States – last updated October 10, 2026.
+> 1 coliving in Boulder, United States – last updated October 15, 2026.
 
 ## All colivings
 

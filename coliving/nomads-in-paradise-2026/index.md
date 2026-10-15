@@ -1,6 +1,6 @@
 # Nomads in Paradise 2026
 
-> Nomad festival in General Luna, Philippines. Last updated October 10, 2026.
+> Nomad festival in General Luna, Philippines. Last updated October 15, 2026.
 
 - **Location:** General Luna, Philippines
 - **Type:** Nomad festival / dated event — accommodation not included

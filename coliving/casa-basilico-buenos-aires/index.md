@@ -1,6 +1,6 @@
 # Casa Basilico — Buenos Aires
 
-> Coliving in Buenos Aires, Argentina. Last updated October 10, 2026.
+> Coliving in Buenos Aires, Argentina. Last updated October 15, 2026.
 
 - **Location:** Buenos Aires, Argentina
 - **Type:** Pop-up / dated edition

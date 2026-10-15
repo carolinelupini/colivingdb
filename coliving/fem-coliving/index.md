@@ -1,6 +1,6 @@
 # FEM Coliving
 
-> Coliving in Sant Joan de les Abadesses, Spain. Last updated October 10, 2026.
+> Coliving in Sant Joan de les Abadesses, Spain. Last updated October 15, 2026.
 
 - **Location:** Sant Joan de les Abadesses, Spain
 - **Type:** Permanent coliving

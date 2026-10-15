@@ -1,6 +1,6 @@
 # Coliving in Saint Pierre, La Réunion
 
-> 1 colivings in Saint Pierre, La Réunion – last updated October 10, 2026.
+> 1 coliving in Saint Pierre, La Réunion – last updated October 15, 2026.
 
 ## All colivings
 

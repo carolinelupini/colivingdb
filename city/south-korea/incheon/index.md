@@ -1,6 +1,6 @@
 # Coliving in Incheon, South Korea
 
-> 1 colivings in Incheon, South Korea – last updated October 10, 2026.
+> 1 nomad festival in Incheon, South Korea – last updated October 15, 2026.
 
 ## All colivings
 

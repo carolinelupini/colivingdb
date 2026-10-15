@@ -1,6 +1,6 @@
 # Coliving in Melbourne, Australia
 
-> 3 colivings in Melbourne, Australia, prices from €1,987 to €1,987 per month – last updated October 10, 2026.
+> 3 colivings in Melbourne, Australia, prices from €1,987 to €1,987 per month – last updated October 15, 2026.
 
 ## All colivings
 

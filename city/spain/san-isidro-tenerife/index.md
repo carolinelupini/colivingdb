@@ -1,6 +1,6 @@
 # Coliving in San Isidro (Tenerife), Spain
 
-> 1 colivings in San Isidro (Tenerife), Spain, prices from €600 to €600 per month – last updated October 10, 2026.
+> 1 coliving in San Isidro (Tenerife), Spain, prices from €600 to €600 per month – last updated October 15, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # PAS Rural Coliving
 
-> Coliving in Villegar, Spain. Last updated October 10, 2026.
+> Coliving in Villegar, Spain. Last updated October 15, 2026.
 
 - **Location:** Villegar, Spain
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 1000 Mbps down <small>· operator-reported</small>
-- **Vibe:** Lively, friendly atmosphere for remote work and travel lovers
+- **Vibe:** Six wooden cabins on a small farm in a village of under 100 people, 40 minutes from Santander, with a converted-garage coworking space.
 - **Minimum stay:** 15 nights
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>

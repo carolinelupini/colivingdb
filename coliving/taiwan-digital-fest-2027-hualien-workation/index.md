@@ -1,6 +1,6 @@
 # Taiwan Digital Fest 2027 — Hualien Workation
 
-> Nomad festival in Hualien City, Taiwan. Last updated October 10, 2026.
+> Nomad festival in Hualien City, Taiwan. Last updated October 15, 2026.
 
 - **Location:** Hualien City, Taiwan
 - **Type:** Nomad festival / dated event — accommodation not included

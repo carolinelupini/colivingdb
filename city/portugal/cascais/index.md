@@ -1,6 +1,6 @@
 # Coliving in Cascais, Portugal
 
-> 1 colivings in Cascais, Portugal, prices from €1,000 to €1,000 per month – last updated October 10, 2026.
+> 1 coliving in Cascais, Portugal, prices from €1,000 to €1,000 per month – last updated October 15, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Coliving in Casablanca, Morocco
 
-> 1 colivings in Casablanca, Morocco – last updated October 10, 2026.
+> 1 coliving in Casablanca, Morocco – last updated October 15, 2026.
 
 ## All colivings
 

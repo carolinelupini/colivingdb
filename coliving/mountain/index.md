@@ -1,6 +1,6 @@
 # Mountain colivings
 
-> 72 colivings in the mountains in 19 countries. Updated October 10, 2026.
+> 73 colivings in the mountains in 19 countries. Updated October 15, 2026.
 
 | Coliving | City | Country | Price from | Min stay | Type |
 |---|---|---|---|---|---|
@@ -20,24 +20,23 @@
 | [Saakadze Home](/coliving/saakadze-home/index.md) | Dusheti | Georgia | from $639/mo | 30 nights | Permanent |
 | [Nomadico Manizales](/coliving/nomadico-manizales/index.md) | Manizales | Colombia | from $690/mo | 7 nights | Permanent |
 | [Dolce Vita Coliving & Coworking](/coliving/dolce-vita-coliving-and-coworking/index.md) | Vallo di Nera (Umbria) | Italy | from €599/mo | 7 nights | Permanent |
-| [POSADA DE LA LUZ](/coliving/posada-de-la-luz/index.md) | Torralba de Ribota | Spain | from €600/mo | 15 nights | Permanent |
 | [Ruralco Coliving](/coliving/ruralco-coliving/index.md) | Culla, Castellón | Spain | from €550/mo | — | Permanent |
 | [Nomadico](/coliving/nomadico/index.md) | Multiple | Multiple | from $955/mo | — | Permanent |
 | [Bjørkedal Home](/coliving/bjrkedal-home/index.md) | Volda | Norway | from $720/mo | 30 nights | Permanent |
-| [Nomadico Coliving Bansko](/coliving/nomadico-coliving-bansko/index.md) | Bansko | Bulgaria | from €638/mo | 7 nights | Pop-up |
+| [Nomadico Coliving Bansko](/coliving/nomadico-coliving-bansko/index.md) | Bansko | Bulgaria | from €638/mo | 7 nights | Permanent |
 | [Wild Oasis Algarve](/coliving/wild-oasis-algarve/index.md) | Monchique | Portugal | from €650/mo | — | Permanent |
 | [REC.ON Project Spain](/coliving/rec-on-project-spain/index.md) | Bolaimi (Sierra Maria-Los Velez, Almeria) | Spain | from €660/mo | 12 nights | Permanent |
 | [Hubs Swiss Alps Lenk](/coliving/hubs-swiss-alps-lenk/index.md) | Lenk | Switzerland | from CHF 633/mo | 30 nights | Permanent |
 | [Swiss Alps Coliving](/coliving/swiss-alps-coliving/index.md) | Liddes | Switzerland | from CHF 700/mo | 7 nights | Permanent |
 | [Cactus Coliving](/coliving/cactus-coliving/index.md) | Valle San Lorenzo (Arona), Tenerife | Spain | from €686/mo | 14 nights | Permanent |
 | [Cactus Coliving La Gomera](/coliving/cactus-coliving-la-gomera/index.md) | San Sebastián de La Gomera | Spain | from €690/mo | 13 nights | Permanent |
-| [Nomadico Coliving Kotor](/coliving/nomadico-coliving-kotor/index.md) | Kotor | Montenegro | from €690/mo | 7 nights | Pop-up |
+| [Nomadico Coliving Kotor](/coliving/nomadico-coliving-kotor/index.md) | Kotor | Montenegro | from €690/mo | 7 nights | Permanent |
 | [FEM Coliving](/coliving/fem-coliving/index.md) | Sant Joan de les Abadesses | Spain | from €690/mo | 30 nights | Permanent |
 | [Pachamama Farm Retreat](/coliving/pachamama-farm-retreat/index.md) | Ukropci (above Kotor Bay) | Montenegro | from €695/mo | 14 nights | Permanent |
 | [Tertulia Coliving](/coliving/tertulia-coliving/index.md) | Vicchio (Mugello, Florence) | Italy | from €699/mo | 14 nights | Permanent |
 | [La Vita Sukha](/coliving/la-vita-sukha/index.md) | Roseto Valfortore | Italy | from €700/mo | 13 nights | Permanent |
 | [Moritsgarden (Digital Nomad Norway)](/coliving/moritsgarden-digital-nomad-norway/index.md) | Folkestad | Norway | from €700/mo | — | Permanent |
-| [The Pirin](/coliving/the-pirin/index.md) | Bansko | Bulgaria | from $832/mo | 30 nights | Pop-up |
+| [The Pirin](/coliving/the-pirin/index.md) | Bansko | Bulgaria | from $832/mo | 30 nights | Permanent |
 | [Coliving Valentina Bansko](/coliving/coliving-valentina-bansko/index.md) | Bansko | Bulgaria | from €750/mo | — | Permanent |
 | [Montino Coliving](/coliving/montino-coliving/index.md) | Oggebbio, Lake Maggiore | Italy | from €750/mo | 7 nights | Permanent |
 | [Lava Coliving & Coworking](/coliving/lava-coliving-and-coworking/index.md) | Ribeira Grande, São Miguel | Portugal | from €25/night | 7 nights | Permanent |
@@ -70,11 +69,13 @@
 | [Wome coliving](/coliving/wome-coliving/index.md) | Campo Tartano (Val Tartano) | Italy | On request | 8 nights | Permanent |
 | [Hostel Kahlo](/coliving/hostel-kahlo/index.md) | Sierro, Almeria (Andalucia) | Spain | On request | — | Permanent |
 | [Mas Pujols](/coliving/mas-pujols/index.md) | Sant Boi de Llucanes (Catalonia) | Spain | On request | — | Permanent |
+| [POSADA DE LA LUZ](/coliving/posada-de-la-luz/index.md) | Torralba de Ribota | Spain | from €22/event | 15 nights | Permanent |
 | [Arctic Coliving 78° North (Svalbard)](/coliving/arctic-coliving-78-north-svalbard/index.md) | Longyearbyen | Norway | from €280/wk | 14 nights | Pop-up |
 | [Mont Blanc Coliving](/coliving/mont-blanc-coliving/index.md) | Finhaut | Switzerland | On request | — | Permanent |
 | [Vermont Hub](/coliving/vermont-hub/index.md) | Leysin | Switzerland | On request | 7 nights | Permanent |
 | [Casa Kandamy](/coliving/casa-kandamy/index.md) | Tobia | Colombia | from $57/night | 30 nights | Permanent |
 | [Outsite Boulder - North Boulder](/coliving/outsite-boulder-north-boulder/index.md) | Boulder | United States | from $67/night | 2 nights | Permanent |
 | [Aulus Coliving](/coliving/aulus-coliving/index.md) | Aulus-les-Bains | France | from €30/night | — | Permanent |
+| [Co-living Sojuela Joven](/coliving/co-living-sojuela-joven/index.md) | Sojuela | Spain | from €22/event | 1 night | Permanent |
 
 Source: https://colivingdb.com/coliving/mountain/

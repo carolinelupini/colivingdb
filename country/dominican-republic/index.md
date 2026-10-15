@@ -1,6 +1,6 @@
 # Coliving in Dominican Republic
 
-> 3 colivings in Dominican Republic, prices from €880 to €1,467 per month – last updated October 10, 2026.
+> 2 colivings and 1 nomad festival in Dominican Republic, prices from €880 to €1,467 per month – last updated October 15, 2026.
 
 ## All colivings
 

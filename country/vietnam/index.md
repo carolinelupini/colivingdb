@@ -1,6 +1,6 @@
 # Coliving in Vietnam
 
-> 10 colivings in Vietnam, prices from €283 to €834 per month – last updated October 10, 2026.
+> 9 colivings and 1 nomad festival in Vietnam, prices from €283 to €834 per month – last updated October 15, 2026.
 
 ## All colivings
 

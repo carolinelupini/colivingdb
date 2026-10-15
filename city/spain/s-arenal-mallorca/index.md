@@ -1,6 +1,6 @@
 # Coliving in S'Arenal (Mallorca), Spain
 
-> 1 colivings in S'Arenal (Mallorca), Spain, prices from €950 to €950 per month – last updated October 10, 2026.
+> 1 coliving in S'Arenal (Mallorca), Spain, prices from €950 to €950 per month – last updated October 15, 2026.
 
 ## All colivings
 

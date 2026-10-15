@@ -1,6 +1,6 @@
 # Coliving in Santa Úrsula, Tenerife, Spain
 
-> 2 colivings in Santa Úrsula, Tenerife, Spain, prices from €837 to €1,299 per month – last updated October 10, 2026.
+> 2 colivings in Santa Úrsula, Tenerife, Spain, prices from €837 to €1,299 per month – last updated October 15, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Coliving in Livingstone, Zambia
 
-> 1 colivings in Livingstone, Zambia – last updated October 10, 2026.
+> 1 coliving in Livingstone, Zambia – last updated October 15, 2026.
 
 ## All colivings
 

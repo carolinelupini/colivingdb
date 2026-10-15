@@ -1,6 +1,6 @@
 # Coliving in Rogé, Vale de Cambra, Portugal
 
-> 1 colivings in Rogé, Vale de Cambra, Portugal, prices from €510 to €510 per month – last updated October 10, 2026.
+> 1 coliving in Rogé, Vale de Cambra, Portugal, prices from €510 to €510 per month – last updated October 15, 2026.
 
 ## All colivings
 

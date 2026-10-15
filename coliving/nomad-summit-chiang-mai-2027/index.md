@@ -1,12 +1,12 @@
 # Nomad Summit Chiang Mai 2027
 
-> Nomad festival in Chiang Mai, Thailand. Last updated October 10, 2026.
+> Nomad festival in Chiang Mai, Thailand. Last updated October 15, 2026.
 
 - **Location:** Chiang Mai, Thailand
 - **Type:** Nomad festival / dated event — accommodation not included
 - **Dates:** Jan 15 - 24, 2027
-- **Price:** from €249/ticket
-- **Price note:** Standard €249 and Premium €329 until October 1, 2026, when they rise to €299 and €399. Prices read at the checkout on September 11, 2026. Tickets are non-refundable but transferable up to three days before, for a $20 fee.
+- **Price:** from €299/ticket
+- **Price note:** From €299 (Standard pass; prices rose on October 1, 2026, read on nomadsummit.com October 15). Tickets are non-refundable but transferable up to three days before, for a $20 fee.
 - **Room types:** —
 - **Dorm available:** No
 - **Vibe:** Builder-heavy rather than lifestyle-heavy — the organiser puts it plainly: "This isn't a lifestyle festival." January is dry season, 20–30°C days and cooler evenings around 15°C.

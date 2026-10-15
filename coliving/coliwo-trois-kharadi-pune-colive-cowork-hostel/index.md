@@ -1,6 +1,6 @@
 # COLIWO TROIS - Kharadi Pune (Colive/Cowork/Hostel)
 
-> Coliving in Pune, India. Last updated October 10, 2026.
+> Coliving in Pune, India. Last updated October 15, 2026.
 
 - **Location:** Pune, India
 - **Type:** Permanent coliving

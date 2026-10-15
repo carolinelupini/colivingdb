@@ -1,6 +1,6 @@
 # Homeoffice Madeira
 
-> Coliving in Santo da Serra, Santa Cruz (Madeira), Portugal. Last updated October 10, 2026.
+> Coliving in Santo da Serra, Santa Cruz (Madeira), Portugal. Last updated October 15, 2026.
 
 - **Location:** Santo da Serra, Santa Cruz (Madeira), Portugal
 - **Type:** Permanent coliving

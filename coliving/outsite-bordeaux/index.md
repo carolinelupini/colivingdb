@@ -1,6 +1,6 @@
 # Outsite Bordeaux
 
-> Coliving in Bordeaux, France. Last updated October 10, 2026.
+> Coliving in Bordeaux, France. Last updated October 15, 2026.
 
 - **Location:** Bordeaux, France
 - **Type:** Permanent coliving

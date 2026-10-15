@@ -1,6 +1,6 @@
 # Coliving in Tunisia
 
-> 3 colivings in Tunisia – last updated October 10, 2026.
+> 2 colivings and 1 community chapter in Tunisia – last updated October 15, 2026.
 
 ## All colivings
 

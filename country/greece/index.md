@@ -1,6 +1,6 @@
 # Coliving in Greece
 
-> 10 colivings in Greece, prices from €449 to €5,794 per month – last updated October 10, 2026.
+> 9 colivings in Greece, prices from €449 to €1,727 per month – last updated October 15, 2026.
 
 ## All colivings
 
@@ -12,10 +12,9 @@
 | The Plakias (Plakias Residence) | Plakias | from $1,543/mo | 4.8 (25) | private | 6 months | Permanent |
 | Boundless Life — Syros | Syros | from €1,600/mo | — | — | — | Pop-up |
 | WiFi Tribe — Athens | Athens | from $1,990/mo | — | private, shared | 28 nights | Pop-up |
-| Charalampou Liandri Home | Atsipopoulo | from $6,608/mo | — | private | 30 nights | Permanent |
-| Noma Collective — Athens (Mar 2027) | Athens | from $2,390/event | — | — | — | Pop-up |
+| Charalampou Liandri Home | Atsipopoulo | On request | — | private | 30 nights | Permanent |
+| Noma Collective — Athens (Mar 2027) | Athens | from $2,590/event | — | — | — | Pop-up |
 | Tursi Digital Nomads — Parga | Parga | from €799/event | — | — | — | Pop-up |
-| Noma Collective — Athens (Sep 2026) | Athens | from $2,290/event | — | — | — | Pop-up |
 
 ## Price distribution
 
@@ -25,7 +24,6 @@
 | 500–800 | 1 |
 | 800–1200 | 1 |
 | 1200–2000 | 3 |
-| 2000–∞ | 1 |
 
 ## Upcoming pop-ups
 
@@ -33,6 +31,5 @@
 - Noma Collective — Athens (Mar 2027) — Mar 28 - Apr 25, 2027 (Coming soon)
 - Tursi Digital Nomads — Parga — Oct 3 - 24, 2026
 - WiFi Tribe — Athens — Apr 23 - May 21, 2027
-- Noma Collective — Athens (Sep 2026) — Sep 27 - Oct 25, 2026
 
 Source: https://colivingdb.com/country/greece/

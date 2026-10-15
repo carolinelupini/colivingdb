@@ -1,6 +1,6 @@
 # Coliving in Sao Miguel, Azores, Portugal
 
-> 1 colivings in Sao Miguel, Azores, Portugal, prices from €950 to €950 per month – last updated October 10, 2026.
+> 1 coliving in Sao Miguel, Azores, Portugal, prices from €950 to €950 per month – last updated October 15, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # WiFi Tribe chapters 2026–2027
 
-> 21 upcoming WiFi Tribe chapters in 17 countries, sorted by date. Updated October 10, 2026.
+> 22 upcoming WiFi Tribe chapters in 17 countries, sorted by date. Updated October 15, 2026.
 
 | Chapter | Where | Dates | Price from |
 |---|---|---|---|
@@ -18,6 +18,7 @@
 | [WiFi Tribe — Cape Town (Feb 2027)](/coliving/wifi-tribe-cape-town-feb-2027/index.md) | Cape Town, South Africa | Feb 12 - Mar 11, 2027 | from $1,990/mo |
 | [WiFi Tribe — Melbourne](/coliving/wifi-tribe-melbourne/index.md) | Melbourne, Australia | Feb 12 - Mar 12, 2027 | from $2,290/mo |
 | [WiFi Tribe — Pipa](/coliving/wifi-tribe-pipa/index.md) | Pipa, Brazil | Feb 12 - Mar 12, 2027 | from $1,690/mo |
+| [WiFi Tribe — Swakopmund (Feb 2027)](/coliving/wifi-tribe-swakopmund-feb-2027/index.md) | Swakopmund, Namibia | Feb 12 - Mar 12, 2027 | from $1,890/mo |
 | [WiFi Tribe — Cape Town (Mar 2027)](/coliving/wifi-tribe-cape-town-mar-2027/index.md) | Cape Town, South Africa | Mar 12 - Apr 9, 2027 | from $1,790/mo |
 | [WiFi Tribe — Siargao](/coliving/wifi-tribe-siargao/index.md) | Siargao, Philippines | Mar 19 - Apr 16, 2027 | from $1,690/mo |
 | [WiFi Tribe — Athens](/coliving/wifi-tribe-athens/index.md) | Athens, Greece | Apr 23 - May 21, 2027 | from $1,990/mo |

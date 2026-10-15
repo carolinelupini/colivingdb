@@ -1,6 +1,6 @@
 # Stay Lagom
 
-> Coliving in Ballycastle, Northern Ireland, United Kingdom. Last updated October 10, 2026.
+> Coliving in Ballycastle, Northern Ireland, United Kingdom. Last updated October 15, 2026.
 
 - **Location:** Ballycastle, Northern Ireland, United Kingdom
 - **Type:** Permanent coliving

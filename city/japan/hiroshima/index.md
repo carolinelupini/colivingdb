@@ -1,12 +1,12 @@
 # Coliving in Hiroshima, Japan
 
-> 1 colivings in Hiroshima, Japan – last updated October 10, 2026.
+> 1 nomad festival in Hiroshima, Japan – last updated October 15, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Hiroshima Setouchi Nomad Fest 2026 | Hiroshima | from $357/ticket | — | — | — | Festival |
+| Hiroshima Setouchi Nomad Fest 2026 | Hiroshima | from $420/ticket | — | — | — | Festival |
 
 ## Upcoming pop-ups
 

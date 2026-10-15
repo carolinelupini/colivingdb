@@ -1,6 +1,6 @@
 # Coliving in Sonta, Serbia
 
-> 2 colivings in Sonta, Serbia, prices from €297 to €400 per month – last updated October 10, 2026.
+> 2 colivings in Sonta, Serbia, prices from €297 to €400 per month – last updated October 15, 2026.
 
 ## All colivings
 

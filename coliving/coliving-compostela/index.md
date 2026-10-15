@@ -1,6 +1,6 @@
 # Coliving Compostela
 
-> Coliving in Santiago de Compostela, Spain. Last updated October 10, 2026.
+> Coliving in Santiago de Compostela, Spain. Last updated October 15, 2026.
 
 - **Location:** Santiago de Compostela, Spain
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # Coliving in Netherlands
 
-> 1 colivings in Netherlands, prices from €1,700 to €1,700 per month – last updated October 10, 2026.
+> 1 coliving in Netherlands, prices from €1,700 to €1,700 per month – last updated October 15, 2026.
 
 ## All colivings
 

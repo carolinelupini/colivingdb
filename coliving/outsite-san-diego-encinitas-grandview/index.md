@@ -1,11 +1,11 @@
 # Outsite San Diego - Encinitas Grandview
 
-> Coliving in Encinitas, United States. Last updated October 10, 2026.
+> Coliving in Encinitas, United States. Last updated October 15, 2026.
 
 - **Location:** Encinitas, United States
 - **Type:** Permanent coliving
-- **Price:** from $6,897/mo
-- **Price note:** nightly ~$229.90 comparable; members only
+- **Price:** On request
+- **Price note:** pricing shown only after entering dates
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 141 Mbps down <small>· operator-reported</small><br><small>&#x27;Reliable, fast internet throughout the house&#x27; at 141 Mbps</small>
@@ -16,14 +16,6 @@
 - **Tags:** beach, surf, coworking, community
 - **Nearest airports:** McClellan-Palomar Airport (CLD) ~8 km; San Diego International Airport (SAN) ~38 km; General Abelardo L. Rodriguez International Airport (TIJ) ~65 km
 - **Website:** https://www.outsite.co/locations/san-diego-encinitas-grandview
-
-## Rates
-
-| Stay length | Private |
-|---|---|
-| Per month | $6,897 |
-
-Outsite San Diego - Encinitas Grandview does not publish a nightly or weekly rate.
 
 ## About
 

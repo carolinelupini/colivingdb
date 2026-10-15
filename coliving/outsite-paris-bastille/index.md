@@ -1,6 +1,6 @@
 # Outsite Paris - Bastille
 
-> Coliving in Paris, France. Last updated October 10, 2026.
+> Coliving in Paris, France. Last updated October 15, 2026.
 
 - **Location:** Paris, France
 - **Type:** Permanent coliving

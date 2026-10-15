@@ -1,6 +1,6 @@
 # Alt_PingRiver
 
-> Coliving in Chiang Mai, Thailand. Last updated October 10, 2026.
+> Coliving in Chiang Mai, Thailand. Last updated October 15, 2026.
 
 - **Location:** Chiang Mai, Thailand
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 250 Mbps down <small>· operator-reported</small><br><small>Operator-reported (Wan, Operations Manager, 2026-07-25): ~200–250 Mbps, symmetric (down/up). Same setup at both Alt locations.</small>
-- **Vibe:** Lively, friendly atmosphere for remote workers and travelers
+- **Vibe:** In Chiang Mai's Wat Ket area, with private call booths plus quiet and outdoor work zones.
 - **Minimum stay:** 6 nights
 - **Region:** Asia
 - **Timezone:** GMT+7 <small>· US East: async only · Central Europe: good overlap</small>

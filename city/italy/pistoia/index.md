@@ -1,6 +1,6 @@
 # Coliving in Pistoia, Italy
 
-> 1 colivings in Pistoia, Italy, prices from €1,500 to €1,500 per month – last updated October 10, 2026.
+> 1 coliving in Pistoia, Italy, prices from €1,500 to €1,500 per month – last updated October 15, 2026.
 
 ## All colivings
 

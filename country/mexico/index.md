@@ -1,6 +1,6 @@
 # Coliving in Mexico
 
-> 29 colivings in Mexico, prices from €46 to €1,466 per month – last updated October 10, 2026.
+> 27 colivings and 1 nomad festival in Mexico, prices from €46 to €1,466 per month – last updated October 15, 2026.
 
 ## All colivings
 
@@ -20,7 +20,6 @@
 | The Sur II | Tulum | from $1,091/mo | — | private | 30 nights | Permanent |
 | Amplitude Coliving | Puerto Escondido (La Punta) | from $1,300/mo | 5.0 (92) | private | 1 night | Permanent |
 | WiFi Tribe — Puerto Escondido | Puerto Escondido | from $1,690/mo | — | private, shared | 28 nights | Pop-up |
-| COLIVING ROMA | Mexico City | On request | 4.8 (24) | private | — | Permanent |
 | Casa Iris Coliving | Santiago de Querétaro | from $220/wk | 4.9 (21) | private, shared | — | Permanent |
 | Casa Luna by Terracotta MX | Mexico City | On request | 5.0 (2) | private | 7 nights | Permanent |
 | Coliving Chingon | Guadalajara | from MXN 3,000/wk | 4.6 (158) | private, dorm | — | Permanent |

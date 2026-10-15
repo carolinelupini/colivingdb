@@ -1,16 +1,15 @@
 # Island colivings
 
-> 78 colivings on islands in 14 countries. Updated October 10, 2026.
+> 81 colivings on islands in 14 countries. Updated October 15, 2026.
 
 | Coliving | City | Country | Price from | Min stay | Type |
 |---|---|---|---|---|---|
 | [João Pachêco Da Costa Home](/coliving/joao-pacheco-da-costa-home/index.md) | Florianópolis | Brazil | from $273/mo | 30 nights | Permanent |
 | [The Manoel João Ferreira](/coliving/the-manoel-joao-ferreira/index.md) | Florianópolis (Barra da Lagoa) | Brazil | from $273/mo | 30 nights | Permanent |
 | [Novovento](/coliving/novovento/index.md) | Ginetes, São Miguel, Azores | Portugal | from €300/mo | 7 nights | Permanent |
-| [Nomadico Coliving Florianópolis](/coliving/nomadico-coliving-florianopolis/index.md) | Florianópolis | Brazil | from $380/mo | 7 nights | Pop-up |
+| [Nomadico Coliving Florianópolis](/coliving/nomadico-coliving-florianopolis/index.md) | Florianópolis | Brazil | from $380/mo | 7 nights | Permanent |
 | [Manoel Pedro da Silveira Home](/coliving/manoel-pedro-da-silveira-home/index.md) | Florianópolis | Brazil | from $465/mo | 30 nights | Permanent |
 | [The Pier | Goto Nagasaki](/coliving/the-pier-goto-nagasaki/index.md) | Goto (Fukue), Nagasaki | Japan | from $520/mo | 30 nights | Permanent |
-| [Nomadico Mallorca Coliving](/coliving/nomadico-mallorca-coliving/index.md) | Búger, Mallorca | Spain | from €560/mo | 7 nights | Pop-up |
 | [Banama Surfhouse - Coliving Coworking & Yoga](/coliving/banama-surfhouse-coliving-coworking-and-yoga/index.md) | Corralejo, Fuerteventura | Spain | from €499/mo | — | Permanent |
 | [The Sunset III](/coliving/the-sunset-iii/index.md) | Kuta | Indonesia | from $573/mo | 30 nights | Permanent |
 | [Ungsmaløya Residence](/coliving/ungsmalya-residence/index.md) | Nyksund | Norway | from $569/mo | 30 nights | Permanent |
@@ -34,25 +33,27 @@
 | [Evolve Coliving Malta](/coliving/evolve-coliving-malta/index.md) | Malta | Malta | from €845/mo | 30 nights | Permanent |
 | [Coliving 1907](/coliving/coliving-1907/index.md) | Las Palmas, Gran Canaria | Spain | from €870/mo | 7 nights | Permanent |
 | [Repeople El Cabo Coliving](/coliving/repeople-el-cabo-coliving/index.md) | Agaete, Gran Canaria | Spain | from €870/mo | 30 nights | Permanent |
+| [Nomadico Mallorca Coliving](/coliving/nomadico-mallorca-coliving/index.md) | Búger, Mallorca | Spain | from €890/mo | 7 nights | Permanent |
 | [Colive Madeira](/coliving/colive-madeira/index.md) | Ponta do Sol, Madeira | Portugal | from €900/mo | — | Permanent |
 | [Nine Coliving](/coliving/nine-coliving/index.md) | La Orotava, Tenerife | Spain | from €900/mo | 14 nights | Permanent |
+| [La Luna Coliving](/coliving/la-luna-coliving/index.md) | Santa Cruz de Tenerife | Spain | from €900/mo | — | Permanent |
 | [A ver o Mar 1 | Coliving & Coworking | Funchal, Madeira](/coliving/a-ver-o-mar-1-coliving-and-coworking-funchal-madeira/index.md) | Ponta do Sol | Portugal | from €920/mo | 14 nights | Permanent |
 | [Maraya Coliving & Coworking](/coliving/maraya-coliving-and-coworking/index.md) | Candelaria, Tenerife | Spain | from €940/mo | 14 nights | Permanent |
 | [Coliving Sardinia](/coliving/coliving-sardinia/index.md) | Porto Cervo, Sardinia | Italy | from €950/mo | 14 nights | Permanent |
 | [Casa15 Azores](/coliving/casa15-azores/index.md) | Sao Miguel, Azores | Portugal | from €950/mo | — | Permanent |
 | [Bedndesk](/coliving/bedndesk/index.md) | S'Arenal (Mallorca) | Spain | from €750/mo | 30 nights | Permanent |
 | [Casa Capitán Coliving](/coliving/casa-capitan-coliving/index.md) | Guargacho, Tenerife | Spain | from €960/mo | 1 night | Permanent |
-| [Nomadico Gran Canaria](/coliving/nomadico-gran-canaria/index.md) | Las Palmas de Gran Canaria | Spain | from €980/mo | — | Pop-up |
-| [Repeople La Luna Coliving](/coliving/repeople-la-luna-coliving/index.md) | Santa Cruz de Tenerife | Spain | from €990/mo | — | Permanent |
 | [Cabeco Alto Home](/coliving/cabeco-alto-home/index.md) | Santo da Serra (Madeira) | Portugal | from $1,143/mo | 30 nights | Permanent |
 | [Outsite Ibiza - Es Canar](/coliving/outsite-ibiza-es-canar/index.md) | Es Canar, Ibiza | Spain | from €1,000/mo | — | Permanent |
 | [ecoVita](/coliving/ecovita/index.md) | San Priamo, San Vito, Sardinia | Italy | from €1,140/mo | 3 nights | Permanent |
 | [Pitaya coliving](/coliving/pitaya-coliving/index.md) | Arrecife | Spain | from €1,050/mo | 10 nights | Permanent |
 | [Casa do Pico](/coliving/casa-do-pico/index.md) | Funchal, Madeira | Portugal | from €1,050/mo | 7 nights | Permanent |
 | [Laberint Coliving](/coliving/laberint-coliving/index.md) | Palma de Mallorca | Spain | from €1,200/mo | 32 nights | Permanent |
+| [Gato Azul Coliving](/coliving/gato-azul-coliving/index.md) | La Orotava, Tenerife | Spain | from €1,200/mo | 3 nights | Permanent |
 | [KoHub](/coliving/kohub/index.md) | Ko Lanta | Thailand | from THB 49,500/mo | 30 nights | Permanent |
 | [Taoro Coliving](/coliving/taoro-coliving/index.md) | Santa Úrsula, Tenerife | Spain | from €1,299/mo | 7 nights | Permanent |
 | [Berawa Collective](/coliving/berawa-collective/index.md) | Berawa (Canggu, Bali) | Indonesia | from $1,754/mo | 30 nights | Permanent |
+| [Nomadico Gran Canaria](/coliving/nomadico-gran-canaria/index.md) | Las Palmas de Gran Canaria | Spain | from €1,390/mo | — | Permanent |
 | [Quinta do Cabeço Alto - Coliving & Coworking Retreat Venue - Madeira Island](/coliving/quinta-do-cabeco-alto-coliving-and-coworking-retreat-venue-madeira-island/index.md) | Ponta do Sol | Portugal | from €1,400/mo | — | Permanent |
 | [Digital Nomad Adventures](/coliving/digital-nomad-adventures/index.md) | Koh Phangan | Thailand | from $1,645/mo | 7 nights | Permanent |
 | [CocoVivo](/coliving/cocovivo/index.md) | Bocas del Toro | Panama | from $1,650/mo | — | Permanent |
@@ -66,12 +67,12 @@
 | [Dwell Azores](/coliving/dwell-azores/index.md) | Fenais da Luz, São Miguel, Azores | Portugal | from €2,160/mo | 28 nights | Permanent |
 | [Darocotan Home](/coliving/darocotan-home/index.md) | El Nido | Philippines | from $2,846/mo | 30 nights | Permanent |
 | [Surfescape](/coliving/surfescape/index.md) | Lajares, Fuerteventura | Spain | from €2,500/mo | — | Permanent |
-| [Charalampou Liandri Home](/coliving/charalampou-liandri-home/index.md) | Atsipopoulo | Greece | from $6,608/mo | 30 nights | Permanent |
 | [Coliver - La Réunion](/coliving/coliver-la-reunion/index.md) | Saint Pierre | La Réunion | On request | — | Permanent |
 | [CoZi Coliving Djerba](/coliving/cozi-coliving-djerba/index.md) | Djerba (Mezraia) | Tunisia | On request | — | Permanent |
 | [Coworksurf Siargao (Lexias)](/coliving/coworksurf-siargao-lexias/index.md) | Siargao | Philippines | On request | — | Permanent |
 | [Lungga Coworking, Coliving & Cafe](/coliving/lungga-coworking-coliving-and-cafe/index.md) | General Luna (Siargao) | Philippines | On request | — | Permanent |
-| [Nomad Cruise — NC18 Caribbean Islands](/coliving/nomad-cruise-nc18-caribbean-islands/index.md) | Barcelona → Caribbean | Multiple | from €1,900/cruise | 14 nights | Pop-up |
+| [Charalampou Liandri Home](/coliving/charalampou-liandri-home/index.md) | Atsipopoulo | Greece | On request | 30 nights | Permanent |
+| [Nomad Cruise — NC18 Caribbean Islands](/coliving/nomad-cruise-nc18-caribbean-islands/index.md) | Barcelona → La Romana (Atlantic crossing) | Multiple | from €1,900/cruise | 14 nights | Pop-up |
 | [Lemon Bros Coliving](/coliving/lemon-bros-coliving/index.md) | Ribeira Grande, São Miguel | Portugal | On request | 14 nights | Permanent |
 | [The Luzia House Funchal](/coliving/the-luzia-house-funchal/index.md) | Funchal, Madeira | Portugal | On request | — | Permanent |
 | [CoNomad](/coliving/conomad/index.md) | Corralejo | Spain | On request | 30 nights | Permanent |
@@ -82,5 +83,7 @@
 | [Tulia Guesthouse](/coliving/tulia-guesthouse/index.md) | Los Realejos | Spain | On request | — | Permanent |
 | [Zen Den Coliving](/coliving/zen-den-coliving/index.md) | Arona (Tenerife) | Spain | On request | — | Permanent |
 | [BOND Coliving](/coliving/bond-coliving/index.md) | Funchal, Madeira | Portugal | On request | 30 nights | Permanent |
+| [Outsite Azores - Ribeira Grande](/coliving/outsite-azores-ribeira-grande/index.md) | Ribeira Grande, São Miguel, Azores | Portugal | On request | — | Permanent |
+| [Outsite Azores - Fenais](/coliving/outsite-azores-fenais/index.md) | Fenais da Luz, São Miguel, Azores | Portugal | On request | — | Permanent |
 
 Source: https://colivingdb.com/coliving/island/

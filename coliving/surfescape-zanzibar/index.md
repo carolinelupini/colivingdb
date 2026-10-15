@@ -1,6 +1,6 @@
 # Surfescape Zanzibar
 
-> Coliving in Kiwengwa, Tanzania. Last updated October 10, 2026.
+> Coliving in Kiwengwa, Tanzania. Last updated October 15, 2026.
 
 - **Location:** Kiwengwa, Tanzania
 - **Type:** Permanent coliving

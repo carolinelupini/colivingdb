@@ -1,6 +1,6 @@
 # Outsite Marrakesh
 
-> Coliving in Marrakesh, Morocco. Last updated October 10, 2026.
+> Coliving in Marrakesh, Morocco. Last updated October 15, 2026.
 
 - **Location:** Marrakesh, Morocco
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # Coliving in Portugal
 
-> 58 colivings in Portugal, prices from €300 to €2,160 per month – last updated October 10, 2026.
+> 59 colivings and 1 nomad festival in Portugal, prices from €300 to €2,160 per month – last updated October 15, 2026.
 
 ## All colivings
 
@@ -9,7 +9,7 @@
 | Novovento | Ginetes, São Miguel, Azores | from €300/mo | 4.8 (51) | private | 7 nights | Permanent |
 | Coliving The VALLEY with Coworking Space | Rogé, Vale de Cambra | from €510/mo | 5.0 (35) | private | 5 nights | Permanent |
 | Quinta Da Carvalheira | Soure | from €510/mo | 5.0 (20) | — | 1 night | Permanent |
-| Nomadico Coliving Ericeira | Ericeira | from €542/mo | 4.8 (29) | private, shared | 7 nights | Pop-up |
+| Nomadico Coliving Ericeira | Ericeira | from €542/mo | 4.8 (29) | private, shared | 7 nights | Permanent |
 | LIV Colife - Coliving | Porto | from €660/mo | 3.9 (53) | private | — | Permanent |
 | Wild Oasis Algarve | Monchique | from €650/mo | 4.6 (74) | private | — | Permanent |
 | Caminho Coliving | Moreira, Maia (Porto area) | from €700/mo | 4.9 (9) | private | 30 nights | Permanent |
@@ -64,6 +64,8 @@
 | WOT Peniche Social | Peniche | On request | 4.5 (369) | private, dorm | 30 nights | Permanent |
 | BOND Coliving | Funchal, Madeira | On request | 5.0 (12) | private | 30 nights | Permanent |
 | Founder Island Fest 2026 | Madeira | from €1,495/event | — | private, shared | — | Festival |
+| Outsite Azores - Ribeira Grande | Ribeira Grande, São Miguel, Azores | On request | — | private | — | Permanent |
+| Outsite Azores - Fenais | Fenais da Luz, São Miguel, Azores | On request | — | private | — | Permanent |
 
 ## Price distribution
 
@@ -78,7 +80,6 @@
 ## Upcoming pop-ups
 
 - Boundless Life — Sintra — Jan 3 - Mar 19, 2027 / Mar 25 - Jun 10, 2027 / Sep 15 - Dec 5, 2027
-- Nomadico Coliving Ericeira — Nov–Dec (seasonal; unverified — confirm)
 - Founder Island Fest 2026 — Dec 4 - 10, 2026
 
 Source: https://colivingdb.com/country/portugal/

@@ -1,6 +1,6 @@
 # Coliving in Zambia
 
-> 1 colivings in Zambia – last updated October 10, 2026.
+> 1 coliving in Zambia – last updated October 15, 2026.
 
 ## All colivings
 

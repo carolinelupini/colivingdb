@@ -1,6 +1,6 @@
 # Coliving in Kamakura, Japan
 
-> 1 colivings in Kamakura, Japan, prices from €2,600 to €2,600 per month – last updated October 10, 2026.
+> 1 coliving in Kamakura, Japan, prices from €2,600 to €2,600 per month – last updated October 15, 2026.
 
 ## All colivings
 

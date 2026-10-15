@@ -1,12 +1,11 @@
 # Nomadico Mallorca Coliving
 
-> Coliving in Búger, Mallorca, Spain. Last updated October 10, 2026.
+> Coliving in Búger, Mallorca, Spain. Last updated October 15, 2026.
 
 - **Location:** Búger, Mallorca, Spain
-- **Type:** Pop-up / dated edition
-- **Dates:** Mar–Aug & Sep–Nov (seasonal)
-- **Price:** from €560/mo
-- **Price note:** from €490/month shared (low season); private higher
+- **Type:** Permanent coliving
+- **Price:** from €890/mo
+- **Price note:** from €890/month for a private room; paella lunch included every other week
 - **Rating:** <a href="https://maps.google.com/?cid=2619042474139222600&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (33 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
@@ -21,14 +20,14 @@
 
 ## Rates
 
-| Stay length | Private | Shared |
-|---|---|---|
-| Per month | €980 | €560 |
+| Stay length | Private |
+|---|---|
+| Per month | €890 |
 
 Nomadico Mallorca Coliving does not publish a nightly or weekly rate.
 
 ## About
 
-Seasonal operation only (Mar 1-Aug 2 & Sep 20-Nov 30, closed Dec-Feb); shared €490, private single €890, private double €990 (low season); higher May-Aug (€560-1140).
+Seasons: March 1 – August 2 and September 20 – November 30, in Esteve's countryside home a short walk from Búger.
 
 Source: https://colivingdb.com/coliving/nomadico-mallorca-coliving/

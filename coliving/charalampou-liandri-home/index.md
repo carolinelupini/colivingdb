@@ -1,11 +1,11 @@
 # Charalampou Liandri Home
 
-> Coliving in Atsipopoulo, Greece. Last updated October 10, 2026.
+> Coliving in Atsipopoulo, Greece. Last updated October 15, 2026.
 
 - **Location:** Atsipopoulo, Greece
 - **Type:** Permanent coliving
-- **Price:** from $6,608/mo
-- **Price note:** listing shows BGN 11,305/mo (~EUR 5,780), likely a pricing error
+- **Price:** On request
+- **Price note:** price on coliving.com once you pick dates (the listed monthly figure looked like a pricing error)
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 90 Mbps down <small>· operator-reported</small>
@@ -16,14 +16,6 @@
 - **Tags:** island, coworking
 - **Nearest airports:** Chania International Airport (CHQ) ~32 km; Athens Eleftherios Venizelos International Airport (ATH) ~291 km; Heraklion International Nikos Kazantzakis Airport (HER) ~68 km
 - **Website:** https://coliving.com/spaces/pkzmziji
-
-## Rates
-
-| Stay length | From |
-|---|---|
-| Per month | $6,608 |
-
-Charalampou Liandri Home does not publish a nightly or weekly rate.
 
 ## About
 

@@ -1,6 +1,6 @@
 # Coliving in South Korea
 
-> 4 colivings in South Korea, prices from €525 to €990 per month – last updated October 10, 2026.
+> 3 colivings and 1 nomad festival in South Korea, prices from €525 to €990 per month – last updated October 15, 2026.
 
 ## All colivings
 

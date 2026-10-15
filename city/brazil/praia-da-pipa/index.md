@@ -1,6 +1,6 @@
 # Coliving in Praia da Pipa, Brazil
 
-> 1 colivings in Praia da Pipa, Brazil, prices from €667 to €667 per month – last updated October 10, 2026.
+> 1 coliving in Praia da Pipa, Brazil, prices from €667 to €667 per month – last updated October 15, 2026.
 
 ## All colivings
 

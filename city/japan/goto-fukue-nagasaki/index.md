@@ -1,6 +1,6 @@
 # Coliving in Goto (Fukue), Nagasaki, Japan
 
-> 1 colivings in Goto (Fukue), Nagasaki, Japan, prices from €448 to €448 per month – last updated October 10, 2026.
+> 1 coliving in Goto (Fukue), Nagasaki, Japan, prices from €448 to €448 per month – last updated October 15, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Folks Coliving
 
-> Coliving in Valencia, Spain. Last updated October 10, 2026.
+> Coliving in Valencia, Spain. Last updated October 15, 2026.
 
 - **Location:** Valencia, Spain
 - **Type:** Permanent coliving
@@ -10,7 +10,7 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 15 Mbps down <small>· operator-reported</small>
-- **Vibe:** Lively, friendly atmosphere for remote workers and travelers
+- **Vibe:** On Gran Via de les Germanies in central Valencia, with a rooftop terrace and a coworking room with monitors.
 - **Minimum stay:** 11 nights
 - **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Europe

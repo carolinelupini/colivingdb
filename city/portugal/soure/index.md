@@ -1,6 +1,6 @@
 # Coliving in Soure, Portugal
 
-> 1 colivings in Soure, Portugal, prices from €510 to €510 per month – last updated October 10, 2026.
+> 1 coliving in Soure, Portugal, prices from €510 to €510 per month – last updated October 15, 2026.
 
 ## All colivings
 

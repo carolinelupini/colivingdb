@@ -1,6 +1,6 @@
 # Balu Coliving
 
-> Coliving in Medellín (Laureles), Colombia. Last updated October 10, 2026.
+> Coliving in Medellín (Laureles), Colombia. Last updated October 15, 2026.
 
 - **Location:** Medellín (Laureles), Colombia
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # Casa do Pico
 
-> Coliving in Funchal, Madeira, Portugal. Last updated October 10, 2026.
+> Coliving in Funchal, Madeira, Portugal. Last updated October 15, 2026.
 
 - **Location:** Funchal, Madeira, Portugal
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # SC Club Village
 
-> Coliving in St Julian's, Malta. Last updated October 10, 2026.
+> Coliving in St Julian's, Malta. Last updated October 15, 2026.
 
 - **Location:** St Julian's, Malta
 - **Type:** Permanent coliving

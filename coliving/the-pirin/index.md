@@ -1,10 +1,9 @@
 # The Pirin
 
-> Coliving in Bansko, Bulgaria. Last updated October 10, 2026.
+> Coliving in Bansko, Bulgaria. Last updated October 15, 2026.
 
 - **Location:** Bansko, Bulgaria
-- **Type:** Pop-up / dated edition
-- **Dates:** June-July (seasonal coliving season; exact 2026 dates not published)
+- **Type:** Permanent coliving
 - **Price:** from $832/mo
 - **Price note:** private room (shared bathroom, queen bed — lowest tier), coworking/workspace, high-speed wifi, kitchen, outdoor space, community events (dinners, mixers, workshops); bills included; 1-month minimum stay.
 - **Room types:** private
@@ -27,6 +26,6 @@ The Pirin does not publish a nightly or weekly rate.
 
 ## About
 
-Runs a seasonal 'Coliving Season' each June & July rather than year-round; converted from BGN 1,424/mo at fixed peg 1.9558.
+Open June–July (seasonal coliving season; exact dates not published). Runs a seasonal 'Coliving Season' each June & July rather than year-round; converted from BGN 1,424/mo at fixed peg 1.9558.
 
 Source: https://colivingdb.com/coliving/the-pirin/

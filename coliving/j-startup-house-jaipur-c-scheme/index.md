@@ -1,6 +1,6 @@
 # J Startup House, Jaipur - C Scheme
 
-> Coliving in Jaipur, India. Last updated October 10, 2026.
+> Coliving in Jaipur, India. Last updated October 15, 2026.
 
 - **Location:** Jaipur, India
 - **Type:** Permanent coliving

@@ -1,12 +1,12 @@
 # Noma Collective — Placencia (Nov 2026)
 
-> Coliving in Placencia, Belize. Last updated October 10, 2026.
+> Coliving in Placencia, Belize. Last updated October 15, 2026.
 
 - **Location:** Placencia, Belize
 - **Type:** Pop-up / dated edition
 - **Dates:** Nov 29 - Dec 20, 2026
 - **Price:** from $3,090/event
-- **Price note:** pp, all fees and taxes included; 2 of 3 room types sold out on September 11, 2026
+- **Price note:** pp + fees and taxes, for the Lagoon Water Facing Room; the garden-facing room (from US$2,590) and the 1-bedroom apartment were sold out on October 14, 2026
 - **Room types:** —
 - **Dorm available:** No
 - **Vibe:** Unhurried coastal Belize retreat balancing deep work and genuine rest, emphasizing slower pace, nature immersion, and community connection.

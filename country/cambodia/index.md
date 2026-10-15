@@ -1,6 +1,6 @@
 # Coliving in Cambodia
 
-> 1 colivings in Cambodia, prices from €1,511 to €1,511 per month – last updated October 10, 2026.
+> 1 coliving in Cambodia, prices from €1,511 to €1,511 per month – last updated October 15, 2026.
 
 ## All colivings
 

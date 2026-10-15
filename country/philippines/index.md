@@ -1,6 +1,6 @@
 # Coliving in Philippines
 
-> 8 colivings in Philippines, prices from €525 to €2,280 per month – last updated October 10, 2026.
+> 7 colivings and 1 nomad festival in Philippines, prices from €525 to €2,280 per month – last updated October 15, 2026.
 
 ## All colivings
 

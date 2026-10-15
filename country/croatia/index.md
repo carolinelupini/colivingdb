@@ -1,22 +1,19 @@
 # Coliving in Croatia
 
-> 2 colivings in Croatia, prices from €598 to €650 per month – last updated October 10, 2026.
+> 3 colivings in Croatia, prices from €553 to €650 per month – last updated October 15, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
+| Nomadico Coliving Trogir | Trogir | from €553/mo | — | private, shared | 7 nights | Permanent |
 | Kraljice Residence (Boho House) | Pakoštane | from $683/mo | 4.5 (57) | private | 30 nights | Permanent |
-| Ante Starčevića Home | Pakoštane | from $743/mo | — | private | 30 nights | Pop-up |
+| Ante Starčevića Home | Pakoštane | from $743/mo | — | private | 30 nights | Permanent |
 
 ## Price distribution
 
 | Band (EUR/mo) | Colivings |
 |---|---|
-| 500–800 | 2 |
-
-## Upcoming pop-ups
-
-- Ante Starčevića Home — winter season (guest house converted to coliving in winter; exact 2026 dates not published)
+| 500–800 | 3 |
 
 Source: https://colivingdb.com/country/croatia/

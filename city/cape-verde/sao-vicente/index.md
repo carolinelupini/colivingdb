@@ -1,6 +1,6 @@
 # Coliving in Sao Vicente, Cape Verde
 
-> 1 colivings in Sao Vicente, Cape Verde – last updated October 10, 2026.
+> 1 coliving in Sao Vicente, Cape Verde – last updated October 15, 2026.
 
 ## All colivings
 

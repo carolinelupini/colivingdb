@@ -1,6 +1,6 @@
 # Coliving in Krakow, Poland
 
-> 1 colivings in Krakow, Poland, prices from €513 to €513 per month – last updated October 10, 2026.
+> 1 coliving in Krakow, Poland, prices from €513 to €513 per month – last updated October 15, 2026.
 
 ## All colivings
 

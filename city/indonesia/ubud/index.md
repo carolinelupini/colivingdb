@@ -1,6 +1,6 @@
 # Coliving in Ubud, Indonesia
 
-> 1 colivings in Ubud, Indonesia, prices from €830 to €830 per month – last updated October 10, 2026.
+> 1 coliving in Ubud, Indonesia, prices from €830 to €830 per month – last updated October 15, 2026.
 
 ## All colivings
 

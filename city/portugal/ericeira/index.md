@@ -1,12 +1,12 @@
 # Coliving in Ericeira, Portugal
 
-> 10 colivings in Ericeira, Portugal, prices from €542 to €1,800 per month – last updated October 10, 2026.
+> 10 colivings in Ericeira, Portugal, prices from €542 to €1,800 per month – last updated October 15, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Nomadico Coliving Ericeira | Ericeira | from €542/mo | 4.8 (29) | private, shared | 7 nights | Pop-up |
+| Nomadico Coliving Ericeira | Ericeira | from €542/mo | 4.8 (29) | private, shared | 7 nights | Permanent |
 | Barefoot Guesthouse & Coliving Ericeira | Ericeira | from €800/mo | 4.9 (131) | private | 30 nights | Permanent |
 | Outsite Ericeira - Boavista | Ericeira | from €800/mo | 4.5 (8) | private | — | Permanent |
 | Outsite Ericeira - Centro | Ericeira | from €800/mo | 4.7 (34) | private | — | Permanent |
@@ -24,9 +24,5 @@
 | 500–800 | 1 |
 | 800–1200 | 4 |
 | 1200–2000 | 2 |
-
-## Upcoming pop-ups
-
-- Nomadico Coliving Ericeira — Nov–Dec (seasonal; unverified — confirm)
 
 Source: https://colivingdb.com/city/portugal/ericeira/

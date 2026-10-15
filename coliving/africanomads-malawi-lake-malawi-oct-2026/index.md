@@ -1,8 +1,8 @@
 # AfricaNomads — Malawi (Lake Malawi) (Oct 2026)
 
-> Coliving in Malawi (Lake Malawi), Malawi. Last updated October 10, 2026.
+> Coliving in Nkhata Bay (Lake Malawi), Malawi. Last updated October 15, 2026.
 
-- **Location:** Malawi (Lake Malawi), Malawi
+- **Location:** Nkhata Bay (Lake Malawi), Malawi
 - **Type:** Pop-up / dated edition
 - **Dates:** Oct 25 - Nov 22, 2026
 - **Price:** from $440/wk
@@ -18,7 +18,7 @@
 - **Tags:** wellness
 - **Included:** Private room in an AfricaNomads home, Reliable WiFi & Starlink, Local SIM card loaded with data + backup power, Weekly communal dinner, Optional weekend activities, Hosts & activity organizers, Access to coworking, A community of remote workers
 - **Second guest:** An extra person sharing a room pays 35% of the rate.
-- **Nearest airports:** Lichinga Airport (VXC) ~157 km; Kamuzu International Airport (LLW) ~211 km; Mfuwe International Airport (MFU) ~314 km
+- **Nearest airports:** Lichinga Airport (VXC) ~213 km; Kamuzu International Airport (LLW) ~249 km; Mfuwe International Airport (MFU) ~315 km
 - **Website:** https://www.africanomads.co/digital-nomads-malawi
 
 Source: https://colivingdb.com/coliving/africanomads-malawi-lake-malawi-oct-2026/

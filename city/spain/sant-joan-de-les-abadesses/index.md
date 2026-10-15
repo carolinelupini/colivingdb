@@ -1,6 +1,6 @@
 # Coliving in Sant Joan de les Abadesses, Spain
 
-> 1 colivings in Sant Joan de les Abadesses, Spain, prices from €690 to €690 per month – last updated October 10, 2026.
+> 1 coliving in Sant Joan de les Abadesses, Spain, prices from €690 to €690 per month – last updated October 15, 2026.
 
 ## All colivings
 

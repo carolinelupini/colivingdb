@@ -1,6 +1,6 @@
 # Coliving in Esmoriz, Portugal
 
-> 1 colivings in Esmoriz, Portugal – last updated October 10, 2026.
+> 1 coliving in Esmoriz, Portugal – last updated October 15, 2026.
 
 ## All colivings
 

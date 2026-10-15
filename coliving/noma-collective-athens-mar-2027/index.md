@@ -1,11 +1,11 @@
 # Noma Collective — Athens (Mar 2027)
 
-> Coliving in Athens, Greece. Last updated October 10, 2026.
+> Coliving in Athens, Greece. Last updated October 15, 2026.
 
 - **Location:** Athens, Greece
 - **Type:** Pop-up / dated edition
 - **Dates:** Mar 28 - Apr 25, 2027 (Coming soon)
-- **Price:** from $2,390/event
+- **Price:** from $2,590/event
 - **Price note:** pp, all fees and taxes included
 - **Room types:** —
 - **Dorm available:** No

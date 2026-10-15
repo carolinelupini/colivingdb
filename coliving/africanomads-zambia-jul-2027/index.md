@@ -1,6 +1,6 @@
 # AfricaNomads — Zambia (Jul 2027)
 
-> Coliving in Livingstone, Zambia. Last updated October 10, 2026.
+> Coliving in Livingstone, Zambia. Last updated October 15, 2026.
 
 - **Location:** Livingstone, Zambia
 - **Type:** Pop-up / dated edition

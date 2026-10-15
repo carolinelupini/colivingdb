@@ -1,6 +1,6 @@
 # Pangea — Tunis
 
-> Coworking chapter in Tunis, Tunisia. Last updated October 10, 2026.
+> Coworking chapter in Tunis, Tunisia. Last updated October 15, 2026.
 
 - **Location:** Tunis, Tunisia
 - **Type:** Pop-up coworking chapter — accommodation not included

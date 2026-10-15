@@ -1,6 +1,6 @@
 # Flipco
 
-> Coliving in Madrid, Spain. Last updated October 10, 2026.
+> Coliving in Madrid, Spain. Last updated October 15, 2026.
 
 - **Location:** Madrid, Spain
 - **Type:** Permanent coliving

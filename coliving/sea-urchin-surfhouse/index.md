@@ -1,6 +1,6 @@
 # Sea Urchin SurfHouse
 
-> Coliving in Ericeira, Portugal. Last updated October 10, 2026.
+> Coliving in Ericeira, Portugal. Last updated October 15, 2026.
 
 - **Location:** Ericeira, Portugal
 - **Type:** Permanent coliving

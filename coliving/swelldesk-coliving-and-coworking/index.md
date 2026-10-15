@@ -1,6 +1,6 @@
 # Swelldesk Coliving & Coworking
 
-> Coliving in Baleal, Peniche, Portugal. Last updated October 10, 2026.
+> Coliving in Baleal, Peniche, Portugal. Last updated October 15, 2026.
 
 - **Location:** Baleal, Peniche, Portugal
 - **Type:** Permanent coliving

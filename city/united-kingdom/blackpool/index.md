@@ -1,6 +1,6 @@
 # Coliving in Blackpool, United Kingdom
 
-> 1 colivings in Blackpool, United Kingdom, prices from €470 to €470 per month – last updated October 10, 2026.
+> 1 coliving in Blackpool, United Kingdom, prices from €470 to €470 per month – last updated October 15, 2026.
 
 ## All colivings
 

@@ -1,10 +1,9 @@
 # Ante Starčevića Home
 
-> Coliving in Pakoštane, Croatia. Last updated October 10, 2026.
+> Coliving in Pakoštane, Croatia. Last updated October 15, 2026.
 
 - **Location:** Pakoštane, Croatia
-- **Type:** Pop-up / dated edition
-- **Dates:** winter season (guest house converted to coliving in winter; exact 2026 dates not published)
+- **Type:** Permanent coliving
 - **Price:** from $743/mo
 - **Price note:** bills included, weekly housekeeping, breakfast service
 - **Room types:** private
@@ -28,6 +27,6 @@ Ante Starčevića Home does not publish a nightly or weekly rate.
 
 ## About
 
-Summer guest house converted to coliving only during winter — seasonal, not year-round; converted from BGN 1,272/mo at fixed peg 1.9558.
+Open in winter (a guest house converted to coliving for the winter season; exact dates not published). Summer guest house converted to coliving only during winter — seasonal, not year-round; converted from BGN 1,272/mo at fixed peg 1.9558.
 
 Source: https://colivingdb.com/coliving/ante-starcevica-home/

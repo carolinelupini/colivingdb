@@ -1,12 +1,12 @@
 # Nomad Cruise — NC18 Caribbean Islands
 
-> Coliving in Barcelona → Caribbean. Last updated October 10, 2026.
+> Coliving in Barcelona → La Romana (Atlantic crossing). Last updated October 15, 2026.
 
-- **Location:** Barcelona → Caribbean
+- **Location:** Barcelona → La Romana (Atlantic crossing)
 - **Type:** Pop-up / dated edition
 - **Dates:** Nov 2 - Nov 16, 2026
 - **Price:** from €1,900/cruise
-- **Price note:** cabins from €1,900 per person (shared inside, early-bird; from €120/day all-in); €250 deposit, and bookings made after Aug 4 need full payment within 7 days. Ticket covers cabin, all onboard meals, wifi and the full programme.
+- **Price note:** cabins from €1,900 per person (shared inside cabin; outside from €2,300; balcony cabins sold out; from €120/day all-in). Covers the 15 days aboard, all meals, Starlink wifi, the conference and community programme, and taxes and crew gratuities; drinks and paid excursions are extra.
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** 'The world's largest workation at sea' — part cruise, part conference, part party, bringing together freelancers, entrepreneurs and remote workers.
@@ -23,6 +23,6 @@
 
 ## About
 
-Barcelona to La Romana in the Dominican Republic aboard the MSC Opera, calling at Antigua and Barbuda, St. Maarten, and St. Kitts and Nevis. Around 300 nomads, with keynotes, workshops and masterminds run across the Atlantic crossing, and Starlink wifi on board. Pin = Barcelona, the embarkation port. Ticket is per cruise, not per month.
+Barcelona (Nov 2) to La Romana in the Dominican Republic (Nov 16) aboard the MSC Opera: Tangier, seven days crossing the Atlantic, then Antigua and Barbuda, Sint Maarten and St. Kitts and Nevis. Keynotes, workshops and masterminds run across the crossing, with Starlink wifi on board. Pin = Barcelona, the embarkation port. Ticket is per cruise, not per month.
 
 Source: https://colivingdb.com/coliving/nomad-cruise-nc18-caribbean-islands/

@@ -1,6 +1,6 @@
 # Coliving in Aguadilla, Puerto Rico
 
-> 1 colivings in Aguadilla, Puerto Rico – last updated October 10, 2026.
+> 1 coliving in Aguadilla, Puerto Rico – last updated October 15, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Enchanted Coliving
 
-> Coliving in Nachamps, France. Last updated October 10, 2026.
+> Coliving in Nachamps, France. Last updated October 15, 2026.
 
 - **Location:** Nachamps, France
 - **Type:** Permanent coliving
@@ -12,11 +12,12 @@
 - **Wi-Fi (on-site):** 500 Mbps down <small>· operator-reported</small>
 - **Vibe:** A whimsical countryside retreat for creative remote workers, with literary-themed rooms, board games, and wine tasting fostering slow living and genuine community.
 - **Minimum stay:** 14 nights
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, community, coworking
 - **Nearest airports:** La Rochelle Île de Ré Airport (LRH) ~47 km; Bordeaux–Mérignac Airport (BOD) ~134 km; Poitiers-Biard Airport (PIS) ~95 km
-- **Website:** https://enchantedcoliving.com/countryside-coliving-about
+- **Website:** https://www.mapmelon.com/colivings/enchanted-coliving?ref=colivingdb
 - **Rating:** 5.0 from 19 Google reviews
 
 ## Rates

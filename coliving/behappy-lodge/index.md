@@ -1,6 +1,6 @@
 # Behappy Lodge
 
-> Coliving in Esmoriz, Portugal. Last updated October 10, 2026.
+> Coliving in Esmoriz, Portugal. Last updated October 15, 2026.
 
 - **Location:** Esmoriz, Portugal
 - **Type:** Permanent coliving

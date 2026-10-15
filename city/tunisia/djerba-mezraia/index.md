@@ -1,6 +1,6 @@
 # Coliving in Djerba (Mezraia), Tunisia
 
-> 1 colivings in Djerba (Mezraia), Tunisia – last updated October 10, 2026.
+> 1 coliving in Djerba (Mezraia), Tunisia – last updated October 15, 2026.
 
 ## All colivings
 

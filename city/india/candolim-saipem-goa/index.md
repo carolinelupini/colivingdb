@@ -1,6 +1,6 @@
 # Coliving in Candolim (Saipem), Goa, India
 
-> 1 colivings in Candolim (Saipem), Goa, India, prices from €540 to €540 per month – last updated October 10, 2026.
+> 1 coliving in Candolim (Saipem), Goa, India, prices from €540 to €540 per month – last updated October 15, 2026.
 
 ## All colivings
 
