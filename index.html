@@ -929,6 +929,20 @@ svg.leaflet-image-layer.leaflet-interactive path {
     .r-link a{display:inline;}
     .list-head{display:none;}
   }
+  @media(max-width:560px){
+    header{padding:8px 16px;flex-wrap:nowrap;align-items:center;gap:10px}
+    header .tagline{display:none}
+    .cur-select{padding:5px 8px;font-size:.78rem}
+    .hero-search{padding:10px 16px 2px}
+    #map{height:22vh;min-height:150px;margin-top:10px}
+    #landing .browse-h:first-child{margin-top:14px;font-size:1rem}
+    #regionCards{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;padding:0 12px}
+    #regionCards .card-b{padding:9px 8px;gap:4px}
+    #regionCards .cb-name{font-size:.8rem;gap:5px;white-space:normal;line-height:1.15}
+    #regionCards .cb-dot{display:none}
+    #regionCards .cb-count{font-size:.7rem;padding:2px 7px}
+    #listSignup{margin-top:16px}
+  }
 </style>
 <link rel="canonical" href="https://colivingdb.com/">
 <script>(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window,document,"clarity","script","xktmxfcog6");</script>
@@ -1615,6 +1629,8 @@ function render(skipFit){
   { const _ca=document.getElementById("clearArea"); if(_ca) _ca.onclick=(e)=>{e.preventDefault(); state.bounds=null; render();}; }
   document.getElementById("landing").style.display = browse ? "" : "none";
   document.getElementById("filters").style.display = browse ? "none" : "";
+  { const _s=document.getElementById("listSignup"), _rc=document.getElementById("regionCards"), _mp=document.getElementById("map");
+    if(_s&&_rc&&_mp){ const _t=(matchMedia("(max-width:560px)").matches&&browse)?_rc:_mp; if(_s.previousElementSibling!==_t) _t.after(_s); } }
   document.querySelector(".list").style.display = browse ? "none" : "";
 
   markerGroup.clearLayers();
