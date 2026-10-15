@@ -185,7 +185,7 @@ gtag('js',new Date());gtag('config','G-GBDMVK7LWL');</script>
 <a class="cta" href="https://casabasilico.com/locations/pipa-brazil" target="_blank" rel="sponsored noopener">Visit Casa Basilico — Pipa →</a>
 <div class="facts"><dl><dt>Location</dt><dd>Pipa (Tibau do Sul), Brazil</dd><dt>Type</dt><dd>Pop-up / dated edition</dd><dt>Dates</dt><dd>Jan 15 - Mar 15, 2027</dd><dt>Price</dt><dd>from <span class="m" data-a="1997" data-c="EUR">€1,997</span><small>/mo</small></dd><dt>Price note</dt><dd>from €1,997/month (1-Bedroom Chalet, February; January sold out at €2,347). Also Comfort Chalet w/kitchen €2,447-2,697, Premium w/jacuzzi €2,597-2,947, 2-Bedroom €2,847-3,197, by month.</dd><dt>Room types</dt><dd>private</dd><dt>Dorm available</dt><dd>No</dd><dt>Wi-Fi (on-site)</dt><dd>100 Mbps down <small>· operator-reported</small></dd><dt>Vibe</dt><dd>Casa Basilico&#x27;s Brazil chapter — two months in Pipa with Carnival in month one, run with the brand&#x27;s shared-dinners, coworking and community-manager model.</dd><dt>Minimum stay</dt><dd>28 nights</dd><dt>Region</dt><dd>Latin America</dd><dt>Timezone</dt><dd>GMT-3 <small>· US East: full workday overlap · Central Europe: good overlap</small></dd></dl></div>
 <div id="signupbox" class="hubsignup compact"><div class="sg-txt"><h3>New colivings in your inbox</h3><p>New spaces, upcoming pop-ups, and coliving discount codes.</p></div><iframe src="https://subscribe-forms.beehiiv.com/e2050a21-3afe-41f0-a9de-132528b8cda6?utm_source=colivingdb&amp;utm_medium=seo&amp;utm_campaign=coliving-casa-basilico-pipa" title="Subscribe to colivingDB" loading="lazy" scrolling="no"></iframe></div>
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"><div id="lmap" class="lmap" role="img" aria-label="Map of Casa Basilico — Pipa"></div><p class="muted mm-links"><a href="https://www.openstreetmap.org/?mlat=-6.228&amp;mlon=-35.046#map=13/-6.228/-35.046" target="_blank" rel="noopener">Open in OpenStreetMap →</a></p><script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script><script>(function(){var m=L.map("lmap",{scrollWheelZoom:false}).setView([-6.228,-35.046],12);L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png",{maxZoom:19,attribution:"© OpenStreetMap contributors"}).addTo(m);L.circleMarker([-6.228,-35.046],{radius:9,color:"#0e7c66",fillColor:"#0e7c66",fillOpacity:.85}).addTo(m);window.addEventListener("load",function(){m.invalidateSize()});})();</script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"><div id="lmap" class="lmap" role="img" aria-label="Map of Casa Basilico — Pipa"></div><p class="muted mm-links"><a href="https://www.openstreetmap.org/?mlat=-6.228&amp;mlon=-35.046#map=13/-6.228/-35.046" target="_blank" rel="noopener">Open in OpenStreetMap →</a></p><script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script><script>(function(){var m=L.map("lmap",{scrollWheelZoom:false}).setView([-6.228,-35.046],10);L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png",{maxZoom:19,attribution:"© OpenStreetMap contributors"}).addTo(m);L.circleMarker([-6.228,-35.046],{radius:9,color:"#0e7c66",fillColor:"#0e7c66",fillOpacity:.85}).addTo(m);window.addEventListener("load",function(){m.invalidateSize()});})();</script>
 <h2>Rates</h2><div class="tw"><table><thead><tr><th>Stay length</th><th>From</th></tr></thead><tbody><tr><td><b>Per month</b></td><td><span class="m" data-a="1997" data-c="EUR">€1,997</span></td></tr></tbody></table></div><p class="muted">Casa Basilico — Pipa does not publish a nightly or weekly rate.</p>
 <h2>What’s included</h2><ul class="inclist"><li>Private room + weekly cleaning</li><li>Towels and linens</li><li>Coworking space + 2 meeting rooms</li><li>Communal kitchen + daily shared dinners</li><li>Cooking classes</li><li>Community manager</li><li>Local events/activities</li><li>Surprise weekend experience</li></ul>
 <h2>Not included</h2><ul class="exclist"><li>Flights and travel insurance</li><li>Food and personal expenses</li><li>Optional excursions</li></ul>
@@ -225,15 +225,16 @@ function rf(btn,toIn){
 <script>(function(){try{
 var b=document.getElementById('cookieBanner');if(!b)return;var body=document.body;
 function needs(){try{var t=Intl.DateTimeFormat().resolvedOptions().timeZone||'';return /^Europe\//.test(t)||['Atlantic/Reykjavik','Atlantic/Azores','Atlantic/Madeira','Atlantic/Canary','Asia/Nicosia','Asia/Famagusta'].indexOf(t)>=0;}catch(e){return true;}}
-function grant(){try{gtag('consent','update',{'analytics_storage':'granted'});}catch(e){}}
+function grant(){try{gtag('consent','update',{'analytics_storage':'granted'});}catch(e){}try{if(typeof window.clarity==='function')window.clarity('consentv2', {ad_Storage: 'denied', analytics_Storage: 'granted'});}catch(e){}}
+function deny(){try{if(typeof window.clarity==='function')window.clarity('consentv2', {ad_Storage: 'denied', analytics_Storage: 'denied'});}catch(e){}}
 var c=null;try{c=localStorage.getItem('cdb_consent');}catch(e){}
 if(c==='granted'){grant();}
-else if(c==='denied'){}
+else if(c==='denied'){deny();}
 else if(!needs()){grant();}
 else{
 b.hidden=false;body.classList.add('cb-open');
 document.getElementById('ckAccept').onclick=function(){try{localStorage.setItem('cdb_consent','granted');}catch(e){}grant();b.hidden=true;body.classList.remove('cb-open');};
-document.getElementById('ckDecline').onclick=function(){try{localStorage.setItem('cdb_consent','denied');}catch(e){}b.hidden=true;body.classList.remove('cb-open');};
+document.getElementById('ckDecline').onclick=function(){try{localStorage.setItem('cdb_consent','denied');}catch(e){}deny();b.hidden=true;body.classList.remove('cb-open');};
 }
 }catch(e){}})();</script>
 <script>

@@ -185,7 +185,7 @@ gtag('js',new Date());gtag('config','G-GBDMVK7LWL');</script>
 <a class="cta" href="https://digitalnomadshiroshima.com/hsnf2026/" target="_blank" rel="sponsored noopener">Visit Hiroshima Setouchi Nomad Fest 2026 →</a>
 <div class="facts"><dl><dt>Location</dt><dd>Hiroshima, Japan</dd><dt>Type</dt><dd>Nomad festival / dated event — accommodation not included</dd><dt>Dates</dt><dd>Oct 11 - Nov 1, 2026</dd><dt>Price</dt><dd>from <span class="m" data-a="420" data-c="USD">$420</span><small>/ticket</small></dd><dt>Price note</dt><dd>All Access $420 covers both cities for the whole event. Single-city passes: Hiroshima (Oct 11–25) $330 or Matsuyama (Oct 25 – Nov 1) $270. Prices read on the festival site on October 14, 2026 (&quot;Regular Price&quot;). Refunds: 50% until October 4, none from October 5.</dd><dt>Room types</dt><dd>—</dd><dt>Dorm available</dt><dd>No</dd><dt>Vibe</dt><dd>Long-stay gathering rather than a conference. Weekdays are for working, weekends for island trips and outdoor activities around the Setouchi region. Programming runs in both Japanese and English, and it is organised by a six-person team of Japanese nomads led by Shoko Hirose, who founded the Digital Nomads Hiroshima community and ran the first edition in 2025.</dd><dt>Minimum stay</dt><dd>—</dd><dt>Region</dt><dd>Asia</dd><dt>Timezone</dt><dd>GMT+9 <small>· US East: async only · Central Europe: your evenings</small></dd></dl></div>
 <div id="signupbox" class="hubsignup compact"><div class="sg-txt"><h3>New colivings in your inbox</h3><p>New spaces, upcoming pop-ups, and coliving discount codes.</p></div><iframe src="https://subscribe-forms.beehiiv.com/e2050a21-3afe-41f0-a9de-132528b8cda6?utm_source=colivingdb&amp;utm_medium=seo&amp;utm_campaign=coliving-hiroshima-setouchi-nomad-fest-2026" title="Subscribe to colivingDB" loading="lazy" scrolling="no"></iframe></div>
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"><div id="lmap" class="lmap" role="img" aria-label="Map of Hiroshima Setouchi Nomad Fest 2026"></div><p class="muted mm-links"><a href="https://www.openstreetmap.org/?mlat=34.3853&amp;mlon=132.4553#map=13/34.3853/132.4553" target="_blank" rel="noopener">Open in OpenStreetMap →</a></p><script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script><script>(function(){var m=L.map("lmap",{scrollWheelZoom:false}).setView([34.3853,132.4553],12);L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png",{maxZoom:19,attribution:"© OpenStreetMap contributors"}).addTo(m);L.circleMarker([34.3853,132.4553],{radius:9,color:"#0e7c66",fillColor:"#0e7c66",fillOpacity:.85}).addTo(m);window.addEventListener("load",function(){m.invalidateSize()});})();</script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"><div id="lmap" class="lmap" role="img" aria-label="Map of Hiroshima Setouchi Nomad Fest 2026"></div><p class="muted mm-links"><a href="https://www.openstreetmap.org/?mlat=34.3853&amp;mlon=132.4553#map=13/34.3853/132.4553" target="_blank" rel="noopener">Open in OpenStreetMap →</a></p><script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script><script>(function(){var m=L.map("lmap",{scrollWheelZoom:false}).setView([34.3853,132.4553],10);L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png",{maxZoom:19,attribution:"© OpenStreetMap contributors"}).addTo(m);L.circleMarker([34.3853,132.4553],{radius:9,color:"#0e7c66",fillColor:"#0e7c66",fillOpacity:.85}).addTo(m);window.addEventListener("load",function(){m.invalidateSize()});})();</script>
 
 <h2>What’s included</h2><ul class="inclist"><li>Welcome party</li><li>Farewell party</li><li>Participant community access</li><li>The official programme in your pass area</li></ul>
 <h2>Not included</h2><ul class="exclist"><li>Accommodation</li><li>Transportation</li><li>Meals and drinks</li><li>Coworking space access</li><li>Entrance fees</li><li>Paid experiences, tours and workshops</li></ul>
@@ -208,15 +208,16 @@ gtag('js',new Date());gtag('config','G-GBDMVK7LWL');</script>
 <script>(function(){try{
 var b=document.getElementById('cookieBanner');if(!b)return;var body=document.body;
 function needs(){try{var t=Intl.DateTimeFormat().resolvedOptions().timeZone||'';return /^Europe\//.test(t)||['Atlantic/Reykjavik','Atlantic/Azores','Atlantic/Madeira','Atlantic/Canary','Asia/Nicosia','Asia/Famagusta'].indexOf(t)>=0;}catch(e){return true;}}
-function grant(){try{gtag('consent','update',{'analytics_storage':'granted'});}catch(e){}}
+function grant(){try{gtag('consent','update',{'analytics_storage':'granted'});}catch(e){}try{if(typeof window.clarity==='function')window.clarity('consentv2', {ad_Storage: 'denied', analytics_Storage: 'granted'});}catch(e){}}
+function deny(){try{if(typeof window.clarity==='function')window.clarity('consentv2', {ad_Storage: 'denied', analytics_Storage: 'denied'});}catch(e){}}
 var c=null;try{c=localStorage.getItem('cdb_consent');}catch(e){}
 if(c==='granted'){grant();}
-else if(c==='denied'){}
+else if(c==='denied'){deny();}
 else if(!needs()){grant();}
 else{
 b.hidden=false;body.classList.add('cb-open');
 document.getElementById('ckAccept').onclick=function(){try{localStorage.setItem('cdb_consent','granted');}catch(e){}grant();b.hidden=true;body.classList.remove('cb-open');};
-document.getElementById('ckDecline').onclick=function(){try{localStorage.setItem('cdb_consent','denied');}catch(e){}b.hidden=true;body.classList.remove('cb-open');};
+document.getElementById('ckDecline').onclick=function(){try{localStorage.setItem('cdb_consent','denied');}catch(e){}deny();b.hidden=true;body.classList.remove('cb-open');};
 }
 }catch(e){}})();</script>
 <script>

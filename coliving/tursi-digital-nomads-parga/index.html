@@ -185,7 +185,7 @@ gtag('js',new Date());gtag('config','G-GBDMVK7LWL');</script>
 <a class="cta" href="https://tursidigitalnomads.pro/Project/remote-inn-parga-2026/" target="_blank" rel="sponsored noopener">Visit Tursi Digital Nomads — Parga →</a>
 <div class="facts"><dl><dt>Location</dt><dd>Parga, Greece</dd><dt>Type</dt><dd>Pop-up / dated edition</dd><dt>Dates</dt><dd>Oct 3 - 24, 2026</dd><dt>Price</dt><dd>from <span class="m" data-a="799" data-c="EUR">€799</span><small>/event</small> <span class="est" title="Estimated — we’re confirming this price with the operator">est.</span></dd><dt>Price note</dt><dd>shared studio, per person, 3-week program; a Private Studio is €1,299; workspace, high-speed internet, utilities, community management. 2 spots left on September 11, 2026.</dd><dt>Room types</dt><dd>—</dd><dt>Dorm available</dt><dd>No</dd><dt>Vibe</dt><dd>Coastal Greek retreat balancing work with creativity-fostering activities, bonding trips, and slow sunsets.</dd><dt>Minimum stay</dt><dd>—</dd><dt>Region</dt><dd>Europe</dd><dt>Timezone</dt><dd>GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small></dd></dl></div>
 <div id="signupbox" class="hubsignup compact"><div class="sg-txt"><h3>New colivings in your inbox</h3><p>New spaces, upcoming pop-ups, and coliving discount codes.</p></div><iframe src="https://subscribe-forms.beehiiv.com/e2050a21-3afe-41f0-a9de-132528b8cda6?utm_source=colivingdb&amp;utm_medium=seo&amp;utm_campaign=coliving-tursi-digital-nomads-parga" title="Subscribe to colivingDB" loading="lazy" scrolling="no"></iframe></div>
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"><div id="lmap" class="lmap" role="img" aria-label="Map of Tursi Digital Nomads — Parga"></div><p class="muted mm-links"><a href="https://www.openstreetmap.org/?mlat=39.2853&amp;mlon=20.3997#map=13/39.2853/20.3997" target="_blank" rel="noopener">Open in OpenStreetMap →</a></p><script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script><script>(function(){var m=L.map("lmap",{scrollWheelZoom:false}).setView([39.2853,20.3997],12);L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png",{maxZoom:19,attribution:"© OpenStreetMap contributors"}).addTo(m);L.circleMarker([39.2853,20.3997],{radius:9,color:"#0e7c66",fillColor:"#0e7c66",fillOpacity:.85}).addTo(m);window.addEventListener("load",function(){m.invalidateSize()});})();</script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"><div id="lmap" class="lmap" role="img" aria-label="Map of Tursi Digital Nomads — Parga"></div><p class="muted mm-links"><a href="https://www.openstreetmap.org/?mlat=39.2853&amp;mlon=20.3997#map=13/39.2853/20.3997" target="_blank" rel="noopener">Open in OpenStreetMap →</a></p><script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script><script>(function(){var m=L.map("lmap",{scrollWheelZoom:false}).setView([39.2853,20.3997],10);L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png",{maxZoom:19,attribution:"© OpenStreetMap contributors"}).addTo(m);L.circleMarker([39.2853,20.3997],{radius:9,color:"#0e7c66",fillColor:"#0e7c66",fillOpacity:.85}).addTo(m);window.addEventListener("load",function(){m.invalidateSize()});})();</script>
 
 <h2>What’s included</h2><ul class="inclist"><li>Private or shared bedroom</li><li>High-speed internet</li><li>Utilities</li><li>Community management</li><li>Free coworking space access for apartment residents</li></ul>
 <h2>Not included</h2><ul class="exclist"><li>Transportation to Parga (flights/trains)</li><li>Meals (though residents often cook and split dinner costs together)</li></ul>
@@ -225,15 +225,16 @@ function rf(btn,toIn){
 <script>(function(){try{
 var b=document.getElementById('cookieBanner');if(!b)return;var body=document.body;
 function needs(){try{var t=Intl.DateTimeFormat().resolvedOptions().timeZone||'';return /^Europe\//.test(t)||['Atlantic/Reykjavik','Atlantic/Azores','Atlantic/Madeira','Atlantic/Canary','Asia/Nicosia','Asia/Famagusta'].indexOf(t)>=0;}catch(e){return true;}}
-function grant(){try{gtag('consent','update',{'analytics_storage':'granted'});}catch(e){}}
+function grant(){try{gtag('consent','update',{'analytics_storage':'granted'});}catch(e){}try{if(typeof window.clarity==='function')window.clarity('consentv2', {ad_Storage: 'denied', analytics_Storage: 'granted'});}catch(e){}}
+function deny(){try{if(typeof window.clarity==='function')window.clarity('consentv2', {ad_Storage: 'denied', analytics_Storage: 'denied'});}catch(e){}}
 var c=null;try{c=localStorage.getItem('cdb_consent');}catch(e){}
 if(c==='granted'){grant();}
-else if(c==='denied'){}
+else if(c==='denied'){deny();}
 else if(!needs()){grant();}
 else{
 b.hidden=false;body.classList.add('cb-open');
 document.getElementById('ckAccept').onclick=function(){try{localStorage.setItem('cdb_consent','granted');}catch(e){}grant();b.hidden=true;body.classList.remove('cb-open');};
-document.getElementById('ckDecline').onclick=function(){try{localStorage.setItem('cdb_consent','denied');}catch(e){}b.hidden=true;body.classList.remove('cb-open');};
+document.getElementById('ckDecline').onclick=function(){try{localStorage.setItem('cdb_consent','denied');}catch(e){}deny();b.hidden=true;body.classList.remove('cb-open');};
 }
 }catch(e){}})();</script>
 <script>

@@ -188,15 +188,16 @@ gtag('js',new Date());gtag('config','G-GBDMVK7LWL');</script>
 <script>(function(){try{
 var b=document.getElementById('cookieBanner');if(!b)return;var body=document.body;
 function needs(){try{var t=Intl.DateTimeFormat().resolvedOptions().timeZone||'';return /^Europe\//.test(t)||['Atlantic/Reykjavik','Atlantic/Azores','Atlantic/Madeira','Atlantic/Canary','Asia/Nicosia','Asia/Famagusta'].indexOf(t)>=0;}catch(e){return true;}}
-function grant(){try{gtag('consent','update',{'analytics_storage':'granted'});}catch(e){}}
+function grant(){try{gtag('consent','update',{'analytics_storage':'granted'});}catch(e){}try{if(typeof window.clarity==='function')window.clarity('consentv2', {ad_Storage: 'denied', analytics_Storage: 'granted'});}catch(e){}}
+function deny(){try{if(typeof window.clarity==='function')window.clarity('consentv2', {ad_Storage: 'denied', analytics_Storage: 'denied'});}catch(e){}}
 var c=null;try{c=localStorage.getItem('cdb_consent');}catch(e){}
 if(c==='granted'){grant();}
-else if(c==='denied'){}
+else if(c==='denied'){deny();}
 else if(!needs()){grant();}
 else{
 b.hidden=false;body.classList.add('cb-open');
 document.getElementById('ckAccept').onclick=function(){try{localStorage.setItem('cdb_consent','granted');}catch(e){}grant();b.hidden=true;body.classList.remove('cb-open');};
-document.getElementById('ckDecline').onclick=function(){try{localStorage.setItem('cdb_consent','denied');}catch(e){}b.hidden=true;body.classList.remove('cb-open');};
+document.getElementById('ckDecline').onclick=function(){try{localStorage.setItem('cdb_consent','denied');}catch(e){}deny();b.hidden=true;body.classList.remove('cb-open');};
 }
 }catch(e){}})();</script>
 <script>

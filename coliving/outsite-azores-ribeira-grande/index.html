@@ -185,7 +185,7 @@ gtag('js',new Date());gtag('config','G-GBDMVK7LWL');</script>
 <a class="cta" href="https://www.outsite.co/locations/azores-ribeira-grande?rfsn=9218925.def533" target="_blank" rel="sponsored noopener">Visit Outsite Azores - Ribeira Grande →</a>
 <div class="facts"><dl><dt>Location</dt><dd>Ribeira Grande, São Miguel, Azores, Portugal</dd><dt>Type</dt><dd>Permanent coliving</dd><dt>Price</dt><dd>On request</dd><dt>Price note</dt><dd>pricing shown only after entering dates</dd><dt>Room types</dt><dd>private</dd><dt>Dorm available</dt><dd>No</dd><dt>Minimum stay</dt><dd>—</dd><dt>Region</dt><dd>Europe</dd><dt>Timezone</dt><dd>GMT-1 winter / GMT+0 summer <small>· US East: good overlap · Central Europe: full workday overlap</small></dd></dl></div>
 <div id="signupbox" class="hubsignup compact"><div class="sg-txt"><h3>New colivings in your inbox</h3><p>New spaces, upcoming pop-ups, and coliving discount codes.</p></div><iframe src="https://subscribe-forms.beehiiv.com/e2050a21-3afe-41f0-a9de-132528b8cda6?utm_source=colivingdb&amp;utm_medium=seo&amp;utm_campaign=coliving-outsite-azores-ribeira-grande" title="Subscribe to colivingDB" loading="lazy" scrolling="no"></iframe></div>
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"><div id="lmap" class="lmap" role="img" aria-label="Map of Outsite Azores - Ribeira Grande"></div><p class="muted mm-links"><a href="https://www.openstreetmap.org/?mlat=37.823&amp;mlon=-25.5268#map=13/37.823/-25.5268" target="_blank" rel="noopener">Open in OpenStreetMap →</a></p><script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script><script>(function(){var m=L.map("lmap",{scrollWheelZoom:false}).setView([37.823,-25.5268],12);L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png",{maxZoom:19,attribution:"© OpenStreetMap contributors"}).addTo(m);L.circleMarker([37.823,-25.5268],{radius:9,color:"#0e7c66",fillColor:"#0e7c66",fillOpacity:.85}).addTo(m);window.addEventListener("load",function(){m.invalidateSize()});})();</script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"><div id="lmap" class="lmap" role="img" aria-label="Map of Outsite Azores - Ribeira Grande"></div><p class="muted mm-links"><a href="https://www.openstreetmap.org/?mlat=37.823&amp;mlon=-25.5268#map=13/37.823/-25.5268" target="_blank" rel="noopener">Open in OpenStreetMap →</a></p><script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script><script>(function(){var m=L.map("lmap",{scrollWheelZoom:false}).setView([37.823,-25.5268],10);L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png",{maxZoom:19,attribution:"© OpenStreetMap contributors"}).addTo(m);L.circleMarker([37.823,-25.5268],{radius:9,color:"#0e7c66",fillColor:"#0e7c66",fillOpacity:.85}).addTo(m);window.addEventListener("load",function(){m.invalidateSize()});})();</script>
 
 
 
@@ -206,15 +206,16 @@ gtag('js',new Date());gtag('config','G-GBDMVK7LWL');</script>
 <script>(function(){try{
 var b=document.getElementById('cookieBanner');if(!b)return;var body=document.body;
 function needs(){try{var t=Intl.DateTimeFormat().resolvedOptions().timeZone||'';return /^Europe\//.test(t)||['Atlantic/Reykjavik','Atlantic/Azores','Atlantic/Madeira','Atlantic/Canary','Asia/Nicosia','Asia/Famagusta'].indexOf(t)>=0;}catch(e){return true;}}
-function grant(){try{gtag('consent','update',{'analytics_storage':'granted'});}catch(e){}}
+function grant(){try{gtag('consent','update',{'analytics_storage':'granted'});}catch(e){}try{if(typeof window.clarity==='function')window.clarity('consentv2', {ad_Storage: 'denied', analytics_Storage: 'granted'});}catch(e){}}
+function deny(){try{if(typeof window.clarity==='function')window.clarity('consentv2', {ad_Storage: 'denied', analytics_Storage: 'denied'});}catch(e){}}
 var c=null;try{c=localStorage.getItem('cdb_consent');}catch(e){}
 if(c==='granted'){grant();}
-else if(c==='denied'){}
+else if(c==='denied'){deny();}
 else if(!needs()){grant();}
 else{
 b.hidden=false;body.classList.add('cb-open');
 document.getElementById('ckAccept').onclick=function(){try{localStorage.setItem('cdb_consent','granted');}catch(e){}grant();b.hidden=true;body.classList.remove('cb-open');};
-document.getElementById('ckDecline').onclick=function(){try{localStorage.setItem('cdb_consent','denied');}catch(e){}b.hidden=true;body.classList.remove('cb-open');};
+document.getElementById('ckDecline').onclick=function(){try{localStorage.setItem('cdb_consent','denied');}catch(e){}deny();b.hidden=true;body.classList.remove('cb-open');};
 }
 }catch(e){}})();</script>
 <script>

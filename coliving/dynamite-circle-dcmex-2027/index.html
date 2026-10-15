@@ -185,7 +185,7 @@ gtag('js',new Date());gtag('config','G-GBDMVK7LWL');</script>
 <a class="cta" href="https://dynamitecircle.com/event/2027/04/mexico/mexico-city/dcmex-2027/" target="_blank" rel="sponsored noopener">Visit Dynamite Circle — DCMEX 2027 →</a>
 <div class="facts"><dl><dt>Location</dt><dd>Mexico City, Mexico</dd><dt>Type</dt><dd>Nomad festival / dated event — accommodation not included</dd><dt>Dates</dt><dd>Apr 6 - 9, 2027</dd><dt>Price</dt><dd>from <span class="m" data-a="1099" data-c="USD">$1,099</span><small>/ticket</small></dd><dt>Price note</dt><dd>$1,099 including fees at the current tier, and the organiser says it may rise soon. Dynamite Circle membership required; tickets are released in the members-only forum. Registering early buys a refund window up to 60 days before the event.</dd><dt>Room types</dt><dd>—</dd><dt>Dorm available</dt><dd>No</dd><dt>Vibe</dt><dd>Smaller and more compact than Bangkok. Attendees come from 20 countries, heavily US, Mexican and Canadian, and skew toward consulting, SaaS and info products, with 59% in the $100K–$1M revenue band.</dd><dt>Minimum stay</dt><dd>—</dd><dt>Region</dt><dd>Latin America</dd><dt>Timezone</dt><dd>GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small></dd><dt>Elevation</dt><dd>2,232 m</dd></dl></div>
 <div id="signupbox" class="hubsignup compact"><div class="sg-txt"><h3>New colivings in your inbox</h3><p>New spaces, upcoming pop-ups, and coliving discount codes.</p></div><iframe src="https://subscribe-forms.beehiiv.com/e2050a21-3afe-41f0-a9de-132528b8cda6?utm_source=colivingdb&amp;utm_medium=seo&amp;utm_campaign=coliving-dynamite-circle-dcmex-2027" title="Subscribe to colivingDB" loading="lazy" scrolling="no"></iframe></div>
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"><div id="lmap" class="lmap" role="img" aria-label="Map of Dynamite Circle — DCMEX 2027"></div><p class="muted mm-links"><a href="https://www.openstreetmap.org/?mlat=19.4345&amp;mlon=-99.1463#map=13/19.4345/-99.1463" target="_blank" rel="noopener">Open in OpenStreetMap →</a></p><script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script><script>(function(){var m=L.map("lmap",{scrollWheelZoom:false}).setView([19.4345,-99.1463],12);L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png",{maxZoom:19,attribution:"© OpenStreetMap contributors"}).addTo(m);L.circleMarker([19.4345,-99.1463],{radius:9,color:"#0e7c66",fillColor:"#0e7c66",fillOpacity:.85}).addTo(m);window.addEventListener("load",function(){m.invalidateSize()});})();</script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"><div id="lmap" class="lmap" role="img" aria-label="Map of Dynamite Circle — DCMEX 2027"></div><p class="muted mm-links"><a href="https://www.openstreetmap.org/?mlat=19.4345&amp;mlon=-99.1463#map=13/19.4345/-99.1463" target="_blank" rel="noopener">Open in OpenStreetMap →</a></p><script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script><script>(function(){var m=L.map("lmap",{scrollWheelZoom:false}).setView([19.4345,-99.1463],10);L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png",{maxZoom:19,attribution:"© OpenStreetMap contributors"}).addTo(m);L.circleMarker([19.4345,-99.1463],{radius:9,color:"#0e7c66",fillColor:"#0e7c66",fillOpacity:.85}).addTo(m);window.addEventListener("load",function(){m.invalidateSize()});})();</script>
 
 <h2>What’s included</h2><ul class="inclist"><li>Mainstage talks and breakout sessions</li><li>Mastermind Day, matched into groups of 6–8</li><li>Tactical workshops and member-led meet-ups</li><li>Evening parties each night</li><li>DC BLACK Day for 7-figure founders</li></ul>
 <h2>Not included</h2><ul class="exclist"><li>Accommodation — book separately</li><li>Airfare</li><li>Spouse access to daytime sessions (a separate Party Pass covers evening parties)</li></ul>
@@ -208,15 +208,16 @@ gtag('js',new Date());gtag('config','G-GBDMVK7LWL');</script>
 <script>(function(){try{
 var b=document.getElementById('cookieBanner');if(!b)return;var body=document.body;
 function needs(){try{var t=Intl.DateTimeFormat().resolvedOptions().timeZone||'';return /^Europe\//.test(t)||['Atlantic/Reykjavik','Atlantic/Azores','Atlantic/Madeira','Atlantic/Canary','Asia/Nicosia','Asia/Famagusta'].indexOf(t)>=0;}catch(e){return true;}}
-function grant(){try{gtag('consent','update',{'analytics_storage':'granted'});}catch(e){}}
+function grant(){try{gtag('consent','update',{'analytics_storage':'granted'});}catch(e){}try{if(typeof window.clarity==='function')window.clarity('consentv2', {ad_Storage: 'denied', analytics_Storage: 'granted'});}catch(e){}}
+function deny(){try{if(typeof window.clarity==='function')window.clarity('consentv2', {ad_Storage: 'denied', analytics_Storage: 'denied'});}catch(e){}}
 var c=null;try{c=localStorage.getItem('cdb_consent');}catch(e){}
 if(c==='granted'){grant();}
-else if(c==='denied'){}
+else if(c==='denied'){deny();}
 else if(!needs()){grant();}
 else{
 b.hidden=false;body.classList.add('cb-open');
 document.getElementById('ckAccept').onclick=function(){try{localStorage.setItem('cdb_consent','granted');}catch(e){}grant();b.hidden=true;body.classList.remove('cb-open');};
-document.getElementById('ckDecline').onclick=function(){try{localStorage.setItem('cdb_consent','denied');}catch(e){}b.hidden=true;body.classList.remove('cb-open');};
+document.getElementById('ckDecline').onclick=function(){try{localStorage.setItem('cdb_consent','denied');}catch(e){}deny();b.hidden=true;body.classList.remove('cb-open');};
 }
 }catch(e){}})();</script>
 <script>
