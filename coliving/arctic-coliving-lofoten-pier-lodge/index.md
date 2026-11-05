@@ -1,6 +1,6 @@
 # Arctic Coliving — Lofoten Pier Lodge
 
-> Coliving in Henningsvær, Norway. Last updated October 15, 2026.
+> Coliving in Henningsvær, Norway. Last updated November 5, 2026.
 
 - **Location:** Henningsvær, Norway
 - **Type:** Permanent coliving

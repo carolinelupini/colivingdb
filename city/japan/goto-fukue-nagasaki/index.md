@@ -1,12 +1,12 @@
 # Coliving in Goto (Fukue), Nagasaki, Japan
 
-> 1 coliving in Goto (Fukue), Nagasaki, Japan, prices from €448 to €448 per month – last updated October 15, 2026.
+> 1 coliving in Goto (Fukue), Nagasaki, Japan, prices from €448 to €448 per month – last updated November 5, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| The Pier | Goto Nagasaki | Goto (Fukue), Nagasaki | from $520/mo | 5.0 (12) | private | 30 nights | Permanent |
+| The Pier | Goto Nagasaki | Goto (Fukue), Nagasaki | from $520/mo | 5.0 (13) | private | 30 nights | Permanent |
 
 ## Price distribution
 

@@ -1,11 +1,11 @@
 # Coliving in London, United Kingdom
 
-> 1 coliving in London, United Kingdom – last updated October 15, 2026.
+> 1 coliving in London, United Kingdom – last updated November 5, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Outsite London - Canary Wharf | London | On request | 4.7 (390) | private | 2 nights | Permanent |
+| Outsite London - Canary Wharf | London | On request | 4.7 (396) | private | 2 nights | Permanent |
 
 Source: https://colivingdb.com/city/united-kingdom/london/

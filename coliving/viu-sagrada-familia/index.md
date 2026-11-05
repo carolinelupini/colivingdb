@@ -1,12 +1,12 @@
 # VIU Sagrada Familia
 
-> Coliving in Barcelona, Spain. Last updated October 15, 2026.
+> Coliving in Barcelona, Spain. Last updated November 5, 2026.
 
 - **Location:** Barcelona, Spain
 - **Type:** Permanent coliving
 - **Price:** from €1,000/mo
 - **Price note:** from €33.33/night (~€1,000/mo)
-- **Rating:** <a href="https://maps.google.com/?cid=281203669749357264&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (51 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=281203669749357264&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (52 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 250 Mbps down <small>· operator-reported</small>
@@ -16,7 +16,7 @@
 - **Tags:** city, community, coworking, eco, wellness
 - **Nearest airports:** Josep Tarradellas Barcelona-El Prat Airport (BCN) ~14 km; Girona-Costa Brava Airport (GRO) ~75 km; Reus Airport (REU) ~88 km
 - **Website:** https://www.viubcn.com/en/
-- **Rating:** 4.9 from 51 Google reviews
+- **Rating:** 4.9 from 52 Google reviews
 
 ## Rates
 

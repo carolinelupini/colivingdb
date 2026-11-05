@@ -1,6 +1,6 @@
 # Nomadico Coliving Buenos Aires
 
-> Coliving in Buenos Aires (Palermo), Argentina. Last updated October 15, 2026.
+> Coliving in Buenos Aires (Palermo), Argentina. Last updated November 5, 2026.
 
 - **Status:** <b>Not open yet</b> — opening November 15
 - **Location:** Buenos Aires (Palermo), Argentina
@@ -10,6 +10,7 @@
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 7 nights
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Latin America
 - **Timezone:** GMT-3 <small>· US East: full workday overlap · Central Europe: good overlap</small>
 - **Tags:** coworking, community

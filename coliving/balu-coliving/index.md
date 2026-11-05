@@ -1,12 +1,12 @@
 # Balu Coliving
 
-> Coliving in Medellín (Laureles), Colombia. Last updated October 15, 2026.
+> Coliving in Medellín (Laureles), Colombia. Last updated November 5, 2026.
 
 - **Location:** Medellín (Laureles), Colombia
 - **Type:** Permanent coliving
 - **Price:** from €650/mo
 - **Price note:** described as affordable; price on request
-- **Rating:** <a href="https://maps.google.com/?cid=2073172321759266130&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (50 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=2073172321759266130&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (51 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Clean and respectful by day, lively enough by night
@@ -17,7 +17,7 @@
 - **Tags:** city, community
 - **Nearest airports:** Enrique Olaya Herrera Airport (EOH) ~2 km; El Dorado International Airport (BOG) ~234 km; Jose Maria Córdova International Airport (MDE) ~20 km
 - **Website:** https://coliving.community/at/balu
-- **Rating:** 4.8 from 50 Google reviews
+- **Rating:** 4.8 from 51 Google reviews
 
 ## Rates
 

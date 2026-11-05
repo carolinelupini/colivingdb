@@ -1,6 +1,6 @@
 # Coliving in Santo da Serra, Santa Cruz (Madeira), Portugal
 
-> 1 coliving in Santo da Serra, Santa Cruz (Madeira), Portugal, prices from €1,500 to €1,500 per month – last updated October 15, 2026.
+> 1 coliving in Santo da Serra, Santa Cruz (Madeira), Portugal, prices from €1,500 to €1,500 per month – last updated November 5, 2026.
 
 ## All colivings
 

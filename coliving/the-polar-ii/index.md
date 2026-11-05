@@ -1,6 +1,6 @@
 # The Polar II
 
-> Coliving in Tulum, Mexico. Last updated October 15, 2026.
+> Coliving in Tulum, Mexico. Last updated November 5, 2026.
 
 - **Location:** Tulum, Mexico
 - **Type:** Permanent coliving

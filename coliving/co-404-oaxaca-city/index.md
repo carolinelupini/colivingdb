@@ -1,12 +1,12 @@
 # Co.404 Oaxaca City
 
-> Coliving in Oaxaca, Mexico. Last updated October 15, 2026.
+> Coliving in Oaxaca, Mexico. Last updated November 5, 2026.
 
 - **Location:** Oaxaca, Mexico
 - **Type:** Permanent coliving
 - **Price:** from $570/mo
 - **Price note:** from $570/mo (~€525 est.); 50% off monthly promo
-- **Rating:** <a href="https://maps.google.com/?cid=7729065391284421933&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (130 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=7729065391284421933&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (133 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** hostel, hotel, and coworking combined, community-driven
@@ -17,7 +17,7 @@
 - **Tags:** city, community, coworking
 - **Nearest airports:** Xoxocotlán International Airport (OAX) ~8 km; Puerto Escondido International Airport (PXM) ~138 km
 - **Website:** https://co404.com
-- **Rating:** 4.6 from 130 Google reviews
+- **Rating:** 4.5 from 133 Google reviews
 
 ## Rates
 

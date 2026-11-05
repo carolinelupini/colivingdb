@@ -1,12 +1,12 @@
 # Coliving in Adeje, Spain
 
-> 1 coliving in Adeje, Spain, prices from €620 to €620 per month – last updated October 15, 2026.
+> 1 coliving in Adeje, Spain, prices from €620 to €620 per month – last updated November 5, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Cactus Coliving Adeje | Adeje | from €620/mo | 5.0 (19) | private | 2 months | Permanent |
+| Cactus Coliving Adeje | Adeje | from €620/mo | 5.0 (21) | private | 2 months | Permanent |
 
 ## Price distribution
 

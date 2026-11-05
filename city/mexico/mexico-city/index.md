@@ -1,19 +1,19 @@
 # Coliving in Mexico City, Mexico
 
-> 8 colivings and 1 nomad festival in Mexico City, Mexico, prices from €46 to €815 per month – last updated October 15, 2026.
+> 8 colivings and 1 nomad festival in Mexico City, Mexico, prices from €46 to €815 per month – last updated November 5, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Outsite Mexico City - Roma Sur | Mexico City | from $53/mo | 4.5 (88) | private | 2 nights | Permanent |
-| U-Co Roma Coliving | Mexico City | from €381/mo | 4.3 (108) | private, studio | — | Permanent |
+| Outsite Mexico City - Roma Sur | Mexico City | from $53/mo | 4.5 (89) | private | 2 nights | Permanent |
+| U-Co Roma Coliving | Mexico City | from €381/mo | 4.3 (109) | private, studio | — | Permanent |
 | Outsite Mexico City - Colonia San Miguel | Mexico City | from $749/mo | — | private | — | Permanent |
 | Covive Casa Del Valle Norte | Mexico City | from MXN 15,250/mo | 4.2 (29) | private | 30 nights | Permanent |
 | Casa Luna by Terracotta MX | Mexico City | On request | 5.0 (2) | private | 7 nights | Permanent |
-| Niu Narvarte departamentos | Mexico City | On request | 4.3 (153) | private | 1 night | Permanent |
-| Niu WTC Departamentos | Mexico City | On request | 4.8 (33) | private | 1 night | Permanent |
-| Triver Coliving | Mexico City | from $60/night | 4.4 (298) | private, shared | 1 night | Permanent |
+| Niu Narvarte departamentos | Mexico City | On request | 4.3 (157) | private | 1 night | Permanent |
+| Niu WTC Departamentos | Mexico City | On request | 4.8 (34) | private | 1 night | Permanent |
+| Triver Coliving | Mexico City | from $60/night | 4.4 (305) | private, shared | 1 night | Permanent |
 | Dynamite Circle — DCMEX 2027 | Mexico City | from $1,099/ticket | — | — | — | Festival |
 
 ## Price distribution

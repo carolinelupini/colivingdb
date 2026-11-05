@@ -1,6 +1,6 @@
 # Casa Basilico — Pipa
 
-> Coliving in Pipa (Tibau do Sul), Brazil. Last updated October 15, 2026.
+> Coliving in Pipa (Tibau do Sul), Brazil. Last updated November 5, 2026.
 
 - **Location:** Pipa (Tibau do Sul), Brazil
 - **Type:** Pop-up / dated edition
@@ -12,6 +12,7 @@
 - **Wi-Fi (on-site):** 100 Mbps down <small>· operator-reported</small>
 - **Vibe:** Casa Basilico's Brazil chapter — two months in Pipa with Carnival in month one, run with the brand's shared-dinners, coworking and community-manager model.
 - **Minimum stay:** 28 nights
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Latin America
 - **Timezone:** GMT-3 <small>· US East: full workday overlap · Central Europe: good overlap</small>
 - **Tags:** beach, coworking, community

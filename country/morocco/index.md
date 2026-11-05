@@ -1,19 +1,19 @@
 # Coliving in Morocco
 
-> 8 colivings and 1 nomad festival in Morocco, prices from €300 to €1,300 per month – last updated October 15, 2026.
+> 8 colivings and 1 nomad festival in Morocco, prices from €300 to €1,300 per month – last updated November 5, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Kasbari House | Tamraght (near Taghazout/Agadir) | from €350/mo | 4.7 (58) | private, dorm | 7 nights | Permanent |
+| Kasbari House | Tamraght (near Taghazout/Agadir) | from €350/mo | 4.7 (59) | private, dorm | 7 nights | Permanent |
 | Adventurekeys | Taghazout | from €420/mo | 4.5 (404) | private, dorm | 2 nights | Permanent |
 | The Tamraght | Agadir | from $740/mo | — | private, shared, dorm | 30 nights | Permanent |
-| Nomadico Coliving Taghazout | Taghazout | from €715/mo | 4.9 (85) | private, shared | — | Permanent |
-| SunDesk Coliving | Taghazout | from €885/mo | 4.9 (175) | private, shared | 10 nights | Permanent |
+| Nomadico Coliving Taghazout | Taghazout | from €715/mo | 4.9 (84) | private, shared | — | Permanent |
+| SunDesk Coliving | Taghazout | from €885/mo | 4.9 (176) | private, shared | 10 nights | Permanent |
 | The Tasga Oudrar II | Taghazout | from $1,429/mo | — | private, dorm | 30 nights | Permanent |
 | Cowork & Live | Casablanca | On request | 4.8 (74) | private | — | Permanent |
-| Outsite Marrakesh | Marrakesh | On request | 4.7 (101) | private | 2 nights | Permanent |
+| Outsite Marrakesh | Marrakesh | On request | 4.7 (102) | private | 2 nights | Permanent |
 | Arab Nomad Fest: Morocco 2026 | Taghazout | from $297/ticket | — | — | — | Festival |
 
 ## Price distribution

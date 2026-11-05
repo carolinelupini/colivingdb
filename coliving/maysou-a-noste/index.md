@@ -1,12 +1,12 @@
 # Maysou A Noste
 
-> Coliving in Lurbe-Saint-Christau, France. Last updated October 15, 2026.
+> Coliving in Lurbe-Saint-Christau, France. Last updated November 5, 2026.
 
 - **Location:** Lurbe-Saint-Christau, France
 - **Type:** Permanent coliving
 - **Price:** from €420/mo
 - **Price note:** €420/mo (discounted from €600); €18/night, meals included
-- **Rating:** <a href="https://maps.google.com/?cid=6555437671161344699&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (18 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=6555437671161344699&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (22 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** A community- and wellness-oriented coliving space centered on meaningful connection — shared meals, workshops, creative exchange, and personal/spiritual growth — while living close to nature and growing its own food.
@@ -16,7 +16,7 @@
 - **Tags:** rural, mountain, community, eco, coworking, wellness
 - **Nearest airports:** Pau Pyrénées Airport (PUF) ~35 km; Toulouse-Blagnac Airport (TLS) ~170 km; Tarbes-Lourdes-Pyrénées Airport (LDE) ~49 km
 - **Website:** https://www.maysouanoste.com/
-- **Rating:** 4.8 from 18 Google reviews
+- **Rating:** 4.9 from 22 Google reviews
 
 ## Rates
 

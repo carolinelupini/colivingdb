@@ -1,12 +1,12 @@
 # Coliving in Canada
 
-> 2 colivings in Canada, prices from €889 to €889 per month – last updated October 15, 2026.
+> 2 colivings in Canada, prices from €889 to €889 per month – last updated November 5, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Mimos Coliving - Toronto Annex | Toronto | from C$1,440/mo | 4.9 (19) | private | 28 nights | Permanent |
+| Mimos Coliving - Toronto Annex | Toronto | from C$1,440/mo | 4.9 (20) | private | 28 nights | Permanent |
 | Nomad Coliving | Montreal | On request | 4.9 (33) | private | — | Permanent |
 
 ## Price distribution

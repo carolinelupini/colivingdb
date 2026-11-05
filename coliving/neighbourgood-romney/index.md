@@ -1,12 +1,12 @@
 # Neighbourgood Romney
 
-> Coliving in Cape Town, South Africa. Last updated October 15, 2026.
+> Coliving in Cape Town, South Africa. Last updated November 5, 2026.
 
 - **Location:** Cape Town, South Africa
 - **Type:** Permanent coliving
 - **Price:** from R13,000/mo
 - **Price note:** brand-wide from ~€749/mo
-- **Rating:** <a href="https://maps.google.com/?cid=3289691474489803176&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (55 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=3289691474489803176&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (57 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** Stylish, laid-back kick-your-shoes-off beach house feel
@@ -16,7 +16,7 @@
 - **Tags:** city, coworking, community, wellness
 - **Nearest airports:** Cape Town International Airport (CPT) ~19 km
 - **Website:** https://www.neighbourgood.co
-- **Rating:** 4.3 from 55 Google reviews
+- **Rating:** 4.4 from 57 Google reviews
 
 ## Rates
 

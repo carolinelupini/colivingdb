@@ -1,6 +1,6 @@
 # Nomadico Coliving Florianópolis
 
-> Coliving in Florianópolis, Brazil. Last updated October 15, 2026.
+> Coliving in Florianópolis, Brazil. Last updated November 5, 2026.
 
 - **Location:** Florianópolis, Brazil
 - **Type:** Permanent coliving
@@ -11,6 +11,7 @@
 - **Dorm available:** No
 - **Vibe:** A beach-town coliving space themed 'Surfing, Outdoors, Joyful,' with lush nature and easygoing energy, Brazilian warmth, and one solar-powered eco-haven home — peaceful, creative, and full of island charm.
 - **Minimum stay:** 7 nights
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Latin America
 - **Timezone:** GMT-3 <small>· US East: full workday overlap · Central Europe: good overlap</small>
 - **Tags:** beach, island, coworking, community, surf, wellness

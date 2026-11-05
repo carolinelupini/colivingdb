@@ -1,6 +1,6 @@
 # Nomad Cruise — NC18 Caribbean Islands
 
-> Coliving in Barcelona → La Romana (Atlantic crossing). Last updated October 15, 2026.
+> Coliving in Barcelona → La Romana (Atlantic crossing). Last updated November 5, 2026.
 
 - **Location:** Barcelona → La Romana (Atlantic crossing)
 - **Type:** Pop-up / dated edition

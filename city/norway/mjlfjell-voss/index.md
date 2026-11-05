@@ -1,6 +1,6 @@
 # Coliving in Mjølfjell (Voss), Norway
 
-> 1 coliving in Mjølfjell (Voss), Norway, prices from €1,782 to €1,782 per month – last updated October 15, 2026.
+> 1 coliving in Mjølfjell (Voss), Norway, prices from €1,782 to €1,782 per month – last updated November 5, 2026.
 
 ## All colivings
 

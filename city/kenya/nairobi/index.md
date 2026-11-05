@@ -1,6 +1,6 @@
 # Coliving in Nairobi, Kenya
 
-> 3 colivings in Nairobi, Kenya, prices from €1,543 to €1,543 per month – last updated October 15, 2026.
+> 3 colivings in Nairobi, Kenya, prices from €1,543 to €1,543 per month – last updated November 5, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Boundless Life — Barcelona
 
-> Coliving in Barcelona (Poblenou), Spain. Last updated October 15, 2026.
+> Coliving in Barcelona (Poblenou), Spain. Last updated November 5, 2026.
 
 - **Location:** Barcelona (Poblenou), Spain
 - **Type:** Pop-up / dated edition

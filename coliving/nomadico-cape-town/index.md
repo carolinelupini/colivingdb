@@ -1,6 +1,6 @@
 # Nomadico Cape Town
 
-> Coliving in Cape Town, South Africa. Last updated October 15, 2026.
+> Coliving in Cape Town, South Africa. Last updated November 5, 2026.
 
 - **Location:** Cape Town, South Africa
 - **Type:** Permanent coliving
@@ -11,6 +11,7 @@
 - **Dorm available:** No
 - **Vibe:** Community-driven remote-work network pairing workspace and wifi with local hosts, events, and authentic connection.
 - **Minimum stay:** —
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Africa
 - **Timezone:** GMT+2 <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** city, coworking, community

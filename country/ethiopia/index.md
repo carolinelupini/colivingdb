@@ -1,6 +1,6 @@
 # Coliving in Ethiopia
 
-> 2 colivings in Ethiopia – last updated October 15, 2026.
+> 2 colivings in Ethiopia – last updated November 5, 2026.
 
 ## All colivings
 

@@ -1,12 +1,12 @@
 # Coliving in Las Palmas de Gran Canaria (La Isleta), Spain
 
-> 1 coliving in Las Palmas de Gran Canaria (La Isleta), Spain, prices from €525 to €525 per month – last updated October 15, 2026.
+> 1 coliving in Las Palmas de Gran Canaria (La Isleta), Spain, prices from €525 to €525 per month – last updated November 5, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Ecoisleta Coliving | Las Palmas de Gran Canaria (La Isleta) | from €585/mo | 5.0 (59) | private | — | Permanent |
+| Ecoisleta Coliving | Las Palmas de Gran Canaria (La Isleta) | from €585/mo | 5.0 (60) | private | — | Permanent |
 
 ## Price distribution
 

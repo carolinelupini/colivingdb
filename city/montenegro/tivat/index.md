@@ -1,12 +1,12 @@
 # Coliving in Tivat, Montenegro
 
-> 1 coliving in Tivat, Montenegro, prices from €500 to €500 per month – last updated October 15, 2026.
+> 1 coliving in Tivat, Montenegro, prices from €500 to €500 per month – last updated November 5, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Nomio | Tivat | from €500/mo | 5.0 (12) | private | — | Permanent |
+| Nomio | Tivat | from €500/mo | 5.0 (17) | private | — | Permanent |
 
 ## Price distribution
 

@@ -1,12 +1,12 @@
 # Neighbourgood De Wet
 
-> Coliving in Franschhoek, South Africa. Last updated October 15, 2026.
+> Coliving in Franschhoek, South Africa. Last updated November 5, 2026.
 
 - **Location:** Franschhoek, South Africa
 - **Type:** Permanent coliving
 - **Price:** from R10,000/mo
 - **Price note:** est.; town-level rate not published
-- **Rating:** <a href="https://maps.google.com/?cid=4872470751672047690&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (153 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=4872470751672047690&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (154 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Connected community spaces for remote workers, blending productivity, collaboration, and social belonging.
@@ -16,7 +16,7 @@
 - **Tags:** rural, community
 - **Nearest airports:** Cape Town International Airport (CPT) ~48 km
 - **Website:** https://www.neighbourgood.co
-- **Rating:** 4.5 from 153 Google reviews
+- **Rating:** 4.5 from 154 Google reviews
 
 ## Rates
 

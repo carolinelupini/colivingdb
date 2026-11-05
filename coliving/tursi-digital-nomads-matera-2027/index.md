@@ -1,6 +1,6 @@
 # Tursi Digital Nomads — Matera (2027)
 
-> Coliving in Matera, Italy. Last updated October 15, 2026.
+> Coliving in Matera, Italy. Last updated November 5, 2026.
 
 - **Location:** Matera, Italy
 - **Type:** Pop-up / dated edition

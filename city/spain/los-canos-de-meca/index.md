@@ -1,6 +1,6 @@
 # Coliving in Los Caños de Meca, Spain
 
-> 1 coliving in Los Caños de Meca, Spain – last updated October 15, 2026.
+> 1 coliving in Los Caños de Meca, Spain – last updated November 5, 2026.
 
 ## All colivings
 

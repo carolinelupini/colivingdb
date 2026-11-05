@@ -1,6 +1,6 @@
 # Coliving in Iława, Masuria, Poland
 
-> 1 coliving in Iława, Masuria, Poland – last updated October 15, 2026.
+> 1 coliving in Iława, Masuria, Poland – last updated November 5, 2026.
 
 ## All colivings
 

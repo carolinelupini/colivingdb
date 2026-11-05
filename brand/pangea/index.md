@@ -1,6 +1,6 @@
 # Pangea coworking chapters 2026–2027
 
-> 11 upcoming Pangea coworking chapters in 10 countries, sorted by date. Each chapter is a community pass: accommodation is not included, so you book your own place. Updated October 15, 2026.
+> 11 upcoming Pangea coworking chapters in 10 countries, sorted by date. Each chapter is a community pass: accommodation is not included, so you book your own place. Updated November 5, 2026.
 
 | Coworking chapter | Where | Dates | Price from |
 |---|---|---|---|

@@ -1,11 +1,12 @@
 # Gato Azul Coliving
 
-> Coliving in La Orotava, Tenerife, Spain. Last updated October 15, 2026.
+> Coliving in La Orotava, Tenerife, Spain. Last updated November 5, 2026.
 
 - **Location:** La Orotava, Tenerife, Spain
 - **Type:** Permanent coliving
 - **Price:** from €1,200/mo
 - **Price note:** price not published
+- **Rating:** <a href="https://maps.google.com/?cid=17969448139289328462&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (45 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 500 Mbps down <small>· operator-reported</small><br><small>&#x27;500 Mbit/s high speed internet&#x27; (operator site)</small>
@@ -15,6 +16,7 @@
 - **Tags:** community, coworking, island
 - **Nearest airports:** Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~20 km; Tenerife Sur Airport (TFS) ~39 km; Gran Canaria Airport (LPA) ~122 km
 - **Website:** https://gato-azul.com/
+- **Rating:** 4.4 from 45 Google reviews
 
 ## About
 

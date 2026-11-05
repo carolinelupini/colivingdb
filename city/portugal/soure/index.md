@@ -1,12 +1,12 @@
 # Coliving in Soure, Portugal
 
-> 1 coliving in Soure, Portugal, prices from €510 to €510 per month – last updated October 15, 2026.
+> 1 coliving in Soure, Portugal, prices from €510 to €510 per month – last updated November 5, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Quinta Da Carvalheira | Soure | from €510/mo | 5.0 (20) | — | 1 night | Permanent |
+| Quinta Da Carvalheira | Soure | from €510/mo | 5.0 (21) | — | 1 night | Permanent |
 
 ## Price distribution
 

@@ -1,6 +1,6 @@
 # Main Home
 
-> Coliving in Oracabessa, Jamaica. Last updated October 15, 2026.
+> Coliving in Oracabessa, Jamaica. Last updated November 5, 2026.
 
 - **Location:** Oracabessa, Jamaica
 - **Type:** Permanent coliving

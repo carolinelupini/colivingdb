@@ -1,6 +1,6 @@
 # The Better Neighbours — Sinaia (Summer 2027)
 
-> Coliving in Sinaia, Romania. Last updated October 15, 2026.
+> Coliving in Sinaia, Romania. Last updated November 5, 2026.
 
 - **Location:** Sinaia, Romania
 - **Type:** Pop-up / dated edition

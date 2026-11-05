@@ -1,6 +1,6 @@
 # Coliving in Addis Ababa, Ethiopia
 
-> 2 colivings in Addis Ababa, Ethiopia – last updated October 15, 2026.
+> 2 colivings in Addis Ababa, Ethiopia – last updated November 5, 2026.
 
 ## All colivings
 

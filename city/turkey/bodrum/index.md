@@ -1,6 +1,6 @@
 # Coliving in Bodrum, Turkey
 
-> 1 coliving in Bodrum, Turkey – last updated October 15, 2026.
+> 1 coliving in Bodrum, Turkey – last updated November 5, 2026.
 
 ## All colivings
 

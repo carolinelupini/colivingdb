@@ -1,6 +1,6 @@
 # Coliving in Baleal, Peniche, Portugal
 
-> 1 coliving in Baleal, Peniche, Portugal, prices from €960 to €960 per month – last updated October 15, 2026.
+> 1 coliving in Baleal, Peniche, Portugal, prices from €960 to €960 per month – last updated November 5, 2026.
 
 ## All colivings
 

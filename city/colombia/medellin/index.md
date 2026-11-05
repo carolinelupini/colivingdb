@@ -1,13 +1,13 @@
 # Coliving in Medellín, Colombia
 
-> 2 colivings in Medellín, Colombia, prices from €859 to €1,100 per month – last updated October 15, 2026.
+> 2 colivings in Medellín, Colombia, prices from €859 to €1,100 per month – last updated November 5, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Nomadico Coliving Medellín | Medellín | from $955/mo | 4.8 (69) | private | 7 nights | Permanent |
-| Kiin Living | Medellín | from €1,100/mo | 4.9 (188) | private | 30 nights | Permanent |
+| Nomadico Coliving Medellín | Medellín | from $955/mo | 4.8 (70) | private | 7 nights | Permanent |
+| Kiin Living | Medellín | from €1,100/mo | 4.9 (195) | private | 30 nights | Permanent |
 
 ## Price distribution
 

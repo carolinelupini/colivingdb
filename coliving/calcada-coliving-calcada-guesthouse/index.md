@@ -1,12 +1,12 @@
 # Calcada Coliving (Calçada Guesthouse)
 
-> Coliving in Tavira, Portugal. Last updated October 15, 2026.
+> Coliving in Tavira, Portugal. Last updated November 5, 2026.
 
 - **Location:** Tavira, Portugal
 - **Type:** Permanent coliving
 - **Price:** from €780/mo
 - **Price note:** €780/month or €27/night, private room with ensuite
-- **Rating:** <a href="https://maps.google.com/?cid=18336637670825511114&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (97 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=18336637670825511114&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (100 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Authentic Algarvian co-living for making friends and inspired work
@@ -16,7 +16,7 @@
 - **Tags:** beach, city, coworking, community
 - **Nearest airports:** Faro - Gago Coutinho International Airport (FAO) ~31 km; Lisbon Humberto Delgado Airport (LIS) ~225 km; Portimão Airport (PRM) ~83 km
 - **Website:** https://calcadaguesthouse.com/coliving/en.html
-- **Rating:** 4.9 from 97 Google reviews
+- **Rating:** 4.9 from 100 Google reviews
 
 ## Rates
 

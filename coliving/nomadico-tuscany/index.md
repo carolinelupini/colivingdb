@@ -1,6 +1,6 @@
 # Nomadico Tuscany
 
-> Coliving in Tuscany, Italy. Last updated October 15, 2026.
+> Coliving in Tuscany, Italy. Last updated November 5, 2026.
 
 - **Location:** Tuscany, Italy
 - **Type:** Permanent coliving
@@ -10,6 +10,7 @@
 - **Dorm available:** No
 - **Vibe:** A nature-immersed, community-focused retreat themed "Grounded, Familiar, Nature," with mornings offering hikes, gardening, or farm life and evenings built around communal dinners and shared moments amid a regenerative farming lifestyle.
 - **Minimum stay:** —
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** rural, coworking, community, wellness

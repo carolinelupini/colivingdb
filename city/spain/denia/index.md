@@ -1,6 +1,6 @@
 # Coliving in Dénia, Spain
 
-> 1 coliving in Dénia, Spain – last updated October 15, 2026.
+> 1 coliving in Dénia, Spain – last updated November 5, 2026.
 
 ## All colivings
 

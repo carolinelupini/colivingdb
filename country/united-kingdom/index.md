@@ -1,17 +1,17 @@
 # Coliving in United Kingdom
 
-> 6 colivings in United Kingdom, prices from €470 to €1,885 per month – last updated October 15, 2026.
+> 6 colivings in United Kingdom, prices from €470 to €1,885 per month – last updated November 5, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
 | Somewhere Different | Blackpool | from £400/mo | 4.6 (34) | private | 7 nights | Permanent |
-| Life at Selgars | Uffculme, Devon | from £950/mo | 4.8 (64) | private | 14 nights | Permanent |
+| Life at Selgars | Uffculme, Devon | from £950/mo | 4.8 (65) | private | 14 nights | Permanent |
 | Stay Lagom | Ballycastle, Northern Ireland | from £855/mo (≈€1,000) | 5.0 (59) | private, shared, apartment | — | Permanent |
 | Froomies | Lostwithiel, Cornwall | from £1,100/mo | 5.0 (12) | private | 14 nights | Permanent |
-| SeaSpace | Newquay | from £1,625/mo | 4.6 (111) | private | — | Permanent |
-| Outsite London - Canary Wharf | London | On request | 4.7 (390) | private | 2 nights | Permanent |
+| SeaSpace | Newquay | from £1,625/mo | 4.7 (117) | private | — | Permanent |
+| Outsite London - Canary Wharf | London | On request | 4.7 (396) | private | 2 nights | Permanent |
 
 ## Price distribution
 

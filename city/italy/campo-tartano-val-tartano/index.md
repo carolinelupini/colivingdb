@@ -1,6 +1,6 @@
 # Coliving in Campo Tartano (Val Tartano), Italy
 
-> 1 coliving in Campo Tartano (Val Tartano), Italy – last updated October 15, 2026.
+> 1 coliving in Campo Tartano (Val Tartano), Italy – last updated November 5, 2026.
 
 ## All colivings
 

@@ -1,24 +1,23 @@
 # Amplitude Coliving
 
-> Coliving in Puerto Escondido (La Punta), Mexico. Last updated October 15, 2026.
+> Coliving in Puerto Escondido (La Punta), Mexico. Last updated November 5, 2026.
 
 - **Location:** Puerto Escondido (La Punta), Mexico
 - **Type:** Permanent coliving
 - **Price:** from $1,300/mo
 - **Price note:** from $1,300/month May–October, rising to $1,800/month November–April.
-- **Rating:** <a href="https://maps.google.com/?cid=6360831088542217689&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (92 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=6360831088542217689&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (100 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 350 Mbps down <small>· operator-reported</small>
 - **Vibe:** Lively, friendly atmosphere for remote workers who love travel
 - **Minimum stay:** 1 night
-- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Latin America
 - **Timezone:** GMT-6 <small>· US East: full workday overlap · Central Europe: async only</small>
 - **Tags:** beach, surf, coworking, community, wellness
 - **Nearest airports:** Puerto Escondido International Airport (PXM) ~5 km; Xoxocotlán International Airport (OAX) ~132 km; Bahías de Huatulco International Airport (HUX) ~85 km
 - **Website:** https://www.amplitude-coliving.com/
-- **Rating:** 5.0 from 92 Google reviews
+- **Rating:** 5.0 from 100 Google reviews
 
 ## Rates
 

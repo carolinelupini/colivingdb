@@ -1,12 +1,12 @@
 # THE-IF
 
-> Coliving in Kyoto, Japan. Last updated October 15, 2026.
+> Coliving in Kyoto, Japan. Last updated November 5, 2026.
 
 - **Location:** Kyoto, Japan
 - **Type:** Permanent coliving
 - **Price:** from €32/night
 - **Price note:** from €32/night (North Room or Tatami Room) · South Room from €35/night; stays run on a fixed-term residential lease of one month or more, with electricity, gas, water and fibre included in the rent
-- **Rating:** <a href="https://maps.google.com/?cid=5281231914314727788&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (6 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=5281231914314727788&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (7 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 200 Mbps down <small>· operator-reported</small><br><small>200 Mbps listed, on a 10-gigabit fibre line</small>
@@ -18,7 +18,7 @@
 - **Tags:** city, coworking, community
 - **Nearest airports:** Osaka Itami International Airport (ITM) ~38 km; Kansai International Airport (KIX) ~79 km; Kobe Airport (UKB) ~64 km
 - **Website:** https://www.mapmelon.com/colivings/the-if?ref=colivingdb
-- **Rating:** 5.0 from 6 Google reviews
+- **Rating:** 5.0 from 7 Google reviews
 
 ## Rates
 

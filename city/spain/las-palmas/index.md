@@ -1,6 +1,6 @@
 # Coliving in Las Palmas, Spain
 
-> 1 coliving in Las Palmas, Spain – last updated October 15, 2026.
+> 1 coliving in Las Palmas, Spain – last updated November 5, 2026.
 
 ## All colivings
 

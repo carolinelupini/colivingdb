@@ -1,6 +1,6 @@
 # Pangea — Quito
 
-> Coworking chapter in Quito, Ecuador. Last updated October 15, 2026.
+> Coworking chapter in Quito, Ecuador. Last updated November 5, 2026.
 
 - **Location:** Quito, Ecuador
 - **Type:** Pop-up coworking chapter — accommodation not included

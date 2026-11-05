@@ -1,12 +1,12 @@
 # Coliving in Nice, France
 
-> 1 coliving in Nice, France, prices from €900 to €900 per month – last updated October 15, 2026.
+> 1 coliving in Nice, France, prices from €900 to €900 per month – last updated November 5, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| NomadUnion Coliving Nice | Nice | from €900/mo | 4.9 (17) | private, shared | 30 nights | Permanent |
+| NomadUnion Coliving Nice | Nice | from €900/mo | 4.9 (18) | private, shared | 30 nights | Permanent |
 
 ## Price distribution
 

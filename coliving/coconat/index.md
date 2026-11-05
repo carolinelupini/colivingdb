@@ -1,12 +1,12 @@
 # Coconat
 
-> Coliving in Bad Belzig, Germany. Last updated October 15, 2026.
+> Coliving in Bad Belzig, Germany. Last updated November 5, 2026.
 
 - **Location:** Bad Belzig, Germany
 - **Type:** Permanent coliving
 - **Price:** from €750/mo
 - **Price note:** from ~€27/night, est.; options from camping to premium rooms
-- **Rating:** <a href="https://maps.google.com/?cid=13077599908727856298&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (205 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=13077599908727856298&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (208 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** Yes
 - **Vibe:** concentrated work and community in nature
@@ -21,7 +21,7 @@
 - **Nearest airports:** Berlin Brandenburg Airport (BER) ~67 km; Leipzig/Halle Airport (LEJ) ~84 km; Dresden Airport (DRS) ~138 km
 - **Getting there:** Berlin Brandenburg (BER), roughly 1–1.5h drive — approximate, not stated on site.
 - **Website:** https://coconat-space.com/
-- **Rating:** 4.4 from 205 Google reviews
+- **Rating:** 4.4 from 208 Google reviews
 
 ## Rates
 

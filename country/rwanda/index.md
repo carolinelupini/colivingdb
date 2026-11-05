@@ -1,6 +1,6 @@
 # Coliving in Rwanda
 
-> 1 coliving in Rwanda – last updated October 15, 2026.
+> 1 coliving in Rwanda – last updated November 5, 2026.
 
 ## All colivings
 

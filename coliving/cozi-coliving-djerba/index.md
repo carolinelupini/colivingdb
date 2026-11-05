@@ -1,12 +1,12 @@
 # CoZi Coliving Djerba
 
-> Coliving in Djerba (Mezraia), Tunisia. Last updated October 15, 2026.
+> Coliving in Djerba (Mezraia), Tunisia. Last updated November 5, 2026.
 
 - **Location:** Djerba (Mezraia), Tunisia
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** monthly rates on request; dorms and private apartments
-- **Rating:** <a href="https://maps.google.com/?cid=2049777534157839715&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (44 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=2049777534157839715&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (46 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Vibe:** Community-driven coworking and coliving hub for creatives and nomads
@@ -16,7 +16,7 @@
 - **Tags:** island, beach, coworking, community, startup
 - **Nearest airports:** Djerba Zarzis International Airport (DJE) ~20 km; Gabès Matmata International Airport (GAE) ~100 km; Sfax Thyna International Airport (SFA) ~102 km
 - **Website:** https://coziways.com/
-- **Rating:** 4.7 from 44 Google reviews
+- **Rating:** 4.7 from 46 Google reviews
 
 ## About
 

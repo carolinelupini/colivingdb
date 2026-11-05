@@ -1,11 +1,11 @@
 # Coliving in Aguadilla, Puerto Rico
 
-> 1 coliving in Aguadilla, Puerto Rico – last updated October 15, 2026.
+> 1 coliving in Aguadilla, Puerto Rico – last updated November 5, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Outsite Aguadilla | Aguadilla | On request | 4.2 (21) | private, shared | 2 nights | Permanent |
+| Outsite Aguadilla | Aguadilla | On request | 4.2 (22) | private, shared | 2 nights | Permanent |
 
 Source: https://colivingdb.com/city/puerto-rico/aguadilla/

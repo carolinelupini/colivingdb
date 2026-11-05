@@ -1,6 +1,6 @@
 # Coliving in Madeira, Portugal
 
-> 1 nomad festival in Madeira, Portugal – last updated October 15, 2026.
+> 1 nomad festival in Madeira, Portugal – last updated November 5, 2026.
 
 ## All colivings
 

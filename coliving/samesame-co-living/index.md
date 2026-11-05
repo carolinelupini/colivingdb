@@ -1,11 +1,11 @@
 # samesame co-living
 
-> Coliving in Lisbon, Portugal. Last updated October 15, 2026.
+> Coliving in Lisbon, Portugal. Last updated November 5, 2026.
 
 - **Location:** Lisbon, Portugal
 - **Type:** Permanent coliving
 - **Price:** from €800/mo
-- **Rating:** <a href="https://maps.google.com/?cid=10329582679647779767&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (89 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=10329582679647779767&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (90 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Slow mornings, focused work, dinner turns into conversation
@@ -16,7 +16,7 @@
 - **Tags:** community, coworking, city
 - **Nearest airports:** Lisbon Humberto Delgado Airport (LIS) ~8 km; Cascais Airport (CAT) ~19 km
 - **Website:** https://www.mapmelon.com/colivings/samesame-living?ref=colivingdb
-- **Rating:** 4.8 from 89 Google reviews
+- **Rating:** 4.8 from 90 Google reviews
 
 ## Rates
 

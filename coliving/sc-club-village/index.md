@@ -1,12 +1,12 @@
 # SC Club Village
 
-> Coliving in St Julian's, Malta. Last updated October 15, 2026.
+> Coliving in St Julian's, Malta. Last updated November 5, 2026.
 
 - **Location:** St Julian's, Malta
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** not listed on site
-- **Rating:** <a href="https://maps.google.com/?cid=6105690879560237901&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 3.2 (90 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=6105690879560237901&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 3.2 (91 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** A blend of privacy and community, a hub of creativity
@@ -16,7 +16,7 @@
 - **Tags:** city, coworking, community
 - **Nearest airports:** Malta International Airport (MLA) ~8 km; Comiso Airport (CIY) ~120 km
 - **Website:** https://www.sc-club-village.com/coliving/
-- **Rating:** 3.2 from 90 Google reviews
+- **Rating:** 3.2 from 91 Google reviews
 
 ## About
 

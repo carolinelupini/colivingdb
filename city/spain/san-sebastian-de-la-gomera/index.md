@@ -1,12 +1,12 @@
 # Coliving in San Sebastián de La Gomera, Spain
 
-> 1 coliving in San Sebastián de La Gomera, Spain, prices from €686 to €686 per month – last updated October 15, 2026.
+> 1 coliving in San Sebastián de La Gomera, Spain, prices from €686 to €686 per month – last updated November 5, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Cactus Coliving La Gomera | San Sebastián de La Gomera | from €690/mo | 4.8 (62) | private, shared | 13 nights | Permanent |
+| Cactus Coliving La Gomera | San Sebastián de La Gomera | from €690/mo | 4.8 (65) | private, shared | 13 nights | Permanent |
 
 ## Price distribution
 

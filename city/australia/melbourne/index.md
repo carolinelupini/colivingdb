@@ -1,14 +1,14 @@
 # Coliving in Melbourne, Australia
 
-> 3 colivings in Melbourne, Australia, prices from €1,987 to €1,987 per month – last updated October 15, 2026.
+> 3 colivings in Melbourne, Australia, prices from €1,987 to €1,987 per month – last updated November 5, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
 | WiFi Tribe — Melbourne | Melbourne | from $2,290/mo | — | private, shared | 28 nights | Pop-up |
-| Together Co-Living | Melbourne | from A$640/wk | 3.2 (253) | private, shared | 7 nights | Permanent |
-| UKO Melbourne Central | Melbourne | On request | 4.8 (53) | private | — | Permanent |
+| Together Co-Living | Melbourne | from A$640/wk | 3.3 (256) | private, shared | 7 nights | Permanent |
+| UKO Melbourne Central | Melbourne | On request | 4.9 (52) | private | — | Permanent |
 
 ## Price distribution
 

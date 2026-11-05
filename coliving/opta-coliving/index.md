@@ -1,12 +1,12 @@
 # Opta Coliving
 
-> Coliving in Montevideo, Uruguay. Last updated October 15, 2026.
+> Coliving in Montevideo, Uruguay. Last updated November 5, 2026.
 
 - **Location:** Montevideo, Uruguay
 - **Type:** Permanent coliving
 - **Price:** from $2,400/mo
 - **Price note:** not published; furnished apartments, no contracts
-- **Rating:** <a href="https://maps.google.com/?cid=12310068605194050873&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (2287 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=12310068605194050873&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (2299 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** wellness-focused, community-driven urban living
@@ -19,7 +19,7 @@
 - **Nearest airports:** Carrasco General Cesáreo L. Berisso International Airport (MVD) ~15 km; Capitan Corbeta CA Curbelo International Airport (PDP) ~97 km
 - **Getting there:** Carrasco International (MVD), roughly 20–25 min drive — approximate, not stated on site.
 - **Website:** https://www.opta.com.uy
-- **Rating:** 4.3 from 2287 Google reviews
+- **Rating:** 4.3 from 2299 Google reviews
 
 ## Rates
 

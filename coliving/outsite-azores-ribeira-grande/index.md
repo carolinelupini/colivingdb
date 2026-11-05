@@ -1,6 +1,6 @@
 # Outsite Azores - Ribeira Grande
 
-> Coliving in Ribeira Grande, São Miguel, Azores, Portugal. Last updated October 15, 2026.
+> Coliving in Ribeira Grande, São Miguel, Azores, Portugal. Last updated November 5, 2026.
 
 - **Location:** Ribeira Grande, São Miguel, Azores, Portugal
 - **Type:** Permanent coliving

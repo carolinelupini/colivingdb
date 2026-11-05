@@ -1,12 +1,12 @@
 # The Pier | Goto Nagasaki
 
-> Coliving in Goto (Fukue), Nagasaki, Japan. Last updated October 15, 2026.
+> Coliving in Goto (Fukue), Nagasaki, Japan. Last updated November 5, 2026.
 
 - **Location:** Goto (Fukue), Nagasaki, Japan
 - **Type:** Permanent coliving
 - **Price:** from $520/mo
 - **Price note:** US$520/month plus Japan's 10% consumption tax; 15% off 2+ months, 20% off 3+, 30% off 6+; +US$80/month July–September; US$200 refundable deposit; a second guest adds 50%
-- **Rating:** <a href="https://maps.google.com/?cid=1422926492116238797&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (12 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=1422926492116238797&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (13 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights
@@ -15,7 +15,7 @@
 - **Tags:** island, coworking, community, rural
 - **Nearest airports:** Fukue Airport (FUJ) ~4 km; Nagasaki Airport (NGS) ~103 km; Amakusa Airport (AXJ) ~126 km
 - **Website:** https://yugyo.work/en/thepiercoliving
-- **Rating:** 5.0 from 12 Google reviews
+- **Rating:** 5.0 from 13 Google reviews
 
 ## Rates
 

@@ -1,12 +1,12 @@
 # Coliving in Njivice, Herceg Novi (near Kotor), Montenegro
 
-> 1 coliving in Njivice, Herceg Novi (near Kotor), Montenegro, prices from €360 to €360 per month – last updated October 15, 2026.
+> 1 coliving in Njivice, Herceg Novi (near Kotor), Montenegro, prices from €360 to €360 per month – last updated November 5, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Njivice Home | Njivice, Herceg Novi (near Kotor) | from $412/mo | 4.8 (32) | private, shared | 30 nights | Permanent |
+| Njivice Home | Njivice, Herceg Novi (near Kotor) | from $412/mo | 4.8 (33) | private, shared | 30 nights | Permanent |
 
 ## Price distribution
 

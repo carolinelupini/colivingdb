@@ -1,6 +1,6 @@
 # Coliving in Ribeira Grande, São Miguel, Azores, Portugal
 
-> 1 coliving in Ribeira Grande, São Miguel, Azores, Portugal – last updated October 15, 2026.
+> 1 coliving in Ribeira Grande, São Miguel, Azores, Portugal – last updated November 5, 2026.
 
 ## All colivings
 

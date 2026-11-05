@@ -1,6 +1,6 @@
 # Coliving in Malaysia
 
-> 5 colivings in Malaysia, prices from €172 to €335 per month – last updated October 15, 2026.
+> 5 colivings in Malaysia, prices from €172 to €335 per month – last updated November 5, 2026.
 
 ## All colivings
 
@@ -10,7 +10,7 @@
 | The Hatchery Place | Subang Jaya (Kuala Lumpur area) | from €240/mo | 4.8 (25) | private | 8 nights | Permanent |
 | Fraser Home | Kuala Lumpur | from $368/mo | — | private | 30 nights | Permanent |
 | The Seckchuan Collective | George Town | from $319/mo | — | private | 30 nights | Permanent |
-| Nomad Shophouse | Kuala Lumpur | On request | 5.0 (43) | private, apartment | 7 nights | Permanent |
+| Nomad Shophouse | Kuala Lumpur | On request | 5.0 (44) | private, apartment | 7 nights | Permanent |
 
 ## Price distribution
 

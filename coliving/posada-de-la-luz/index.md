@@ -1,12 +1,12 @@
 # POSADA DE LA LUZ
 
-> Coliving in Torralba de Ribota, Spain. Last updated October 15, 2026.
+> Coliving in Torralba de Ribota, Spain. Last updated November 5, 2026.
 
 - **Location:** Torralba de Ribota, Spain
 - **Type:** Permanent coliving
 - **Price:** from €22/event
 - **Price note:** from €22/night for one person (rooms €22–40 by type), the second person pays 50%; 15-night minimum; 10% off stays over 30 days.
-- **Rating:** <a href="https://maps.google.com/?cid=12726164606418883101&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (21 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=12726164606418883101&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (23 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 300 Mbps down <small>· operator-reported</small><br><small>300 Mbps published</small>
@@ -17,7 +17,7 @@
 - **Tags:** rural, mountain, coworking, community
 - **Nearest airports:** Zaragoza Airport (ZAZ) ~64 km; Adolfo Suárez Madrid–Barajas Airport (MAD) ~185 km
 - **Website:** https://www.posadadelaluz.com/
-- **Rating:** 5.0 from 21 Google reviews
+- **Rating:** 5.0 from 23 Google reviews
 
 ## Rates
 

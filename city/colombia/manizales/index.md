@@ -1,12 +1,12 @@
 # Coliving in Manizales, Colombia
 
-> 1 coliving in Manizales, Colombia, prices from €580 to €580 per month – last updated October 15, 2026.
+> 1 coliving in Manizales, Colombia, prices from €580 to €580 per month – last updated November 5, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Nomadico Manizales | Manizales | from $690/mo | 5.0 (2) | private, shared | 7 nights | Permanent |
+| Nomadico Manizales | Manizales | from $690/mo | 4.7 (3) | private, shared | 7 nights | Permanent |
 
 ## Price distribution
 

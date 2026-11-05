@@ -1,6 +1,6 @@
 # Coliving in Volterra (Tuscany), Italy
 
-> 1 nomad festival in Volterra (Tuscany), Italy – last updated October 15, 2026.
+> 1 nomad festival in Volterra (Tuscany), Italy – last updated November 5, 2026.
 
 ## All colivings
 

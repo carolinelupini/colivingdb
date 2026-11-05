@@ -1,6 +1,6 @@
 # Coliving in Vina del Mar, Chile
 
-> 1 coliving in Vina del Mar, Chile – last updated October 15, 2026.
+> 1 coliving in Vina del Mar, Chile – last updated November 5, 2026.
 
 ## All colivings
 

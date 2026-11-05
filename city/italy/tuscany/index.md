@@ -1,6 +1,6 @@
 # Coliving in Tuscany, Italy
 
-> 1 coliving in Tuscany, Italy, prices from €627 to €627 per month – last updated October 15, 2026.
+> 1 coliving in Tuscany, Italy, prices from €627 to €627 per month – last updated November 5, 2026.
 
 ## All colivings
 

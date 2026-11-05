@@ -1,11 +1,11 @@
 # Nomad's House
 
-> Coliving in Brussels, Belgium. Last updated October 15, 2026.
+> Coliving in Brussels, Belgium. Last updated November 5, 2026.
 
 - **Location:** Brussels, Belgium
 - **Type:** Permanent coliving
 - **Price:** from €690/mo
-- **Rating:** <a href="https://maps.google.com/?cid=1617591822011464854&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (72 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=1617591822011464854&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (73 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Tight-knit community house with quality finish and monthly activities
@@ -15,7 +15,7 @@
 - **Tags:** community, city
 - **Nearest airports:** Brussels Airport (BRU) ~11 km; Antwerp International Airport (Deurne) (ANR) ~41 km; Brussels South Charleroi Airport (CRL) ~41 km
 - **Website:** http://nomadshouse.be/
-- **Rating:** 5.0 from 72 Google reviews
+- **Rating:** 5.0 from 73 Google reviews
 
 ## Rates
 

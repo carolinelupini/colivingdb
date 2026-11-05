@@ -1,12 +1,12 @@
 # Coliving in New Zealand
 
-> 2 colivings and 1 community chapter in New Zealand, prices from €763 to €815 per month – last updated October 15, 2026.
+> 2 colivings and 1 community chapter in New Zealand, prices from €763 to €815 per month – last updated November 5, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| The Coh | Auckland | from NZ$1,516/mo | 4.8 (104) | private, shared | 3 months | Permanent |
+| The Coh | Auckland | from NZ$1,516/mo | 4.8 (105) | private, shared | 3 months | Permanent |
 | The Arawa (Arawa Collective) | Rotorua | from $1,037/mo | 4.4 (13) | private | 30 nights | Permanent |
 | Pangea — New Zealand | New Zealand (hub city not yet announced) | from $299/ticket | — | — | — | Pop-up |
 

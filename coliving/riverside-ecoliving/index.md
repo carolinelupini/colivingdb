@@ -1,12 +1,12 @@
 # Riverside ecoliving
 
-> Coliving in Jericó, Colombia. Last updated October 15, 2026.
+> Coliving in Jericó, Colombia. Last updated November 5, 2026.
 
 - **Location:** Jericó, Colombia
 - **Type:** Permanent coliving
 - **Price:** from $284/wk
 - **Price note:** packages exist but prices not shown
-- **Rating:** <a href="https://maps.google.com/?cid=7759247963985367314&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (100 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=7759247963985367314&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (99 reviews)</a> <small>· Google</small>
 - **Room types:** —
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 100 Mbps down <small>· operator-reported</small>
@@ -18,7 +18,7 @@
 - **Tags:** rural, eco, coworking, community, wellness
 - **Nearest airports:** Enrique Olaya Herrera Airport (EOH) ~53 km; El Dorado International Airport (BOG) ~219 km; Jose Maria Córdova International Airport (MDE) ~58 km
 - **Website:** https://riversideecoliving.com/
-- **Rating:** 4.8 from 100 Google reviews
+- **Rating:** 4.8 from 99 Google reviews
 
 ## Rates
 

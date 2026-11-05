@@ -1,6 +1,6 @@
 # Island colivings
 
-> 81 colivings on islands in 14 countries. Updated October 15, 2026.
+> 81 colivings on islands in 14 countries. Updated November 5, 2026.
 
 | Coliving | City | Country | Price from | Min stay | Type |
 |---|---|---|---|---|---|

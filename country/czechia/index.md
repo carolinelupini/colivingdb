@@ -1,6 +1,6 @@
 # Coliving in Czechia
 
-> 1 coliving in Czechia – last updated October 15, 2026.
+> 1 coliving in Czechia – last updated November 5, 2026.
 
 ## All colivings
 

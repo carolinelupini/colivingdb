@@ -1,14 +1,14 @@
 # Coliving in Funchal, Madeira, Portugal
 
-> 3 colivings in Funchal, Madeira, Portugal, prices from €1,200 to €1,200 per month – last updated October 15, 2026.
+> 3 colivings in Funchal, Madeira, Portugal, prices from €1,200 to €1,200 per month – last updated November 5, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Casa do Pico | Funchal, Madeira | from €1,050/mo | 5.0 (43) | private, shared | 7 nights | Permanent |
+| Casa do Pico | Funchal, Madeira | from €1,050/mo | 5.0 (47) | private, shared | 7 nights | Permanent |
 | The Luzia House Funchal | Funchal, Madeira | On request | 5.0 (46) | private | — | Permanent |
-| BOND Coliving | Funchal, Madeira | On request | 5.0 (12) | private | 30 nights | Permanent |
+| BOND Coliving | Funchal, Madeira | On request | 5.0 (11) | private | 30 nights | Permanent |
 
 ## Price distribution
 

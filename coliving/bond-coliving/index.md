@@ -1,11 +1,11 @@
 # BOND Coliving
 
-> Coliving in Funchal, Madeira, Portugal. Last updated October 15, 2026.
+> Coliving in Funchal, Madeira, Portugal. Last updated November 5, 2026.
 
 - **Location:** Funchal, Madeira, Portugal
 - **Type:** Permanent coliving
 - **Price:** On request
-- **Rating:** <a href="https://maps.google.com/?cid=16314797396059697213&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (12 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=16314797396059697213&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (11 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** 30 nights
@@ -14,7 +14,7 @@
 - **Tags:** island, city, coworking, community
 - **Nearest airports:** Cristiano Ronaldo International Airport (FNC) ~14 km; Porto Santo Airport (PXO) ~70 km
 - **Website:** https://stayatbond.com/
-- **Rating:** 5.0 from 12 Google reviews
+- **Rating:** 5.0 from 11 Google reviews
 
 ## About
 

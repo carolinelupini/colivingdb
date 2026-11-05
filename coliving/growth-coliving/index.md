@@ -1,12 +1,12 @@
 # Growth Coliving
 
-> Coliving in Pousa, Galicia, Spain. Last updated October 15, 2026.
+> Coliving in Pousa, Galicia, Spain. Last updated November 5, 2026.
 
 - **Location:** Pousa, Galicia, Spain
 - **Type:** Permanent coliving
 - **Price:** from €475/mo
 - **Price note:** from €22/night (€660/mo discounted)
-- **Rating:** <a href="https://maps.google.com/?cid=1063859665357698614&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (35 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=1063859665357698614&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (36 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 300 Mbps down <small>· operator-reported</small>
@@ -17,7 +17,7 @@
 - **Tags:** rural, community, coworking, wellness
 - **Nearest airports:** Vigo Airport (VGO) ~15 km; Santiago-Rosalía de Castro Airport (SCQ) ~63 km; A Coruña Airport (LCG) ~109 km
 - **Website:** https://growthcoliving.com/en/
-- **Rating:** 4.8 from 35 Google reviews
+- **Rating:** 4.8 from 36 Google reviews
 
 ## Rates
 

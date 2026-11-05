@@ -1,6 +1,6 @@
 # Nomadico
 
-> Coliving in Multiple. Last updated October 15, 2026.
+> Coliving in Multiple. Last updated November 5, 2026.
 
 - **Location:** Multiple
 - **Type:** Permanent coliving
@@ -10,6 +10,7 @@
 - **Dorm available:** No
 - **Vibe:** 'Live Globally, Connect Locally' — 'Community is our secret sauce... connect everyone via events and adventures.'
 - **Minimum stay:** —
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Europe
 - **Timezone:** GMT+1 winter / GMT+2 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** community, coworking, surf, mountain

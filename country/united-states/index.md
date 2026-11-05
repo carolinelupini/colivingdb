@@ -1,6 +1,6 @@
 # Coliving in United States
 
-> 21 colivings and 1 nomad festival in United States, prices from €553 to €6,892 per month – last updated October 15, 2026.
+> 21 colivings and 1 nomad festival in United States, prices from €553 to €6,892 per month – last updated November 5, 2026.
 
 ## All colivings
 
@@ -12,8 +12,8 @@
 | Outsite San Diego - Encinitas Ponto | Encinitas | from $2,209/mo | — | private, shared | — | Permanent |
 | Outsite San Francisco - Mission | San Francisco | from €2,200/mo | 4.0 (48) | private | 7 nights | Permanent |
 | Outsite San Francisco - Pacific Heights | San Francisco | from $114/night | 4.9 (55) | private | — | Permanent |
-| Outsite New York - Chelsea | New York | from $3,900/mo | 4.3 (91) | private | 2 nights | Permanent |
-| Outsite New York - Manhattan Midtown | New York | from $4,560/mo | 4.3 (91) | private | — | Permanent |
+| Outsite New York - Chelsea | New York | from $3,900/mo | 4.3 (92) | private | 2 nights | Permanent |
+| Outsite New York - Manhattan Midtown | New York | from $4,560/mo | 4.3 (92) | private | — | Permanent |
 | Outsite San Diego - Golden Hill | San Diego | from $4,634/mo | 3.7 (11) | private | — | Permanent |
 | Neighbourgood Sutter | San Francisco | from $7,860/mo | — | private | — | Permanent |
 | Draper Startup House New York | New York | On request | 5.0 (3) | private, shared | — | Permanent |

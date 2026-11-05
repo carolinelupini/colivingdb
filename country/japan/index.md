@@ -1,21 +1,21 @@
 # Coliving in Japan
 
-> 10 colivings, 1 nomad festival and 1 community chapter in Japan, prices from €378 to €2,600 per month – last updated October 15, 2026.
+> 10 colivings, 1 nomad festival and 1 community chapter in Japan, prices from €378 to €2,600 per month – last updated November 5, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
 | The Kotohira (Kotohira Residence) | Kotohira | from $431/mo | — | private, shared, dorm | 30 nights | Permanent |
-| The Pier | Goto Nagasaki | Goto (Fukue), Nagasaki | from $520/mo | 5.0 (12) | private | 30 nights | Permanent |
-| The Miyanosawa (Miyanosawa Home) | Sapporo | from $573/mo | — | private | 30 nights | Permanent |
+| The Pier | Goto Nagasaki | Goto (Fukue), Nagasaki | from $520/mo | 5.0 (13) | private | 30 nights | Permanent |
+| The Miyanosawa (Miyanosawa Home) | Sapporo | from $573/mo | 5.0 (1) | private | 30 nights | Permanent |
 | Tokyo Chapter | Tokyo | from ¥100,000/mo | 4.4 (25) | private | 30 nights | Permanent |
 | Boundless Life Kamakura | Kamakura | from €2,600/mo | — | private | — | Permanent |
-| COGO TENNOJI | Osaka | On request | 4.6 (593) | private, shared | — | Permanent |
-| Kotori Coworking & Hostel Kotohira | Kotohira | On request | 4.9 (109) | private, dorm | 5 nights | Permanent |
+| COGO TENNOJI | Osaka | On request | 4.6 (599) | private, shared | — | Permanent |
+| Kotori Coworking & Hostel Kotohira | Kotohira | On request | 4.9 (111) | private, dorm | 5 nights | Permanent |
 | Noma Collective — Osaka | Osaka | from $3,490/event | — | — | — | Pop-up |
 | Hiroshima Setouchi Nomad Fest 2026 | Hiroshima | from $420/ticket | — | — | — | Festival |
-| THE-IF | Kyoto | from €32/night | 5.0 (6) | private | 31 nights | Permanent |
+| THE-IF | Kyoto | from €32/night | 5.0 (7) | private | 31 nights | Permanent |
 | Taikoukyo Coliving | Kyoto | On request | — | private, apartment | 30 nights | Permanent |
 | TADAIMA 2026 — Shimoda | Shimoda | from $299/ticket | — | — | — | Pop-up |
 

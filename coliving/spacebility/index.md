@@ -1,12 +1,12 @@
 # Spacebility
 
-> Coliving in Cagliari (Sardinia), Italy. Last updated October 15, 2026.
+> Coliving in Cagliari (Sardinia), Italy. Last updated November 5, 2026.
 
 - **Location:** Cagliari (Sardinia), Italy
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** not published; book via book.krossbooking.com/spacebility
-- **Rating:** <a href="https://maps.google.com/?cid=2585441246896001472&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (643 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=2585441246896001472&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (646 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** community-driven creative living for digital nomads
@@ -18,7 +18,7 @@
 - **Nearest airports:** Cagliari Elmas Airport (CAG) ~7 km
 - **Getting there:** Cagliari Elmas (CAG) — approximate, not stated on site.
 - **Website:** https://spacebility.com/
-- **Rating:** 4.9 from 643 Google reviews
+- **Rating:** 4.9 from 646 Google reviews
 
 ## About
 

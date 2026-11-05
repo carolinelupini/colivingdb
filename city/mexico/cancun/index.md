@@ -1,12 +1,12 @@
 # Coliving in Cancún, Mexico
 
-> 1 coliving in Cancún, Mexico, prices from €763 to €763 per month – last updated October 15, 2026.
+> 1 coliving in Cancún, Mexico, prices from €763 to €763 per month – last updated November 5, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Humant Coliving - Cancún, México | Cancún | from MXN 15,250/mo | 4.9 (187) | private, shared | 30 nights | Permanent |
+| Humant Coliving - Cancún, México | Cancún | from MXN 15,250/mo | 4.9 (188) | private, shared | 30 nights | Permanent |
 
 ## Price distribution
 

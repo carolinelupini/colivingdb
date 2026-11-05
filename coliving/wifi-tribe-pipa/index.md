@@ -1,6 +1,6 @@
 # WiFi Tribe — Pipa
 
-> Coliving in Pipa, Brazil. Last updated October 15, 2026.
+> Coliving in Pipa, Brazil. Last updated November 5, 2026.
 
 - **Location:** Pipa, Brazil
 - **Type:** Pop-up / dated edition

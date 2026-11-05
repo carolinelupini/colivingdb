@@ -1,12 +1,12 @@
 # Coliving in Culla, Castellón, Spain
 
-> 1 coliving in Culla, Castellón, Spain, prices from €600 to €600 per month – last updated October 15, 2026.
+> 1 coliving in Culla, Castellón, Spain, prices from €600 to €600 per month – last updated November 5, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Ruralco Coliving | Culla, Castellón | from €550/mo | 4.9 (73) | private, shared | — | Permanent |
+| Ruralco Coliving | Culla, Castellón | from €550/mo | 4.9 (74) | private, shared | — | Permanent |
 
 ## Price distribution
 

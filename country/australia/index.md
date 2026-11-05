@@ -1,6 +1,6 @@
 # Coliving in Australia
 
-> 9 colivings in Australia, prices from €473 to €2,126 per month – last updated October 15, 2026.
+> 9 colivings in Australia, prices from €473 to €2,126 per month – last updated November 5, 2026.
 
 ## All colivings
 
@@ -11,10 +11,10 @@
 | Treehouse Toowong | Brisbane | from A$1,333/mo | 4.4 (25) | private | — | Permanent |
 | WiFi Tribe — Melbourne | Melbourne | from $2,290/mo | — | private, shared | 28 nights | Pop-up |
 | The Switch | Sydney | from A$3,503/mo | 4.8 (80) | private, shared | — | Permanent |
-| Life in Byron | Byron Bay | from A$200/wk | 4.5 (107) | private, shared, dorm | — | Permanent |
-| Together Co-Living | Melbourne | from A$640/wk | 3.2 (253) | private, shared | 7 nights | Permanent |
+| Life in Byron | Byron Bay | from A$200/wk | 4.6 (118) | private, shared, dorm | — | Permanent |
+| Together Co-Living | Melbourne | from A$640/wk | 3.3 (256) | private, shared | 7 nights | Permanent |
 | UKO | Sydney | On request | 4.8 (22) | private | — | Permanent |
-| UKO Melbourne Central | Melbourne | On request | 4.8 (53) | private | — | Permanent |
+| UKO Melbourne Central | Melbourne | On request | 4.9 (52) | private | — | Permanent |
 
 ## Price distribution
 

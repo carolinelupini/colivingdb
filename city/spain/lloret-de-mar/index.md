@@ -1,6 +1,6 @@
 # Coliving in Lloret de Mar, Spain
 
-> 2 colivings in Lloret de Mar, Spain, prices from €865 to €865 per month – last updated October 15, 2026.
+> 2 colivings in Lloret de Mar, Spain, prices from €865 to €865 per month – last updated November 5, 2026.
 
 ## All colivings
 

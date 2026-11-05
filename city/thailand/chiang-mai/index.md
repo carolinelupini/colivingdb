@@ -1,22 +1,22 @@
 # Coliving in Chiang Mai, Thailand
 
-> 11 colivings and 1 nomad festival in Chiang Mai, Thailand, prices from €249 to €811 per month – last updated October 15, 2026.
+> 11 colivings and 1 nomad festival in Chiang Mai, Thailand, prices from €249 to €811 per month – last updated November 5, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Hub53 Coworking & Coliving | Chiang Mai | from THB 9,500/mo | 4.6 (199) | private | — | Permanent |
+| Hub53 Coworking & Coliving | Chiang Mai | from THB 9,500/mo | 4.6 (204) | private | — | Permanent |
 | Taeparak Home | Chiang Mai | from $324/mo | — | private, dorm | 30 nights | Permanent |
 | Socialer Coliving & Coworking Space | Chiang Mai | from €390/mo | 4.6 (69) | dorm | 1 night | Permanent |
-| THE SOCIAL CLUB | Chiang Mai | from $800/mo | 4.9 (206) | private | — | Permanent |
+| THE SOCIAL CLUB | Chiang Mai | from $800/mo | 4.9 (207) | private | — | Permanent |
 | The Chiang Mai-Lamphun | Chiang Mai | from $842/mo | — | private | 30 nights | Permanent |
 | The Arak | Chiang Mai | from $929/mo | 4.3 (87) | private | 30 nights | Permanent |
-| 4Seas Nimman Coliving Coworking Space | Chiang Mai | On request | 4.9 (165) | private | — | Permanent |
+| 4Seas Nimman Coliving Coworking Space | Chiang Mai | On request | 4.9 (170) | private | — | Permanent |
 | Alt Coliving | Chiang Mai | from THB 1,445/night | 4.9 (249) | private | 6 nights | Permanent |
 | Alt_PingRiver | Chiang Mai | from THB 1,637/night | 4.8 (113) | private | 6 nights | Permanent |
 | Chiangmai Inn Guesthouse | Chiang Mai | On request | 4.3 (107) | private | — | Permanent |
-| Villa Pattranid | Chiang Mai | On request | 5.0 (56) | private | — | Permanent |
+| Villa Pattranid | Chiang Mai | On request | 5.0 (57) | private | — | Permanent |
 | Nomad Summit Chiang Mai 2027 | Chiang Mai | from €299/ticket | — | — | — | Festival |
 
 ## Price distribution

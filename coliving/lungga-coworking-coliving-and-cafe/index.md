@@ -1,12 +1,12 @@
 # Lungga Coworking, Coliving & Cafe
 
-> Coliving in General Luna (Siargao), Philippines. Last updated October 15, 2026.
+> Coliving in General Luna (Siargao), Philippines. Last updated November 5, 2026.
 
 - **Location:** General Luna (Siargao), Philippines
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** room rates via Cloudbeds only; coworking PHP 2,000/week
-- **Rating:** <a href="https://maps.google.com/?cid=18192655231019500434&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.9 (74 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=18192655231019500434&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (95 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** Life, uninterrupted — live, work, and connect
@@ -17,7 +17,7 @@
 - **Nearest airports:** Siargao Airport (IAO) ~18 km; Mactan Cebu International Airport (CEB) ~246 km; Surigao Airport (SUG) ~75 km
 - **Getting there:** Siargao Airport (IAO) is on the island. Most people fly in via Cebu, which has 10–20 flights a day to Siargao; Davao and Clark have fewer, Surigao has one or two a day, and there are no flights from Manila. The alternative is two ferries.
 - **Website:** https://lungga.ph/
-- **Rating:** 4.9 from 74 Google reviews
+- **Rating:** 4.8 from 95 Google reviews
 
 ## About
 

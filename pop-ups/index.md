@@ -1,8 +1,8 @@
 # Pop-up colivings by month
 
-> 77 pop-up colivings (group trips, retreats and seasonal houses that run for a few weeks or months), grouped by the month they start, plus 13 coworking chapters where you book your own bed. Updated October 15, 2026.
+> 77 pop-up colivings (group trips, retreats and seasonal houses that run for a few weeks or months), grouped by the month they start, plus 13 coworking chapters where you book your own bed. Updated November 5, 2026.
 
-## Running now (8)
+## Running now (15)
 
 | Pop-up | Where | Dates | Price from | Rooms | Min stay |
 |---|---|---|---|---|---|
@@ -14,23 +14,18 @@
 | [The Better Neighbours — Lloret de Mar](/coliving/the-better-neighbours-lloret-de-mar/index.md) | Lloret de Mar, Spain | Oct 4 - Nov 1, 2026 (Autumn) | from €865/mo | — | — |
 | [Taste Remote](/coliving/taste-remote/index.md) | Civita Castellana, Italy | October 8-31, 2026 | from €690/event | private, shared | 7 nights |
 | [Trame Living](/coliving/trame-living/index.md) | Puglia, Italy | Oct 10 - 17, 2026 | from €3,800/wk | — | 7 nights |
-
-## October 2026 (4)
-
-| Pop-up | Where | Dates | Price from | Rooms | Min stay |
-|---|---|---|---|---|---|
 | [WiFi Tribe — La Paz](/coliving/wifi-tribe-la-paz/index.md) (fully booked) | La Paz, Bolivia | Oct 16 - Nov 13, 2026 | from $1,590/mo | private, shared | 28 nights |
 | [WiFi Tribe — Weligama](/coliving/wifi-tribe-weligama/index.md) | Weligama, Sri Lanka | Oct 16 - Nov 13, 2026 | from $1,690/mo | private, shared | 28 nights |
 | [WiFi Tribe — Santa Teresa](/coliving/wifi-tribe-santa-teresa/index.md) | Santa Teresa, Costa Rica | Oct 23 - Nov 20, 2026 | from $1,790/mo | private, shared | 28 nights |
 | [AfricaNomads — Malawi (Lake Malawi) (Oct 2026)](/coliving/africanomads-malawi-lake-malawi-oct-2026/index.md) | Nkhata Bay (Lake Malawi), Malawi | Oct 25 - Nov 22, 2026 | from $440/wk | private | — |
-
-## November 2026 (11)
-
-| Pop-up | Where | Dates | Price from | Rooms | Min stay |
-|---|---|---|---|---|---|
 | [Noma Collective — Dahab](/coliving/noma-collective-dahab/index.md) (fully booked) | Dahab, Egypt | Nov 1 - Nov 22, 2026 (Alumni Exclusive) | from $1,890/event | — | — |
 | [Noma Collective — Koh Lanta](/coliving/noma-collective-koh-lanta/index.md) (fully booked) | Koh Lanta, Thailand | Nov 1 - Nov 29, 2026 | from $2,790/event | — | — |
 | [Nomad Cruise — NC18 Caribbean Islands](/coliving/nomad-cruise-nc18-caribbean-islands/index.md) | Barcelona → La Romana (Atlantic crossing), Multiple | Nov 2 - Nov 16, 2026 | from €1,900/cruise | private, shared | 14 nights |
+
+## November 2026 (8)
+
+| Pop-up | Where | Dates | Price from | Rooms | Min stay |
+|---|---|---|---|---|---|
 | [The Better Neighbours — Sinaia](/coliving/the-better-neighbours-sinaia/index.md) | Sinaia, Romania | Nov 15 - 29, 2026 (Winter) | from €180/wk | — | — |
 | [WiFi Tribe — Antigua](/coliving/wifi-tribe-antigua/index.md) | Antigua, Guatemala | Nov 20 - Dec 18, 2026 | from $1,490/mo | private, shared | 28 nights |
 | [WiFi Tribe — Bariloche](/coliving/wifi-tribe-bariloche/index.md) | Bariloche, Argentina | Nov 20 - Dec 18, 2026 | from $1,690/mo | private, shared | 28 nights |

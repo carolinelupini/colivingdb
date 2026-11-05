@@ -1,6 +1,6 @@
 # Coliving in Jauá (Camaçari), near Salvador, Brazil
 
-> 1 coliving in Jauá (Camaçari), near Salvador, Brazil, prices from €652 to €652 per month – last updated October 15, 2026.
+> 1 coliving in Jauá (Camaçari), near Salvador, Brazil, prices from €652 to €652 per month – last updated November 5, 2026.
 
 ## All colivings
 

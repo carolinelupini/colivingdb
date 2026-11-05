@@ -1,13 +1,13 @@
 # Coliving in Uluwatu, Indonesia
 
-> 2 colivings in Uluwatu, Indonesia, prices from €479 to €479 per month – last updated October 15, 2026.
+> 2 colivings in Uluwatu, Indonesia, prices from €479 to €479 per month – last updated November 5, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Cove Prana | Uluwatu | from IDR 9,900,000/mo | 4.3 (182) | private | — | Permanent |
-| Coworksurf Uluwatu | Uluwatu | On request | 5.0 (1333) | private | — | Permanent |
+| Cove Prana | Uluwatu | from IDR 9,900,000/mo | 4.4 (184) | private | — | Permanent |
+| Coworksurf Uluwatu | Uluwatu | On request | 5.0 (1398) | private | — | Permanent |
 
 ## Price distribution
 

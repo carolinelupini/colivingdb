@@ -1,6 +1,6 @@
 # Coliving in Green Island, Taiwan
 
-> 1 nomad festival in Green Island, Taiwan – last updated October 15, 2026.
+> 1 nomad festival in Green Island, Taiwan – last updated November 5, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Coliving in Koh Lanta, Thailand
 
-> 1 coliving in Koh Lanta, Thailand – last updated October 15, 2026.
+> 1 coliving in Koh Lanta, Thailand – last updated November 5, 2026.
 
 ## All colivings
 

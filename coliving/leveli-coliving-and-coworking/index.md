@@ -1,11 +1,11 @@
 # Leveli Coliving & Coworking
 
-> Coliving in Guadalajara, Mexico. Last updated October 15, 2026.
+> Coliving in Guadalajara, Mexico. Last updated November 5, 2026.
 
 - **Location:** Guadalajara, Mexico
 - **Type:** Permanent coliving
 - **Price:** from $29/night
-- **Rating:** <a href="https://maps.google.com/?cid=4793572551204472904&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (171 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=4793572551204472904&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (176 reviews)</a> <small>· Google</small>
 - **Room types:** private, dorm
 - **Dorm available:** Yes
 - **Vibe:** Affordable, social community with salsa nights and adventures
@@ -16,7 +16,7 @@
 - **Tags:** coworking, community, city
 - **Nearest airports:** Guadalajara International Airport (GDL) ~17 km
 - **Website:** http://www.levelicoliving.net/
-- **Rating:** 4.5 from 171 Google reviews
+- **Rating:** 4.5 from 176 Google reviews
 
 ## Rates
 

@@ -1,11 +1,11 @@
 # Together Co-Living
 
-> Coliving in Melbourne, Australia. Last updated October 15, 2026.
+> Coliving in Melbourne, Australia. Last updated November 5, 2026.
 
 - **Location:** Melbourne, Australia
 - **Type:** Permanent coliving
 - **Price:** from A$640/wk
-- **Rating:** <a href="https://maps.google.com/?cid=10990434807176680687&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 3.2 (253 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=10990434807176680687&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 3.3 (256 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Vibe:** design-led, community and interactivity focused
@@ -18,7 +18,7 @@
 - **Nearest airports:** Melbourne Essendon Airport (MEB) ~9 km; Melbourne Airport (MEL) ~17 km; Melbourne Moorabbin Airport (MBW) ~27 km
 - **Getting there:** Melbourne Airport (MEL) is ~20-25 min by car from Preston.
 - **Website:** https://togethercoliving.com/
-- **Rating:** 3.2 from 253 Google reviews
+- **Rating:** 3.3 from 256 Google reviews
 
 ## Rates
 

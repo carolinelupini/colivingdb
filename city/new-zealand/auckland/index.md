@@ -1,12 +1,12 @@
 # Coliving in Auckland, New Zealand
 
-> 1 coliving in Auckland, New Zealand, prices from €763 to €763 per month – last updated October 15, 2026.
+> 1 coliving in Auckland, New Zealand, prices from €763 to €763 per month – last updated November 5, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| The Coh | Auckland | from NZ$1,516/mo | 4.8 (104) | private, shared | 3 months | Permanent |
+| The Coh | Auckland | from NZ$1,516/mo | 4.8 (105) | private, shared | 3 months | Permanent |
 
 ## Price distribution
 

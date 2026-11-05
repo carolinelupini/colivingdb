@@ -1,6 +1,6 @@
 # Coliving in Pera Orinis, Cyprus
 
-> 1 coliving in Pera Orinis, Cyprus – last updated October 15, 2026.
+> 1 coliving in Pera Orinis, Cyprus – last updated November 5, 2026.
 
 ## All colivings
 

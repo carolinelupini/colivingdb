@@ -1,11 +1,12 @@
 # The Miyanosawa (Miyanosawa Home)
 
-> Coliving in Sapporo, Japan. Last updated October 15, 2026.
+> Coliving in Sapporo, Japan. Last updated November 5, 2026.
 
 - **Location:** Sapporo, Japan
 - **Type:** Permanent coliving
 - **Price:** from $573/mo
 - **Price note:** from BGN 983/mo private (~€503)
+- **Rating:** <a href="https://maps.google.com/?cid=11492657658442274345&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (1 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 44 Mbps down <small>· operator-reported</small><br><small>44 Mbps down / 36 Mbps up; also described as &quot;fast free Starlink Wi-Fi&quot;</small>
@@ -16,6 +17,7 @@
 - **Tags:** city, community, wellness
 - **Nearest airports:** Sapporo Okadama Airport (OKD) ~9 km; New Chitose Airport (CTS) ~47 km; Asahikawa Airport (AKJ) ~114 km
 - **Website:** https://coliving.com/spaces/plfogsdm
+- **Rating:** 5.0 from 1 Google reviews
 
 ## Rates
 

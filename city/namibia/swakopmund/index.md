@@ -1,6 +1,6 @@
 # Coliving in Swakopmund, Namibia
 
-> 2 colivings in Swakopmund, Namibia, prices from €1,640 to €1,689 per month – last updated October 15, 2026.
+> 2 colivings in Swakopmund, Namibia, prices from €1,640 to €1,689 per month – last updated November 5, 2026.
 
 ## All colivings
 

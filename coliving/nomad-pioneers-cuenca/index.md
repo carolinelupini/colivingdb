@@ -1,6 +1,6 @@
 # Nomad Pioneers — Cuenca
 
-> Coworking chapter in Cuenca, Ecuador. Last updated October 15, 2026.
+> Coworking chapter in Cuenca, Ecuador. Last updated November 5, 2026.
 
 - **Location:** Cuenca, Ecuador
 - **Type:** Pop-up coworking chapter — accommodation not included

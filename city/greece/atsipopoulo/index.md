@@ -1,6 +1,6 @@
 # Coliving in Atsipopoulo, Greece
 
-> 1 coliving in Atsipopoulo, Greece – last updated October 15, 2026.
+> 1 coliving in Atsipopoulo, Greece – last updated November 5, 2026.
 
 ## All colivings
 

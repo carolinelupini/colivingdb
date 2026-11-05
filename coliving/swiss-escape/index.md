@@ -1,6 +1,6 @@
 # Swiss Escape
 
-> Coliving in Grimentz, Switzerland. Last updated October 15, 2026.
+> Coliving in Grimentz, Switzerland. Last updated November 5, 2026.
 
 - **Location:** Grimentz, Switzerland
 - **Type:** Permanent coliving

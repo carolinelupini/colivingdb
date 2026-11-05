@@ -1,12 +1,12 @@
 # Coliving in Roseto Valfortore, Italy
 
-> 1 coliving in Roseto Valfortore, Italy, prices from €700 to €700 per month – last updated October 15, 2026.
+> 1 coliving in Roseto Valfortore, Italy, prices from €700 to €700 per month – last updated November 5, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| La Vita Sukha | Roseto Valfortore | from €700/mo | 4.9 (39) | private, dorm | 13 nights | Permanent |
+| La Vita Sukha | Roseto Valfortore | from €700/mo | 4.9 (40) | private, dorm | 13 nights | Permanent |
 
 ## Price distribution
 

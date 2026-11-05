@@ -1,6 +1,6 @@
 # Coliving in Taiwan
 
-> 3 colivings and 3 nomad festivals in Taiwan, prices from €212 to €212 per month – last updated October 15, 2026.
+> 3 colivings and 3 nomad festivals in Taiwan, prices from €212 to €212 per month – last updated November 5, 2026.
 
 ## All colivings
 

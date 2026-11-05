@@ -1,6 +1,6 @@
 # Outsite Azores - Fenais
 
-> Coliving in Fenais da Luz, São Miguel, Azores, Portugal. Last updated October 15, 2026.
+> Coliving in Fenais da Luz, São Miguel, Azores, Portugal. Last updated November 5, 2026.
 
 - **Location:** Fenais da Luz, São Miguel, Azores, Portugal
 - **Type:** Permanent coliving

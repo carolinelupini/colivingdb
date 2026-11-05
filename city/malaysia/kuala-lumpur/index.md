@@ -1,6 +1,6 @@
 # Coliving in Kuala Lumpur, Malaysia
 
-> 3 colivings in Kuala Lumpur, Malaysia, prices from €172 to €323 per month – last updated October 15, 2026.
+> 3 colivings in Kuala Lumpur, Malaysia, prices from €172 to €323 per month – last updated November 5, 2026.
 
 ## All colivings
 
@@ -8,7 +8,7 @@
 |---|---|---|---|---|---|---|
 | Balai Polis Residence | Kuala Lumpur | from $196/mo | 5.0 (3) | private, dorm, shared | 30 nights | Permanent |
 | Fraser Home | Kuala Lumpur | from $368/mo | — | private | 30 nights | Permanent |
-| Nomad Shophouse | Kuala Lumpur | On request | 5.0 (43) | private, apartment | 7 nights | Permanent |
+| Nomad Shophouse | Kuala Lumpur | On request | 5.0 (44) | private, apartment | 7 nights | Permanent |
 
 ## Price distribution
 

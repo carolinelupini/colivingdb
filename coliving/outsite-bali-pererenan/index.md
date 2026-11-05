@@ -1,12 +1,12 @@
 # Outsite Bali - Pererenan
 
-> Coliving in Pererenan, Bali, Indonesia. Last updated October 15, 2026.
+> Coliving in Pererenan, Bali, Indonesia. Last updated November 5, 2026.
 
 - **Location:** Pererenan, Bali, Indonesia
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** add dates for price
-- **Rating:** <a href="https://maps.google.com/?cid=10972731723863793096&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (82 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=10972731723863793096&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (83 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 91 Mbps down <small>· operator-reported</small>
@@ -17,7 +17,7 @@
 - **Tags:** beach, surf, coworking, community, wellness
 - **Nearest airports:** Denpasar I Gusti Ngurah Rai International Airport (DPS) ~13 km; Lombok International Airport (LOP) ~128 km
 - **Website:** https://www.outsite.co/locations/bali-pererenan
-- **Rating:** 4.3 from 82 Google reviews
+- **Rating:** 4.3 from 83 Google reviews
 
 ## About
 

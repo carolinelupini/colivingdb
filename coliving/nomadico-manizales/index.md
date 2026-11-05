@@ -1,22 +1,23 @@
 # Nomadico Manizales
 
-> Coliving in Manizales, Colombia. Last updated October 15, 2026.
+> Coliving in Manizales, Colombia. Last updated November 5, 2026.
 
 - **Location:** Manizales, Colombia
 - **Type:** Permanent coliving
 - **Price:** from $690/mo
 - **Price note:** from $630/month; est. EUR
-- **Rating:** <a href="https://maps.google.com/?cid=18384252260458406648&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (2 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=18384252260458406648&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.7 (3 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 7 nights
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Latin America
 - **Timezone:** GMT-5 <small>· US East: full workday overlap · Central Europe: your mornings</small>
 - **Elevation:** 2,087 m
 - **Tags:** mountain, city, coworking, community
 - **Nearest airports:** La Nubia Airport (MZL) ~7 km; El Dorado International Airport (BOG) ~156 km; Matecaña International Airport (PEI) ~38 km
 - **Website:** https://nomadico.io
-- **Rating:** 5.0 from 2 Google reviews
+- **Rating:** 4.7 from 3 Google reviews
 
 ## Rates
 

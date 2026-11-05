@@ -1,6 +1,6 @@
 # Coliving in Uruguay
 
-> 3 colivings in Uruguay, prices from €569 to €2,104 per month – last updated October 15, 2026.
+> 3 colivings in Uruguay, prices from €569 to €2,104 per month – last updated November 5, 2026.
 
 ## All colivings
 
@@ -8,7 +8,7 @@
 |---|---|---|---|---|---|---|
 | ZAG Coliving | Punta del Este | from $650/mo | 4.2 (138) | private | — | Permanent |
 | Boundless Life — La Barra | La Barra | from €1,700/mo | — | — | 28 nights | Pop-up |
-| Opta Coliving | Montevideo | from $2,400/mo | 4.3 (2287) | private | — | Permanent |
+| Opta Coliving | Montevideo | from $2,400/mo | 4.3 (2299) | private | — | Permanent |
 
 ## Price distribution
 

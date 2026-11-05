@@ -1,6 +1,6 @@
 # Pangea — Florianópolis
 
-> Coworking chapter in Florianópolis, Brazil. Last updated October 15, 2026.
+> Coworking chapter in Florianópolis, Brazil. Last updated November 5, 2026.
 
 - **Location:** Florianópolis, Brazil
 - **Type:** Pop-up coworking chapter — accommodation not included

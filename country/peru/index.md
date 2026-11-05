@@ -1,12 +1,12 @@
 # Coliving in Peru
 
-> 1 coliving in Peru, prices from €733 to €733 per month – last updated October 15, 2026.
+> 1 coliving in Peru, prices from €733 to €733 per month – last updated November 5, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Nomadico Coliving Lima | Lima (Barranco) | from $820/mo | — | private, shared | 7 nights | Permanent |
+| Nomadico Coliving Lima | Lima (Barranco) | from $820/mo | 5.0 (1) | private, shared | 7 nights | Permanent |
 
 ## Price distribution
 

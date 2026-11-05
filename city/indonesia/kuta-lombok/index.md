@@ -1,12 +1,12 @@
 # Coliving in Kuta Lombok, Indonesia
 
-> 2 colivings in Kuta Lombok, Indonesia – last updated October 15, 2026.
+> 2 colivings in Kuta Lombok, Indonesia – last updated November 5, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
 | Coworksurf Kuta Lombok | Kuta Lombok | On request | — | private | — | Permanent |
-| Dream Cowork Hotel Lombok | Kuta Lombok | On request | 4.1 (454) | private, dorm | — | Permanent |
+| Dream Cowork Hotel Lombok | Kuta Lombok | On request | 4.1 (465) | private, dorm | — | Permanent |
 
 Source: https://colivingdb.com/city/indonesia/kuta-lombok/

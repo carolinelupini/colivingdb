@@ -1,12 +1,12 @@
 # Coliving in Villegar, Spain
 
-> 1 coliving in Villegar, Spain, prices from €810 to €810 per month – last updated October 15, 2026.
+> 1 coliving in Villegar, Spain, prices from €810 to €810 per month – last updated November 5, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| PAS Rural Coliving | Villegar | from €810/mo | 5.0 (56) | private, shared | 15 nights | Permanent |
+| PAS Rural Coliving | Villegar | from €810/mo | 5.0 (61) | private, shared | 15 nights | Permanent |
 
 ## Price distribution
 

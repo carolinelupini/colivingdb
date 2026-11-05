@@ -1,12 +1,12 @@
 # Coliving in Hyderabad, India
 
-> 1 coliving in Hyderabad, India, prices from €360 to €360 per month – last updated October 15, 2026.
+> 1 coliving in Hyderabad, India, prices from €360 to €360 per month – last updated November 5, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Draper Startup House Hyderabad | Hyderabad | from €360/mo | 4.6 (563) | private, shared, dorm | — | Permanent |
+| Draper Startup House Hyderabad | Hyderabad | from €360/mo | 4.6 (568) | private, shared, dorm | — | Permanent |
 
 ## Price distribution
 

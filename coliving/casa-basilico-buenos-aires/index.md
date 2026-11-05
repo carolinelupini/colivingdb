@@ -1,6 +1,6 @@
 # Casa Basilico — Buenos Aires
 
-> Coliving in Buenos Aires, Argentina. Last updated October 15, 2026.
+> Coliving in Buenos Aires, Argentina. Last updated November 5, 2026.
 
 - **Location:** Buenos Aires, Argentina
 - **Type:** Pop-up / dated edition
@@ -10,6 +10,7 @@
 - **Room types:** private, shared
 - **Dorm available:** No
 - **Minimum stay:** 31 nights
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Latin America
 - **Timezone:** GMT-3 <small>· US East: full workday overlap · Central Europe: good overlap</small>
 - **Tags:** city, community

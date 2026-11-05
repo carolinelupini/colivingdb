@@ -1,12 +1,12 @@
 # Coliving in Puglia, Italy
 
-> 3 colivings in Puglia, Italy, prices from €690 to €997 per month – last updated October 15, 2026.
+> 3 colivings in Puglia, Italy, prices from €690 to €997 per month – last updated November 5, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Masseria Olga Rural Coliving | Puglia | from €690/mo | 4.8 (83) | private | 14 nights | Permanent |
+| Masseria Olga Rural Coliving | Puglia | from €690/mo | 4.8 (85) | private | 14 nights | Permanent |
 | Casa Basilico — Puglia | Puglia | from €997/mo | — | — | 14 nights | Pop-up |
 | Trame Living | Puglia | from €3,800/wk | — | — | 7 nights | Pop-up |
 

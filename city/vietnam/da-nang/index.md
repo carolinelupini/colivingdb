@@ -1,13 +1,13 @@
 # Coliving in Da Nang, Vietnam
 
-> 2 colivings and 1 nomad festival in Da Nang, Vietnam, prices from €283 to €834 per month – last updated October 15, 2026.
+> 2 colivings and 1 nomad festival in Da Nang, Vietnam, prices from €283 to €834 per month – last updated November 5, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
 | Enosta Space | Da Nang | from VND 8,500,000/mo | 4.7 (73) | private, dorm | — | Permanent |
-| Coworking Danang | Da Nang | from VND 25,000,000/mo | 4.9 (161) | private | 30 nights | Permanent |
+| Coworking Danang | Da Nang | from VND 25,000,000/mo | 4.9 (163) | private | 30 nights | Permanent |
 | Da Nang Nomad Fest 2027 | Da Nang | On request | — | — | — | Festival |
 
 ## Price distribution

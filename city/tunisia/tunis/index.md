@@ -1,6 +1,6 @@
 # Coliving in Tunis, Tunisia
 
-> 1 community chapter in Tunis, Tunisia – last updated October 15, 2026.
+> 1 community chapter in Tunis, Tunisia – last updated November 5, 2026.
 
 ## All colivings
 

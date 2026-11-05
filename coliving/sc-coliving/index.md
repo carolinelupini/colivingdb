@@ -1,6 +1,6 @@
 # SC Coliving
 
-> Coliving in St Julian's, Malta. Last updated October 15, 2026.
+> Coliving in St Julian's, Malta. Last updated November 5, 2026.
 
 - **Location:** St Julian's, Malta
 - **Type:** Permanent coliving

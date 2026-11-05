@@ -1,12 +1,12 @@
 # Masseria Olga
 
-> Coliving in Valle d'Itria (Puglia), Italy. Last updated October 15, 2026.
+> Coliving in Valle d'Itria (Puglia), Italy. Last updated November 5, 2026.
 
 - **Location:** Valle d'Itria (Puglia), Italy
 - **Type:** Permanent coliving
 - **Price:** from €650/mo
 - **Price note:** from €150/week single room (~€650/mo est.)
-- **Rating:** <a href="https://maps.google.com/?cid=3434219818951056167&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (83 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=3434219818951056167&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.8 (85 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** Slow down, connect, and get things done in Puglia
@@ -16,7 +16,7 @@
 - **Tags:** rural, coworking, community, wellness
 - **Nearest airports:** Bari Karol Wojtyła International Airport (BRI) ~56 km; Brindisi Airport (BDS) ~61 km
 - **Website:** https://masseriaolga.com/coliving/
-- **Rating:** 4.8 from 83 Google reviews
+- **Rating:** 4.8 from 85 Google reviews
 
 ## Rates
 

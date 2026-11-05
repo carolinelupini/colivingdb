@@ -1,6 +1,6 @@
 # Arab Nomad Fest: Morocco 2026
 
-> Nomad festival in Taghazout, Morocco. Last updated October 15, 2026.
+> Nomad festival in Taghazout, Morocco. Last updated November 5, 2026.
 
 - **Location:** Taghazout, Morocco
 - **Type:** Nomad festival / dated event — accommodation not included
@@ -11,7 +11,6 @@
 - **Dorm available:** No
 - **Vibe:** A first-edition festival with a MENA centre of gravity — talks on freelancing, online income, tax residency and visas sit alongside surf lessons, hammams and a Gnaoua-music-and-henna cultural opening. Most attendees come solo, and the schedule is built around that.
 - **Minimum stay:** —
-- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Africa
 - **Timezone:** GMT+1 <small>· US East: good overlap · Central Europe: full workday overlap</small>
 - **Tags:** surf, beach, community

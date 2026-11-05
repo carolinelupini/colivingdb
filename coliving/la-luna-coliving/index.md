@@ -1,11 +1,12 @@
 # La Luna Coliving
 
-> Coliving in Santa Cruz de Tenerife, Spain. Last updated October 15, 2026.
+> Coliving in Santa Cruz de Tenerife, Spain. Last updated November 5, 2026.
 
 - **Location:** Santa Cruz de Tenerife, Spain
 - **Type:** Permanent coliving
 - **Price:** from €900/mo
 - **Price note:** from €900/month + IGIC (the Canary Islands sales tax) for a furnished private room, no minimum stay
+- **Rating:** <a href="https://maps.google.com/?cid=11928412938559340621&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.5 (22 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Vibe:** 'A 9-room building with an amazing rooftop in the heart of Santa Cruz de Tenerife,' centered on a shared social gathering space.
@@ -15,6 +16,7 @@
 - **Tags:** city, island, coworking, community
 - **Nearest airports:** Tenerife Norte-Ciudad de La Laguna Airport (TFN) ~9 km; Tenerife Sur Airport (TFS) ~56 km; Gran Canaria Airport (LPA) ~103 km
 - **Website:** https://grupococo.com/location-detail.php?id=3
+- **Rating:** 4.5 from 22 Google reviews
 
 ## Rates
 

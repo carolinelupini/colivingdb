@@ -1,12 +1,12 @@
 # Coliving in Bangkok, Thailand
 
-> 1 coliving and 2 nomad festivals in Bangkok, Thailand, prices from €262 to €262 per month – last updated October 15, 2026.
+> 1 coliving and 2 nomad festivals in Bangkok, Thailand, prices from €262 to €262 per month – last updated November 5, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| The Yard Hostel | Bangkok | from $300/mo | 4.7 (837) | private, dorm | — | Permanent |
+| The Yard Hostel | Bangkok | from $300/mo | 4.7 (843) | private, dorm | — | Permanent |
 | Extraordinary Travel Festival III 2026 | Bangkok | from $525/ticket | — | — | — | Festival |
 | Dynamite Circle — DCBKK 2026 | Bangkok | from $998/ticket | — | — | — | Festival |
 

@@ -1,6 +1,6 @@
 # Coliving in Cuenca, Ecuador
 
-> 1 community chapter in Cuenca, Ecuador – last updated October 15, 2026.
+> 1 community chapter in Cuenca, Ecuador – last updated November 5, 2026.
 
 ## All colivings
 

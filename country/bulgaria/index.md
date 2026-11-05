@@ -1,6 +1,6 @@
 # Coliving in Bulgaria
 
-> 9 colivings, 1 nomad festival and 1 community chapter in Bulgaria, prices from €280 to €1,400 per month – last updated October 15, 2026.
+> 9 colivings, 1 nomad festival and 1 community chapter in Bulgaria, prices from €280 to €1,400 per month – last updated November 5, 2026.
 
 ## All colivings
 
@@ -8,13 +8,13 @@
 |---|---|---|---|---|---|---|
 | Four Leaf Clover Bansko - Coliving | Bansko | from €280/mo | 5.0 (7) | private | — | Permanent |
 | The Yavor | Bansko | from $343/mo | — | private | 30 nights | Permanent |
-| Avalon Bansko | Bansko | from €550/mo | 4.7 (126) | private, shared | 31 nights | Permanent |
+| Avalon Bansko | Bansko | from €550/mo | 4.7 (127) | private, shared | 31 nights | Permanent |
 | Nomadico Coliving Bansko | Bansko | from €638/mo | 4.9 (18) | private, shared | 7 nights | Permanent |
 | The Pirin | Bansko | from $832/mo | — | private | 30 nights | Permanent |
 | Coliving Valentina Bansko | Bansko | from €750/mo | 4.6 (107) | private | — | Permanent |
-| WorkNomads LAB Coliving | Sofia | from €1,095/mo | 4.5 (523) | private | 30 nights | Permanent |
+| WorkNomads LAB Coliving | Sofia | from €1,095/mo | 4.5 (533) | private | 30 nights | Permanent |
 | Burgas Coliving | Burgas | from €1,400/mo | 4.9 (49) | private | — | Permanent |
-| Coliving Bansko by "Coworking Bansko" and Networking Premium | Bansko | On request | 4.4 (116) | private | — | Permanent |
+| Coliving Bansko by "Coworking Bansko" and Networking Premium | Bansko | On request | 4.3 (117) | private | — | Permanent |
 | Pangea — Bansko | Bansko | from $299/ticket | — | — | — | Pop-up |
 | Bansko Nomad Fest 2027 | Bansko | from €225/ticket | — | — | — | Festival |
 

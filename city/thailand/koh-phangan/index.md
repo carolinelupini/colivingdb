@@ -1,6 +1,6 @@
 # Coliving in Koh Phangan, Thailand
 
-> 2 colivings in Koh Phangan, Thailand, prices from €782 to €1,427 per month – last updated October 15, 2026.
+> 2 colivings in Koh Phangan, Thailand, prices from €782 to €1,427 per month – last updated November 5, 2026.
 
 ## All colivings
 

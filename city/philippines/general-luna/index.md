@@ -1,6 +1,6 @@
 # Coliving in General Luna, Philippines
 
-> 1 nomad festival in General Luna, Philippines – last updated October 15, 2026.
+> 1 nomad festival in General Luna, Philippines – last updated November 5, 2026.
 
 ## All colivings
 

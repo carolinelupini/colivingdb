@@ -1,13 +1,13 @@
 # Coliving in Kotohira, Japan
 
-> 2 colivings in Kotohira, Japan, prices from €378 to €378 per month – last updated October 15, 2026.
+> 2 colivings in Kotohira, Japan, prices from €378 to €378 per month – last updated November 5, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
 | The Kotohira (Kotohira Residence) | Kotohira | from $431/mo | — | private, shared, dorm | 30 nights | Permanent |
-| Kotori Coworking & Hostel Kotohira | Kotohira | On request | 4.9 (109) | private, dorm | 5 nights | Permanent |
+| Kotori Coworking & Hostel Kotohira | Kotohira | On request | 4.9 (111) | private, dorm | 5 nights | Permanent |
 
 ## Price distribution
 

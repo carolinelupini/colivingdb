@@ -1,11 +1,12 @@
 # Outsite Medellin - El Tesoro
 
-> Coliving in Medellin, Colombia. Last updated October 15, 2026.
+> Coliving in Medellin, Colombia. Last updated November 5, 2026.
 
 - **Location:** Medellin, Colombia
 - **Type:** Permanent coliving
 - **Price:** On request
 - **Price note:** pricing shown only after entering dates
+- **Rating:** <a href="https://maps.google.com/?cid=8972313070576102697&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.3 (3 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Minimum stay:** —
@@ -15,6 +16,7 @@
 - **Tags:** city, coworking, community
 - **Nearest airports:** Enrique Olaya Herrera Airport (EOH) ~4 km; El Dorado International Airport (BOG) ~229 km; Jose Maria Córdova International Airport (MDE) ~16 km
 - **Website:** https://www.outsite.co/locations/medellin-el-tesoro
+- **Rating:** 4.3 from 3 Google reviews
 
 ## About
 

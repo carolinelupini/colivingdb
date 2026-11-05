@@ -1,12 +1,12 @@
 # Coliving in Agaete, Gran Canaria, Spain
 
-> 1 coliving in Agaete, Gran Canaria, Spain, prices from €880 to €880 per month – last updated October 15, 2026.
+> 1 coliving in Agaete, Gran Canaria, Spain, prices from €880 to €880 per month – last updated November 5, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
-| Repeople El Cabo Coliving | Agaete, Gran Canaria | from €870/mo | 4.9 (19) | private | 30 nights | Permanent |
+| Repeople El Cabo Coliving | Agaete, Gran Canaria | from €870/mo | 4.9 (20) | private | 30 nights | Permanent |
 
 ## Price distribution
 

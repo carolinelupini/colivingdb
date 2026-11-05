@@ -1,6 +1,6 @@
 # Coliving in Hiroshima, Japan
 
-> 1 nomad festival in Hiroshima, Japan – last updated October 15, 2026.
+> 1 nomad festival in Hiroshima, Japan – last updated November 5, 2026.
 
 ## All colivings
 

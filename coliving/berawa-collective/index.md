@@ -1,12 +1,12 @@
 # Berawa Collective
 
-> Coliving in Berawa (Canggu, Bali), Indonesia. Last updated October 15, 2026.
+> Coliving in Berawa (Canggu, Bali), Indonesia. Last updated November 5, 2026.
 
 - **Location:** Berawa (Canggu, Bali), Indonesia
 - **Type:** Permanent coliving
 - **Price:** from $1,754/mo
 - **Price note:** from BGN 2,610/mo ≈ €1,334 private
-- **Rating:** <a href="https://maps.google.com/?cid=15222392593266458622&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (109 reviews)</a> <small>· Google</small>
+- **Rating:** <a href="https://maps.google.com/?cid=15222392593266458622&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.4 (110 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
 - **Wi-Fi (on-site):** 500 Mbps down <small>· operator-reported</small>
@@ -17,7 +17,7 @@
 - **Tags:** beach, surf, coworking, community, island, wellness
 - **Nearest airports:** Denpasar I Gusti Ngurah Rai International Airport (DPS) ~10 km; Lombok International Airport (LOP) ~126 km
 - **Website:** https://coliving.com/spaces/26doeaac
-- **Rating:** 4.4 from 109 Google reviews
+- **Rating:** 4.4 from 110 Google reviews
 
 ## Rates
 

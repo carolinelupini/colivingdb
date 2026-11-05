@@ -1,6 +1,6 @@
 # Nomadico Coliving Bansko
 
-> Coliving in Bansko, Bulgaria. Last updated October 15, 2026.
+> Coliving in Bansko, Bulgaria. Last updated November 5, 2026.
 
 - **Location:** Bansko, Bulgaria
 - **Type:** Permanent coliving
@@ -11,6 +11,7 @@
 - **Dorm available:** No
 - **Vibe:** A mountain-lifestyle coliving space themed around "Mountains, Focus, Adventure" — a calm mountain pace with a strong year-round community, cold plunges, yoga, cowork sessions, saunas, and shared dinners.
 - **Minimum stay:** 7 nights
+- **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code
 - **Region:** Europe
 - **Timezone:** GMT+2 winter / GMT+3 summer <small>· US East: your evenings · Central Europe: full workday overlap</small>
 - **Tags:** mountain, ski, coworking, community, wellness
