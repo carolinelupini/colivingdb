@@ -1,6 +1,6 @@
 # colivingDB — all countries
 
-> 612 colivings, 22 nomad festivals and 13 community chapters across 85 countries. Last updated November 5, 2026.
+> 612 colivings, 22 nomad festivals and 12 community chapters across 85 countries. Last updated November 5, 2026.
 
 | Country | Colivings | From (EUR/mo) |
 |---|---|---|
@@ -32,13 +32,13 @@
 | [Norway](/country/norway/index.md) | 6 | €522 |
 | [Taiwan](/country/taiwan/index.md) | 3 (+ 3 nomad festivals) | €212 |
 | [United Kingdom](/country/united-kingdom/index.md) | 6 | €470 |
-| [Ecuador](/country/ecuador/index.md) | 3 (+ 2 community chapters) | €310 |
 | [Malaysia](/country/malaysia/index.md) | 5 | €172 |
 | [Romania](/country/romania/index.md) | 5 | €670 |
 | [Serbia](/country/serbia/index.md) | 5 | €297 |
 | [Tanzania](/country/tanzania/index.md) | 5 | €900 |
 | [Turkey](/country/turkey/index.md) | 5 | €435 |
 | [Cyprus](/country/cyprus/index.md) | 4 | €1,160 |
+| [Ecuador](/country/ecuador/index.md) | 3 (+ 1 community chapter) | €310 |
 | [Egypt](/country/egypt/index.md) | 4 | €167 |
 | [Germany](/country/germany/index.md) | 4 | €645 |
 | [Malta](/country/malta/index.md) | 4 | €420 |

@@ -1,6 +1,6 @@
 # Pop-up colivings by month
 
-> 77 pop-up colivings (group trips, retreats and seasonal houses that run for a few weeks or months), grouped by the month they start, plus 13 coworking chapters where you book your own bed. Updated November 5, 2026.
+> 77 pop-up colivings (group trips, retreats and seasonal houses that run for a few weeks or months), grouped by the month they start, plus 12 coworking chapters where you book your own bed. Updated November 5, 2026.
 
 ## Running now (15)
 
@@ -154,13 +154,12 @@
 |---|---|---|---|---|---|
 | [Aperanti Agrotourism](/coliving/aperanti-agrotourism/index.md) | Pera Orinis, Cyprus | Autumn/winter season 2026–27 | from €43/night | private | 15 nights |
 
-## Coworking chapters (13) — accommodation not included
+## Coworking chapters (12) — accommodation not included
 
 | Chapter | Where | Dates | Price from |
 |---|---|---|---|
 | [TADAIMA 2026 — Shimoda](/coliving/tadaima-2026-shimoda/index.md) | Shimoda, Japan | Oct 25 - Nov 22, 2026 | from $299/ticket |
 | [Pangea — Quito](/coliving/pangea-quito/index.md) | Quito, Ecuador | Nov 30 - Dec 18, 2026 | from $249/ticket |
-| [Nomad Pioneers — Cuenca](/coliving/nomad-pioneers-cuenca/index.md) | Cuenca, Ecuador | Dec 15, 2026 - Mar 15, 2027 | from $699/ticket |
 | [Pangea — Florianópolis](/coliving/pangea-florianopolis/index.md) | Florianópolis, Brazil | Jan 4 - 25, 2027 | from $249/ticket |
 | [Pangea — Cape Town (Jan 2027)](/coliving/pangea-cape-town-jan-2027/index.md) | Cape Town, South Africa | Jan 24 - Feb 19, 2027 | from $299/ticket |
 | [Pangea — Santa Cruz de la Sierra](/coliving/pangea-santa-cruz-de-la-sierra/index.md) | Santa Cruz de la Sierra, Bolivia | Feb 18 - Mar 12, 2027 | from $249/ticket |

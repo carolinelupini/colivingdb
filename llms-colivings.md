@@ -1,6 +1,6 @@
 # colivingDB — all colivings
 
-> 647 listings. Last updated November 5, 2026.
+> 646 listings. Last updated November 5, 2026.
 
 | Coliving | City | Country | Price from | Min stay | Type |
 |---|---|---|---|---|---|
@@ -110,7 +110,6 @@
 | [WiFi Tribe — Las Terrenas](/coliving/wifi-tribe-las-terrenas/index.md) | Las Terrenas | Dominican Republic | from $1,690/mo | 28 nights | Pop-up |
 | [Luis Cordero Residence](/coliving/luis-cordero-residence/index.md) | Quito | Ecuador | from $300/mo | 30 nights | Permanent |
 | [Mariscal Sucre Residence](/coliving/mariscal-sucre-residence/index.md) | Quito | Ecuador | from $391/mo | 30 nights | Permanent |
-| [Nomad Pioneers — Cuenca](/coliving/nomad-pioneers-cuenca/index.md) | Cuenca | Ecuador | from $699/ticket | — | Pop-up |
 | [Pangea — Quito](/coliving/pangea-quito/index.md) | Quito | Ecuador | from $249/ticket | — | Pop-up |
 | [WiFi Tribe — Quito](/coliving/wifi-tribe-quito/index.md) | Quito | Ecuador | from $1,480/mo | 28 nights | Pop-up |
 | [Coliving Hurghada (Villa Residence)](/coliving/coliving-hurghada-villa-residence/index.md) | Hurghada | Egypt | from $720/mo | 30 nights | Permanent |

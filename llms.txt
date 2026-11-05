@@ -1,18 +1,19 @@
 # colivingDB
 
-> A free, curated directory of 612 colivings worldwide, plus 22 nomad festivals and 13 community chapters — one map, native-currency pricing, no login and no email wall. Covers permanent colivings, dated pop-up editions and nomad festivals across 85 countries. Last updated November 5, 2026.
+> A free, curated directory of 612 colivings worldwide, plus 22 nomad festivals and 12 community chapters — one map, native-currency pricing, no login and no email wall. Covers permanent colivings, dated pop-up editions and nomad festivals across 85 countries. Last updated November 5, 2026.
 
 colivingDB is built and maintained by Caroline Lupini, a full-time digital nomad since 2014 who has lived and worked across more than a hundred countries. Listings are nomad-style colivings (shared living plus community, usually with coworking), plus a small number of nomad festivals and community chapters, each tagged as such; those without accommodation say so. Student housing and urban rent-by-the-room operators are left out. Every listing links to the operator's own site. Dead links are audited and removed.
 
 Key facts:
-- 612 colivings, 22 nomad festivals and 13 community chapters (no accommodation), 85 countries
-- 112 dated editions (traveling programs, cruises, camps, and nomad festivals)
+- 612 colivings, 22 nomad festivals and 12 community chapters (no accommodation), 85 countries
+- 111 dated editions (traveling programs, cruises, camps, and nomad festivals)
 - Prices from €46 to €6,892 per month
 - Filters: country, city, room type, minimum stay, price, pop-up month, currency
 
 ## Indexes
 - [All countries](/llms-countries.md): every country with counts and lowest price
 - [All colivings](/llms-colivings.md): the full listing index
+- [Reader discounts (118)](/coliving/reader-discounts/index.md)
 - [Nomad festivals (22)](/festivals/index.md)
 - [Pop-ups by month (77)](/pop-ups/index.md)
 - [WiFi Tribe chapters (22)](/brand/wifi-tribe/index.md)
