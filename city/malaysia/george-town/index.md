@@ -1,6 +1,6 @@
 # Coliving in George Town, Malaysia
 
-> 1 coliving in George Town, Malaysia, prices from €335 to €335 per month – last updated November 5, 2026.
+> 1 coliving in George Town, Malaysia, prices from €335 to €335 per month – last updated November 11, 2026.
 
 ## All colivings
 

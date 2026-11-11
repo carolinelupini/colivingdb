@@ -1,6 +1,6 @@
 # Coliving in Lenk, Switzerland
 
-> 1 coliving in Lenk, Switzerland, prices from €675 to €675 per month – last updated November 5, 2026.
+> 1 coliving in Lenk, Switzerland, prices from €675 to €675 per month – last updated November 11, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Coliving in Spain under €1,000 a month
 
-> 53 of the 95 colivings in Spain list a monthly rate under €1,000 for their cheapest room (converted to euros where the operator prices in another currency), cheapest first. Last updated November 5, 2026.
+> 52 of the 99 colivings in Spain list a monthly rate under €1,000 for their cheapest room (converted to euros where the operator prices in another currency), cheapest first. Last updated November 11, 2026.
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
@@ -39,7 +39,6 @@
 | [Coco Surfhouse](/coliving/coco-surfhouse/index.md) | Corralejo, Fuerteventura | from €840/mo | private, dorm | — | Permanent |
 | [Oasis Coliving](/coliving/oasis-coliving/index.md) | Playa de las Americas, Tenerife | from €849/mo | private | — | Permanent |
 | [Sende Coliving](/coliving/sende-coliving/index.md) | Senderiz, Ourense, Galicia | from €850/mo | private, shared | 7 nights | Permanent |
-| [The Better Neighbours — Lloret de Mar](/coliving/the-better-neighbours-lloret-de-mar/index.md) | Lloret de Mar | from €865/mo | — | — | Pop-up |
 | [The Better Neighbours — Lloret de Mar (Spring 2027)](/coliving/the-better-neighbours-lloret-de-mar-spring-2027/index.md) | Lloret de Mar | from €865/mo | — | — | Pop-up |
 | [Coliving 1907](/coliving/coliving-1907/index.md) | Las Palmas, Gran Canaria | from €870/mo | private | 7 nights | Permanent |
 | [La Toza Coworking & Coliving](/coliving/la-toza-coworking-and-coliving/index.md) | Cabrero | from €870/mo | private | 15 nights | Permanent |

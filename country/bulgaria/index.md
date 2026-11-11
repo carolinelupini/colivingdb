@@ -1,6 +1,6 @@
 # Coliving in Bulgaria
 
-> 9 colivings, 1 nomad festival and 1 community chapter in Bulgaria, prices from €280 to €1,400 per month – last updated November 5, 2026.
+> 9 colivings, 1 nomad festival and 1 community chapter in Bulgaria, prices from €280 to €1,400 per month – last updated November 11, 2026.
 
 ## All colivings
 

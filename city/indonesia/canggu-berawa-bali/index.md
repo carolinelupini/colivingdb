@@ -1,6 +1,6 @@
 # Coliving in Canggu (Berawa), Bali, Indonesia
 
-> 1 coliving in Canggu (Berawa), Bali, Indonesia – last updated November 5, 2026.
+> 1 coliving in Canggu (Berawa), Bali, Indonesia – last updated November 11, 2026.
 
 ## All colivings
 

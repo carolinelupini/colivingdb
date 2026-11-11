@@ -1,6 +1,6 @@
 # Nomadico Coliving Trogir
 
-> Coliving in Trogir, Croatia. Last updated November 5, 2026.
+> Coliving in Trogir, Croatia. Last updated November 11, 2026.
 
 - **Location:** Trogir, Croatia
 - **Type:** Permanent coliving

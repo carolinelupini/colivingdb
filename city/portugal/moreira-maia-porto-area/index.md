@@ -1,6 +1,6 @@
 # Coliving in Moreira, Maia (Porto area), Portugal
 
-> 1 coliving in Moreira, Maia (Porto area), Portugal, prices from €700 to €700 per month – last updated November 5, 2026.
+> 1 coliving in Moreira, Maia (Porto area), Portugal, prices from €700 to €700 per month – last updated November 11, 2026.
 
 ## All colivings
 

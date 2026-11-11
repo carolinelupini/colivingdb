@@ -1,6 +1,6 @@
 # AfricaNomads — Kilimanjaro (Moshi)
 
-> Coliving in Kilimanjaro (Moshi), Tanzania. Last updated November 5, 2026.
+> Coliving in Kilimanjaro (Moshi), Tanzania. Last updated November 11, 2026.
 
 - **Location:** Kilimanjaro (Moshi), Tanzania
 - **Type:** Pop-up / dated edition

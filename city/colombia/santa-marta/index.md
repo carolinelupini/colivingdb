@@ -1,6 +1,6 @@
 # Coliving in Santa Marta, Colombia
 
-> 1 coliving in Santa Marta, Colombia – last updated November 5, 2026.
+> 1 coliving in Santa Marta, Colombia – last updated November 11, 2026.
 
 ## All colivings
 

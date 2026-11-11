@@ -1,6 +1,6 @@
 # The Naujamiestis (Naujamiestis Hub)
 
-> Coliving in Vilnius, Lithuania. Last updated November 5, 2026.
+> Coliving in Vilnius, Lithuania. Last updated November 11, 2026.
 
 - **Location:** Vilnius, Lithuania
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # Coliving in Switzerland
 
-> 12 colivings and 1 nomad festival in Switzerland, prices from €500 to €2,196 per month – last updated November 5, 2026.
+> 13 colivings and 1 nomad festival in Switzerland, prices from €500 to €2,196 per month – last updated November 11, 2026.
 
 ## All colivings
 
@@ -19,6 +19,7 @@
 | STAY@Basel SBB | Basel | On request | 4.3 (205) | private, dorm | — | Permanent |
 | Vermont Hub | Leysin | On request | 4.7 (13) | private, shared | 7 nights | Permanent |
 | Snomad Fest 2026 | Liddes | from CHF 450/ticket | — | — | — | Festival |
+| Noma Tribe — Charmey | Charmey | from $2,100/event | — | private, shared | — | Pop-up |
 
 ## Price distribution
 
@@ -31,5 +32,6 @@
 ## Upcoming pop-ups
 
 - Snomad Fest 2026 — Dec 6 - 13, 2026
+- Noma Tribe — Charmey — Jun 26 - Jul 10, 2027
 
 Source: https://colivingdb.com/country/switzerland/

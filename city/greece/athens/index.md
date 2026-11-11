@@ -1,6 +1,6 @@
 # Coliving in Athens, Greece
 
-> 2 colivings in Athens, Greece, prices from €1,727 to €1,727 per month – last updated November 5, 2026.
+> 2 colivings in Athens, Greece, prices from €1,727 to €1,727 per month – last updated November 11, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Haven Coliving
 
-> Coliving in Venice, California, United States. Last updated November 5, 2026.
+> Coliving in Venice, California, United States. Last updated November 11, 2026.
 
 - **Location:** Venice, California, United States
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # Surf coliving in Portugal
 
-> 29 of the 59 colivings in Portugal are near a surf break, cheapest first. Last updated November 5, 2026.
+> 29 of the 60 colivings in Portugal are near a surf break, cheapest first. Last updated November 11, 2026.
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|

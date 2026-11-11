@@ -1,6 +1,6 @@
 # Coliving in Mexico City, Mexico
 
-> 8 colivings and 1 nomad festival in Mexico City, Mexico, prices from €46 to €815 per month – last updated November 5, 2026.
+> 9 colivings and 1 nomad festival in Mexico City, Mexico, prices from €46 to €815 per month – last updated November 11, 2026.
 
 ## All colivings
 
@@ -15,6 +15,7 @@
 | Niu WTC Departamentos | Mexico City | On request | 4.8 (34) | private | 1 night | Permanent |
 | Triver Coliving | Mexico City | from $60/night | 4.4 (305) | private, shared | 1 night | Permanent |
 | Dynamite Circle — DCMEX 2027 | Mexico City | from $1,099/ticket | — | — | — | Festival |
+| Hello Mira — Mexico City | Mexico City | from €65/night | — | private, shared | 14 nights | Permanent |
 
 ## Price distribution
 

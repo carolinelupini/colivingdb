@@ -1,6 +1,6 @@
 # Coliving in Valencia, Spain
 
-> 6 colivings in Valencia, Spain, prices from €750 to €1,200 per month – last updated November 5, 2026.
+> 7 colivings in Valencia, Spain, prices from €750 to €1,690 per month – last updated November 11, 2026.
 
 ## All colivings
 
@@ -12,6 +12,7 @@
 | Vivarium Coliving & Coworking | Valencia | from €985/mo | 4.9 (70) | private | 31 nights | Permanent |
 | Casa Gori — Coliving, Art Studio & Gardens | Valencia | from €1,200/mo | — | private | 3 months | Permanent |
 | Folks Coliving | Valencia | from €1,500/mo | 4.9 (52) | private | 11 nights | Permanent |
+| WiFi Tribe — Valencia | Valencia | from $1,890/mo | — | private, shared | 28 nights | Pop-up |
 
 ## Price distribution
 
@@ -19,6 +20,10 @@
 |---|---|
 | 500–800 | 2 |
 | 800–1200 | 2 |
-| 1200–2000 | 2 |
+| 1200–2000 | 3 |
+
+## Upcoming pop-ups
+
+- WiFi Tribe — Valencia — Mar 26 - Apr 23, 2027
 
 Source: https://colivingdb.com/city/spain/valencia/

@@ -1,6 +1,6 @@
 # Coliving in Liddes, Switzerland
 
-> 3 colivings and 1 nomad festival in Liddes, Switzerland, prices from €500 to €935 per month – last updated November 5, 2026.
+> 3 colivings and 1 nomad festival in Liddes, Switzerland, prices from €500 to €935 per month – last updated November 11, 2026.
 
 ## All colivings
 

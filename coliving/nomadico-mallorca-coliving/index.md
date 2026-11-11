@@ -1,6 +1,6 @@
 # Nomadico Mallorca Coliving
 
-> Coliving in Búger, Mallorca, Spain. Last updated November 5, 2026.
+> Coliving in Búger, Mallorca, Spain. Last updated November 11, 2026.
 
 - **Location:** Búger, Mallorca, Spain
 - **Type:** Permanent coliving

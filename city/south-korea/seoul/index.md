@@ -1,17 +1,22 @@
 # Coliving in Seoul, South Korea
 
-> 1 coliving in Seoul, South Korea, prices from €990 to €990 per month – last updated November 5, 2026.
+> 2 colivings in Seoul, South Korea, prices from €990 to €990 per month – last updated November 11, 2026.
 
 ## All colivings
 
 | Coliving | City | Price from | Rating | Rooms | Min stay | Type |
 |---|---|---|---|---|---|---|
 | Seoul Nooks Community Living | Seoul | from €990/mo | — | private | 14 nights | Permanent |
+| RemotePunks — Seoul | Seoul | from €975/event | — | shared, private | — | Pop-up |
 
 ## Price distribution
 
 | Band (EUR/mo) | Colivings |
 |---|---|
 | 800–1200 | 1 |
+
+## Upcoming pop-ups
+
+- RemotePunks — Seoul — Sep 4 - Oct 2, 2027
 
 Source: https://colivingdb.com/city/south-korea/seoul/

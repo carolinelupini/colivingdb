@@ -1,6 +1,6 @@
 # Casa Kandamy
 
-> Coliving in Tobia, Colombia. Last updated November 5, 2026.
+> Coliving in Tobia, Colombia. Last updated November 11, 2026.
 
 - **Location:** Tobia, Colombia
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # Beach coliving in Indonesia
 
-> 10 of the 20 colivings in Indonesia are by the beach, cheapest first. Last updated November 5, 2026.
+> 10 of the 22 colivings in Indonesia are by the beach, cheapest first. Last updated November 11, 2026.
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|

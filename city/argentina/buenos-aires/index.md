@@ -1,6 +1,6 @@
 # Coliving in Buenos Aires, Argentina
 
-> 8 colivings in Buenos Aires, Argentina, prices from €506 to €1,466 per month – last updated November 5, 2026.
+> 10 colivings in Buenos Aires, Argentina, prices from €506 to €1,466 per month – last updated November 11, 2026.
 
 ## All colivings
 
@@ -13,7 +13,9 @@
 | Coliving Vibrant Buenos Aires | Buenos Aires | On request | 4.6 (47) | private | 7 nights | Permanent |
 | Draper Startup House Buenos Aires | Buenos Aires | On request | — | private, shared, dorm | — | Permanent |
 | Noma Collective — Buenos Aires (Mar 2027) | Buenos Aires | from $2,890/event | — | — | — | Pop-up |
-| Noma Collective — Buenos Aires (Apr 2027) | Buenos Aires | from $2,890/event | — | — | — | Pop-up |
+| Noma Collective — Buenos Aires (Sep 2027) | Buenos Aires | from $2,890/event | — | — | — | Pop-up |
+| Noma Collective — Buenos Aires (Oct 2027) | Buenos Aires | from $2,890/event | — | — | — | Pop-up |
+| Noma Tribe — Buenos Aires | Buenos Aires | from $1,750/event | — | private, shared | — | Pop-up |
 
 ## Price distribution
 
@@ -27,7 +29,9 @@
 
 - Noma Collective — Buenos Aires (Mar 2027) — Mar 28 - Apr 25, 2027
 - WiFi Tribe — Buenos Aires — Feb 12 - Mar 12, 2027
-- Noma Collective — Buenos Aires (Apr 2027) — Apr 25 - May 23, 2027
 - Casa Basilico — Buenos Aires — Mar 21 - Apr 21, 2027
+- Noma Collective — Buenos Aires (Sep 2027) — Sep 26 - Oct 24, 2027
+- Noma Collective — Buenos Aires (Oct 2027) — Oct 24 - Nov 21, 2027
+- Noma Tribe — Buenos Aires — Mar 28 - Apr 11, 2027
 
 Source: https://colivingdb.com/city/argentina/buenos-aires/

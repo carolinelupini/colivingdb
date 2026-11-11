@@ -1,6 +1,6 @@
 # Coliving in Aulus-les-Bains, France
 
-> 1 coliving in Aulus-les-Bains, France – last updated November 5, 2026.
+> 1 coliving in Aulus-les-Bains, France – last updated November 11, 2026.
 
 ## All colivings
 

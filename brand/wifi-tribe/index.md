@@ -1,6 +1,6 @@
 # WiFi Tribe chapters 2026–2027
 
-> 22 upcoming WiFi Tribe chapters in 17 countries, sorted by date. Updated November 5, 2026.
+> 26 upcoming WiFi Tribe chapters in 20 countries, sorted by date. Updated November 11, 2026.
 
 | Chapter | Where | Dates | Price from |
 |---|---|---|---|
@@ -21,10 +21,14 @@
 | [WiFi Tribe — Swakopmund (Feb 2027)](/coliving/wifi-tribe-swakopmund-feb-2027/index.md) | Swakopmund, Namibia | Feb 12 - Mar 12, 2027 | from $1,890/mo |
 | [WiFi Tribe — Cape Town (Mar 2027)](/coliving/wifi-tribe-cape-town-mar-2027/index.md) | Cape Town, South Africa | Mar 12 - Apr 9, 2027 | from $1,790/mo |
 | [WiFi Tribe — Siargao](/coliving/wifi-tribe-siargao/index.md) | Siargao, Philippines | Mar 19 - Apr 16, 2027 | from $1,690/mo |
+| [WiFi Tribe — Valencia](/coliving/wifi-tribe-valencia/index.md) | Valencia, Spain | Mar 26 - Apr 23, 2027 | from $1,890/mo |
 | [WiFi Tribe — Athens](/coliving/wifi-tribe-athens/index.md) | Athens, Greece | Apr 23 - May 21, 2027 | from $1,990/mo |
 | [WiFi Tribe — Las Terrenas](/coliving/wifi-tribe-las-terrenas/index.md) | Las Terrenas, Dominican Republic | Apr 23 - May 21, 2027 | from $1,690/mo |
 | [WiFi Tribe — Palma de Mallorca](/coliving/wifi-tribe-palma-de-mallorca/index.md) (fully booked) | Palma de Mallorca, Spain | Apr 23 - May 21, 2027 | from $1,890/mo |
+| [WiFi Tribe — Taipei](/coliving/wifi-tribe-taipei/index.md) | Taipei, Taiwan | Apr 23 - May 21, 2027 | from $1,890/mo |
 | [WiFi Tribe — Istanbul](/coliving/wifi-tribe-istanbul/index.md) | Istanbul, Turkey | May 28 - Jun 25, 2027 | from $1,990/mo |
+| [WiFi Tribe — Kyoto](/coliving/wifi-tribe-kyoto/index.md) | Kyoto, Japan | May 28 - Jun 25, 2027 | from $2,090/mo |
 | [WiFi Tribe — Quito](/coliving/wifi-tribe-quito/index.md) | Quito, Ecuador | May 28 - Jun 25, 2027 | from $1,480/mo |
+| [WiFi Tribe — Tbilisi](/coliving/wifi-tribe-tbilisi/index.md) | Tbilisi, Georgia | May 28 - Jun 25, 2027 | from $1,690/mo |
 
 Source: https://colivingdb.com/brand/wifi-tribe/

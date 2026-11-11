@@ -1,6 +1,6 @@
 # Pangea — Dakar
 
-> Coworking chapter in Dakar, Senegal. Last updated November 5, 2026.
+> Coworking chapter in Dakar, Senegal. Last updated November 11, 2026.
 
 - **Location:** Dakar, Senegal
 - **Type:** Pop-up coworking chapter — accommodation not included

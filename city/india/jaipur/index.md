@@ -1,6 +1,6 @@
 # Coliving in Jaipur, India
 
-> 1 coliving in Jaipur, India, prices from €73 to €73 per month – last updated November 5, 2026.
+> 1 coliving in Jaipur, India, prices from €73 to €73 per month – last updated November 11, 2026.
 
 ## All colivings
 

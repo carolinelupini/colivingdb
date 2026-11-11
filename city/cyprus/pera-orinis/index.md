@@ -1,6 +1,6 @@
 # Coliving in Pera Orinis, Cyprus
 
-> 1 coliving in Pera Orinis, Cyprus – last updated November 5, 2026.
+> 1 coliving in Pera Orinis, Cyprus – last updated November 11, 2026.
 
 ## All colivings
 
@@ -10,6 +10,6 @@
 
 ## Upcoming pop-ups
 
-- Aperanti Agrotourism — Autumn/winter season 2026–27 (exact dates not published)
+- Aperanti Agrotourism — Nov 8, 2026 - Mar 7, 2027
 
 Source: https://colivingdb.com/city/cyprus/pera-orinis/

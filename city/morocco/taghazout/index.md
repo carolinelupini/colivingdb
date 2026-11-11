@@ -1,6 +1,6 @@
 # Coliving in Taghazout, Morocco
 
-> 4 colivings and 1 nomad festival in Taghazout, Morocco, prices from €420 to €1,300 per month – last updated November 5, 2026.
+> 4 colivings in Taghazout, Morocco, prices from €420 to €1,300 per month – last updated November 11, 2026.
 
 ## All colivings
 
@@ -10,7 +10,6 @@
 | Nomadico Coliving Taghazout | Taghazout | from €715/mo | 4.9 (84) | private, shared | — | Permanent |
 | SunDesk Coliving | Taghazout | from €885/mo | 4.9 (176) | private, shared | 10 nights | Permanent |
 | The Tasga Oudrar II | Taghazout | from $1,429/mo | — | private, dorm | 30 nights | Permanent |
-| Arab Nomad Fest: Morocco 2026 | Taghazout | from $297/ticket | — | — | — | Festival |
 
 ## Price distribution
 
@@ -20,9 +19,5 @@
 | 500–800 | 1 |
 | 800–1200 | 1 |
 | 1200–2000 | 1 |
-
-## Upcoming pop-ups
-
-- Arab Nomad Fest: Morocco 2026 — Oct 26 - Nov 1, 2026
 
 Source: https://colivingdb.com/city/morocco/taghazout/

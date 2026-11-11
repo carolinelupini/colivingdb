@@ -1,6 +1,6 @@
 # Coliving in Portugal under €1,000 a month
 
-> 22 of the 59 colivings in Portugal list a monthly rate under €1,000 for their cheapest room (converted to euros where the operator prices in another currency), cheapest first. Last updated November 5, 2026.
+> 22 of the 60 colivings in Portugal list a monthly rate under €1,000 for their cheapest room (converted to euros where the operator prices in another currency), cheapest first. Last updated November 11, 2026.
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
@@ -13,7 +13,6 @@
 | [Caminho Coliving](/coliving/caminho-coliving/index.md) | Moreira, Maia (Porto area) | from €700/mo | private | 30 nights | Permanent |
 | [Lava Coliving & Coworking](/coliving/lava-coliving-and-coworking/index.md) | Ribeira Grande, São Miguel | from €25/night | private, shared | 7 nights | Permanent |
 | [Calcada Coliving (Calçada Guesthouse)](/coliving/calcada-coliving-calcada-guesthouse/index.md) | Tavira | from €780/mo | private | 29 nights | Permanent |
-| [Banana House (Ponta do Sol Coliving)](/coliving/banana-house-ponta-do-sol-coliving/index.md) | Ponta do Sol, Madeira | from €798/mo | private | 30 nights | Permanent |
 | [Barefoot Guesthouse & Coliving Ericeira](/coliving/barefoot-guesthouse-and-coliving-ericeira/index.md) | Ericeira | from €800/mo | private | 30 nights | Permanent |
 | [Outsite Algarve - Sagres](/coliving/outsite-algarve-sagres/index.md) | Sagres | from €800/mo | private | 2 nights | Permanent |
 | [Outsite Ericeira - Boavista](/coliving/outsite-ericeira-boavista/index.md) | Ericeira | from €800/mo | private | — | Permanent |
@@ -26,5 +25,6 @@
 | [A ver o Mar 1 | Coliving & Coworking | Funchal, Madeira](/coliving/a-ver-o-mar-1-coliving-and-coworking-funchal-madeira/index.md) | Ponta do Sol | from €920/mo | private, dorm | 14 nights | Permanent |
 | [Casa15 Azores](/coliving/casa15-azores/index.md) | Sao Miguel, Azores | from €950/mo | private | — | Permanent |
 | [Swelldesk Coliving & Coworking](/coliving/swelldesk-coliving-and-coworking/index.md) | Baleal, Peniche | from €960/mo | private, shared | — | Permanent |
+| [Banana House (Ponta do Sol Coliving)](/coliving/banana-house-ponta-do-sol-coliving/index.md) | Ponta do Sol, Madeira | from €997/mo | private | 30 nights | Permanent |
 
 Source: https://colivingdb.com/country/portugal/under-1000-eur/

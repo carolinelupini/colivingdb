@@ -1,6 +1,6 @@
 # Coliving in Italy
 
-> 27 colivings and 2 nomad festivals in Italy, prices from €540 to €1,500 per month – last updated November 5, 2026.
+> 26 colivings and 2 nomad festivals in Italy, prices from €540 to €1,500 per month – last updated November 11, 2026.
 
 ## All colivings
 
@@ -18,7 +18,6 @@
 | Beet - Botanical Garden (Cortile del Giuoco Home) | Palermo | from $1,143/mo | — | private | 30 nights | Permanent |
 | Casa Netural | Matera | from €950/mo | 4.9 (141) | private | 1 night | Permanent |
 | Coliving Sardinia | Porto Cervo, Sardinia | from €950/mo | 4.9 (45) | private, shared | 14 nights | Permanent |
-| Casa Basilico — Puglia | Puglia | from €997/mo | — | — | 14 nights | Pop-up |
 | ecoVita | San Priamo, San Vito, Sardinia | from €1,140/mo | 4.9 (23) | private | 3 nights | Permanent |
 | Canestanco 18 Living | Santa Croce Camerina, Sicily | from €1,200/mo | 5.0 (11) | private | — | Permanent |
 | Boundless Life Tuscany | Pistoia | from €1,500/mo | 5.0 (1) | private | — | Permanent |
@@ -28,29 +27,28 @@
 | Mojo Cohouse | Palermo | On request | 4.6 (59) | private | — | Permanent |
 | Nesting Away - Coliving in Italy | Rome | from €41/night | 4.8 (62) | private | 14 nights | Permanent |
 | Spacebility | Cagliari (Sardinia) | On request | 4.9 (646) | private | — | Permanent |
-| Taste Remote | Civita Castellana | from €690/event | — | private, shared | 7 nights | Pop-up |
 | Treballu Rural Community Hub | Laconi (Sardinia) | On request | 4.6 (19) | private, shared | — | Permanent |
 | Wome coliving | Campo Tartano (Val Tartano) | On request | 5.0 (31) | private, shared | 8 nights | Permanent |
-| Trame Living | Puglia | from €3,800/wk | — | — | 7 nights | Pop-up |
 | WiFi Tribe — Tribe Fest 2027 | Volterra (Tuscany) | from $790/event | — | private, shared | — | Festival |
 | Italia Nomad Fest 2027 | Palermo | On request | — | — | — | Festival |
 | Tursi Digital Nomads — Matera (2027) | Matera | from €849/event | — | private | — | Pop-up |
+| RemotePunks — Palermo | Palermo | from €975/event | — | shared, private | — | Pop-up |
+| CoLivers — Mondello | Mondello | from €799/event | — | shared | 7 nights | Pop-up |
 
 ## Price distribution
 
 | Band (EUR/mo) | Colivings |
 |---|---|
 | 500–800 | 9 |
-| 800–1200 | 5 |
+| 800–1200 | 4 |
 | 1200–2000 | 3 |
 
 ## Upcoming pop-ups
 
-- Casa Basilico — Puglia — Aug 29 - Oct 25, 2026
-- Taste Remote — October 8-31, 2026
-- Trame Living — Oct 10 - 17, 2026
 - WiFi Tribe — Tribe Fest 2027 — Sep 4 - 8, 2027
 - Italia Nomad Fest 2027 — Mar 6 - 14, 2027
 - Tursi Digital Nomads — Matera (2027) — Feb 28 - Mar 21, 2027
+- RemotePunks — Palermo — May 8 - Jun 5, 2027
+- CoLivers — Mondello — Mar 1 - Mar 21, 2027
 
 Source: https://colivingdb.com/country/italy/

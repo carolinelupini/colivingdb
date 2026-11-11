@@ -1,6 +1,6 @@
 # Njivice Home
 
-> Coliving in Njivice, Herceg Novi (near Kotor), Montenegro. Last updated November 5, 2026.
+> Coliving in Njivice, Herceg Novi (near Kotor), Montenegro. Last updated November 11, 2026.
 
 - **Location:** Njivice, Herceg Novi (near Kotor), Montenegro
 - **Type:** Permanent coliving

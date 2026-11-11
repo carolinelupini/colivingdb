@@ -1,6 +1,6 @@
 # Mountain coliving in France
 
-> 5 of the 17 colivings in France are in the mountains, cheapest first. Last updated November 5, 2026.
+> 5 of the 17 colivings in France are in the mountains, cheapest first. Last updated November 11, 2026.
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|

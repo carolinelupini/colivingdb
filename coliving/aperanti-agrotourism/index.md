@@ -1,10 +1,10 @@
 # Aperanti Agrotourism
 
-> Coliving in Pera Orinis, Cyprus. Last updated November 5, 2026.
+> Coliving in Pera Orinis, Cyprus. Last updated November 11, 2026.
 
 - **Location:** Pera Orinis, Cyprus
 - **Type:** Pop-up / dated edition
-- **Dates:** Autumn/winter season 2026–27 (exact dates not published)
+- **Dates:** Nov 8, 2026 - Mar 7, 2027
 - **Price:** from €43/night
 - **Price note:** from €43/night for a double room with its own bathroom; 20–25% off stays of 4+ weeks. Includes on-site activities (cheese making, cooking lessons, olive harvesting, foraging, trekking), utilities and weekly cleaning
 - **Room types:** private

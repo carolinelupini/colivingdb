@@ -1,6 +1,6 @@
 # Coliving in Madrid, Spain
 
-> 1 coliving in Madrid, Spain, prices from €740 to €740 per month – last updated November 5, 2026.
+> 1 coliving in Madrid, Spain, prices from €740 to €740 per month – last updated November 11, 2026.
 
 ## All colivings
 

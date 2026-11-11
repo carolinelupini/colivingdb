@@ -1,6 +1,6 @@
 # Coliving in Sierro, Almeria (Andalucia), Spain
 
-> 1 coliving in Sierro, Almeria (Andalucia), Spain – last updated November 5, 2026.
+> 1 coliving in Sierro, Almeria (Andalucia), Spain – last updated November 11, 2026.
 
 ## All colivings
 

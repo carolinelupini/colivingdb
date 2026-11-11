@@ -1,6 +1,6 @@
 # Bansko Nomad Fest 2027
 
-> Nomad festival in Bansko, Bulgaria. Last updated November 5, 2026.
+> Nomad festival in Bansko, Bulgaria. Last updated November 11, 2026.
 
 - **Location:** Bansko, Bulgaria
 - **Type:** Nomad festival / dated event — accommodation not included

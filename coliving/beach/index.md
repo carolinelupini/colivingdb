@@ -1,6 +1,6 @@
 # Beach colivings
 
-> 173 colivings by the beach in 37 countries. Updated November 5, 2026.
+> 173 colivings by the beach in 37 countries. Updated November 11, 2026.
 
 | Coliving | City | Country | Price from | Min stay | Type |
 |---|---|---|---|---|---|
@@ -126,9 +126,9 @@
 | [Wild Souls Ericeira](/coliving/wild-souls-ericeira/index.md) | Ericeira | Portugal | from €1,800/mo | 7 nights | Permanent |
 | [SeaSpace](/coliving/seaspace/index.md) | Newquay | United Kingdom | from £1,625/mo | — | Permanent |
 | [Weligama Bay Residence](/coliving/weligama-bay-residence/index.md) | Weligama | Sri Lanka | from $2,250/mo | 30 nights | Permanent |
-| [Casa Basilico — Pipa](/coliving/casa-basilico-pipa/index.md) | Pipa (Tibau do Sul) | Brazil | from €1,997/mo | 28 nights | Pop-up |
 | [Outsite San Diego - Encinitas Ponto](/coliving/outsite-san-diego-encinitas-ponto/index.md) | Encinitas | United States | from $2,209/mo | — | Permanent |
 | [Darocotan Home](/coliving/darocotan-home/index.md) | El Nido | Philippines | from $2,846/mo | 30 nights | Permanent |
+| [Casa Basilico — Pipa](/coliving/casa-basilico-pipa/index.md) | Pipa (Tibau do Sul) | Brazil | from €2,447/mo | 28 nights | Pop-up |
 | [Surfescape](/coliving/surfescape/index.md) | Lajares, Fuerteventura | Spain | from €2,500/mo | — | Permanent |
 | [Boundless Life Kamakura](/coliving/boundless-life-kamakura/index.md) | Kamakura | Japan | from €2,600/mo | — | Permanent |
 | [Boundless Life — Barcelona](/coliving/boundless-life-barcelona/index.md) | Barcelona (Poblenou) | Spain | from €2,900/mo | — | Pop-up |

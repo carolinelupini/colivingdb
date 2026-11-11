@@ -1,6 +1,6 @@
 # Coliving in India
 
-> 9 colivings in India, prices from €73 to €540 per month – last updated November 5, 2026.
+> 9 colivings in India, prices from €73 to €540 per month – last updated November 11, 2026.
 
 ## All colivings
 

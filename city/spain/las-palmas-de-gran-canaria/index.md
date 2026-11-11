@@ -1,6 +1,6 @@
 # Coliving in Las Palmas de Gran Canaria, Spain
 
-> 7 colivings in Las Palmas de Gran Canaria, Spain, prices from €754 to €1,677 per month – last updated November 5, 2026.
+> 8 colivings in Las Palmas de Gran Canaria, Spain, prices from €754 to €1,677 per month – last updated November 11, 2026.
 
 ## All colivings
 
@@ -13,6 +13,7 @@
 | Repeople Casanova Coliving | Las Palmas de Gran Canaria | from €1,677/mo | 5.0 (2) | private | — | Permanent |
 | ReStation | Las Palmas de Gran Canaria | On request | — | — | — | Permanent |
 | The Wave Temple | Surfhouse, Coliving | Las Palmas de Gran Canaria | On request | 4.9 (55) | — | — | Permanent |
+| Noma Collective — Las Palmas (Gran Canaria) | Las Palmas de Gran Canaria | from $2,990/event | — | — | — | Pop-up |
 
 ## Price distribution
 
@@ -20,5 +21,9 @@
 |---|---|
 | 500–800 | 1 |
 | 1200–2000 | 4 |
+
+## Upcoming pop-ups
+
+- Noma Collective — Las Palmas (Gran Canaria) — Jun 20 - Jul 18, 2027
 
 Source: https://colivingdb.com/city/spain/las-palmas-de-gran-canaria/

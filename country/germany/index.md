@@ -1,6 +1,6 @@
 # Coliving in Germany
 
-> 4 colivings in Germany, prices from €645 to €819 per month – last updated November 5, 2026.
+> 4 colivings in Germany, prices from €645 to €819 per month – last updated November 11, 2026.
 
 ## All colivings
 

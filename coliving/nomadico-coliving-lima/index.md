@@ -1,6 +1,6 @@
 # Nomadico Coliving Lima
 
-> Coliving in Lima (Barranco), Peru. Last updated November 5, 2026.
+> Coliving in Lima (Barranco), Peru. Last updated November 11, 2026.
 
 - **Status:** <b>Not open yet</b> — opening January 1
 - **Location:** Lima (Barranco), Peru

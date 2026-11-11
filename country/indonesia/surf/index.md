@@ -1,6 +1,6 @@
 # Surf coliving in Indonesia
 
-> 12 of the 20 colivings in Indonesia are near a surf break, cheapest first. Last updated November 5, 2026.
+> 12 of the 22 colivings in Indonesia are near a surf break, cheapest first. Last updated November 11, 2026.
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|

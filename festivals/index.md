@@ -1,22 +1,16 @@
 # Digital nomad festivals 2026–2027
 
-> 22 nomad festivals, sorted by date. 18 of them sell a ticket only, so you book your own place to stay; the last column counts the colivings on colivingDB within 40 km. Updated November 5, 2026.
+> 16 nomad festivals, sorted by date. 13 of them sell a ticket only, so you book your own place to stay; the last column counts the colivings on colivingDB within 40 km. Updated November 11, 2026.
 
 | Festival | Where | Dates | Price from | Accommodation | Colivings within 40 km |
 |---|---|---|---|---|---|
-| [Hiroshima Setouchi Nomad Fest 2026](/coliving/hiroshima-setouchi-nomad-fest-2026/index.md) | Hiroshima, Japan | Oct 11 - Nov 1, 2026 | from $420/ticket | Not included | 0 |
-| [Incheon Autumn Workation 2026](/coliving/incheon-autumn-workation-2026/index.md) | Incheon, South Korea | Oct 12 - 26, 2026 | from KRW 400,000/event | Included | 2 |
-| [Nomads in Paradise 2026](/coliving/nomads-in-paradise-2026/index.md) | General Luna, Philippines | Oct 16 - 25, 2026 | from PHP 7,999/ticket | Not included | 3 |
-| [Dynamite Circle — DCBKK 2026](/coliving/dynamite-circle-dcbkk-2026/index.md) | Bangkok, Thailand | Oct 22 - 25, 2026 | from $998/ticket | Not included | 3 |
-| [Extraordinary Travel Festival III 2026](/coliving/extraordinary-travel-festival-iii-2026/index.md) | Bangkok, Thailand | Oct 22 - 25, 2026 | from $525/ticket | Not included | 3 |
-| [Arab Nomad Fest: Morocco 2026](/coliving/arab-nomad-fest-morocco-2026/index.md) | Taghazout, Morocco | Oct 26 - Nov 1, 2026 | from $297/ticket | Not included | 6 |
 | [Founder Island Fest 2026](/coliving/founder-island-fest-2026/index.md) | Madeira, Portugal | Dec 4 - 10, 2026 | from €1,495/event | Included | 12 |
 | [Snomad Fest 2026](/coliving/snomad-fest-2026/index.md) | Liddes, Switzerland | Dec 6 - 13, 2026 | from CHF 450/ticket | Not included | 8 |
 | [Nomad Summit Chiang Mai 2027](/coliving/nomad-summit-chiang-mai-2027/index.md) | Chiang Mai, Thailand | Jan 15 - 24, 2027 | from €299/ticket | Not included | 11 |
-| [Nomad Week Cape Town 2027](/coliving/nomad-week-cape-town-2027/index.md) | Cape Town, South Africa | Feb 17 - 26, 2027 | from $299/ticket | Not included | 16 |
+| [Nomad Week Cape Town 2027](/coliving/nomad-week-cape-town-2027/index.md) | Cape Town, South Africa | Feb 17 - 26, 2027 | from $299/ticket | Not included | 17 |
 | [Italia Nomad Fest 2027](/coliving/italia-nomad-fest-2027/index.md) | Palermo, Italy | Mar 6 - 14, 2027 | On request | Not included | 2 |
 | [Da Nang Nomad Fest 2027](/coliving/da-nang-nomad-fest-2027/index.md) | Da Nang, Vietnam | Mar 19 - 28, 2027 | On request | Not included | 7 |
-| [Dynamite Circle — DCMEX 2027](/coliving/dynamite-circle-dcmex-2027/index.md) | Mexico City, Mexico | Apr 6 - 9, 2027 | from $1,099/ticket | Not included | 8 |
+| [Dynamite Circle — DCMEX 2027](/coliving/dynamite-circle-dcmex-2027/index.md) | Mexico City, Mexico | Apr 6 - 9, 2027 | from $1,099/ticket | Not included | 9 |
 | [Digital Nomad Summit Santo Domingo 2027](/coliving/digital-nomad-summit-santo-domingo-2027/index.md) | Santo Domingo, Dominican Republic | Apr 8 - 9, 2027 | On request | Not included | 0 |
 | [Alicante Nomad Summit 2027](/coliving/alicante-nomad-summit-2027/index.md) | Alicante, Spain | Apr 19 - 25, 2027 | On request | Not included | 1 |
 | [Taiwan Digital Fest 2027 — Hualien Workation](/coliving/taiwan-digital-fest-2027-hualien-workation/index.md) | Hualien City, Taiwan | Apr 19 - 30, 2027 | from $200/ticket | Not included | 0 |

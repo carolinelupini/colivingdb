@@ -1,6 +1,6 @@
 # Coliving in Santo Domingo, Dominican Republic
 
-> 1 nomad festival in Santo Domingo, Dominican Republic – last updated November 5, 2026.
+> 1 nomad festival in Santo Domingo, Dominican Republic – last updated November 11, 2026.
 
 ## All colivings
 

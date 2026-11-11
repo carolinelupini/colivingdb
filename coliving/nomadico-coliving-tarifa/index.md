@@ -1,6 +1,6 @@
 # Nomadico Coliving Tarifa
 
-> Coliving in Tarifa, Spain. Last updated November 5, 2026.
+> Coliving in Tarifa, Spain. Last updated November 11, 2026.
 
 - **Location:** Tarifa, Spain
 - **Type:** Permanent coliving

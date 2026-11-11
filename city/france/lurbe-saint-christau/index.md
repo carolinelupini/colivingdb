@@ -1,6 +1,6 @@
 # Coliving in Lurbe-Saint-Christau, France
 
-> 1 coliving in Lurbe-Saint-Christau, France, prices from €420 to €420 per month – last updated November 5, 2026.
+> 1 coliving in Lurbe-Saint-Christau, France, prices from €420 to €420 per month – last updated November 11, 2026.
 
 ## All colivings
 

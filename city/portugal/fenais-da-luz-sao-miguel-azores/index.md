@@ -1,6 +1,6 @@
 # Coliving in Fenais da Luz, São Miguel, Azores, Portugal
 
-> 2 colivings in Fenais da Luz, São Miguel, Azores, Portugal, prices from €2,160 to €2,160 per month – last updated November 5, 2026.
+> 2 colivings in Fenais da Luz, São Miguel, Azores, Portugal, prices from €2,160 to €2,160 per month – last updated November 11, 2026.
 
 ## All colivings
 

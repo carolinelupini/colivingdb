@@ -1,6 +1,6 @@
 # Coliving in France
 
-> 17 colivings in France, prices from €370 to €1,200 per month – last updated November 5, 2026.
+> 17 colivings in France, prices from €370 to €1,200 per month – last updated November 11, 2026.
 
 ## All colivings
 

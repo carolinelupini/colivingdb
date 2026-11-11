@@ -1,6 +1,6 @@
 # Coliving in Sinaia, Romania
 
-> 2 colivings in Sinaia, Romania, prices from €670 to €670 per month – last updated November 5, 2026.
+> 2 colivings in Sinaia, Romania, prices from €670 to €670 per month – last updated November 11, 2026.
 
 ## All colivings
 

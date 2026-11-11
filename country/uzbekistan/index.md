@@ -1,6 +1,6 @@
 # Coliving in Uzbekistan
 
-> 1 community chapter in Uzbekistan – last updated November 5, 2026.
+> 1 community chapter in Uzbekistan – last updated November 11, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Coliving in Singapore
 
-> 1 coliving in Singapore, prices from €1,800 to €1,800 per month – last updated November 5, 2026.
+> 1 coliving in Singapore, prices from €1,800 to €1,800 per month – last updated November 11, 2026.
 
 ## All colivings
 

@@ -1,15 +1,15 @@
 # Island coliving in Portugal
 
-> 19 of the 59 colivings in Portugal are on islands, cheapest first. Last updated November 5, 2026.
+> 19 of the 60 colivings in Portugal are on islands, cheapest first. Last updated November 11, 2026.
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
 | [Novovento](/coliving/novovento/index.md) | Ginetes, São Miguel, Azores | from €300/mo | private | 7 nights | Permanent |
 | [Lava Coliving & Coworking](/coliving/lava-coliving-and-coworking/index.md) | Ribeira Grande, São Miguel | from €25/night | private, shared | 7 nights | Permanent |
-| [Banana House (Ponta do Sol Coliving)](/coliving/banana-house-ponta-do-sol-coliving/index.md) | Ponta do Sol, Madeira | from €798/mo | private | 30 nights | Permanent |
 | [Colive Madeira](/coliving/colive-madeira/index.md) | Ponta do Sol, Madeira | from €900/mo | private, shared | — | Permanent |
 | [A ver o Mar 1 | Coliving & Coworking | Funchal, Madeira](/coliving/a-ver-o-mar-1-coliving-and-coworking-funchal-madeira/index.md) | Ponta do Sol | from €920/mo | private, dorm | 14 nights | Permanent |
 | [Casa15 Azores](/coliving/casa15-azores/index.md) | Sao Miguel, Azores | from €950/mo | private | — | Permanent |
+| [Banana House (Ponta do Sol Coliving)](/coliving/banana-house-ponta-do-sol-coliving/index.md) | Ponta do Sol, Madeira | from €997/mo | private | 30 nights | Permanent |
 | [Cabeco Alto Home](/coliving/cabeco-alto-home/index.md) | Santo da Serra (Madeira) | from $1,143/mo | private, shared | 30 nights | Permanent |
 | [Casa do Pico](/coliving/casa-do-pico/index.md) | Funchal, Madeira | from €1,050/mo | private, shared | 7 nights | Permanent |
 | [Quinta do Cabeço Alto - Coliving & Coworking Retreat Venue - Madeira Island](/coliving/quinta-do-cabeco-alto-coliving-and-coworking-retreat-venue-madeira-island/index.md) | Ponta do Sol | from €1,400/mo | private, shared | — | Permanent |

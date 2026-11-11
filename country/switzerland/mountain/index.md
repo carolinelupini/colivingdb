@@ -1,6 +1,6 @@
 # Mountain coliving in Switzerland
 
-> 10 of the 12 colivings in Switzerland are in the mountains, cheapest first. Last updated November 5, 2026.
+> 10 of the 13 colivings in Switzerland are in the mountains, cheapest first. Last updated November 11, 2026.
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|

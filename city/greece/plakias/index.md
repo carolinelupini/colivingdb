@@ -1,6 +1,6 @@
 # Coliving in Plakias, Greece
 
-> 1 coliving in Plakias, Greece, prices from €1,349 to €1,349 per month – last updated November 5, 2026.
+> 1 coliving in Plakias, Greece, prices from €1,349 to €1,349 per month – last updated November 11, 2026.
 
 ## All colivings
 

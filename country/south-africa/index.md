@@ -1,6 +1,6 @@
 # Coliving in South Africa
 
-> 22 colivings, 1 nomad festival and 2 community chapters in South Africa, prices from €345 to €2,069 per month – last updated November 5, 2026.
+> 23 colivings, 1 nomad festival and 2 community chapters in South Africa, prices from €345 to €2,069 per month – last updated November 11, 2026.
 
 ## All colivings
 
@@ -31,6 +31,7 @@
 | Pangea — Cape Town (Jan 2027) | Cape Town | from $299/ticket | — | — | — | Pop-up |
 | Pangea — Cape Town (Mar 2027) | Cape Town | from $299/ticket | — | — | — | Pop-up |
 | Nomad Week Cape Town 2027 | Cape Town | from $299/ticket | — | — | — | Festival |
+| Hello Mira — Cape Town | Cape Town | from €70/night | — | private, shared | 14 nights | Permanent |
 
 ## Price distribution
 

@@ -1,6 +1,6 @@
 # Coliving in Pousa, Galicia, Spain
 
-> 1 coliving in Pousa, Galicia, Spain, prices from €660 to €660 per month – last updated November 5, 2026.
+> 1 coliving in Pousa, Galicia, Spain, prices from €660 to €660 per month – last updated November 11, 2026.
 
 ## All colivings
 

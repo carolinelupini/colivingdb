@@ -1,6 +1,6 @@
 # Nomadico Coliving Buenos Aires
 
-> Coliving in Buenos Aires (Palermo), Argentina. Last updated November 5, 2026.
+> Coliving in Buenos Aires (Palermo), Argentina. Last updated November 11, 2026.
 
 - **Status:** <b>Not open yet</b> — opening November 15
 - **Location:** Buenos Aires (Palermo), Argentina

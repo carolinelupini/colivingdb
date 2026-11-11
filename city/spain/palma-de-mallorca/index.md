@@ -1,6 +1,6 @@
 # Coliving in Palma de Mallorca, Spain
 
-> 3 colivings in Palma de Mallorca, Spain, prices from €1,200 to €1,800 per month – last updated November 5, 2026.
+> 3 colivings in Palma de Mallorca, Spain, prices from €1,200 to €1,800 per month – last updated November 11, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Beach coliving in Mexico
 
-> 8 of the 27 colivings in Mexico are by the beach, cheapest first. Last updated November 5, 2026.
+> 8 of the 30 colivings in Mexico are by the beach, cheapest first. Last updated November 11, 2026.
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|

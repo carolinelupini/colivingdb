@@ -1,6 +1,6 @@
 # Outsite Santa Teresa - Maramar
 
-> Coliving in Santa Teresa, Costa Rica. Last updated November 5, 2026.
+> Coliving in Santa Teresa, Costa Rica. Last updated November 11, 2026.
 
 - **Location:** Santa Teresa, Costa Rica
 - **Type:** Permanent coliving

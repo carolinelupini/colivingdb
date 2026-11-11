@@ -1,6 +1,6 @@
 # Coliving in Castelldefels, Spain
 
-> 1 coliving in Castelldefels, Spain – last updated November 5, 2026.
+> 1 coliving in Castelldefels, Spain – last updated November 11, 2026.
 
 ## All colivings
 

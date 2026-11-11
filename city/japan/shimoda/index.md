@@ -1,6 +1,6 @@
 # Coliving in Shimoda, Japan
 
-> 1 community chapter in Shimoda, Japan – last updated November 5, 2026.
+> 1 community chapter in Shimoda, Japan – last updated November 11, 2026.
 
 ## All colivings
 

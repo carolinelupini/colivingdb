@@ -1,6 +1,6 @@
 # Coliving in Croatia
 
-> 3 colivings in Croatia, prices from €553 to €650 per month – last updated November 5, 2026.
+> 3 colivings in Croatia, prices from €553 to €650 per month – last updated November 11, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Colivings with a reader discount
 
-> 117 colivings and 1 festival from 22 operators give colivingDB readers a discount. The codes go out by email only: subscribe and they arrive in your welcome email. Last updated November 5, 2026.
+> 116 colivings and 1 festival from 21 operators give colivingDB readers a discount. The codes go out by email only: subscribe and they arrive in your welcome email. Last updated November 11, 2026.
 
 | Coliving | City | Country | Price from |
 |---|---|---|---|
@@ -10,7 +10,6 @@
 | [Nomadico Cape Town](/coliving/nomadico-cape-town/index.md) | Cape Town | South Africa | from €609/mo |
 | [AfricaNomads — Zanzibar (Jambiani, Mar 2027)](/coliving/africanomads-zanzibar-jambiani-mar-2027/index.md) | Jambiani, Zanzibar | Tanzania | from $440/wk |
 | [AfricaNomads — Kilimanjaro (Moshi)](/coliving/africanomads-kilimanjaro-moshi/index.md) | Kilimanjaro (Moshi) | Tanzania | from $440/wk |
-| [AfricaNomads — Zanzibar (Stone Town, Sep 2026)](/coliving/africanomads-zanzibar-stone-town-sep-2026/index.md) | Zanzibar | Tanzania | from $440/wk |
 | [Bali Bustle Coliving](/coliving/bali-bustle-coliving/index.md) | Legian, Bali | Indonesia | from IDR 8,700,000/mo |
 | [Nomadico Coliving Hiriketiya](/coliving/nomadico-coliving-hiriketiya/index.md) | Hiriketiya (Nilwella) | Sri Lanka | from €436/mo |
 | [Socialer Coliving & Coworking Space](/coliving/socialer-coliving-and-coworking-space/index.md) | Chiang Mai | Thailand | from €390/mo |
@@ -28,10 +27,9 @@
 | [Tertulia Coliving](/coliving/tertulia-coliving/index.md) | Vicchio (Mugello, Florence) | Italy | from €699/mo |
 | [Nomadico Coliving Kotor](/coliving/nomadico-coliving-kotor/index.md) | Kotor | Montenegro | from €690/mo |
 | [Pachamama Farm Retreat](/coliving/pachamama-farm-retreat/index.md) | Ukropci (above Kotor Bay) | Montenegro | from €695/mo |
-| [Nomad Cruise — NC18 Caribbean Islands](/coliving/nomad-cruise-nc18-caribbean-islands/index.md) | Barcelona → La Romana (Atlantic crossing) | Multiple | from €1,900/cruise |
 | [Nomadico](/coliving/nomadico/index.md) | Multiple | Multiple | from $955/mo |
 | [Arctic Coliving — Voss Mountain Lodge](/coliving/arctic-coliving-voss-mountain-lodge/index.md) | Mjølfjell (Voss) | Norway | from NOK 19,500/mo |
-| [Banana House (Ponta do Sol Coliving)](/coliving/banana-house-ponta-do-sol-coliving/index.md) | Ponta do Sol, Madeira | Portugal | from €798/mo |
+| [Banana House (Ponta do Sol Coliving)](/coliving/banana-house-ponta-do-sol-coliving/index.md) | Ponta do Sol, Madeira | Portugal | from €997/mo |
 | [Caminho Coliving](/coliving/caminho-coliving/index.md) | Moreira, Maia (Porto area) | Portugal | from €700/mo |
 | [Casa do Pico](/coliving/casa-do-pico/index.md) | Funchal, Madeira | Portugal | from €1,050/mo |
 | [Coliving The VALLEY with Coworking Space](/coliving/coliving-the-valley-with-coworking-space/index.md) | Rogé, Vale de Cambra | Portugal | from €510/mo |
@@ -67,7 +65,6 @@
 | [Rooral Coliving](/coliving/rooral-coliving/index.md) | Benarrabá | Spain | from €810/mo |
 | [Surfescape](/coliving/surfescape/index.md) | Lajares, Fuerteventura | Spain | from €2,500/mo |
 | [Taoro Coliving](/coliving/taoro-coliving/index.md) | Santa Úrsula, Tenerife | Spain | from €1,299/mo |
-| [The Better Neighbours — Lloret de Mar](/coliving/the-better-neighbours-lloret-de-mar/index.md) | Lloret de Mar | Spain | from €865/mo |
 | [Wonder House Coliving](/coliving/wonder-house-coliving/index.md) | Sant Feliu de Buixalleu, Girona | Spain | from €750/mo |
 | [iSlow Coliving](/coliving/islow-coliving/index.md) | Laxe, A Coruña, Galicia | Spain | from €70/night |
 | [Northliving](/coliving/northliving/index.md) | Häggdånger | Sweden | from €850/mo |
@@ -104,7 +101,7 @@
 | [AfricaNomads — Lamu Island (Feb 2027)](/coliving/africanomads-lamu-island-feb-2027/index.md) | Lamu Island | Kenya | from $440/wk |
 | [AfricaNomads — Lamu Island (Nov 2027)](/coliving/africanomads-lamu-island-nov-2027/index.md) | Lamu Island | Kenya | from $440/wk |
 | [AfricaNomads — Lamu to Zanzibar Expedition (Mar 2027)](/coliving/africanomads-lamu-to-zanzibar-expedition-mar-2027/index.md) | Lamu → Zanzibar | Tanzania | from $440/wk |
-| [Casa Basilico — Pipa](/coliving/casa-basilico-pipa/index.md) | Pipa (Tibau do Sul) | Brazil | from €1,997/mo |
+| [Casa Basilico — Pipa](/coliving/casa-basilico-pipa/index.md) | Pipa (Tibau do Sul) | Brazil | from €2,447/mo |
 | [Casa Basilico — Buenos Aires](/coliving/casa-basilico-buenos-aires/index.md) | Buenos Aires | Argentina | from €1,047/mo |
 | [THE-IF](/coliving/the-if/index.md) | Kyoto | Japan | from €32/night |
 | [Aulus Coliving](/coliving/aulus-coliving/index.md) | Aulus-les-Bains | France | from €30/night |
@@ -121,6 +118,8 @@
 | [Nomadico Coliving Trogir](/coliving/nomadico-coliving-trogir/index.md) | Trogir | Croatia | from €553/mo |
 | [Nomadico Coliving Mallorca — Llubí](/coliving/nomadico-coliving-mallorca-llubi/index.md) | Llubí, Mallorca | Spain | from €740/mo |
 | [Nomadico Coliving Buenos Aires](/coliving/nomadico-coliving-buenos-aires/index.md) | Buenos Aires (Palermo) | Argentina | from $740/mo |
+| [Casa Basilico — Grand Baie](/coliving/casa-basilico-grand-baie/index.md) | Grand Baie | Mauritius | from €2,247/mo |
+| [Nomadico Coliving Koh Samui](/coliving/nomadico-coliving-koh-samui/index.md) | Lamai, Koh Samui | Thailand | from THB 29,875/mo |
 | [Founder Island Fest 2026](/coliving/founder-island-fest-2026/index.md) | Madeira | Portugal | from €1,495/event |
 
 Get the codes: subscribe at https://colivingdb.com/#signupbox

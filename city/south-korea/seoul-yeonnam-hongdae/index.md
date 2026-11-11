@@ -1,6 +1,6 @@
 # Coliving in Seoul (Yeonnam/Hongdae), South Korea
 
-> 1 coliving in Seoul (Yeonnam/Hongdae), South Korea, prices from €525 to €525 per month – last updated November 5, 2026.
+> 1 coliving in Seoul (Yeonnam/Hongdae), South Korea, prices from €525 to €525 per month – last updated November 11, 2026.
 
 ## All colivings
 

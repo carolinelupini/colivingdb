@@ -1,6 +1,6 @@
 # Beach coliving in Spain
 
-> 35 of the 95 colivings in Spain are by the beach, cheapest first. Last updated November 5, 2026.
+> 35 of the 99 colivings in Spain are by the beach, cheapest first. Last updated November 11, 2026.
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|

@@ -1,6 +1,6 @@
 # Nomadico Coliving Mallorca — Llubí
 
-> Coliving in Llubí, Mallorca, Spain. Last updated November 5, 2026.
+> Coliving in Llubí, Mallorca, Spain. Last updated November 11, 2026.
 
 - **Location:** Llubí, Mallorca, Spain
 - **Type:** Permanent coliving

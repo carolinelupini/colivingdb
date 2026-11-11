@@ -1,6 +1,6 @@
 # Coliving in San Juan, Puerto Rico
 
-> 1 coliving in San Juan, Puerto Rico, prices from €2,184 to €2,184 per month – last updated November 5, 2026.
+> 1 coliving in San Juan, Puerto Rico, prices from €2,184 to €2,184 per month – last updated November 11, 2026.
 
 ## All colivings
 

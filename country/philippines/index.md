@@ -1,6 +1,6 @@
 # Coliving in Philippines
 
-> 7 colivings and 1 nomad festival in Philippines, prices from €525 to €2,280 per month – last updated November 5, 2026.
+> 7 colivings in Philippines, prices from €525 to €2,280 per month – last updated November 11, 2026.
 
 ## All colivings
 
@@ -13,7 +13,6 @@
 | Coworksurf Siargao (Lexias) | Siargao | On request | — | private, dorm | — | Permanent |
 | Lungga Coworking, Coliving & Cafe | General Luna (Siargao) | On request | 4.8 (95) | private, shared | — | Permanent |
 | Nomads Hub | Cebu | On request | 4.2 (144) | private, dorm | — | Permanent |
-| Nomads in Paradise 2026 | General Luna | from PHP 7,999/ticket | — | — | — | Festival |
 
 ## Price distribution
 
@@ -26,6 +25,5 @@
 ## Upcoming pop-ups
 
 - WiFi Tribe — Siargao — Mar 19 - Apr 16, 2027
-- Nomads in Paradise 2026 — Oct 16 - 25, 2026
 
 Source: https://colivingdb.com/country/philippines/

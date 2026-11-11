@@ -1,6 +1,6 @@
 # Seoul Nooks Community Living
 
-> Coliving in Seoul, South Korea. Last updated November 5, 2026.
+> Coliving in Seoul, South Korea. Last updated November 11, 2026.
 
 - **Location:** Seoul, South Korea
 - **Type:** Permanent coliving

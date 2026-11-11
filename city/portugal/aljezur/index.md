@@ -1,6 +1,6 @@
 # Coliving in Aljezur, Portugal
 
-> 1 coliving in Aljezur, Portugal, prices from €1,260 to €1,260 per month – last updated November 5, 2026.
+> 1 coliving in Aljezur, Portugal, prices from €1,260 to €1,260 per month – last updated November 11, 2026.
 
 ## All colivings
 

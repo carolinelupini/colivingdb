@@ -1,6 +1,6 @@
 # Coliving in Siem Reap, Cambodia
 
-> 1 coliving in Siem Reap, Cambodia, prices from €1,511 to €1,511 per month – last updated November 5, 2026.
+> 1 coliving in Siem Reap, Cambodia, prices from €1,511 to €1,511 per month – last updated November 11, 2026.
 
 ## All colivings
 

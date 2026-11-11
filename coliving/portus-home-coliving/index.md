@@ -1,6 +1,6 @@
 # Portus Home Coliving
 
-> Coliving in Vászoly, Hungary. Last updated November 5, 2026.
+> Coliving in Vászoly, Hungary. Last updated November 11, 2026.
 
 - **Location:** Vászoly, Hungary
 - **Type:** Permanent coliving

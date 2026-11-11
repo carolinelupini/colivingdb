@@ -1,6 +1,6 @@
 # Coliving in France under €1,500 a month
 
-> 10 of the 17 colivings in France list a monthly rate under €1,500 for their cheapest room (converted to euros where the operator prices in another currency), cheapest first. Last updated November 5, 2026.
+> 10 of the 17 colivings in France list a monthly rate under €1,500 for their cheapest room (converted to euros where the operator prices in another currency), cheapest first. Last updated November 11, 2026.
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|

@@ -1,6 +1,6 @@
 # Coliving in Playa Grande, Costa Rica
 
-> 1 coliving in Playa Grande, Costa Rica – last updated November 5, 2026.
+> 1 coliving in Playa Grande, Costa Rica – last updated November 11, 2026.
 
 ## All colivings
 

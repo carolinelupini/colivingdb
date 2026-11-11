@@ -1,6 +1,6 @@
 # Coliving in Kigali, Rwanda
 
-> 1 coliving in Kigali, Rwanda – last updated November 5, 2026.
+> 1 coliving in Kigali, Rwanda – last updated November 11, 2026.
 
 ## All colivings
 

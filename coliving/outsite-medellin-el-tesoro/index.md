@@ -1,6 +1,6 @@
 # Outsite Medellin - El Tesoro
 
-> Coliving in Medellin, Colombia. Last updated November 5, 2026.
+> Coliving in Medellin, Colombia. Last updated November 11, 2026.
 
 - **Location:** Medellin, Colombia
 - **Type:** Permanent coliving

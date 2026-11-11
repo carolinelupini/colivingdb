@@ -1,6 +1,6 @@
 # Coliving in Los Realejos, Spain
 
-> 1 coliving in Los Realejos, Spain – last updated November 5, 2026.
+> 1 coliving in Los Realejos, Spain – last updated November 11, 2026.
 
 ## All colivings
 

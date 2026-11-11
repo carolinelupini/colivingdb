@@ -1,6 +1,6 @@
 # Coliving in Roatan, Honduras
 
-> 2 colivings in Roatan, Honduras – last updated November 5, 2026.
+> 3 colivings in Roatan, Honduras – last updated November 11, 2026.
 
 ## All colivings
 
@@ -8,10 +8,12 @@
 |---|---|---|---|---|---|---|
 | Noma Collective — Roatan | Roatan | from $1,890/event | — | — | — | Pop-up |
 | Noma Collective — Family Edition (Honduras) | Roatan | from $5,190/event | — | — | — | Pop-up |
+| Noma Collective — Roatan (Aug 2027) | Roatan | from $1,890/event | — | — | — | Pop-up |
 
 ## Upcoming pop-ups
 
 - Noma Collective — Roatan — Jan 31 - Feb 28, 2027 (Alumni Exclusive)
 - Noma Collective — Family Edition (Honduras) — Jun 27 - Jul 25, 2027
+- Noma Collective — Roatan (Aug 2027) — Aug 1 - Aug 29, 2027
 
 Source: https://colivingdb.com/city/honduras/roatan/

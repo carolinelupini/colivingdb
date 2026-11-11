@@ -1,6 +1,6 @@
 # The Base Berlin One - Coliving | Hotel | Coworking | Gym | Café & Bar
 
-> Coliving in Berlin, Germany. Last updated November 5, 2026.
+> Coliving in Berlin, Germany. Last updated November 11, 2026.
 
 - **Location:** Berlin, Germany
 - **Type:** Permanent coliving

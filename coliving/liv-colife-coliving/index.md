@@ -1,6 +1,6 @@
 # LIV Colife - Coliving
 
-> Coliving in Porto, Portugal. Last updated November 5, 2026.
+> Coliving in Porto, Portugal. Last updated November 11, 2026.
 
 - **Location:** Porto, Portugal
 - **Type:** Permanent coliving

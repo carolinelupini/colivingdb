@@ -1,6 +1,6 @@
 # Mountain coliving in Spain
 
-> 19 of the 95 colivings in Spain are in the mountains, cheapest first. Last updated November 5, 2026.
+> 19 of the 99 colivings in Spain are in the mountains, cheapest first. Last updated November 11, 2026.
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|

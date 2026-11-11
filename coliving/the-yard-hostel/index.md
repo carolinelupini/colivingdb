@@ -1,6 +1,6 @@
 # The Yard Hostel
 
-> Coliving in Bangkok, Thailand. Last updated November 5, 2026.
+> Coliving in Bangkok, Thailand. Last updated November 11, 2026.
 
 - **Location:** Bangkok, Thailand
 - **Type:** Permanent coliving

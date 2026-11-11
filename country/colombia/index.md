@@ -1,6 +1,6 @@
 # Coliving in Colombia
 
-> 20 colivings in Colombia, prices from €333 to €1,567 per month – last updated November 5, 2026.
+> 22 colivings in Colombia, prices from €333 to €1,567 per month – last updated November 11, 2026.
 
 ## All colivings
 
@@ -26,6 +26,8 @@
 | Outsite Medellin - Manila | Medellin | On request | 4.7 (48) | private | 2 nights | Permanent |
 | Riverside ecoliving | Jericó | from $284/wk | 4.8 (99) | — | 1 night | Permanent |
 | Outsite Medellin - El Tesoro | Medellin | On request | 4.3 (3) | private | — | Permanent |
+| Noma Tribe — Medellín | Medellín | from $1,650/event | — | private, shared | — | Pop-up |
+| Hello Mira — Medellín | Medellín | from €65/night | — | private, shared | 14 nights | Permanent |
 
 ## Price distribution
 
@@ -35,5 +37,9 @@
 | 500–800 | 4 |
 | 800–1200 | 6 |
 | 1200–2000 | 1 |
+
+## Upcoming pop-ups
+
+- Noma Tribe — Medellín — May 1 - May 18, 2027
 
 Source: https://colivingdb.com/country/colombia/

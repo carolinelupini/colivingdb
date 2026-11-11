@@ -1,6 +1,6 @@
 # Riverside ecoliving
 
-> Coliving in Jericó, Colombia. Last updated November 5, 2026.
+> Coliving in Jericó, Colombia. Last updated November 11, 2026.
 
 - **Location:** Jericó, Colombia
 - **Type:** Permanent coliving

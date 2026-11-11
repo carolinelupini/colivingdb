@@ -1,6 +1,6 @@
 # Coliving in Greece with private rooms
 
-> 6 of the 9 colivings in Greece offer a private room, cheapest first. Last updated November 5, 2026.
+> 7 of the 9 colivings in Greece offer a private room, cheapest first. Last updated November 11, 2026.
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
@@ -10,5 +10,6 @@
 | [The Plakias (Plakias Residence)](/coliving/the-plakias-plakias-residence/index.md) | Plakias | from $1,543/mo | private | 6 months | Permanent |
 | [WiFi Tribe — Athens](/coliving/wifi-tribe-athens/index.md) | Athens | from $1,990/mo | private, shared | 28 nights | Pop-up |
 | [Charalampou Liandri Home](/coliving/charalampou-liandri-home/index.md) | Atsipopoulo | On request | private | 30 nights | Permanent |
+| [Tursi Digital Nomads — Parga (2027)](/coliving/tursi-digital-nomads-parga-2027/index.md) | Parga | from €799/event | private, shared | — | Pop-up |
 
 Source: https://colivingdb.com/country/greece/private-rooms/

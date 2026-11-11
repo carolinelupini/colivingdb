@@ -1,6 +1,6 @@
 # Mimos Coliving - Toronto Annex
 
-> Coliving in Toronto, Canada. Last updated November 5, 2026.
+> Coliving in Toronto, Canada. Last updated November 11, 2026.
 
 - **Location:** Toronto, Canada
 - **Type:** Permanent coliving

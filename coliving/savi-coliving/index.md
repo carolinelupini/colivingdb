@@ -1,6 +1,6 @@
 # Savi Coliving
 
-> Coliving in Náquera (Valencia), Spain. Last updated November 5, 2026.
+> Coliving in Náquera (Valencia), Spain. Last updated November 11, 2026.
 
 - **Location:** Náquera (Valencia), Spain
 - **Type:** Permanent coliving

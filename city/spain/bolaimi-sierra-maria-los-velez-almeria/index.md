@@ -1,6 +1,6 @@
 # Coliving in Bolaimi (Sierra Maria-Los Velez, Almeria), Spain
 
-> 1 coliving in Bolaimi (Sierra Maria-Los Velez, Almeria), Spain, prices from €660 to €660 per month – last updated November 5, 2026.
+> 1 coliving in Bolaimi (Sierra Maria-Los Velez, Almeria), Spain, prices from €660 to €660 per month – last updated November 11, 2026.
 
 ## All colivings
 

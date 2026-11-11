@@ -1,6 +1,6 @@
 # Arctic Coliving — Voss Mountain Lodge
 
-> Coliving in Mjølfjell (Voss), Norway. Last updated November 5, 2026.
+> Coliving in Mjølfjell (Voss), Norway. Last updated November 11, 2026.
 
 - **Location:** Mjølfjell (Voss), Norway
 - **Type:** Permanent coliving

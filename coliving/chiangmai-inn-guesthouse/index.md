@@ -1,6 +1,6 @@
 # Chiangmai Inn Guesthouse
 
-> Coliving in Chiang Mai, Thailand. Last updated November 5, 2026.
+> Coliving in Chiang Mai, Thailand. Last updated November 11, 2026.
 
 - **Location:** Chiang Mai, Thailand
 - **Type:** Permanent coliving

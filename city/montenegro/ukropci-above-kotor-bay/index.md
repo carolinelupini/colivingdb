@@ -1,6 +1,6 @@
 # Coliving in Ukropci (above Kotor Bay), Montenegro
 
-> 1 coliving in Ukropci (above Kotor Bay), Montenegro, prices from €695 to €695 per month – last updated November 5, 2026.
+> 1 coliving in Ukropci (above Kotor Bay), Montenegro, prices from €695 to €695 per month – last updated November 11, 2026.
 
 ## All colivings
 

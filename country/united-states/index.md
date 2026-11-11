@@ -1,6 +1,6 @@
 # Coliving in United States
 
-> 21 colivings and 1 nomad festival in United States, prices from €553 to €6,892 per month – last updated November 5, 2026.
+> 21 colivings and 1 nomad festival in United States, prices from €553 to €6,892 per month – last updated November 11, 2026.
 
 ## All colivings
 

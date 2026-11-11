@@ -1,6 +1,6 @@
 # Coliving in New Zealand
 
-> 2 colivings and 1 community chapter in New Zealand, prices from €763 to €815 per month – last updated November 5, 2026.
+> 2 colivings and 1 community chapter in New Zealand, prices from €763 to €815 per month – last updated November 11, 2026.
 
 ## All colivings
 

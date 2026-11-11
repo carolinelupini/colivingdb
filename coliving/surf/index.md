@@ -1,6 +1,6 @@
 # Surf colivings
 
-> 102 colivings near a surf break in 19 countries. Updated November 5, 2026.
+> 102 colivings near a surf break in 19 countries. Updated November 11, 2026.
 
 | Coliving | City | Country | Price from | Min stay | Type |
 |---|---|---|---|---|---|

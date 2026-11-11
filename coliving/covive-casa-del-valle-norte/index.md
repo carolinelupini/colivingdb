@@ -1,6 +1,6 @@
 # Covive Casa Del Valle Norte
 
-> Coliving in Mexico City, Mexico. Last updated November 5, 2026.
+> Coliving in Mexico City, Mexico. Last updated November 11, 2026.
 
 - **Location:** Mexico City, Mexico
 - **Type:** Permanent coliving

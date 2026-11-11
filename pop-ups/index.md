@@ -1,26 +1,22 @@
 # Pop-up colivings by month
 
-> 77 pop-up colivings (group trips, retreats and seasonal houses that run for a few weeks or months), grouped by the month they start, plus 12 coworking chapters where you book your own bed. Updated November 5, 2026.
+> 107 pop-up colivings (group trips, retreats and seasonal houses that run for a few weeks or months), grouped by the month they start, plus 12 coworking chapters where you book your own bed. Updated November 11, 2026.
 
-## Running now (15)
+## Running now (11)
 
 | Pop-up | Where | Dates | Price from | Rooms | Min stay |
 |---|---|---|---|---|---|
-| [Casa Basilico — Puglia](/coliving/casa-basilico-puglia/index.md) (fully booked) | Puglia, Italy | Aug 29 - Oct 25, 2026 | from €997/mo | — | 14 nights |
 | [Boundless Life — Andalusia (Malaga area)](/coliving/boundless-life-andalusia-malaga-area/index.md) | Andalusia (Malaga area), Spain | Apr-Jun 2026 / Sept-Nov 2026 / Dec 2026 / Jan-Mar 2027 / Apr-Jun 2027 (plus Summer Camps) | from €2,600/mo | — | — |
-| [AfricaNomads — Zanzibar (Stone Town, Sep 2026)](/coliving/africanomads-zanzibar-stone-town-sep-2026/index.md) | Zanzibar, Tanzania | Sept 27 - Oct 25, 2026 | from $440/wk | private | — |
 | [Arctic Coliving 78° North (Svalbard)](/coliving/arctic-coliving-78-north-svalbard/index.md) | Longyearbyen, Norway | October - December 2026 (polar night season) | from €280/wk | private | 14 nights |
-| [Tursi Digital Nomads — Parga](/coliving/tursi-digital-nomads-parga/index.md) | Parga, Greece | Oct 3 - 24, 2026 | from €799/event | — | — |
-| [The Better Neighbours — Lloret de Mar](/coliving/the-better-neighbours-lloret-de-mar/index.md) | Lloret de Mar, Spain | Oct 4 - Nov 1, 2026 (Autumn) | from €865/mo | — | — |
-| [Taste Remote](/coliving/taste-remote/index.md) | Civita Castellana, Italy | October 8-31, 2026 | from €690/event | private, shared | 7 nights |
-| [Trame Living](/coliving/trame-living/index.md) | Puglia, Italy | Oct 10 - 17, 2026 | from €3,800/wk | — | 7 nights |
 | [WiFi Tribe — La Paz](/coliving/wifi-tribe-la-paz/index.md) (fully booked) | La Paz, Bolivia | Oct 16 - Nov 13, 2026 | from $1,590/mo | private, shared | 28 nights |
 | [WiFi Tribe — Weligama](/coliving/wifi-tribe-weligama/index.md) | Weligama, Sri Lanka | Oct 16 - Nov 13, 2026 | from $1,690/mo | private, shared | 28 nights |
 | [WiFi Tribe — Santa Teresa](/coliving/wifi-tribe-santa-teresa/index.md) | Santa Teresa, Costa Rica | Oct 23 - Nov 20, 2026 | from $1,790/mo | private, shared | 28 nights |
 | [AfricaNomads — Malawi (Lake Malawi) (Oct 2026)](/coliving/africanomads-malawi-lake-malawi-oct-2026/index.md) | Nkhata Bay (Lake Malawi), Malawi | Oct 25 - Nov 22, 2026 | from $440/wk | private | — |
+| [CoLivers — Las Palmas](/coliving/colivers-las-palmas/index.md) | Las Palmas, Spain | Oct 25 - Nov 22, 2026 | from €1,299/event | shared | 7 nights |
+| [RemotePunks — Florianópolis](/coliving/remotepunks-florianopolis/index.md) | Florianópolis, Brazil | Oct 31 - Nov 28, 2026 | from €975/event | shared, private | — |
 | [Noma Collective — Dahab](/coliving/noma-collective-dahab/index.md) (fully booked) | Dahab, Egypt | Nov 1 - Nov 22, 2026 (Alumni Exclusive) | from $1,890/event | — | — |
 | [Noma Collective — Koh Lanta](/coliving/noma-collective-koh-lanta/index.md) (fully booked) | Koh Lanta, Thailand | Nov 1 - Nov 29, 2026 | from $2,790/event | — | — |
-| [Nomad Cruise — NC18 Caribbean Islands](/coliving/nomad-cruise-nc18-caribbean-islands/index.md) | Barcelona → La Romana (Atlantic crossing), Multiple | Nov 2 - Nov 16, 2026 | from €1,900/cruise | private, shared | 14 nights |
+| [Aperanti Agrotourism](/coliving/aperanti-agrotourism/index.md) | Pera Orinis, Cyprus | Nov 8, 2026 - Mar 7, 2027 | from €43/night | private | 15 nights |
 
 ## November 2026 (8)
 
@@ -43,7 +39,7 @@
 | [AfricaNomads — Kilimanjaro (Moshi)](/coliving/africanomads-kilimanjaro-moshi/index.md) | Kilimanjaro (Moshi), Tanzania | Dec 13 - Dec 21, 2026 (Kilimanjaro expedition) | from $440/wk | private | — |
 | [AfricaNomads — Addis Ababa (Dec 2026)](/coliving/africanomads-addis-ababa-dec-2026/index.md) | Addis Ababa, Ethiopia | Dec 27, 2026 - Ongoing | from $440/wk | private | — |
 
-## January 2027 (14)
+## January 2027 (17)
 
 | Pop-up | Where | Dates | Price from | Rooms | Min stay |
 |---|---|---|---|---|---|
@@ -56,13 +52,16 @@
 | [WiFi Tribe — San Juan del Sur](/coliving/wifi-tribe-san-juan-del-sur/index.md) | San Juan del Sur, Nicaragua | Jan 8 - Feb 5, 2027 | from $1,690/mo | private, shared | 28 nights |
 | [AfricaNomads — Nairobi (Jan 2027)](/coliving/africanomads-nairobi-jan-2027/index.md) | Nairobi, Kenya | Jan 10, 2027 - Ongoing | from $1,760/mo | private | — |
 | [Noma Collective — Hoi An](/coliving/noma-collective-hoi-an/index.md) | Hoi An, Vietnam | Jan 10 - Feb 7, 2027 | from $2,290/event | — | — |
-| [Casa Basilico — Pipa](/coliving/casa-basilico-pipa/index.md) | Pipa (Tibau do Sul), Brazil | Jan 15 - Mar 15, 2027 | from €1,997/mo | private | 28 nights |
+| [Casa Basilico — Pipa](/coliving/casa-basilico-pipa/index.md) | Pipa (Tibau do Sul), Brazil | Jan 15 - Mar 15, 2027 | from €2,447/mo | private | 28 nights |
 | [WiFi Tribe — Cape Town (Jan 2027)](/coliving/wifi-tribe-cape-town-jan-2027/index.md) | Cape Town, South Africa | Jan 15 - Feb 11, 2027 | from $1,990/mo | private, shared | 28 nights |
 | [WiFi Tribe — Swakopmund](/coliving/wifi-tribe-swakopmund/index.md) | Swakopmund, Namibia | Jan 15 - Feb 11, 2027 | from $1,890/mo | private, shared | 28 nights |
+| [Noma Tribe — San Blas](/coliving/noma-tribe-san-blas/index.md) | San Blas, El Salvador | Jan 16 - Jan 31, 2027 | from $1,750/event | private, shared | — |
+| [RemotePunks — Hội An](/coliving/remotepunks-hoi-an/index.md) | Hội An, Vietnam | Jan 16 - Feb 13, 2027 | from €825/event | shared, private | — |
+| [CoLivers — Gudauri](/coliving/colivers-gudauri/index.md) | Gudauri, Georgia | Jan 24 - Feb 14, 2027 | from €899/event | shared | 7 nights |
 | [AfricaNomads — Watamu (Jan 2027)](/coliving/africanomads-watamu-jan-2027/index.md) | Watamu, Kenya | Jan 31 - Feb 28, 2027 | from $440/wk | private | — |
 | [Noma Collective — Roatan](/coliving/noma-collective-roatan/index.md) | Roatan, Honduras | Jan 31 - Feb 28, 2027 (Alumni Exclusive) | from $1,890/event | — | — |
 
-## February 2027 (9)
+## February 2027 (11)
 
 | Pop-up | Where | Dates | Price from | Rooms | Min stay |
 |---|---|---|---|---|---|
@@ -72,50 +71,68 @@
 | [WiFi Tribe — Melbourne](/coliving/wifi-tribe-melbourne/index.md) | Melbourne, Australia | Feb 12 - Mar 12, 2027 | from $2,290/mo | private, shared | 28 nights |
 | [WiFi Tribe — Pipa](/coliving/wifi-tribe-pipa/index.md) | Pipa, Brazil | Feb 12 - Mar 12, 2027 | from $1,690/mo | private, shared | 28 nights |
 | [WiFi Tribe — Swakopmund (Feb 2027)](/coliving/wifi-tribe-swakopmund-feb-2027/index.md) | Swakopmund, Namibia | Feb 12 - Mar 12, 2027 | from $1,890/mo | private, shared | 28 nights |
+| [Noma Tribe — Mérida](/coliving/noma-tribe-merida/index.md) | Mérida, Mexico | Feb 13 - Mar 6, 2027 | from $1,950/event | private, shared | — |
+| [Noma Tribe — Florianópolis](/coliving/noma-tribe-florianopolis/index.md) | Florianópolis, Brazil | Feb 27 - Mar 20, 2027 | from $1,850/event | private, shared, dorm | — |
 | [AfricaNomads — Lamu Island (Feb 2027)](/coliving/africanomads-lamu-island-feb-2027/index.md) | Lamu Island, Kenya | Feb 28 - Mar 28, 2027 | from $440/wk | private | — |
 | [The Better Neighbours — Lloret de Mar (Spring 2027)](/coliving/the-better-neighbours-lloret-de-mar-spring-2027/index.md) | Lloret de Mar, Spain | Feb 28 - Mar 28, 2027 (Spring) | from €865/mo | — | — |
 | [Tursi Digital Nomads — Matera (2027)](/coliving/tursi-digital-nomads-matera-2027/index.md) | Matera, Italy | Feb 28 - Mar 21, 2027 | from €849/event | private | — |
 
-## March 2027 (7)
+## March 2027 (12)
 
 | Pop-up | Where | Dates | Price from | Rooms | Min stay |
 |---|---|---|---|---|---|
+| [CoLivers — Mondello](/coliving/colivers-mondello/index.md) | Mondello, Italy | Mar 1 - Mar 21, 2027 | from €799/event | shared | 7 nights |
 | [WiFi Tribe — Cape Town (Mar 2027)](/coliving/wifi-tribe-cape-town-mar-2027/index.md) | Cape Town, South Africa | Mar 12 - Apr 9, 2027 | from $1,790/mo | private, shared | 28 nights |
 | [WiFi Tribe — Siargao](/coliving/wifi-tribe-siargao/index.md) | Siargao, Philippines | Mar 19 - Apr 16, 2027 | from $1,690/mo | private, shared | 28 nights |
 | [Casa Basilico — Buenos Aires](/coliving/casa-basilico-buenos-aires/index.md) | Buenos Aires, Argentina | Mar 21 - Apr 21, 2027 | from €1,047/mo | private, shared | 31 nights |
+| [CoLivers — Kamala](/coliving/colivers-kamala/index.md) | Kamala, Thailand | Mar 21 - Apr 18, 2027 | from €1,099/event | shared | 14 nights |
 | [AfricaNomads — Lamu to Zanzibar Expedition (Mar 2027)](/coliving/africanomads-lamu-to-zanzibar-expedition-mar-2027/index.md) | Lamu → Zanzibar, Tanzania | Mar 25 - 29, 2027 (dhow sailing expedition) | from $440/wk | private | — |
+| [WiFi Tribe — Valencia](/coliving/wifi-tribe-valencia/index.md) | Valencia, Spain | Mar 26 - Apr 23, 2027 | from $1,890/mo | private, shared | 28 nights |
+| [RemotePunks — Mahé](/coliving/remotepunks-mahe/index.md) | Mahé, Seychelles | Mar 27 - Apr 24, 2027 | from €975/event | shared, private | — |
 | [AfricaNomads — Zanzibar (Jambiani, Mar 2027)](/coliving/africanomads-zanzibar-jambiani-mar-2027/index.md) | Jambiani, Zanzibar, Tanzania | Mar 28 - Apr 25, 2027 | from $440/wk | private | — |
 | [Noma Collective — Athens (Mar 2027)](/coliving/noma-collective-athens-mar-2027/index.md) | Athens, Greece | Mar 28 - Apr 25, 2027 (Coming soon) | from $2,590/event | — | — |
 | [Noma Collective — Buenos Aires (Mar 2027)](/coliving/noma-collective-buenos-aires-mar-2027/index.md) | Buenos Aires, Argentina | Mar 28 - Apr 25, 2027 | from $2,890/event | — | — |
+| [Noma Tribe — Buenos Aires](/coliving/noma-tribe-buenos-aires/index.md) | Buenos Aires, Argentina | Mar 28 - Apr 11, 2027 | from $1,750/event | private, shared | — |
 
-## April 2027 (6)
+## April 2027 (7)
 
 | Pop-up | Where | Dates | Price from | Rooms | Min stay |
 |---|---|---|---|---|---|
+| [Noma Tribe — Antigua Guatemala (Apr 2027)](/coliving/noma-tribe-antigua-guatemala-apr-2027/index.md) | Antigua Guatemala, Guatemala | Apr 3 - Apr 24, 2027 | from $1,800/event | private, shared | — |
 | [WiFi Tribe — Athens](/coliving/wifi-tribe-athens/index.md) | Athens, Greece | Apr 23 - May 21, 2027 | from $1,990/mo | private, shared | 28 nights |
 | [WiFi Tribe — Las Terrenas](/coliving/wifi-tribe-las-terrenas/index.md) | Las Terrenas, Dominican Republic | Apr 23 - May 21, 2027 | from $1,690/mo | private, shared | 28 nights |
 | [WiFi Tribe — Palma de Mallorca](/coliving/wifi-tribe-palma-de-mallorca/index.md) (fully booked) | Palma de Mallorca, Spain | Apr 23 - May 21, 2027 | from $1,890/mo | private, shared | 28 nights |
+| [WiFi Tribe — Taipei](/coliving/wifi-tribe-taipei/index.md) | Taipei, Taiwan | Apr 23 - May 21, 2027 | from $1,890/mo | private, shared | 28 nights |
 | [AfricaNomads — Nairobi (Apr 2027)](/coliving/africanomads-nairobi-apr-2027/index.md) | Nairobi, Kenya | Apr 25 - May 23, 2027 | from $1,760/mo | private | — |
 | [Noma Collective — Budapest](/coliving/noma-collective-budapest/index.md) | Budapest, Hungary | Apr 25 - May 23, 2027 | from $1,990/event | — | — |
-| [Noma Collective — Buenos Aires (Apr 2027)](/coliving/noma-collective-buenos-aires-apr-2027/index.md) | Buenos Aires, Argentina | Apr 25 - May 23, 2027 | from $2,890/event | — | — |
 
-## May 2027 (6)
+## May 2027 (12)
 
 | Pop-up | Where | Dates | Price from | Rooms | Min stay |
 |---|---|---|---|---|---|
+| [Noma Tribe — Medellín](/coliving/noma-tribe-medellin/index.md) | Medellín, Colombia | May 1 - May 18, 2027 | from $1,650/event | private, shared | — |
+| [RemotePunks — Palermo](/coliving/remotepunks-palermo/index.md) | Palermo, Italy | May 8 - Jun 5, 2027 | from €975/event | shared, private | — |
+| [Tursi Digital Nomads — Parga (2027)](/coliving/tursi-digital-nomads-parga-2027/index.md) | Parga, Greece | May 9 - 30, 2027 | from €799/event | private, shared | — |
 | [The Better Neighbours — Sinaia (Summer 2027)](/coliving/the-better-neighbours-sinaia-summer-2027/index.md) | Sinaia, Romania | May 22 - Jun 19, 2027 (Summer) | from €670/mo | — | — |
 | [AfricaNomads — Kigali (May 2027)](/coliving/africanomads-kigali-may-2027/index.md) | Kigali, Rwanda | May 23 - Jun 20, 2027 | from $440/wk | private | — |
 | [Noma Collective — Osaka](/coliving/noma-collective-osaka/index.md) | Osaka, Japan | May 23 - Jun 20, 2027 | from $3,490/event | — | — |
 | [Noma Collective — Placencia (May 2027)](/coliving/noma-collective-placencia-may-2027/index.md) | Placencia, Belize | May 23 - Jun 20, 2027 | from $2,590/event | — | — |
 | [WiFi Tribe — Istanbul](/coliving/wifi-tribe-istanbul/index.md) | Istanbul, Turkey | May 28 - Jun 25, 2027 | from $1,990/mo | private, shared | 28 nights |
+| [WiFi Tribe — Kyoto](/coliving/wifi-tribe-kyoto/index.md) | Kyoto, Japan | May 28 - Jun 25, 2027 | from $2,090/mo | private, shared | 28 nights |
 | [WiFi Tribe — Quito](/coliving/wifi-tribe-quito/index.md) | Quito, Ecuador | May 28 - Jun 25, 2027 | from $1,480/mo | private, shared | 28 nights |
+| [WiFi Tribe — Tbilisi](/coliving/wifi-tribe-tbilisi/index.md) | Tbilisi, Georgia | May 28 - Jun 25, 2027 | from $1,690/mo | private, shared | 28 nights |
+| [Noma Tribe — Cusco (May 2027)](/coliving/noma-tribe-cusco-may-2027/index.md) | Cusco, Peru | May 29 - Jun 12, 2027 | from $1,650/event | private, shared | — |
 
-## June 2027 (3)
+## June 2027 (7)
 
 | Pop-up | Where | Dates | Price from | Rooms | Min stay |
 |---|---|---|---|---|---|
+| [Casa Basilico — Grand Baie](/coliving/casa-basilico-grand-baie/index.md) | Grand Baie, Mauritius | Jun 1 - Jul 1, 2027 | from €2,247/mo | private | 30 nights |
+| [RemotePunks — Las Palmas](/coliving/remotepunks-las-palmas/index.md) | Las Palmas, Spain | Jun 19 - Jul 17, 2027 | from €975/event | shared, private | — |
 | [AfricaNomads — Botswana (Jun 2027)](/coliving/africanomads-botswana-jun-2027/index.md) | Maun, Botswana | Jun 20 - Jul 18, 2027 | from $440/wk | private | — |
 | [Noma Collective — Busan](/coliving/noma-collective-busan/index.md) | Busan, South Korea | Jun 20 - Jul 18, 2027 | from $3,490/event | — | — |
+| [Noma Collective — Las Palmas (Gran Canaria)](/coliving/noma-collective-las-palmas-gran-canaria/index.md) | Las Palmas de Gran Canaria, Spain | Jun 20 - Jul 18, 2027 | from $2,990/event | — | — |
+| [Noma Tribe — Charmey](/coliving/noma-tribe-charmey/index.md) | Charmey, Switzerland | Jun 26 - Jul 10, 2027 | from $2,100/event | private, shared | — |
 | [Noma Collective — Family Edition (Honduras)](/coliving/noma-collective-family-edition-honduras/index.md) | Roatan, Honduras | Jun 27 - Jul 25, 2027 | from $5,190/event | — | — |
 
 ## July 2027 (1)
@@ -124,35 +141,43 @@
 |---|---|---|---|---|---|
 | [AfricaNomads — Zambia (Jul 2027)](/coliving/africanomads-zambia-jul-2027/index.md) | Livingstone, Zambia | Jul 18 - Aug 15, 2027 | from $440/wk | private | — |
 
-## August 2027 (1)
+## August 2027 (4)
 
 | Pop-up | Where | Dates | Price from | Rooms | Min stay |
 |---|---|---|---|---|---|
+| [Noma Collective — Hoi An (Aug 2027)](/coliving/noma-collective-hoi-an-aug-2027/index.md) | Hoi An, Vietnam | Aug 1 - Aug 29, 2027 | from $2,290/event | — | — |
+| [Noma Collective — Roatan (Aug 2027)](/coliving/noma-collective-roatan-aug-2027/index.md) | Roatan, Honduras | Aug 1 - Aug 29, 2027 | from $1,890/event | — | — |
 | [AfricaNomads — Malawi (Lake Malawi) (Aug 2027)](/coliving/africanomads-malawi-lake-malawi-aug-2027/index.md) | Nkhata Bay (Lake Malawi), Malawi | Aug 15 - Sep 12, 2027 | from $440/wk | private | — |
+| [Noma Collective — Quito](/coliving/noma-collective-quito/index.md) | Quito, Ecuador | Aug 29 - Sep 26, 2027 | from $2,490/event | — | — |
 
-## September 2027 (1)
+## September 2027 (5)
 
 | Pop-up | Where | Dates | Price from | Rooms | Min stay |
 |---|---|---|---|---|---|
+| [Noma Tribe — Cusco (Sep 2027)](/coliving/noma-tribe-cusco-sep-2027/index.md) | Cusco, Peru | Sep 4 - Sep 18, 2027 | from $1,650/event | private, shared | — |
+| [RemotePunks — Seoul](/coliving/remotepunks-seoul/index.md) | Seoul, South Korea | Sep 4 - Oct 2, 2027 | from €975/event | shared, private | — |
 | [AfricaNomads — Addis Ababa (Sep 2027)](/coliving/africanomads-addis-ababa-sep-2027/index.md) | Addis Ababa, Ethiopia | Sep 12 - Oct 10, 2027 | from $440/wk | private | — |
+| [Noma Collective — Buenos Aires (Sep 2027)](/coliving/noma-collective-buenos-aires-sep-2027/index.md) | Buenos Aires, Argentina | Sep 26 - Oct 24, 2027 | from $2,890/event | — | — |
+| [Noma Collective — Ubud](/coliving/noma-collective-ubud/index.md) | Ubud, Indonesia | Sep 26 - Oct 24, 2027 | from $2,490/event | — | — |
 
-## October 2027 (1)
+## October 2027 (6)
 
 | Pop-up | Where | Dates | Price from | Rooms | Min stay |
 |---|---|---|---|---|---|
+| [Noma Tribe — Oaxaca City](/coliving/noma-tribe-oaxaca-city/index.md) | Oaxaca City, Mexico | Oct 2 - Oct 23, 2027 | from $1,800/event | private, shared | — |
 | [AfricaNomads — Watamu (Oct 2027)](/coliving/africanomads-watamu-oct-2027/index.md) | Watamu, Kenya | Oct 10 - Nov 7, 2027 | from $440/wk | private | — |
+| [Noma Tribe — Rio de Janeiro](/coliving/noma-tribe-rio-de-janeiro/index.md) | Rio de Janeiro, Brazil | Oct 16 - Nov 6, 2027 | from $1,950/event | private, shared | — |
+| [Noma Collective — Pipa (Oct 2027)](/coliving/noma-collective-pipa-oct-2027/index.md) | Pipa, Brazil | Oct 23 - Nov 20, 2027 | from $2,290/event | — | — |
+| [Noma Collective — Buenos Aires (Oct 2027)](/coliving/noma-collective-buenos-aires-oct-2027/index.md) | Buenos Aires, Argentina | Oct 24 - Nov 21, 2027 | from $2,890/event | — | — |
+| [Noma Tribe — Antigua Guatemala (Oct 2027)](/coliving/noma-tribe-antigua-guatemala-oct-2027/index.md) | Antigua Guatemala, Guatemala | Oct 30 - Nov 20, 2027 | from $1,800/event | private, shared | — |
 
-## November 2027 (1)
+## November 2027 (3)
 
 | Pop-up | Where | Dates | Price from | Rooms | Min stay |
 |---|---|---|---|---|---|
 | [AfricaNomads — Lamu Island (Nov 2027)](/coliving/africanomads-lamu-island-nov-2027/index.md) | Lamu Island, Kenya | Nov 7 - Dec 5, 2027 | from $440/wk | private | — |
-
-## Seasonal houses (1)
-
-| Pop-up | Where | Dates | Price from | Rooms | Min stay |
-|---|---|---|---|---|---|
-| [Aperanti Agrotourism](/coliving/aperanti-agrotourism/index.md) | Pera Orinis, Cyprus | Autumn/winter season 2026–27 | from €43/night | private | 15 nights |
+| [Noma Collective — Placencia (Nov 2027)](/coliving/noma-collective-placencia-nov-2027/index.md) | Placencia, Belize | Nov 21 - Dec 19, 2027 | from $3,390/event | — | — |
+| [Noma Tribe — Antigua Guatemala (Nov 2027)](/coliving/noma-tribe-antigua-guatemala-nov-2027/index.md) | Antigua Guatemala, Guatemala | Nov 21 - Dec 12, 2027 | from $1,800/event | private, shared | — |
 
 ## Coworking chapters (12) — accommodation not included
 

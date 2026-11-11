@@ -1,6 +1,6 @@
 # WiFi Tribe — Las Terrenas
 
-> Coliving in Las Terrenas, Dominican Republic. Last updated November 5, 2026.
+> Coliving in Las Terrenas, Dominican Republic. Last updated November 11, 2026.
 
 - **Location:** Las Terrenas, Dominican Republic
 - **Type:** Pop-up / dated edition

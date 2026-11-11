@@ -1,6 +1,6 @@
 # Beach coliving in United States
 
-> 6 of the 21 colivings in United States are by the beach, cheapest first. Last updated November 5, 2026.
+> 6 of the 21 colivings in United States are by the beach, cheapest first. Last updated November 11, 2026.
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|

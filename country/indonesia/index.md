@@ -1,6 +1,6 @@
 # Coliving in Indonesia
 
-> 20 colivings in Indonesia, prices from €363 to €1,600 per month – last updated November 5, 2026.
+> 22 colivings in Indonesia, prices from €363 to €1,600 per month – last updated November 11, 2026.
 
 ## All colivings
 
@@ -26,6 +26,8 @@
 | Outsite Bali - Pererenan | Pererenan, Bali | On request | 4.3 (83) | private, shared | — | Permanent |
 | Sokkool Coliving & Coworking | Canggu (Berawa), Bali | from IDR 880,000/night | 4.9 (207) | private | 7 nights | Permanent |
 | Tribal Bali | Pererenan | On request | 4.6 (712) | private, dorm | — | Permanent |
+| Noma Collective — Ubud | Ubud | from $2,490/event | — | — | — | Pop-up |
+| Hello Mira — Bali | Bali | from €60/night | — | private, shared | 14 nights | Permanent |
 
 ## Price distribution
 
@@ -39,5 +41,6 @@
 ## Upcoming pop-ups
 
 - Boundless Life — Canggu, Bali — Jan 3 - Mar 19, 2027 / Mar 25 - Jun 10, 2027 / Sep 15 - Dec 5, 2027 (plus a summer camp, Jun 16 - Jul 31, 2027)
+- Noma Collective — Ubud — Sep 26 - Oct 24, 2027
 
 Source: https://colivingdb.com/country/indonesia/

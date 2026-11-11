@@ -1,6 +1,6 @@
 # A ver o Mar 1 | Coliving & Coworking | Funchal, Madeira
 
-> Coliving in Ponta do Sol, Portugal. Last updated November 5, 2026.
+> Coliving in Ponta do Sol, Portugal. Last updated November 11, 2026.
 
 - **Location:** Ponta do Sol, Portugal
 - **Type:** Permanent coliving

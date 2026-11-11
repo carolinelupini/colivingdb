@@ -1,6 +1,6 @@
 # Coliving in Switzerland with dorm beds
 
-> 5 of the 12 colivings in Switzerland offer a dorm bed, usually the cheapest way in, cheapest first. Last updated November 5, 2026.
+> 5 of the 13 colivings in Switzerland offer a dorm bed, usually the cheapest way in, cheapest first. Last updated November 11, 2026.
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|

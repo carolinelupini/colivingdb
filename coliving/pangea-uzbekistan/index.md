@@ -1,6 +1,6 @@
 # Pangea — Uzbekistan
 
-> Coworking chapter in Uzbekistan (city not yet announced), Uzbekistan. Last updated November 5, 2026.
+> Coworking chapter in Uzbekistan (city not yet announced), Uzbekistan. Last updated November 11, 2026.
 
 - **Location:** Uzbekistan (city not yet announced), Uzbekistan
 - **Type:** Pop-up coworking chapter — accommodation not included

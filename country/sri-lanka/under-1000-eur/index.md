@@ -1,6 +1,6 @@
 # Coliving in Sri Lanka under €1,000 a month
 
-> 8 of the 14 colivings in Sri Lanka list a monthly rate under €1,000 for their cheapest room (converted to euros where the operator prices in another currency), cheapest first. Last updated November 5, 2026.
+> 8 of the 14 colivings in Sri Lanka list a monthly rate under €1,000 for their cheapest room (converted to euros where the operator prices in another currency), cheapest first. Last updated November 11, 2026.
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|

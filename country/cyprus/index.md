@@ -1,6 +1,6 @@
 # Coliving in Cyprus
 
-> 4 colivings in Cyprus, prices from €1,160 to €1,160 per month – last updated November 5, 2026.
+> 4 colivings in Cyprus, prices from €1,160 to €1,160 per month – last updated November 11, 2026.
 
 ## All colivings
 
@@ -19,6 +19,6 @@
 
 ## Upcoming pop-ups
 
-- Aperanti Agrotourism — Autumn/winter season 2026–27 (exact dates not published)
+- Aperanti Agrotourism — Nov 8, 2026 - Mar 7, 2027
 
 Source: https://colivingdb.com/country/cyprus/

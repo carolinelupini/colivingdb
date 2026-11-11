@@ -1,6 +1,6 @@
 # Coliving in Mongolia
 
-> 1 community chapter in Mongolia – last updated November 5, 2026.
+> 1 community chapter in Mongolia – last updated November 11, 2026.
 
 ## All colivings
 

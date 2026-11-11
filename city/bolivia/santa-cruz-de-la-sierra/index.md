@@ -1,6 +1,6 @@
 # Coliving in Santa Cruz de la Sierra, Bolivia
 
-> 1 community chapter in Santa Cruz de la Sierra, Bolivia – last updated November 5, 2026.
+> 1 community chapter in Santa Cruz de la Sierra, Bolivia – last updated November 11, 2026.
 
 ## All colivings
 

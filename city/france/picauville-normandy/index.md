@@ -1,6 +1,6 @@
 # Coliving in Picauville (Normandy), France
 
-> 1 coliving in Picauville (Normandy), France – last updated November 5, 2026.
+> 1 coliving in Picauville (Normandy), France – last updated November 11, 2026.
 
 ## All colivings
 

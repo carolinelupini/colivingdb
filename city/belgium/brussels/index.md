@@ -1,6 +1,6 @@
 # Coliving in Brussels, Belgium
 
-> 1 coliving in Brussels, Belgium, prices from €690 to €690 per month – last updated November 5, 2026.
+> 1 coliving in Brussels, Belgium, prices from €690 to €690 per month – last updated November 11, 2026.
 
 ## All colivings
 

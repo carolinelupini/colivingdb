@@ -1,6 +1,6 @@
 # Soul Co-Living Vila Franca de Xira
 
-> Coliving in Vila Franca de Xira, Portugal. Last updated November 5, 2026.
+> Coliving in Vila Franca de Xira, Portugal. Last updated November 11, 2026.
 
 - **Location:** Vila Franca de Xira, Portugal
 - **Type:** Permanent coliving

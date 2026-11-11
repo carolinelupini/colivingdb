@@ -1,6 +1,6 @@
 # Mountain coliving in Bulgaria
 
-> 7 of the 9 colivings in Bulgaria are in the mountains, cheapest first. Last updated November 5, 2026.
+> 7 of the 9 colivings in Bulgaria are in the mountains, cheapest first. Last updated November 11, 2026.
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|

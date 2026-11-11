@@ -1,6 +1,6 @@
 # Evolve Coliving Malta
 
-> Coliving in Malta, Malta. Last updated November 5, 2026.
+> Coliving in Malta, Malta. Last updated November 11, 2026.
 
 - **Location:** Malta, Malta
 - **Type:** Permanent coliving

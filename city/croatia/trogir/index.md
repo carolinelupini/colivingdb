@@ -1,6 +1,6 @@
 # Coliving in Trogir, Croatia
 
-> 1 coliving in Trogir, Croatia, prices from €553 to €553 per month – last updated November 5, 2026.
+> 1 coliving in Trogir, Croatia, prices from €553 to €553 per month – last updated November 11, 2026.
 
 ## All colivings
 

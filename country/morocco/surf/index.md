@@ -1,6 +1,6 @@
 # Surf coliving in Morocco
 
-> 6 of the 8 colivings in Morocco are near a surf break, cheapest first. Last updated November 5, 2026.
+> 6 of the 8 colivings in Morocco are near a surf break, cheapest first. Last updated November 11, 2026.
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|

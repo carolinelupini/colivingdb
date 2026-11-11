@@ -1,6 +1,6 @@
 # Kalart
 
-> Coliving in Montseny Valley, Catalonia, Spain. Last updated November 5, 2026.
+> Coliving in Montseny Valley, Catalonia, Spain. Last updated November 11, 2026.
 
 - **Location:** Montseny Valley, Catalonia, Spain
 - **Type:** Permanent coliving

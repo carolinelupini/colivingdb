@@ -1,6 +1,6 @@
 # Coliving in Santiago de Compostela, Spain
 
-> 1 coliving in Santiago de Compostela, Spain, prices from €720 to €720 per month – last updated November 5, 2026.
+> 1 coliving in Santiago de Compostela, Spain, prices from €720 to €720 per month – last updated November 11, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Coliving in Sharm El-Sheikh, Egypt
 
-> 1 coliving in Sharm El-Sheikh, Egypt, prices from €526 to €526 per month – last updated November 5, 2026.
+> 1 coliving in Sharm El-Sheikh, Egypt, prices from €526 to €526 per month – last updated November 11, 2026.
 
 ## All colivings
 

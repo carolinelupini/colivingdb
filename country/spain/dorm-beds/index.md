@@ -1,6 +1,6 @@
 # Coliving in Spain with dorm beds
 
-> 7 of the 95 colivings in Spain offer a dorm bed, usually the cheapest way in, cheapest first. Last updated November 5, 2026.
+> 7 of the 99 colivings in Spain offer a dorm bed, usually the cheapest way in, cheapest first. Last updated November 11, 2026.
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|

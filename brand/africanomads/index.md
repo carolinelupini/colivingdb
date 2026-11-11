@@ -1,10 +1,9 @@
 # AfricaNomads chapters 2026–2027
 
-> 18 upcoming AfricaNomads chapters in 7 countries, sorted by date. Updated November 5, 2026.
+> 17 upcoming AfricaNomads chapters in 7 countries, sorted by date. Updated November 11, 2026.
 
 | Chapter | Where | Dates | Price from |
 |---|---|---|---|
-| [AfricaNomads — Zanzibar (Stone Town, Sep 2026)](/coliving/africanomads-zanzibar-stone-town-sep-2026/index.md) | Zanzibar, Tanzania | Sept 27 - Oct 25, 2026 | from $440/wk |
 | [AfricaNomads — Malawi (Lake Malawi) (Oct 2026)](/coliving/africanomads-malawi-lake-malawi-oct-2026/index.md) | Nkhata Bay (Lake Malawi), Malawi | Oct 25 - Nov 22, 2026 | from $440/wk |
 | [AfricaNomads — Nairobi (Nov 2026)](/coliving/africanomads-nairobi-nov-2026/index.md) | Nairobi, Kenya | Nov 22 - Dec 13, 2026 | from $1,760/mo |
 | [AfricaNomads — Kilimanjaro (Moshi)](/coliving/africanomads-kilimanjaro-moshi/index.md) | Kilimanjaro (Moshi), Tanzania | Dec 13 - Dec 21, 2026 (Kilimanjaro expedition) | from $440/wk |

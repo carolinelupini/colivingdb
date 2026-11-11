@@ -1,6 +1,6 @@
 # The Atlantic Focus Voyage 2027
 
-> Nomad festival in Miami, United States. Last updated November 5, 2026.
+> Nomad festival in Miami, United States. Last updated November 11, 2026.
 
 - **Location:** Miami, United States
 - **Type:** Nomad festival / dated event

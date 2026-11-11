@@ -1,6 +1,6 @@
 # Coliving in Tarifa, Spain
 
-> 2 colivings and 1 nomad festival in Tarifa, Spain, prices from €688 to €688 per month – last updated November 5, 2026.
+> 2 colivings and 1 nomad festival in Tarifa, Spain, prices from €688 to €688 per month – last updated November 11, 2026.
 
 ## All colivings
 

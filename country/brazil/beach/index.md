@@ -1,6 +1,6 @@
 # Beach coliving in Brazil
 
-> 8 of the 13 colivings in Brazil are by the beach, cheapest first. Last updated November 5, 2026.
+> 8 of the 17 colivings in Brazil are by the beach, cheapest first. Last updated November 11, 2026.
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
@@ -11,6 +11,6 @@
 | [Nomadico Coliving Rio de Janeiro](/coliving/nomadico-coliving-rio-de-janeiro/index.md) | Rio de Janeiro | from $487/mo | private, shared | 7 nights | Permanent |
 | [INFINI Coliving](/coliving/infini-coliving/index.md) | Jauá (Camaçari), near Salvador | from BRL 3,813/mo | private | 1 night | Permanent |
 | [Nomad's Ville (Mirante de Pipa)](/coliving/nomad-s-ville-mirante-de-pipa/index.md) | Praia da Pipa | from BRL 3,900/mo | private | — | Permanent |
-| [Casa Basilico — Pipa](/coliving/casa-basilico-pipa/index.md) | Pipa (Tibau do Sul) | from €1,997/mo | private | 28 nights | Pop-up |
+| [Casa Basilico — Pipa](/coliving/casa-basilico-pipa/index.md) | Pipa (Tibau do Sul) | from €2,447/mo | private | 28 nights | Pop-up |
 
 Source: https://colivingdb.com/country/brazil/beach/

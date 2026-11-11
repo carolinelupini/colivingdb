@@ -1,6 +1,6 @@
 # Coliving in Brisbane, Australia
 
-> 1 coliving in Brisbane, Australia, prices from €809 to €809 per month – last updated November 5, 2026.
+> 1 coliving in Brisbane, Australia, prices from €809 to €809 per month – last updated November 11, 2026.
 
 ## All colivings
 

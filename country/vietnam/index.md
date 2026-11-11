@@ -1,6 +1,6 @@
 # Coliving in Vietnam
 
-> 9 colivings and 1 nomad festival in Vietnam, prices from €283 to €834 per month – last updated November 5, 2026.
+> 11 colivings and 1 nomad festival in Vietnam, prices from €283 to €834 per month – last updated November 11, 2026.
 
 ## All colivings
 
@@ -16,6 +16,8 @@
 | Noma Collective — Hoi An | Hoi An | from $2,290/event | — | — | — | Pop-up |
 | Da Nang Nomad Fest 2027 | Da Nang | On request | — | — | — | Festival |
 | B'HoiAn Retreat | Hoi An | from €36/night | 5.0 (68) | private | 7 nights | Permanent |
+| Noma Collective — Hoi An (Aug 2027) | Hoi An | from $2,290/event | — | — | — | Pop-up |
+| RemotePunks — Hội An | Hội An | from €825/event | — | shared, private | — | Pop-up |
 
 ## Price distribution
 
@@ -29,5 +31,7 @@
 
 - Noma Collective — Hoi An — Jan 10 - Feb 7, 2027
 - Da Nang Nomad Fest 2027 — Mar 19 - 28, 2027
+- Noma Collective — Hoi An (Aug 2027) — Aug 1 - Aug 29, 2027
+- RemotePunks — Hội An — Jan 16 - Feb 13, 2027
 
 Source: https://colivingdb.com/country/vietnam/

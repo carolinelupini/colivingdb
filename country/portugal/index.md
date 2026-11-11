@@ -1,6 +1,6 @@
 # Coliving in Portugal
 
-> 59 colivings and 1 nomad festival in Portugal, prices from €300 to €2,160 per month – last updated November 5, 2026.
+> 60 colivings and 1 nomad festival in Portugal, prices from €300 to €2,160 per month – last updated November 11, 2026.
 
 ## All colivings
 
@@ -15,7 +15,6 @@
 | Caminho Coliving | Moreira, Maia (Porto area) | from €700/mo | 4.9 (9) | private | 30 nights | Permanent |
 | Lava Coliving & Coworking | Ribeira Grande, São Miguel | from €25/night | 4.9 (68) | private, shared | 7 nights | Permanent |
 | Calcada Coliving (Calçada Guesthouse) | Tavira | from €780/mo | 4.9 (100) | private | 29 nights | Permanent |
-| Banana House (Ponta do Sol Coliving) | Ponta do Sol, Madeira | from €798/mo | 4.5 (19) | private | 30 nights | Permanent |
 | Barefoot Guesthouse & Coliving Ericeira | Ericeira | from €800/mo | 4.9 (132) | private | 30 nights | Permanent |
 | Outsite Algarve - Sagres | Sagres | from €800/mo | 4.5 (26) | private | 2 nights | Permanent |
 | Outsite Ericeira - Boavista | Ericeira | from €800/mo | 4.5 (8) | private | — | Permanent |
@@ -28,6 +27,7 @@
 | A ver o Mar 1 | Coliving & Coworking | Funchal, Madeira | Ponta do Sol | from €920/mo | 4.7 (52) | private, dorm | 14 nights | Permanent |
 | Casa15 Azores | Sao Miguel, Azores | from €950/mo | — | private | — | Permanent |
 | Swelldesk Coliving & Coworking | Baleal, Peniche | from €960/mo | 4.9 (21) | private, shared | — | Permanent |
+| Banana House (Ponta do Sol Coliving) | Ponta do Sol, Madeira | from €997/mo | 4.5 (19) | private | 30 nights | Permanent |
 | Cabeco Alto Home | Santo da Serra (Madeira) | from $1,143/mo | 5.0 (23) | private, shared | 30 nights | Permanent |
 | Outsite Algarve - Vilamoura | Vilamoura | from €1,000/mo | 4.6 (21) | private | — | Permanent |
 | Outsite Cascais - Guincho | Cascais | from €1,000/mo | 4.6 (36) | private | 2 nights | Permanent |
@@ -66,14 +66,15 @@
 | Founder Island Fest 2026 | Madeira | from €1,495/event | — | private, shared | — | Festival |
 | Outsite Azores - Ribeira Grande | Ribeira Grande, São Miguel, Azores | On request | — | private | — | Permanent |
 | Outsite Azores - Fenais | Fenais da Luz, São Miguel, Azores | On request | — | private | — | Permanent |
+| Hello Mira — Lisbon | Lisbon | from €75/night | — | private, shared | 14 nights | Permanent |
 
 ## Price distribution
 
 | Band (EUR/mo) | Colivings |
 |---|---|
 | 0–500 | 1 |
-| 500–800 | 9 |
-| 800–1200 | 18 |
+| 500–800 | 8 |
+| 800–1200 | 19 |
 | 1200–2000 | 14 |
 | 2000–∞ | 1 |
 

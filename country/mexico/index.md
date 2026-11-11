@@ -1,6 +1,6 @@
 # Coliving in Mexico
 
-> 27 colivings and 1 nomad festival in Mexico, prices from €46 to €1,466 per month – last updated November 5, 2026.
+> 30 colivings and 1 nomad festival in Mexico, prices from €46 to €1,466 per month – last updated November 11, 2026.
 
 ## All colivings
 
@@ -34,6 +34,9 @@
 | Outsite Oaxaca City | Oaxaca | On request | 4.8 (76) | private | — | Permanent |
 | Triver Coliving | Mexico City | from $60/night | 4.4 (305) | private, shared | 1 night | Permanent |
 | Dynamite Circle — DCMEX 2027 | Mexico City | from $1,099/ticket | — | — | — | Festival |
+| Noma Tribe — Mérida | Mérida | from $1,950/event | — | private, shared | — | Pop-up |
+| Noma Tribe — Oaxaca City | Oaxaca City | from $1,800/event | — | private, shared | — | Pop-up |
+| Hello Mira — Mexico City | Mexico City | from €65/night | — | private, shared | 14 nights | Permanent |
 
 ## Price distribution
 
@@ -48,5 +51,7 @@
 
 - WiFi Tribe — Puerto Escondido — Nov 20 - Dec 18, 2026
 - Dynamite Circle — DCMEX 2027 — Apr 6 - 9, 2027
+- Noma Tribe — Mérida — Feb 13 - Mar 6, 2027
+- Noma Tribe — Oaxaca City — Oct 2 - Oct 23, 2027
 
 Source: https://colivingdb.com/country/mexico/

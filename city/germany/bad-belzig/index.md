@@ -1,6 +1,6 @@
 # Coliving in Bad Belzig, Germany
 
-> 1 coliving in Bad Belzig, Germany, prices from €810 to €810 per month – last updated November 5, 2026.
+> 1 coliving in Bad Belzig, Germany, prices from €810 to €810 per month – last updated November 11, 2026.
 
 ## All colivings
 

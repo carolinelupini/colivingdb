@@ -1,6 +1,6 @@
 # Coliving in Arrecife, Spain
 
-> 1 coliving in Arrecife, Spain, prices from €1,050 to €1,050 per month – last updated November 5, 2026.
+> 1 coliving in Arrecife, Spain, prices from €1,050 to €1,050 per month – last updated November 11, 2026.
 
 ## All colivings
 

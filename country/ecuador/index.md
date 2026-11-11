@@ -1,6 +1,6 @@
 # Coliving in Ecuador
 
-> 3 colivings and 1 community chapter in Ecuador, prices from €310 to €1,284 per month – last updated November 5, 2026.
+> 4 colivings and 1 community chapter in Ecuador, prices from €310 to €1,284 per month – last updated November 11, 2026.
 
 ## All colivings
 
@@ -10,6 +10,7 @@
 | Mariscal Sucre Residence | Quito | from $391/mo | — | private, shared | 30 nights | Permanent |
 | WiFi Tribe — Quito | Quito | from $1,480/mo | — | private, shared | 28 nights | Pop-up |
 | Pangea — Quito | Quito | from $249/ticket | — | — | — | Pop-up |
+| Noma Collective — Quito | Quito | from $2,490/event | — | — | — | Pop-up |
 
 ## Price distribution
 
@@ -22,5 +23,6 @@
 
 - WiFi Tribe — Quito — May 28 - Jun 25, 2027
 - Pangea — Quito — Nov 30 - Dec 18, 2026
+- Noma Collective — Quito — Aug 29 - Sep 26, 2027
 
 Source: https://colivingdb.com/country/ecuador/

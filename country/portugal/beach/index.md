@@ -1,6 +1,6 @@
 # Beach coliving in Portugal
 
-> 28 of the 59 colivings in Portugal are by the beach, cheapest first. Last updated November 5, 2026.
+> 28 of the 60 colivings in Portugal are by the beach, cheapest first. Last updated November 11, 2026.
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|

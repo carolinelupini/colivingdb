@@ -1,6 +1,6 @@
 # Bedndesk
 
-> Coliving in S'Arenal (Mallorca), Spain. Last updated November 5, 2026.
+> Coliving in S'Arenal (Mallorca), Spain. Last updated November 11, 2026.
 
 - **Location:** S'Arenal (Mallorca), Spain
 - **Type:** Permanent coliving

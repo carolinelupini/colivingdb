@@ -1,6 +1,6 @@
 # Coliving in Buenos Aires (Palermo), Argentina
 
-> 1 coliving in Buenos Aires (Palermo), Argentina, prices from €661 to €661 per month – last updated November 5, 2026.
+> 1 coliving in Buenos Aires (Palermo), Argentina, prices from €661 to €661 per month – last updated November 11, 2026.
 
 ## All colivings
 

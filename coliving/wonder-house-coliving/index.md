@@ -1,6 +1,6 @@
 # Wonder House Coliving
 
-> Coliving in Sant Feliu de Buixalleu, Girona, Spain. Last updated November 5, 2026.
+> Coliving in Sant Feliu de Buixalleu, Girona, Spain. Last updated November 11, 2026.
 
 - **Location:** Sant Feliu de Buixalleu, Girona, Spain
 - **Type:** Permanent coliving

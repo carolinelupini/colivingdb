@@ -1,6 +1,6 @@
 # Swiss Alps Coliving
 
-> Coliving in Liddes, Switzerland. Last updated November 5, 2026.
+> Coliving in Liddes, Switzerland. Last updated November 11, 2026.
 
 - **Location:** Liddes, Switzerland
 - **Type:** Permanent coliving

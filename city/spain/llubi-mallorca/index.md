@@ -1,6 +1,6 @@
 # Coliving in Llubí, Mallorca, Spain
 
-> 1 coliving in Llubí, Mallorca, Spain, prices from €740 to €740 per month – last updated November 5, 2026.
+> 1 coliving in Llubí, Mallorca, Spain, prices from €740 to €740 per month – last updated November 11, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Coliving in Bulgaria under €1,000 a month
 
-> 6 of the 9 colivings in Bulgaria list a monthly rate under €1,000 for their cheapest room (converted to euros where the operator prices in another currency), cheapest first. Last updated November 5, 2026.
+> 6 of the 9 colivings in Bulgaria list a monthly rate under €1,000 for their cheapest room (converted to euros where the operator prices in another currency), cheapest first. Last updated November 11, 2026.
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|

@@ -1,6 +1,6 @@
 # WOT Peniche Social
 
-> Coliving in Peniche, Portugal. Last updated November 5, 2026.
+> Coliving in Peniche, Portugal. Last updated November 11, 2026.
 
 - **Location:** Peniche, Portugal
 - **Type:** Permanent coliving

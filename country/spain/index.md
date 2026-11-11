@@ -1,6 +1,6 @@
 # Coliving in Spain
 
-> 95 colivings and 2 nomad festivals in Spain, prices from €450 to €2,900 per month – last updated November 5, 2026.
+> 99 colivings and 2 nomad festivals in Spain, prices from €450 to €2,900 per month – last updated November 11, 2026.
 
 ## All colivings
 
@@ -41,7 +41,6 @@
 | Coco Surfhouse | Corralejo, Fuerteventura | from €840/mo | 5.0 (84) | private, dorm | — | Permanent |
 | Oasis Coliving | Playa de las Americas, Tenerife | from €849/mo | 2.6 (206) | private | — | Permanent |
 | Sende Coliving | Senderiz, Ourense, Galicia | from €850/mo | 5.0 (48) | private, shared | 7 nights | Permanent |
-| The Better Neighbours — Lloret de Mar | Lloret de Mar | from €865/mo | — | — | — | Pop-up |
 | The Better Neighbours — Lloret de Mar (Spring 2027) | Lloret de Mar | from €865/mo | — | — | — | Pop-up |
 | Coliving 1907 | Las Palmas, Gran Canaria | from €870/mo | 4.8 (144) | private | 7 nights | Permanent |
 | La Toza Coworking & Coliving | Cabrero | from €870/mo | 5.0 (7) | private | 15 nights | Permanent |
@@ -76,6 +75,7 @@
 | Repeople Casa Jardin Coliving | Las Palmas de Gran Canaria | from €1,677/mo | 4.0 (4) | private | — | Permanent |
 | Repeople Casa Vera Coliving | Las Palmas de Gran Canaria | from €1,677/mo | — | private | — | Permanent |
 | Repeople Casanova Coliving | Las Palmas de Gran Canaria | from €1,677/mo | 5.0 (2) | private | — | Permanent |
+| WiFi Tribe — Valencia | Valencia | from $1,890/mo | — | private, shared | 28 nights | Pop-up |
 | Outsite Barcelona - Gothic Quarter | Barcelona | from €1,700/mo | 4.8 (30) | private, shared | 2 nights | Permanent |
 | SOMOS Coliving Palma de Mallorca | Palma de Mallorca | from €1,800/mo | 5.0 (22) | private | 30 nights | Permanent |
 | Surfescape | Lajares, Fuerteventura | from €2,500/mo | 4.6 (1167) | private, shared, apartment | — | Permanent |
@@ -103,6 +103,10 @@
 | Alicante Nomad Summit 2027 | Alicante | On request | — | — | — | Festival |
 | CO-CO Coliving & Coworking | Dénia | from €80/night | 5.0 (45) | private | 11 nights | Permanent |
 | Co-living Sojuela Joven | Sojuela | from €22/event | 5.0 (25) | private | 1 night | Permanent |
+| Noma Collective — Las Palmas (Gran Canaria) | Las Palmas de Gran Canaria | from $2,990/event | — | — | — | Pop-up |
+| RemotePunks — Las Palmas | Las Palmas | from €975/event | — | shared, private | — | Pop-up |
+| CoLivers — Las Palmas | Las Palmas | from €1,299/event | — | shared | 7 nights | Pop-up |
+| Hello Mira — Barcelona | Barcelona | from €80/night | — | private, shared | 14 nights | Permanent |
 
 ## Price distribution
 
@@ -110,18 +114,21 @@
 |---|---|
 | 0–500 | 2 |
 | 500–800 | 25 |
-| 800–1200 | 32 |
-| 1200–2000 | 13 |
+| 800–1200 | 31 |
+| 1200–2000 | 14 |
 | 2000–∞ | 3 |
 
 ## Upcoming pop-ups
 
 - Boundless Life — Andalusia (Malaga area) — Apr-Jun 2026 / Sept-Nov 2026 / Dec 2026 / Jan-Mar 2027 / Apr-Jun 2027 (plus Summer Camps)
-- The Better Neighbours — Lloret de Mar — Oct 4 - Nov 1, 2026 (Autumn)
 - WiFi Tribe — Palma de Mallorca — Apr 23 - May 21, 2027
 - Nomadbase Tarifa 2027 — May 17 - 23, 2027
 - Alicante Nomad Summit 2027 — Apr 19 - 25, 2027
 - The Better Neighbours — Lloret de Mar (Spring 2027) — Feb 28 - Mar 28, 2027 (Spring)
 - Boundless Life — Barcelona — Jan 3 - Mar 19, 2027 (founding cohort) / Mar 25 - Jun 10, 2027 / Sep 15 - Dec 5, 2027 (plus summer camps, Jun 16 - Aug 28, 2027)
+- Noma Collective — Las Palmas (Gran Canaria) — Jun 20 - Jul 18, 2027
+- WiFi Tribe — Valencia — Mar 26 - Apr 23, 2027
+- RemotePunks — Las Palmas — Jun 19 - Jul 17, 2027
+- CoLivers — Las Palmas — Oct 25 - Nov 22, 2026
 
 Source: https://colivingdb.com/country/spain/

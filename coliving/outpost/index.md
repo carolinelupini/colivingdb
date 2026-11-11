@@ -1,6 +1,6 @@
 # Outpost
 
-> Coliving in Canggu, Bali, Indonesia. Last updated November 5, 2026.
+> Coliving in Canggu, Bali, Indonesia. Last updated November 11, 2026.
 
 - **Location:** Canggu, Bali, Indonesia
 - **Type:** Permanent coliving

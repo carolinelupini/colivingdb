@@ -1,6 +1,6 @@
 # Coliving in Portugal under €700 a month
 
-> 6 of the 59 colivings in Portugal list a monthly rate under €700 for their cheapest room (converted to euros where the operator prices in another currency), cheapest first. Last updated November 5, 2026.
+> 6 of the 60 colivings in Portugal list a monthly rate under €700 for their cheapest room (converted to euros where the operator prices in another currency), cheapest first. Last updated November 11, 2026.
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|

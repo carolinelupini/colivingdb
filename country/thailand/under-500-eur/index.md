@@ -1,6 +1,6 @@
 # Coliving in Thailand under €500 a month
 
-> 6 of the 19 colivings in Thailand list a monthly rate under €500 for their cheapest room (converted to euros where the operator prices in another currency), cheapest first. Last updated November 5, 2026.
+> 6 of the 21 colivings in Thailand list a monthly rate under €500 for their cheapest room (converted to euros where the operator prices in another currency), cheapest first. Last updated November 11, 2026.
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|

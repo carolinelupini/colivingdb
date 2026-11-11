@@ -1,6 +1,6 @@
 # Petit Velan Coliving
 
-> Coliving in Bourg-Saint-Pierre, Switzerland. Last updated November 5, 2026.
+> Coliving in Bourg-Saint-Pierre, Switzerland. Last updated November 11, 2026.
 
 - **Location:** Bourg-Saint-Pierre, Switzerland
 - **Type:** Permanent coliving

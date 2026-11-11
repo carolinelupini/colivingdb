@@ -1,6 +1,6 @@
 # Outsite San Juan del Sur
 
-> Coliving in San Juan del Sur, Nicaragua. Last updated November 5, 2026.
+> Coliving in San Juan del Sur, Nicaragua. Last updated November 11, 2026.
 
 - **Location:** San Juan del Sur, Nicaragua
 - **Type:** Permanent coliving

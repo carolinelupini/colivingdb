@@ -1,6 +1,6 @@
 # TADAIMA 2026 — Shimoda
 
-> Coworking chapter in Shimoda, Japan. Last updated November 5, 2026.
+> Coworking chapter in Shimoda, Japan. Last updated November 11, 2026.
 
 - **Location:** Shimoda, Japan
 - **Type:** Pop-up coworking chapter — accommodation not included

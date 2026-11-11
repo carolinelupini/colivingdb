@@ -1,6 +1,6 @@
 # Coliving in Guchen (Saubissan), Pyrenees, France
 
-> 1 coliving in Guchen (Saubissan), Pyrenees, France – last updated November 5, 2026.
+> 1 coliving in Guchen (Saubissan), Pyrenees, France – last updated November 11, 2026.
 
 ## All colivings
 

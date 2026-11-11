@@ -1,6 +1,6 @@
 # Coliving in San Miguel de Abona, Tenerife, Spain
 
-> 1 coliving in San Miguel de Abona, Tenerife, Spain – last updated November 5, 2026.
+> 1 coliving in San Miguel de Abona, Tenerife, Spain – last updated November 11, 2026.
 
 ## All colivings
 

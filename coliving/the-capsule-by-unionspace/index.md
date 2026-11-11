@@ -1,6 +1,6 @@
 # The Capsule by UnionSPACE
 
-> Coliving in bangkok, Thailand. Last updated November 5, 2026.
+> Coliving in bangkok, Thailand. Last updated November 11, 2026.
 
 - **Location:** bangkok, Thailand
 - **Type:** Permanent coliving

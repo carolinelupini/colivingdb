@@ -1,6 +1,6 @@
 # Cactus Coliving
 
-> Coliving in Valle San Lorenzo (Arona), Tenerife, Spain. Last updated November 5, 2026.
+> Coliving in Valle San Lorenzo (Arona), Tenerife, Spain. Last updated November 11, 2026.
 
 - **Location:** Valle San Lorenzo (Arona), Tenerife, Spain
 - **Type:** Permanent coliving

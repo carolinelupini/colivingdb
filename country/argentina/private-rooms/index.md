@@ -1,6 +1,6 @@
 # Coliving in Argentina with private rooms
 
-> 8 of the 10 colivings in Argentina offer a private room, cheapest first. Last updated November 5, 2026.
+> 9 of the 12 colivings in Argentina offer a private room, cheapest first. Last updated November 11, 2026.
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
@@ -12,5 +12,6 @@
 | [WiFi Tribe — Buenos Aires](/coliving/wifi-tribe-buenos-aires/index.md) | Buenos Aires | from $1,690/mo | private, shared | 28 nights | Pop-up |
 | [Coliving Vibrant Buenos Aires](/coliving/coliving-vibrant-buenos-aires/index.md) | Buenos Aires | On request | private | 7 nights | Permanent |
 | [Draper Startup House Buenos Aires](/coliving/draper-startup-house-buenos-aires/index.md) | Buenos Aires | On request | private, shared, dorm | — | Permanent |
+| [Noma Tribe — Buenos Aires](/coliving/noma-tribe-buenos-aires/index.md) | Buenos Aires | from $1,750/event | private, shared | — | Pop-up |
 
 Source: https://colivingdb.com/country/argentina/private-rooms/

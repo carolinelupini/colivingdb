@@ -1,6 +1,6 @@
 # Coliving in Bourg-Saint-Pierre, Switzerland
 
-> 1 coliving in Bourg-Saint-Pierre, Switzerland, prices from €500 to €500 per month – last updated November 5, 2026.
+> 1 coliving in Bourg-Saint-Pierre, Switzerland, prices from €500 to €500 per month – last updated November 11, 2026.
 
 ## All colivings
 

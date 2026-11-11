@@ -1,6 +1,6 @@
 # Coliving in Thailand under €1,500 a month
 
-> 12 of the 19 colivings in Thailand list a monthly rate under €1,500 for their cheapest room (converted to euros where the operator prices in another currency), cheapest first. Last updated November 5, 2026.
+> 13 of the 21 colivings in Thailand list a monthly rate under €1,500 for their cheapest room (converted to euros where the operator prices in another currency), cheapest first. Last updated November 11, 2026.
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [THE SOCIAL CLUB](/coliving/the-social-club/index.md) | Chiang Mai | from $800/mo | private | — | Permanent |
 | [The Chiang Mai-Lamphun](/coliving/the-chiang-mai-lamphun/index.md) | Chiang Mai | from $842/mo | private | 30 nights | Permanent |
 | [beacHub](/coliving/beachub/index.md) | Koh Phangan | from THB 30,000/mo | shared | — | Permanent |
+| [Nomadico Coliving Koh Samui](/coliving/nomadico-coliving-koh-samui/index.md) | Lamai, Koh Samui | from THB 29,875/mo | private | 7 nights | Permanent |
 | [The Arak](/coliving/the-arak/index.md) | Chiang Mai | from $929/mo | private | 30 nights | Permanent |
 | [KoHub](/coliving/kohub/index.md) | Ko Lanta | from THB 49,500/mo | private | 30 nights | Permanent |
 | [Digital Nomad Adventures](/coliving/digital-nomad-adventures/index.md) | Koh Phangan | from $1,645/mo | private | 7 nights | Permanent |

@@ -1,6 +1,6 @@
 # Coworkerei Coliving
 
-> Coliving in Mils / Innsbruck (Tyrol), Austria. Last updated November 5, 2026.
+> Coliving in Mils / Innsbruck (Tyrol), Austria. Last updated November 11, 2026.
 
 - **Location:** Mils / Innsbruck (Tyrol), Austria
 - **Type:** Permanent coliving

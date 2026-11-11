@@ -1,6 +1,6 @@
 # Coliving in Italy under €1,000 a month
 
-> 13 of the 27 colivings in Italy list a monthly rate under €1,000 for their cheapest room (converted to euros where the operator prices in another currency), cheapest first. Last updated November 5, 2026.
+> 12 of the 26 colivings in Italy list a monthly rate under €1,000 for their cheapest room (converted to euros where the operator prices in another currency), cheapest first. Last updated November 11, 2026.
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|
@@ -16,6 +16,5 @@
 | [Beet - Botanical Garden (Cortile del Giuoco Home)](/coliving/beet-botanical-garden-cortile-del-giuoco-home/index.md) | Palermo | from $1,143/mo | private | 30 nights | Permanent |
 | [Casa Netural](/coliving/casa-netural/index.md) | Matera | from €950/mo | private | 1 night | Permanent |
 | [Coliving Sardinia](/coliving/coliving-sardinia/index.md) | Porto Cervo, Sardinia | from €950/mo | private, shared | 14 nights | Permanent |
-| [Casa Basilico — Puglia](/coliving/casa-basilico-puglia/index.md) | Puglia | from €997/mo | — | 14 nights | Pop-up |
 
 Source: https://colivingdb.com/country/italy/under-1000-eur/

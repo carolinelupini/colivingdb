@@ -1,6 +1,6 @@
 # Aulus Coliving
 
-> Coliving in Aulus-les-Bains, France. Last updated November 5, 2026.
+> Coliving in Aulus-les-Bains, France. Last updated November 11, 2026.
 
 - **Location:** Aulus-les-Bains, France
 - **Type:** Permanent coliving
@@ -9,6 +9,7 @@
 - **Rating:** <a href="https://maps.google.com/?cid=2598040765410529195&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 5.0 (14 reviews)</a> <small>· Google</small>
 - **Room types:** private, shared
 - **Dorm available:** No
+- **Wi-Fi (on-site):** 940 Mbps down <small>· operator-reported</small><br><small>Operator speedtest posted 2026-06-24: 940 Mbps down on a 1 Gbps fibre line with 4G backup, and Wi-Fi access points on every floor.</small>
 - **Vibe:** A small, active mountain community in the French Pyrenees — hiking, climbing and skiing around the work week.
 - **Minimum stay:** —
 - **Reader discount:** Yes — subscribe to the colivingDB newsletter to get the code

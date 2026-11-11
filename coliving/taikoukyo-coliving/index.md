@@ -1,6 +1,6 @@
 # Taikoukyo Coliving
 
-> Coliving in Kyoto, Japan. Last updated November 5, 2026.
+> Coliving in Kyoto, Japan. Last updated November 11, 2026.
 
 - **Location:** Kyoto, Japan
 - **Type:** Permanent coliving

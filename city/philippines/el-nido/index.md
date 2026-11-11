@@ -1,6 +1,6 @@
 # Coliving in El Nido, Philippines
 
-> 2 colivings in El Nido, Philippines, prices from €1,627 to €2,280 per month – last updated November 5, 2026.
+> 2 colivings in El Nido, Philippines, prices from €1,627 to €2,280 per month – last updated November 11, 2026.
 
 ## All colivings
 

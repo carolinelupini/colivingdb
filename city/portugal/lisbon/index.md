@@ -1,6 +1,6 @@
 # Coliving in Lisbon, Portugal
 
-> 3 colivings in Lisbon, Portugal, prices from €800 to €1,000 per month – last updated November 5, 2026.
+> 4 colivings in Lisbon, Portugal, prices from €800 to €1,000 per month – last updated November 11, 2026.
 
 ## All colivings
 
@@ -9,6 +9,7 @@
 | Outsite Lisbon - Cais do Sodre | Lisbon | from €800/mo | 4.5 (191) | private | 2 nights | Permanent |
 | samesame co-living | Lisbon | from €800/mo | 4.8 (90) | private | 8 nights | Permanent |
 | Outsite Lisbon - Intendente | Lisbon | from €1,000/mo | 4.4 (37) | private | — | Permanent |
+| Hello Mira — Lisbon | Lisbon | from €75/night | — | private, shared | 14 nights | Permanent |
 
 ## Price distribution
 

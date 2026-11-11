@@ -1,6 +1,6 @@
 # Coliving in Alicante, Spain
 
-> 1 coliving and 1 nomad festival in Alicante, Spain, prices from €899 to €899 per month – last updated November 5, 2026.
+> 1 coliving and 1 nomad festival in Alicante, Spain, prices from €899 to €899 per month – last updated November 11, 2026.
 
 ## All colivings
 

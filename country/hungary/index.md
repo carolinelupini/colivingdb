@@ -1,6 +1,6 @@
 # Coliving in Hungary
 
-> 2 colivings in Hungary – last updated November 5, 2026.
+> 2 colivings in Hungary – last updated November 11, 2026.
 
 ## All colivings
 

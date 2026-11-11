@@ -1,6 +1,6 @@
 # Coliving in Maroni, Cyprus
 
-> 1 coliving in Maroni, Cyprus, prices from €1,160 to €1,160 per month – last updated November 5, 2026.
+> 1 coliving in Maroni, Cyprus, prices from €1,160 to €1,160 per month – last updated November 11, 2026.
 
 ## All colivings
 

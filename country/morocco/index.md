@@ -1,6 +1,6 @@
 # Coliving in Morocco
 
-> 8 colivings and 1 nomad festival in Morocco, prices from €300 to €1,300 per month – last updated November 5, 2026.
+> 8 colivings in Morocco, prices from €300 to €1,300 per month – last updated November 11, 2026.
 
 ## All colivings
 
@@ -14,7 +14,6 @@
 | The Tasga Oudrar II | Taghazout | from $1,429/mo | — | private, dorm | 30 nights | Permanent |
 | Cowork & Live | Casablanca | On request | 4.8 (74) | private | — | Permanent |
 | Outsite Marrakesh | Marrakesh | On request | 4.7 (102) | private | 2 nights | Permanent |
-| Arab Nomad Fest: Morocco 2026 | Taghazout | from $297/ticket | — | — | — | Festival |
 
 ## Price distribution
 
@@ -24,9 +23,5 @@
 | 500–800 | 2 |
 | 800–1200 | 1 |
 | 1200–2000 | 1 |
-
-## Upcoming pop-ups
-
-- Arab Nomad Fest: Morocco 2026 — Oct 26 - Nov 1, 2026
 
 Source: https://colivingdb.com/country/morocco/
