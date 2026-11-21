@@ -1,6 +1,6 @@
 # Coliving in Bulgaria
 
-> 9 colivings, 1 nomad festival and 1 community chapter in Bulgaria, prices from €280 to €1,400 per month – last updated November 11, 2026.
+> 9 colivings, 1 nomad festival and 1 community chapter in Bulgaria, prices from €280 to €1,400 per month – last updated November 21, 2026.
 
 ## All colivings
 
@@ -11,7 +11,7 @@
 | Avalon Bansko | Bansko | from €550/mo | 4.7 (127) | private, shared | 31 nights | Permanent |
 | Nomadico Coliving Bansko | Bansko | from €638/mo | 4.9 (18) | private, shared | 7 nights | Permanent |
 | The Pirin | Bansko | from $832/mo | — | private | 30 nights | Permanent |
-| Coliving Valentina Bansko | Bansko | from €750/mo | 4.6 (107) | private | — | Permanent |
+| Coliving Valentina Bansko | Bansko | from €850/mo | 4.6 (107) | private | — | Permanent |
 | WorkNomads LAB Coliving | Sofia | from €1,095/mo | 4.5 (533) | private | 30 nights | Permanent |
 | Burgas Coliving | Burgas | from €1,400/mo | 4.9 (49) | private | — | Permanent |
 | Coliving Bansko by "Coworking Bansko" and Networking Premium | Bansko | On request | 4.3 (117) | private | — | Permanent |
@@ -23,8 +23,8 @@
 | Band (EUR/mo) | Colivings |
 |---|---|
 | 0–500 | 2 |
-| 500–800 | 4 |
-| 800–1200 | 1 |
+| 500–800 | 3 |
+| 800–1200 | 2 |
 | 1200–2000 | 1 |
 
 ## Upcoming pop-ups

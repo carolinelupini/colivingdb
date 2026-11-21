@@ -1,6 +1,6 @@
 # Mountain colivings
 
-> 73 colivings in the mountains in 19 countries. Updated November 11, 2026.
+> 73 colivings in the mountains in 19 countries. Updated November 21, 2026.
 
 | Coliving | City | Country | Price from | Min stay | Type |
 |---|---|---|---|---|---|
@@ -37,7 +37,6 @@
 | [La Vita Sukha](/coliving/la-vita-sukha/index.md) | Roseto Valfortore | Italy | from €700/mo | 13 nights | Permanent |
 | [Moritsgarden (Digital Nomad Norway)](/coliving/moritsgarden-digital-nomad-norway/index.md) | Folkestad | Norway | from €700/mo | — | Permanent |
 | [The Pirin](/coliving/the-pirin/index.md) | Bansko | Bulgaria | from $832/mo | 30 nights | Permanent |
-| [Coliving Valentina Bansko](/coliving/coliving-valentina-bansko/index.md) | Bansko | Bulgaria | from €750/mo | — | Permanent |
 | [Montino Coliving](/coliving/montino-coliving/index.md) | Oggebbio, Lake Maggiore | Italy | from €750/mo | 7 nights | Permanent |
 | [Lava Coliving & Coworking](/coliving/lava-coliving-and-coworking/index.md) | Ribeira Grande, São Miguel | Portugal | from €25/night | 7 nights | Permanent |
 | [Wonder House Coliving](/coliving/wonder-house-coliving/index.md) | Sant Feliu de Buixalleu, Girona | Spain | from €750/mo | 30 nights | Permanent |
@@ -45,6 +44,7 @@
 | [Savi Coliving](/coliving/savi-coliving/index.md) | Náquera (Valencia) | Spain | from €800/mo | — | Permanent |
 | [PAS Rural Coliving](/coliving/pas-rural-coliving/index.md) | Villegar | Spain | from €810/mo | 15 nights | Permanent |
 | [Rooral Coliving](/coliving/rooral-coliving/index.md) | Benarrabá | Spain | from €810/mo | 1 night | Permanent |
+| [Coliving Valentina Bansko](/coliving/coliving-valentina-bansko/index.md) | Bansko | Bulgaria | from €850/mo | — | Permanent |
 | [Sende Coliving](/coliving/sende-coliving/index.md) | Senderiz, Ourense, Galicia | Spain | from €850/mo | 7 nights | Permanent |
 | [La Toza Coworking & Coliving](/coliving/la-toza-coworking-and-coliving/index.md) | Cabrero | Spain | from €870/mo | 15 nights | Permanent |
 | [Fond de Ville Home II](/coliving/fond-de-ville-home-ii/index.md) | Liddes | Switzerland | from $994/mo | 30 nights | Permanent |

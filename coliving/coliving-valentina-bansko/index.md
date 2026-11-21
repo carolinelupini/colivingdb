@@ -1,15 +1,15 @@
 # Coliving Valentina Bansko
 
-> Coliving in Bansko, Bulgaria. Last updated November 11, 2026.
+> Coliving in Bansko, Bulgaria. Last updated November 21, 2026.
 
 - **Location:** Bansko, Bulgaria
 - **Type:** Permanent coliving
-- **Price:** from €750/mo
-- **Price note:** studio from €650/month
+- **Price:** from €850/mo
+- **Price note:** From about €850/month at the moment, with individual pricing for each apartment (operator, Holger Mette, 2026-11-21).
 - **Rating:** <a href="https://maps.google.com/?cid=7657526736195463959&amp;g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA" target="_blank" rel="noopener">★ 4.6 (107 reviews)</a> <small>· Google</small>
 - **Room types:** private
 - **Dorm available:** No
-- **Wi-Fi (on-site):** 80 Mbps down <small>· operator-reported</small><br><small>Operator-reported (Cristian Z, 2026-07-19): fibre business line, 300 Mbps by contract but 80–100 Mbps real-world at 30–50 concurrent users, plus a second backup line. The real-world floor is shown rather than the 300 contract headline.</small>
+- **Wi-Fi (on-site):** 94 Mbps down <small>· operator-reported</small><br><small>Operator-reported (Holger Mette, 2026-11-21): speedtest 94.3 Mbps down / 100 up, ping 8 ms, on A1 (screenshot dated 2026-11-14). Earlier operator report (Cristian Z, 2026-07-19): fibre business line with a second backup line, 80–100 Mbps real-world at 30–50 concurrent users.</small>
 - **Vibe:** Warm, cosy rooms with a genuine sense of community
 - **Minimum stay:** —
 - **Region:** Europe
@@ -23,12 +23,12 @@
 
 | Stay length | Private |
 |---|---|
-| Per month | €750 |
+| Per month | €850 |
 
 Coliving Valentina Bansko does not publish a nightly or weekly rate.
 
 ## About
 
-Bansko's first coliving, open since 2018, with studios and apartments. Book direct at valentinabansko.com or email valentinaheights@gmail.com.
+Bansko's first coliving, open since 2018, with studios and apartments. Book direct at valentinabansko.com or email valentinaheights@gmail.com — mention colivingDB when you enquire.
 
 Source: https://colivingdb.com/coliving/coliving-valentina-bansko/

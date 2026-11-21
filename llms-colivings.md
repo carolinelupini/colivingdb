@@ -1,6 +1,6 @@
 # colivingDB — all colivings
 
-> 678 listings. Last updated November 11, 2026.
+> 678 listings. Last updated November 21, 2026.
 
 | Coliving | City | Country | Price from | Min stay | Type |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Bansko Nomad Fest 2027](/coliving/bansko-nomad-fest-2027/index.md) | Bansko | Bulgaria | from €225/ticket | — | Festival |
 | [Burgas Coliving](/coliving/burgas-coliving/index.md) | Burgas | Bulgaria | from €1,400/mo | — | Permanent |
 | [Coliving Bansko by "Coworking Bansko" and Networking Premium](/coliving/coliving-bansko-by-coworking-bansko-and-networking-premium/index.md) | Bansko | Bulgaria | On request | — | Permanent |
-| [Coliving Valentina Bansko](/coliving/coliving-valentina-bansko/index.md) | Bansko | Bulgaria | from €750/mo | — | Permanent |
+| [Coliving Valentina Bansko](/coliving/coliving-valentina-bansko/index.md) | Bansko | Bulgaria | from €850/mo | — | Permanent |
 | [Four Leaf Clover Bansko - Coliving](/coliving/four-leaf-clover-bansko-coliving/index.md) | Bansko | Bulgaria | from €280/mo | — | Permanent |
 | [Nomadico Coliving Bansko](/coliving/nomadico-coliving-bansko/index.md) | Bansko | Bulgaria | from €638/mo | 7 nights | Permanent |
 | [Pangea — Bansko](/coliving/pangea-bansko/index.md) | Bansko | Bulgaria | from $299/ticket | — | Pop-up |
