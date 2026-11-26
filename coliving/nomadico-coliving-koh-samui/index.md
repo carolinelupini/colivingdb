@@ -1,6 +1,6 @@
 # Nomadico Coliving Koh Samui
 
-> Coliving in Lamai, Koh Samui, Thailand. Last updated November 11, 2026.
+> Coliving in Lamai, Koh Samui, Thailand. Last updated November 26, 2026.
 
 - **Status:** <b>Not open yet</b> — opening January 2
 - **Location:** Lamai, Koh Samui, Thailand

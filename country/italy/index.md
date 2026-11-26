@@ -1,6 +1,6 @@
 # Coliving in Italy
 
-> 26 colivings and 2 nomad festivals in Italy, prices from €540 to €1,500 per month – last updated November 11, 2026.
+> 26 colivings and 2 nomad festivals in Italy, prices from €540 to €1,500 per month – last updated November 26, 2026.
 
 ## All colivings
 

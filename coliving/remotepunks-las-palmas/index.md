@@ -1,6 +1,6 @@
 # RemotePunks — Las Palmas
 
-> Coliving in Las Palmas, Spain. Last updated November 11, 2026.
+> Coliving in Las Palmas, Spain. Last updated November 26, 2026.
 
 - **Location:** Las Palmas, Spain
 - **Type:** Pop-up / dated edition

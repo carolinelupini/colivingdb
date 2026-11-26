@@ -1,6 +1,6 @@
 # Coliving in Brazil
 
-> 17 colivings and 1 community chapter in Brazil, prices from €238 to €2,447 per month – last updated November 11, 2026.
+> 17 colivings and 1 community chapter in Brazil, prices from €238 to €2,447 per month – last updated November 26, 2026.
 
 ## All colivings
 

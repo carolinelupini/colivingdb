@@ -1,6 +1,6 @@
 # Coliving in Japan
 
-> 11 colivings and 1 community chapter in Japan, prices from €378 to €2,600 per month – last updated November 11, 2026.
+> 11 colivings and 1 community chapter in Japan, prices from €378 to €2,600 per month – last updated November 26, 2026.
 
 ## All colivings
 

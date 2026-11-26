@@ -1,6 +1,6 @@
 # Coliving in Argentina with private rooms
 
-> 9 of the 12 colivings in Argentina offer a private room, cheapest first. Last updated November 11, 2026.
+> 9 of the 12 colivings in Argentina offer a private room, cheapest first. Last updated November 26, 2026.
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|

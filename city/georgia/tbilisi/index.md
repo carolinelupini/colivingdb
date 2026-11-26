@@ -1,6 +1,6 @@
 # Coliving in Tbilisi, Georgia
 
-> 1 coliving in Tbilisi, Georgia, prices from €1,511 to €1,511 per month – last updated November 11, 2026.
+> 1 coliving in Tbilisi, Georgia, prices from €1,511 to €1,511 per month – last updated November 26, 2026.
 
 ## All colivings
 

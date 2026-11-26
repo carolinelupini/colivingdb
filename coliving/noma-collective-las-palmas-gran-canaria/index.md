@@ -1,6 +1,6 @@
 # Noma Collective — Las Palmas (Gran Canaria)
 
-> Coliving in Las Palmas de Gran Canaria, Spain. Last updated November 11, 2026.
+> Coliving in Las Palmas de Gran Canaria, Spain. Last updated November 26, 2026.
 
 - **Location:** Las Palmas de Gran Canaria, Spain
 - **Type:** Pop-up / dated edition

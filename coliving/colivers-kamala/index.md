@@ -1,6 +1,6 @@
 # CoLivers — Kamala
 
-> Coliving in Kamala, Thailand. Last updated November 11, 2026.
+> Coliving in Kamala, Thailand. Last updated November 26, 2026.
 
 - **Location:** Kamala, Thailand
 - **Type:** Pop-up / dated edition

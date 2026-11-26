@@ -1,6 +1,6 @@
 # Coliving in Lamai, Koh Samui, Thailand
 
-> 1 coliving in Lamai, Koh Samui, Thailand, prices from €796 to €796 per month – last updated November 11, 2026.
+> 1 coliving in Lamai, Koh Samui, Thailand, prices from €796 to €796 per month – last updated November 26, 2026.
 
 ## All colivings
 

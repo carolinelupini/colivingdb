@@ -1,6 +1,6 @@
 # Island coliving in Portugal
 
-> 19 of the 60 colivings in Portugal are on islands, cheapest first. Last updated November 11, 2026.
+> 19 of the 60 colivings in Portugal are on islands, cheapest first. Last updated November 26, 2026.
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|

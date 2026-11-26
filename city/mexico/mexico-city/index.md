@@ -1,6 +1,6 @@
 # Coliving in Mexico City, Mexico
 
-> 9 colivings and 1 nomad festival in Mexico City, Mexico, prices from €46 to €815 per month – last updated November 11, 2026.
+> 9 colivings and 1 nomad festival in Mexico City, Mexico, prices from €46 to €815 per month – last updated November 26, 2026.
 
 ## All colivings
 

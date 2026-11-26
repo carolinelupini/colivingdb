@@ -1,6 +1,6 @@
 # WiFi Tribe — Tbilisi
 
-> Coliving in Tbilisi, Georgia. Last updated November 11, 2026.
+> Coliving in Tbilisi, Georgia. Last updated November 26, 2026.
 
 - **Location:** Tbilisi, Georgia
 - **Type:** Pop-up / dated edition

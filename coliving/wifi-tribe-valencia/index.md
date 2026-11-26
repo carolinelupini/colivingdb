@@ -1,6 +1,6 @@
 # WiFi Tribe — Valencia
 
-> Coliving in Valencia, Spain. Last updated November 11, 2026.
+> Coliving in Valencia, Spain. Last updated November 26, 2026.
 
 - **Location:** Valencia, Spain
 - **Type:** Pop-up / dated edition

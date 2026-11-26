@@ -1,6 +1,6 @@
 # Coliving in Monchique, Portugal
 
-> 1 coliving in Monchique, Portugal, prices from €650 to €650 per month – last updated November 11, 2026.
+> 1 coliving in Monchique, Portugal, prices from €650 to €650 per month – last updated November 26, 2026.
 
 ## All colivings
 

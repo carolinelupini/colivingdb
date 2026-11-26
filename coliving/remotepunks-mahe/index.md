@@ -1,6 +1,6 @@
 # RemotePunks — Mahé
 
-> Coliving in Mahé, Seychelles. Last updated November 11, 2026.
+> Coliving in Mahé, Seychelles. Last updated November 26, 2026.
 
 - **Location:** Mahé, Seychelles
 - **Type:** Pop-up / dated edition

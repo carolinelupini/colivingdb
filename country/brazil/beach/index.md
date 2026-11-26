@@ -1,6 +1,6 @@
 # Beach coliving in Brazil
 
-> 8 of the 17 colivings in Brazil are by the beach, cheapest first. Last updated November 11, 2026.
+> 8 of the 17 colivings in Brazil are by the beach, cheapest first. Last updated November 26, 2026.
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|

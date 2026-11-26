@@ -1,6 +1,6 @@
 # Coliving in Honduras
 
-> 3 colivings in Honduras – last updated November 11, 2026.
+> 3 colivings in Honduras – last updated November 26, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Noma Collective — Ubud
 
-> Coliving in Ubud, Indonesia. Last updated November 11, 2026.
+> Coliving in Ubud, Indonesia. Last updated November 26, 2026.
 
 - **Location:** Ubud, Indonesia
 - **Type:** Pop-up / dated edition

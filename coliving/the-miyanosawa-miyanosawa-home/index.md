@@ -1,6 +1,6 @@
 # The Miyanosawa (Miyanosawa Home)
 
-> Coliving in Sapporo, Japan. Last updated November 11, 2026.
+> Coliving in Sapporo, Japan. Last updated November 26, 2026.
 
 - **Location:** Sapporo, Japan
 - **Type:** Permanent coliving

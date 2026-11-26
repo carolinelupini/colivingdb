@@ -1,6 +1,6 @@
 # Coliving in Palermo, Italy
 
-> 3 colivings and 1 nomad festival in Palermo, Italy, prices from €850 to €850 per month – last updated November 11, 2026.
+> 3 colivings and 1 nomad festival in Palermo, Italy, prices from €850 to €850 per month – last updated November 26, 2026.
 
 ## All colivings
 

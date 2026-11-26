@@ -1,6 +1,6 @@
 # INHIVE Co-Living
 
-> Coliving in Istanbul, Turkey. Last updated November 11, 2026.
+> Coliving in Istanbul, Turkey. Last updated November 26, 2026.
 
 - **Location:** Istanbul, Turkey
 - **Type:** Permanent coliving

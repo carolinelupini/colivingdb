@@ -1,6 +1,6 @@
 # Coliving in Bali, Indonesia
 
-> 1 coliving in Bali, Indonesia – last updated November 11, 2026.
+> 1 coliving in Bali, Indonesia – last updated November 26, 2026.
 
 ## All colivings
 

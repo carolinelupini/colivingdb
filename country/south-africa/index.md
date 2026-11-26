@@ -1,6 +1,6 @@
 # Coliving in South Africa
 
-> 23 colivings, 1 nomad festival and 2 community chapters in South Africa, prices from €345 to €2,069 per month – last updated November 11, 2026.
+> 23 colivings, 1 nomad festival and 2 community chapters in South Africa, prices from €345 to €2,069 per month – last updated November 26, 2026.
 
 ## All colivings
 

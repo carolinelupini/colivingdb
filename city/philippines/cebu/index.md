@@ -1,6 +1,6 @@
 # Coliving in Cebu, Philippines
 
-> 1 coliving in Cebu, Philippines – last updated November 11, 2026.
+> 1 coliving in Cebu, Philippines – last updated November 26, 2026.
 
 ## All colivings
 

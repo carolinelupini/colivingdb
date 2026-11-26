@@ -1,6 +1,6 @@
 # Coliving in Spain
 
-> 99 colivings and 2 nomad festivals in Spain, prices from €450 to €2,900 per month – last updated November 11, 2026.
+> 99 colivings and 2 nomad festivals in Spain, prices from €450 to €2,900 per month – last updated November 26, 2026.
 
 ## All colivings
 

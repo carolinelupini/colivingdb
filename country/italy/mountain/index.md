@@ -1,6 +1,6 @@
 # Mountain coliving in Italy
 
-> 6 of the 26 colivings in Italy are in the mountains, cheapest first. Last updated November 11, 2026.
+> 6 of the 26 colivings in Italy are in the mountains, cheapest first. Last updated November 26, 2026.
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|

@@ -1,6 +1,6 @@
 # Coliving in Hội An, Vietnam
 
-> 1 coliving in Hội An, Vietnam – last updated November 11, 2026.
+> 1 coliving in Hội An, Vietnam – last updated November 26, 2026.
 
 ## All colivings
 

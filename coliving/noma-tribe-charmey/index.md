@@ -1,6 +1,6 @@
 # Noma Tribe — Charmey
 
-> Coliving in Charmey, Switzerland. Last updated November 11, 2026.
+> Coliving in Charmey, Switzerland. Last updated November 26, 2026.
 
 - **Location:** Charmey, Switzerland
 - **Type:** Pop-up / dated edition

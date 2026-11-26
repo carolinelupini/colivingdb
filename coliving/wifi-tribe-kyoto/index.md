@@ -1,6 +1,6 @@
 # WiFi Tribe — Kyoto
 
-> Coliving in Kyoto, Japan. Last updated November 11, 2026.
+> Coliving in Kyoto, Japan. Last updated November 26, 2026.
 
 - **Location:** Kyoto, Japan
 - **Type:** Pop-up / dated edition

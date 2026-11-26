@@ -1,6 +1,6 @@
 # colivingDB — all countries
 
-> 650 colivings, 16 nomad festivals and 12 community chapters across 88 countries. Last updated November 11, 2026.
+> 650 colivings, 16 nomad festivals and 12 community chapters across 88 countries. Last updated November 26, 2026.
 
 | Country | Colivings | From (EUR/mo) |
 |---|---|---|

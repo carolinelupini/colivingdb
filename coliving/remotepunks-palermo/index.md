@@ -1,6 +1,6 @@
 # RemotePunks — Palermo
 
-> Coliving in Palermo, Italy. Last updated November 11, 2026.
+> Coliving in Palermo, Italy. Last updated November 26, 2026.
 
 - **Location:** Palermo, Italy
 - **Type:** Pop-up / dated edition

@@ -1,6 +1,6 @@
 # Coliving in Jambiani, Zanzibar, Tanzania
 
-> 1 coliving in Jambiani, Zanzibar, Tanzania – last updated November 11, 2026.
+> 1 coliving in Jambiani, Zanzibar, Tanzania – last updated November 26, 2026.
 
 ## All colivings
 

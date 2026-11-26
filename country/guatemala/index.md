@@ -1,6 +1,6 @@
 # Coliving in Guatemala
 
-> 5 colivings in Guatemala, prices from €819 to €1,293 per month – last updated November 11, 2026.
+> 5 colivings in Guatemala, prices from €819 to €1,293 per month – last updated November 26, 2026.
 
 ## All colivings
 

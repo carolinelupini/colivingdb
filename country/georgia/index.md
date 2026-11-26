@@ -1,6 +1,6 @@
 # Coliving in Georgia
 
-> 5 colivings in Georgia, prices from €192 to €1,511 per month – last updated November 11, 2026.
+> 5 colivings in Georgia, prices from €192 to €1,511 per month – last updated November 26, 2026.
 
 ## All colivings
 

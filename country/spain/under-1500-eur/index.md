@@ -1,6 +1,6 @@
 # Coliving in Spain under €1,500 a month
 
-> 65 of the 99 colivings in Spain list a monthly rate under €1,500 for their cheapest room (converted to euros where the operator prices in another currency), cheapest first. Last updated November 11, 2026.
+> 65 of the 99 colivings in Spain list a monthly rate under €1,500 for their cheapest room (converted to euros where the operator prices in another currency), cheapest first. Last updated November 26, 2026.
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|

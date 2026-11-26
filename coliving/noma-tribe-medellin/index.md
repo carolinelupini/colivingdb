@@ -1,6 +1,6 @@
 # Noma Tribe — Medellín
 
-> Coliving in Medellín, Colombia. Last updated November 11, 2026.
+> Coliving in Medellín, Colombia. Last updated November 26, 2026.
 
 - **Location:** Medellín, Colombia
 - **Type:** Pop-up / dated edition

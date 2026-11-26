@@ -1,6 +1,6 @@
 # Mountain colivings
 
-> 73 colivings in the mountains in 19 countries. Updated November 21, 2026.
+> 73 colivings in the mountains in 19 countries. Updated November 26, 2026.
 
 | Coliving | City | Country | Price from | Min stay | Type |
 |---|---|---|---|---|---|

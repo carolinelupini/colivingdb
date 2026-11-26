@@ -1,6 +1,6 @@
 # Noma Tribe — Florianópolis
 
-> Coliving in Florianópolis, Brazil. Last updated November 11, 2026.
+> Coliving in Florianópolis, Brazil. Last updated November 26, 2026.
 
 - **Location:** Florianópolis, Brazil
 - **Type:** Pop-up / dated edition

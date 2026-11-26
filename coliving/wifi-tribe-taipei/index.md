@@ -1,6 +1,6 @@
 # WiFi Tribe — Taipei
 
-> Coliving in Taipei, Taiwan. Last updated November 11, 2026.
+> Coliving in Taipei, Taiwan. Last updated November 26, 2026.
 
 - **Location:** Taipei, Taiwan
 - **Type:** Pop-up / dated edition

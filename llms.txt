@@ -1,6 +1,6 @@
 # colivingDB
 
-> A free, curated directory of 650 colivings worldwide, plus 16 nomad festivals and 12 community chapters — one map, native-currency pricing, no login and no email wall. Covers permanent colivings, dated pop-up editions and nomad festivals across 88 countries. Last updated November 11, 2026.
+> A free, curated directory of 650 colivings worldwide, plus 16 nomad festivals and 12 community chapters — one map, native-currency pricing, no login and no email wall. Covers permanent colivings, dated pop-up editions and nomad festivals across 88 countries. Last updated November 26, 2026.
 
 colivingDB is built and maintained by Caroline Lupini, a full-time digital nomad since 2014 who has lived and worked across more than a hundred countries. Listings are nomad-style colivings (shared living plus community, usually with coworking), plus a small number of nomad festivals and community chapters, each tagged as such; those without accommodation say so. Student housing and urban rent-by-the-room operators are left out. Every listing links to the operator's own site. Dead links are audited and removed.
 
@@ -13,7 +13,7 @@ Key facts:
 ## Indexes
 - [All countries](/llms-countries.md): every country with counts and lowest price
 - [All colivings](/llms-colivings.md): the full listing index
-- [Reader discounts (117)](/coliving/reader-discounts/index.md)
+- [Reader discounts (116)](/coliving/reader-discounts/index.md)
 - [Nomad festivals (16)](/festivals/index.md)
 - [Pop-ups by month (107)](/pop-ups/index.md)
 - [WiFi Tribe chapters (26)](/brand/wifi-tribe/index.md)

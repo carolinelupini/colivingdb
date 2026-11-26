@@ -1,6 +1,6 @@
 # Coliving in Mondello, Italy
 
-> 1 coliving in Mondello, Italy – last updated November 11, 2026.
+> 1 coliving in Mondello, Italy – last updated November 26, 2026.
 
 ## All colivings
 

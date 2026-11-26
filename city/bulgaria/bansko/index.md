@@ -1,6 +1,6 @@
 # Coliving in Bansko, Bulgaria
 
-> 7 colivings, 1 nomad festival and 1 community chapter in Bansko, Bulgaria, prices from €280 to €850 per month – last updated November 21, 2026.
+> 7 colivings, 1 nomad festival and 1 community chapter in Bansko, Bulgaria, prices from €280 to €850 per month – last updated November 26, 2026.
 
 ## All colivings
 

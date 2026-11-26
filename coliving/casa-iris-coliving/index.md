@@ -1,6 +1,6 @@
 # Casa Iris Coliving
 
-> Coliving in Santiago de Querétaro, Mexico. Last updated November 11, 2026.
+> Coliving in Santiago de Querétaro, Mexico. Last updated November 26, 2026.
 
 - **Location:** Santiago de Querétaro, Mexico
 - **Type:** Permanent coliving

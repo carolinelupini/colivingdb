@@ -1,6 +1,6 @@
 # Coliving in Vila Franca de Xira, Portugal
 
-> 1 coliving in Vila Franca de Xira, Portugal – last updated November 11, 2026.
+> 1 coliving in Vila Franca de Xira, Portugal – last updated November 26, 2026.
 
 ## All colivings
 

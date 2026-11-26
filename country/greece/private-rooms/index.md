@@ -1,6 +1,6 @@
 # Coliving in Greece with private rooms
 
-> 7 of the 9 colivings in Greece offer a private room, cheapest first. Last updated November 11, 2026.
+> 7 of the 9 colivings in Greece offer a private room, cheapest first. Last updated November 26, 2026.
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|

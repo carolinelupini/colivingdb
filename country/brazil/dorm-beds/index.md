@@ -1,6 +1,6 @@
 # Coliving in Brazil with dorm beds
 
-> 5 of the 17 colivings in Brazil offer a dorm bed, usually the cheapest way in, cheapest first. Last updated November 11, 2026.
+> 5 of the 17 colivings in Brazil offer a dorm bed, usually the cheapest way in, cheapest first. Last updated November 26, 2026.
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|

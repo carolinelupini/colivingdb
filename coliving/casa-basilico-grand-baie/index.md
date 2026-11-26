@@ -1,6 +1,6 @@
 # Casa Basilico — Grand Baie
 
-> Coliving in Grand Baie, Mauritius. Last updated November 11, 2026.
+> Coliving in Grand Baie, Mauritius. Last updated November 26, 2026.
 
 - **Location:** Grand Baie, Mauritius
 - **Type:** Pop-up / dated edition

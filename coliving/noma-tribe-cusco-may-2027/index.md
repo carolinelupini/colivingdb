@@ -1,6 +1,6 @@
 # Noma Tribe — Cusco (May 2027)
 
-> Coliving in Cusco, Peru. Last updated November 11, 2026.
+> Coliving in Cusco, Peru. Last updated November 26, 2026.
 
 - **Location:** Cusco, Peru
 - **Type:** Pop-up / dated edition

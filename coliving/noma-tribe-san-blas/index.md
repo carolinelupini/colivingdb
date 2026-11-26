@@ -1,6 +1,6 @@
 # Noma Tribe — San Blas
 
-> Coliving in San Blas, El Salvador. Last updated November 11, 2026.
+> Coliving in San Blas, El Salvador. Last updated November 26, 2026.
 
 - **Location:** San Blas, El Salvador
 - **Type:** Pop-up / dated edition

@@ -1,8 +1,8 @@
 # Pop-up colivings by month
 
-> 107 pop-up colivings (group trips, retreats and seasonal houses that run for a few weeks or months), grouped by the month they start, plus 12 coworking chapters where you book your own bed. Updated November 11, 2026.
+> 107 pop-up colivings (group trips, retreats and seasonal houses that run for a few weeks or months), grouped by the month they start, plus 12 coworking chapters where you book your own bed. Updated November 26, 2026.
 
-## Running now (11)
+## Running now (17)
 
 | Pop-up | Where | Dates | Price from | Rooms | Min stay |
 |---|---|---|---|---|---|
@@ -17,17 +17,17 @@
 | [Noma Collective — Dahab](/coliving/noma-collective-dahab/index.md) (fully booked) | Dahab, Egypt | Nov 1 - Nov 22, 2026 (Alumni Exclusive) | from $1,890/event | — | — |
 | [Noma Collective — Koh Lanta](/coliving/noma-collective-koh-lanta/index.md) (fully booked) | Koh Lanta, Thailand | Nov 1 - Nov 29, 2026 | from $2,790/event | — | — |
 | [Aperanti Agrotourism](/coliving/aperanti-agrotourism/index.md) | Pera Orinis, Cyprus | Nov 8, 2026 - Mar 7, 2027 | from €43/night | private | 15 nights |
-
-## November 2026 (8)
-
-| Pop-up | Where | Dates | Price from | Rooms | Min stay |
-|---|---|---|---|---|---|
 | [The Better Neighbours — Sinaia](/coliving/the-better-neighbours-sinaia/index.md) | Sinaia, Romania | Nov 15 - 29, 2026 (Winter) | from €180/wk | — | — |
 | [WiFi Tribe — Antigua](/coliving/wifi-tribe-antigua/index.md) | Antigua, Guatemala | Nov 20 - Dec 18, 2026 | from $1,490/mo | private, shared | 28 nights |
 | [WiFi Tribe — Bariloche](/coliving/wifi-tribe-bariloche/index.md) | Bariloche, Argentina | Nov 20 - Dec 18, 2026 | from $1,690/mo | private, shared | 28 nights |
 | [WiFi Tribe — Florianópolis](/coliving/wifi-tribe-florianopolis/index.md) | Florianópolis, Brazil | Nov 20 - Dec 18, 2026 | from $1,690/mo | private, shared | 28 nights |
 | [WiFi Tribe — Puerto Escondido](/coliving/wifi-tribe-puerto-escondido/index.md) | Puerto Escondido, Mexico | Nov 20 - Dec 18, 2026 | from $1,690/mo | private, shared | 28 nights |
 | [AfricaNomads — Nairobi (Nov 2026)](/coliving/africanomads-nairobi-nov-2026/index.md) | Nairobi, Kenya | Nov 22 - Dec 13, 2026 | from $1,760/mo | private | — |
+
+## November 2026 (2)
+
+| Pop-up | Where | Dates | Price from | Rooms | Min stay |
+|---|---|---|---|---|---|
 | [Noma Collective — Placencia (Nov 2026)](/coliving/noma-collective-placencia-nov-2026/index.md) | Placencia, Belize | Nov 29 - Dec 20, 2026 | from $3,090/event | — | — |
 | [Noma Collective — Sao Vicente](/coliving/noma-collective-sao-vicente/index.md) (fully booked) | Sao Vicente, Cape Verde | Nov 29 - Dec 20, 2026 | from $2,290/event | — | — |
 

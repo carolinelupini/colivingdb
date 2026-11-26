@@ -1,6 +1,6 @@
 # Coliving in Sojuela, Spain
 
-> 1 coliving in Sojuela, Spain – last updated November 11, 2026.
+> 1 coliving in Sojuela, Spain – last updated November 26, 2026.
 
 ## All colivings
 

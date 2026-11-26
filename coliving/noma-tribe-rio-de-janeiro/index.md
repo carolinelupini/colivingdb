@@ -1,6 +1,6 @@
 # Noma Tribe — Rio de Janeiro
 
-> Coliving in Rio de Janeiro, Brazil. Last updated November 11, 2026.
+> Coliving in Rio de Janeiro, Brazil. Last updated November 26, 2026.
 
 - **Location:** Rio de Janeiro, Brazil
 - **Type:** Pop-up / dated edition

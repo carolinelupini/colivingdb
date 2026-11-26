@@ -1,6 +1,6 @@
 # Noma Tribe — Mérida
 
-> Coliving in Mérida, Mexico. Last updated November 11, 2026.
+> Coliving in Mérida, Mexico. Last updated November 26, 2026.
 
 - **Location:** Mérida, Mexico
 - **Type:** Pop-up / dated edition

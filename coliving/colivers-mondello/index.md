@@ -1,6 +1,6 @@
 # CoLivers — Mondello
 
-> Coliving in Mondello, Italy. Last updated November 11, 2026.
+> Coliving in Mondello, Italy. Last updated November 26, 2026.
 
 - **Location:** Mondello, Italy
 - **Type:** Pop-up / dated edition

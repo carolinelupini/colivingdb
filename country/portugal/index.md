@@ -1,6 +1,6 @@
 # Coliving in Portugal
 
-> 60 colivings and 1 nomad festival in Portugal, prices from €300 to €2,160 per month – last updated November 11, 2026.
+> 60 colivings and 1 nomad festival in Portugal, prices from €300 to €2,160 per month – last updated November 26, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # Coliving in Amsterdam, Netherlands
 
-> 1 coliving in Amsterdam, Netherlands, prices from €1,700 to €1,700 per month – last updated November 11, 2026.
+> 1 coliving in Amsterdam, Netherlands, prices from €1,700 to €1,700 per month – last updated November 26, 2026.
 
 ## All colivings
 

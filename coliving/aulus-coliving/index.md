@@ -1,6 +1,6 @@
 # Aulus Coliving
 
-> Coliving in Aulus-les-Bains, France. Last updated November 11, 2026.
+> Coliving in Aulus-les-Bains, France. Last updated November 26, 2026.
 
 - **Location:** Aulus-les-Bains, France
 - **Type:** Permanent coliving

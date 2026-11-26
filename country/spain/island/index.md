@@ -1,6 +1,6 @@
 # Island coliving in Spain
 
-> 35 of the 99 colivings in Spain are on islands, cheapest first. Last updated November 11, 2026.
+> 35 of the 99 colivings in Spain are on islands, cheapest first. Last updated November 26, 2026.
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|

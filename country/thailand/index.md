@@ -1,6 +1,6 @@
 # Coliving in Thailand
 
-> 21 colivings and 1 nomad festival in Thailand, prices from €249 to €1,427 per month – last updated November 11, 2026.
+> 21 colivings and 1 nomad festival in Thailand, prices from €249 to €1,427 per month – last updated November 26, 2026.
 
 ## All colivings
 

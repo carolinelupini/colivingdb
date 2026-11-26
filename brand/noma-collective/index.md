@@ -1,6 +1,6 @@
 # Noma Collective editions 2026–2027
 
-> 23 upcoming Noma Collective editions in 15 countries, sorted by date. Updated November 11, 2026.
+> 23 upcoming Noma Collective editions in 15 countries, sorted by date. Updated November 26, 2026.
 
 | Edition | Where | Dates | Price from |
 |---|---|---|---|

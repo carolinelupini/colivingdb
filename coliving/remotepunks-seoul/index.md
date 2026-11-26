@@ -1,6 +1,6 @@
 # RemotePunks — Seoul
 
-> Coliving in Seoul, South Korea. Last updated November 11, 2026.
+> Coliving in Seoul, South Korea. Last updated November 26, 2026.
 
 - **Location:** Seoul, South Korea
 - **Type:** Pop-up / dated edition

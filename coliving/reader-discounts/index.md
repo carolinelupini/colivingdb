@@ -1,6 +1,6 @@
 # Colivings with a reader discount
 
-> 116 colivings and 1 festival from 21 operators give colivingDB readers a discount. The codes go out by email only: subscribe and they arrive in your welcome email. Last updated November 11, 2026.
+> 116 colivings from 20 operators give colivingDB readers a discount. The codes go out by email only: subscribe and they arrive in your welcome email. Last updated November 26, 2026.
 
 | Coliving | City | Country | Price from |
 |---|---|---|---|
@@ -120,7 +120,6 @@
 | [Nomadico Coliving Buenos Aires](/coliving/nomadico-coliving-buenos-aires/index.md) | Buenos Aires (Palermo) | Argentina | from $740/mo |
 | [Casa Basilico — Grand Baie](/coliving/casa-basilico-grand-baie/index.md) | Grand Baie | Mauritius | from €2,247/mo |
 | [Nomadico Coliving Koh Samui](/coliving/nomadico-coliving-koh-samui/index.md) | Lamai, Koh Samui | Thailand | from THB 29,875/mo |
-| [Founder Island Fest 2026](/coliving/founder-island-fest-2026/index.md) | Madeira | Portugal | from €1,495/event |
 
 Get the codes: subscribe at https://colivingdb.com/#signupbox
 Source: https://colivingdb.com/coliving/reader-discounts/

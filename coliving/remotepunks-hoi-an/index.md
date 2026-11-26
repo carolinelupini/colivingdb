@@ -1,6 +1,6 @@
 # RemotePunks — Hội An
 
-> Coliving in Hội An, Vietnam. Last updated November 11, 2026.
+> Coliving in Hội An, Vietnam. Last updated November 26, 2026.
 
 - **Location:** Hội An, Vietnam
 - **Type:** Pop-up / dated edition

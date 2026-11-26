@@ -1,6 +1,6 @@
 # Coliving in Rio de Janeiro, Brazil
 
-> 2 colivings in Rio de Janeiro, Brazil, prices from €435 to €435 per month – last updated November 11, 2026.
+> 2 colivings in Rio de Janeiro, Brazil, prices from €435 to €435 per month – last updated November 26, 2026.
 
 ## All colivings
 

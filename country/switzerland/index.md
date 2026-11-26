@@ -1,6 +1,6 @@
 # Coliving in Switzerland
 
-> 13 colivings and 1 nomad festival in Switzerland, prices from €500 to €2,196 per month – last updated November 11, 2026.
+> 13 colivings and 1 nomad festival in Switzerland, prices from €500 to €2,196 per month – last updated November 26, 2026.
 
 ## All colivings
 

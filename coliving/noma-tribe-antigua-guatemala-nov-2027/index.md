@@ -1,6 +1,6 @@
 # Noma Tribe — Antigua Guatemala (Nov 2027)
 
-> Coliving in Antigua Guatemala, Guatemala. Last updated November 11, 2026.
+> Coliving in Antigua Guatemala, Guatemala. Last updated November 26, 2026.
 
 - **Location:** Antigua Guatemala, Guatemala
 - **Type:** Pop-up / dated edition

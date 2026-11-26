@@ -1,6 +1,6 @@
 # CoLivers — Gudauri
 
-> Coliving in Gudauri, Georgia. Last updated November 11, 2026.
+> Coliving in Gudauri, Georgia. Last updated November 26, 2026.
 
 - **Location:** Gudauri, Georgia
 - **Type:** Pop-up / dated edition

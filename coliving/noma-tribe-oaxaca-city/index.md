@@ -1,6 +1,6 @@
 # Noma Tribe — Oaxaca City
 
-> Coliving in Oaxaca City, Mexico. Last updated November 11, 2026.
+> Coliving in Oaxaca City, Mexico. Last updated November 26, 2026.
 
 - **Location:** Oaxaca City, Mexico
 - **Type:** Pop-up / dated edition

@@ -1,6 +1,6 @@
 # Coliving in Ecuador
 
-> 4 colivings and 1 community chapter in Ecuador, prices from €310 to €1,284 per month – last updated November 11, 2026.
+> 4 colivings and 1 community chapter in Ecuador, prices from €310 to €1,284 per month – last updated November 26, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # AfricaNomads chapters 2026–2027
 
-> 17 upcoming AfricaNomads chapters in 7 countries, sorted by date. Updated November 11, 2026.
+> 17 upcoming AfricaNomads chapters in 7 countries, sorted by date. Updated November 26, 2026.
 
 | Chapter | Where | Dates | Price from |
 |---|---|---|---|

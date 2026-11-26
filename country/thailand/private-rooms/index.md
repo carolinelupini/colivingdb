@@ -1,6 +1,6 @@
 # Coliving in Thailand with private rooms
 
-> 17 of the 21 colivings in Thailand offer a private room, cheapest first. Last updated November 11, 2026.
+> 17 of the 21 colivings in Thailand offer a private room, cheapest first. Last updated November 26, 2026.
 
 | Coliving | City | Price from | Rooms | Min stay | Type |
 |---|---|---|---|---|---|

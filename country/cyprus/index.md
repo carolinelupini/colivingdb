@@ -1,6 +1,6 @@
 # Coliving in Cyprus
 
-> 4 colivings in Cyprus, prices from €1,160 to €1,160 per month – last updated November 11, 2026.
+> 4 colivings in Cyprus, prices from €1,160 to €1,160 per month – last updated November 26, 2026.
 
 ## All colivings
 

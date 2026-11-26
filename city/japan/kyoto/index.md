@@ -1,6 +1,6 @@
 # Coliving in Kyoto, Japan
 
-> 3 colivings in Kyoto, Japan, prices from €1,868 to €1,868 per month – last updated November 11, 2026.
+> 3 colivings in Kyoto, Japan, prices from €1,868 to €1,868 per month – last updated November 26, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # The Santaros (Santaros Hub)
 
-> Coliving in Vilnius, Lithuania. Last updated November 11, 2026.
+> Coliving in Vilnius, Lithuania. Last updated November 26, 2026.
 
 - **Location:** Vilnius, Lithuania
 - **Type:** Permanent coliving

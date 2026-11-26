@@ -683,6 +683,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
   }
   *{box-sizing:border-box; margin:0; padding:0;}
   html,body{max-width:100%; overflow-x:hidden;}   
+  html{scrollbar-gutter:stable;}   
   body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif; color:var(--ink); background:var(--bg);}
   a{color:var(--accent);}
 
@@ -808,9 +809,9 @@ svg.leaflet-image-layer.leaflet-interactive path {
   #ckAccept{background:#0e7c66; color:#fff; border:none; font-weight:600;}
   #ckDecline{background:transparent; color:#cdd8d3; border:1px solid #4a7d6e;}
 
-  #detailPanel{position:fixed; inset:0; z-index:2200; display:none;}
+  #detailPanel{position:fixed; inset:0; z-index:2200; display:none; contain:layout paint;}   
   #detailPanel.open{display:block;}
-  .dp-backdrop{position:absolute; inset:0; background:rgba(20,30,50,.45);}
+  .dp-backdrop{position:absolute; inset:0; background:rgba(20,30,50,.45); overscroll-behavior:contain; touch-action:none;}
   .dp-panel{position:absolute; top:0; right:0; bottom:0; width:min(780px,92vw); background:var(--card);
     box-shadow:-14px 0 44px rgba(0,0,0,.28); display:flex; flex-direction:column; animation:dpIn .2s ease;}
   @keyframes dpIn{from{transform:translateX(48px); opacity:.4;} to{transform:none; opacity:1;}}
@@ -848,7 +849,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
   .list-head .hsort.desc .ar::after{content:" ↓"; opacity:1;}
   .list-head .r-link{min-width:64px;}
   #rows{display:flex; flex-direction:column; gap:8px; scroll-margin-top:72px;}
-  .row{padding:13px 18px; cursor:default; background:var(--card); border:1px solid var(--line); border-radius:10px; transition:border-color .12s, box-shadow .12s;}
+  .row{content-visibility:auto; contain-intrinsic-size:auto 62px; padding:13px 18px; cursor:default; background:var(--card); border:1px solid var(--line); border-radius:10px; transition:border-color .12s, box-shadow .12s;}
   .row.clickable{cursor:pointer;}
   .row:hover{border-color:var(--accent); box-shadow:0 2px 10px rgba(20,40,80,.06);}
   .row.hl{border-color:var(--accent); box-shadow:0 0 0 2px var(--accent-soft);}
@@ -1108,7 +1109,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
 </div>
 
 <nav class="seolinks" aria-label="Browse colivings by country">
-<span class="seo-h">Coliving by region</span><a href="/region/europe/">Coliving in Europe (311)</a><a href="/region/latin-america/">Coliving in Latin America (132)</a><a href="/region/asia/">Coliving in Asia (127)</a><a href="/region/africa/">Coliving in Africa (68)</a><a href="/region/north-america/">Coliving in North America (24)</a><a href="/region/oceania/">Coliving in Oceania (12)</a><span class="seo-h">Coliving by country</span><a href="/country/spain/">Coliving in Spain (101)</a><a href="/country/portugal/">Coliving in Portugal (61)</a><a href="/country/mexico/">Coliving in Mexico (31)</a><a href="/country/italy/">Coliving in Italy (28)</a><a href="/country/south-africa/">Coliving in South Africa (26)</a><a href="/country/colombia/">Coliving in Colombia (22)</a><a href="/country/indonesia/">Coliving in Indonesia (22)</a><a href="/country/thailand/">Coliving in Thailand (22)</a><a href="/country/united-states/">Coliving in United States (22)</a><a href="/country/brazil/">Coliving in Brazil (18)</a><a href="/country/france/">Coliving in France (17)</a><a href="/country/sri-lanka/">Coliving in Sri Lanka (14)</a><a href="/countries/"><b>All 88 countries →</b></a><span class="seo-h">Browse</span><a href="/coliving/reader-discounts/">Reader discounts (117)</a><a href="/festivals/">Nomad festivals (16)</a><a href="/pop-ups/">Pop-ups by month (107)</a><a href="/brand/wifi-tribe/">WiFi Tribe chapters (26)</a><a href="/brand/africanomads/">AfricaNomads chapters (17)</a><a href="/brand/noma-collective/">Noma Collective editions (23)</a><a href="/brand/pangea/">Pangea coworking chapters (11)</a><a href="/brand/boundless-life/">Boundless Life locations (7)</a><a href="/coliving/beach/">Beach colivings (173)</a><a href="/coliving/surf/">Surf colivings (102)</a><a href="/coliving/island/">Island colivings (80)</a><a href="/coliving/mountain/">Mountain colivings (73)</a>
+<span class="seo-h">Coliving by region</span><a href="/region/europe/">Coliving in Europe (311)</a><a href="/region/latin-america/">Coliving in Latin America (132)</a><a href="/region/asia/">Coliving in Asia (127)</a><a href="/region/africa/">Coliving in Africa (68)</a><a href="/region/north-america/">Coliving in North America (24)</a><a href="/region/oceania/">Coliving in Oceania (12)</a><span class="seo-h">Coliving by country</span><a href="/country/spain/">Coliving in Spain (101)</a><a href="/country/portugal/">Coliving in Portugal (61)</a><a href="/country/mexico/">Coliving in Mexico (31)</a><a href="/country/italy/">Coliving in Italy (28)</a><a href="/country/south-africa/">Coliving in South Africa (26)</a><a href="/country/colombia/">Coliving in Colombia (22)</a><a href="/country/indonesia/">Coliving in Indonesia (22)</a><a href="/country/thailand/">Coliving in Thailand (22)</a><a href="/country/united-states/">Coliving in United States (22)</a><a href="/country/brazil/">Coliving in Brazil (18)</a><a href="/country/france/">Coliving in France (17)</a><a href="/country/sri-lanka/">Coliving in Sri Lanka (14)</a><a href="/countries/"><b>All 88 countries →</b></a><span class="seo-h">Browse</span><a href="/coliving/reader-discounts/">Reader discounts (116)</a><a href="/festivals/">Nomad festivals (16)</a><a href="/pop-ups/">Pop-ups by month (107)</a><a href="/brand/wifi-tribe/">WiFi Tribe chapters (26)</a><a href="/brand/africanomads/">AfricaNomads chapters (17)</a><a href="/brand/noma-collective/">Noma Collective editions (23)</a><a href="/brand/pangea/">Pangea coworking chapters (11)</a><a href="/brand/boundless-life/">Boundless Life locations (7)</a><a href="/coliving/beach/">Beach colivings (173)</a><a href="/coliving/surf/">Surf colivings (102)</a><a href="/coliving/island/">Island colivings (80)</a><a href="/coliving/mountain/">Mountain colivings (73)</a>
 </nav>
 
 <footer class="sitefoot">
@@ -1777,25 +1778,34 @@ cmpModal.querySelector(".modal-close").onclick=()=>cmpModal.style.display="none"
 cmpModal.querySelector(".modal-backdrop").onclick=()=>cmpModal.style.display="none";
 document.addEventListener("keydown",e=>{ if(e.key==="Escape" && cmpModal.style.display==="flex") cmpModal.style.display="none"; });
 
-const dpEl=document.getElementById("detailPanel"), dpFrame=document.getElementById("dpFrame");
+const dpEl=document.getElementById("detailPanel");
+let dpFrame=document.getElementById("dpFrame");
+function dpNewFrame(src){
+  const f=document.createElement("iframe"); f.className="dp-frame"; f.id="dpFrame"; f.title="Coliving details";
+  if(src) f.src=src; dpFrame.replaceWith(f); dpFrame=f;
+}
 const dpDesktop=()=>window.matchMedia("(min-width: 900px)").matches;
 let dpIsOpen=false;
 function openPanel(url){
-  dpFrame.src=url+(url.includes("?")?"&":"?")+"embed=1";
+  dpNewFrame(url+(url.includes("?")?"&":"?")+"embed=1");
   document.getElementById("dpOpenFull").href=url;
   dpEl.classList.add("open"); dpEl.setAttribute("aria-hidden","false");
-  dpIsOpen=true; document.body.style.overflow="hidden";
+  dpIsOpen=true;
   history.pushState({dp:url},"",url);
 }
 function closePanel(viaPop){
   dpEl.classList.remove("open"); dpEl.setAttribute("aria-hidden","true");
-  dpIsOpen=false; document.body.style.overflow="";
-  dpFrame.src="about:blank";
+  dpIsOpen=false;
+  dpNewFrame();
   if(!viaPop) history.back();
 }
 document.getElementById("dpClose").onclick=()=>closePanel(false);
 dpEl.querySelector(".dp-backdrop").onclick=()=>closePanel(false);
 document.addEventListener("keydown",e=>{ if(e.key==="Escape"&&dpIsOpen) closePanel(false); });
+const dpNoScroll=e=>{ if(dpIsOpen) e.preventDefault(); };
+dpEl.addEventListener("wheel",dpNoScroll,{passive:false});
+dpEl.addEventListener("touchmove",dpNoScroll,{passive:false});
+document.addEventListener("keydown",e=>{ if(dpIsOpen && [" ","PageUp","PageDown","Home","End","ArrowUp","ArrowDown"].includes(e.key) && !/^(INPUT|TEXTAREA|SELECT|BUTTON)$/.test(e.target.tagName)) e.preventDefault(); });
 window.addEventListener("popstate",()=>{ if(dpIsOpen) closePanel(true); });
 document.addEventListener("click",e=>{
   const a=e.target.closest('a[href^="/coliving/"]');

@@ -1,6 +1,6 @@
 # Hello Mira — Bali
 
-> Coliving in Bali, Indonesia. Last updated November 11, 2026.
+> Coliving in Bali, Indonesia. Last updated November 26, 2026.
 
 - **Location:** Bali, Indonesia
 - **Type:** Permanent coliving

@@ -1,6 +1,6 @@
 # Coliving in Kamala, Thailand
 
-> 1 coliving in Kamala, Thailand – last updated November 11, 2026.
+> 1 coliving in Kamala, Thailand – last updated November 26, 2026.
 
 ## All colivings
 

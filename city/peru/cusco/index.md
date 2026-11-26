@@ -1,6 +1,6 @@
 # Coliving in Cusco, Peru
 
-> 2 colivings in Cusco, Peru – last updated November 11, 2026.
+> 2 colivings in Cusco, Peru – last updated November 26, 2026.
 
 ## All colivings
 

@@ -1,6 +1,6 @@
 # WiFi Tribe chapters 2026–2027
 
-> 26 upcoming WiFi Tribe chapters in 20 countries, sorted by date. Updated November 11, 2026.
+> 26 upcoming WiFi Tribe chapters in 20 countries, sorted by date. Updated November 26, 2026.
 
 | Chapter | Where | Dates | Price from |
 |---|---|---|---|
